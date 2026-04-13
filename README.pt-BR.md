@@ -1,42 +1,42 @@
 # Awesome Curated
 
-<p align="center"><sub>Read in other languages: **🇬🇧 English** · [🇪🇸 Español](README.es.md) · [🇧🇷 Português (BR)](README.pt-BR.md) · [🇨🇳 中文](README.zh-CN.md) · [🇯🇵 日本語](README.ja.md)</sub></p>
+<p align="center"><sub>Ler em outros idiomas: [🇬🇧 English](README.md) · [🇪🇸 Español](README.es.md) · **🇧🇷 Português (BR)** · [🇨🇳 中文](README.zh-CN.md) · [🇯🇵 日本語](README.ja.md)</sub></p>
 
-> **Auto-curated list** of development tools. Weekly harvest of active `awesome-*` repos on GitHub, deduplicated cross-source, classified by AI + human veto.
+> Lista **auto-curada** de ferramentas de desenvolvimento. Coleta semanal de repos `awesome-*` ativos no GitHub, deduplicado cross-source, classificado por IA + veredito humano.
 
-**Last automatic sync:** 2026-04-13
+**Última sincronização automática:** 2026-04-13
 
 ---
 
-## 📊 Metrics
+## 📊 Métricas
 
-| What | Amount |
+| O quê | Quanto |
 |---|---|
-| Active sources (ROSTER + BENCH) | **20** |
-| Total items scraped | **28,417** |
-| Tools with cross-awesome signal (x≥2) | **1,479** |
-| ⭐ GEMs (industry standards) | **200** |
-| 👍 Worth trying | **335** |
+| Fontes ativas (ROSTER + BENCH) | **20** |
+| Total de items coletados | **28,417** |
+| Ferramentas com sinal cross-awesome (x≥2) | **1,479** |
+| ⭐ GEMs (padrões da indústria) | **200** |
+| 👍 Vale a pena testar | **335** |
 
 ---
 
-## 🎯 How it's curated
+## 🎯 Como foi curado
 
-1. **Discovery**: GitHub API (GraphQL batched) detects `awesome-*` repos actively maintained.
-2. **Multi-dimensional scoring**: freshness, activity, popularity, depth, and community health weighted into a single score.
-3. **Cross-source dedupe**: items appearing in 2+ awesomes are grouped into a single `CuratedTool`. `appearsInCount` is our consensus signal.
-4. **AI classification**: Claude (Anthropic) assigns `GEM | WORTH_TRYING | MEH | HYPE | DEAD` with per-item reasoning.
-5. **Human verdict**: a human curator confirms or overrides AI suggestions. Tools marked 👤 have human verdict.
+1. **Discovery**: GitHub API (GraphQL batched) detecta repos `awesome-*` mantidos ativamente.
+2. **Pontuação multidimensional**: freshness, atividade, popularidade, profundidade e saúde da comunidade ponderadas num único score.
+3. **Dedupe cross-source**: items que aparecem em 2+ awesomes se agrupam em um único `CuratedTool`. `appearsInCount` é o sinal de consenso.
+4. **Classificação IA**: Claude (Anthropic) atribui `GEM | WORTH_TRYING | MEH | HYPE | DEAD` com raciocínio por item.
+5. **Veredito humano**: um curador humano confirma ou sobrescreve as sugestões da IA. Ferramentas com 👤 têm veredito humano.
 
-More technical detail → [Blog series on juanchi.dev](https://juanchi.dev/blog/series/awesome-curated)
+Mais detalhes técnicos → [Série no blog juanchi.dev](https://juanchi.dev/blog/series/awesome-curated)
 
 ---
 
-## ⭐ GEMs — industry standards
-Tools the community considers default. If you don't know them yet, they're worth exploring.
+## ⭐ GEMs — padrões da indústria
+Ferramentas que a comunidade considera default. Se você não conhece, vale explorar.
 
 ### AI Framework
-- **[Vercel AI](https://github.com/vercel/ai)** — - Vercel AI is a TypeScript toolkit designed to help you build AI-powered applications using popular frameworks like Next.js, React, Svelte, Vue and runtimes like Node.js. — appears in 3 lists · `typescript` `nextjs` `react` `llm-integration`
+- **[Vercel AI](https://github.com/vercel/ai)** — - Vercel AI is a TypeScript toolkit designed to help you build AI-powered applications using popular frameworks like Next.js, React, Svelte, Vue and runtimes like Node.js. — aparece em 3 listas · `typescript` `nextjs` `react` `llm-integration`
 
 ### API Code Generation
 - **[OpenAPI Generator](https://github.com/openapitools/openapi-generator)** — OpenAPI Generator allows generation of API client libraries (e.g. C#, TypeScript, etc), server stubs (ASP.NET Core, NancyFx, etc), documentation and configuration automatically given an OpenAPI… · `openapi` `codegen` `api` `documentation`
@@ -73,8 +73,8 @@ Tools the community considers default. If you don't know them yet, they're worth
 - **[BorgBackup](https://github.com/borgbackup/borg)** — _(label: easy)_ <br> Deduplicating backup program with compression and authenticated encryption. · `backup` `deduplication` `encryption` `python`
 
 ### C++
-- **[TensorFlow](https://github.com/tensorflow/tensorflow)** — - TensorFlow is a leading library designed for developing and deploying state-of-the-art machine learning applications. — 🔥 appears in 6 lists · `machine-learning` `deep-learning` `python` `c++`
-- **[LightGBM](https://github.com/microsoft/lightgbm)** — Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine… — appears in 3 lists · `machine-learning` `gradient-boosting` `distributed` `python`
+- **[TensorFlow](https://github.com/tensorflow/tensorflow)** — - TensorFlow is a leading library designed for developing and deploying state-of-the-art machine learning applications. — 🔥 aparece em 6 listas · `machine-learning` `deep-learning` `python` `c++`
+- **[LightGBM](https://github.com/microsoft/lightgbm)** — Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine… — aparece em 3 listas · `machine-learning` `gradient-boosting` `distributed` `python`
 
 ### CI/CD Pipeline
 - **[GitLab CI](https://about.gitlab.com/solutions/continuous-integration)** — Gitlab's built-in, full-featured CI/CD solution. · `cicd` `gitlab` `devops` `pipelines`
@@ -156,8 +156,8 @@ Tools the community considers default. If you don't know them yet, they're worth
 - **[dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)** — Project banner, super clear description (friendly to people brand new to the product), screenshot of the docs the tool generates, and concise links to other comprehensive pages explaining Getting… · `data-engineering` `sql` `python` `analytics`
 
 ### Data Visualization
-- **[matplotlib](https://github.com/matplotlib/matplotlib)** — - A Python 2D plotting library which produces publication-quality figures in a variety of hardcopy formats and interactive environments across platforms. — appears in 3 lists · `feature-engineering` `python` `sklearn` `ml`
-- **[Streamlit](https://github.com/streamlit/streamlit)** — - Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts. It supports hot-reloading, so your app updates live as you edit and save your file. — appears in 3 lists · `python` `web-framework` `ml-apps` `rapid-prototyping`
+- **[matplotlib](https://github.com/matplotlib/matplotlib)** — - A Python 2D plotting library which produces publication-quality figures in a variety of hardcopy formats and interactive environments across platforms. — aparece em 3 listas · `feature-engineering` `python` `sklearn` `ml`
+- **[Streamlit](https://github.com/streamlit/streamlit)** — - Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts. It supports hot-reloading, so your app updates live as you edit and save your file. — aparece em 3 listas · `python` `web-framework` `ml-apps` `rapid-prototyping`
 - **[Apache ECharts](https://github.com/apache/echarts)** — - Apache ECharts is a powerful, interactive charting and data visualization library for browser. · `dataviz` `javascript` `interactive` `charts`
 - **[Chart.js](https://chartjs.org)** — a javascript library that allows you to create charts easly · `javascript` `charts` `visualization` `canvas`
 - **[Plotly](https://github.com/plotly/plotly.py)** — - An interactive, open source, and browser-based graphing library for Python. · `data-visualization` `python` `interactive` `web-based`
@@ -168,7 +168,7 @@ Tools the community considers default. If you don't know them yet, they're worth
 - **[pgcli](https://github.com/dbcli/pgcli)** — Postgres client with autocompletion and syntax highlighting. · `cli` `postgres` `python` `repl`
 
 ### Deep Learning
-- **[Stable Baselines](https://github.com/dlr-rm/stable-baselines3)** — - A fork of OpenAI Baselines, implementations of reinforcement learning algorithms. — appears in 3 lists · `reinforcement-learning` `python` `pytorch` `tensorflow`
+- **[Stable Baselines](https://github.com/dlr-rm/stable-baselines3)** — - A fork of OpenAI Baselines, implementations of reinforcement learning algorithms. — aparece em 3 listas · `reinforcement-learning` `python` `pytorch` `tensorflow`
 
 ### Deep Learning Library
 - **[oneDNN](https://github.com/oneapi-src/onednn)** — An open-source cross-platform performance library for deep learning applications. [Apache] [website](https://01.org/onednn) · `deep-learning` `cpp` `cpu-optimization` `gpu`
@@ -180,18 +180,18 @@ Tools the community considers default. If you don't know them yet, they're worth
 - **[GTK+](https://gtk.org)** — A multi-platform toolkit for creating graphical user interfaces. [LGPL] · `gui` `gtk` `cross-platform` `linux`
 
 ### Developer Tools
-- **[Docker](https://docker.com)** — Powerful, performs operating-system-level virtualization. [![Open-Source Software][OSS Icon]](https://github.com/docker) ![Freeware][Freeware Icon] [![Awesome List][awesome-list… — appears in 4 lists · `containers` `devops` `virtualization`
-- **[mitmproxy](https://mitmproxy.org)** — A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems. — appears in 3 lists · `python` `proxy` `debugging` `security`
-- **[Wireshark](https://wireshark.org)** — The world’s foremost and widely-used network protocol analyzer. [![Open-Source Software][OSS Icon]](https://github.com/wireshark/wireshark) ![Freeware][Freeware Icon] — appears in 3 lists · `network` `pcap` `wireshark` `cli-gui`
+- **[Docker](https://docker.com)** — Powerful, performs operating-system-level virtualization. [![Open-Source Software][OSS Icon]](https://github.com/docker) ![Freeware][Freeware Icon] [![Awesome List][awesome-list… — aparece em 4 listas · `containers` `devops` `virtualization`
+- **[mitmproxy](https://mitmproxy.org)** — A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems. — aparece em 3 listas · `python` `proxy` `debugging` `security`
+- **[Wireshark](https://wireshark.org)** — The world’s foremost and widely-used network protocol analyzer. [![Open-Source Software][OSS Icon]](https://github.com/wireshark/wireshark) ![Freeware][Freeware Icon] — aparece em 3 listas · `network` `pcap` `wireshark` `cli-gui`
 
 ### Development Tools
-- **[Visual Studio Code](https://code.visualstudio.com)** — Microsoft's free & open-source editor, TypeScript friendly, [VSCode Plugins](editor-plugin.md#vscode-plugin). [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode)… — appears in 4 lists · `editor` `typescript` `vscode-plugins`
+- **[Visual Studio Code](https://code.visualstudio.com)** — Microsoft's free & open-source editor, TypeScript friendly, [VSCode Plugins](editor-plugin.md#vscode-plugin). [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode)… — aparece em 4 listas · `editor` `typescript` `vscode-plugins`
 
 ### Disk Analysis
 - **[dust](https://github.com/bootandy/dust)** — A more intuitive version of `du` in Rust. · `rust` `cli` `disk-analysis` `unix-tool`
 
 ### Distributed Computing
-- **[RLlib](https://github.com/ray-project/ray)** — RLlib is an industry level, highly scalable RL library for tf and torch, based on Ray. It's used by companies like Amazon and Microsoft to solve real-world decision making problems at scale. — appears in 3 lists · `reinforcement-learning` `ray` `python` `distributed`
+- **[RLlib](https://github.com/ray-project/ray)** — RLlib is an industry level, highly scalable RL library for tf and torch, based on Ray. It's used by companies like Amazon and Microsoft to solve real-world decision making problems at scale. — aparece em 3 listas · `reinforcement-learning` `ray` `python` `distributed`
 
 ### Distributed Data Processing
 - **[Dask](https://github.com/dask/dask)** — - Distributed parallel processing framework for Pandas and NumPy computations. · `python` `distributed-computing` `pandas` `numpy`
@@ -209,7 +209,7 @@ Tools the community considers default. If you don't know them yet, they're worth
 - **[etcd](https://github.com/etcd-io/etcd)** — Distributed reliable key-value store for the most critical data of a distributed system by [etcd-io](https://github.com/etcd-io) (former part of CoreOS). · `distributed` `key-value` `go` `consensus`
 
 ### Distributed Systems
-- **[ZooKeeper](https://zookeeper.apache.org)** — ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services. — appears in 3 lists · `java` `distributed-coordination` `apache` `consensus`
+- **[ZooKeeper](https://zookeeper.apache.org)** — ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services. — aparece em 3 listas · `java` `distributed-coordination` `apache` `consensus`
 
 ### Docker SDK
 - **[Docker.DotNet](https://github.com/microsoft/docker.dotnet)** — C#/.NET HTTP client for the Docker remote API. · `csharp` `dotnet` `docker-api` `client-library`
@@ -251,8 +251,8 @@ Tools the community considers default. If you don't know them yet, they're worth
 - **[OpenStreetMap](https://openstreetmap.org)** — Collaborative project to create a free editable map of the world. ) · `geospatial` `osm` `collaborative` `maps`
 
 ### Go
-- **[Kubernetes](https://github.com/kubernetes/kubernetes)** — _(label: good first issue)_ <br> Production-Grade Container Scheduling and Management System — appears in 3 lists · `kubernetes` `container-orchestration` `go` `distributed-systems`
-- **[Moby](https://github.com/moby/moby)** — Collaborative project for the container ecosystem to assemble container-based systems. — appears in 3 lists · `go` `containers` `docker` `open-source`
+- **[Kubernetes](https://github.com/kubernetes/kubernetes)** — _(label: good first issue)_ <br> Production-Grade Container Scheduling and Management System — aparece em 3 listas · `kubernetes` `container-orchestration` `go` `distributed-systems`
+- **[Moby](https://github.com/moby/moby)** — Collaborative project for the container ecosystem to assemble container-based systems. — aparece em 3 listas · `go` `containers` `docker` `open-source`
 
 ### GraphQL Engine
 - **[Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)** — _(label: good first issue)_ <br> Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events. · `haskell` `graphql` `postgres` `realtime`
@@ -295,25 +295,25 @@ Tools the community considers default. If you don't know them yet, they're worth
 - **[Gradle](https://gradle.org)** — Incremental builds programmed via Groovy instead of declaring XML. Works well with Maven's dependency management. · `java` `build-automation` `groovy` `incremental`
 
 ### JavaScript
-- **[Jest](https://github.com/facebook/jest)** — _(label: good first issue)_ <br> A complete and easy to set up JavaScript testing solution. — 🔥 appears in 5 lists · `testing` `javascript` `typescript` `mocking`
-- **[Next.js](https://github.com/vercel/next.js)** — _(label: good first issue)_ <br> A minimalistic framework for universal server-rendered React applications — 🔥 appears in 5 lists · `react` `ssr` `typescript` `full-stack`
-- **[Netron](https://github.com/lutzroeder/netron)** — - Netron is a viewer for neural network, deep learning and machine learning models. — appears in 4 lists · `neural-networks` `visualization` `ml-models`
-- **[Vite](https://github.com/vitejs/vite)** — _(label: good first issue)_ <br> Next generation frontend tooling. It's fast! Alternative to Create React App — appears in 4 lists · `build-tool` `frontend` `javascript` `typescript`
-- **[Babel](https://github.com/babel/babel)** — _(label: good first issue)_ <br> A compiler for writing next generation JavaScript. — appears in 3 lists · `javascript` `transpiler` `babel` `ast`
-- **[D3js](https://d3js.org)** — is a powerful data visualization javascript library. — appears in 3 lists · `javascript` `visualization` `svg` `data-driven`
-- **[ESLint](https://github.com/eslint/eslint)** — _(label: good first issue)_ <br> A fully pluggable tool for identifying and reporting on patterns in JavaScript. — appears in 3 lists · `javascript` `linting` `eslint` `typescript`
-- **[React Native](https://github.com/facebook/react-native)** — _(label: Good-first-issue)_ <br> A framework for building native apps with React. — appears in 3 lists · `javascript` `react` `mobile` `cross-platform`
-- **[Vue.js](https://github.com/vuejs/vue)** — _(label: good first issue)_ <br> The Progressive JavaScript Framework. — appears in 3 lists · `javascript` `vue` `spa` `frontend`
+- **[Jest](https://github.com/facebook/jest)** — _(label: good first issue)_ <br> A complete and easy to set up JavaScript testing solution. — 🔥 aparece em 5 listas · `testing` `javascript` `typescript` `mocking`
+- **[Next.js](https://github.com/vercel/next.js)** — _(label: good first issue)_ <br> A minimalistic framework for universal server-rendered React applications — 🔥 aparece em 5 listas · `react` `ssr` `typescript` `full-stack`
+- **[Netron](https://github.com/lutzroeder/netron)** — - Netron is a viewer for neural network, deep learning and machine learning models. — aparece em 4 listas · `neural-networks` `visualization` `ml-models`
+- **[Vite](https://github.com/vitejs/vite)** — _(label: good first issue)_ <br> Next generation frontend tooling. It's fast! Alternative to Create React App — aparece em 4 listas · `build-tool` `frontend` `javascript` `typescript`
+- **[Babel](https://github.com/babel/babel)** — _(label: good first issue)_ <br> A compiler for writing next generation JavaScript. — aparece em 3 listas · `javascript` `transpiler` `babel` `ast`
+- **[D3js](https://d3js.org)** — is a powerful data visualization javascript library. — aparece em 3 listas · `javascript` `visualization` `svg` `data-driven`
+- **[ESLint](https://github.com/eslint/eslint)** — _(label: good first issue)_ <br> A fully pluggable tool for identifying and reporting on patterns in JavaScript. — aparece em 3 listas · `javascript` `linting` `eslint` `typescript`
+- **[React Native](https://github.com/facebook/react-native)** — _(label: Good-first-issue)_ <br> A framework for building native apps with React. — aparece em 3 listas · `javascript` `react` `mobile` `cross-platform`
+- **[Vue.js](https://github.com/vuejs/vue)** — _(label: good first issue)_ <br> The Progressive JavaScript Framework. — aparece em 3 listas · `javascript` `vue` `spa` `frontend`
 
 ### JavaScript Runtime
-- **[Node.js](https://github.com/sindresorhus/awesome-nodejs)** — Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine. — appears in 4 lists · `nodejs` `javascript` `runtime`
+- **[Node.js](https://github.com/sindresorhus/awesome-nodejs)** — Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine. — aparece em 4 listas · `nodejs` `javascript` `runtime`
 - **[Node.js core](https://github.com/nodejs/node)** — _(label: good first issue)_ <br> JavaScript runtime built on Chrome's V8 JavaScript engine · `javascript` `runtime` `backend` `v8`
 
 ### JavaScript UI Library
 - **[React](https://github.com/facebook/react)** — _(label: good first issue)_ <br> A declarative, efficient, and flexible JavaScript library for building user interfaces. · `javascript` `ui-library` `component-based` `jsx`
 
 ### Knowledge Management
-- **[Obsidian](https://obsidian.md)** — Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files. — appears in 4 lists · `markdown` `local-first` `knowledge-base` `self-hosted`
+- **[Obsidian](https://obsidian.md)** — Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files. — aparece em 4 listas · `markdown` `local-first` `knowledge-base` `self-hosted`
 
 ### Kubernetes Management
 - **[k9s](https://github.com/derailed/k9s)** — Kubernetes CLI to manage your clusters in style. · `kubernetes` `cli` `golang` `devops`
@@ -343,9 +343,9 @@ Tools the community considers default. If you don't know them yet, they're worth
 - **[InterpretML](https://github.com/interpretml/interpret)** — InterpretML implements the Explainable Boosting Machine (EBM), a modern, fully interpretable machine learning model based on Generalized Additive Models (GAMs). This open-source package also… · `interpretable-ml` `python` `glass-box` `visualization`
 
 ### Machine Learning
-- **[BayesWitnesses/m2cgen](https://github.com/bayeswitnesses/m2cgen)** — A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies. [](https://github.com/BayesWitnesses/m2cgen/actions) — 🔥 appears in 7 lists · `machine-learning` `code-generation` `model-export` `open-source`
-- **[XGBoost](https://github.com/dmlc/xgboost)** — - XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. — 🔥 appears in 5 lists · `machine-learning` `gradient-boosting` `python` `distributed`
-- **[Apache Spark](https://github.com/apache/spark)** — - Micro-batch processing for streams using the apache spark framework as a backend supporting stateful exactly-once semantics. — appears in 3 lists · `ai-agents` `memory` `python` `storage`
+- **[BayesWitnesses/m2cgen](https://github.com/bayeswitnesses/m2cgen)** — A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies. [](https://github.com/BayesWitnesses/m2cgen/actions) — 🔥 aparece em 7 listas · `machine-learning` `code-generation` `model-export` `open-source`
+- **[XGBoost](https://github.com/dmlc/xgboost)** — - XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. — 🔥 aparece em 5 listas · `machine-learning` `gradient-boosting` `python` `distributed`
+- **[Apache Spark](https://github.com/apache/spark)** — - Micro-batch processing for streams using the apache spark framework as a backend supporting stateful exactly-once semantics. — aparece em 3 listas · `ai-agents` `memory` `python` `storage`
 - **[Jax](https://github.com/jax-ml/jax)** — - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more. · `python` `ml` `jit` `gpu`
 
 ### Media Center
@@ -370,7 +370,7 @@ Tools the community considers default. If you don't know them yet, they're worth
 - **[huggingface/tokenizers](https://github.com/huggingface/tokenizers)** — Hugging Face's tokenizers for modern NLP pipelines (original implementation) with bindings for Python. [](https://github.com/huggingface/tokenizers/actions) · `nlp` `tokenization` `rust` `huggingface`
 
 ### Natural Language Processing
-- **[SpaCy](https://github.com/explosion/spacy)** — - spaCy is a library for advanced Natural Language Processing in Python and Cython. — appears in 3 lists · `nlp` `python` `spacy` `nlp-pipeline`
+- **[SpaCy](https://github.com/explosion/spacy)** — - spaCy is a library for advanced Natural Language Processing in Python and Cython. — aparece em 3 listas · `nlp` `python` `spacy` `nlp-pipeline`
 
 ### Network Tools
 - **[scapy](https://github.com/secdev/scapy)** — Python-based interactive packet manipulation program and library. · `python` `networking` `packets` `security`
@@ -413,12 +413,12 @@ Tools the community considers default. If you don't know them yet, they're worth
 - **[cookiecutter](https://github.com/cookiecutter/cookiecutter)** — _(label: good first issue)_ <br> A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects. · `cli` `scaffolding` `templating` `python`
 
 ### Python
-- **[Pytorch](https://github.com/pytorch/pytorch)** — _(label: good first issue)_ <br> PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing. — 🔥 appears in 6 lists · `deep-learning` `machine-learning` `python` `gpu`
-- **[Jupyter Notebooks](https://github.com/jupyter/notebook)** — - Web interface python sandbox environments for reproducible development — appears in 3 lists · `python` `jupyter` `notebook` `interactive`
-- **[PyG](https://github.com/pyg-team/pytorch_geometric)** — - PyG (PyTorch Geometric) is a library built upon PyTorch to easily write and train Graph Neural Networks (GNNs) for a wide range of applications related to structured data. — appears in 3 lists · `gnn` `pytorch` `python` `ml`
-- **[scikit-learn](https://github.com/scikit-learn/scikit-learn)** — - Scikit-learn is a powerful machine learning library that provides a wide variety of modules for data access, data preparation and statistical model building. — appears in 3 lists · `python` `machine-learning` `sklearn` `supervised`
-- **[SymPy](https://github.com/sympy/sympy)** — _(label: Easy-to-Fix)_ <br> A Python library for symbolic mathematics. — appears in 3 lists · `python` `mathematics` `symbolic-computation` `open-source`
-- **[Transformers](https://github.com/huggingface/transformers)** — - Huggingface's library of state-of-the-art pretrained models for Natural Language Processing (NLP). — appears in 3 lists · `python` `nlp` `transformers` `pytorch`
+- **[Pytorch](https://github.com/pytorch/pytorch)** — _(label: good first issue)_ <br> PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing. — 🔥 aparece em 6 listas · `deep-learning` `machine-learning` `python` `gpu`
+- **[Jupyter Notebooks](https://github.com/jupyter/notebook)** — - Web interface python sandbox environments for reproducible development — aparece em 3 listas · `python` `jupyter` `notebook` `interactive`
+- **[PyG](https://github.com/pyg-team/pytorch_geometric)** — - PyG (PyTorch Geometric) is a library built upon PyTorch to easily write and train Graph Neural Networks (GNNs) for a wide range of applications related to structured data. — aparece em 3 listas · `gnn` `pytorch` `python` `ml`
+- **[scikit-learn](https://github.com/scikit-learn/scikit-learn)** — - Scikit-learn is a powerful machine learning library that provides a wide variety of modules for data access, data preparation and statistical model building. — aparece em 3 listas · `python` `machine-learning` `sklearn` `supervised`
+- **[SymPy](https://github.com/sympy/sympy)** — _(label: Easy-to-Fix)_ <br> A Python library for symbolic mathematics. — aparece em 3 listas · `python` `mathematics` `symbolic-computation` `open-source`
+- **[Transformers](https://github.com/huggingface/transformers)** — - Huggingface's library of state-of-the-art pretrained models for Natural Language Processing (NLP). — aparece em 3 listas · `python` `nlp` `transformers` `pytorch`
 
 ### Python CV
 - **[Detectron2](https://github.com/facebookresearch/detectron2)** — - Detectron2 is Facebook AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms. · `python` `computer-vision` `detection` `segmentation`
@@ -507,7 +507,7 @@ Tools the community considers default. If you don't know them yet, they're worth
 - **[cypress](https://github.com/cypress-io/cypress)** — _(label: good first issue)_ <br> Fast, easy and reliable testing for anything that runs in a browser. · `javascript` `testing` `e2e` `browser-automation`
 
 ### Testing E2E
-- **[Playwright](https://github.com/microsoft/playwright)** — Node.js library to automate Chromium, Firefox and WebKit with a single API. — appears in 4 lists · `testing` `e2e` `automation` `browser`
+- **[Playwright](https://github.com/microsoft/playwright)** — Node.js library to automate Chromium, Firefox and WebKit with a single API. — aparece em 4 listas · `testing` `e2e` `automation` `browser`
 
 ### Text Editor
 - **[Vim](https://vim.org)** — An old terminal-based editor. For common plugins, check [Vim Common Plugins](editor-plugin-zh.md#vim-plugin). [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware… · `editor` `terminal` `modal` `unix`
@@ -516,16 +516,16 @@ Tools the community considers default. If you don't know them yet, they're worth
 - **[tsfresh](https://github.com/blue-yonder/tsfresh)** — - Automatic extraction of relevant features from time series. · `python` `timeseries` `feature-engineering` `ml`
 
 ### Tools
-- **[DVC](https://github.com/iterative/dvc)** — Data Science Version Control is an open-source version control system for machine learning projects with pipelines support. It makes ML projects reproducible and shareable. — appears in 3 lists · `data-science` `version-control` `ml-pipelines`
+- **[DVC](https://github.com/iterative/dvc)** — Data Science Version Control is an open-source version control system for machine learning projects with pipelines support. It makes ML projects reproducible and shareable. — aparece em 3 listas · `data-science` `version-control` `ml-pipelines`
 
 ### Torrent Client
 - **[qBittorrent](https://qbittorrent.org)** — A project aims to provide an open-source software alternative to µTorrent. [![Open-Source Software][OSS Icon]](https://github.com/qbittorrent/qBittorrent) ![Freeware][Freeware Icon] · `torrent` `open-source` `cross-platform` `bittorrent`
 
 ### TypeScript
-- **[Visual Studio Code](https://github.com/microsoft/vscode)** — New type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. Code provides comprehensive editing and debugging support, an… — appears in 4 lists · `editor` `typescript` `open-source` `debugging`
+- **[Visual Studio Code](https://github.com/microsoft/vscode)** — New type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. Code provides comprehensive editing and debugging support, an… — aparece em 4 listas · `editor` `typescript` `open-source` `debugging`
 
 ### Utilities
-- **[Bitwarden](https://bitwarden.com)** — Open source password management tool for Mac OS, iOS and browsers. [![Open-Source Software][OSS Icon]](https://github.com/bitwarden) ![Freeware][Freeware Icon] — appears in 3 lists · `password-manager` `security` `open-source` `self-hosted`
+- **[Bitwarden](https://bitwarden.com)** — Open source password management tool for Mac OS, iOS and browsers. [![Open-Source Software][OSS Icon]](https://github.com/bitwarden) ![Freeware][Freeware Icon] — aparece em 3 listas · `password-manager` `security` `open-source` `self-hosted`
 
 ### Vector Computing
 - **[ashvardanian/NumKong](https://github.com/ashvardanian/numkong)** — SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-512, and Arm NEON [](https://crates.io/crates/simsimd) · `rust` `simd` `vector-search` `avx512`
@@ -550,15 +550,15 @@ Tools the community considers default. If you don't know them yet, they're worth
 - **[scrapy](https://github.com/scrapy/scrapy)** — _(label: good first issue)_ <br> A fast high-level web crawling & scraping framework for Python. · `python` `scraping` `web-crawling` `framework`
 
 ### Web Servers
-- **[grpc](https://github.com/grpc/grpc)** — Remote Procedure Calls (RPCs) provide a useful abstraction for building distributed applications and services. The libraries in this repository provide a concrete implementation of the gRPC… — appears in 3 lists · `rpc` `http2` `distributed-systems` `protobuf`
+- **[grpc](https://github.com/grpc/grpc)** — Remote Procedure Calls (RPCs) provide a useful abstraction for building distributed applications and services. The libraries in this repository provide a concrete implementation of the gRPC… — aparece em 3 listas · `rpc` `http2` `distributed-systems` `protobuf`
 
 ### Workspace Platform
 - **[Notion](https://notion.so)** — All-in-one workspace for your notes, tasks, wikis, and databases. · `saas` `workspace` `collaborative` `closed-source`
 
 ---
 
-## 👍 Worth trying — solid in their niche
-Less hype than the GEMs but reliable if you fall into their use case.
+## 👍 Vale testar — sólidas no seu nicho
+Menos hype que as GEMs, mas confiáveis se você cair no caso de uso.
 
 ### .NET Optimization
 - **[GeneticSharp](https://github.com/giacomelli/geneticsharp)** — Multi-platform genetic algorithm library for.NET Core and.NET Framework. The library has several implementations of GA operators, like: selection, crossover, mutation, reinsertion and termination. · `dotnet` `genetic-algorithm` `optimization` `csharp`
@@ -583,7 +583,7 @@ Less hype than the GEMs but reliable if you fall into their use case.
 - **[MCP Memory Service](https://github.com/doobidoo/mcp-memory-service)** — Universal memory service with semantic search, autonomous consolidation, and multi-client support for AI applications. · `mcp` `memory` `semantic-search` `ai-agents`
 
 ### AI Memory Layer
-- **[Mem0](https://github.com/mem0ai/mem0)** — - Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions. — appears in 3 lists · `ai-memory` `python` `agents` `llm`
+- **[Mem0](https://github.com/mem0ai/mem0)** — - Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions. — aparece em 3 listas · `ai-memory` `python` `agents` `llm`
 
 ### AI Skills Kit
 - **[Superpowers](https://github.com/obra/superpowers)** — by [Jesse Vincent](https://github.com/obra) - A strong bundle of core competencies for software engineering, with good coverage of a large portion of the SDLC - from planning, reviewing, testing,… · `prompt-engineering` `sdlc` `best-practices` `claude`
@@ -604,7 +604,7 @@ Less hype than the GEMs but reliable if you fall into their use case.
 - **[I2P](https://geti2p.net)** — The Invisible Internet Project. · `anonymity` `p2p` `overlay-network` `privacy`
 
 ### Applications
-- **[Sniffnet](https://github.com/gyulyvgc/sniffnet)** — Cross-platform application to monitor your network traffic with ease [](https://github.com/GyulyVGC/sniffnet/blob/main/.github/workflows/rust.yml) [](https://crates.io/crates/sniffnet) — appears in 4 lists · `rust` `networking` `open-source` `packet-sniffer`
+- **[Sniffnet](https://github.com/gyulyvgc/sniffnet)** — Cross-platform application to monitor your network traffic with ease [](https://github.com/GyulyVGC/sniffnet/blob/main/.github/workflows/rust.yml) [](https://crates.io/crates/sniffnet) — aparece em 4 listas · `rust` `networking` `open-source` `packet-sniffer`
 
 ### AutoML
 - **[TPOT](https://github.com/epistasislab/tpot)** — Tool that automatically creates and optimizes machine learning pipelines using genetic programming. Consider it your personal data science assistant, automating a tedious part of machine learning. · `automl` `genetic-programming` `python` `pipeline-optimization`
@@ -625,7 +625,7 @@ Less hype than the GEMs but reliable if you fall into their use case.
 - **[OctoLinker](https://github.com/octolinker/octolinker)** — ice_cube: - A browser extension for GitHub that makes the image name in a `Dockerfile` clickable and redirect you to the related Docker Hub page. · `browser-extension` `docker` `github` `productivity`
 
 ### Browsers
-- **[Vivaldi](https://vivaldi.com)** — The browser that puts you in control. ![Freeware][Freeware Icon] — appears in 3 lists · `browser` `chromium` `customization`
+- **[Vivaldi](https://vivaldi.com)** — The browser that puts you in control. ![Freeware][Freeware Icon] — aparece em 3 listas · `browser` `chromium` `customization`
 
 ### Build Automation
 - **[just](https://github.com/casey/just)** — A handy command runner for project-specific tasks · `task-runner` `cli` `rust`
@@ -639,10 +639,10 @@ Less hype than the GEMs but reliable if you fall into their use case.
 - **[Redash](https://redash.io)** — Connect and query your data sources, build dashboards to visualize data and share them with your company. · `bi` `dashboard` `bsd` `sql-first`
 
 ### C#
-- **[Cake](https://github.com/cake-build/cake)** — _(label: Good-first-issue)_ <br> Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and folders, running… — appears in 3 lists · `csharp` `build-automation` `dsl` `ci-cd`
+- **[Cake](https://github.com/cake-build/cake)** — _(label: Good-first-issue)_ <br> Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and folders, running… — aparece em 3 listas · `csharp` `build-automation` `dsl` `ci-cd`
 
 ### C++
-- **[Polyaxon](https://github.com/polyaxon/polyaxon)** — - A platform for reproducible and scalable machine learning and deep learning on kubernetes - [(Video)](https://www.youtube.com/watch?v=Iexwrka_hys). — appears in 3 lists · `kubernetes` `ml-ops` `reproducibility` `python`
+- **[Polyaxon](https://github.com/polyaxon/polyaxon)** — - A platform for reproducible and scalable machine learning and deep learning on kubernetes - [(Video)](https://www.youtube.com/watch?v=Iexwrka_hys). — aparece em 3 listas · `kubernetes` `ml-ops` `reproducibility` `python`
 
 ### C++ IDE
 - **[CLion](https://jetbrains.com/clion)** — Powerful C and C++ IDE. (**Free** for Students) · `ide` `cpp` `c` `jetbrains`
@@ -665,7 +665,7 @@ Less hype than the GEMs but reliable if you fall into their use case.
 - **[television](https://github.com/alexpasmantier/television)** — A blazing fast general purpose fuzzy finder TUI · `rust` `cli` `tui` `fuzzy-search`
 
 ### CLI Tools
-- **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** — Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small… — appears in 3 lists · `cli` `video-download` `python` `metadata-extraction`
+- **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** — Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small… — aparece em 3 listas · `cli` `video-download` `python` `metadata-extraction`
 - **[broot](https://github.com/canop/broot)** — A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then `cd` to it; never lose track of file hierarchy while you search; manipulate… · `rust` `cli` `tui` `file-navigation`
 
 ### Charting Library
@@ -714,7 +714,7 @@ Less hype than the GEMs but reliable if you fall into their use case.
 - **[lazyjournal](https://github.com/lifailon/lazyjournal)** — A interface for reading and filtering the logs output of Docker and Podman containers like [Dozzle](dozzle) but for the terminal with support for fuzzy find, regex and output coloring. · `docker` `podman` `logging` `tui`
 
 ### Continuous Integration
-- **[Bencher](https://bencher.dev)** — Suite of continuous benchmarking tools designed to catch performance regressions in CI. — appears in 4 lists · `benchmarking` `ci-cd` `rust`
+- **[Bencher](https://bencher.dev)** — Suite of continuous benchmarking tools designed to catch performance regressions in CI. — aparece em 4 listas · `benchmarking` `ci-cd` `rust`
 
 ### Crypto Library
 - **[orion-rs/orion](https://github.com/orion-rs/orion)** — This library aims to provide easy and usable crypto. 'Usable' meaning exposing high-level API's that are easy to use and hard to misuse.… · `rust` `cryptography` `security` `high-level-api`
@@ -751,7 +751,7 @@ Less hype than the GEMs but reliable if you fall into their use case.
 - **[DataComPy](https://github.com/capitalone/datacompy)** — A library to compare Pandas, Polars, and Spark data frames. It provides stats and lets users adjust for match accuracy. · `python` `dataframes` `testing` `etl`
 
 ### Data Visualization
-- **[gradio](https://github.com/gradio-app/gradio)** — - Quickly create and share demos of models - by only writing Python. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything. — appears in 3 lists · `python` `web-ui` `demos` `visualization`
+- **[gradio](https://github.com/gradio-app/gradio)** — - Quickly create and share demos of models - by only writing Python. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything. — aparece em 3 listas · `python` `web-ui` `demos` `visualization`
 - **[Perspective](https://github.com/finos/perspective)** — Streaming pivot visualization via WebAssembly. · `webassembly` `data-visualization` `streaming` `pivot`
 - **[Rerun](https://github.com/rerun-io/rerun)** — - Rerun is an open-source SDK for logging, storing, querying, and visualizing multimodal data, designed for robotics, computer vision, and spatial AI. · `visualization` `robotics` `spatial-ai` `rust`
 - **[vizzu](https://github.com/vizzuhq/vizzu-lib)** — Library for animated data visualizations and data stories. · `dataviz` `animation` `javascript`
@@ -779,10 +779,10 @@ Less hype than the GEMs but reliable if you fall into their use case.
 - **[AgentsKB](https://agentskb.com)** — Knowledge base with 39K+ researched technical Q&As accessible via MCP server, REST API, or web search. Integrates with Claude Code, Cursor, and Cline. · `knowledge-base` `mcp-server` `rest-api` `ai-assist`
 
 ### Developer Tools
-- **[Rider](https://jetbrains.com/rider)** — A cross-platform C# IDE based on the IntelliJ platform and ReSharper — appears in 3 lists · `csharp` `ide` `dotnet` `jetbrains`
+- **[Rider](https://jetbrains.com/rider)** — A cross-platform C# IDE based on the IntelliJ platform and ReSharper — aparece em 3 listas · `csharp` `ide` `dotnet` `jetbrains`
 
 ### Developer Utilities
-- **[intelli-shell](https://github.com/lasantosr/intelli-shell)** — Bookmark commands with placeholders and search or autocomplete at any time [](https://crates.io/crates/intelli-shell) [](https://github.com/lasantosr/intelli-shell/actions/workflows/release.yml) — appears in 3 lists · `rust` `cli` `productivity` `shell`
+- **[intelli-shell](https://github.com/lasantosr/intelli-shell)** — Bookmark commands with placeholders and search or autocomplete at any time [](https://crates.io/crates/intelli-shell) [](https://github.com/lasantosr/intelli-shell/actions/workflows/release.yml) — aparece em 3 listas · `rust` `cli` `productivity` `shell`
 
 ### Differentiable Vision
 - **[Kornia](https://github.com/kornia/kornia)** — - Kornia is a differentiable computer vision library built on PyTorch that provides a rich set of differentiable image processing and geometric vision algorithms. · `computer-vision` `pytorch` `differentiable` `geometry`
@@ -797,7 +797,7 @@ Less hype than the GEMs but reliable if you fall into their use case.
 - **[Ockam](https://github.com/ockam-network/ockam)** — _(label: good first issue)_ <br> End-to-end encryption and mutual authentication for distributed applications. · `rust` `cryptography` `distributed` `security`
 
 ### Distributed Systems
-- **[Dragonfly](https://github.com/dragonflyoss/dragonfly2)** — Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures. — appears in 3 lists · `p2p` `oci-images` `container-registry` `distributed-systems`
+- **[Dragonfly](https://github.com/dragonflyoss/dragonfly2)** — Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures. — aparece em 3 listas · `p2p` `oci-images` `container-registry` `distributed-systems`
 
 ### Doc Browser
 - **[Dash](https://kapeli.com/dash)** — Offline API documentation browser for macOS with instant search access to Vue.js docs and 200+ other frameworks. · `macos` `documentation` `offline` `developer-tools`
@@ -830,7 +830,7 @@ Less hype than the GEMs but reliable if you fall into their use case.
 - **[readme-md-generator](https://github.com/kefranabg/readme-md-generator)** — A CLI that generates beautiful README.md files · `cli` `documentation` `nodejs`
 
 ### Editor Plugins
-- **[Cline](https://marketplace.visualstudio.com/items)** — Autonomous coding agent for VS Code that can create/edit files, execute commands, and use the browser with user permission. Supports multiple AI providers including OpenRouter, Anthropic, OpenAI,… — 🔥 appears in 7 lists · `vscode-extension` `ai-agent` `autonomous-coding` `multi-provider`
+- **[Cline](https://marketplace.visualstudio.com/items)** — Autonomous coding agent for VS Code that can create/edit files, execute commands, and use the browser with user permission. Supports multiple AI providers including OpenRouter, Anthropic, OpenAI,… — 🔥 aparece em 7 listas · `vscode-extension` `ai-agent` `autonomous-coding` `multi-provider`
 
 ### Educación Seguridad
 - **[Security Talks](https://github.com/paulsec/awesome-sec-talks)** — Curated list of security conferences. · `educacion` `conferencias` `osint` `recursos`
@@ -917,7 +917,7 @@ Less hype than the GEMs but reliable if you fall into their use case.
 - **[create-go-app/cli](https://github.com/create-go-app/cli)** — Clean project logo. Useful badges (version, code style, test cover, docs). Clear readme with quickstart, understandable installation and usage manual, video screencast, ToC with well-documented… · `cli` `go` `scaffolder` `boilerplate`
 
 ### Go Tools
-- **[OctoLinker](https://github.com/octolinker/browser-extension)** — Navigate through `projects.json` files efficiently with the OctoLinker browser extension for GitHub. — appears in 3 lists · `github` `browser-extension` `typescript` `navigation`
+- **[OctoLinker](https://github.com/octolinker/browser-extension)** — Navigate through `projects.json` files efficiently with the OctoLinker browser extension for GitHub. — aparece em 3 listas · `github` `browser-extension` `typescript` `navigation`
 
 ### Go Utilities
 - **[script](https://github.com/bitfield/script)** — _(label: good first issue)_ <br> A Go library for doing the kind of tasks that shell scripts are good at: reading files, executing subprocesses, counting lines, matching strings, and so on.… · `go` `scripting` `shell` `io`
@@ -947,7 +947,7 @@ Less hype than the GEMs but reliable if you fall into their use case.
 - **[nwiizo/tfmcp](https://github.com/nwiizo/tfmcp)** — 🦀 🏠 - A Terraform MCP server allowing AI assistants to manage and operate Terraform environments, enabling reading configurations, analyzing plans, applying configurations, and managing… · `terraform` `mcp` `ai` `infrastructure`
 
 ### Image Processing
-- **[Scikit-Image](https://github.com/scikit-image/scikit-image)** — A collection of algorithms for image processing in Python. — appears in 3 lists · `python` `image-processing` `computer-vision` `scipy`
+- **[Scikit-Image](https://github.com/scikit-image/scikit-image)** — A collection of algorithms for image processing in Python. — aparece em 3 listas · `python` `image-processing` `computer-vision` `scipy`
 
 ### Immediate Mode GUI
 - **[nuklear](https://github.com/immediate-mode-ui/nuklear)** — A single-header ANSI C gui library. [PublicDomain] · `gui` `c` `single-header` `immediate-mode`
@@ -971,10 +971,10 @@ Less hype than the GEMs but reliable if you fall into their use case.
 - **[Apache Shiro](https://shiro.apache.org)** — Performs authentication, authorization, cryptography and session management. · `java` `authentication` `authorization` `security`
 
 ### JavaScript
-- **[Gatsby.js](https://github.com/gatsbyjs/gatsby)** — _(label: good first issue)_ <br> Build blazing fast, modern apps and websites with React. — appears in 4 lists · `react` `static-site-generator` `graphql`
-- **[Ghost](https://github.com/tryghost/ghost)** — _(label: good first issue)_ <br> Just a blogging platform — appears in 3 lists · `javascript` `node.js` `cms` `self-hosted`
-- **[Vest](https://github.com/ealush/vest)** — _(label: good first issue)_ <br> Validations framework inspired by unit testing frameworks. — appears in 3 lists · `javascript` `validation` `forms` `typescript`
-- **[webdriver.io](https://github.com/webdriverio/webdriverio)** — _(label: first-timers-only)_ <br> Next-gen browser and mobile automation test framework for Node.js — appears in 3 lists · `javascript` `e2e-testing` `webdriver` `automation`
+- **[Gatsby.js](https://github.com/gatsbyjs/gatsby)** — _(label: good first issue)_ <br> Build blazing fast, modern apps and websites with React. — aparece em 4 listas · `react` `static-site-generator` `graphql`
+- **[Ghost](https://github.com/tryghost/ghost)** — _(label: good first issue)_ <br> Just a blogging platform — aparece em 3 listas · `javascript` `node.js` `cms` `self-hosted`
+- **[Vest](https://github.com/ealush/vest)** — _(label: good first issue)_ <br> Validations framework inspired by unit testing frameworks. — aparece em 3 listas · `javascript` `validation` `forms` `typescript`
+- **[webdriver.io](https://github.com/webdriverio/webdriverio)** — _(label: first-timers-only)_ <br> Next-gen browser and mobile automation test framework for Node.js — aparece em 3 listas · `javascript` `e2e-testing` `webdriver` `automation`
 
 ### Jira Client
 - **[fjira](https://github.com/mk-5/fjira)** — A fuzzy-search based terminal UI application for Attlasian Jira · `jira` `cli` `rust` `tui`
@@ -1009,7 +1009,7 @@ Less hype than the GEMs but reliable if you fall into their use case.
 - **[data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)** — Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines. · `jupyter` `python` `data-science` `tutorials`
 
 ### Learning Resource
-- **[CTFs](https://github.com/apsdehal/awesome-ctf)** — Capture The Flag frameworks, libraries, etc. — appears in 3 lists · `ctf` `security` `awesome-list`
+- **[CTFs](https://github.com/apsdehal/awesome-ctf)** — Capture The Flag frameworks, libraries, etc. — aparece em 3 listas · `ctf` `security` `awesome-list`
 
 ### Local LLM
 - **[LocalAI](https://github.com/mudler/localai)** — - LocalAI is a drop-in replacement REST API that's compatible with OpenAI API specifications for local inferencing. · `ai` `llm` `self-hosted` `openai-compatible`
@@ -1058,9 +1058,9 @@ Less hype than the GEMs but reliable if you fall into their use case.
 - **[quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins)** — List of useful [Quick Look](https://en.wikipedia.org/wiki/Quick_Look) plugins for developers · `quicklook` `macos` `plugins` `curated-list`
 
 ### Machine Learning
-- **[CatBoost](https://github.com/catboost/catboost)** — General purpose gradient boosting on decision trees library with categorical features support out of the box. It is easy to install, contains fast inference implementation and supports CPU and GPU… — appears in 4 lists · `gradient-boosting` `machine-learning` `categorical-features` `gpu`
-- **[Feature Engine](https://github.com/feature-engine/feature_engine)** — - Feature-engine is a Python library that contains several transformers to engineer features for use in machine learning models. — appears in 3 lists · `spark` `streaming` `scala` `java`
-- **[H2O-3](https://github.com/h2oai/h2o-3)** — - Fast scalable Machine Learning platform for smarter applications: Deep Learning, Gradient Boosting & XGBoost, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net),… — appears in 3 lists · `machine-learning` `automl` `java` `distributed`
+- **[CatBoost](https://github.com/catboost/catboost)** — General purpose gradient boosting on decision trees library with categorical features support out of the box. It is easy to install, contains fast inference implementation and supports CPU and GPU… — aparece em 4 listas · `gradient-boosting` `machine-learning` `categorical-features` `gpu`
+- **[Feature Engine](https://github.com/feature-engine/feature_engine)** — - Feature-engine is a Python library that contains several transformers to engineer features for use in machine learning models. — aparece em 3 listas · `spark` `streaming` `scala` `java`
+- **[H2O-3](https://github.com/h2oai/h2o-3)** — - Fast scalable Machine Learning platform for smarter applications: Deep Learning, Gradient Boosting & XGBoost, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net),… — aparece em 3 listas · `machine-learning` `automl` `java` `distributed`
 - **[GoLearn](https://github.com/sjwhitworth/golearn)** — General Machine Learning library for Go. · `machine-learning` `go` `classification-regression`
 
 ### Mapping Library
@@ -1076,7 +1076,7 @@ Less hype than the GEMs but reliable if you fall into their use case.
 - **[Scikit-Opt](https://github.com/guofei9987/scikit-opt)** — Swarm Intelligence in Python (Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Algorithm, Immune Algorithm, Artificial Fish Swarm Algorithm in Python) · `optimization` `swarm-intelligence` `genetic-algorithm` `python`
 
 ### Misc
-- **[awesome](https://github.com/sindresorhus/awesome)** — zap: - A curated list of awesome lists. — appears in 4 lists · `curated-list` `discovery` `meta-index`
+- **[awesome](https://github.com/sindresorhus/awesome)** — zap: - A curated list of awesome lists. — aparece em 4 listas · `curated-list` `discovery` `meta-index`
 
 ### Mobile AI SDK
 - **[RunAnywhere](https://github.com/runanywhereai/runanywhere-sdks)** — - RunAnywhere is a production-ready SDK for running AI models (LLMs, speech-to-text, text-to-speech) on-device for iOS, Android, React Native, and Flutter - enabling private, offline, and fast… · `mobile` `on-device` `llm` `offline`
@@ -1172,7 +1172,7 @@ Less hype than the GEMs but reliable if you fall into their use case.
 - **[The Harvester](https://github.com/laramies/theharvester)** — Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database. · `osint` `reconnaissance` `python` `email-scraping`
 
 ### Performance Testing
-- **[bencher](https://github.com/bencherdev/bencher)** — A suite of continuous benchmarking tools designed to catch performance regressions in CI. — appears in 3 lists · `benchmarking` `ci-cd` `performance` `monitoring`
+- **[bencher](https://github.com/bencherdev/bencher)** — A suite of continuous benchmarking tools designed to catch performance regressions in CI. — aparece em 3 listas · `benchmarking` `ci-cd` `performance` `monitoring`
 - **[loadtest](https://github.com/alexfernandez/loadtest)** — Run load tests for your web application, with an API for automation. · `load-testing` `nodejs` `performance` `api`
 
 ### Privacy Browser
@@ -1212,10 +1212,10 @@ Less hype than the GEMs but reliable if you fall into their use case.
 - **[Ignite](https://github.com/pytorch/ignite)** — - Ignite is a high-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently. · `pytorch` `deep-learning` `training-loops` `python`
 
 ### Python
-- **[Bokeh](https://github.com/bokeh/bokeh)** — - Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation of data in modern web browsers. — appears in 4 lists · `python` `data-visualization` `interactive-charts` `open-source`
-- **[Colossal-AI](https://github.com/hpcaitech/colossalai)** — - A unified deep learning system for big model era, which helps users to efficiently and quickly deploy large AI model training and inference. — appears in 3 lists · `python` `llm` `distributed-training` `gpu`
-- **[Deepchecks](https://github.com/deepchecks/deepchecks)** — - Deepchecks is a holistic open-source solution for all of your AI & ML validation needs, enabling you to test your data and models from research to production thoroughly. — appears in 3 lists · `python` `ml-validation` `testing` `data-quality`
-- **[PyMC](https://github.com/pymc-devs/pymc)** — _(label: beginner friendly)_ <br> A Python library for Bayesian statistical modeling and probabilistic machine learning. Beginner-friendly with 'good first issue' labels. — appears in 3 lists · `bayesian` `probabilistic-ml` `statistics` `open-source`
+- **[Bokeh](https://github.com/bokeh/bokeh)** — - Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation of data in modern web browsers. — aparece em 4 listas · `python` `data-visualization` `interactive-charts` `open-source`
+- **[Colossal-AI](https://github.com/hpcaitech/colossalai)** — - A unified deep learning system for big model era, which helps users to efficiently and quickly deploy large AI model training and inference. — aparece em 3 listas · `python` `llm` `distributed-training` `gpu`
+- **[Deepchecks](https://github.com/deepchecks/deepchecks)** — - Deepchecks is a holistic open-source solution for all of your AI & ML validation needs, enabling you to test your data and models from research to production thoroughly. — aparece em 3 listas · `python` `ml-validation` `testing` `data-quality`
+- **[PyMC](https://github.com/pymc-devs/pymc)** — _(label: beginner friendly)_ <br> A Python library for Bayesian statistical modeling and probabilistic machine learning. Beginner-friendly with 'good first issue' labels. — aparece em 3 listas · `bayesian` `probabilistic-ml` `statistics` `open-source`
 
 ### Python Library
 - **[einops](https://github.com/arogozhnikov/einops)** — - Flexible and powerful tensor operations for readable and reliable code. · `python` `tensor-ops` `numpy` `readable-code`
@@ -1267,7 +1267,7 @@ Less hype than the GEMs but reliable if you fall into their use case.
 - **[MeshCentral](https://meshcentral.com)** — Run your own web server to remotely manage and control computers on a local network or anywhere on the internet. · `nodejs` `remote-management` `web-ui` `self-hosted`
 
 ### Resources
-- **[Docker for novices](https://youtube.com/watch)** — An introduction to Docker for developers and testers who have never used it. (Video 1h40, recorded linux.conf.au 2019 — Christchurch, New Zealand) by Alex Clews. — 🔥 appears in 16 lists · `docker` `containers` `beginners` `video`
+- **[Docker for novices](https://youtube.com/watch)** — An introduction to Docker for developers and testers who have never used it. (Video 1h40, recorded linux.conf.au 2019 — Christchurch, New Zealand) by Alex Clews. — 🔥 aparece em 16 listas · `docker` `containers` `beginners` `video`
 
 ### Reverse Engineering
 - **[x64dbg](https://x64dbg.com)** — An open-source x64/x32 debugger for windows. · `debugger` `reverse-engineering` `x64` `windows`
@@ -1276,7 +1276,7 @@ Less hype than the GEMs but reliable if you fall into their use case.
 - **[Pomerium](https://pomerium.io)** — Identity-aware reverse proxy, successor to now obsolete oauth_proxy. It inserts an OAuth step before proxying your request to the backend, so that you can safely expose your self-hosted websites… · `reverse-proxy` `oauth` `identity` `go`
 
 ### Rust
-- **[Readest](https://github.com/readest/readest)** — _(label: good first issue)_ <br> A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface. — appears in 3 lists · `rust` `desktop-app` `ebook-reader` `cross-platform`
+- **[Readest](https://github.com/readest/readest)** — _(label: good first issue)_ <br> A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface. — aparece em 3 listas · `rust` `desktop-app` `ebook-reader` `cross-platform`
 
 ### Rust Deep Learning
 - **[burn](https://github.com/tracel-ai/burn)** — Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals · `rust` `deep-learning` `gpu` `dynamic-computation`
@@ -1322,14 +1322,14 @@ Less hype than the GEMs but reliable if you fall into their use case.
 - **[Keybase](https://keybase.io)** — Secure groups, files, and chat for everyone! [![Open-Source Software][OSS Icon]](https://github.com/keybase) ![Freeware][Freeware Icon] · `crypto` `e2e` `chat` `security`
 
 ### Security
-- **[themis](https://github.com/cossacklabs/themis)** — High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES… — 🔥 appears in 7 lists · `cryptography` `security` `multi-platform` `open-source`
+- **[themis](https://github.com/cossacklabs/themis)** — High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES… — 🔥 aparece em 7 listas · `cryptography` `security` `multi-platform` `open-source`
 - **[mariocandela/beelzebub](https://github.com/mariocandela/beelzebub)** — ☁️ - Beelzebub is a honeypot framework that lets you build honeypot tools using MCP. Its purpose is to detect prompt injection or malicious agent behavior. The underlying idea is to provide the… · `honeypot` `security` `ai-safety` `prompt-injection`
 
 ### Security Auditing
 - **[Trail of Bits Security Skills](https://github.com/trailofbits/skills)** — by [Trail of Bits](https://github.com/trailofbits) - A very professional collection of over a dozen security-focused skills for code auditing and vulnerability detection. Includes skills for… · `security` `code-audit` `codeql` `semgrep`
 
 ### Security Defense
-- **[Honeypots](https://github.com/paralax/awesome-honeypots)** — Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization. — appears in 3 lists · `security` `honeypots` `threat-detection` `curated-list`
+- **[Honeypots](https://github.com/paralax/awesome-honeypots)** — Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization. — aparece em 3 listas · `security` `honeypots` `threat-detection` `curated-list`
 
 ### Security Sandbox
 - **[mavdol/capsule/mcp-server](https://github.com/mavdol/capsule)** — ](https://glama.ai/mcp/servers/mavdol/capsule-mcp-server) 🦀 🏠 🍎 🪟 🐧 - Run untrusted Python/JavaScript code in WebAssembly sandboxes. · `mcp` `wasm` `sandbox` `rust`
@@ -1349,7 +1349,7 @@ Less hype than the GEMs but reliable if you fall into their use case.
 - **[Outline Server](https://getoutline.org)** — A proxy server that runs a Shadowsocks instance for each access key and a REST API to manage the access keys. · `proxy` `shadowsocks` `docker` `nodejs`
 
 ### Server Implementations
-- **[juspay/neurolink](https://github.com/juspay/neurolink)** — 📇 ☁️ 🏠 🍎 🪟 🐧 - Making enterprise AI infrastructure universally accessible. Edge-first platform unifying 12 providers and 100+ models with multi-agent orchestration, HITL workflows, guardrails… — appears in 3 lists · `edge-computing` `multi-agent` `enterprise` `orchestration`
+- **[juspay/neurolink](https://github.com/juspay/neurolink)** — 📇 ☁️ 🏠 🍎 🪟 🐧 - Making enterprise AI infrastructure universally accessible. Edge-first platform unifying 12 providers and 100+ models with multi-agent orchestration, HITL workflows, guardrails… — aparece em 3 listas · `edge-computing` `multi-agent` `enterprise` `orchestration`
 - **[pydantic-ai](https://github.com/pydantic/pydantic-ai)** — A Python agent framework for building generative AI applications with structured schemas. · `python` `ai-agents` `llm` `pydantic`
 - **[txn2/kubefwd](https://github.com/txn2/kubefwd)** — 🏎️ 🏠 - Kubernetes bulk port forwarding with service discovery, /etc/hosts management, traffic monitoring, and pod log streaming · `kubernetes` `port-forwarding` `cli` `go`
 
@@ -1360,7 +1360,7 @@ Less hype than the GEMs but reliable if you fall into their use case.
 - **[awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)** — ZSH frameworks, plugins, tutorials & themes. · `zsh` `curated-list` `shells` `reference`
 
 ### Software Packages
-- **[lstags](https://github.com/ivanilves/lstags)** — Tool and API to sync Docker images across different registries. — appears in 3 lists · `docker` `registry` `devops` `golang`
+- **[lstags](https://github.com/ivanilves/lstags)** — Tool and API to sync Docker images across different registries. — aparece em 3 listas · `docker` `registry` `devops` `golang`
 
 ### Spotify CLI
 - **[LargeModGames/spotatui](https://github.com/largemodgames/spotatui)** — ] - A Spotify terminal client with native streaming, synced lyrics, and real-time audio visualization [](https://github.com/LargeModGames/spotatui/actions/workflows/cd.yml) · `rust` `cli` `spotify` `audio`
@@ -1372,7 +1372,7 @@ Less hype than the GEMs but reliable if you fall into their use case.
 - **[RisingWave](https://github.com/risingwavelabs/risingwave)** — - A distributed SQL streaming database that unifies stream processing and low-latency serving, ideal for building and serving features for online machine learning. · `rust` `streaming` `sql` `feature-store`
 
 ### Swift
-- **[Awesome Core ML Models](https://github.com/likedan/awesome-coreml-models)** — A curated list of machine learning models in CoreML format. — appears in 3 lists · `swift` `coreml` `ios` `curated-list`
+- **[Awesome Core ML Models](https://github.com/likedan/awesome-coreml-models)** — A curated list of machine learning models in CoreML format. — aparece em 3 listas · `swift` `coreml` `ios` `curated-list`
 
 ### Swift Crypto Lib
 - **[CryptoSwift](https://github.com/krzyzanowskim/cryptoswift)** — Crypto related functions and helpers for Swift implemented in Swift programming language. · `swift` `cryptography` `ios` `aes`
@@ -1393,7 +1393,7 @@ Less hype than the GEMs but reliable if you fall into their use case.
 - **[Super Productivity](https://super-productivity.com)** — Task manager with timeboxing and time tracking. [![Open-Source Software][OSS Icon]](https://github.com/johannesjo/super-productivity) ![Freeware][Freeware Icon] [![App Store][app-store… · `task-management` `time-tracking` `productivity` `open-source`
 
 ### Terminal Apps
-- **[Wave](https://github.com/wavetermdev/waveterm)** — Open-source terminal with built-in file previews, web browsing, and AI tools. [![Open-Source Software][OSS Icon]](https://github.com/wavetermdev/waveterm) ![Freeware][Freeware Icon] — appears in 3 lists · `terminal` `rust` `ai-integration` `open-source`
+- **[Wave](https://github.com/wavetermdev/waveterm)** — Open-source terminal with built-in file previews, web browsing, and AI tools. [![Open-Source Software][OSS Icon]](https://github.com/wavetermdev/waveterm) ![Freeware][Freeware Icon] — aparece em 3 listas · `terminal` `rust` `ai-integration` `open-source`
 
 ### Terminal Emulator
 - **[Warp](https://warp.dev)** — Warp is a blazingly fast, rust-based terminal reimagined from the ground up to work like a modern app. · `terminal` `rust` `cli` `cross-platform`
@@ -1403,7 +1403,7 @@ Less hype than the GEMs but reliable if you fall into their use case.
 - **[yazi](https://github.com/sxyazi/yazi)** — Blazing fast terminal file manager, based on async I/O. · `rust` `tui` `async` `file-manager`
 
 ### Test Framework
-- **[Mocha](https://github.com/mochajs/mocha)** — _(label: good first issue)_ <br> Javascript test framework for Node.js and the browser. — appears in 3 lists · `javascript` `testing` `nodejs` `browser`
+- **[Mocha](https://github.com/mochajs/mocha)** — _(label: good first issue)_ <br> Javascript test framework for Node.js and the browser. — aparece em 3 listas · `javascript` `testing` `nodejs` `browser`
 
 ### Text Editor
 - **[GNU Emacs](https://gnu.org/software/emacs)** — An extensible, customizable text editor-and more. `GPL-3.0` `C` · `editor` `lisp` `cli` `text-editor`
@@ -1426,8 +1426,8 @@ Less hype than the GEMs but reliable if you fall into their use case.
 - **[ticker](https://github.com/achannarasappa/ticker)** — Terminal stock watcher and stock position tracker. · `go` `technical-analysis` `indicators` `backtesting`
 
 ### TypeScript
-- **[Amplication](https://github.com/amplication/amplication)** — _(label: good first issue)_ <br> Amplication is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks. — appears in 3 lists · `code-generation` `nodejs` `backend` `low-code`
-- **[Vitest](https://github.com/vitest-dev/vitest)** — _(label: good first issue)_ <br> A blazing fast unit test framework powered by Vite. — appears in 3 lists · `typescript` `testing` `vite` `jest-alternative`
+- **[Amplication](https://github.com/amplication/amplication)** — _(label: good first issue)_ <br> Amplication is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks. — aparece em 3 listas · `code-generation` `nodejs` `backend` `low-code`
+- **[Vitest](https://github.com/vitest-dev/vitest)** — _(label: good first issue)_ <br> A blazing fast unit test framework powered by Vite. — aparece em 3 listas · `typescript` `testing` `vite` `jest-alternative`
 
 ### UI Framework
 - **[grommet](https://github.com/grommet/grommet)** — _(label: good first issue)_ <br> a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package · `react` `component-library` `accessible` `theming`
@@ -1453,7 +1453,7 @@ Less hype than the GEMs but reliable if you fall into their use case.
 - **[LosslessCut](https://github.com/mifi/lossless-cut)** — Cross platform tool for quick and lossless video and audio trimming using ffmpeg. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mifi/lossless-cut) · `ffmpeg` `video-editing` `cross-platform` `cli-gui`
 
 ### Videos
-- **[Functional Programming with TypeScript](https://youtube.com/playlist)** — Discover functional programming with Typescript and create a library like fp-ts alongside Sahand Javid in this beginner-friendly YouTube playlist. — 🔥 appears in 11 lists · `typescript` `functional-programming` `fp-ts` `video-tutorial`
+- **[Functional Programming with TypeScript](https://youtube.com/playlist)** — Discover functional programming with Typescript and create a library like fp-ts alongside Sahand Javid in this beginner-friendly YouTube playlist. — 🔥 aparece em 11 listas · `typescript` `functional-programming` `fp-ts` `video-tutorial`
 
 ### Virtualization
 - **[QEMU](https://qemu.org)** — A free and open-source emulator and virtualizer that can perform hardware virtualization. [![Open-Source Software][OSS Icon]](https://github.com/qemu/qemu) ![Freeware][Freeware Icon] · `virtualization` `vm` `gui` `freeware`
@@ -1487,23 +1487,23 @@ Less hype than the GEMs but reliable if you fall into their use case.
 
 ---
 
-## 🤖 Why trust this list
+## 🤖 Por que confiar nesta lista
 
-- **Transparent**: all scores and methodology are public at [juanchi.dev/awesome/sources](https://juanchi.dev/awesome/sources) (coming soon)
-- **Self-regulating**: if an `awesome-*` stops being maintained, it falls to the BENCH and eventually drops out
-- **Human-in-the-loop**: it's not pure AI. Tools with ⭐ GEM go through Claude first, then human verdict by [Juan Torchia](https://juanchi.dev)
-- **Reproducible**: this README regenerates weekly. Full system walkthrough at [juanchi.dev/blog/series/awesome-curated](https://juanchi.dev/blog/series/awesome-curated)
+- **Transparente**: toda metodologia e scores públicos em [juanchi.dev/awesome/sources](https://juanchi.dev/awesome/sources) (em breve)
+- **Auto-regulada**: se um `awesome-*` para de ser mantido, cai para o BENCH e eventualmente sai
+- **Human-in-the-loop**: não é só IA. Ferramentas ⭐ GEM passam primeiro pelo Claude, depois por veredito humano de [Juan Torchia](https://juanchi.dev)
+- **Reproduzível**: este README se regenera semanalmente. Sistema documentado em [juanchi.dev/blog/series/awesome-curated](https://juanchi.dev/blog/series/awesome-curated)
 
-## 🤝 Contribute
+## 🤝 Contribuir
 
-- 🐛 Misclassified tool? → [Open an issue](https://github.com/JuanTorchia/awesome-curated/issues/new)
-- ➕ Missing an important tool? → Issue with the link + reasoning
-- 📝 Want to suggest a source? → Propose an `awesome-*` repo we should scrape
+- 🐛 Ferramenta mal classificada? → [Abra uma issue](https://github.com/JuanTorchia/awesome-curated/issues/new)
+- ➕ Falta uma ferramenta importante? → Issue com link + justificativa
+- 📝 Quer propor uma fonte? → Proponha um repo `awesome-*` que devemos escanear
 
 ## 📬 Newsletter
 
-Get the monthly digest with new tools entering the roster → [juanchi.dev/newsletter](https://juanchi.dev)
+Receba o digest mensal com novas ferramentas no roster → [juanchi.dev/newsletter](https://juanchi.dev)
 
 ---
 
-<sub>📄 Auto-generated from [juanchi.dev](https://juanchi.dev) · [system source](https://juanchi.dev/blog/series/awesome-curated) · MIT licensed</sub>
+<sub>📄 Gerado automaticamente de [juanchi.dev](https://juanchi.dev) · [código do sistema](https://juanchi.dev/blog/series/awesome-curated) · MIT licensed</sub>
