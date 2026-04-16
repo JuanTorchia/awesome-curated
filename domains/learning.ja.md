@@ -2,18 +2,15 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**0 GEMs · 9 試す価値あり**
+**2 GEMs · 7 試す価値あり**
 
 ---
 
+## ⭐ GEMs — 業界標準
 
----
+コミュニティがデフォルトと見なすツール。知らないなら探る価値あり。
 
-## 👍 試す価値あり — ニッチで堅実
-
-GEMs ほど話題ではないが、該当するユースケースなら信頼できる。
-
-### [Docker for novices](https://youtube.com/watch)
+### 👤 [Docker for novices](https://youtube.com/watch)
 
 🔥 **16 個のリストに登場**
 
@@ -27,7 +24,7 @@ An introduction to Docker for developers and testers who have never used it. (Vi
 
 ---
 
-### [Functional Programming with TypeScript](https://youtube.com/playlist)
+### 👤 [Functional Programming with TypeScript](https://youtube.com/playlist)
 
 🔥 **11 個のリストに登場**
 
@@ -40,6 +37,13 @@ Discover functional programming with Typescript and create a library like fp-ts 
 **Tags:** `typescript` `functional-programming` `fp-ts` `video-tutorial` `beginner-friendly`
 
 ---
+
+
+---
+
+## 👍 試す価値あり — ニッチで堅実
+
+GEMs ほど話題ではないが、該当するユースケースなら信頼できる。
 
 ### [CTFs](https://github.com/apsdehal/awesome-ctf)
 

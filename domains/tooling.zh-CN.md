@@ -2,7 +2,7 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**52 GEMs · 96 值得一试**
+**54 GEMs · 97 值得一试**
 
 ---
 
@@ -10,7 +10,21 @@
 
 社区视为默认的工具。如果你还不知道,值得去了解。
 
-### [Pytorch](https://github.com/pytorch/pytorch)
+### 👤 [Cline](https://marketplace.visualstudio.com/items)
+
+🔥 **出现在 7 个列表中**
+
+Autonomous coding agent for VS Code that can create/edit files, execute commands, and use the browser with user permission. Supports multiple AI providers including OpenRouter, Anthropic, OpenAI, Google Gemini, AWS Bedrock, Azure, and GCP Vertex.
+
+> **AI 分析：** De los agentes de código en VS Code, Cline es probablemente el más serio del mercado. No es un autocomplete glorificado: ejecuta comandos, toca el filesystem y navega el browser con tu permiso explícito. El modelo de 'human-in-the-loop' es lo que lo salva del caos. Soporta prácticamente todos los providers relevantes, lo que te evita el lock-in. Ideal para devs que quieren automatizar tareas repetitivas sin ceder el control total. No es magia, pero tampoco es humo.
+
+**优势:** _Soporte real de múltiples providers (Anthropic, OpenAI, Gemini, Bedrock, etc.) sin vendor lock-in_ · _Modelo de permisos explícitos por acción: no ejecuta nada sin tu aprobación, lo que lo hace usable en producción real_ · _Capacidad de agente completo: edita archivos, corre comandos y usa el browser en un solo flujo_
+
+**Tags:** `vscode-extension` `ai-agent` `autonomous-coding` `multi-provider` `open-source`
+
+---
+
+### 👤 [Pytorch](https://github.com/pytorch/pytorch)
 
 ![](https://img.shields.io/github/stars/pytorch/pytorch?style=flat-square&label=⭐) · 🔥 **出现在 6 个列表中**
 
@@ -24,7 +38,7 @@ _(label: good first issue)_ <br> PyTorch is an open source machine learning libr
 
 ---
 
-### [TensorFlow](https://github.com/tensorflow/tensorflow)
+### 👤 [TensorFlow](https://github.com/tensorflow/tensorflow)
 
 ![](https://img.shields.io/github/stars/tensorflow/tensorflow?style=flat-square&label=⭐) · 🔥 **出现在 6 个列表中**
 
@@ -416,6 +430,20 @@ A multi-platform toolkit for creating graphical user interfaces. [LGPL]
 
 ---
 
+### [Hex Fiend](https://ridiculousfish.com/hexfiend)
+
+出现在 2 个列表中
+
+Fast and clever open source hex editor. [![Open-Source Software][OSS Icon]](https://github.com/ridiculousfish/HexFiend/) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/hex-fiend/id1342896380?platform=mac)
+
+> **AI 分析：** Hex Fiend es el editor hexadecimal de referencia en macOS, punto. Si trabajás con análisis de binarios, reverse engineering, debugging de formatos de archivo o simplemente necesitás inspeccionar bytes crudos, esto es lo que usás. Maneja archivos enormes (multi-GB) sin pestañear, tiene diff de binarios nativo y es nativo macOS. No es hype: lleva décadas siendo el estándar silencioso para devs que trabajan cerca del metal.
+
+**优势:** _Maneja archivos binarios de varios GB con rendimiento excepcional sin cargar todo en memoria_ · _Diff visual entre binarios, feature rarísimo que editors equivalentes no tienen o cobran caro_ · _Nativo macOS con App Store + open source: actualizado, confiable y sin costos_
+
+**Tags:** `hex-editor` `macos` `binary-analysis` `open-source` `reverse-engineering`
+
+---
+
 ### [Homebrew](https://brew.sh)
 
 出现在 2 个列表中
@@ -745,20 +773,6 @@ A high-performance, multiplayer code editor from the creators of Atom and Tree-s
 
 不像 GEMs 那么火,但在对应场景下可靠。
 
-### [Cline](https://marketplace.visualstudio.com/items)
-
-🔥 **出现在 7 个列表中**
-
-Autonomous coding agent for VS Code that can create/edit files, execute commands, and use the browser with user permission. Supports multiple AI providers including OpenRouter, Anthropic, OpenAI, Google Gemini, AWS Bedrock, Azure, and GCP Vertex.
-
-> **AI 分析：** De los agentes de código en VS Code, Cline es probablemente el más serio del mercado. No es un autocomplete glorificado: ejecuta comandos, toca el filesystem y navega el browser con tu permiso explícito. El modelo de 'human-in-the-loop' es lo que lo salva del caos. Soporta prácticamente todos los providers relevantes, lo que te evita el lock-in. Ideal para devs que quieren automatizar tareas repetitivas sin ceder el control total. No es magia, pero tampoco es humo.
-
-**优势:** _Soporte real de múltiples providers (Anthropic, OpenAI, Gemini, Bedrock, etc.) sin vendor lock-in_ · _Modelo de permisos explícitos por acción: no ejecuta nada sin tu aprobación, lo que lo hace usable en producción real_ · _Capacidad de agente completo: edita archivos, corre comandos y usa el browser en un solo flujo_
-
-**Tags:** `vscode-extension` `ai-agent` `autonomous-coding` `multi-provider` `open-source`
-
----
-
 ### [Bokeh](https://github.com/bokeh/bokeh)
 
 ![](https://img.shields.io/github/stars/bokeh/bokeh?style=flat-square&label=⭐) · 出现在 4 个列表中
@@ -784,6 +798,20 @@ Cross-platform application to monitor your network traffic with ease [](https://
 **优势:** _UI accesible que hace que el monitoreo de tráfico sea consumible sin ser experto en redes_ · _Escrito en Rust: performance nativa y binario standalone sin dependencias pesadas_ · _Open source con desarrollo activo en GitHub, bien mantenido_
 
 **Tags:** `rust` `networking` `open-source` `packet-sniffer` `cross-platform`
+
+---
+
+### [bun](https://bun.sh)
+
+出现在 3 个列表中
+
+Bun is a fast JavaScript runtime, package manager, bundler, test runner
+
+> **AI 分析：** Bun es el movimiento más serio que tuvo el ecosistema JS en años para sacarse de encima la lentitud histórica de Node+npm. Runtime, package manager, bundler y test runner en uno solo, escrito en Zig, con velocidades que hacen quedar mal a npm y yarn. Para proyectos nuevos o equipos que sufren los tiempos de install y startup, el salto es real y medible. La compatibilidad con Node mejoró mucho pero todavía hay edge cases en producción. No es hype: es una apuesta técnica sólida que ya ganó tracción real.
+
+**优势:** _Velocidad de instalación de dependencias notablemente superior a npm/yarn/pnpm en benchmarks reales_ · _Reemplaza cuatro herramientas (runtime, bundler, test runner, package manager) con una sola instalación y CLI unificada_ · _Compatibilidad nativa con TypeScript y JSX sin configuración adicional_
+
+**Tags:** `javascript` `runtime` `package-manager` `bundler` `typescript`
 
 ---
 
@@ -882,6 +910,20 @@ Navigate through `projects.json` files efficiently with the OctoLinker browser e
 **优势:** _Zero-config, activa automáticamente en GH_ · _Soporta monorepos y path mappings_
 
 **Tags:** `github` `browser-extension` `typescript` `navigation` `dev-tools`
+
+---
+
+### [PeachPie](https://github.com/peachpiecompiler/peachpie)
+
+![](https://img.shields.io/github/stars/peachpiecompiler/peachpie?style=flat-square&label=⭐) · 出现在 3 个列表中
+
+PeachPie is a PHP compiler and runtime for .NET and .NET Core, which allows entire PHP applications to run on the modern, secure and performant .NET and .NET Core platforms.
+
+> **AI 分析：** Nicho muy específico pero resuelve un problema real: migrar o interoperar PHP con .NET sin reescribir todo desde cero. Si tenés una base de código PHP legacy y el stack nuevo es .NET, esto es oro. Para el dev promedio que arranca un proyecto nuevo, no tiene sentido. El caso de uso más legítimo es empresas con deuda técnica en PHP que quieren aprovechar el ecosistema .NET. No es hype, es una herramienta seria con commits activos, pero el público objetivo es extremadamente reducido.
+
+**优势:** _Permite ejecutar código PHP existente en .NET sin reescritura, reduciendo drásticamente el costo de migración_ · _Interoperabilidad bidireccional: podés llamar librerías .NET desde PHP y viceversa_ · _Compilación a bytecode .NET, lo que potencialmente mejora performance respecto al runtime PHP tradicional_
+
+**Tags:** `php` `dotnet` `compiler` `runtime` `interop`
 
 ---
 

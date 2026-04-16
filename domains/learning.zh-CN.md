@@ -2,18 +2,15 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**0 GEMs · 9 值得一试**
+**2 GEMs · 7 值得一试**
 
 ---
 
+## ⭐ GEMs — 行业标准
 
----
+社区视为默认的工具。如果你还不知道,值得去了解。
 
-## 👍 值得一试 — 各自领域稳固
-
-不像 GEMs 那么火,但在对应场景下可靠。
-
-### [Docker for novices](https://youtube.com/watch)
+### 👤 [Docker for novices](https://youtube.com/watch)
 
 🔥 **出现在 16 个列表中**
 
@@ -27,7 +24,7 @@ An introduction to Docker for developers and testers who have never used it. (Vi
 
 ---
 
-### [Functional Programming with TypeScript](https://youtube.com/playlist)
+### 👤 [Functional Programming with TypeScript](https://youtube.com/playlist)
 
 🔥 **出现在 11 个列表中**
 
@@ -40,6 +37,13 @@ Discover functional programming with Typescript and create a library like fp-ts 
 **Tags:** `typescript` `functional-programming` `fp-ts` `video-tutorial` `beginner-friendly`
 
 ---
+
+
+---
+
+## 👍 值得一试 — 各自领域稳固
+
+不像 GEMs 那么火,但在对应场景下可靠。
 
 ### [CTFs](https://github.com/apsdehal/awesome-ctf)
 

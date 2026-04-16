@@ -2,7 +2,7 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**34 GEMs · 40 試す価値あり**
+**35 GEMs · 41 試す価値あり**
 
 ---
 
@@ -21,6 +21,20 @@
 **強み:** _APIs consistentes, composable transformers_ · _Handlea edge cases (missing values, outliers)_
 
 **Tags:** `feature-engineering` `python` `sklearn` `ml` `preprocessing`
+
+---
+
+### [recharts](https://github.com/recharts/recharts)
+
+![](https://img.shields.io/github/stars/recharts/recharts?style=flat-square&label=⭐) · 3 個のリストに登場
+
+Redefined chart library built with React and D3.
+
+> **AI 分析:** Recharts es la librería de gráficos para React más usada y con mejor DX del ecosistema. Componentes declarativos, composables, que abstraen D3 sin perder su potencia. Si necesitás charts en React sin querer pelearte con D3 directamente ni pagar licencias de Highcharts, este es el camino estándar. No es la más performante con datasets masivos, pero para el 90% de los dashboards del mundo real cumple de sobra. Maduro, bien mantenido y con buena comunidad.
+
+**強み:** _API declarativa y composable que hace que armar gráficos complejos sea intuitivo sin tocar D3 directamente_ · _Amplia variedad de tipos de gráficos (line, bar, area, pie, radar, etc.) listos para usar con buena customización_ · _Excelente integración con el ecosistema React, incluyendo soporte para SSR y responsive containers nativos_
+
+**Tags:** `react` `charts` `d3` `data-visualization` `open-source`
 
 ---
 
@@ -504,6 +518,20 @@ GEMs ほど話題ではないが、該当するユースケースなら信頼で
 **強み:** _Simplicidad extrema para demos (write-once approach)_ · _Sharing público con URLs ephemeras sin deploy_
 
 **Tags:** `python` `web-ui` `demos` `visualization` `gradio`
+
+---
+
+### [High Charts](https://highcharts.com)
+
+3 個のリストに登場
+
+
+
+> **AI 分析:** Highcharts es una librería de visualización de datos con más de 15 años en el mercado. Para proyectos enterprise o equipos que necesitan gráficos interactivos complejos con soporte serio, es una opción sólida y probada. El problema es el modelo de licencias: gratuita solo para uso no comercial, lo que la hace costosa para startups. D3.js te da más poder si te bancás la curva de aprendizaje; Chart.js o Recharts cubren el 80% de los casos con menos fricción. Sigue siendo relevante en contextos corporativos donde el soporte importa.
+
+**強み:** _Ecosistema maduro con soporte para más de 60 tipos de gráficos incluyendo mapas, stock charts y gantt_ · _Documentación exhaustiva y soporte comercial real, crítico para proyectos enterprise con SLA_ · _Renderizado SVG cross-browser robusto con accesibilidad (WCAG) incorporada_
+
+**Tags:** `javascript` `charts` `data-visualization` `svg` `enterprise`
 
 ---
 

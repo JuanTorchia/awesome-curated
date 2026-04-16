@@ -2,7 +2,7 @@
 
 <p><sub>← [Volver al main](../README.es.md)</sub></p>
 
-**21 GEMs · 21 Vale probar**
+**25 GEMs · 28 Vale probar**
 
 ---
 
@@ -49,6 +49,20 @@ _(label: good first issue)_ <br> A minimalistic framework for universal server-r
 **Fortalezas:** _Soporta múltiples formatos de modelos (ONNX, TF, PyTorch, Keras)_ · _Interface interactiva sin dependencias pesadas_
 
 **Tags:** `neural-networks` `visualization` `ml-models`
+
+---
+
+### [swiper](https://github.com/nolimits4web/swiper)
+
+![](https://img.shields.io/github/stars/nolimits4web/swiper?style=flat-square&label=⭐) · aparece en 4 listas
+
+[docs](https://swiperjs.com/react) - The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
+
+> **Análisis IA:** Swiper es la referencia indiscutida para sliders/carousels táctiles en la web. Sin dependencias externas, soporte nativo para React, Vue, Angular y Web Components, y transiciones aceleradas por hardware. Si necesitás un slider que funcione bien en mobile sin dolores de cabeza, esto es lo que usás. No es hype: lleva años siendo el estándar. El único cuestionamiento válido es si realmente necesitás un carousel en tu UI, pero si lo necesitás, Swiper es la respuesta.
+
+**Fortalezas:** _Soporte nativo para los frameworks más populares (React, Vue, Angular) con wrappers oficiales bien mantenidos_ · _Transiciones aceleradas por GPU con comportamiento táctil que imita apps nativas en iOS y Android_ · _Altamente configurable: lazy loading, autoplay, pagination, thumbnails y decenas de efectos sin librerías extra_
+
+**Tags:** `slider` `carousel` `touch` `mobile` `react`
 
 ---
 
@@ -136,6 +150,20 @@ Remote Procedure Calls (RPCs) provide a useful abstraction for building distribu
 
 ---
 
+### [query](https://github.com/tanstack/query)
+
+![](https://img.shields.io/github/stars/tanstack/query?style=flat-square&label=⭐) · aparece en 3 listas
+
+Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
+
+> **Análisis IA:** Uno de esos casos donde el hype está completamente justificado. TanStack Query resolvió un problema que todos tenían pero pocos sabían nombrar: el manejo del estado del servidor es distinto al estado del cliente, y mezclarlos en Redux era un desastre. Cacheo automático, refetch inteligente, estados de loading/error sin boilerplate, sincronización en background. Si trabajás con datos remotos en React (o Solid/Svelte/Vue), esto no es opcional, es el estándar. El que no lo usa está reinventando la rueda.
+
+**Fortalezas:** _Elimina casi todo el boilerplate de fetching/caching/sincronización que antes requería soluciones caseras o Redux Toolkit Query_ · _Agnóstico al fetcher: funciona con fetch, axios, GraphQL o cualquier promesa, sin lock-in_ · _DevTools integradas que muestran el estado del caché en tiempo real, invaluable para debugging_
+
+**Tags:** `typescript` `data-fetching` `server-state` `react` `caching`
+
+---
+
 ### [React Native](https://github.com/facebook/react-native)
 
 ![](https://img.shields.io/github/stars/facebook/react-native?style=flat-square&label=⭐) · aparece en 3 listas
@@ -161,6 +189,20 @@ _(label: good first issue)_ <br> The Progressive JavaScript Framework.
 **Fortalezas:** _Sintaxis declarativa más legible que React JSX_ · _Single File Components con scope automático CSS_
 
 **Tags:** `javascript` `vue` `spa` `frontend` `reactive`
+
+---
+
+### [framer-motion](https://github.com/framer/motion)
+
+![](https://img.shields.io/github/stars/framer/motion?style=flat-square&label=⭐) · aparece en 2 listas
+
+Open source, production-ready animation and gesture library for React
+
+> **Análisis IA:** El estándar de facto para animaciones en React. No es hype, es la herramienta que usan desde startups hasta empresas grandes porque baja la barrera de entrada a animaciones complejas de forma dramática. La API declarativa con `motion.div` y el sistema de variantes son genuinamente elegantes. Si hacés React y necesitás algo más que CSS transitions, acá empieza y termina la búsqueda. El único problema real es el bundle size, que puede doler en proyectos donde cada KB importa.
+
+**Fortalezas:** _API declarativa con variantes que hace animaciones orquestadas complejas sorprendentemente simples_ · _Soporte nativo para gestures (drag, tap, hover) integrado sin librerías extra_ · _Animaciones con layout automático (AnimatePresence) que resuelven el clásico dolor de animar elementos que entran/salen del DOM_
+
+**Tags:** `react` `animation` `gestures` `ui` `open-source`
 
 ---
 
@@ -217,6 +259,20 @@ _(label: good first issue)_ <br> JavaScript library for mobile-friendly interact
 **Fortalezas:** _Tamaño mínimo y rendimiento en móviles_ · _API intuitiva sin configuración compleja_
 
 **Tags:** `mapping` `geospatial` `javascript` `lightweight` `open-source`
+
+---
+
+### [Nuxt.js](https://github.com/nuxt/nuxt.js)
+
+![](https://img.shields.io/github/stars/nuxt/nuxt.js?style=flat-square&label=⭐) · aparece en 2 listas
+
+Minimalistic framework for server-rendered Vue.js apps.
+
+> **Análisis IA:** Nuxt es el meta-framework de Vue por excelencia. Si trabajás con Vue y necesitás SSR, SSG o una estructura de proyecto seria, Nuxt te ahorra semanas de configuración. Es el equivalente a Next.js pero para el ecosistema Vue: routing automático por file-system, módulos para todo, excelente DX. La descripción 'minimalistic' quedó desactualizada hace rato, hoy es un framework completo y maduro. Imprescindible para proyectos Vue en producción que necesiten SEO o performance real.
+
+**Fortalezas:** _File-based routing automático y convenciones de proyecto que eliminan configuración boilerplate desde el día uno_ · _Soporte nativo para SSR, SSG e híbrido (ISR) con Nitro como server engine, flexible para cualquier deployment target_ · _Ecosistema de módulos oficiales y comunitarios muy amplio (auth, image, content, i18n) que acelera el desarrollo_
+
+**Tags:** `vue` `ssr` `ssg` `framework` `full-stack`
 
 ---
 
@@ -311,6 +367,20 @@ Open, sub-millisecond, single-executable FireBase alternative with type-safe RES
 
 Menos hype que las GEMs, pero confiables si caés en su caso de uso.
 
+### [Bit](https://github.com/teambit/bit)
+
+![](https://img.shields.io/github/stars/teambit/bit?style=flat-square&label=⭐) · aparece en 4 listas
+
+Manage and reuse `vue` components between projects. Easily isolate and share components from any project without changing its source code, organize curated collections and install in different projects.
+
+> **Análisis IA:** Bit resuelve un problema real y doloroso: compartir componentes entre proyectos sin convertirte en mantenedor de un monorepo o publicar 50 paquetes npm. La propuesta es sólida, el ecosistema es activo y tiene adopción real en empresas con múltiples frontends. El problema es que la curva de entrada no es trivial y el modelo de Bit Cloud (su SaaS) complica decidir hasta dónde usarlo gratis. Para equipos con design systems distribuidos, vale la pena. Para un proyecto solo, es overkill.
+
+**Fortalezas:** _Permite aislar y versionar componentes individuales sin reestructurar el proyecto fuente_ · _Funciona con múltiples frameworks (Vue, React, Angular) desde un mismo flujo de trabajo_ · _Modelo de dependencias por componente: cada uno trackea sus propias deps_
+
+**Tags:** `component-sharing` `monorepo` `vue` `react` `design-system`
+
+---
+
 ### [Gatsby.js](https://github.com/gatsbyjs/gatsby)
 
 ![](https://img.shields.io/github/stars/gatsbyjs/gatsby?style=flat-square&label=⭐) · aparece en 4 listas
@@ -322,6 +392,20 @@ _(label: good first issue)_ <br> Build blazing fast, modern apps and websites wi
 **Fortalezas:** _Optimización automática de imágenes y bundle_ · _Plugins ecosystem robusto para extensibilidad_
 
 **Tags:** `react` `static-site-generator` `graphql`
+
+---
+
+### [tsParticles](https://github.com/matteobruni/tsparticles)
+
+![](https://img.shields.io/github/stars/matteobruni/tsparticles?style=flat-square&label=⭐) · aparece en 4 listas
+
+A lightweight Javascript library to easily create highly configurable and interactive particle animations
+
+> **Análisis IA:** Librería de partículas muy completa y activamente mantenida. Si necesás fondos animados con partículas, confeti, fuegos artificiales o efectos visuales interactivos, tsParticles es la opción más seria del mercado. El problema es el contexto: estos efectos suelen ser decoración pura, y en producción real raramente justifican el overhead. Vale para landing pages, portfolios o proyectos creativos. En apps serias, es tentación de diseño que después hay que sacar.
+
+**Fortalezas:** _Altamente configurable con decenas de efectos out-of-the-box (confeti, fuegos, nieve, etc.)_ · _Soporte para React, Vue, Angular, Svelte y otros frameworks con wrappers oficiales_ · _Activamente mantenido con releases frecuentes y buena documentación_
+
+**Tags:** `typescript` `animations` `canvas` `particles` `frontend`
 
 ---
 
@@ -364,6 +448,34 @@ _(label: good first issue)_ <br> Just a blogging platform
 **Fortalezas:** _Abstracción multi-provider consolidada_ · _Middleware guardrails incluido_
 
 **Tags:** `edge-computing` `multi-agent` `enterprise` `orchestration`
+
+---
+
+### [mkosir/react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt)
+
+![](https://img.shields.io/github/stars/mkosir/react-parallax-tilt?style=flat-square&label=⭐) · aparece en 3 listas
+
+GIF demo. Multiple badges. Feature list. Great live demo with code examples. Easy to follow instructions for local development set up.
+
+> **Análisis IA:** Componente React bien mantenido para efecto tilt/parallax en cards y elementos UI. Resuelve un problema concreto y específico: ese efecto 3D de inclinación que ves en portfolios y landing pages premium. No es para todos los proyectos, pero cuando lo necesitás, evitás reinventar la rueda con listeners de mouse y transforms manuales. La demo es excelente, la API parece limpia. El riesgo real es usarlo de más y terminar con una UI que marea al usuario.
+
+**Fortalezas:** _API declarativa que abstrae toda la matemática de mouse position + CSS 3D transforms_ · _Demo interactiva con código que permite evaluar el efecto antes de instalar_ · _Mantenido activamente con TypeScript support incluido_
+
+**Tags:** `react` `animation` `css-transform` `ui-components` `parallax`
+
+---
+
+### [schedule-x](https://github.com/schedule-x/schedule-x)
+
+![](https://img.shields.io/github/stars/schedule-x/schedule-x?style=flat-square&label=⭐) · aparece en 3 listas
+
+Material design event calendar and date picker components. Demo site: https://schedule-x.dev/
+
+> **Análisis IA:** Componente de calendario con material design que cubre un nicho real: calendarios de eventos tipo Google Calendar para la web. Frameworks como React, Vue y Angular tienen opciones, pero pocas con este nivel de polish visual out-of-the-box. Útil para devs que necesitan un scheduler completo sin construirlo desde cero. El problema de siempre con estas libs: personalización profunda se vuelve un infierno. Vale para MVPs y apps internas. Info insuficiente para juicio fuerte sobre madurez en producción.
+
+**Fortalezas:** _Soporte multi-framework (React, Vue, Angular) con una API consistente_ · _UI de calidad material design que ahorra semanas de trabajo visual en scheduling apps_ · _Incluye date picker integrado, no solo calendario de eventos_
+
+**Tags:** `calendar` `components` `material-design` `react` `vue`
 
 ---
 
@@ -465,6 +577,20 @@ _(label: good first issue)_ <br> Fast and low overhead web framework, for Node.j
 
 ---
 
+### [Formily](https://github.com/alibaba/formily)
+
+![](https://img.shields.io/github/stars/alibaba/formily?style=flat-square&label=⭐) · aparece en 2 listas
+
+High performance, extensible, and Typescript friendly
+
+> **Análisis IA:** Formily es la solución de Alibaba para formularios complejos en React/Vue, y es legítimamente poderosa. Si manejás formularios empresariales con lógica condicional, validación dinámica y miles de campos, esta librería tiene sentido. El problema: la curva de aprendizaje es empinada, la documentación en inglés es irregular, y el ecosistema tiene sabor fuertemente chino (Ant Design first). Para CRUD simple es overengineering total. Para formularios de nivel enterprise, es difícil encontrar algo comparable.
+
+**Fortalezas:** _Modelo reactivo basado en JSON Schema que permite formularios dinámicos complejos sin lógica custom_ · _Rendimiento optimizado con re-renders granulares, crucial en formularios con cientos de campos_ · _Integración nativa con Ant Design y ecosistema Alibaba bien mantenido_
+
+**Tags:** `forms` `react` `vue` `typescript` `schema-driven`
+
+---
+
 ### [gofiber/fiber](https://github.com/gofiber/fiber)
 
 ![](https://img.shields.io/github/stars/gofiber/fiber?style=flat-square&label=⭐) · aparece en 2 listas
@@ -549,6 +675,20 @@ _(label: difficulty/low)_ <br> The Python Internationalization Library.
 
 ---
 
+### [react-relay](https://github.com/facebook/relay)
+
+![](https://img.shields.io/github/stars/facebook/relay?style=flat-square&label=⭐) · aparece en 2 listas
+
+Relay is a JavaScript framework for building data-driven React applications.
+
+> **Análisis IA:** Relay es el framework de GraphQL de Facebook/Meta y no es para cualquiera: tiene una curva de aprendizaje empinada y requiere que tu backend sea GraphQL puro con convenciones estrictas (Cursor Connections, Node interface). Pero cuando encaja, es brillante: co-location de datos, compilador que detecta errores en build time, y performance optimizada con fragmentos. El dev que se beneficia es el que trabaja en apps grandes con GraphQL serio. Para proyectos chicos o medianos, Apollo o React Query son más pragmáticos.
+
+**Fortalezas:** _Compilador estático que valida queries contra el schema en build time, eliminando errores en runtime_ · _Co-location de datos con fragmentos: cada componente declara exactamente qué datos necesita, sin over-fetching_ · _Soporte nativo de Suspense y Concurrent Mode de React, ahead of its time en ese sentido_
+
+**Tags:** `graphql` `react` `data-fetching` `open-source` `compiler`
+
+---
+
 ### [Superdesk](https://superdesk.org)
 
 aparece en 2 listas
@@ -602,6 +742,20 @@ A high-performance, lightweight, and cross-platform QUIC library [](https://gith
 **Fortalezas:** _Automatiza /etc/hosts para resolver servicios por nombre en localhost_ · _Traffic monitoring integrado para ver qué pasa en los tuneles_
 
 **Tags:** `kubernetes` `port-forwarding` `cli` `go` `networking`
+
+---
+
+### [virtua](https://github.com/inokawa/virtua)
+
+![](https://img.shields.io/github/stars/inokawa/virtua?style=flat-square&label=⭐) · aparece en 2 listas
+
+A zero-config, fast and small (~3kB) virtual list component for React, Vue and Solid.
+
+> **Análisis IA:** Virtualización de listas es uno de esos problemas que parece fácil hasta que tenés 10k filas en el DOM y el browser llora. Virtua resuelve esto de verdad: sin config, multi-framework (React, Vue, Solid) y apenas 3kB. react-window y react-virtual existen hace años, pero requieren más boilerplate. Para cualquier dev que necesita renderizar listas o grillas grandes sin perder fin de semana configurando, esta librería es una bala de plata honesta. No es hype, es utilidad pura.
+
+**Fortalezas:** _Zero-config real: funciona out of the box sin necesidad de especificar alturas fijas ni configuración compleja_ · _Multi-framework genuino: mismo API consistente para React, Vue y Solid sin wrappers hacky_ · _Bundle diminuto (~3kB) que no penaliza proyectos donde el performance importa_
+
+**Tags:** `virtual-list` `react` `vue` `solid` `performance`
 
 ---
 

@@ -2,13 +2,27 @@
 
 <p><sub>← [Volver al main](../README.es.md)</sub></p>
 
-**26 GEMs · 33 Vale probar**
+**27 GEMs · 32 Vale probar**
 
 ---
 
 ## ⭐ GEMs — estándares de la industria
 
 Herramientas que la comunidad considera default. Si no las conocés, valen la pena.
+
+### 👤 [themis](https://github.com/cossacklabs/themis)
+
+![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · 🔥 **aparece en 7 listas**
+
+High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption). Ported on many languages and platforms, suitable for client-server infastructures.
+
+> **Análisis IA:** Esto es valor real. Themis resuelve el problema de siempre: los devs necesitan criptografía seria pero la API de bajo nivel de OpenSSL los mata. Themis ofrece primitivas de alto nivel (cifrado simétrico, mensajería segura, sesiones con forward secrecy) sin que tengas que entender los detalles del protocolo. El soporte multi-lenguaje y multi-plataforma es el diferencial genuino. Ideal para equipos que construyen apps móviles o client-server que manejan datos sensibles y no quieren inventar su propia crypto. No es humo.
+
+**Fortalezas:** _Abstracción de alto nivel sobre primitivas criptográficas complejas (ECC, AES, ECDH) sin sacrificar seguridad real_ · _Soporte genuino multi-lenguaje y multi-plataforma, útil para equipos con stacks heterogéneos_ · _Incluye forward secrecy en sesiones, algo que muchos devs ignoran y que es crítico para datos sensibles_
+
+**Tags:** `cryptography` `security` `multi-platform` `open-source` `encryption`
+
+---
 
 ### [Bouncy Castle](https://bouncycastle.org/java.html)
 
@@ -380,20 +394,6 @@ Web PKI TLS X.509 certificate validation in Rust.
 ## 👍 Vale probar — sólidas en su nicho
 
 Menos hype que las GEMs, pero confiables si caés en su caso de uso.
-
-### [themis](https://github.com/cossacklabs/themis)
-
-![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · 🔥 **aparece en 7 listas**
-
-High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption). Ported on many languages and platforms, suitable for client-server infastructures.
-
-> **Análisis IA:** Esto es valor real. Themis resuelve el problema de siempre: los devs necesitan criptografía seria pero la API de bajo nivel de OpenSSL los mata. Themis ofrece primitivas de alto nivel (cifrado simétrico, mensajería segura, sesiones con forward secrecy) sin que tengas que entender los detalles del protocolo. El soporte multi-lenguaje y multi-plataforma es el diferencial genuino. Ideal para equipos que construyen apps móviles o client-server que manejan datos sensibles y no quieren inventar su propia crypto. No es humo.
-
-**Fortalezas:** _Abstracción de alto nivel sobre primitivas criptográficas complejas (ECC, AES, ECDH) sin sacrificar seguridad real_ · _Soporte genuino multi-lenguaje y multi-plataforma, útil para equipos con stacks heterogéneos_ · _Incluye forward secrecy en sesiones, algo que muchos devs ignoran y que es crítico para datos sensibles_
-
-**Tags:** `cryptography` `security` `multi-platform` `open-source` `encryption`
-
----
 
 ### [Honeypots](https://github.com/paralax/awesome-honeypots)
 

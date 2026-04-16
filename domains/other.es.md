@@ -2,7 +2,7 @@
 
 <p><sub>← [Volver al main](../README.es.md)</sub></p>
 
-**10 GEMs · 16 Vale probar**
+**10 GEMs · 17 Vale probar**
 
 ---
 
@@ -168,6 +168,20 @@ zap: - A curated list of awesome lists.
 **Fortalezas:** _Punto de entrada para explorar nichos tecnológicos_ · _Comunidad activa mantiene calidad_
 
 **Tags:** `curated-list` `discovery` `meta-index`
+
+---
+
+### [RunJS](https://runjs.app)
+
+aparece en 3 listas
+
+JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas or trying out new libraries.
+
+> **Análisis IA:** RunJS es una de esas herramientas que una vez que la usás no entendés cómo viviste sin ella. Playground de JS/TS desktop (no web) que ejecuta código mientras escribís, con acceso real a Node y npm. Para prototipar ideas rápido, probar una lib sin armar un proyecto entero, o debuggear algo puntual, es imbatible. No reemplaza tu IDE, pero para experimentación rápida le gana a abrir un REPL o un CodeSandbox. Dev que trabaja con JS a diario debería tenerlo instalado.
+
+**Fortalezas:** _Ejecución en tiempo real mientras escribís, sin botón de run ni fricción_ · _Acceso a Node.js real y posibilidad de importar paquetes npm directamente_ · _App nativa de escritorio: rápida, sin latencia de red, siempre disponible_
+
+**Tags:** `javascript` `typescript` `playground` `desktop-app` `repl`
 
 ---
 

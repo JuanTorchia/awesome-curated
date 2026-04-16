@@ -2,7 +2,7 @@
 
 <p><sub>← [Back to main](../README.md)</sub></p>
 
-**35 GEMs · 77 Worth trying**
+**36 GEMs · 78 Worth trying**
 
 ---
 
@@ -10,7 +10,7 @@
 
 Tools the community considers default. If you don't know them yet, they're worth exploring.
 
-### [BayesWitnesses/m2cgen](https://github.com/bayeswitnesses/m2cgen)
+### 👤 [BayesWitnesses/m2cgen](https://github.com/bayeswitnesses/m2cgen)
 
 ![](https://img.shields.io/github/stars/bayeswitnesses/m2cgen?style=flat-square&label=⭐) · 🔥 **appears in 7 lists**
 
@@ -49,6 +49,20 @@ A CLI tool to transpile trained classic machine learning models into a native Ru
 **Strengths:** _Abstracción limpia memory store_ · _Soporta múltiples backends (vector DB, SQL)_
 
 **Tags:** `ai-agents` `memory` `python` `storage` `llm`
+
+---
+
+### [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+
+![](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning?style=flat-square&label=⭐) · appears in 3 lists
+
+*(GitHub)*
+
+> **AI analysis:** El repo de awesome-ml de referencia absoluta. Con más de 60k stars y años de curaduría, es el punto de entrada obligado para cualquier dev que quiere orientarse en el ecosistema ML: frameworks, librerías, datasets, papers, todo organizado por lenguaje. No es hype, es infraestructura de conocimiento. El problema es que la velocidad del campo lo deja siempre un poco desactualizado, y la cantidad de entradas puede abrumar sin criterio de calidad claro.
+
+**Strengths:** _Cobertura exhaustiva organizada por lenguaje de programación, útil tanto para pythonistas como para devs de R, Julia o Go_ · _Punto de entrada canónico con décadas de curaduría comunitaria y miles de contribuidores reales_
+
+**Tags:** `machine-learning` `awesome-list` `recursos` `open-source` `curated-list`
 
 ---
 
@@ -546,6 +560,20 @@ General purpose gradient boosting on decision trees library with categorical fea
 **Strengths:** _AutoML robusto que compite con modelos manuales_ · _Escalado horizontal nativo con HDFS/Spark_
 
 **Tags:** `machine-learning` `automl` `java` `distributed` `h2o`
+
+---
+
+### [m2cgen](https://github.com/bayeswitnesses/m2cgen)
+
+![](https://img.shields.io/github/stars/bayeswitnesses/m2cgen?style=flat-square&label=⭐) · appears in 3 lists
+
+A tool that allows the conversion of ML models into native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart) with zero dependencies.
+
+> **AI analysis:** Resuelve un problema real y concreto: deployar modelos de ML sin arrastrar todo el ecosistema de Python/scikit-learn a producción. ¿Necesitás inferencia en un microservicio Java, un sistema legacy en C# o una app mobile en Dart? m2cgen convierte tu modelo entrenado a código nativo puro, sin dependencias. Ideal para devs que trabajan en entornos con restricciones de infraestructura o que no quieren levantar un servidor de inferencia solo para un modelo de regresión. No sirve para deep learning complejo, pero para modelos clásicos es una joya discreta.
+
+**Strengths:** _Elimina dependencias en runtime: el código generado es standalone, sin necesitar librerías de ML instaladas en producción_ · _Soporte amplio de lenguajes (11+) y modelos clásicos de scikit-learn, XGBoost y LightGBM, cubriendo los casos de uso más comunes_ · _Ideal para entornos restringidos como sistemas embebidos, aplicaciones legacy o servicios donde instalar Python es inviable_
+
+**Tags:** `machine-learning` `code-generation` `model-deployment` `scikit-learn` `open-source`
 
 ---
 
@@ -1249,20 +1277,6 @@ An agent management environment for Claude Code and Codex. Interactive visual ed
 
 ---
 
-### [Opik](https://comet.com/site/products/opik)
-
-appears in 2 lists
-
-Open source engineering platform to debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
-
-> **AI analysis:** Platform open-source para debugging y evaluación de LLM apps con tracing y evals. Competencia fuerte (Langsmith), pero madurez todavía alcanzando. Buena para early adopters.
-
-**Strengths:** _Trazado granular de LLM chains_ · _Evals automatizadas para reproducibility_
-
-**Tags:** `llm` `observability` `tracing` `evals` `agentic`
-
----
-
 ### [Opik](https://github.com/comet-ml/opik)
 
 ![](https://img.shields.io/github/stars/comet-ml/opik?style=flat-square&label=⭐) · appears in 2 lists
@@ -1274,6 +1288,20 @@ Open source engineering platform to debug, evaluate, and monitor your LLM applic
 **Strengths:** _Dashboard unificado para debugging de LLM pipelines_ · _Evaluación automática de outputs con criterios personalizados_
 
 **Tags:** `python` `llm-monitoring` `evaluation` `open-source`
+
+---
+
+### [Opik](https://comet.com/site/products/opik)
+
+appears in 2 lists
+
+Open source engineering platform to debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
+
+> **AI analysis:** Platform open-source para debugging y evaluación de LLM apps con tracing y evals. Competencia fuerte (Langsmith), pero madurez todavía alcanzando. Buena para early adopters.
+
+**Strengths:** _Trazado granular de LLM chains_ · _Evals automatizadas para reproducibility_
+
+**Tags:** `llm` `observability` `tracing` `evals` `agentic`
 
 ---
 

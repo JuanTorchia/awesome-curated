@@ -2,7 +2,7 @@
 
 <p><sub>← [Volver al main](../README.es.md)</sub></p>
 
-**17 GEMs · 34 Vale probar**
+**18 GEMs · 34 Vale probar**
 
 ---
 
@@ -63,6 +63,20 @@ _(label: easy)_ <br> Deduplicating backup program with compression and authentic
 **Fortalezas:** _Deduplicación a nivel byte muy eficiente_ · _Encriptación nativa sin dependencias externas_
 
 **Tags:** `backup` `deduplication` `encryption` `python` `self-hosted`
+
+---
+
+### [cadvisor](https://github.com/google/cadvisor)
+
+![](https://img.shields.io/github/stars/google/cadvisor?style=flat-square&label=⭐) · aparece en 2 listas
+
+Analyzes resource usage and performance characteristics of running containers.
+
+> **Análisis IA:** cAdvisor es una herramienta sólida y probada de Google para monitoreo de contenedores. Si corrés Docker o Kubernetes y necesitás métricas de CPU, memoria, red y disco por contenedor, esto es lo que usás. No es hype: es infraestructura real que alimenta stacks de observabilidad serios (Prometheus + Grafana). El problema es que solo es el recolector; necesitás otra capa para almacenar y visualizar. Esencial en setups productivos con contenedores, pero no reemplaza un stack de monitoreo completo.
+
+**Fortalezas:** _Integración nativa con Prometheus: expone métricas listas para scraping sin configuración compleja_ · _Respaldado y mantenido por Google, ampliamente probado en entornos de producción a escala_ · _Granularidad por contenedor: CPU, memoria, red y filesystem con historial de rendimiento_
+
+**Tags:** `containers` `monitoring` `docker` `kubernetes` `metrics`
 
 ---
 

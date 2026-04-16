@@ -2,18 +2,15 @@
 
 <p><sub>← [Voltar ao main](../README.pt-BR.md)</sub></p>
 
-**0 GEMs · 9 Vale a pena testar**
+**2 GEMs · 7 Vale a pena testar**
 
 ---
 
+## ⭐ GEMs — padrões da indústria
 
----
+Ferramentas que a comunidade considera default. Se você não conhece, vale explorar.
 
-## 👍 Vale testar — sólidas no seu nicho
-
-Menos hype que as GEMs, mas confiáveis se você cair no caso de uso.
-
-### [Docker for novices](https://youtube.com/watch)
+### 👤 [Docker for novices](https://youtube.com/watch)
 
 🔥 **aparece em 16 listas**
 
@@ -27,7 +24,7 @@ An introduction to Docker for developers and testers who have never used it. (Vi
 
 ---
 
-### [Functional Programming with TypeScript](https://youtube.com/playlist)
+### 👤 [Functional Programming with TypeScript](https://youtube.com/playlist)
 
 🔥 **aparece em 11 listas**
 
@@ -40,6 +37,13 @@ Discover functional programming with Typescript and create a library like fp-ts 
 **Tags:** `typescript` `functional-programming` `fp-ts` `video-tutorial` `beginner-friendly`
 
 ---
+
+
+---
+
+## 👍 Vale testar — sólidas no seu nicho
+
+Menos hype que as GEMs, mas confiáveis se você cair no caso de uso.
 
 ### [CTFs](https://github.com/apsdehal/awesome-ctf)
 

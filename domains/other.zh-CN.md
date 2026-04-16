@@ -2,7 +2,7 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**10 GEMs · 16 值得一试**
+**10 GEMs · 17 值得一试**
 
 ---
 
@@ -168,6 +168,20 @@ zap: - A curated list of awesome lists.
 **优势:** _Punto de entrada para explorar nichos tecnológicos_ · _Comunidad activa mantiene calidad_
 
 **Tags:** `curated-list` `discovery` `meta-index`
+
+---
+
+### [RunJS](https://runjs.app)
+
+出现在 3 个列表中
+
+JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas or trying out new libraries.
+
+> **AI 分析：** RunJS es una de esas herramientas que una vez que la usás no entendés cómo viviste sin ella. Playground de JS/TS desktop (no web) que ejecuta código mientras escribís, con acceso real a Node y npm. Para prototipar ideas rápido, probar una lib sin armar un proyecto entero, o debuggear algo puntual, es imbatible. No reemplaza tu IDE, pero para experimentación rápida le gana a abrir un REPL o un CodeSandbox. Dev que trabaja con JS a diario debería tenerlo instalado.
+
+**优势:** _Ejecución en tiempo real mientras escribís, sin botón de run ni fricción_ · _Acceso a Node.js real y posibilidad de importar paquetes npm directamente_ · _App nativa de escritorio: rápida, sin latencia de red, siempre disponible_
+
+**Tags:** `javascript` `typescript` `playground` `desktop-app` `repl`
 
 ---
 
