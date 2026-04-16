@@ -2,7 +2,7 @@
 
 # 🎯 Awesome Curated
 
-<p><sub>Read in other languages: **🇬🇧 English** · [🇪🇸 Español](README.es.md) · [🇧🇷 Português (BR)](README.pt-BR.md) · [🇨🇳 中文](README.zh-CN.md) · [🇯🇵 日本語](README.ja.md)</sub></p>
+Read in other languages: **🇬🇧 English** · [🇪🇸 Español](README.es.md) · [🇧🇷 Português (BR)](README.pt-BR.md) · [🇨🇳 中文](README.zh-CN.md) · [🇯🇵 日本語](README.ja.md)
 
 ### **Auto-curated list** of development tools. Weekly harvest of active `awesome-*` repos on GitHub, deduplicated cross-source, classified by AI + human veto.
 

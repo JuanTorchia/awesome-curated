@@ -2,7 +2,7 @@
 
 # 🎯 Awesome Curated
 
-<p><sub>他の言語で読む: [🇬🇧 English](README.md) · [🇪🇸 Español](README.es.md) · [🇧🇷 Português (BR)](README.pt-BR.md) · [🇨🇳 中文](README.zh-CN.md) · **🇯🇵 日本語**</sub></p>
+他の言語で読む: [🇬🇧 English](README.md) · [🇪🇸 Español](README.es.md) · [🇧🇷 Português (BR)](README.pt-BR.md) · [🇨🇳 中文](README.zh-CN.md) · **🇯🇵 日本語**
 
 ### 開発ツールの**自動キュレーションリスト**。GitHub のアクティブな `awesome-*` リポから週次で収集、ソース横断で重複排除、AI 分類+人間の判定。
 

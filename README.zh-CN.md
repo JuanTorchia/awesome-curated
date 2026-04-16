@@ -2,7 +2,7 @@
 
 # 🎯 Awesome Curated
 
-<p><sub>其他语言版本: [🇬🇧 English](README.md) · [🇪🇸 Español](README.es.md) · [🇧🇷 Português (BR)](README.pt-BR.md) · **🇨🇳 中文** · [🇯🇵 日本語](README.ja.md)</sub></p>
+其他语言版本: [🇬🇧 English](README.md) · [🇪🇸 Español](README.es.md) · [🇧🇷 Português (BR)](README.pt-BR.md) · **🇨🇳 中文** · [🇯🇵 日本語](README.ja.md)
 
 ### 开发工具的**自动精选列表**。每周从 GitHub 上活跃的 `awesome-*` 仓库抓取、跨源去重、AI 分类 + 人工审核。
 
