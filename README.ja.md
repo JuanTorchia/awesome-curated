@@ -9,7 +9,7 @@
 [![GEMs](https://img.shields.io/badge/GEMs-212-gold?style=for-the-badge)](#)
 [![Worth Trying](https://img.shields.io/badge/Worth_Trying-343-cyan?style=for-the-badge)](#)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](#)
-[![Updated](https://img.shields.io/badge/Updated-2026-06-06-green?style=for-the-badge)](#)
+[![Updated](https://img.shields.io/badge/Updated-2026-06-07-green?style=for-the-badge)](#)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
 </div>
