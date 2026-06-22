@@ -2,19 +2,44 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**25 GEMs · 28 試す価値あり**
+**1 Human-reviewed · 0 Popular standards · 50 AI candidates**
 
 ---
 
-## ⭐ GEMs — 業界標準
+## Human-reviewed picks
 
-コミュニティがデフォルトと見なすツール。知らないなら探る価値あり。
+Tools with a human review label and visible caveats.
+
+### 👤 [Netron](https://github.com/lutzroeder/netron)
+
+![](https://img.shields.io/github/stars/lutzroeder/netron?style=flat-square&label=⭐) · Found in 4 active sources
+
+**Review label:** Human Pick · **Caveat:** Best fit for teams with a matching ML or data workflow.
+
+- Netron is a viewer for neural network, deep learning and machine learning models.
+
+> **AI 分析:** Visualizador open-source para modelos ML/DL (ONNX, TensorFlow, PyTorch). Resuelve problema real: inspeccionar arquitecturas sin pasar por Jupyter o herramientas propietarias.
+
+**強み:** _Soporta múltiples formatos de modelos (ONNX, TF, PyTorch, Keras)_ · _Interface interactiva sin dependencias pesadas_
+
+**Tags:** `neural-networks` `visualization` `ml-models`
+
+---
+
+
+---
+
+## AI candidates and needs review
+
+Automated candidates with source signal; these are not human endorsements yet.
 
 ### [Jest](https://github.com/facebook/jest)
 
 ![](https://img.shields.io/github/stars/facebook/jest?style=flat-square&label=⭐) · 🔥 **Found in 5 active sources**
 
-_(label: good first issue)_ <br> A complete and easy to set up JavaScript testing solution.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+<br A complete and easy to set up JavaScript testing solution.
 
 > **AI 分析:** Jest es el estándar de facto para testing en JavaScript y TypeScript. No es hype: es la herramienta que más devs JS usan en producción real. Configuración casi cero para proyectos React/Node, mocking integrado sin librerías extra, y feedback visual claro. Si trabajás con cualquier stack JS moderno y no estás usando Jest, estás reinventando la rueda. El único caso donde lo cuestionás es en proyectos ultra-minimalistas donde Vitest o Node Test Runner ganan por velocidad nativa.
 
@@ -28,7 +53,9 @@ _(label: good first issue)_ <br> A complete and easy to set up JavaScript testin
 
 ![](https://img.shields.io/github/stars/vercel/next.js?style=flat-square&label=⭐) · 🔥 **Found in 5 active sources**
 
-_(label: good first issue)_ <br> A minimalistic framework for universal server-rendered React applications
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+<br A minimalistic framework for universal server-rendered React applications
 
 > **AI 分析:** Next.js ya no necesita presentación: es el framework React dominante para producción. 'Minimalistic' ya no aplica, evolucionó a algo bastante opinionado con App Router, Server Components y toda la maquinaria de Vercel detrás. Resuelve problemas reales: SSR, SSG, routing, optimización de imágenes, todo sin configurar webpack desde cero. El problema es el vendor lock-in sutil con Vercel y la complejidad creciente. Para la mayoría de proyectos React con necesidades de SEO o performance, sigue siendo la opción más sólida del ecosistema.
 
@@ -38,17 +65,35 @@ _(label: good first issue)_ <br> A minimalistic framework for universal server-r
 
 ---
 
-### 👤 [Netron](https://github.com/lutzroeder/netron)
+### [Bit](https://github.com/teambit/bit)
 
-![](https://img.shields.io/github/stars/lutzroeder/netron?style=flat-square&label=⭐) · Found in 4 active sources
+![](https://img.shields.io/github/stars/teambit/bit?style=flat-square&label=⭐) · Found in 4 active sources
 
-- Netron is a viewer for neural network, deep learning and machine learning models.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-> **AI 分析:** Visualizador open-source para modelos ML/DL (ONNX, TensorFlow, PyTorch). Resuelve problema real: inspeccionar arquitecturas sin pasar por Jupyter o herramientas propietarias.
+Manage and reuse vue components between projects. Easily isolate and share components from any project without changing its , organize curated collections and install in different projects.
 
-**強み:** _Soporta múltiples formatos de modelos (ONNX, TF, PyTorch, Keras)_ · _Interface interactiva sin dependencias pesadas_
+> **AI 分析:** Bit resuelve un problema real y doloroso: compartir componentes entre proyectos sin convertirte en mantenedor de un monorepo o publicar 50 paquetes npm. La propuesta es sólida, el ecosistema es activo y tiene adopción real en empresas con múltiples frontends. El problema es que la curva de entrada no es trivial y el modelo de Bit Cloud (su SaaS) complica decidir hasta dónde usarlo gratis. Para equipos con design systems distribuidos, vale la pena. Para un proyecto solo, es overkill.
 
-**Tags:** `neural-networks` `visualization` `ml-models`
+**強み:** _Permite aislar y versionar componentes individuales sin reestructurar el proyecto fuente_ · _Funciona con múltiples frameworks (Vue, React, Angular) desde un mismo flujo de trabajo_ · _Modelo de dependencias por componente: cada uno trackea sus propias deps_
+
+**Tags:** `component-sharing` `monorepo` `vue` `react` `design-system`
+
+---
+
+### [Gatsby.js](https://github.com/gatsbyjs/gatsby)
+
+![](https://img.shields.io/github/stars/gatsbyjs/gatsby?style=flat-square&label=⭐) · Found in 4 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+<br Build blazing fast, modern apps and websites with React.
+
+> **AI 分析:** Generador de sitios estáticos React con GraphQL. Bueno para marketing/blogs con performance garantizada; overkill para SPAs dinámicas.
+
+**強み:** _Optimización automática de imágenes y bundle_ · _Plugins ecosystem robusto para extensibilidad_
+
+**Tags:** `react` `static-site-generator` `graphql`
 
 ---
 
@@ -56,7 +101,9 @@ _(label: good first issue)_ <br> A minimalistic framework for universal server-r
 
 ![](https://img.shields.io/github/stars/nolimits4web/swiper?style=flat-square&label=⭐) · Found in 4 active sources
 
-[docs](https://swiperjs.com/react) - The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+docs The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
 
 > **AI 分析:** Swiper es la referencia indiscutida para sliders/carousels táctiles en la web. Sin dependencias externas, soporte nativo para React, Vue, Angular y Web Components, y transiciones aceleradas por hardware. Si necesitás un slider que funcione bien en mobile sin dolores de cabeza, esto es lo que usás. No es hype: lleva años siendo el estándar. El único cuestionamiento válido es si realmente necesitás un carousel en tu UI, pero si lo necesitás, Swiper es la respuesta.
 
@@ -66,9 +113,27 @@ _(label: good first issue)_ <br> A minimalistic framework for universal server-r
 
 ---
 
+### [tsParticles](https://github.com/matteobruni/tsparticles)
+
+![](https://img.shields.io/github/stars/matteobruni/tsparticles?style=flat-square&label=⭐) · Found in 4 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+A lightweight Javascript library to easily create highly configurable and interactive particle animations
+
+> **AI 分析:** Librería de partículas muy completa y activamente mantenida. Si necesás fondos animados con partículas, confeti, fuegos artificiales o efectos visuales interactivos, tsParticles es la opción más seria del mercado. El problema es el contexto: estos efectos suelen ser decoración pura, y en producción real raramente justifican el overhead. Vale para landing pages, portfolios o proyectos creativos. En apps serias, es tentación de diseño que después hay que sacar.
+
+**強み:** _Altamente configurable con decenas de efectos out-of-the-box (confeti, fuegos, nieve, etc.)_ · _Soporte para React, Vue, Angular, Svelte y otros frameworks con wrappers oficiales_ · _Activamente mantenido con releases frecuentes y buena documentación_
+
+**Tags:** `typescript` `animations` `canvas` `particles` `frontend`
+
+---
+
 ### [Visual Studio Code](https://github.com/microsoft/vscode)
 
 ![](https://img.shields.io/github/stars/microsoft/vscode?style=flat-square&label=⭐) · Found in 4 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 New type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. Code provides comprehensive editing and debugging support, an extensibility model, and lightweight integration with existing tools.
 
@@ -84,7 +149,9 @@ New type of tool that combines the simplicity of a code editor with what develop
 
 ![](https://img.shields.io/github/stars/vitejs/vite?style=flat-square&label=⭐) · Found in 4 active sources
 
-_(label: good first issue)_ <br> Next generation frontend tooling. It's fast! Alternative to Create React App
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+<br Next generation frontend tooling. It's fast! Alternative to Create React App
 
 > **AI 分析:** Vite es el estándar de facto para tooling frontend moderno y con razón: resolvió el problema real de que Webpack tardaba una eternidad en levantar proyectos grandes. Usa ES modules nativos en desarrollo y Rollup para producción, lo que lo hace genuinamente rápido. No es hype, es adopción masiva con fundamento técnico. Cualquier dev frontend que siga usando CRA en 2024 está perdiendo el tiempo. El ecosistema de plugins es sólido y el soporte multi-framework es real.
 
@@ -94,11 +161,29 @@ _(label: good first issue)_ <br> Next generation frontend tooling. It's fast! Al
 
 ---
 
+### [Amplication](https://github.com/amplication/amplication)
+
+![](https://img.shields.io/github/stars/amplication/amplication?style=flat-square&label=⭐) · Found in 3 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+<br Amplication is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
+
+> **AI 分析:** Generador de código Node.js con UI que abstrae boilerplate repetitivo (auth, CRUD, DB). Útil para prototipado rápido y MVPs. Riesgo: código generado puede ser opaco y difícil de mantener si necesitás customizaciones profundas.
+
+**強み:** _Acelera desarrollo inicial eliminando scaffolding tedioso_ · _Open source: podés forkear y modificar la generación de código_
+
+**Tags:** `code-generation` `nodejs` `backend` `low-code` `open-source`
+
+---
+
 ### [Babel](https://github.com/babel/babel)
 
 ![](https://img.shields.io/github/stars/babel/babel?style=flat-square&label=⭐) · Found in 3 active sources
 
-_(label: good first issue)_ <br> A compiler for writing next generation JavaScript.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+<br A compiler for writing next generation JavaScript.
 
 > **AI 分析:** Transpilador de JavaScript que convierte código moderno a versiones compatibles. Resuelve el problema real de soportar sintaxis nueva en entornos legacy. Estándar de facto en toolchains front-end.
 
@@ -111,6 +196,8 @@ _(label: good first issue)_ <br> A compiler for writing next generation JavaScri
 ### [D3js](https://d3js.org)
 
 Found in 3 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 is a powerful data visualization javascript library.
 
@@ -126,7 +213,9 @@ is a powerful data visualization javascript library.
 
 ![](https://img.shields.io/github/stars/eslint/eslint?style=flat-square&label=⭐) · Found in 3 active sources
 
-_(label: good first issue)_ <br> A fully pluggable tool for identifying and reporting on patterns in JavaScript.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+<br A fully pluggable tool for identifying and reporting on patterns in JavaScript.
 
 > **AI 分析:** Linter configurable para JS/TS que encuentra bugs de sintaxis y estilo. Standard en cualquier proyecto profesional. Resuelve consistencia y errores tontos antes de runtime.
 
@@ -136,9 +225,27 @@ _(label: good first issue)_ <br> A fully pluggable tool for identifying and repo
 
 ---
 
+### [Ghost](https://github.com/tryghost/ghost)
+
+![](https://img.shields.io/github/stars/tryghost/ghost?style=flat-square&label=⭐) · Found in 3 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+<br Just a blogging platform
+
+> **AI 分析:** Plataforma de blogging moderna con editor visual y enfoque headless. Para content creators que necesitan controlar hosting y datos propios, sin dependencia de SaaS.
+
+**強み:** _Editor intuitivo con preview real-time_ · _API headless bien documentada para extensiones_
+
+**Tags:** `javascript` `node.js` `cms` `self-hosted` `blogging`
+
+---
+
 ### [grpc](https://github.com/grpc/grpc)
 
 ![](https://img.shields.io/github/stars/grpc/grpc?style=flat-square&label=⭐) · Found in 3 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 Remote Procedure Calls (RPCs) provide a useful abstraction for building distributed applications and services. The libraries in this repository provide a concrete implementation of the gRPC protocol, layered over HTTP/2. These libraries enable communication between clients and servers using any combination of the supported languages.
 
@@ -150,9 +257,43 @@ Remote Procedure Calls (RPCs) provide a useful abstraction for building distribu
 
 ---
 
+### [juspay/neurolink](https://github.com/juspay/neurolink)
+
+![](https://img.shields.io/github/stars/juspay/neurolink?style=flat-square&label=⭐) · Found in 3 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+📇 ☁️ 🏠 🍎 🪟 🐧 Making enterprise AI infrastructure universally accessible. Edge-first platform unifying 12 providers and 100+ models with multi-agent orchestration, HITL workflows, guardrails middleware, and context summarization.
+
+> **AI 分析:** Plataforma edge-first para IA empresarial: 12+ providers, 100+ modelos, orquestación multi-agente. Resuelve: consolidar infra AI distribuida con guardrails y HITL. Ambicioso pero info técnica escasa.
+
+**強み:** _Abstracción multi-provider consolidada_ · _Middleware guardrails incluido_
+
+**Tags:** `edge-computing` `multi-agent` `enterprise` `orchestration`
+
+---
+
+### [mkosir/react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt)
+
+![](https://img.shields.io/github/stars/mkosir/react-parallax-tilt?style=flat-square&label=⭐) · Found in 3 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+GIF demo. Multiple badges. Feature list. Great live demo with code examples. Easy to follow instructions for local development set up.
+
+> **AI 分析:** Componente React bien mantenido para efecto tilt/parallax en cards y elementos UI. Resuelve un problema concreto y específico: ese efecto 3D de inclinación que ves en portfolios y landing pages premium. No es para todos los proyectos, pero cuando lo necesitás, evitás reinventar la rueda con listeners de mouse y transforms manuales. La demo es excelente, la API parece limpia. El riesgo real es usarlo de más y terminar con una UI que marea al usuario.
+
+**強み:** _API declarativa que abstrae toda la matemática de mouse position + CSS 3D transforms_ · _Demo interactiva con código que permite evaluar el efecto antes de instalar_ · _Mantenido activamente con TypeScript support incluido_
+
+**Tags:** `react` `animation` `css-transform` `ui-components` `parallax`
+
+---
+
 ### [query](https://github.com/tanstack/query)
 
 ![](https://img.shields.io/github/stars/tanstack/query?style=flat-square&label=⭐) · Found in 3 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
 
@@ -168,7 +309,9 @@ Powerful asynchronous state management, server-state utilities and data fetching
 
 ![](https://img.shields.io/github/stars/facebook/react-native?style=flat-square&label=⭐) · Found in 3 active sources
 
-_(label: Good-first-issue)_ <br> A framework for building native apps with React.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+<br A framework for building native apps with React.
 
 > **AI 分析:** Framework cross-platform (iOS/Android) con React. Build once, deploy iOS+Android. Para startups que priorizan velocidad sobre performance nativa.
 
@@ -178,296 +321,11 @@ _(label: Good-first-issue)_ <br> A framework for building native apps with React
 
 ---
 
-### [Vue.js](https://github.com/vuejs/vue)
-
-![](https://img.shields.io/github/stars/vuejs/vue?style=flat-square&label=⭐) · Found in 3 active sources
-
-_(label: good first issue)_ <br> The Progressive JavaScript Framework.
-
-> **AI 分析:** Framework JavaScript progresivo (Vue 3). SFC reactivas, menor curva que React. Ideal para equipos pequeños o MPA legacy que necesitan reactividad.
-
-**強み:** _Sintaxis declarativa más legible que React JSX_ · _Single File Components con scope automático CSS_
-
-**Tags:** `javascript` `vue` `spa` `frontend` `reactive`
-
----
-
-### [framer-motion](https://github.com/framer/motion)
-
-![](https://img.shields.io/github/stars/framer/motion?style=flat-square&label=⭐) · Found in 2 active sources
-
-Open source, production-ready animation and gesture library for React
-
-> **AI 分析:** El estándar de facto para animaciones en React. No es hype, es la herramienta que usan desde startups hasta empresas grandes porque baja la barrera de entrada a animaciones complejas de forma dramática. La API declarativa con `motion.div` y el sistema de variantes son genuinamente elegantes. Si hacés React y necesitás algo más que CSS transitions, acá empieza y termina la búsqueda. El único problema real es el bundle size, que puede doler en proyectos donde cada KB importa.
-
-**強み:** _API declarativa con variantes que hace animaciones orquestadas complejas sorprendentemente simples_ · _Soporte nativo para gestures (drag, tap, hover) integrado sin librerías extra_ · _Animaciones con layout automático (AnimatePresence) que resuelven el clásico dolor de animar elementos que entran/salen del DOM_
-
-**Tags:** `react` `animation` `gestures` `ui` `open-source`
-
----
-
-### [GoAccess](https://goaccess.io)
-
-Found in 2 active sources
-
-Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. `MIT` `C`
-
-> **AI 分析:** Analizador logs web tiempo-real, terminal + web UI. Para sysadmins/devops que auditan tráfico. Lightweight, binario C. Estándar de facto.
-
-**強み:** _Blazing-fast C implementation; zero dependencies_ · _Múltiples formatos (Apache, Nginx, CloudFront) y outputs interactivos_
-
-**Tags:** `web-analytics` `log-parser` `cli` `c` `real-time`
-
----
-
-### [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)
-
-![](https://img.shields.io/github/stars/hasura/graphql-engine?style=flat-square&label=⭐) · Found in 2 active sources
-
-_(label: good first issue)_ <br> Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
-
-> **AI 分析:** GraphQL engine en Haskell sobre Postgres con webhooks y RBAC. Genera APIs GraphQL automáticas. Standard industrial para Postgres + GraphQL sin desarrollo custom.
-
-**強み:** _Genera schema GraphQL automático desde DB_ · _Webhooks en eventos DB nativos, evita polling_
-
-**Tags:** `haskell` `graphql` `postgres` `realtime` `webhooks`
-
----
-
-### [hyperium/hyper](https://github.com/hyperium/hyper)
-
-![](https://img.shields.io/github/stars/hyperium/hyper?style=flat-square&label=⭐) · Found in 2 active sources
-
-an HTTP implementation [](https://github.com/hyperium/hyper/actions?query=workflow%3ACI)
-
-> **AI 分析:** HTTP client/server library de bajo nivel para Rust. Para quien necesita control fino sobre HTTP. Estándar en Rust async web.
-
-**強み:** _Arquitectura async/await limpia con Tokio_ · _Performance de referencia en benchmarks HTTP Rust_
-
-**Tags:** `rust` `http` `async` `networking`
-
----
-
-### [Leaflet](https://github.com/leaflet/leaflet)
-
-![](https://img.shields.io/github/stars/leaflet/leaflet?style=flat-square&label=⭐) · Found in 2 active sources
-
-_(label: good first issue)_ <br> JavaScript library for mobile-friendly interactive maps.
-
-> **AI 分析:** Librería JavaScript para mapas interactivos mobile-first. Ligera (~40kb), API simple, plugin-based. Estándar en web mapping antes de Google Maps SDK dominar.
-
-**強み:** _Tamaño mínimo y rendimiento en móviles_ · _API intuitiva sin configuración compleja_
-
-**Tags:** `mapping` `geospatial` `javascript` `lightweight` `open-source`
-
----
-
-### [Nuxt.js](https://github.com/nuxt/nuxt.js)
-
-![](https://img.shields.io/github/stars/nuxt/nuxt.js?style=flat-square&label=⭐) · Found in 2 active sources
-
-Minimalistic framework for server-rendered Vue.js apps.
-
-> **AI 分析:** Nuxt es el meta-framework de Vue por excelencia. Si trabajás con Vue y necesitás SSR, SSG o una estructura de proyecto seria, Nuxt te ahorra semanas de configuración. Es el equivalente a Next.js pero para el ecosistema Vue: routing automático por file-system, módulos para todo, excelente DX. La descripción 'minimalistic' quedó desactualizada hace rato, hoy es un framework completo y maduro. Imprescindible para proyectos Vue en producción que necesiten SEO o performance real.
-
-**強み:** _File-based routing automático y convenciones de proyecto que eliminan configuración boilerplate desde el día uno_ · _Soporte nativo para SSR, SSG e híbrido (ISR) con Nitro como server engine, flexible para cualquier deployment target_ · _Ecosistema de módulos oficiales y comunitarios muy amplio (auth, image, content, i18n) que acelera el desarrollo_
-
-**Tags:** `vue` `ssr` `ssg` `framework` `full-stack`
-
----
-
-### [React](https://github.com/facebook/react)
-
-![](https://img.shields.io/github/stars/facebook/react?style=flat-square&label=⭐) · Found in 2 active sources
-
-_(label: good first issue)_ <br> A declarative, efficient, and flexible JavaScript library for building user interfaces.
-
-> **AI 分析:** Librería JavaScript declarativa y eficiente para UIs. Estándar de la industria web. Resuelve el problema de componentes reutilizables y state management de forma superior a alternativas.
-
-**強み:** _Ecosistema masivo y tooling maduro_ · _Performance optimizado con Virtual DOM y fiber architecture_
-
-**Tags:** `javascript` `ui-library` `component-based` `jsx` `facebook`
-
----
-
-### [Safari](https://apple.com/safari)
-
-Found in 2 active sources
-
-Native browser for Macs. ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/safari-extensions#readme)
-
-> **AI 分析:** Browser nativo macOS de Apple. WebKit engine, integración SO profunda. Para usuarios Mac que priorizan rendimiento/integración sobre extensibilidad.
-
-**強み:** _Rendimiento nativo optimizado, battery efficiency superior_ · _Integración OS profunda: iCloud Keychain, Handoff_
-
-**Tags:** `browser` `webkit` `macos` `native`
-
----
-
-### [scrapy](https://github.com/scrapy/scrapy)
-
-![](https://img.shields.io/github/stars/scrapy/scrapy?style=flat-square&label=⭐) · Found in 2 active sources
-
-_(label: good first issue)_ <br> A fast high-level web crawling & scraping framework for Python.
-
-> **AI 分析:** Framework de web scraping de alto nivel para Python. Estándar de la industria para crawling a escala, muy maduro y documentado.
-
-**強み:** _Estándar de facto para scraping en Python_ · _Maduro, estable, excelente documentación_
-
-**Tags:** `python` `scraping` `web-crawling` `framework`
-
----
-
-### [Storybook JS](https://github.com/storybookjs/storybook)
-
-![](https://img.shields.io/github/stars/storybookjs/storybook?style=flat-square&label=⭐) · Found in 2 active sources
-
-_(label: good first issue)_ <br> Storybook is a frontend workshop for building UI components and pages in isolation.
-
-> **AI 分析:** Storybook es el estándar para documentar y desarrollar componentes UI en aislamiento. Permite iterar rápido sin tocar la app, integra bien con testing y CI/CD. Imprescindible si laburás con componentes reutilizables.
-
-**強み:** _Ecosistema maduro con addons para testing visual, accesibilidad y performance_ · _Excelente DX: hot reload, controles interactivos, versionado de historias_
-
-**Tags:** `ui-components` `documentation` `testing` `react-vue-angular`
-
----
-
-### [svelte](https://github.com/sveltejs/svelte)
-
-![](https://img.shields.io/github/stars/sveltejs/svelte?style=flat-square&label=⭐) · Found in 2 active sources
-
-Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
-
-> **AI 分析:** Compilador de frontend que genera JS vanilla ultra-optimizado. Revolucionó el paradigma 'compiler-first', hoy estándar para apps que priorizan performance y bundle size.
-
-**強み:** _Output JS limpio y minimal, mejor performance que React/Vue_ · _Reactividad a nivel compilador sin runtime overhead_
-
-**Tags:** `javascript` `compiler` `reactive` `ui` `framework`
-
----
-
-### [TrailBase](https://trailbase.io)
-
-Found in 2 active sources
-
-Open, sub-millisecond, single-executable FireBase alternative with type-safe REST & realtime APIs, built-in JS/TS runtime, auth & admin UI. )
-
-> **AI 分析:** Firebase alternativa open-source, single-binary, Rust/Docker. APIs type-safe REST+realtime, auth integrado, runtime JS/TS. Problema real resuelto: self-hosted realtime DB.
-
-**強み:** _Single executable, deploys trivial_ · _Type-safe APIs generadas, runtime integrado sin node_modules_
-
-**Tags:** `firebase-alternative` `rust` `self-hosted` `realtime` `backend`
-
----
-
-
----
-
-## 👍 試す価値あり — ニッチで堅実
-
-GEMs ほど話題ではないが、該当するユースケースなら信頼できる。
-
-### [Bit](https://github.com/teambit/bit)
-
-![](https://img.shields.io/github/stars/teambit/bit?style=flat-square&label=⭐) · Found in 4 active sources
-
-Manage and reuse `vue` components between projects. Easily isolate and share components from any project without changing its source code, organize curated collections and install in different projects.
-
-> **AI 分析:** Bit resuelve un problema real y doloroso: compartir componentes entre proyectos sin convertirte en mantenedor de un monorepo o publicar 50 paquetes npm. La propuesta es sólida, el ecosistema es activo y tiene adopción real en empresas con múltiples frontends. El problema es que la curva de entrada no es trivial y el modelo de Bit Cloud (su SaaS) complica decidir hasta dónde usarlo gratis. Para equipos con design systems distribuidos, vale la pena. Para un proyecto solo, es overkill.
-
-**強み:** _Permite aislar y versionar componentes individuales sin reestructurar el proyecto fuente_ · _Funciona con múltiples frameworks (Vue, React, Angular) desde un mismo flujo de trabajo_ · _Modelo de dependencias por componente: cada uno trackea sus propias deps_
-
-**Tags:** `component-sharing` `monorepo` `vue` `react` `design-system`
-
----
-
-### [Gatsby.js](https://github.com/gatsbyjs/gatsby)
-
-![](https://img.shields.io/github/stars/gatsbyjs/gatsby?style=flat-square&label=⭐) · Found in 4 active sources
-
-_(label: good first issue)_ <br> Build blazing fast, modern apps and websites with React.
-
-> **AI 分析:** Generador de sitios estáticos React con GraphQL. Bueno para marketing/blogs con performance garantizada; overkill para SPAs dinámicas.
-
-**強み:** _Optimización automática de imágenes y bundle_ · _Plugins ecosystem robusto para extensibilidad_
-
-**Tags:** `react` `static-site-generator` `graphql`
-
----
-
-### [tsParticles](https://github.com/matteobruni/tsparticles)
-
-![](https://img.shields.io/github/stars/matteobruni/tsparticles?style=flat-square&label=⭐) · Found in 4 active sources
-
-A lightweight Javascript library to easily create highly configurable and interactive particle animations
-
-> **AI 分析:** Librería de partículas muy completa y activamente mantenida. Si necesás fondos animados con partículas, confeti, fuegos artificiales o efectos visuales interactivos, tsParticles es la opción más seria del mercado. El problema es el contexto: estos efectos suelen ser decoración pura, y en producción real raramente justifican el overhead. Vale para landing pages, portfolios o proyectos creativos. En apps serias, es tentación de diseño que después hay que sacar.
-
-**強み:** _Altamente configurable con decenas de efectos out-of-the-box (confeti, fuegos, nieve, etc.)_ · _Soporte para React, Vue, Angular, Svelte y otros frameworks con wrappers oficiales_ · _Activamente mantenido con releases frecuentes y buena documentación_
-
-**Tags:** `typescript` `animations` `canvas` `particles` `frontend`
-
----
-
-### [Amplication](https://github.com/amplication/amplication)
-
-![](https://img.shields.io/github/stars/amplication/amplication?style=flat-square&label=⭐) · Found in 3 active sources
-
-_(label: good first issue)_ <br> Amplication is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
-
-> **AI 分析:** Generador de código Node.js con UI que abstrae boilerplate repetitivo (auth, CRUD, DB). Útil para prototipado rápido y MVPs. Riesgo: código generado puede ser opaco y difícil de mantener si necesitás customizaciones profundas.
-
-**強み:** _Acelera desarrollo inicial eliminando scaffolding tedioso_ · _Open source: podés forkear y modificar la generación de código_
-
-**Tags:** `code-generation` `nodejs` `backend` `low-code` `open-source`
-
----
-
-### [Ghost](https://github.com/tryghost/ghost)
-
-![](https://img.shields.io/github/stars/tryghost/ghost?style=flat-square&label=⭐) · Found in 3 active sources
-
-_(label: good first issue)_ <br> Just a blogging platform
-
-> **AI 分析:** Plataforma de blogging moderna con editor visual y enfoque headless. Para content creators que necesitan controlar hosting y datos propios, sin dependencia de SaaS.
-
-**強み:** _Editor intuitivo con preview real-time_ · _API headless bien documentada para extensiones_
-
-**Tags:** `javascript` `node.js` `cms` `self-hosted` `blogging`
-
----
-
-### [juspay/neurolink](https://github.com/juspay/neurolink)
-
-![](https://img.shields.io/github/stars/juspay/neurolink?style=flat-square&label=⭐) · Found in 3 active sources
-
-📇 ☁️ 🏠 🍎 🪟 🐧 - Making enterprise AI infrastructure universally accessible. Edge-first platform unifying 12 providers and 100+ models with multi-agent orchestration, HITL workflows, guardrails middleware, and context summarization.
-
-> **AI 分析:** Plataforma edge-first para IA empresarial: 12+ providers, 100+ modelos, orquestación multi-agente. Resuelve: consolidar infra AI distribuida con guardrails y HITL. Ambicioso pero info técnica escasa.
-
-**強み:** _Abstracción multi-provider consolidada_ · _Middleware guardrails incluido_
-
-**Tags:** `edge-computing` `multi-agent` `enterprise` `orchestration`
-
----
-
-### [mkosir/react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt)
-
-![](https://img.shields.io/github/stars/mkosir/react-parallax-tilt?style=flat-square&label=⭐) · Found in 3 active sources
-
-GIF demo. Multiple badges. Feature list. Great live demo with code examples. Easy to follow instructions for local development set up.
-
-> **AI 分析:** Componente React bien mantenido para efecto tilt/parallax en cards y elementos UI. Resuelve un problema concreto y específico: ese efecto 3D de inclinación que ves en portfolios y landing pages premium. No es para todos los proyectos, pero cuando lo necesitás, evitás reinventar la rueda con listeners de mouse y transforms manuales. La demo es excelente, la API parece limpia. El riesgo real es usarlo de más y terminar con una UI que marea al usuario.
-
-**強み:** _API declarativa que abstrae toda la matemática de mouse position + CSS 3D transforms_ · _Demo interactiva con código que permite evaluar el efecto antes de instalar_ · _Mantenido activamente con TypeScript support incluido_
-
-**Tags:** `react` `animation` `css-transform` `ui-components` `parallax`
-
----
-
 ### [schedule-x](https://github.com/schedule-x/schedule-x)
 
 ![](https://img.shields.io/github/stars/schedule-x/schedule-x?style=flat-square&label=⭐) · Found in 3 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 Material design event calendar and date picker components. Demo site: https://schedule-x.dev/
 
@@ -483,7 +341,9 @@ Material design event calendar and date picker components. Demo site: https://sc
 
 ![](https://img.shields.io/github/stars/ealush/vest?style=flat-square&label=⭐) · Found in 3 active sources
 
-_(label: good first issue)_ <br> Validations framework inspired by unit testing frameworks.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+<br Validations framework inspired by unit testing frameworks.
 
 > **AI 分析:** Librería de validación inspirada en unit tests. Syntax declarativa para forms. Alternativa a Zod/Yup con API diferente. Nicho específico de validación asíncrona.
 
@@ -497,7 +357,9 @@ _(label: good first issue)_ <br> Validations framework inspired by unit testing 
 
 ![](https://img.shields.io/github/stars/vitest-dev/vitest?style=flat-square&label=⭐) · Found in 3 active sources
 
-_(label: good first issue)_ <br> A blazing fast unit test framework powered by Vite.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+<br A blazing fast unit test framework powered by Vite.
 
 > **AI 分析:** Test runner ultra-rápido para TypeScript/JS montado sobre Vite. Reemplaza Jest si te cansó la velocidad. Resuelve el problema real: feedback lento en tests.
 
@@ -511,7 +373,9 @@ _(label: good first issue)_ <br> A blazing fast unit test framework powered by V
 
 Found in 3 active sources
 
-The browser that puts you in control. ![Freeware][Freeware Icon]
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+The browser that puts you in control.
 
 > **AI 分析:** Browser Chromium con énfasis en customización y control. Para power-users que quieren personalizar colores, layouts, temas. Técnicamente funciona, pero es nicho.
 
@@ -521,11 +385,29 @@ The browser that puts you in control. ![Freeware][Freeware Icon]
 
 ---
 
+### [Vue.js](https://github.com/vuejs/vue)
+
+![](https://img.shields.io/github/stars/vuejs/vue?style=flat-square&label=⭐) · Found in 3 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+<br The Progressive JavaScript Framework.
+
+> **AI 分析:** Framework JavaScript progresivo (Vue 3). SFC reactivas, menor curva que React. Ideal para equipos pequeños o MPA legacy que necesitan reactividad.
+
+**強み:** _Sintaxis declarativa más legible que React JSX_ · _Single File Components con scope automático CSS_
+
+**Tags:** `javascript` `vue` `spa` `frontend` `reactive`
+
+---
+
 ### [webdriver.io](https://github.com/webdriverio/webdriverio)
 
 ![](https://img.shields.io/github/stars/webdriverio/webdriverio?style=flat-square&label=⭐) · Found in 3 active sources
 
-_(label: first-timers-only)_ <br> Next-gen browser and mobile automation test framework for Node.js
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+<br Next-gen browser and mobile automation test framework for Node.js
 
 > **AI 分析:** Test framework e2e para web/mobile con WebDriver Protocol. Para QA automatizado multiplataforma. Alternativa a Playwright/Cypress con mejor support móvil.
 
@@ -538,6 +420,8 @@ _(label: first-timers-only)_ <br> Next-gen browser and mobile automation test fr
 ### [biome](https://github.com/biomejs/biome)
 
 ![](https://img.shields.io/github/stars/biomejs/biome?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP
 
@@ -553,6 +437,8 @@ A toolchain for web projects, aimed to provide functionalities to maintain them.
 
 ![](https://img.shields.io/github/stars/hakky54/certificate-ripper?style=flat-square&label=⭐) · Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 CLI tool and library for extracting and exporting server certificates from HTTPS endpoints.
 
 > **AI 分析:** Toolkit selfhosted para archivar web a Wayback, archive.today, IPFS. Escenarios: preservación de contenido, análisis histórico, cumplimiento legal. Go asegura deploy ligero.
@@ -567,7 +453,9 @@ CLI tool and library for extracting and exporting server certificates from HTTPS
 
 ![](https://img.shields.io/github/stars/fastify/fastify?style=flat-square&label=⭐) · Found in 2 active sources
 
-_(label: good first issue)_ <br> Fast and low overhead web framework, for Node.js.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+<br Fast and low overhead web framework, for Node.js.
 
 > **AI 分析:** Framework web Node.js minimalista y veloz. Overhead bajo, arquitectura plugin. Alternativa seria a Express con mejor rendimiento. Resuelve necesidad de APIs rápidas sin boilerplate.
 
@@ -581,6 +469,8 @@ _(label: good first issue)_ <br> Fast and low overhead web framework, for Node.j
 
 ![](https://img.shields.io/github/stars/alibaba/formily?style=flat-square&label=⭐) · Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 High performance, extensible, and Typescript friendly
 
 > **AI 分析:** Formily es la solución de Alibaba para formularios complejos en React/Vue, y es legítimamente poderosa. Si manejás formularios empresariales con lógica condicional, validación dinámica y miles de campos, esta librería tiene sentido. El problema: la curva de aprendizaje es empinada, la documentación en inglés es irregular, y el ecosistema tiene sabor fuertemente chino (Ant Design first). Para CRUD simple es overengineering total. Para formularios de nivel enterprise, es difícil encontrar algo comparable.
@@ -591,9 +481,43 @@ High performance, extensible, and Typescript friendly
 
 ---
 
+### [framer-motion](https://github.com/framer/motion)
+
+![](https://img.shields.io/github/stars/framer/motion?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Open source, production-ready animation and gesture library for React
+
+> **AI 分析:** El estándar de facto para animaciones en React. No es hype, es la herramienta que usan desde startups hasta empresas grandes porque baja la barrera de entrada a animaciones complejas de forma dramática. La API declarativa con `motion.div` y el sistema de variantes son genuinamente elegantes. Si hacés React y necesitás algo más que CSS transitions, acá empieza y termina la búsqueda. El único problema real es el bundle size, que puede doler en proyectos donde cada KB importa.
+
+**強み:** _API declarativa con variantes que hace animaciones orquestadas complejas sorprendentemente simples_ · _Soporte nativo para gestures (drag, tap, hover) integrado sin librerías extra_ · _Animaciones con layout automático (AnimatePresence) que resuelven el clásico dolor de animar elementos que entran/salen del DOM_
+
+**Tags:** `react` `animation` `gestures` `ui` `open-source`
+
+---
+
+### [GoAccess](https://goaccess.io)
+
+Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. () MIT C
+
+> **AI 分析:** Analizador logs web tiempo-real, terminal + web UI. Para sysadmins/devops que auditan tráfico. Lightweight, binario C. Estándar de facto.
+
+**強み:** _Blazing-fast C implementation; zero dependencies_ · _Múltiples formatos (Apache, Nginx, CloudFront) y outputs interactivos_
+
+**Tags:** `web-analytics` `log-parser` `cli` `c` `real-time`
+
+---
+
 ### [gofiber/fiber](https://github.com/gofiber/fiber)
 
 ![](https://img.shields.io/github/stars/gofiber/fiber?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 Clean project logo. Useful badges and links (languages switcher, code style, test cover, docs, Discord channel). Clear description of what the project does with quickstart, benchmark charts, well-documented code examples (with the ability to hide long content), project philosophy notes ("the why of project"), tables with project addons, list of contributors, star growth statistics, and more.
 
@@ -609,7 +533,9 @@ Clean project logo. Useful badges and links (languages switcher, code style, tes
 
 ![](https://img.shields.io/github/stars/grommet/grommet?style=flat-square&label=⭐) · Found in 2 active sources
 
-_(label: good first issue)_ <br> a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+<br a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 
 > **AI 分析:** Framework React con componentes accesibles y responsive prearmados. Bueno para dashboards y aplicaciones empresariales con tema automático.
 
@@ -619,11 +545,61 @@ _(label: good first issue)_ <br> a react-based framework that provides accessibi
 
 ---
 
+### [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)
+
+![](https://img.shields.io/github/stars/hasura/graphql-engine?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+<br Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+
+> **AI 分析:** GraphQL engine en Haskell sobre Postgres con webhooks y RBAC. Genera APIs GraphQL automáticas. Standard industrial para Postgres + GraphQL sin desarrollo custom.
+
+**強み:** _Genera schema GraphQL automático desde DB_ · _Webhooks en eventos DB nativos, evita polling_
+
+**Tags:** `haskell` `graphql` `postgres` `realtime` `webhooks`
+
+---
+
+### [hyperium/hyper](https://github.com/hyperium/hyper)
+
+![](https://img.shields.io/github/stars/hyperium/hyper?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+an HTTP implementation
+
+> **AI 分析:** HTTP client/server library de bajo nivel para Rust. Para quien necesita control fino sobre HTTP. Estándar en Rust async web.
+
+**強み:** _Arquitectura async/await limpia con Tokio_ · _Performance de referencia en benchmarks HTTP Rust_
+
+**Tags:** `rust` `http` `async` `networking`
+
+---
+
+### [Leaflet](https://github.com/leaflet/leaflet)
+
+![](https://img.shields.io/github/stars/leaflet/leaflet?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+<br JavaScript library for mobile-friendly interactive maps.
+
+> **AI 分析:** Librería JavaScript para mapas interactivos mobile-first. Ligera (~40kb), API simple, plugin-based. Estándar en web mapping antes de Google Maps SDK dominar.
+
+**強み:** _Tamaño mínimo y rendimiento en móviles_ · _API intuitiva sin configuración compleja_
+
+**Tags:** `mapping` `geospatial` `javascript` `lightweight` `open-source`
+
+---
+
 ### [material-ui](https://github.com/mui/material-ui)
 
 ![](https://img.shields.io/github/stars/mui/material-ui?style=flat-square&label=⭐) · Found in 2 active sources
 
-_(label: good first issue)_ <br> React components for faster and easier web development. Build your own design system, or start with Material Design.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+<br React components for faster and easier web development. Build your own design system, or start with Material Design.
 
 > **AI 分析:** Librería React de componentes Material Design. Sirve para UIs corporativas rápidas. Dominante en ecosistema, pero pesada y opinada. Resuelve 'no tengo tiempo para diseño'.
 
@@ -633,11 +609,29 @@ _(label: good first issue)_ <br> React components for faster and easier web deve
 
 ---
 
+### [Nuxt.js](https://github.com/nuxt/nuxt.js)
+
+![](https://img.shields.io/github/stars/nuxt/nuxt.js?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Minimalistic framework for server-rendered Vue.js apps.
+
+> **AI 分析:** Nuxt es el meta-framework de Vue por excelencia. Si trabajás con Vue y necesitás SSR, SSG o una estructura de proyecto seria, Nuxt te ahorra semanas de configuración. Es el equivalente a Next.js pero para el ecosistema Vue: routing automático por file-system, módulos para todo, excelente DX. La descripción 'minimalistic' quedó desactualizada hace rato, hoy es un framework completo y maduro. Imprescindible para proyectos Vue en producción que necesiten SEO o performance real.
+
+**強み:** _File-based routing automático y convenciones de proyecto que eliminan configuración boilerplate desde el día uno_ · _Soporte nativo para SSR, SSG e híbrido (ISR) con Nitro como server engine, flexible para cualquier deployment target_ · _Ecosistema de módulos oficiales y comunitarios muy amplio (auth, image, content, i18n) que acelera el desarrollo_
+
+**Tags:** `vue` `ssr` `ssg` `framework` `full-stack`
+
+---
+
 ### [OctoLinker](https://github.com/octolinker/octolinker)
 
 ![](https://img.shields.io/github/stars/octolinker/octolinker?style=flat-square&label=⭐) · Found in 2 active sources
 
-ice_cube: - A browser extension for GitHub that makes the image name in a `Dockerfile` clickable and redirect you to the related Docker Hub page.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+icecube: A browser extension for GitHub that makes the image name in a Dockerfile clickable and redirect you to the related Docker Hub page.
 
 > **AI 分析:** Extension Chrome que linkea nombres de imágenes en Dockerfiles a Docker Hub. Micro-utilidad para devs navegando Docker.
 
@@ -650,6 +644,8 @@ ice_cube: - A browser extension for GitHub that makes the image name in a `Docke
 ### [pydantic-ai](https://github.com/pydantic/pydantic-ai)
 
 ![](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 A Python agent framework for building generative AI applications with structured schemas.
 
@@ -665,7 +661,9 @@ A Python agent framework for building generative AI applications with structured
 
 ![](https://img.shields.io/github/stars/python-babel/babel?style=flat-square&label=⭐) · Found in 2 active sources
 
-_(label: difficulty/low)_ <br> The Python Internationalization Library.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+<br The Python Internationalization Library.
 
 > **AI 分析:** I18n para Python. Buena, establece estándar, pero espacializado. Resuelve bien el problema de internacionalización si lo necesitás.
 
@@ -675,9 +673,27 @@ _(label: difficulty/low)_ <br> The Python Internationalization Library.
 
 ---
 
+### [React](https://github.com/facebook/react)
+
+![](https://img.shields.io/github/stars/facebook/react?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+<br A declarative, efficient, and flexible JavaScript library for building user interfaces.
+
+> **AI 分析:** Librería JavaScript declarativa y eficiente para UIs. Estándar de la industria web. Resuelve el problema de componentes reutilizables y state management de forma superior a alternativas.
+
+**強み:** _Ecosistema masivo y tooling maduro_ · _Performance optimizado con Virtual DOM y fiber architecture_
+
+**Tags:** `javascript` `ui-library` `component-based` `jsx` `facebook`
+
+---
+
 ### [react-relay](https://github.com/facebook/relay)
 
 ![](https://img.shields.io/github/stars/facebook/relay?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 Relay is a JavaScript framework for building data-driven React applications.
 
@@ -689,11 +705,29 @@ Relay is a JavaScript framework for building data-driven React applications.
 
 ---
 
+### [scrapy](https://github.com/scrapy/scrapy)
+
+![](https://img.shields.io/github/stars/scrapy/scrapy?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+<br A fast high-level web crawling & scraping framework for Python.
+
+> **AI 分析:** Framework de web scraping de alto nivel para Python. Estándar de la industria para crawling a escala, muy maduro y documentado.
+
+**強み:** _Estándar de facto para scraping en Python_ · _Maduro, estable, excelente documentación_
+
+**Tags:** `python` `scraping` `web-crawling` `framework`
+
+---
+
 ### [Superdesk](https://superdesk.org)
 
 Found in 2 active sources
 
-`⚠` - End-to-end news creation, production, curation, distribution, and publishing platform. `AGPL-3.0` `Docker/Python/PHP`
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+⚠ End-to-end news creation, production, curation, distribution, and publishing platform. () AGPL-3.0 Docker/Python/PHP
 
 > **AI 分析:** Plataforma integral para newsrooms: creación, producción, curación y distribución de contenido. Stack Python/PHP maduro. Resuelve flujo editorial completo pero requiere deployment y mantenimiento significativo.
 
@@ -703,11 +737,29 @@ Found in 2 active sources
 
 ---
 
+### [svelte](https://github.com/sveltejs/svelte)
+
+![](https://img.shields.io/github/stars/sveltejs/svelte?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
+
+> **AI 分析:** Compilador de frontend que genera JS vanilla ultra-optimizado. Revolucionó el paradigma 'compiler-first', hoy estándar para apps que priorizan performance y bundle size.
+
+**強み:** _Output JS limpio y minimal, mejor performance que React/Vue_ · _Reactividad a nivel compilador sin runtime overhead_
+
+**Tags:** `javascript` `compiler` `reactive` `ui` `framework`
+
+---
+
 ### [svenstaro/miniserve](https://github.com/svenstaro/miniserve)
 
 ![](https://img.shields.io/github/stars/svenstaro/miniserve?style=flat-square&label=⭐) · Found in 2 active sources
 
-A small, self-contained cross-platform CLI tool that allows you to just grab the binary and serve some file(s) via HTTP [](https://github.com/svenstaro/miniserve/actions)
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+A small, self-contained cross-platform CLI tool that allows you to just grab the binary and serve some file(s) via HTTP
 
 > **AI 分析:** CLI minimalista en Rust para servir archivos vía HTTP. Sin dependencias, binario único, cross-platform. Perfecto para compartir archivos rápidamente o prototipar servidores estáticos.
 
@@ -721,7 +773,9 @@ A small, self-contained cross-platform CLI tool that allows you to just grab the
 
 ![](https://img.shields.io/github/stars/tencent/tquic?style=flat-square&label=⭐) · Found in 2 active sources
 
-A high-performance, lightweight, and cross-platform QUIC library [](https://github.com/Tencent/tquic/actions/workflows/rust.yml)
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+A high-performance, lightweight, and cross-platform QUIC library
 
 > **AI 分析:** QUIC library Rust de Tencent. High-performance, lightweight, cross-platform. QUIC es futuro (HTTP/3), pero adopción aún niche. Competencia directa con quinn, neqo.
 
@@ -731,11 +785,29 @@ A high-performance, lightweight, and cross-platform QUIC library [](https://gith
 
 ---
 
+### [TrailBase](https://trailbase.io)
+
+Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Open, sub-millisecond, single-executable FireBase alternative with type-safe REST & realtime APIs, built-in JS/TS runtime, auth & admin UI. (Demo, ) OSL-3.0 Rust/Docker
+
+> **AI 分析:** Firebase alternativa open-source, single-binary, Rust/Docker. APIs type-safe REST+realtime, auth integrado, runtime JS/TS. Problema real resuelto: self-hosted realtime DB.
+
+**強み:** _Single executable, deploys trivial_ · _Type-safe APIs generadas, runtime integrado sin node_modules_
+
+**Tags:** `firebase-alternative` `rust` `self-hosted` `realtime` `backend`
+
+---
+
 ### [txn2/kubefwd](https://github.com/txn2/kubefwd)
 
 ![](https://img.shields.io/github/stars/txn2/kubefwd?style=flat-square&label=⭐) · Found in 2 active sources
 
-🏎️ 🏠 - Kubernetes bulk port forwarding with service discovery, /etc/hosts management, traffic monitoring, and pod log streaming
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+🏎️ 🏠 Kubernetes bulk port forwarding with service discovery, /etc/hosts management, traffic monitoring, and pod log streaming
 
 > **AI 分析:** Port forwarding bulk para Kubernetes con service discovery y /etc/hosts automation. Resuelve el quilombo de tunelizar múltiples servicios locales sin escribir comandos kubectl repetitivos. Útil para devs que trabajan contra clusters.
 
@@ -748,6 +820,8 @@ A high-performance, lightweight, and cross-platform QUIC library [](https://gith
 ### [virtua](https://github.com/inokawa/virtua)
 
 ![](https://img.shields.io/github/stars/inokawa/virtua?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 A zero-config, fast and small (~3kB) virtual list component for React, Vue and Solid.
 

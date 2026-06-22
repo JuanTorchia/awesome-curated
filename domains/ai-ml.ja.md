@@ -2,19 +2,21 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**37 GEMs · 75 試す価値あり**
+**1 Human-reviewed · 0 Popular standards · 105 AI candidates**
 
 ---
 
-## ⭐ GEMs — 業界標準
+## Human-reviewed picks
 
-コミュニティがデフォルトと見なすツール。知らないなら探る価値あり。
+Tools with a human review label and visible caveats.
 
 ### 👤 [BayesWitnesses/m2cgen](https://github.com/bayeswitnesses/m2cgen)
 
 ![](https://img.shields.io/github/stars/bayeswitnesses/m2cgen?style=flat-square&label=⭐) · 🔥 **Found in 7 active sources**
 
-A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies. [](https://github.com/BayesWitnesses/m2cgen/actions)
+**Review label:** Human Pick · **Caveat:** Best fit for teams with a matching ML or data workflow.
+
+A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies.
 
 > **AI 分析:** Esto resuelve un problema muy concreto y doloroso: deployar un modelo de ML sin cargar con scikit-learn, joblib o cualquier runtime de Python. Entrenás en Python, exportás a Go, Java o lo que necesites, y lo corrés en producción sin dependencias. Ideal para embedded, microservicios livianos o entornos donde instalar Python es un problema. El límite es que solo soporta modelos clásicos (árboles, regresión, SVM); si estás en deep learning, no te sirve. Valor real y bien acotado.
 
@@ -24,9 +26,18 @@ A CLI tool to transpile trained classic machine learning models into a native Ru
 
 ---
 
+
+---
+
+## AI candidates and needs review
+
+Automated candidates with source signal; these are not human endorsements yet.
+
 ### [XGBoost](https://github.com/dmlc/xgboost)
 
 ![](https://img.shields.io/github/stars/dmlc/xgboost?style=flat-square&label=⭐) · 🔥 **Found in 5 active sources**
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 - XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable.
 
@@ -38,506 +49,11 @@ A CLI tool to transpile trained classic machine learning models into a native Ru
 
 ---
 
-### [Apache Spark](https://github.com/apache/spark)
-
-![](https://img.shields.io/github/stars/apache/spark?style=flat-square&label=⭐) · Found in 3 active sources
-
-- Micro-batch processing for streams using the apache spark framework as a backend supporting stateful exactly-once semantics.
-
-> **AI 分析:** Memory layer para AI agents con persistencia de contexto. Para chatbots/assistants que necesiten continuidad cross-session. Promesa: no perder contexto entre interacciones.
-
-**強み:** _Abstracción limpia memory store_ · _Soporta múltiples backends (vector DB, SQL)_
-
-**Tags:** `ai-agents` `memory` `python` `storage` `llm`
-
----
-
-### [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
-
-![](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning?style=flat-square&label=⭐) · Found in 3 active sources
-
-*(GitHub)*
-
-> **AI 分析:** El repo de awesome-ml de referencia absoluta. Con más de 60k stars y años de curaduría, es el punto de entrada obligado para cualquier dev que quiere orientarse en el ecosistema ML: frameworks, librerías, datasets, papers, todo organizado por lenguaje. No es hype, es infraestructura de conocimiento. El problema es que la velocidad del campo lo deja siempre un poco desactualizado, y la cantidad de entradas puede abrumar sin criterio de calidad claro.
-
-**強み:** _Cobertura exhaustiva organizada por lenguaje de programación, útil tanto para pythonistas como para devs de R, Julia o Go_ · _Punto de entrada canónico con décadas de curaduría comunitaria y miles de contribuidores reales_
-
-**Tags:** `machine-learning` `awesome-list` `recursos` `open-source` `curated-list`
-
----
-
-### [RLlib](https://github.com/ray-project/ray)
-
-![](https://img.shields.io/github/stars/ray-project/ray?style=flat-square&label=⭐) · Found in 3 active sources
-
-RLlib is an industry level, highly scalable RL library for tf and torch, based on Ray. It's used by companies like Amazon and Microsoft to solve real-world decision making problems at scale.
-
-> **AI 分析:** RL framework distributed basado en Ray. Para empresas que necesitan scale: Amazon/Microsoft lo usan. Resuelve: entrenar agentes complejos en clusters sin morir en el intento.
-
-**強み:** _Distribución automática sin boilerplate_ · _Integración tight con Ray ecosystem (tune, serve)_
-
-**Tags:** `reinforcement-learning` `ray` `python` `distributed` `pytorch`
-
----
-
-### [SpaCy](https://github.com/explosion/spacy)
-
-![](https://img.shields.io/github/stars/explosion/spacy?style=flat-square&label=⭐) · Found in 3 active sources
-
-- spaCy is a library for advanced Natural Language Processing in Python and Cython.
-
-> **AI 分析:** Librería NLP production-ready con tokenización, tagging, parsing. Más veloz y práctica que NLTK. Resuelve bien procesamiento de texto en pipelines reales, no research.
-
-**強み:** _Performance alta en C (Cython), listo para producción_ · _Modelos pre-entrenados optimizados y muy documentados_
-
-**Tags:** `nlp` `python` `spacy` `nlp-pipeline` `production`
-
----
-
-### [Stable Baselines](https://github.com/dlr-rm/stable-baselines3)
-
-![](https://img.shields.io/github/stars/dlr-rm/stable-baselines3?style=flat-square&label=⭐) · Found in 3 active sources
-
-- A fork of OpenAI Baselines, implementations of reinforcement learning algorithms.
-
-> **AI 分析:** Implementaciones de algoritmos RL (DQN, PPO, A2C) basadas en OpenAI Baselines. Para researchers y practitioners que necesitan baseline sólidos. Mantención activa, PyTorch/TensorFlow ready.
-
-**強み:** _APIs consistentes y bien testeadas_ · _Soporta múltiples backends (Torch, TF, JAX)_
-
-**Tags:** `reinforcement-learning` `python` `pytorch` `tensorflow`
-
----
-
-### [Vercel AI](https://github.com/vercel/ai)
-
-![](https://img.shields.io/github/stars/vercel/ai?style=flat-square&label=⭐) · Found in 3 active sources
-
-- Vercel AI is a TypeScript toolkit designed to help you build AI-powered applications using popular frameworks like Next.js, React, Svelte, Vue and runtimes like Node.js.
-
-> **AI 分析:** Toolkit TypeScript para integrar IA en Next.js/React/Node.js. Abstrae múltiples proveedores de LLMs. Resuelve: construir apps IA rápido sin lock-in de proveedor.
-
-**強み:** _Abstracción consistente entre modelos_ · _Integración perfecta con Next.js_
-
-**Tags:** `typescript` `nextjs` `react` `llm-integration`
-
----
-
-### [ashvardanian/NumKong](https://github.com/ashvardanian/numkong)
-
-![](https://img.shields.io/github/stars/ashvardanian/numkong?style=flat-square&label=⭐) · Found in 2 active sources
-
-SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-512, and Arm NEON [](https://crates.io/crates/simsimd)
-
-> **AI 分析:** Librería Rust de distancias vectoriales con SIMD nativo para x86 AVX2/AVX-512 y ARM NEON. Resuelve el cuello de botella real de cómputo en búsqueda vectorial y ML. Essential para sistemas críticos en performance.
-
-**強み:** _SIMD puro sin overhead de binding a C_ · _Soporta múltiples arquitecturas (AVX2, AVX-512, NEON) con fallback automático_
-
-**Tags:** `rust` `simd` `vector-search` `avx512` `neon`
-
----
-
-### [Detectron2](https://github.com/facebookresearch/detectron2)
-
-![](https://img.shields.io/github/stars/facebookresearch/detectron2?style=flat-square&label=⭐) · Found in 2 active sources
-
-- Detectron2 is Facebook AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms.
-
-> **AI 分析:** SOTA para detección y segmentación de objetos. PyTorch-based, de Meta. Código production-ready, benchmarks líderes. Estándar en computer vision moderno, compite con YOLOv8.
-
-**強み:** _SOTA accuracy en coco/benchmarks_ · _Código limpio, extensible, models variados preentrenados_
-
-**Tags:** `python` `computer-vision` `detection` `segmentation` `pytorch`
-
----
-
-### [Dlib](https://github.com/davisking/dlib)
-
-![](https://img.shields.io/github/stars/davisking/dlib?style=flat-square&label=⭐) · Found in 2 active sources
-
-zap: - A toolkit for making real world machine learning and data analysis applications in C++. [Boost] [website](http://dlib.net/)
-
-> **AI 分析:** JAX combina Autograd con compilador XLA para ML research. Diferenciación automática funcional y JIT compilation. Potente pero curva de aprendizaje vertical para quién viene de NumPy/PyTorch.
-
-**強み:** _Composición funcional elegante, vectorization transparente_ · _Performance comparable a TensorFlow en operaciones complejas_
-
-**Tags:** `python` `automatic-differentiation` `jit-compiler` `numpy-compatible`
-
----
-
-### [EspNet](https://github.com/espnet/espnet)
-
-![](https://img.shields.io/github/stars/espnet/espnet?style=flat-square&label=⭐) · Found in 2 active sources
-
-ESPnet is an end-to-end speech processing toolkit for tasks like speech recognition, translation, and enhancement, using PyTorch and Kaldi-style data processing.
-
-> **AI 分析:** Toolkit end-to-end consolidado para speech processing: ASR, traducción, enhancement. Stack PyTorch + Kaldi. Estándar en academia, buena docs, comunidad activa. Algo pesado para tareas simples.
-
-**強み:** _Cobertura completa de pipelines speech_ · _Buena documentación y ejemplos reproducibles_
-
-**Tags:** `speech-processing` `pytorch` `asr` `end-to-end`
-
----
-
-### [Evidently](https://github.com/evidentlyai/evidently)
-
-![](https://img.shields.io/github/stars/evidentlyai/evidently?style=flat-square&label=⭐) · Found in 2 active sources
-
-- Evidently is an open-source framework to evaluate, test and monitor ML and LLM-powered systems.
-
-> **AI 分析:** Framework para evaluar, testear y monitorear sistemas ML/LLM. Métricas data drift, model performance, LLM outputs. Para equipos con modelos en producción. Resuelve observabilidad de ML.
-
-**強み:** _Reportes interactivos muy claros sobre data drift_ · _Cobertura amplia: tabular, NLP, CV, LLM_
-
-**Tags:** `python` `mlops` `monitoring` `data-drift` `testing`
-
----
-
-### [Faiss](https://github.com/facebookresearch/faiss)
-
-![](https://img.shields.io/github/stars/facebookresearch/faiss?style=flat-square&label=⭐) · Found in 2 active sources
-
-- Faiss is a library for efficient similarity search and clustering of dense vectors.
-
-> **AI 分析:** Librería de búsqueda de similitud vectorial de Meta Research. Estándar en RAG, recomendación, clustering. GPU-acelerada. Producción en scale.
-
-**強み:** _Performance SOTA en búsqueda de k-NN sobre millones de vectores_ · _Índices especializados (HNSW, IVF) con tuning fino_
-
-**Tags:** `machine-learning` `similarity-search` `vector-db` `gpu` `python`
-
----
-
-### [GoCV](https://github.com/hybridgroup/gocv)
-
-![](https://img.shields.io/github/stars/hybridgroup/gocv?style=flat-square&label=⭐) · Found in 2 active sources
-
-Package for computer vision using OpenCV 4 and beyond.
-
-> **AI 分析:** Binding Go para OpenCV 4+. Std de facto para CV en Go. Activo, bien mantenido, excelente para servicios CV en producción. Comunidad sólida.
-
-**強み:** _Binding limpio y completo a OpenCV 4_ · _Performance cercano a C++ nativo sin overhead_
-
-**Tags:** `go` `opencv` `computer-vision` `binding` `production-ready`
-
----
-
-### [Gymnasium](https://github.com/farama-foundation/gymnasium)
-
-![](https://img.shields.io/github/stars/farama-foundation/gymnasium?style=flat-square&label=⭐) · Found in 2 active sources
-
-- Gymnasium is an open source Python library for developing and comparing reinforcement learning algorithms by providing a standard API to communicate between learning algorithms and environments, as well as a standard set of environments compliant with that API.
-
-> **AI 分析:** Estándar de facto para RL en Python. Gymnasium reemplazó a OpenAI Gym, proporciona API unificada para entrenar agentes contra ambientes simulados. Imprescindible si hacés RL serio.
-
-**強み:** _API estable y bien documentada, compatibilidad con 1000+ ambientes_ · _Mantenimiento activo por Farama Foundation, reemplazo directo de Gym con mejoras_
-
-**Tags:** `reinforcement-learning` `python` `api-standard` `simulation`
-
----
-
-### [huggingface/tokenizers](https://github.com/huggingface/tokenizers)
-
-![](https://img.shields.io/github/stars/huggingface/tokenizers?style=flat-square&label=⭐) · Found in 2 active sources
-
-Hugging Face's tokenizers for modern NLP pipelines (original implementation) with bindings for Python. [](https://github.com/huggingface/tokenizers/actions)
-
-> **AI 分析:** Tokenizadores ultra-optimizados de HF. Referencia en NLP moderno, usado en casi todo pipeline serio. Rust puro con bindings Python, 10-100x más rápido que alternativas.
-
-**強み:** _Performance extremo, manejo eficiente de vocabularios grandes_ · _Integración perfecta con transformers HF, bindings Python de primera clase_
-
-**Tags:** `nlp` `tokenization` `rust` `huggingface`
-
----
-
-### [InterpretML](https://github.com/interpretml/interpret)
-
-![](https://img.shields.io/github/stars/interpretml/interpret?style=flat-square&label=⭐) · Found in 2 active sources
-
-InterpretML implements the Explainable Boosting Machine (EBM), a modern, fully interpretable machine learning model based on Generalized Additive Models (GAMs). This open-source package also provides visualization tools for EBMs, other glass-box models, and black-box explanations.
-
-> **AI 分析:** ML interpretable con Explainable Boosting Machines (EBM). Resuelve el problema real de explicabilidad en modelos sin sacrificar performance. Para data scientists que necesitan auditar decisiones.
-
-**強み:** _Modelos interpretables por defecto, no post-hoc_ · _Visualizaciones robustas para stakeholders no-técnicos_
-
-**Tags:** `interpretable-ml` `python` `glass-box` `visualization`
-
----
-
-### [Jax](https://github.com/jax-ml/jax)
-
-![](https://img.shields.io/github/stars/jax-ml/jax?style=flat-square&label=⭐) · Found in 2 active sources
-
-- Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
-
-> **AI 分析:** Framework ML Python: diferenciación automática, vectorización y JIT a GPU/TPU. Estándar en research de IA, compite con PyTorch. Más funcional, menos mainstream.
-
-**強み:** _Transformaciones composables superiores a PyTorch_ · _JIT compilation transparente a cualquier backend_
-
-**Tags:** `python` `ml` `jit` `gpu` `autodiff`
-
----
-
-### [Kaldi](https://github.com/kaldi-asr/kaldi)
-
-![](https://img.shields.io/github/stars/kaldi-asr/kaldi?style=flat-square&label=⭐) · Found in 2 active sources
-
-Kaldi is a toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. Kaldi is intended for use by speech recognition researchers.
-
-> **AI 分析:** Toolkit C++ de referencia para ASR, usado en investigación y producción. Proporciona componentes sólidos para speech recognition end-to-end. Estándar de facto en academia.
-
-**強み:** _Estándar en investigación ASR desde 2010+_ · _Componentes modulares y bien documentados para researchers_
-
-**Tags:** `speech-recognition` `asr` `c++` `toolkit` `kaldi`
-
----
-
-### [LlamaIndex](https://github.com/run-llama/llama_index)
-
-![](https://img.shields.io/github/stars/run-llama/llama_index?style=flat-square&label=⭐) · Found in 2 active sources
-
-- LlamaIndex (GPT Index) is a data framework for your LLM application.
-
-> **AI 分析:** Data framework para RAG/retrieval en LLM apps. Estándar en la industria para augment LLMs con docs. Maduro, bien mantenido, opción default.
-
-**強み:** _Integración completa con 50+ data sources y LLMs_ · _Abstracciones de retrieval robustas (query engines)_
-
-**Tags:** `rag` `retrieval` `llm-framework` `python`
-
----
-
-### [Milvus](https://github.com/milvus-io/milvus)
-
-![](https://img.shields.io/github/stars/milvus-io/milvus?style=flat-square&label=⭐) · Found in 2 active sources
-
-Milvus is a cloud-native, open-source vector database built to manage embedding vectors generated by machine learning models and neural networks.
-
-> **AI 分析:** Vector database cloud-native para embeddings. Estándar en RAG/search, competidor serio de Pinecone con mejor control operacional.
-
-**強み:** _Self-hosted option viable vs Pinecone SaaS_ · _Escalabilidad y performance demostrada en prod_
-
-**Tags:** `vector-database` `embeddings` `cloud-native` `python`
-
----
-
-### [Ollama](https://github.com/ollama/ollama)
-
-![](https://img.shields.io/github/stars/ollama/ollama?style=flat-square&label=⭐) · Found in 2 active sources
-
-- Get up and running with large language models, locally.
-
-> **AI 分析:** Ejecuta LLMs localmente sin GPU costosa. Para developers, researchers y quién necesita privacidad. Reemplaza dependencia de APIs remotas. Instalación trivial, interface elegante.
-
-**強み:** _Setup one-liner, soporte para decenas de modelos (Llama, Mistral, etc.)_ · _Sin dependencias cloud, control total de datos_
-
-**Tags:** `llm` `local-inference` `docker` `go` `open-source`
-
----
-
-### [oneDNN](https://github.com/oneapi-src/onednn)
-
-![](https://img.shields.io/github/stars/oneapi-src/onednn?style=flat-square&label=⭐) · Found in 2 active sources
-
-An open-source cross-platform performance library for deep learning applications. [Apache] [website](https://01.org/onednn)
-
-> **AI 分析:** Performance library para DL, optimiza kernels CPU/GPU. Usada por PyTorch/TensorFlow internamente. Para production DL en hardware especializado, es GEM.
-
-**強み:** _Optimizaciones hardware-specific probadas en producción_ · _Mantenida por Intel, estándar de facto_
-
-**Tags:** `deep-learning` `cpp` `cpu-optimization` `gpu`
-
----
-
-### [Optuna](https://github.com/optuna/optuna)
-
-![](https://img.shields.io/github/stars/optuna/optuna?style=flat-square&label=⭐) · Found in 2 active sources
-
-- Optuna is an automatic hyperparameter optimisation software framework, particularly designed for machine learning.
-
-> **AI 分析:** Framework para optimización automática de hiperparámetros con algoritmos sofisticados (TPE, Bayesiano). Resuelve problema real: buscar hyper-params sin tedio, escala a miles de trials.
-
-**強み:** _Algoritmos avanzados incorporados (TPE, CMA-ES), better than grid search_ · _Distributed ready, integración con Ray/Dask_
-
-**Tags:** `hyperparameter-optimization` `bayesian-search` `ml-pipeline`
-
----
-
-### [PEFT](https://github.com/huggingface/peft)
-
-![](https://img.shields.io/github/stars/huggingface/peft?style=flat-square&label=⭐) · Found in 2 active sources
-
-- Parameter-Efficient Fine-Tuning (PEFT) methods enable efficient adaptation of pre-trained language models (PLMs) to various downstream applications without fine-tuning all the model's parameters.
-
-> **AI 分析:** Framework HuggingFace para adaptar LLMs con pocas memoria/compute (LoRA, QLoRA, prefix-tuning). Esencial para fine-tuning eficiente. Estándar industrial de facto en ML.
-
-**強み:** _Reduce parámetros entrenables en 90%+; compatible con cualquier modelo HF_ · _Comunidad masiva, docs exhaustivas_
-
-**Tags:** `fine-tuning` `lora` `transformers` `python` `huggingface`
-
----
-
-### [PyOD](https://github.com/yzhao062/pyod)
-
-![](https://img.shields.io/github/stars/yzhao062/pyod?style=flat-square&label=⭐) · Found in 2 active sources
-
-> Python Outlier Detection, comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. Featured for Advanced models, including Neural Networks/Deep Learning and Outlier Ensembles.
-
-> **AI 分析:** Toolkit Python para detección de outliers en datos multivariados. Soporta algoritmos clásicos y redes neuronales. Madura, bien mantenida, estándar en data science.
-
-**強み:** _50+ algoritmos, desde Isolation Forest a autoencoders_ · _Interfaz sklearn-compatible, integra sin fricción_
-
-**Tags:** `python` `anomaly-detection` `machine-learning` `scikit-compatible`
-
----
-
-### [PySyft](https://github.com/openmined/pysyft)
-
-![](https://img.shields.io/github/stars/openmined/pysyft?style=flat-square&label=⭐) · Found in 2 active sources
-
-- A Python library for secure, private Deep Learning. PySyft decouples private data from model training, using Multi-Party (MPC) within PyTorch.
-
-> **AI 分析:** ML con privacidad usando multi-party computation. Resuelve problema real de datos sensibles sin exponerlos. Niche empresarial/healthcare, importante pero adopción lenta.
-
-**強み:** _Único framework maduro para privacy-preserving ML en Python_ · _Integración cleancon PyTorch existente_
-
-**Tags:** `privacy-preserving` `federated-learning` `python` `pytorch` `mpc`
-
----
-
-### [PyTorch Lightning](https://github.com/lightning-ai/pytorch-lightning)
-
-![](https://img.shields.io/github/stars/lightning-ai/pytorch-lightning?style=flat-square&label=⭐) · Found in 2 active sources
-
-- PyTorch Lightning pretrains, finetunes and deploys AI models on multiple GPUs, TPUs with zero code changes.
-
-> **AI 分析:** Wrapper de PyTorch que abstrae boilerplate para entrenamiento distribuido en multi-GPU/TPU. Estándar de facto en research deep learning. Resuelve problema real: pasar de 1 GPU a multi-device sin reescribir código.
-
-**強み:** _Reduce líneas de código boilerplate en 70%+ sin sacrificar control_ · _Integración nativa con multi-GPU/TPU, logging, checkpoints automáticos_
-
-**Tags:** `pytorch` `deep-learning` `distributed-training` `python` `ml`
-
----
-
-### [Qdrant](https://github.com/qdrant/qdrant)
-
-![](https://img.shields.io/github/stars/qdrant/qdrant?style=flat-square&label=⭐) · Found in 2 active sources
-
-An open source vector similarity search engine with extended filtering support [](https://github.com/qdrant/qdrant/actions)
-
-> **AI 分析:** Vector DB open-source production-grade: búsqueda similarity + filtering avanzado. Rust, rápido, bien mantenido. Estándar emergente junto a Pinecone. Ideal para RAG, recsys, semantic search.
-
-**強み:** _Filtering avanzado (mejor que Pinecone v1)_ · _Cluster distribuido nativo, prod-ready_
-
-**Tags:** `vector-db` `rust` `similarity-search` `filtering` `self-hosted`
-
----
-
-### [Sacred](https://github.com/idsia/sacred)
-
-![](https://img.shields.io/github/stars/idsia/sacred?style=flat-square&label=⭐) · Found in 2 active sources
-
-Python tool to help you configure, organize, log and reproduce experiments. Like a notebook lab in the context of Chemistry/Biology. The community has built multiple add-ons leveraging the proposed standard.
-
-> **AI 分析:** Framework Python para reproducibilidad experimental con logging y tracking integrado. Estándar en ML research hace años. Comunidad activa construyó plugins (Neptune, MLflow). Si hacés experimentos iterativos, vale.
-
-**強み:** _Estándar de facto en ML academia_ · _Ecosystem de add-ons maduro_
-
-**Tags:** `python` `reproducibility` `ml-experiment` `logging` `research`
-
----
-
-### [scikit-learn](https://scikit-learn.org)
-
-Found in 2 active sources
-
-A Python module for machine learning built on top of SciPy.
-
-> **AI 分析:** Librería ML Python con algoritmos clásicos (clustering, regression, classification). Estándar absoluto, first choice para ML tradicional y baseline models.
-
-**強み:** _Documentación de oro, API consistente_ · _Ecosistema maduro con miles de ejemplos_
-
-**Tags:** `python` `machine-learning` `scikit-learn` `scipy`
-
----
-
-### [TF-Agents](https://github.com/tensorflow/agents)
-
-![](https://img.shields.io/github/stars/tensorflow/agents?style=flat-square&label=⭐) · Found in 2 active sources
-
-- A reliable, scalable and easy to use TensorFlow library for contextual bandits and reinforcement learning.
-
-> **AI 分析:** TF-Agents es librería TensorFlow para reinforcement learning y contextual bandits. APIs claras, bien documentada, producción-ready. Nicho específico pero sólido si necesitás RL.
-
-**強み:** _APIs consistentes y documentación corporate-grade_ · _Algoritmos RL comprobados (DQN, PPO, DDPG)_
-
-**Tags:** `reinforcement-learning` `tensorflow` `python` `contextual-bandits`
-
----
-
-### [vLLM](https://github.com/vllm-project/vllm)
-
-![](https://img.shields.io/github/stars/vllm-project/vllm?style=flat-square&label=⭐) · Found in 2 active sources
-
-- vLLM is a high-throughput and memory-efficient inference and serving engine for LLMs.
-
-> **AI 分析:** Motor inference/serving de LLMs con throughput y memoria optimizados. PagedAttention elimina fragmentación. Standard para servir Llama/Mistral en producción.
-
-**強み:** _PagedAttention revolucionó memory efficiency_ · _Soporte multi-LoRA y batching dinámico nativo_
-
-**Tags:** `llm-inference` `serving` `cuda` `python`
-
----
-
-### [Vowpal Wabbit](https://github.com/vowpalwabbit/vowpal_wabbit)
-
-![](https://img.shields.io/github/stars/vowpalwabbit/vowpal_wabbit?style=flat-square&label=⭐) · Found in 2 active sources
-
-Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
-
-> **AI 分析:** Sistema ML orientado a escala con técnicas avanzadas: online learning, hashing, allreduce, reductions. Usado en producción para problemas donde el streaming y la eficiencia importan. Excelente para bandit problems y structured prediction.
-
-**強み:** _Performance extremo en datasets masivos y streaming_ · _Soporte único para técnicas avanzadas (learning2search, active learning)_
-
-**Tags:** `online-learning` `streaming` `c++` `ml-research` `vowpal-wabbit`
-
----
-
-### [Wav2Letter++](https://github.com/facebookresearch/wav2letter)
-
-![](https://img.shields.io/github/stars/facebookresearch/wav2letter?style=flat-square&label=⭐) · Found in 2 active sources
-
-Public domain, a fast open source speech processing toolkit written entirely in C++ and uses the ArrayFire tensor library and the flashlight machine learning library for maximum efficiency. [BSD]
-
-> **AI 分析:** Toolkit speech processing optimizado, C++/Lua, Facebook Research. Excelente si procesás audio/speech, pero dominio muy específico.
-
-**強み:** _Extremadamente optimizado para speech, dominante en research_ · _Integración con librería flashlight moderna_
-
-**Tags:** `c++` `lua` `speech-processing` `audio` `facebook`
-
----
-
-### [YOLOv8](https://github.com/ultralytics/ultralytics)
-
-![](https://img.shields.io/github/stars/ultralytics/ultralytics?style=flat-square&label=⭐) · Found in 2 active sources
-
-Ultralytics' YOLOv8 implementation with C++ support for real-time object detection and tracking, optimized for edge devices.
-
-> **AI 分析:** YOLOv8 de Ultralytics: detección de objetos en tiempo real, state-of-the-art en velocidad/accuracy. Estándar industrial hoy, C++ para edge. Soluciona real computer vision problem.
-
-**強み:** _Accuracy/speed tradeoff superior a competencia, muy usado en industry_ · _Soporte robusto para deployment edge con C++_
-
-**Tags:** `yolo` `object-detection` `python` `cpp` `edge-ai`
-
----
-
-
----
-
-## 👍 試す価値あり — ニッチで堅実
-
-GEMs ほど話題ではないが、該当するユースケースなら信頼できる。
-
 ### [CatBoost](https://github.com/catboost/catboost)
 
 ![](https://img.shields.io/github/stars/catboost/catboost?style=flat-square&label=⭐) · Found in 4 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 General purpose gradient boosting on decision trees library with categorical features support out of the box. It is easy to install, contains fast inference implementation and supports CPU and GPU (even multi-GPU) computation.
 
@@ -549,9 +65,27 @@ General purpose gradient boosting on decision trees library with categorical fea
 
 ---
 
+### [Apache Spark](https://github.com/apache/spark)
+
+![](https://img.shields.io/github/stars/apache/spark?style=flat-square&label=⭐) · Found in 3 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+- Micro-batch processing for streams using the apache spark framework as a backend supporting stateful exactly-once semantics.
+
+> **AI 分析:** Memory layer para AI agents con persistencia de contexto. Para chatbots/assistants que necesiten continuidad cross-session. Promesa: no perder contexto entre interacciones.
+
+**強み:** _Abstracción limpia memory store_ · _Soporta múltiples backends (vector DB, SQL)_
+
+**Tags:** `ai-agents` `memory` `python` `storage` `llm`
+
+---
+
 ### [Feature Engine](https://github.com/feature-engine/feature_engine)
 
 ![](https://img.shields.io/github/stars/feature-engine/feature_engine?style=flat-square&label=⭐) · Found in 3 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 - Feature-engine is a Python library that contains several transformers to engineer features for use in machine learning models.
 
@@ -567,6 +101,8 @@ General purpose gradient boosting on decision trees library with categorical fea
 
 ![](https://img.shields.io/github/stars/h2oai/h2o-3?style=flat-square&label=⭐) · Found in 3 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 - Fast scalable Machine Learning platform for smarter applications: Deep Learning, Gradient Boosting & XGBoost, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles, Automatic Machine Learning (AutoML), etc..
 
 > **AI 分析:** Plataforma ML enterprise con AutoML, deep learning y modelos distribuidos. Para organizaciones que necesitan piped end-to-end sin armarse con 5 librerías. Overkill para hobby projects.
@@ -581,6 +117,8 @@ General purpose gradient boosting on decision trees library with categorical fea
 
 ![](https://img.shields.io/github/stars/mem0ai/mem0?style=flat-square&label=⭐) · Found in 3 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 - Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions.
 
 > **AI 分析:** Capa de memoria para AI agents. Persiste contexo entre calls, mejora hallucinations. Mercado emergente, pero promete ser pieza clave en AI applications stateful.
@@ -591,9 +129,27 @@ General purpose gradient boosting on decision trees library with categorical fea
 
 ---
 
+### [RLlib](https://github.com/ray-project/ray)
+
+![](https://img.shields.io/github/stars/ray-project/ray?style=flat-square&label=⭐) · Found in 3 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+RLlib is an industry level, highly scalable RL library for tf and torch, based on Ray. It's used by companies like Amazon and Microsoft to solve real-world decision making problems at scale.
+
+> **AI 分析:** RL framework distributed basado en Ray. Para empresas que necesitan scale: Amazon/Microsoft lo usan. Resuelve: entrenar agentes complejos en clusters sin morir en el intento.
+
+**強み:** _Distribución automática sin boilerplate_ · _Integración tight con Ray ecosystem (tune, serve)_
+
+**Tags:** `reinforcement-learning` `ray` `python` `distributed` `pytorch`
+
+---
+
 ### [Scikit-Image](https://github.com/scikit-image/scikit-image)
 
 ![](https://img.shields.io/github/stars/scikit-image/scikit-image?style=flat-square&label=⭐) · Found in 3 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 A collection of algorithms for image processing in Python.
 
@@ -605,11 +161,61 @@ A collection of algorithms for image processing in Python.
 
 ---
 
+### [SpaCy](https://github.com/explosion/spacy)
+
+![](https://img.shields.io/github/stars/explosion/spacy?style=flat-square&label=⭐) · Found in 3 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+- spaCy is a library for advanced Natural Language Processing in Python and Cython.
+
+> **AI 分析:** Librería NLP production-ready con tokenización, tagging, parsing. Más veloz y práctica que NLTK. Resuelve bien procesamiento de texto en pipelines reales, no research.
+
+**強み:** _Performance alta en C (Cython), listo para producción_ · _Modelos pre-entrenados optimizados y muy documentados_
+
+**Tags:** `nlp` `python` `spacy` `nlp-pipeline` `production`
+
+---
+
+### [Stable Baselines](https://github.com/dlr-rm/stable-baselines3)
+
+![](https://img.shields.io/github/stars/dlr-rm/stable-baselines3?style=flat-square&label=⭐) · Found in 3 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+- A fork of OpenAI Baselines, implementations of reinforcement learning algorithms.
+
+> **AI 分析:** Implementaciones de algoritmos RL (DQN, PPO, A2C) basadas en OpenAI Baselines. Para researchers y practitioners que necesitan baseline sólidos. Mantención activa, PyTorch/TensorFlow ready.
+
+**強み:** _APIs consistentes y bien testeadas_ · _Soporta múltiples backends (Torch, TF, JAX)_
+
+**Tags:** `reinforcement-learning` `python` `pytorch` `tensorflow`
+
+---
+
+### [Vercel AI](https://github.com/vercel/ai)
+
+![](https://img.shields.io/github/stars/vercel/ai?style=flat-square&label=⭐) · Found in 3 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+- Vercel AI is a TypeScript toolkit designed to help you build AI-powered applications using popular frameworks like Next.js, React, Svelte, Vue and runtimes like Node.js.
+
+> **AI 分析:** Toolkit TypeScript para integrar IA en Next.js/React/Node.js. Abstrae múltiples proveedores de LLMs. Resuelve: construir apps IA rápido sin lock-in de proveedor.
+
+**強み:** _Abstracción consistente entre modelos_ · _Integración perfecta con Next.js_
+
+**Tags:** `typescript` `nextjs` `react` `llm-integration`
+
+---
+
 ### [agent-of-empires](https://github.com/njbrake/agent-of-empires)
 
 ![](https://img.shields.io/github/stars/njbrake/agent-of-empires?style=flat-square&label=⭐) · Found in 2 active sources
 
-A TUI/CLI for managing multiple AI coding agent sessions with tmux, git worktrees, and Docker sandboxing [](https://github.com/njbrake/agent-of-empires/actions)
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+A TUI/CLI for managing multiple AI coding agent sessions with tmux, git worktrees, and Docker sandboxing
 
 > **AI 分析:** TUI para orquestar agentes de código con tmux+git. Resuelve pain point real pero target muy específico (dev teams con agentes AI). Promesa pero mercado chico.
 
@@ -623,6 +229,8 @@ A TUI/CLI for managing multiple AI coding agent sessions with tmux, git worktree
 
 ![](https://img.shields.io/github/stars/aimhubio/aim?style=flat-square&label=⭐) · Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 - A super-easy way to record, search and compare AI experiments.
 
 > **AI 分析:** Plataforma de tracking para experimentos ML. Registra, busca y compara runs. Resuelve problema real: organizar caos de hiperparámetros y métricas en desarrollo iterativo de modelos.
@@ -633,11 +241,29 @@ A TUI/CLI for managing multiple AI coding agent sessions with tmux, git worktree
 
 ---
 
+### [ashvardanian/NumKong](https://github.com/ashvardanian/numkong)
+
+![](https://img.shields.io/github/stars/ashvardanian/numkong?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-512, and Arm NEON
+
+> **AI 分析:** Librería Rust de distancias vectoriales con SIMD nativo para x86 AVX2/AVX-512 y ARM NEON. Resuelve el cuello de botella real de cómputo en búsqueda vectorial y ML. Essential para sistemas críticos en performance.
+
+**強み:** _SIMD puro sin overhead de binding a C_ · _Soporta múltiples arquitecturas (AVX2, AVX-512, NEON) con fallback automático_
+
+**Tags:** `rust` `simd` `vector-search` `avx512` `neon`
+
+---
+
 ### [askbudi/roundtable](https://github.com/askbudi/roundtable)
 
 ![](https://img.shields.io/github/stars/askbudi/roundtable?style=flat-square&label=⭐) · Found in 2 active sources
 
-📇 ☁️ 🏠 🍎 🪟 🐧 - Meta-MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized MCP interface, providing zero-configuration access to the entire AI coding ecosystem.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+📇 ☁️ 🏠 🍎 🪟 🐧 Meta-MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized MCP interface, providing zero-configuration access to the entire AI coding ecosystem.
 
 > **AI 分析:** Meta-servidor MCP que unifica múltiples asistentes AI (Claude, Cursor, Gemini) con auto-discovery. Para devs que cambian entre tools y quieren interfaz única.
 
@@ -647,23 +273,11 @@ A TUI/CLI for managing multiple AI coding agent sessions with tmux, git worktree
 
 ---
 
-### [Awesome RAG Production](https://github.com/yigtwxx/awesome-rag-production)
-
-![](https://img.shields.io/github/stars/yigtwxx/awesome-rag-production?style=flat-square&label=⭐) · Found in 2 active sources
-
-A curated collection of battle-tested tools, frameworks, and best practices for building, scaling, and monitoring production-grade Retrieval-Augmented Generation (RAG) systems. Covers frameworks, vector databases, retrieval & reranking, evaluation, observability, deployment, and security.
-
-> **AI 分析:** Curación de herramientas y patterns para RAG en producción. Cubre desde vectorDB hasta observabilidad. Referencia útil para arquitecturas, no código ejecutable.
-
-**強み:** _Mapeo exhaustivo del ecosistema RAG moderno_ · _Enfoque en aspectos de producción (monitoring, deployment, security)_
-
-**Tags:** `rag` `llm` `production` `curated-list`
-
----
-
 ### [BentoML](https://github.com/bentoml/bentoml)
 
 ![](https://img.shields.io/github/stars/bentoml/bentoml?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 - BentoML is an open source framework for high performance ML model serving.
 
@@ -679,6 +293,8 @@ A curated collection of battle-tested tools, frameworks, and best practices for 
 
 ![](https://img.shields.io/github/stars/bread-technologies/bread_wandb_viewer_extension?style=flat-square&label=⭐) · Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 A VS Code extension to view Weights & Biases experiments, logs, and artifacts within the IDE, eliminating the need to switch to the web UI & preserving data privacy by being 100% offline.
 
 > **AI 分析:** Extensión VS Code que replica W&B web UI offline. Bueno para devs que quieren no saltar del editor. Privacy win (100% offline). Pero: duplica UI, mantiene sincronización compleja.
@@ -692,6 +308,8 @@ A VS Code extension to view Weights & Biases experiments, logs, and artifacts wi
 ### [burn](https://github.com/tracel-ai/burn)
 
 ![](https://img.shields.io/github/stars/tracel-ai/burn?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals
 
@@ -707,6 +325,8 @@ Burn is a new comprehensive dynamic Deep Learning Framework built using Rust wit
 
 ![](https://img.shields.io/github/stars/huggingface/candle?style=flat-square&label=⭐) · Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 Candle is a minimalist ML framework for Rust with a focus on performance (including GPU support) and ease of use.
 
 > **AI 分析:** Framework ML minimalista HF en Rust. GPU support, diseño limpio, alternativa a Burn pero más joven. Bueno para experimentación rápida y modelos custom sin boilerplate.
@@ -720,6 +340,8 @@ Candle is a minimalist ML framework for Rust with a focus on performance (includ
 ### [Catalyst](https://github.com/catalyst-team/catalyst)
 
 ![](https://img.shields.io/github/stars/catalyst-team/catalyst?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 High-level utils for PyTorch DL & RL research. It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing. Being able to research/develop something new, rather than write another regular train loop.
 
@@ -735,6 +357,8 @@ High-level utils for PyTorch DL & RL research. It was developed with a focus on 
 
 ![](https://img.shields.io/github/stars/liuliu/ccv?style=flat-square&label=⭐) · Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library. [BSD]
 
 > **AI 分析:** Librería C de computer vision (BSD). Ligera, moderna, alternativa a OpenCV. Buena para embedidos/performance crítico.
@@ -748,6 +372,8 @@ C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library. [
 ### [Chroma](https://github.com/chroma-core/chroma)
 
 ![](https://img.shields.io/github/stars/chroma-core/chroma?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 - Chroma is an open-source embedding database.
 
@@ -763,6 +389,8 @@ C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library. [
 
 ![](https://img.shields.io/github/stars/clearml/clearml?style=flat-square&label=⭐) · Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestration, Scheduling & Serving in one MLOps/LLMOps solution.
 
 > **AI 分析:** Plataforma all-in-one para MLOps: experiment tracking, data mgmt, pipelines, orquestación, serving. Para teams que quieren single source of truth. Resuelve fragmentación de herramientas.
@@ -776,6 +404,8 @@ Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data M
 ### [CloudForest](https://github.com/ryanbressler/cloudforest)
 
 ![](https://img.shields.io/github/stars/ryanbressler/cloudforest?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go.
 
@@ -791,7 +421,9 @@ Fast, flexible, multi-threaded ensembles of decision trees for machine learning 
 
 ![](https://img.shields.io/github/stars/neolabhq/context-engineering-kit?style=flat-square&label=⭐) · Found in 2 active sources
 
-by [Vlad Goncharov](https://github.com/LeoVS09) - Hand-crafted collection of advanced context engineering techniques and patterns with minimal token footprint focused on improving agent result quality.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+by Vlad Goncharov Hand-crafted collection of advanced context engineering techniques and patterns with minimal token footprint focused on improving agent result quality.
 
 > **AI 分析:** Técnicas avanzadas de context engineering para agentes IA con bajo token footprint. Para users de Claude que optimizan prompts en producción.
 
@@ -804,6 +436,8 @@ by [Vlad Goncharov](https://github.com/LeoVS09) - Hand-crafted collection of adv
 ### [CoreNLP](https://nlp.stanford.edu/software/corenlp.shtml)
 
 Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 Stanford CoreNLP provides a set of natural language analysis tools which can take raw English language text input and give the base forms of words.
 
@@ -819,6 +453,8 @@ Stanford CoreNLP provides a set of natural language analysis tools which can tak
 
 ![](https://img.shields.io/github/stars/rapidsai/cuml?style=flat-square&label=⭐) · Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 - cuML is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects.
 
 > **AI 分析:** cuML implementa ML clásico y deep learning con GPU vía CUDA. APIs compatibles con scikit-learn. Aceleración real en datasets grandes, pero ecosistema RAPIDS requiere GPU NVIDIA.
@@ -832,6 +468,8 @@ Stanford CoreNLP provides a set of natural language analysis tools which can tak
 ### [Cursor](https://cursor.com)
 
 Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Uses OpenAI.
 
@@ -847,7 +485,9 @@ An IDE with chat, edit, generate and debug features. Forked from VSCodium, so th
 
 ![](https://img.shields.io/github/stars/dagger/container-use?style=flat-square&label=⭐) · Found in 2 active sources
 
-🏎️ 🏠 🐧 🍎 🪟 - Containerized environments for coding agents. Multiple agents can work independently, isolated in fresh containers and git branches. No conflicts, many experiments. Full execution history, terminal access to agent environments, git workflow. Any agent/model/infra stack.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+🏎️ 🏠 🐧 🍎 🪟 Containerized environments for coding agents. Multiple agents can work independently, isolated in fresh containers and git branches. No conflicts, many experiments. Full execution history, terminal access to agent environments, git workflow. Any agent/model/infra stack.
 
 > **AI 分析:** Dagger feature: entornos containerizados para coding agents multi-agente aislados con git workflow. Resuelve conflicto real entre agentes paralelos. Buena ejecución pero early-stage.
 
@@ -860,6 +500,8 @@ An IDE with chat, edit, generate and debug features. Forked from VSCodium, so th
 ### [DEAP](https://github.com/deap/deap)
 
 ![](https://img.shields.io/github/stars/deap/deap?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 - A novel evolutionary computation framework for rapid prototyping and testing of ideas. It seeks to make algorithms explicit and data structures transparent. It works in perfect harmony with parallelisation mechanisms such as multiprocessing and SCOOP.
 
@@ -875,6 +517,8 @@ An IDE with chat, edit, generate and debug features. Forked from VSCodium, so th
 
 ![](https://img.shields.io/github/stars/jolibrain/deepdetect?style=flat-square&label=⭐) · Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 - Machine Learning production server for TensorFlow, XGBoost and Cafe models written in C++ and maintained by Jolibrain.
 
 > **AI 分析:** Servidor ML production-ready para TensorFlow/XGBoost/Caffe en C++. Para deployments enterprise que necesitan model serving robusto y bajo latency.
@@ -885,9 +529,27 @@ An IDE with chat, edit, generate and debug features. Forked from VSCodium, so th
 
 ---
 
+### [Detectron2](https://github.com/facebookresearch/detectron2)
+
+![](https://img.shields.io/github/stars/facebookresearch/detectron2?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+- Detectron2 is Facebook AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms.
+
+> **AI 分析:** SOTA para detección y segmentación de objetos. PyTorch-based, de Meta. Código production-ready, benchmarks líderes. Estándar en computer vision moderno, compite con YOLOv8.
+
+**強み:** _SOTA accuracy en coco/benchmarks_ · _Código limpio, extensible, models variados preentrenados_
+
+**Tags:** `python` `computer-vision` `detection` `segmentation` `pytorch`
+
+---
+
 ### [Determined](https://github.com/determined-ai/determined)
 
 ![](https://img.shields.io/github/stars/determined-ai/determined?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 - Deep learning training platform with integrated support for distributed training, hyperparameter tuning, and model management (supports Tensorflow and Pytorch).
 
@@ -899,9 +561,27 @@ An IDE with chat, edit, generate and debug features. Forked from VSCodium, so th
 
 ---
 
+### [Dlib](https://github.com/davisking/dlib)
+
+![](https://img.shields.io/github/stars/davisking/dlib?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+zap: A toolkit for making real world machine learning and data analysis applications in C++. [Boost]
+
+> **AI 分析:** JAX combina Autograd con compilador XLA para ML research. Diferenciación automática funcional y JIT compilation. Potente pero curva de aprendizaje vertical para quién viene de NumPy/PyTorch.
+
+**強み:** _Composición funcional elegante, vectorization transparente_ · _Performance comparable a TensorFlow en operaciones complejas_
+
+**Tags:** `python` `automatic-differentiation` `jit-compiler` `numpy-compatible`
+
+---
+
 ### [dspy](https://github.com/stanfordnlp/dspy)
 
 ![](https://img.shields.io/github/stars/stanfordnlp/dspy?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 - A framework for programming with foundation models.
 
@@ -913,9 +593,59 @@ An IDE with chat, edit, generate and debug features. Forked from VSCodium, so th
 
 ---
 
+### [EspNet](https://github.com/espnet/espnet)
+
+![](https://img.shields.io/github/stars/espnet/espnet?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+ESPnet is an end-to-end speech processing toolkit for tasks like speech recognition, translation, and enhancement, using PyTorch and Kaldi-style data processing.
+
+> **AI 分析:** Toolkit end-to-end consolidado para speech processing: ASR, traducción, enhancement. Stack PyTorch + Kaldi. Estándar en academia, buena docs, comunidad activa. Algo pesado para tareas simples.
+
+**強み:** _Cobertura completa de pipelines speech_ · _Buena documentación y ejemplos reproducibles_
+
+**Tags:** `speech-processing` `pytorch` `asr` `end-to-end`
+
+---
+
+### [Evidently](https://github.com/evidentlyai/evidently)
+
+![](https://img.shields.io/github/stars/evidentlyai/evidently?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+- Evidently is an open-source framework to evaluate, test and monitor ML and LLM-powered systems.
+
+> **AI 分析:** Framework para evaluar, testear y monitorear sistemas ML/LLM. Métricas data drift, model performance, LLM outputs. Para equipos con modelos en producción. Resuelve observabilidad de ML.
+
+**強み:** _Reportes interactivos muy claros sobre data drift_ · _Cobertura amplia: tabular, NLP, CV, LLM_
+
+**Tags:** `python` `mlops` `monitoring` `data-drift` `testing`
+
+---
+
+### [Faiss](https://github.com/facebookresearch/faiss)
+
+![](https://img.shields.io/github/stars/facebookresearch/faiss?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+- Faiss is a library for efficient similarity search and clustering of dense vectors.
+
+> **AI 分析:** Librería de búsqueda de similitud vectorial de Meta Research. Estándar en RAG, recomendación, clustering. GPU-acelerada. Producción en scale.
+
+**強み:** _Performance SOTA en búsqueda de k-NN sobre millones de vectores_ · _Índices especializados (HNSW, IVF) con tuning fino_
+
+**Tags:** `machine-learning` `similarity-search` `vector-db` `gpu` `python`
+
+---
+
 ### [Flashlight](https://github.com/flashlight/flashlight)
 
 ![](https://img.shields.io/github/stars/flashlight/flashlight?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 - A fast, flexible machine learning library written entirely in C++ from the Facebook AI Research and the creators of Torch, TensorFlow, Eigen and Deep Speech.
 
@@ -927,9 +657,27 @@ An IDE with chat, edit, generate and debug features. Forked from VSCodium, so th
 
 ---
 
+### [GoCV](https://github.com/hybridgroup/gocv)
+
+![](https://img.shields.io/github/stars/hybridgroup/gocv?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Package for computer vision using OpenCV 4 and beyond.
+
+> **AI 分析:** Binding Go para OpenCV 4+. Std de facto para CV en Go. Activo, bien mantenido, excelente para servicios CV en producción. Comunidad sólida.
+
+**強み:** _Binding limpio y completo a OpenCV 4_ · _Performance cercano a C++ nativo sin overhead_
+
+**Tags:** `go` `opencv` `computer-vision` `binding` `production-ready`
+
+---
+
 ### [GoLearn](https://github.com/sjwhitworth/golearn)
 
 ![](https://img.shields.io/github/stars/sjwhitworth/golearn?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 General Machine Learning library for Go.
 
@@ -945,6 +693,8 @@ General Machine Learning library for Go.
 
 ![](https://img.shields.io/github/stars/gorgonia/gorgonia?style=flat-square&label=⭐) · Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms.
 
 > **AI 分析:** Graph-based ML library para Go estilo Theano, primitivas para redes neuronales y algoritmos ML. Niche: si querés deep learning nativo en Go sin cgo pesado.
@@ -959,6 +709,8 @@ graph-based computational library like Theano for Go that provides primitives fo
 
 ![](https://img.shields.io/github/stars/zhenghaoz/gorse?style=flat-square&label=⭐) · Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 An offline recommender system backend based on collaborative filtering written in Go.
 
 > **AI 分析:** Sistema recomendador offline en Go con collaborative filtering. Nicho específico de ML. Bueno si necesitás recomendaciones sin cloud, pero comunidad pequeña.
@@ -969,9 +721,27 @@ An offline recommender system backend based on collaborative filtering written i
 
 ---
 
+### [Gymnasium](https://github.com/farama-foundation/gymnasium)
+
+![](https://img.shields.io/github/stars/farama-foundation/gymnasium?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+- Gymnasium is an open source Python library for developing and comparing reinforcement learning algorithms by providing a standard API to communicate between learning algorithms and environments, as well as a standard set of environments compliant with that API.
+
+> **AI 分析:** Estándar de facto para RL en Python. Gymnasium reemplazó a OpenAI Gym, proporciona API unificada para entrenar agentes contra ambientes simulados. Imprescindible si hacés RL serio.
+
+**強み:** _API estable y bien documentada, compatibilidad con 1000+ ambientes_ · _Mantenimiento activo por Farama Foundation, reemplazo directo de Gym con mejoras_
+
+**Tags:** `reinforcement-learning` `python` `api-standard` `simulation`
+
+---
+
 ### [Haystack](https://github.com/deepset-ai/haystack)
 
 ![](https://img.shields.io/github/stars/deepset-ai/haystack?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 - Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-3 and alike). Haystack offers production-ready tools to quickly build ChatGPT-like question answering, semantic search, text generation, and more.
 
@@ -987,6 +757,8 @@ An offline recommender system backend based on collaborative filtering written i
 
 ![](https://img.shields.io/github/stars/logicalclocks/hopsworks?style=flat-square&label=⭐) · Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 A data-intensive platform for AI with the industry's first open-source feature store. The Hopsworks Feature Store provides both a feature warehouse for training and batch based on Apache Hive and a feature serving database, based on MySQL Cluster, for online applications.
 
 > **AI 分析:** Plataforma completa para ML ops con feature store open-source. Combina warehouse (Hive) para training y base de datos (MySQL Cluster) para serving online. Resuelve el problema real de gestionar features en producción.
@@ -997,9 +769,27 @@ A data-intensive platform for AI with the industry's first open-source feature s
 
 ---
 
+### [huggingface/tokenizers](https://github.com/huggingface/tokenizers)
+
+![](https://img.shields.io/github/stars/huggingface/tokenizers?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Hugging Face's tokenizers for modern NLP pipelines (original implementation) with bindings for Python.
+
+> **AI 分析:** Tokenizadores ultra-optimizados de HF. Referencia en NLP moderno, usado en casi todo pipeline serio. Rust puro con bindings Python, 10-100x más rápido que alternativas.
+
+**強み:** _Performance extremo, manejo eficiente de vocabularios grandes_ · _Integración perfecta con transformers HF, bindings Python de primera clase_
+
+**Tags:** `nlp` `tokenization` `rust` `huggingface`
+
+---
+
 ### [Ignite](https://github.com/pytorch/ignite)
 
 ![](https://img.shields.io/github/stars/pytorch/ignite?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 - Ignite is a high-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently.
 
@@ -1015,7 +805,9 @@ A data-intensive platform for AI with the industry's first open-source feature s
 
 Found in 2 active sources
 
-Infer.NET is a framework for running Bayesian inference in graphical models. One can use Infer.NET to solve many different kinds of machine learning problems, from standard problems like classification, recommendation or clustering through customized solutions to domain-specific problems. Infer.NET has been used in a wide variety of domains including information retrieval, bioinformatics,…
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Infer.NET is a framework for running Bayesian inference in graphical models. One can use Infer.NET to solve many different kinds of machine learning problems, from standard problems like classification, recommendation or clustering through customized solutions to domain-specific problems. Infer.NET has been used in a wide variety of domains including information retrieval, bioinformatics,...
 
 > **AI 分析:** Framework .NET para Bayesian inference en graphical models. Robusto para problemas probabilísticos. Nicho solido pero limitado a ecosistema .NET.
 
@@ -1029,6 +821,8 @@ Infer.NET is a framework for running Bayesian inference in graphical models. One
 
 ![](https://img.shields.io/github/stars/infiniflow/infinity?style=flat-square&label=⭐) · Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. Developed using C++20
 
 > **AI 分析:** Base de datos vectorial nativa para IA, optimizada en C++20 para búsqueda rápida de vectores y full-text. Apunta a reemplazar Pinecone/Weaviate en casos de self-hosted. Resuelve latencia en retrieval para RAG.
@@ -1039,9 +833,43 @@ The AI-native database built for LLM applications, providing incredibly fast vec
 
 ---
 
+### [InterpretML](https://github.com/interpretml/interpret)
+
+![](https://img.shields.io/github/stars/interpretml/interpret?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+InterpretML implements the Explainable Boosting Machine (EBM), a modern, fully interpretable machine learning model based on Generalized Additive Models (GAMs). This open-source package also provides visualization tools for EBMs, other glass-box models, and black-box explanations.
+
+> **AI 分析:** ML interpretable con Explainable Boosting Machines (EBM). Resuelve el problema real de explicabilidad en modelos sin sacrificar performance. Para data scientists que necesitan auditar decisiones.
+
+**強み:** _Modelos interpretables por defecto, no post-hoc_ · _Visualizaciones robustas para stakeholders no-técnicos_
+
+**Tags:** `interpretable-ml` `python` `glass-box` `visualization`
+
+---
+
+### [Jax](https://github.com/jax-ml/jax)
+
+![](https://img.shields.io/github/stars/jax-ml/jax?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+- Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
+
+> **AI 分析:** Framework ML Python: diferenciación automática, vectorización y JIT a GPU/TPU. Estándar en research de IA, compite con PyTorch. Más funcional, menos mainstream.
+
+**強み:** _Transformaciones composables superiores a PyTorch_ · _JIT compilation transparente a cualquier backend_
+
+**Tags:** `python` `ml` `jit` `gpu` `autodiff`
+
+---
+
 ### [Jieba-PHP](https://github.com/fukuball/jieba-php)
 
 ![](https://img.shields.io/github/stars/fukuball/jieba-php?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 A PHP port of Python's jieba. Chinese text segmentation for natural language processing.
 
@@ -1057,7 +885,9 @@ A PHP port of Python's jieba. Chinese text segmentation for natural language pro
 
 ![](https://img.shields.io/github/stars/kagan-sh/kagan?style=flat-square&label=⭐) · Found in 2 active sources
 
-](https://glama.ai/mcp/servers/kagan-sh/kagan) 🐍 🏠 🍎 🪟 🐧 - AI-powered Kanban TUI and MCP server for autonomous development workflows. Orchestrates 14 coding agents across task tracking, isolated git worktrees, review, and merge.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+](https://glama.ai/mcp/servers/kagan-sh/kagan) 🐍 🏠 🍎 🪟 🐧 AI-powered Kanban TUI and MCP server for autonomous development workflows. Orchestrates 14 coding agents across task tracking, isolated git worktrees, review, and merge.
 
 > **AI 分析:** Kanban TUI con MCP server que orquesta 14 agentes de IA para workflows autónomos. Maneja git worktrees, review y merge. Muy específico para dev automation.
 
@@ -1067,9 +897,27 @@ A PHP port of Python's jieba. Chinese text segmentation for natural language pro
 
 ---
 
+### [Kaldi](https://github.com/kaldi-asr/kaldi)
+
+![](https://img.shields.io/github/stars/kaldi-asr/kaldi?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Kaldi is a toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. Kaldi is intended for use by speech recognition researchers.
+
+> **AI 分析:** Toolkit C++ de referencia para ASR, usado en investigación y producción. Proporciona componentes sólidos para speech recognition end-to-end. Estándar de facto en academia.
+
+**強み:** _Estándar en investigación ASR desde 2010+_ · _Componentes modulares y bien documentados para researchers_
+
+**Tags:** `speech-recognition` `asr` `c++` `toolkit` `kaldi`
+
+---
+
 ### [keras-tuner](https://github.com/keras-team/keras-tuner)
 
 ![](https://img.shields.io/github/stars/keras-team/keras-tuner?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 - Keras Tuner is an easy-to-use, distributable hyperparameter optimisation framework that solves the pain points of performing a hyperparameter search. Keras Tuner makes it easy to define a search space and leverage included algorithms to find the best hyperparameter values.
 
@@ -1085,6 +933,8 @@ A PHP port of Python's jieba. Chinese text segmentation for natural language pro
 
 ![](https://img.shields.io/github/stars/kornia/kornia?style=flat-square&label=⭐) · Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 - Kornia is a differentiable computer vision library built on PyTorch that provides a rich set of differentiable image processing and geometric vision algorithms.
 
 > **AI 分析:** Librería de computer vision diferenciable sobre PyTorch. Implementa algoritmos clásicos (warping, homografia, flow) y modernos (kornia.enhance). Integración nativa con autograd.
@@ -1098,6 +948,8 @@ A PHP port of Python's jieba. Chinese text segmentation for natural language pro
 ### [LangChain](https://github.com/langchain-ai/langchain)
 
 ![](https://img.shields.io/github/stars/langchain-ai/langchain?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 - LangChain assists in building applications with LLMs through composability.
 
@@ -1113,6 +965,8 @@ A PHP port of Python's jieba. Chinese text segmentation for natural language pro
 
 ![](https://img.shields.io/github/stars/lightly-ai/lightly-train?style=flat-square&label=⭐) · Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 - Pretrain computer vision models on unlabeled data for industrial applications.
 
 > **AI 分析:** Toolkit para preentrenamiento de modelos computer vision en datos sin etiquetar. Self-supervised learning para aplicaciones industriales, reduce labeling overhead.
@@ -1127,6 +981,8 @@ A PHP port of Python's jieba. Chinese text segmentation for natural language pro
 
 ![](https://img.shields.io/github/stars/rust-ml/linfa?style=flat-square&label=⭐) · Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 a comprehensive toolkit to build Machine Learning applications with Rust
 
 > **AI 分析:** Ecosistema ML robusto para Rust: supervised/unsupervised, preprocessing, validación. Comunidad activa, diseño seguro. Alternativa seria a scikit-learn pero Rust tiene menor masa crítica en ML.
@@ -1137,9 +993,27 @@ a comprehensive toolkit to build Machine Learning applications with Rust
 
 ---
 
+### [LlamaIndex](https://github.com/run-llama/llama_index)
+
+![](https://img.shields.io/github/stars/run-llama/llama_index?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+- LlamaIndex (GPT Index) is a data framework for your LLM application.
+
+> **AI 分析:** Data framework para RAG/retrieval en LLM apps. Estándar en la industria para augment LLMs con docs. Maduro, bien mantenido, opción default.
+
+**強み:** _Integración completa con 50+ data sources y LLMs_ · _Abstracciones de retrieval robustas (query engines)_
+
+**Tags:** `rag` `retrieval` `llm-framework` `python`
+
+---
+
 ### [LocalAI](https://github.com/mudler/localai)
 
 ![](https://img.shields.io/github/stars/mudler/localai?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 - LocalAI is a drop-in replacement REST API that's compatible with OpenAI API specifications for local inferencing.
 
@@ -1155,6 +1029,8 @@ a comprehensive toolkit to build Machine Learning applications with Rust
 
 ![](https://img.shields.io/github/stars/ludwig-ai/ludwig?style=flat-square&label=⭐) · Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 - Ludwig is a low-code framework for building custom AI models like LLMs and other deep neural networks.
 
 > **AI 分析:** Ludwig abstrae configs YAML para entrenar LLMs y redes deep learning. Low-code, sin escribir training loops. Bueno para prototipado rápido, pero menos flexible que TensorFlow/PyTorch directo.
@@ -1169,6 +1045,8 @@ a comprehensive toolkit to build Machine Learning applications with Rust
 
 ![](https://img.shields.io/github/stars/doobidoo/mcp-memory-service?style=flat-square&label=⭐) · Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 Universal memory service with semantic search, autonomous consolidation, and multi-client support for AI applications.
 
 > **AI 分析:** MCP service para memoria persistente con búsqueda semántica y consolidación autónoma. Nicho específico: agentes IA que necesitan contexto de sesiones previas. Idea sólida pero adoption desconocida.
@@ -1179,9 +1057,27 @@ Universal memory service with semantic search, autonomous consolidation, and mul
 
 ---
 
+### [Milvus](https://github.com/milvus-io/milvus)
+
+![](https://img.shields.io/github/stars/milvus-io/milvus?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Milvus is a cloud-native, open-source vector database built to manage embedding vectors generated by machine learning models and neural networks.
+
+> **AI 分析:** Vector database cloud-native para embeddings. Estándar en RAG/search, competidor serio de Pinecone con mejor control operacional.
+
+**強み:** _Self-hosted option viable vs Pinecone SaaS_ · _Escalabilidad y performance demostrada en prod_
+
+**Tags:** `vector-database` `embeddings` `cloud-native` `python`
+
+---
+
 ### [mljar-supervised](https://github.com/mljar/mljar-supervised)
 
 ![](https://img.shields.io/github/stars/mljar/mljar-supervised?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 - A Python package for AutoML on tabular data with feature engineering, hyper-parameters tuning, explanations and automatic documentation.
 
@@ -1197,6 +1093,8 @@ Universal memory service with semantic search, autonomous consolidation, and mul
 
 ![](https://img.shields.io/github/stars/ml-explore/mlx?style=flat-square&label=⭐) · Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 - MLX is an array framework for machine learning on Apple silicon.
 
 > **AI 分析:** Framework de arrays optimizado para ML en Apple silicon. Alternativa a NumPy/PyTorch pensada para Macs. Resuelve problema real: ejecutar modelos eficiente en hardware Apple sin overhead de frameworks genéricos.
@@ -1211,6 +1109,8 @@ Universal memory service with semantic search, autonomous consolidation, and mul
 
 ![](https://img.shields.io/github/stars/rasbt/mlxtend?style=flat-square&label=⭐) · Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 A library consisting of useful tools for data science and machine learning tasks.
 
 > **AI 分析:** Toolkit Python para data science/ML con utilities variadas. Maduro, bien mantenido, usado en industria. Complementa scikit-learn bien, no es core pero es útil.
@@ -1221,25 +1121,13 @@ A library consisting of useful tools for data science and machine learning tasks
 
 ---
 
-### [modAL](https://github.com/modal-python/modal)
-
-![](https://img.shields.io/github/stars/modal-python/modal?style=flat-square&label=⭐) · Found in 2 active sources
-
-A modular active learning framework for Python, built on top of scikit-learn.
-
-> **AI 分析:** Framework modular para active learning en Python sobre scikit-learn. Útil para proyectos de ML que necesitan reducir labeling manual. Resuelve un problema real pero de nicho específico.
-
-**強み:** _Integración nativa con scikit-learn_ · _API clara para pipelines de active learning_
-
-**Tags:** `python` `machine-learning` `active-learning` `scikit-learn`
-
----
-
 ### [Netron](https://netron.app)
 
 Found in 2 active sources
 
-Visualizer for neural network and machine learning models.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Visualizer for neural network and machine learning models. () MIT Python/Nodejs
 
 > **AI 分析:** Visualizador web para inspeccionar arquitecturas de redes neuronales (ONNX, TF, PyTorch). Lee modelos, muestra grafo. Útil para debug y documentación, no para training.
 
@@ -1253,6 +1141,8 @@ Visualizer for neural network and machine learning models.
 
 Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 An agent management environment for Claude Code and Codex. Interactive visual editing of markdown, mockups, excalidraw, code. Parallel session management.
 
 > **AI 分析:** Entorno agentes IA (Claude Code). Edición visual markdown/mockups/código con sesiones paralelas. Producto beta, propuesta única pero info limitada sobre usabilidad real.
@@ -1263,11 +1153,45 @@ An agent management environment for Claude Code and Codex. Interactive visual ed
 
 ---
 
+### [Ollama](https://github.com/ollama/ollama)
+
+![](https://img.shields.io/github/stars/ollama/ollama?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+- Get up and running with large language models, locally.
+
+> **AI 分析:** Ejecuta LLMs localmente sin GPU costosa. Para developers, researchers y quién necesita privacidad. Reemplaza dependencia de APIs remotas. Instalación trivial, interface elegante.
+
+**強み:** _Setup one-liner, soporte para decenas de modelos (Llama, Mistral, etc.)_ · _Sin dependencias cloud, control total de datos_
+
+**Tags:** `llm` `local-inference` `docker` `go` `open-source`
+
+---
+
+### [oneDNN](https://github.com/oneapi-src/onednn)
+
+![](https://img.shields.io/github/stars/oneapi-src/onednn?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+An open-source cross-platform performance library for deep learning applications. [Apache]
+
+> **AI 分析:** Performance library para DL, optimiza kernels CPU/GPU. Usada por PyTorch/TensorFlow internamente. Para production DL en hardware especializado, es GEM.
+
+**強み:** _Optimizaciones hardware-specific probadas en producción_ · _Mantenida por Intel, estándar de facto_
+
+**Tags:** `deep-learning` `cpp` `cpu-optimization` `gpu`
+
+---
+
 ### [Opik](https://comet.com/site/products/opik)
 
 Found in 2 active sources
 
-Open source engineering platform to debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Open source engineering platform to debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. ()
 
 > **AI 分析:** Platform open-source para debugging y evaluación de LLM apps con tracing y evals. Competencia fuerte (Langsmith), pero madurez todavía alcanzando. Buena para early adopters.
 
@@ -1277,9 +1201,27 @@ Open source engineering platform to debug, evaluate, and monitor your LLM applic
 
 ---
 
+### [Optuna](https://github.com/optuna/optuna)
+
+![](https://img.shields.io/github/stars/optuna/optuna?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+- Optuna is an automatic hyperparameter optimisation software framework, particularly designed for machine learning.
+
+> **AI 分析:** Framework para optimización automática de hiperparámetros con algoritmos sofisticados (TPE, Bayesiano). Resuelve problema real: buscar hyper-params sin tedio, escala a miles de trials.
+
+**強み:** _Algoritmos avanzados incorporados (TPE, CMA-ES), better than grid search_ · _Distributed ready, integración con Ray/Dask_
+
+**Tags:** `hyperparameter-optimization` `bayesian-search` `ml-pipeline`
+
+---
+
 ### [Oryx 2](https://github.com/oryxproject/oryx)
 
 ![](https://img.shields.io/github/stars/oryxproject/oryx?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 Framework for building real-time, large-scale machine learning applications. Includes end-to-end applications for collaborative filtering, classification, regression, and clustering.
 
@@ -1291,9 +1233,27 @@ Framework for building real-time, large-scale machine learning applications. Inc
 
 ---
 
+### [PEFT](https://github.com/huggingface/peft)
+
+![](https://img.shields.io/github/stars/huggingface/peft?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+- Parameter-Efficient Fine-Tuning (PEFT) methods enable efficient adaptation of pre-trained language models (PLMs) to various downstream applications without fine-tuning all the model's parameters.
+
+> **AI 分析:** Framework HuggingFace para adaptar LLMs con pocas memoria/compute (LoRA, QLoRA, prefix-tuning). Esencial para fine-tuning eficiente. Estándar industrial de facto en ML.
+
+**強み:** _Reduce parámetros entrenables en 90%+; compatible con cualquier modelo HF_ · _Comunidad masiva, docs exhaustivas_
+
+**Tags:** `fine-tuning` `lora` `transformers` `python` `huggingface`
+
+---
+
 ### [pgmpy](https://github.com/pgmpy/pgmpy)
 
 ![](https://img.shields.io/github/stars/pgmpy/pgmpy?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 A Python library for probabilistic graphical models and Bayesian networks.
 
@@ -1305,23 +1265,75 @@ A Python library for probabilistic graphical models and Bayesian networks.
 
 ---
 
-### [PyCaret](https://github.com/pycaret/pycaret)
+### [PyOD](https://github.com/yzhao062/pyod)
 
-![](https://img.shields.io/github/stars/pycaret/pycaret?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/yzhao062/pyod?style=flat-square&label=⭐) · Found in 2 active sources
 
-) - low-code library for training and deploying models (scikit-learn, XGBoost, LightGBM, spaCy)
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-> **AI 分析:** Low-code ML library que envuelve scikit-learn, XGBoost, LightGBM. Acelera prototipado rápido de modelos. Para data scientists sin experiencia en tuning. Resuelve el problema de ciclos largos de experimentación.
+Python Outlier Detection, comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. Featured for Advanced models, including Neural Networks/Deep Learning and Outlier Ensembles.
 
-**強み:** _Reduce drasticamente tiempo de baseline a production_ · _Soporte multi-algoritmo out-of-the-box con comparación automática_
+> **AI 分析:** Toolkit Python para detección de outliers en datos multivariados. Soporta algoritmos clásicos y redes neuronales. Madura, bien mantenida, estándar en data science.
 
-**Tags:** `python` `ml` `low-code` `automl` `sklearn`
+**強み:** _50+ algoritmos, desde Isolation Forest a autoencoders_ · _Interfaz sklearn-compatible, integra sin fricción_
+
+**Tags:** `python` `anomaly-detection` `machine-learning` `scikit-compatible`
+
+---
+
+### [PySyft](https://github.com/openmined/pysyft)
+
+![](https://img.shields.io/github/stars/openmined/pysyft?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+- A Python library for secure, private Deep Learning. PySyft decouples private data from model training, using Multi-Party (MPC) within PyTorch.
+
+> **AI 分析:** ML con privacidad usando multi-party computation. Resuelve problema real de datos sensibles sin exponerlos. Niche empresarial/healthcare, importante pero adopción lenta.
+
+**強み:** _Único framework maduro para privacy-preserving ML en Python_ · _Integración cleancon PyTorch existente_
+
+**Tags:** `privacy-preserving` `federated-learning` `python` `pytorch` `mpc`
+
+---
+
+### [PyTorch Lightning](https://github.com/lightning-ai/pytorch-lightning)
+
+![](https://img.shields.io/github/stars/lightning-ai/pytorch-lightning?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+- PyTorch Lightning pretrains, finetunes and deploys AI models on multiple GPUs, TPUs with zero code changes.
+
+> **AI 分析:** Wrapper de PyTorch que abstrae boilerplate para entrenamiento distribuido en multi-GPU/TPU. Estándar de facto en research deep learning. Resuelve problema real: pasar de 1 GPU a multi-device sin reescribir código.
+
+**強み:** _Reduce líneas de código boilerplate en 70%+ sin sacrificar control_ · _Integración nativa con multi-GPU/TPU, logging, checkpoints automáticos_
+
+**Tags:** `pytorch` `deep-learning` `distributed-training` `python` `ml`
+
+---
+
+### [Qdrant](https://github.com/qdrant/qdrant)
+
+![](https://img.shields.io/github/stars/qdrant/qdrant?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+An open source vector similarity search engine with extended filtering support
+
+> **AI 分析:** Vector DB open-source production-grade: búsqueda similarity + filtering avanzado. Rust, rápido, bien mantenido. Estándar emergente junto a Pinecone. Ideal para RAG, recsys, semantic search.
+
+**強み:** _Filtering avanzado (mejor que Pinecone v1)_ · _Cluster distribuido nativo, prod-ready_
+
+**Tags:** `vector-db` `rust` `similarity-search` `filtering` `self-hosted`
 
 ---
 
 ### [rust-bert](https://github.com/guillaume-be/rust-bert)
 
 ![](https://img.shields.io/github/stars/guillaume-be/rust-bert?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
 
@@ -1333,9 +1345,27 @@ Rust native ready-to-use NLP pipelines and transformer-based models (BERT, Disti
 
 ---
 
+### [Sacred](https://github.com/idsia/sacred)
+
+![](https://img.shields.io/github/stars/idsia/sacred?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Python tool to help you configure, organize, log and reproduce experiments. Like a notebook lab in the context of Chemistry/Biology. The community has built multiple add-ons leveraging the proposed standard.
+
+> **AI 分析:** Framework Python para reproducibilidad experimental con logging y tracking integrado. Estándar en ML research hace años. Comunidad activa construyó plugins (Neptune, MLflow). Si hacés experimentos iterativos, vale.
+
+**強み:** _Estándar de facto en ML academia_ · _Ecosystem de add-ons maduro_
+
+**Tags:** `python` `reproducibility` `ml-experiment` `logging` `research`
+
+---
+
 ### [Scikit-Opt](https://github.com/guofei9987/scikit-opt)
 
 ![](https://img.shields.io/github/stars/guofei9987/scikit-opt?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 Swarm Intelligence in Python (Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Algorithm, Immune Algorithm, Artificial Fish Swarm Algorithm in Python)
 
@@ -1351,6 +1381,8 @@ Swarm Intelligence in Python (Genetic Algorithm, Particle Swarm Optimization, Si
 
 ![](https://img.shields.io/github/stars/sgl-project/sglang?style=flat-square&label=⭐) · Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 - SGLang is a fast serving framework for large language models and vision language models.
 
 > **AI 分析:** Framework para serving LLMs con optimizaciones de latencia (batching, pipelining). Resuelve cuello de botella real en inference pero competencia fragmentada.
@@ -1364,6 +1396,8 @@ Swarm Intelligence in Python (Genetic Algorithm, Particle Swarm Optimization, Si
 ### [SHAPash](https://github.com/maif/shapash)
 
 ![](https://img.shields.io/github/stars/maif/shapash?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 - Shapash is a Python library that provides several types of visualization that display explicit labels that everyone can understand.
 
@@ -1379,6 +1413,8 @@ Swarm Intelligence in Python (Genetic Algorithm, Particle Swarm Optimization, Si
 
 ![](https://img.shields.io/github/stars/shogun-toolbox/shogun?style=flat-square&label=⭐) · Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 The Shogun Machine Learning Toolbox. [GPLv3]
 
 > **AI 分析:** Toolbox ML clásico en C++. Soporte scikit-learn-like pero compilado. Proyecto activo pero nicho: solo si necesitás ML traditional en C++.
@@ -1393,7 +1429,9 @@ The Shogun Machine Learning Toolbox. [GPLv3]
 
 ![](https://img.shields.io/github/stars/yusufkaraaslan/skill_seekers?style=flat-square&label=⭐) · Found in 2 active sources
 
-](https://glama.ai/mcp/servers/yusufkaraaslan/Skill_Seekers) 🐍 🏠 🍎 🪟 🐧 - Transform 17 source types (docs, GitHub repos, PDFs, videos, Jupyter, Confluence, Notion, Slack/Discord) into AI-ready skills and RAG knowledge. 35 MCP tools for scraping, packaging, enhancing, and exporting to vector databases (Weaviate, Chroma, FAISS, Qdrant). Supports 16+ target platforms.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+](https://glama.ai/mcp/servers/yusufkaraaslan/SkillSeekers) 🐍 🏠 🍎 🪟 🐧 Transform 17 source types (docs, GitHub repos, PDFs, videos, Jupyter, Confluence, Notion, Slack/Discord) into AI-ready skills and RAG knowledge. 35 MCP tools for scraping, packaging, enhancing, and exporting to vector databases (Weaviate, Chroma, FAISS, Qdrant). Supports 16+ target platforms.
 
 > **AI 分析:** MCP server: ingesta desde 17 fuentes (GitHub, PDF, Notion, etc.) → skills + RAG. 35 herramientas MCP incluidas. Soluciona pipeline real pero dependencia de MCP adoption y complejidad de setup.
 
@@ -1403,23 +1441,11 @@ The Shogun Machine Learning Toolbox. [GPLv3]
 
 ---
 
-### [skorch](https://github.com/skorch-dev/skorch)
-
-![](https://img.shields.io/github/stars/skorch-dev/skorch?style=flat-square&label=⭐) · Found in 2 active sources
-
-A scikit-learn compatible neural network library that wraps PyTorch.
-
-> **AI 分析:** Wrapper scikit-learn sobre PyTorch, combina usabilidad sklearn con poder torch. Excelente para transición PyTorch + sklearn workflows.
-
-**強み:** _Compatibilidad directa con sklearn pipelines/validación cruzada_ · _Reduce boilerplate PyTorch manteniendo flexibilidad_
-
-**Tags:** `python` `pytorch` `scikit-learn` `wrapper`
-
----
-
 ### [spaGO](https://github.com/nlpodyssey/spago)
 
 ![](https://img.shields.io/github/stars/nlpodyssey/spago?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 Self-contained Machine Learning and Natural Language Processing library in Go.
 
@@ -1435,7 +1461,9 @@ Self-contained Machine Learning and Natural Language Processing library in Go.
 
 ![](https://img.shields.io/github/stars/spfunctions/simplefunctions-cli?style=flat-square&label=⭐) · Found in 2 active sources
 
-](https://glama.ai/mcp/servers/spfunctions/simplefunctions-cli) 📇 ☁️ - Calibrated world model for AI agents from 9,700+ prediction markets. 16 MCP tools covering real-time world state, market search, thesis management, edge detection, and content enrichment across Kalshi and Polymarket. `get_world_state` returns ~800 tokens of calibrated probabilities — no API key needed.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+](https://glama.ai/mcp/servers/spfunctions/simplefunctions-cli) 📇 ☁️ Calibrated world model for AI agents from 9,700+ prediction markets. 16 MCP tools covering real-time world state, market search, thesis management, edge detection, and content enrichment across Kalshi and Polymarket. getworldstate returns ~800 tokens of calibrated probabilities — no API key needed.
 
 > **AI 分析:** MCP server que expone 16 herramientas sobre mercados de predicción (Kalshi, Polymarket). Devuelve ~800 tokens de probabilidades calibradas sin API key. Para agentes que necesitan world state en tiempo real.
 
@@ -1449,7 +1477,9 @@ Self-contained Machine Learning and Natural Language Processing library in Go.
 
 ![](https://img.shields.io/github/stars/obra/superpowers?style=flat-square&label=⭐) · Found in 2 active sources
 
-by [Jesse Vincent](https://github.com/obra) - A strong bundle of core competencies for software engineering, with good coverage of a large portion of the SDLC - from planning, reviewing, testing, debugging... Well written, well organized, and adaptable. The author refers to them as "superpowers", but many of them are just consolidating engineering best practices - which sometimes does feel…
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+by Jesse Vincent A strong bundle of core competencies for software engineering, with good coverage of a large portion of the SDLC from planning, reviewing, testing, debugging... Well written, well organized, and adaptable. The author refers to them as "superpowers", but many of them are just consolidating engineering best practices which sometimes does feel like a superpower when working with...
 
 > **AI 分析:** Bundle de prácticas de ingeniería software (planning, review, testing, debug) como prompts/técnicas. Para devs con Claude Code que busquen estructura en el ciclo de vida.
 
@@ -1462,6 +1492,8 @@ by [Jesse Vincent](https://github.com/obra) - A strong bundle of core competenci
 ### [TabGAN](https://github.com/diyago/tabular-data-generation)
 
 ![](https://img.shields.io/github/stars/diyago/tabular-data-generation?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 - Synthetic tabular data generation using GANs (CTGAN), Diffusion Models, and LLMs with adversarial filtering, privacy metrics, and sklearn integration.
 
@@ -1477,6 +1509,8 @@ by [Jesse Vincent](https://github.com/obra) - A strong bundle of core competenci
 
 ![](https://img.shields.io/github/stars/laurentmazare/tch-rs?style=flat-square&label=⭐) · Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 Rust bindings for the C++ API of PyTorch
 
 > **AI 分析:** Bindings Rust para PyTorch C++. Opción válida si necesitás Rust + PyTorch sin overhead Python, pero tch-rs tiene mantenimiento esporádico vs Candle.
@@ -1491,6 +1525,8 @@ Rust bindings for the C++ API of PyTorch
 
 ![](https://img.shields.io/github/stars/tensorzero/tensorzero?style=flat-square&label=⭐) · Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 data & learning flywheel for LLMs that unifies inference, observability, optimization, and experimentation
 
 > **AI 分析:** Framework para cerrar el loop de inferencia LLM con observabilidad y optimización. Resuelve problema real (costo + latencia de LLMs) pero ecosystem inmaduro.
@@ -1501,9 +1537,27 @@ data & learning flywheel for LLMs that unifies inference, observability, optimiz
 
 ---
 
+### [TF-Agents](https://github.com/tensorflow/agents)
+
+![](https://img.shields.io/github/stars/tensorflow/agents?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+- A reliable, scalable and easy to use TensorFlow library for contextual bandits and reinforcement learning.
+
+> **AI 分析:** TF-Agents es librería TensorFlow para reinforcement learning y contextual bandits. APIs claras, bien documentada, producción-ready. Nicho específico pero sólido si necesitás RL.
+
+**強み:** _APIs consistentes y documentación corporate-grade_ · _Algoritmos RL comprobados (DQN, PPO, DDPG)_
+
+**Tags:** `reinforcement-learning` `tensorflow` `python` `contextual-bandits`
+
+---
+
 ### [TPOT](https://github.com/epistasislab/tpot)
 
 ![](https://img.shields.io/github/stars/epistasislab/tpot?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 Tool that automatically creates and optimizes machine learning pipelines using genetic programming. Consider it your personal data science assistant, automating a tedious part of machine learning.
 
@@ -1519,6 +1573,8 @@ Tool that automatically creates and optimizes machine learning pipelines using g
 
 ![](https://img.shields.io/github/stars/unslothai/unsloth?style=flat-square&label=⭐) · Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 - Fine-tuning & Reinforcement Learning for LLMs. Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM.
 
 > **AI 分析:** Fine-tuning de LLMs optimizado para memory/speed. Promete 2x speedup y 70% menos VRAM. Útil para quien quiera entrenar modelos abiertos localmente. Hype moderado pero claims verificables.
@@ -1533,7 +1589,9 @@ Tool that automatically creates and optimizes machine learning pipelines using g
 
 ![](https://img.shields.io/github/stars/unum-cloud/usearch?style=flat-square&label=⭐) · Found in 2 active sources
 
-Similarity Search Engine for Vectors and Strings [](https://crates.io/crates/usearch)
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Similarity Search Engine for Vectors and Strings
 
 > **AI 分析:** Engine de búsqueda de similaridad para vectores y strings. Rust + multi-lenguaje, compite con FAISS/Milvus pero más minimalista.
 
@@ -1543,9 +1601,59 @@ Similarity Search Engine for Vectors and Strings [](https://crates.io/crates/use
 
 ---
 
+### [vLLM](https://github.com/vllm-project/vllm)
+
+![](https://img.shields.io/github/stars/vllm-project/vllm?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+- vLLM is a high-throughput and memory-efficient inference and serving engine for LLMs.
+
+> **AI 分析:** Motor inference/serving de LLMs con throughput y memoria optimizados. PagedAttention elimina fragmentación. Standard para servir Llama/Mistral en producción.
+
+**強み:** _PagedAttention revolucionó memory efficiency_ · _Soporte multi-LoRA y batching dinámico nativo_
+
+**Tags:** `llm-inference` `serving` `cuda` `python`
+
+---
+
+### [Vowpal Wabbit](https://github.com/vowpalwabbit/vowpal_wabbit)
+
+![](https://img.shields.io/github/stars/vowpalwabbit/vowpal_wabbit?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
+
+> **AI 分析:** Sistema ML orientado a escala con técnicas avanzadas: online learning, hashing, allreduce, reductions. Usado en producción para problemas donde el streaming y la eficiencia importan. Excelente para bandit problems y structured prediction.
+
+**強み:** _Performance extremo en datasets masivos y streaming_ · _Soporte único para técnicas avanzadas (learning2search, active learning)_
+
+**Tags:** `online-learning` `streaming` `c++` `ml-research` `vowpal-wabbit`
+
+---
+
+### [Wav2Letter++](https://github.com/facebookresearch/wav2letter)
+
+![](https://img.shields.io/github/stars/facebookresearch/wav2letter?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Public domain, a fast open source speech processing toolkit written entirely in C++ and uses the ArrayFire tensor library and the flashlight machine learning library for maximum efficiency. [BSD]
+
+> **AI 分析:** Toolkit speech processing optimizado, C++/Lua, Facebook Research. Excelente si procesás audio/speech, pero dominio muy específico.
+
+**強み:** _Extremadamente optimizado para speech, dominante en research_ · _Integración con librería flashlight moderna_
+
+**Tags:** `c++` `lua` `speech-processing` `audio` `facebook`
+
+---
+
 ### [Windsurf](https://windsurf.com)
 
 Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Formerly known as Codeium.
 
@@ -1561,6 +1669,8 @@ An IDE with chat, edit, generate and debug features. Forked from VSCodium, so th
 
 ![](https://img.shields.io/github/stars/aksnzhy/xlearn?style=flat-square&label=⭐) · Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 A high performance, easy-to-use, and scalable machine learning package, which can be used to solve large-scale machine learning problems. xLearn is especially useful for solving machine learning problems on large-scale sparse data, which is very common in Internet services such as online advertising and recommender systems.
 
 > **AI 分析:** Librería ML especializada en datos sparse a escala. Resuelve problemas reales de ads y recomendación. C++ puro, rendimiento comprobado. Nicho específico pero establecido.
@@ -1571,9 +1681,27 @@ A high performance, easy-to-use, and scalable machine learning package, which ca
 
 ---
 
+### [YOLOv8](https://github.com/ultralytics/ultralytics)
+
+![](https://img.shields.io/github/stars/ultralytics/ultralytics?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Ultralytics' YOLOv8 implementation with C++ support for real-time object detection and tracking, optimized for edge devices.
+
+> **AI 分析:** YOLOv8 de Ultralytics: detección de objetos en tiempo real, state-of-the-art en velocidad/accuracy. Estándar industrial hoy, C++ para edge. Soluciona real computer vision problem.
+
+**強み:** _Accuracy/speed tradeoff superior a competencia, muy usado en industry_ · _Soporte robusto para deployment edge con C++_
+
+**Tags:** `yolo` `object-detection` `python` `cpp` `edge-ai`
+
+---
+
 ### [ZenML](https://github.com/zenml-io/zenml)
 
 ![](https://img.shields.io/github/stars/zenml-io/zenml?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 - ZenML is an extensible, open-source MLOps framework to create reproducible ML pipelines with a focus on automated metadata tracking, caching, and many integrations to other tools.
 

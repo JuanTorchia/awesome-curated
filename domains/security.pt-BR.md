@@ -2,17 +2,19 @@
 
 <p><sub>← [Voltar ao main](../README.pt-BR.md)</sub></p>
 
-**27 GEMs · 32 Vale a pena testar**
+**1 Human-reviewed · 0 Popular standards · 57 AI candidates**
 
 ---
 
-## ⭐ GEMs — padrões da indústria
+## Human-reviewed picks
 
-Ferramentas que a comunidade considera default. Se você não conhece, vale explorar.
+Tools with a human review label and visible caveats.
 
 ### 👤 [themis](https://github.com/cossacklabs/themis)
 
 ![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · 🔥 **Found in 7 active sources**
+
+**Review label:** Human Pick · **Caveat:** Security-sensitive tool; evaluate fit and maintenance posture before production use.
 
 High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption). Ported on many languages and platforms, suitable for client-server infastructures.
 
@@ -24,396 +26,20 @@ High level crypto library for storing data (AES), secure messaging (ECC + ECDSA 
 
 ---
 
-### [Bouncy Castle](https://bouncycastle.org/java.html)
-
-Found in 2 active sources
-
-All-purpose cryptographic library and JCA provider offering a wide range of functions, from basic helpers to PGP/SMIME operations.
-
-> **Análise IA:** Bouncy Castle es la librería criptográfica estándar en Java. Cobertura completa: cifrados, firma, PGP, SMIME. Usado en producción desde 2000+. Imprescindible para cualquier proyecto que necesite crypto serio en JVM.
-
-**Pontos fortes:** _Cobertura criptográfica exhaustiva y bien auditada_ · _Compatibilidad JCA nativa, integración directa con ecosistema Java_
-
-**Tags:** `java` `cryptography` `jca-provider` `pgp` `smime`
 
 ---
 
-### [briansmith/ring](https://github.com/briansmith/ring)
+## AI candidates and needs review
 
-![](https://img.shields.io/github/stars/briansmith/ring?style=flat-square&label=⭐) · Found in 2 active sources
-
-Safe, fast, small crypto using Rust and BoringSSL's cryptography primitives.
-
-> **Análise IA:** Crypto library Rust wrapping BoringSSL (Google). APIs seguras para primitivos críticos sin memory issues. Usado en Rustls, browsers. Indispensable si necesitás crypto sin paranoia de FFI bugs.
-
-**Pontos fortes:** _Safety guarantees de Rust + auditoría BoringSSL_ · _Performance sin sacrificar seguridad_
-
-**Tags:** `rust` `crypto` `boringssl` `tls`
-
----
-
-### [Crypto++](https://github.com/weidai11/cryptopp)
-
-![](https://img.shields.io/github/stars/weidai11/cryptopp?style=flat-square&label=⭐) · Found in 2 active sources
-
-A free C++ class library of cryptographic schemes. [Boost] [website](http://www.cryptopp.com/)
-
-> **Análise IA:** Librería C++ crypto consolidada, 25+ años de desarrollo. Estándar industrial para esquemas criptográficos. Pero: C++ puro (overhead), comunidad menor que alternativas modernas como Tink.
-
-**Pontos fortes:** _Amplia cobertura de esquemas criptográficos_ · _Maduro y auditado_
-
-**Tags:** `cpp` `cryptography` `production-ready`
-
----
-
-### [Cryptomator](https://cryptomator.org)
-
-Found in 2 active sources
-
-Multi-platform transparent client-side encryption of your files in the cloud. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/cryptomator/cryptomator/)
-
-> **Análise IA:** Encriptación client-side transparente para cloud storage. Multiplataforma, open-source, Java-based. Resuelve problema real: confiar en cloud providers sin revelar contenido.
-
-**Pontos fortes:** _Integración transparente con cloud providers_ · _Zero-knowledge por diseño_
-
-**Tags:** `encryption` `client-side` `java` `cross-platform`
-
----
-
-### [Google Hacking Database (GHDB)](https://exploit-db.com/google-hacking-database)
-
-Found in 2 active sources
-
-The GHDB is an index of search queries (we call them dorks) used to find publicly available information, intended for pentesters and security researchers.
-
-> **Análise IA:** Índice de Google dorking queries para pentesting. Referencia fundamental. Imprescindible conocer para recon inicial efectivo, zero costo.
-
-**Pontos fortes:** _Cobertura exhaustiva de técnicas google search_ · _Gratuito y mantenido activamente_
-
-**Tags:** `osint` `google-dorking` `recon` `pentesting`
-
----
-
-### [gpg](https://gnupg.org)
-
-Found in 2 active sources
-
-Complete and free implementation of the OpenPGP standard. It allows to encrypt and sign your data and communication, features a versatile key management system. GnuPG is a command line tool with features for easy integration with other applications.
-
-> **Análise IA:** Implementación completa y free del estándar OpenPGP. Para encriptación/firma de datos y comunicaciones con CLI integrable a cualquier tool.
-
-**Pontos fortes:** _Estándar industria de 25+ años_ · _Zero-dependency, CLI portable y ubiquo_
-
-**Tags:** `gpg` `encryption` `cli` `openpgp` `portable`
-
----
-
-### [hashes](https://github.com/rustcrypto/hashes)
-
-![](https://img.shields.io/github/stars/rustcrypto/hashes?style=flat-square&label=⭐) · Found in 2 active sources
-
-Collection of cryptographic hash functions written in pure Rust.
-
-> **Análise IA:** Librería Rust de funciones hash criptográficas puras. Estándar de facto para Rust, mantenida por RustCrypto. Production-ready.
-
-**Pontos fortes:** _Auditoría de seguridad profesional (RustCrypto)_ · _Cobertura completa de algoritmos modernos_
-
-**Tags:** `rust` `cryptography` `hashing` `library`
-
----
-
-### [KeyCloak](https://keycloak.org)
-
-Found in 2 active sources
-
-Open Source Identity and Access Management.
-
-> **Análise IA:** Keycloak es un IAM open-source maduro basado en estándares (OAuth2, OIDC, SAML). Resuelve autenticación/autorización en aplicaciones empresariales. Comunidad activa, pero requiere Java y DevOps experiente.
-
-**Pontos fortes:** _Soporte multi-protocolo robusto (OIDC, SAML, LDAP)_ · _Cluster-ready y escalable horizontalmente_
-
-**Tags:** `iam` `oauth2` `java` `self-hosted` `enterprise`
-
----
-
-### [libsodium](https://github.com/jedisct1/libsodium)
-
-![](https://img.shields.io/github/stars/jedisct1/libsodium?style=flat-square&label=⭐) · Found in 2 active sources
-
-P(ortable·ackageable) NaCl-based crypto library, opinionated and easy to use. [ISC]
-
-> **Análise IA:** Librería crypto moderna basada en NaCl, diseñada para ser segura por defecto (opciones opinionadas). Estándar en Python (PyNaCl) y en sistemas que necesitan crypto sin sorpresas.
-
-**Pontos fortes:** _API opinionada reduce errores de uso_ · _Ampliamente auditada y confiable_
-
-**Tags:** `cryptography` `nacl` `security` `c`
-
----
-
-### [Lynis](https://cisofy.com/lynis)
-
-Found in 2 active sources
-
-Auditing tool for UNIX-based systems.
-
-> **Análise IA:** Herramienta de auditoría para UNIX/Linux que escanea vulnerabilidades, compliance, hardening. Estándar en security ops, genera reportes procesables.
-
-**Pontos fortes:** _Amplio coverage de checks de seguridad_ · _Output estructurado, integrable en pipelines_
-
-**Tags:** `security` `audit` `unix` `cli`
-
----
-
-### [OpenSSL](https://github.com/openssl/openssl)
-
-![](https://img.shields.io/github/stars/openssl/openssl?style=flat-square&label=⭐) · Found in 2 active sources
-
-A robust, commercial-grade, full-featured, and Open Source cryptography library. [Apache] [website](http://www.openssl.org/)
-
-> **Análise IA:** Librería crypto de grado comercial, open source, estándar universal. Para cualquier app que necesite encriptación, TLS, o signing con soporte universal.
-
-**Pontos fortes:** _Estándar de facto en todas partes (sistemas, apps, servicios)_ · _Auditoría y madurez incomparables_
-
-**Tags:** `openssl` `cryptography` `tls` `c` `universal`
-
----
-
-### [pynacl](https://github.com/pyca/pynacl)
-
-![](https://img.shields.io/github/stars/pyca/pynacl?style=flat-square&label=⭐) · Found in 2 active sources
-
-Python binding to the Networking and Cryptography (NaCl) library.
-
-> **Análise IA:** Wrapper Python para NaCl, librería moderna de crypto. Si necesitás encryptación simétrica, asymétrica o signing, es la opción recomendada por la comunidad Python.
-
-**Pontos fortes:** _API clara y segura por defecto, difícil hacerla mal_ · _Basada en NaCl auditada y battle-tested_
-
-**Tags:** `cryptography` `python` `nacl` `bindings`
-
----
-
-### [s2n](https://github.com/awslabs/s2n)
-
-![](https://img.shields.io/github/stars/awslabs/s2n?style=flat-square&label=⭐) · Found in 2 active sources
-
-An implementation of the TLS/SSL protocols. [Apache]
-
-> **Análise IA:** Implementación robusta de TLS/SSL de AWS Labs. Usado en producción para aplicaciones que necesitan criptografía moderna. Bien mantenido, auditado, estándar en infraestructura AWS.
-
-**Pontos fortes:** _Auditorías de seguridad regulares y mantenimiento activo_ · _Optimizaciones de performance específicas para SSL/TLS_
-
-**Tags:** `tls` `ssl` `cryptography` `c` `aws`
-
----
-
-### [safedep/vet](https://github.com/safedep/vet)
-
-![](https://img.shields.io/github/stars/safedep/vet?style=flat-square&label=⭐) · Found in 2 active sources
-
-🎖️ 🏎️ ☁️ 🍎 🪟 🐧 - vet-mcp checks open source packages—like those suggested by AI coding tools—for vulnerabilities and malicious code. It supports npm and PyPI, and runs locally via Docker or as a standalone binary for fast, automated vetting.
-
-> **Análise IA:** MCP server que vetea packages npm/PyPI contra vulnerabilidades y código malicioso. Integrable en AI coding tools. Docker o binary standalone.
-
-**Pontos fortes:** _Local execution sin cloud dependency_ · _Coverage dual npm/PyPI con scanning de malware_
-
-**Tags:** `mcp` `dependency-check` `security` `npm` `pypi`
-
----
-
-### [SecLists](https://github.com/danielmiessler/seclists)
-
-![](https://img.shields.io/github/stars/danielmiessler/seclists?style=flat-square&label=⭐) · Found in 2 active sources
-
-Collection of multiple types of lists used during security assessments.
-
-> **Análise IA:** Colección masiva de wordlists y payloads para testing. Estándar en pentesting. Actualizadas regularmente. Imprescindible en arsenal ofensivo.
-
-**Pontos fortes:** _Cobertura exhaustiva: fuzzing, credenciales, patrones_ · _Actualización activa y comunidad robusta_
-
-**Tags:** `wordlist` `payload` `pentesting` `curado`
-
----
-
-### [Shodan](https://shodan.io)
-
-Found in 2 active sources
-
-Shodan is a search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using various searching filters.
-
-> **Análise IA:** Motor de búsqueda de IoT/servidores expuestos públicamente. Crítico para asset discovery, identificar infraestructura vulnerable. Es de facto estándar en auditoría y threat intel.
-
-**Pontos fortes:** _Base de datos masiva de dispositivos indexados_ · _Filtros avanzados (puerto, banner, geolocalización)_
-
-**Tags:** `iot-search` `vulnerability-scanning` `asset-discovery` `threat-intel`
-
----
-
-### [Social Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit)
-
-![](https://img.shields.io/github/stars/trustedsec/social-engineer-toolkit?style=flat-square&label=⭐) · Found in 2 active sources
-
-Open source pentesting framework designed for social engineering featuring a number of custom attack vectors to make believable attacks quickly.
-
-> **Análise IA:** Framework pentesting enfocado en ingeniería social. Ataques creíbles preseteados (phishing, spear-phishing, payloads). Usado en red teams reales, documentación sólida.
-
-**Pontos fortes:** _Ataques preseteados realistas y probados_ · _Integración con Metasploit, payloads customizables_
-
-**Tags:** `pentesting` `social-engineering` `framework` `python` `red-team`
-
----
-
-### [SpiderFoot](https://spiderfoot.net)
-
-Found in 2 active sources
-
-SpiderFoot is an open source intelligence (OSINT) automation platform with over 200 modules for threat intelligence, attack surface monitoring, security assessments and asset discovery.
-
-> **Análise IA:** Plataforma OSINT automatizada con 200+ módulos. Excelente para asset discovery y threat intel sin hands-on. Open source pero requiere setup. Producción-ready.
-
-**Pontos fortes:** _Automatización masiva reduce manual work 70%+_ · _Modular y extensible, open source_
-
-**Tags:** `osint` `automation` `threat-intel` `asset-discovery`
-
----
-
-### [SQLMap](https://github.com/sqlmapproject/sqlmap)
-
-![](https://img.shields.io/github/stars/sqlmapproject/sqlmap?style=flat-square&label=⭐) · Found in 2 active sources
-
-An automatic SQL injection and database takeover tool.
-
-> **Análise IA:** Herramienta de SQL injection automatizada. Estándar para pentesting y auditorías. Detecta y explota vulnerabilidades SQL; documentación excelente, comunidad activa.
-
-**Pontos fortes:** _Automatización extremadamente efectiva, soporta casi todos los tipos de BD_ · _Actualización constante vs nuevas técnicas de obfuscación_
-
-**Tags:** `penetration-testing` `sql-injection` `python` `automation`
-
----
-
-### [Syft](https://github.com/anchore/syft)
-
-![](https://img.shields.io/github/stars/anchore/syft?style=flat-square&label=⭐) · Found in 2 active sources
-
-CLI tool and library for generating a Software Bill of Materials (SBOM) from container images and filesystems. By [Anchore](https://github.com/anchore).
-
-> **Análise IA:** CLI + librería para generar SBOMs (Software Bill of Materials) desde imágenes container y filesystems. Crítico para seguridad/compliance. Por Anchore, empresa consolidada en supply-chain security.
-
-**Pontos fortes:** _Herramienta en ecosistema maduro (supply-chain security), requisito creciente en enterprise_ · _Activa, open-source, usada en industry_
-
-**Tags:** `sbom` `container-security` `cli` `go` `supply-chain`
-
----
-
-### [Tails](https://tails.boum.org)
-
-Found in 2 active sources
-
-Live operating system aiming to preserve your privacy and anonymity.
-
-> **Análise IA:** Live OS Debian que borra todo al apagar. Para periodistas/activistas que necesitan garantía de no dejar rastros. Solución de privacidad completa, no solo red.
-
-**Pontos fortes:** _Integración transparente de Tor en toda la stack_ · _Amnesia forzada, no hay persistencia accidental_
-
-**Tags:** `anonymity` `live-os` `privacy` `linux`
-
----
-
-### [Tink](https://github.com/google/tink)
-
-![](https://img.shields.io/github/stars/google/tink?style=flat-square&label=⭐) · Found in 2 active sources
-
-A multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse. [Apache-2.0]
-
-> **Análise IA:** Librería criptográfica multi-lenguaje (Google). Diseño: seguro por defecto, APIs imposibles de misuser. Mejor ergonomía que Crypto++. Estándar moderno en seguridad aplicada.
-
-**Pontos fortes:** _APIs imposibles de misuser por diseño_ · _Soporte multi-lenguaje + plataforma_
-
-**Tags:** `cryptography` `multi-language` `secure-by-default`
-
----
-
-### [Tor](https://torproject.org)
-
-Found in 2 active sources
-
-Free software and onion routed overlay network that helps you defend against traffic analysis.
-
-> **Análise IA:** Red de enrutamiento con cebollas estándar de facto. Para cualquiera que necesite privacidad de red. Probada en batalla durante 20+ años, usado por gobiernos y insurgentes.
-
-**Pontos fortes:** _Red más grande y auditada en privacidad_ · _Triple encriptación, protección contra análisis de tráfico comprobada_
-
-**Tags:** `anonymity` `overlay-network` `privacy` `c`
-
----
-
-### [vaultwarden](https://github.com/dani-garcia/vaultwarden)
-
-![](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=flat-square&label=⭐) · Found in 2 active sources
-
-](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml) - Alternative implementation of the Bitwarden server API written in Rust
-
-> **Análise IA:** Clone de Bitwarden API escrito en Rust. Para self-hosters que desconfían de cloud o necesitan auditabilidad. Funciona bien, mantención activa, alternativa seria a Bitwarden.
-
-**Pontos fortes:** _Consumo RAM/CPU mínimo comparado a versión oficial_ · _Deployable en VPS barato sin overhead_
-
-**Tags:** `password-manager` `rust` `self-hosted` `security`
-
----
-
-### [Virus Total](https://virustotal.com)
-
-Found in 2 active sources
-
-Free service that analyzes suspicious files and URLs and facilitates the quick detection of viruses, worms, trojans, and all kinds of malware.
-
-> **Análise IA:** Servicio gratuito de análisis de archivos/URLs contra múltiples antivirus. Escanea malware, trojans, worms. Estándar en OSINT y análisis de seguridad.
-
-**Pontos fortes:** _Base de datos masiva de firmas de 90+ motores_ · _Acceso gratuito sin límites aparentes, API disponible_
-
-**Tags:** `malware` `osint` `antivirus` `saas` `security`
-
----
-
-### [webpki](https://github.com/briansmith/webpki)
-
-![](https://img.shields.io/github/stars/briansmith/webpki?style=flat-square&label=⭐) · Found in 2 active sources
-
-Web PKI TLS X.509 certificate validation in Rust.
-
-> **Análise IA:** Validación X.509/TLS en Rust puro. Reemplaza OpenSSL para PKI sin FFI risk. Core de Rustls. Si implementás TLS o HTTPS client, esto es el gold standard.
-
-**Pontos fortes:** _Validación correcta de certificados sin C deps_ · _Auditoría profesional, usado en producción crítica_
-
-**Tags:** `rust` `tls` `x509` `pkix`
-
----
-
-
----
-
-## 👍 Vale testar — sólidas no seu nicho
-
-Menos hype que as GEMs, mas confiáveis se você cair no caso de uso.
-
-### [Honeypots](https://github.com/paralax/awesome-honeypots)
-
-![](https://img.shields.io/github/stars/paralax/awesome-honeypots?style=flat-square&label=⭐) · Found in 3 active sources
-
-Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
-
-> **Análise IA:** Catálogo de herramientas y proyectos honeypot. Defiende sistemas detectando atacantes. Para teams de seguridad que necesitan inteligencia de amenazas y tráfico malicioso.
-
-**Pontos fortes:** _Cobertura completa de tipos honeypot_ · _Facilita deployment defensivo_
-
-**Tags:** `security` `honeypots` `threat-detection` `curated-list`
-
----
+Automated candidates with source signal; these are not human endorsements yet.
 
 ### [Agentic Radar](https://github.com/splx-ai/agentic-radar)
 
 ![](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=flat-square&label=⭐) · Found in 2 active sources
 
-Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. Supports LangGraph, CrewAI, n8n, OpenAI Agents, and more.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Open-source CLI security scanner for agentic workflows. Scans your workflow’s , detects vulnerabilities, and generates an interactive visualization along with a detailed security report. Supports LangGraph, CrewAI, n8n, OpenAI Agents, and more.
 
 > **Análise IA:** CLI security scanner para agentic workflows (LangGraph, CrewAI, n8n). Detecta vulnerabilidades en código de agentes, genera reportes. Resuelve problema real: auditar workflows LLM antes de prod.
 
@@ -426,6 +52,8 @@ Open-source CLI security scanner for agentic workflows. Scans your workflow’s 
 ### [Apache Shiro](https://shiro.apache.org)
 
 Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 Performs authentication, authorization, cryptography and session management.
 
@@ -441,7 +69,9 @@ Performs authentication, authorization, cryptography and session management.
 
 Found in 2 active sources
 
-Cryptography library written in `C++20`.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Cryptography library written in C++20.
 
 > **Análise IA:** Librería crypto en C++20 con algoritmos modernos. Para devs C++ que necesitan crypto integrada sin OpenSSL o dependencias pesadas.
 
@@ -451,11 +81,29 @@ Cryptography library written in `C++20`.
 
 ---
 
+### [Bouncy Castle](https://bouncycastle.org/java.html)
+
+Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+All-purpose cryptographic library and JCA provider offering a wide range of functions, from basic helpers to PGP/SMIME operations.
+
+> **Análise IA:** Bouncy Castle es la librería criptográfica estándar en Java. Cobertura completa: cifrados, firma, PGP, SMIME. Usado en producción desde 2000+. Imprescindible para cualquier proyecto que necesite crypto serio en JVM.
+
+**Pontos fortes:** _Cobertura criptográfica exhaustiva y bien auditada_ · _Compatibilidad JCA nativa, integración directa con ecosistema Java_
+
+**Tags:** `java` `cryptography` `jca-provider` `pgp` `smime`
+
+---
+
 ### [Brave](https://brave.com)
 
 Found in 2 active sources
 
-Web browser with an emphasis on privacy and speed. [![Open-Source Software][OSS Icon]](https://github.com/brave/brave-browser/) ![Freeware][Freeware Icon]
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Web browser with an emphasis on privacy and speed. (https://github.com/brave/brave-browser/)
 
 > **Análise IA:** Chromium fork con privacy-first, bloquea tracking default, BAT rewards opcional. Open-source. Rápido, buena compatibilidad. Rival real a Chrome en velocidad y privacidad balanceada.
 
@@ -465,9 +113,59 @@ Web browser with an emphasis on privacy and speed. [![Open-Source Software][OSS 
 
 ---
 
+### [briansmith/ring](https://github.com/briansmith/ring)
+
+![](https://img.shields.io/github/stars/briansmith/ring?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Safe, fast, small crypto using Rust and BoringSSL's cryptography primitives.
+
+> **Análise IA:** Crypto library Rust wrapping BoringSSL (Google). APIs seguras para primitivos críticos sin memory issues. Usado en Rustls, browsers. Indispensable si necesitás crypto sin paranoia de FFI bugs.
+
+**Pontos fortes:** _Safety guarantees de Rust + auditoría BoringSSL_ · _Performance sin sacrificar seguridad_
+
+**Tags:** `rust` `crypto` `boringssl` `tls`
+
+---
+
+### [Crypto++](https://github.com/weidai11/cryptopp)
+
+![](https://img.shields.io/github/stars/weidai11/cryptopp?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+A free C++ class library of cryptographic schemes. [Boost]
+
+> **Análise IA:** Librería C++ crypto consolidada, 25+ años de desarrollo. Estándar industrial para esquemas criptográficos. Pero: C++ puro (overhead), comunidad menor que alternativas modernas como Tink.
+
+**Pontos fortes:** _Amplia cobertura de esquemas criptográficos_ · _Maduro y auditado_
+
+**Tags:** `cpp` `cryptography` `production-ready`
+
+---
+
+### [Cryptomator](https://cryptomator.org)
+
+Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Multi-platform transparent client-side encryption of your files in the cloud.
+
+> **Análise IA:** Encriptación client-side transparente para cloud storage. Multiplataforma, open-source, Java-based. Resuelve problema real: confiar en cloud providers sin revelar contenido.
+
+**Pontos fortes:** _Integración transparente con cloud providers_ · _Zero-knowledge por diseño_
+
+**Tags:** `encryption` `client-side` `java` `cross-platform`
+
+---
+
 ### [CryptoSwift](https://github.com/krzyzanowskim/cryptoswift)
 
 ![](https://img.shields.io/github/stars/krzyzanowskim/cryptoswift?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 Crypto related functions and helpers for Swift implemented in Swift programming language.
 
@@ -483,7 +181,9 @@ Crypto related functions and helpers for Swift implemented in Swift programming 
 
 Found in 2 active sources
 
-is a website that will help you discover hosts related to a specific domain.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+is a that will help you discover hosts related to a specific domain.
 
 > **Análise IA:** Web tool para enumerar subdominios vía DNS pasivo. Para pentesters que mapean superficie de ataque. Free pero con limitaciones.
 
@@ -497,7 +197,9 @@ is a website that will help you discover hosts related to a specific domain.
 
 Found in 2 active sources
 
-Create, share communicate. Chat and call securely. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/vector-im)
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Create, share communicate. Chat and call securely.
 
 > **Análise IA:** Chat seguro federated basado en Matrix protocol. Open-source, end-to-end encryption. Alternativa a Slack/Discord para orgs que priorizan privacidad.
 
@@ -511,7 +213,9 @@ Create, share communicate. Chat and call securely. [![Open-Source Software][OSS 
 
 Found in 2 active sources
 
-Secure remote access gateway that supports the WireGuard protocol. It offers a Web GUI, 1-line install script, multi-factor auth (MFA), and SSO.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Secure remote access gateway that supports the WireGuard protocol. It offers a Web GUI, 1-line install script, multi-factor auth (MFA), and SSO. () Apache-2.0 Elixir/Docker
 
 > **Análise IA:** VPN/secure gateway moderno con WireGuard, MFA, SSO. Elixir + Docker. Alternativa legítima a OpenVPN/traditional VPN si necesitás remote access corporativo self-hosted con polish moderno.
 
@@ -521,9 +225,59 @@ Secure remote access gateway that supports the WireGuard protocol. It offers a W
 
 ---
 
+### [Google Hacking Database (GHDB)](https://exploit-db.com/google-hacking-database)
+
+Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+The GHDB is an index of search queries (we call them dorks) used to find publicly available information, intended for pentesters and security researchers.
+
+> **Análise IA:** Índice de Google dorking queries para pentesting. Referencia fundamental. Imprescindible conocer para recon inicial efectivo, zero costo.
+
+**Pontos fortes:** _Cobertura exhaustiva de técnicas google search_ · _Gratuito y mantenido activamente_
+
+**Tags:** `osint` `google-dorking` `recon` `pentesting`
+
+---
+
+### [gpg](https://gnupg.org)
+
+Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Complete and free implementation of the OpenPGP standard. It allows to encrypt and sign your data and communication, features a versatile key management system. GnuPG is a command line tool with features for easy integration with other applications.
+
+> **Análise IA:** Implementación completa y free del estándar OpenPGP. Para encriptación/firma de datos y comunicaciones con CLI integrable a cualquier tool.
+
+**Pontos fortes:** _Estándar industria de 25+ años_ · _Zero-dependency, CLI portable y ubiquo_
+
+**Tags:** `gpg` `encryption` `cli` `openpgp` `portable`
+
+---
+
+### [hashes](https://github.com/rustcrypto/hashes)
+
+![](https://img.shields.io/github/stars/rustcrypto/hashes?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Collection of cryptographic hash functions written in pure Rust.
+
+> **Análise IA:** Librería Rust de funciones hash criptográficas puras. Estándar de facto para Rust, mantenida por RustCrypto. Production-ready.
+
+**Pontos fortes:** _Auditoría de seguridad profesional (RustCrypto)_ · _Cobertura completa de algoritmos modernos_
+
+**Tags:** `rust` `cryptography` `hashing` `library`
+
+---
+
 ### [Hunter.io](https://hunter.io)
 
 Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 Data broker providing a Web search interface for discovering the email addresses and other organizational details of a company.
 
@@ -539,6 +293,8 @@ Data broker providing a Web search interface for discovering the email addresses
 
 Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 The Invisible Internet Project.
 
 > **Análise IA:** Red P2P de enrutamiento de cebollas para anonimato. Para usuarios que necesitan privacidad contra análisis de tráfico. Menos conocida que Tor pero con arquitectura más distribuida.
@@ -553,7 +309,9 @@ The Invisible Internet Project.
 
 Found in 2 active sources
 
-Secure groups, files, and chat for everyone! [![Open-Source Software][OSS Icon]](https://github.com/keybase) ![Freeware][Freeware Icon]
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Secure groups, files, and chat for everyone! (https://github.com/keybase)
 
 > **Análise IA:** Plataforma de comunicación y colaboración segura con cifrado end-to-end. Open-source pero con desarrollos dispersos, competencia fuerte de Signal y Matrix.
 
@@ -563,9 +321,27 @@ Secure groups, files, and chat for everyone! [![Open-Source Software][OSS Icon]]
 
 ---
 
+### [KeyCloak](https://keycloak.org)
+
+Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Open Source Identity and Access Management. () Apache-2.0 Java
+
+> **Análise IA:** Keycloak es un IAM open-source maduro basado en estándares (OAuth2, OIDC, SAML). Resuelve autenticación/autorización en aplicaciones empresariales. Comunidad activa, pero requiere Java y DevOps experiente.
+
+**Pontos fortes:** _Soporte multi-protocolo robusto (OIDC, SAML, LDAP)_ · _Cluster-ready y escalable horizontalmente_
+
+**Tags:** `iam` `oauth2` `java` `self-hosted` `enterprise`
+
+---
+
 ### [kpcyrd/authoscope](https://github.com/kpcyrd/authoscope)
 
 ![](https://img.shields.io/github/stars/kpcyrd/authoscope?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 A scriptable network authentication cracker
 
@@ -581,6 +357,8 @@ A scriptable network authentication cracker
 
 ![](https://img.shields.io/github/stars/kpcyrd/sniffglue?style=flat-square&label=⭐) · Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 A secure multithreaded packet sniffer
 
 > **Análise IA:** Packet sniffer seguro y multihilo en Rust. Alternativa moderna a tcpdump con mejor manejo de memoria. Para análisis de tráfico y debugging de red.
@@ -595,7 +373,9 @@ A secure multithreaded packet sniffer
 
 Found in 2 active sources
 
-A fork of Firefox, focused on privacy, security and freedom. [![Open-Source Software][OSS Icon]](https://gitlab.com/librewolf-community) ![Freeware][Freeware Icon]
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+A fork of Firefox, focused on privacy, security and freedom. (https://gitlab.com/librewolf-community)
 
 > **Análise IA:** Fork Firefox hardened para privacidad y seguridad. Desactiva telemetría Mozilla, DRM, pocket. Compilado limpio. Ligero pero requiere usuarios tech-savvy. Niche privacy-first.
 
@@ -605,9 +385,43 @@ A fork of Firefox, focused on privacy, security and freedom. [![Open-Source Soft
 
 ---
 
+### [libsodium](https://github.com/jedisct1/libsodium)
+
+![](https://img.shields.io/github/stars/jedisct1/libsodium?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+P(ortable ackageable) NaCl-based crypto library, opinionated and easy to use. [ISC]
+
+> **Análise IA:** Librería crypto moderna basada en NaCl, diseñada para ser segura por defecto (opciones opinionadas). Estándar en Python (PyNaCl) y en sistemas que necesitan crypto sin sorpresas.
+
+**Pontos fortes:** _API opinionada reduce errores de uso_ · _Ampliamente auditada y confiable_
+
+**Tags:** `cryptography` `nacl` `security` `c`
+
+---
+
+### [Lynis](https://cisofy.com/lynis)
+
+Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Auditing tool for UNIX-based systems.
+
+> **Análise IA:** Herramienta de auditoría para UNIX/Linux que escanea vulnerabilidades, compliance, hardening. Estándar en security ops, genera reportes procesables.
+
+**Pontos fortes:** _Amplio coverage de checks de seguridad_ · _Output estructurado, integrable en pipelines_
+
+**Tags:** `security` `audit` `unix` `cli`
+
+---
+
 ### [Maltego](https://maltego.com)
 
 Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 Maltego is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
 
@@ -623,7 +437,9 @@ Maltego is an open source intelligence (OSINT) and graphical link analysis tool 
 
 ![](https://img.shields.io/github/stars/mariocandela/beelzebub?style=flat-square&label=⭐) · Found in 2 active sources
 
-☁️ - Beelzebub is a honeypot framework that lets you build honeypot tools using MCP. Its purpose is to detect prompt injection or malicious agent behavior. The underlying idea is to provide the agent with tools it would never use in its normal work.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+☁️ Beelzebub is a honeypot framework that lets you build honeypot tools using MCP. Its purpose is to detect prompt injection or malicious agent behavior. The underlying idea is to provide the agent with tools it would never use in its normal work.
 
 > **Análise IA:** Honeypot framework con MCP para detectar prompt injection en agentes IA. Idea interesante: proporciona tools carnada que un agente legítimo nunca tocaría. Nicho: seguridad de agentes, no de infraestructura clásica.
 
@@ -637,7 +453,9 @@ Maltego is an open source intelligence (OSINT) and graphical link analysis tool 
 
 ![](https://img.shields.io/github/stars/mavdol/capsule?style=flat-square&label=⭐) · Found in 2 active sources
 
-](https://glama.ai/mcp/servers/mavdol/capsule-mcp-server) 🦀 🏠 🍎 🪟 🐧 - Run untrusted Python/JavaScript code in WebAssembly sandboxes.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+](https://glama.ai/mcp/servers/mavdol/capsule-mcp-server) 🦀 🏠 🍎 🪟 🐧 Run untrusted Python/JavaScript code in WebAssembly sandboxes.
 
 > **Análise IA:** MCP server que ejecuta código Python/JavaScript untrusted en sandboxes WebAssembly. Previene exploits de agentes maliciosos. Para AI safety critical.
 
@@ -651,7 +469,9 @@ Maltego is an open source intelligence (OSINT) and graphical link analysis tool 
 
 ![](https://img.shields.io/github/stars/ockam-network/ockam?style=flat-square&label=⭐) · Found in 2 active sources
 
-_(label: good first issue)_ <br> End-to-end encryption and mutual authentication for distributed applications.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+<br End-to-end encryption and mutual authentication for distributed applications.
 
 > **Análise IA:** Toolkit para encriptación e2e y autenticación mutua en apps distribuidas. Resuelve confianza en arquitecturas mesh/zero-trust reales.
 
@@ -661,11 +481,29 @@ _(label: good first issue)_ <br> End-to-end encryption and mutual authentication
 
 ---
 
+### [OpenSSL](https://github.com/openssl/openssl)
+
+![](https://img.shields.io/github/stars/openssl/openssl?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+A robust, commercial-grade, full-featured, and Open Source cryptography library. [Apache]
+
+> **Análise IA:** Librería crypto de grado comercial, open source, estándar universal. Para cualquier app que necesite encriptación, TLS, o signing con soporte universal.
+
+**Pontos fortes:** _Estándar de facto en todas partes (sistemas, apps, servicios)_ · _Auditoría y madurez incomparables_
+
+**Tags:** `openssl` `cryptography` `tls` `c` `universal`
+
+---
+
 ### [orion-rs/orion](https://github.com/orion-rs/orion)
 
 ![](https://img.shields.io/github/stars/orion-rs/orion?style=flat-square&label=⭐) · Found in 2 active sources
 
-This library aims to provide easy and usable crypto. 'Usable' meaning exposing high-level API's that are easy to use and hard to misuse. [](https://github.com/orion-rs/orion/actions/workflows/test.yml)
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+This library aims to provide easy and usable crypto. 'Usable' meaning exposing high-level API's that are easy to use and hard to misuse.
 
 > **Análise IA:** Librería Rust que prioriza API usable y resistente a misuso. Para devs que quieren crypto sin ser expertos. High-level abstractions sobre primitivas peligrosas.
 
@@ -678,6 +516,8 @@ This library aims to provide easy and usable crypto. 'Usable' meaning exposing h
 ### [paaster](https://paaster.io)
 
 Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 Paaster is a secure and user-friendly pastebin application that prioritizes privacy and simplicity. With end-to-end encryption and paste history, Paaster ensures that your pasted code remains confidential and accessible.
 
@@ -693,6 +533,8 @@ Paaster is a secure and user-friendly pastebin application that prioritizes priv
 
 ![](https://img.shields.io/github/stars/promptfoo/promptfoo?style=flat-square&label=⭐) · Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 - LLM red teaming and evaluation framework for testing jailbreaks, prompt injection, and other vulnerabilities with CI/CD integration.
 
 > **Análise IA:** Framework para testear LLMs contra injection, jailbreaks y vulnerabilidades. Red teaming automatizado con CI/CD. Necesario si desplegás LLMs en producción y querés seguridad serio.
@@ -703,9 +545,27 @@ Paaster is a secure and user-friendly pastebin application that prioritizes priv
 
 ---
 
+### [pynacl](https://github.com/pyca/pynacl)
+
+![](https://img.shields.io/github/stars/pyca/pynacl?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Python binding to the Networking and Cryptography (NaCl) library.
+
+> **Análise IA:** Wrapper Python para NaCl, librería moderna de crypto. Si necesitás encryptación simétrica, asymétrica o signing, es la opción recomendada por la comunidad Python.
+
+**Pontos fortes:** _API clara y segura por defecto, difícil hacerla mal_ · _Basada en NaCl auditada y battle-tested_
+
+**Tags:** `cryptography` `python` `nacl` `bindings`
+
+---
+
 ### [rage](https://github.com/str4d/rage)
 
 ![](https://img.shields.io/github/stars/str4d/rage?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 is a simple, modern, and secure file encryption tool, using the age format.
 
@@ -721,7 +581,9 @@ is a simple, modern, and secure file encryption tool, using the age format.
 
 ![](https://img.shields.io/github/stars/redlib-org/redlib?style=flat-square&label=⭐) · Found in 2 active sources
 
-An alternative private front-end to Reddit, with its origins in [Libreddit](https://github.com/libreddit/libreddit)
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+An alternative private front-end to Reddit, with its origins in Libreddit
 
 > **Análise IA:** Frontend privado para Reddit (fork de Libreddit). Reemplaza JS con Rust. Útil si querés Reddit sin tracker. Activa pero depende API Reddit que puede cambiar.
 
@@ -735,7 +597,9 @@ An alternative private front-end to Reddit, with its origins in [Libreddit](http
 
 ![](https://img.shields.io/github/stars/kpcyrd/rshijack?style=flat-square&label=⭐) · Found in 2 active sources
 
-TCP connection hijacker, Rust rewrite of `shijack`.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+TCP connection hijacker, Rust rewrite of shijack.
 
 > **Análise IA:** Hijacker de conexiones TCP reescrito en Rust desde shijack. Herramienta avanzada para auditoría de red e investigación. Uso restrictivo, requiere permisos.
 
@@ -745,9 +609,59 @@ TCP connection hijacker, Rust rewrite of `shijack`.
 
 ---
 
+### [s2n](https://github.com/awslabs/s2n)
+
+![](https://img.shields.io/github/stars/awslabs/s2n?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+An implementation of the TLS/SSL protocols. [Apache]
+
+> **Análise IA:** Implementación robusta de TLS/SSL de AWS Labs. Usado en producción para aplicaciones que necesitan criptografía moderna. Bien mantenido, auditado, estándar en infraestructura AWS.
+
+**Pontos fortes:** _Auditorías de seguridad regulares y mantenimiento activo_ · _Optimizaciones de performance específicas para SSL/TLS_
+
+**Tags:** `tls` `ssl` `cryptography` `c` `aws`
+
+---
+
+### [safedep/vet](https://github.com/safedep/vet)
+
+![](https://img.shields.io/github/stars/safedep/vet?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+🎖️ 🏎️ ☁️ 🍎 🪟 🐧 vet-mcp checks open source packages—like those suggested by AI coding tools—for vulnerabilities and malicious code. It supports npm and PyPI, and runs locally via Docker or as a standalone binary for fast, automated vetting.
+
+> **Análise IA:** MCP server que vetea packages npm/PyPI contra vulnerabilidades y código malicioso. Integrable en AI coding tools. Docker o binary standalone.
+
+**Pontos fortes:** _Local execution sin cloud dependency_ · _Coverage dual npm/PyPI con scanning de malware_
+
+**Tags:** `mcp` `dependency-check` `security` `npm` `pypi`
+
+---
+
+### [SecLists](https://github.com/danielmiessler/seclists)
+
+![](https://img.shields.io/github/stars/danielmiessler/seclists?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Collection of multiple types of lists used during security assessments.
+
+> **Análise IA:** Colección masiva de wordlists y payloads para testing. Estándar en pentesting. Actualizadas regularmente. Imprescindible en arsenal ofensivo.
+
+**Pontos fortes:** _Cobertura exhaustiva: fuzzing, credenciales, patrones_ · _Actualización activa y comunidad robusta_
+
+**Tags:** `wordlist` `payload` `pentesting` `curado`
+
+---
+
 ### [sherlock](https://github.com/sherlock-project/sherlock)
 
 ![](https://img.shields.io/github/stars/sherlock-project/sherlock?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 Hunt down social media accounts by username across social networks.
 
@@ -759,9 +673,75 @@ Hunt down social media accounts by username across social networks.
 
 ---
 
+### [Shodan](https://shodan.io)
+
+Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Shodan is a search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using various searching filters.
+
+> **Análise IA:** Motor de búsqueda de IoT/servidores expuestos públicamente. Crítico para asset discovery, identificar infraestructura vulnerable. Es de facto estándar en auditoría y threat intel.
+
+**Pontos fortes:** _Base de datos masiva de dispositivos indexados_ · _Filtros avanzados (puerto, banner, geolocalización)_
+
+**Tags:** `iot-search` `vulnerability-scanning` `asset-discovery` `threat-intel`
+
+---
+
+### [Social Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit)
+
+![](https://img.shields.io/github/stars/trustedsec/social-engineer-toolkit?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Open source pentesting framework designed for social engineering featuring a number of custom attack vectors to make believable attacks quickly.
+
+> **Análise IA:** Framework pentesting enfocado en ingeniería social. Ataques creíbles preseteados (phishing, spear-phishing, payloads). Usado en red teams reales, documentación sólida.
+
+**Pontos fortes:** _Ataques preseteados realistas y probados_ · _Integración con Metasploit, payloads customizables_
+
+**Tags:** `pentesting` `social-engineering` `framework` `python` `red-team`
+
+---
+
+### [SpiderFoot](https://spiderfoot.net)
+
+Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+SpiderFoot is an open source intelligence (OSINT) automation platform with over 200 modules for threat intelligence, attack surface monitoring, security assessments and asset discovery.
+
+> **Análise IA:** Plataforma OSINT automatizada con 200+ módulos. Excelente para asset discovery y threat intel sin hands-on. Open source pero requiere setup. Producción-ready.
+
+**Pontos fortes:** _Automatización masiva reduce manual work 70%+_ · _Modular y extensible, open source_
+
+**Tags:** `osint` `automation` `threat-intel` `asset-discovery`
+
+---
+
+### [SQLMap](https://github.com/sqlmapproject/sqlmap)
+
+![](https://img.shields.io/github/stars/sqlmapproject/sqlmap?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+An automatic SQL injection and database takeover tool.
+
+> **Análise IA:** Herramienta de SQL injection automatizada. Estándar para pentesting y auditorías. Detecta y explota vulnerabilidades SQL; documentación excelente, comunidad activa.
+
+**Pontos fortes:** _Automatización extremadamente efectiva, soporta casi todos los tipos de BD_ · _Actualización constante vs nuevas técnicas de obfuscación_
+
+**Tags:** `penetration-testing` `sql-injection` `python` `automation`
+
+---
+
 ### [ssh-vault](https://github.com/ssh-vault/ssh-vault)
 
 ![](https://img.shields.io/github/stars/ssh-vault/ssh-vault?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 A simple tool to manage secrets using ssh keys for encryption and decryption.
 
@@ -777,6 +757,8 @@ A simple tool to manage secrets using ssh keys for encryption and decryption.
 
 ![](https://img.shields.io/github/stars/jedisct1/swift-sodium?style=flat-square&label=⭐) · Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 Swift interface to the Sodium library for common crypto operations for iOS and macOS.
 
 > **Análise IA:** Swift binding a libsodium (NaCl moderno). Criptografía contemporánea (AEAD, key exchange). Para quien necesita algo beyond AES. Bien mantenido.
@@ -787,9 +769,43 @@ Swift interface to the Sodium library for common crypto operations for iOS and m
 
 ---
 
+### [Syft](https://github.com/anchore/syft)
+
+![](https://img.shields.io/github/stars/anchore/syft?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+CLI tool and library for generating a Software Bill of Materials (SBOM) from container images and filesystems. By Anchore.
+
+> **Análise IA:** CLI + librería para generar SBOMs (Software Bill of Materials) desde imágenes container y filesystems. Crítico para seguridad/compliance. Por Anchore, empresa consolidada en supply-chain security.
+
+**Pontos fortes:** _Herramienta en ecosistema maduro (supply-chain security), requisito creciente en enterprise_ · _Activa, open-source, usada en industry_
+
+**Tags:** `sbom` `container-security` `cli` `go` `supply-chain`
+
+---
+
+### [Tails](https://tails.boum.org)
+
+Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Live operating system aiming to preserve your privacy and anonymity.
+
+> **Análise IA:** Live OS Debian que borra todo al apagar. Para periodistas/activistas que necesitan garantía de no dejar rastros. Solución de privacidad completa, no solo red.
+
+**Pontos fortes:** _Integración transparente de Tor en toda la stack_ · _Amnesia forzada, no hay persistencia accidental_
+
+**Tags:** `anonymity` `live-os` `privacy` `linux`
+
+---
+
 ### [The Harvester](https://github.com/laramies/theharvester)
 
 ![](https://img.shields.io/github/stars/laramies/theharvester?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
 
@@ -801,11 +817,45 @@ Gather emails, subdomains, hosts, employee names, open ports and banners from di
 
 ---
 
+### [Tink](https://github.com/google/tink)
+
+![](https://img.shields.io/github/stars/google/tink?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+A multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse. [Apache-2.0]
+
+> **Análise IA:** Librería criptográfica multi-lenguaje (Google). Diseño: seguro por defecto, APIs imposibles de misuser. Mejor ergonomía que Crypto++. Estándar moderno en seguridad aplicada.
+
+**Pontos fortes:** _APIs imposibles de misuser por diseño_ · _Soporte multi-lenguaje + plataforma_
+
+**Tags:** `cryptography` `multi-language` `secure-by-default`
+
+---
+
+### [Tor](https://torproject.org)
+
+Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Free software and onion routed overlay network that helps you defend against traffic analysis.
+
+> **Análise IA:** Red de enrutamiento con cebollas estándar de facto. Para cualquiera que necesite privacidad de red. Probada en batalla durante 20+ años, usado por gobiernos y insurgentes.
+
+**Pontos fortes:** _Red más grande y auditada en privacidad_ · _Triple encriptación, protección contra análisis de tráfico comprobada_
+
+**Tags:** `anonymity` `overlay-network` `privacy` `c`
+
+---
+
 ### [Trail of Bits Security Skills](https://github.com/trailofbits/skills)
 
 ![](https://img.shields.io/github/stars/trailofbits/skills?style=flat-square&label=⭐) · Found in 2 active sources
 
-by [Trail of Bits](https://github.com/trailofbits) - A very professional collection of over a dozen security-focused skills for code auditing and vulnerability detection. Includes skills for static analysis with CodeQL and Semgrep, variant analysis across codebases, fix verification, and differential code review.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+by Trail of Bits A very professional collection of over a dozen security-focused skills for code auditing and vulnerability detection. Includes skills for static analysis with CodeQL and Semgrep, variant analysis across codebases, fix verification, and differential code review.
 
 > **Análise IA:** Colección de skills de seguridad para auditoría de código y análisis de vulnerabilidades. Incluye CodeQL y Semgrep. Producción Trail of Bits.
 
@@ -815,9 +865,59 @@ by [Trail of Bits](https://github.com/trailofbits) - A very professional collect
 
 ---
 
+### [vaultwarden](https://github.com/dani-garcia/vaultwarden)
+
+![](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml) Alternative implementation of the Bitwarden server API written in Rust
+
+> **Análise IA:** Clone de Bitwarden API escrito en Rust. Para self-hosters que desconfían de cloud o necesitan auditabilidad. Funciona bien, mantención activa, alternativa seria a Bitwarden.
+
+**Pontos fortes:** _Consumo RAM/CPU mínimo comparado a versión oficial_ · _Deployable en VPS barato sin overhead_
+
+**Tags:** `password-manager` `rust` `self-hosted` `security`
+
+---
+
+### [Virus Total](https://virustotal.com)
+
+Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Free service that analyzes suspicious files and URLs and facilitates the quick detection of viruses, worms, trojans, and all kinds of malware.
+
+> **Análise IA:** Servicio gratuito de análisis de archivos/URLs contra múltiples antivirus. Escanea malware, trojans, worms. Estándar en OSINT y análisis de seguridad.
+
+**Pontos fortes:** _Base de datos masiva de firmas de 90+ motores_ · _Acceso gratuito sin límites aparentes, API disponible_
+
+**Tags:** `malware` `osint` `antivirus` `saas` `security`
+
+---
+
+### [webpki](https://github.com/briansmith/webpki)
+
+![](https://img.shields.io/github/stars/briansmith/webpki?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Web PKI TLS X.509 certificate validation in Rust.
+
+> **Análise IA:** Validación X.509/TLS en Rust puro. Reemplaza OpenSSL para PKI sin FFI risk. Core de Rustls. Si implementás TLS o HTTPS client, esto es el gold standard.
+
+**Pontos fortes:** _Validación correcta de certificados sin C deps_ · _Auditoría profesional, usado en producción crítica_
+
+**Tags:** `rust` `tls` `x509` `pkix`
+
+---
+
 ### [WiGLE](https://wigle.net)
 
 Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 Wi-fi "wardriving" database. Contains a global map containing crowdsourced information on the location, name, and other properties of wi-fi networks. Software available to download to contribute data to the public infoset.
 
@@ -832,6 +932,8 @@ Wi-fi "wardriving" database. Contains a global map containing crowdsourced infor
 ### [x64dbg](https://x64dbg.com)
 
 Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 An open-source x64/x32 debugger for windows.
 

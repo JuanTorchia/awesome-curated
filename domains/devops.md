@@ -2,19 +2,21 @@
 
 <p><sub>← [Back to main](../README.md)</sub></p>
 
-**17 GEMs · 33 Worth trying**
+**1 Human-reviewed · 0 Popular standards · 49 AI candidates**
 
 ---
 
-## ⭐ GEMs — industry standards
+## Human-reviewed picks
 
-Tools the community considers default. If you don't know them yet, they're worth exploring.
+Tools with a human review label and visible caveats.
 
 ### 👤 [Bencher](https://bencher.dev)
 
 Found in 4 active sources
 
-Suite of continuous benchmarking tools designed to catch performance regressions in CI.
+**Review label:** Human Pick · **Caveat:** Worth a focused trial before adopting broadly.
+
+Suite of continuous benchmarking tools designed to catch performance regressions in CI. () MIT/Apache-2.0 Rust
 
 > **AI analysis:** Suite de benchmarking en CI escrita en Rust. Atrapa regresiones de performance en PR; menos conocida que alternatives pero solid.
 
@@ -24,11 +26,36 @@ Suite of continuous benchmarking tools designed to catch performance regressions
 
 ---
 
+
+---
+
+## AI candidates and needs review
+
+Automated candidates with source signal; these are not human endorsements yet.
+
+### [Dragonfly](https://github.com/dragonflyoss/dragonfly2)
+
+![](https://img.shields.io/github/stars/dragonflyoss/dragonfly2?style=flat-square&label=⭐) · Found in 3 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures.
+
+> **AI analysis:** P2P para distribución de archivos e imágenes OCI en cloud native. Pull decentralizado en lugar de todos pedir al registry central. Resuelve: throttling, latencia, costo de ancho hacia registry externo.
+
+**Strengths:** _Reduce carga en registry central y costo de egress a internet_ · _Compatible con estándares OCI; integra con containerd/Docker nativo_
+
+**Tags:** `p2p` `oci-images` `container-registry` `distributed-systems` `go`
+
+---
+
 ### [ZooKeeper](https://zookeeper.apache.org)
 
 Found in 3 active sources
 
-ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services. () Apache-2.0 Java/C++
 
 > **AI analysis:** Servicio centralizado de coordinación distribuida (config, naming, sync). Apache-maduro. Estándar para Kafka, HDFS, HBase pero overhead significativo para casos simples.
 
@@ -42,7 +69,9 @@ ZooKeeper is a centralized service for maintaining configuration information, na
 
 ![](https://img.shields.io/github/stars/ansible/ansible?style=flat-square&label=⭐) · Found in 2 active sources
 
-_(label: easyfix)_ <br> A simple IT automation platform
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+<br A simple IT automation platform
 
 > **AI analysis:** Ansible automatiza deploy e infraestructura vía agentless SSH. Estándar de la industria para IaC en empresas mid-to-large. Curva aprendizaje suave, YAML-based.
 
@@ -52,11 +81,29 @@ _(label: easyfix)_ <br> A simple IT automation platform
 
 ---
 
+### [bandwhich](https://github.com/imsnif/bandwhich)
+
+![](https://img.shields.io/github/stars/imsnif/bandwhich?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Track bandwidth utilization by process.
+
+> **AI analysis:** Herramienta de monitoreo de ancho de banda por proceso. Útil para debugging de performance en desarrollo y producción. Resuelve el problema real de identificar qué proceso consume recursos.
+
+**Strengths:** _Precisión en per-process bandwidth tracking_ · _Interfaz TUI clara y responsiva_
+
+**Tags:** `network` `monitoring` `rust` `cli` `performance`
+
+---
+
 ### [BorgBackup](https://github.com/borgbackup/borg)
 
 ![](https://img.shields.io/github/stars/borgbackup/borg?style=flat-square&label=⭐) · Found in 2 active sources
 
-_(label: easy)_ <br> Deduplicating backup program with compression and authenticated encryption.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+<br Deduplicating backup program with compression and authenticated encryption.
 
 > **AI analysis:** Herramienta de backup deduplicando con compresión y encriptación. Resuelve backups confiables en servidores y NAS sin ocupar espacio innecesario. Estándar en infraestructuras críticas.
 
@@ -70,7 +117,9 @@ _(label: easy)_ <br> Deduplicating backup program with compression and authentic
 
 ![](https://img.shields.io/github/stars/google/cadvisor?style=flat-square&label=⭐) · Found in 2 active sources
 
-Analyzes resource usage and performance characteristics of running containers.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Analyzes resource usage and performance characteristics of running containers. Apache-2.0 Go
 
 > **AI analysis:** Analyzes resource usage de containers (CPU, RAM, I/O). Built by Google, standard en Kubernetes. Production-grade monitoring.
 
@@ -80,9 +129,59 @@ Analyzes resource usage and performance characteristics of running containers.
 
 ---
 
+### [changedetection.io](https://changedetection.io)
+
+Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Stay up-to-date with web-site content changes. () Apache-2.0 Python/Docker
+
+> **AI analysis:** Monitor de cambios web vía scraping periódico. Soluciona problema real: detectar updates sin suscribirse. Self-hosted, bajo overhead. Comunidad pequeña pero sólida.
+
+**Strengths:** _Arquitectura ligera, bajo consumo de recursos_ · _Soporte para múltiples métodos: JSON diff, visual diff, regex_
+
+**Tags:** `web-monitoring` `change-detection` `python` `self-hosted` `docker`
+
+---
+
+### [chasquid](https://blitiri.com.ar/p/chasquid)
+
+Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+SMTP (email) server with a focus on simplicity, security, and ease of operation. () Apache-2.0 Go
+
+> **AI analysis:** SMTP server minimalista en Go. Foco en seguridad, operabilidad simple. Alternativa liviana a Postfix/Exim para setups pequeños o selfhosted. Mantenido activamente, código limpio.
+
+**Strengths:** _Footprint mínimo, setup simple, sin configuración retorcida_ · _Seguridad como design principle (TLS requerido, validaciones estrictas)_
+
+**Tags:** `go` `smtp` `email-server` `self-hosted` `security`
+
+---
+
+### [CircleCI](https://circleci.com)
+
+Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+:yen: Push or pull Docker images from your build environment, or build and run containers right on CircleCI.
+
+> **AI analysis:** SaaS CI/CD cloud que pushea/pullea imágenes Docker y ejecuta containers en build. Hosted, con free tier limitado. Competencia de GitHub Actions, bueno para legacy.
+
+**Strengths:** _Soporte docker nativo, UI madura, buena para equipos sin infra_ · _Pricing por minutos, flexible_
+
+**Tags:** `ci-cd` `saas` `docker` `cloud`
+
+---
+
 ### [CML](https://github.com/iterative/cml)
 
 ![](https://img.shields.io/github/stars/iterative/cml?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 A library for doing continuous integration with ML projects. Use GitHub Actions & GitLab CI to train and evaluate models in production like environments and automatically generate visual reports with metrics and graphs in pull/merge requests. Framework & language agnostic.
 
@@ -98,7 +197,9 @@ A library for doing continuous integration with ML projects. Use GitHub Actions 
 
 Found in 2 active sources
 
-Concourse is a CI tool that treats pipelines as first class objects and containerizes every step along the way. )
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Concourse is a CI tool that treats pipelines as first class objects and containerizes every step along the way. (Demo, ) Apache-2.0 Go
 
 > **AI analysis:** CI open-source escrito en Go que trata pipelines como first-class objects, containeriza cada paso. Alternativa self-hosted a Jenkins, enfoque declarativo y limpio.
 
@@ -112,7 +213,9 @@ Concourse is a CI tool that treats pipelines as first class objects and containe
 
 Found in 2 active sources
 
-Consul is a tool for service discovery, monitoring and configuration.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Consul is a tool for service discovery, monitoring and configuration. () MPL-2.0 Go
 
 > **AI analysis:** Service discovery + config management distribuido, estándar Hashicorp. Crítico en infraestructura cloud/Kubernetes, aunque K8s nativo reemplazó parte de su rol.
 
@@ -122,212 +225,11 @@ Consul is a tool for service discovery, monitoring and configuration.
 
 ---
 
-### [Docker.DotNet](https://github.com/microsoft/docker.dotnet)
-
-![](https://img.shields.io/github/stars/microsoft/docker.dotnet?style=flat-square&label=⭐) · Found in 2 active sources
-
-C#/.NET HTTP client for the Docker remote API.
-
-> **AI analysis:** Cliente HTTP .NET/C# para Docker Remote API. Integra operaciones docker programáticamente en aplicaciones .NET. Estándar de facto para devs .NET con Docker.
-
-**Strengths:** _Única librería oficial .NET para Docker API, mantenida por Microsoft_ · _Cubre API completa de Docker, bien documentada_
-
-**Tags:** `csharp` `dotnet` `docker-api` `client-library`
-
----
-
-### [GitLab CI](https://about.gitlab.com/solutions/continuous-integration)
-
-Found in 2 active sources
-
-Gitlab's built-in, full-featured CI/CD solution.
-
-> **AI analysis:** CI/CD integrado nativo en GitLab. Full-featured, no requiere herramienta externa. Excelente si ya usás GitLab; problema si no.
-
-**Strengths:** _Integración perfecta con GitLab (webhooks, auth, repos)_ · _Feature-complete sin dependencias externas_
-
-**Tags:** `cicd` `gitlab` `devops` `pipelines`
-
----
-
-### [k9s](https://github.com/derailed/k9s)
-
-![](https://img.shields.io/github/stars/derailed/k9s?style=flat-square&label=⭐) · Found in 2 active sources
-
-Kubernetes CLI to manage your clusters in style.
-
-> **AI analysis:** CLI para Kubernetes que reemplaza kubectl en día a día. Dashboard interactivo, fuzzy search, manejo de recursos en estilo. Imprescindible para ops que viven en k8s.
-
-**Strengths:** _Interfaz intuitiva y rápida vs kubectl crudo_ · _Comunidad activa, mantenimiento constante_
-
-**Tags:** `kubernetes` `cli` `golang` `devops`
-
----
-
-### [Nextcloud](https://nextcloud.com)
-
-Found in 2 active sources
-
-Access and share your files, calendars, contacts, mail and [more](https://apps.nextcloud.com/) from any device, on your terms. )
-
-> **AI analysis:** Suite cloud open-source tipo Dropbox on-premise. PHP/Docker, muy modular con marketplace de apps. Estándar industrial para self-hosted. Resuelve storage, sync, colaboración, mail. Escala bien.
-
-**Strengths:** _Ecosistema robusto de apps integradas_ · _Deployment flexible (Docker, bare metal)_
-
-**Tags:** `cloud-storage` `self-hosted` `php` `docker` `collaboration`
-
----
-
-### [pm2](https://github.com/unitech/pm2)
-
-![](https://img.shields.io/github/stars/unitech/pm2?style=flat-square&label=⭐) · Found in 2 active sources
-
-Production Process Manager for Node.js.
-
-> **AI analysis:** Process manager Node.js estándar industria: clustering, reload zero-downtime, monitoreo. 16+ años, 4M+ weekly downloads. Alternativa (Supervisor, systemd) existen pero pm2 domina Node ecosystem.
-
-**Strengths:** _Zero-downtime restarts_ · _Clustering automático multi-core_
-
-**Tags:** `node.js` `process-manager` `production` `clustering`
-
----
-
-### [Prometheus](https://prometheus.io)
-
-Found in 2 active sources
-
-Service monitoring system and time series database.
-
-> **AI analysis:** Time-series database y monitoring system open-source escrito en Go. No exclusivo Docker pero standard para containerized envs. TSDB + alerting combina.
-
-**Strengths:** _Estándar industry para metrics en containers/Kubernetes, simple e eficiente_ · _Pull-model, no requiere agentes, bajo overhead_
-
-**Tags:** `monitoring` `tsdb` `go` `open-source` `observability`
-
----
-
-### [SaltStack](https://github.com/saltstack/salt)
-
-![](https://img.shields.io/github/stars/saltstack/salt?style=flat-square&label=⭐) · Found in 2 active sources
-
-_(label: good first issue)_ <br> Software to automate the management and configuration of any infrastructure or application at scale.
-
-> **AI analysis:** Orquestación y config management en escala. Alternativa a Ansible, más compleja pero poderosa. Estándar en DevOps empresarial.
-
-**Strengths:** _Event-driven, escalable horizontalmente_ · _Masterless o master-based flexible_
-
-**Tags:** `orchestration` `configuration-management` `python` `devops`
-
----
-
-### [scapy](https://github.com/secdev/scapy)
-
-![](https://img.shields.io/github/stars/secdev/scapy?style=flat-square&label=⭐) · Found in 2 active sources
-
-Python-based interactive packet manipulation program and library.
-
-> **AI analysis:** Librería Python para manipular paquetes de red a nivel bajo. Herramienta clásica para pentesting, network debugging y análisis de tráfico. Resuelve crafteo de packets complejos.
-
-**Strengths:** _API flexible para construir packets arbitrarios y procesar capturados_ · _Estándar de facto en pentesting y research de seguridad_
-
-**Tags:** `python` `networking` `packets` `security` `low-level`
-
----
-
-### [Træfɪk](https://github.com/containous/traefik)
-
-![](https://img.shields.io/github/stars/containous/traefik?style=flat-square&label=⭐) · Found in 2 active sources
-
-Automated reverse proxy and load-balancer for Docker, Mesos, Consul, Etcd... By [EmileVauge](https://github.com/emilevauge).
-
-> **AI analysis:** Reverse proxy y load balancer automático. Descubre servicios en Docker/K8S/Consul. Reemplaza nginx manual. Simplifica mucho ops.
-
-**Strengths:** _Service discovery automático, no recargas nginx_ · _HTTPS/Let's Encrypt integrado, SSL sin drama_
-
-**Tags:** `reverse-proxy` `load-balancer` `docker` `kubernetes` `go`
-
----
-
-
----
-
-## 👍 Worth trying — solid in their niche
-
-Less hype than the GEMs but reliable if you fall into their use case.
-
-### [Dragonfly](https://github.com/dragonflyoss/dragonfly2)
-
-![](https://img.shields.io/github/stars/dragonflyoss/dragonfly2?style=flat-square&label=⭐) · Found in 3 active sources
-
-Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures.
-
-> **AI analysis:** P2P para distribución de archivos e imágenes OCI en cloud native. Pull decentralizado en lugar de todos pedir al registry central. Resuelve: throttling, latencia, costo de ancho hacia registry externo.
-
-**Strengths:** _Reduce carga en registry central y costo de egress a internet_ · _Compatible con estándares OCI; integra con containerd/Docker nativo_
-
-**Tags:** `p2p` `oci-images` `container-registry` `distributed-systems` `go`
-
----
-
-### [bandwhich](https://github.com/imsnif/bandwhich)
-
-![](https://img.shields.io/github/stars/imsnif/bandwhich?style=flat-square&label=⭐) · Found in 2 active sources
-
-Track bandwidth utilization by process.
-
-> **AI analysis:** Herramienta de monitoreo de ancho de banda por proceso. Útil para debugging de performance en desarrollo y producción. Resuelve el problema real de identificar qué proceso consume recursos.
-
-**Strengths:** _Precisión en per-process bandwidth tracking_ · _Interfaz TUI clara y responsiva_
-
-**Tags:** `network` `monitoring` `rust` `cli` `performance`
-
----
-
-### [changedetection.io](https://changedetection.io)
-
-Found in 2 active sources
-
-Stay up-to-date with web-site content changes.
-
-> **AI analysis:** Monitor de cambios web vía scraping periódico. Soluciona problema real: detectar updates sin suscribirse. Self-hosted, bajo overhead. Comunidad pequeña pero sólida.
-
-**Strengths:** _Arquitectura ligera, bajo consumo de recursos_ · _Soporte para múltiples métodos: JSON diff, visual diff, regex_
-
-**Tags:** `web-monitoring` `change-detection` `python` `self-hosted` `docker`
-
----
-
-### [chasquid](https://blitiri.com.ar/p/chasquid)
-
-Found in 2 active sources
-
-SMTP (email) server with a focus on simplicity, security, and ease of operation.
-
-> **AI analysis:** SMTP server minimalista en Go. Foco en seguridad, operabilidad simple. Alternativa liviana a Postfix/Exim para setups pequeños o selfhosted. Mantenido activamente, código limpio.
-
-**Strengths:** _Footprint mínimo, setup simple, sin configuración retorcida_ · _Seguridad como design principle (TLS requerido, validaciones estrictas)_
-
-**Tags:** `go` `smtp` `email-server` `self-hosted` `security`
-
----
-
-### [CircleCI](https://circleci.com)
-
-Found in 2 active sources
-
-:yen: Push or pull Docker images from your build environment, or build and run containers right on CircleCI.
-
-> **AI analysis:** SaaS CI/CD cloud que pushea/pullea imágenes Docker y ejecuta containers en build. Hosted, con free tier limitado. Competencia de GitHub Actions, bueno para legacy.
-
-**Strengths:** _Soporte docker nativo, UI madura, buena para equipos sin infra_ · _Pricing por minutos, flexible_
-
-**Tags:** `ci-cd` `saas` `docker` `cloud`
-
----
-
 ### [ctop](https://github.com/bcicen/ctop)
 
 ![](https://img.shields.io/github/stars/bcicen/ctop?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 interface (e.g. htop) for container metrics.
 
@@ -343,7 +245,9 @@ interface (e.g. htop) for container metrics.
 
 ![](https://img.shields.io/github/stars/deployphp/deployer?style=flat-square&label=⭐) · Found in 2 active sources
 
-_(label: good-for-beginner)_ <br> A deployment tool written in PHP with support for popular frameworks out of the box.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+<br A deployment tool written in PHP with support for popular frameworks out of the box.
 
 > **AI analysis:** Tool deploy en PHP con soporte frameworks populares. Maduro, usado en producción. Alternativa a Capistrano/Fabric pero para PHP.
 
@@ -357,7 +261,9 @@ _(label: good-for-beginner)_ <br> A deployment tool written in PHP with support 
 
 ![](https://img.shields.io/github/stars/wagoodman/dive?style=flat-square&label=⭐) · Found in 2 active sources
 
-A tool for exploring each layer in a docker image. By [wagoodman](https://github.com/wagoodman).
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+A tool for exploring each layer in a docker image. By wagoodman.
 
 > **AI analysis:** Herramienta para inspeccionionar layers de Docker images. Práctica para debugging de builds, comunidad activa, pero nicho específico.
 
@@ -367,9 +273,27 @@ A tool for exploring each layer in a docker image. By [wagoodman](https://github
 
 ---
 
+### [Docker.DotNet](https://github.com/microsoft/docker.dotnet)
+
+![](https://img.shields.io/github/stars/microsoft/docker.dotnet?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+C#/.NET HTTP client for the Docker remote API.
+
+> **AI analysis:** Cliente HTTP .NET/C# para Docker Remote API. Integra operaciones docker programáticamente en aplicaciones .NET. Estándar de facto para devs .NET con Docker.
+
+**Strengths:** _Única librería oficial .NET para Docker API, mantenida por Microsoft_ · _Cubre API completa de Docker, bien documentada_
+
+**Tags:** `csharp` `dotnet` `docker-api` `client-library`
+
+---
+
 ### [docker-volume-backup](https://github.com/offen/docker-volume-backup)
 
 ![](https://img.shields.io/github/stars/offen/docker-volume-backup?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage.
 
@@ -385,6 +309,8 @@ Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox 
 
 ![](https://img.shields.io/github/stars/lirantal/dockly?style=flat-square&label=⭐) · Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 An interactive shell UI for managing Docker containers.
 
 > **AI analysis:** Shell UI interactivo para manejar Docker. Alternativa a docker CLI puro. Útil para DevOps que prefieren TUI.
@@ -399,7 +325,9 @@ An interactive shell UI for managing Docker containers.
 
 ![](https://img.shields.io/github/stars/domcyrus/rustnet?style=flat-square&label=⭐) · Found in 2 active sources
 
-Cross-platform network monitoring TUI with process identification via eBPF/PKTAP and deep packet inspection [](https://github.com/domcyrus/rustnet/actions/workflows/rust.yml) [](https://crates.io/crates/rustnet-monitor)
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Cross-platform network monitoring TUI with process identification via eBPF/PKTAP and deep packet inspection
 
 > **AI analysis:** Network monitor TUI en Rust con eBPF/PKTAP, process ID + deep packet inspection. Cross-platform, activamente mantenido, herramienta niche pero potente para sysadmins.
 
@@ -413,6 +341,8 @@ Cross-platform network monitoring TUI with process identification via eBPF/PKTAP
 
 ![](https://img.shields.io/github/stars/drone/drone?style=flat-square&label=⭐) · Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 Continuous integration server built on Docker and configured using YAML files.
 
 > **AI analysis:** CI server ligero, Docker-nativo, YAML-first. Estándar en entornos containerizados, alternativa sólida a Jenkins con overhead menor.
@@ -423,11 +353,29 @@ Continuous integration server built on Docker and configured using YAML files.
 
 ---
 
+### [GitLab CI](https://about.gitlab.com/solutions/continuous-integration)
+
+Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Gitlab's built-in, full-featured CI/CD solution. () MIT Ruby
+
+> **AI analysis:** CI/CD integrado nativo en GitLab. Full-featured, no requiere herramienta externa. Excelente si ya usás GitLab; problema si no.
+
+**Strengths:** _Integración perfecta con GitLab (webhooks, auth, repos)_ · _Feature-complete sin dependencias externas_
+
+**Tags:** `cicd` `gitlab` `devops` `pipelines`
+
+---
+
 ### [glances](https://nicolargo.github.io/glances)
 
 Found in 2 active sources
 
-Open-source, cross-platform real-time monitoring tool with CLI and web dashboard interfaces and many exporting options.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Open-source, cross-platform real-time monitoring tool with CLI and web dashboard interfaces and many exporting options. () GPL-3.0 Python
 
 > **AI analysis:** Glances es un monitor de sistema ligero con CLI interactivo y dashboard web. Cubre CPU, RAM, disco, red, procesos. Útil para troubleshooting rápido en servers sin overhead.
 
@@ -441,6 +389,8 @@ Open-source, cross-platform real-time monitoring tool with CLI and web dashboard
 
 ![](https://img.shields.io/github/stars/dromara/hertzbeat?style=flat-square&label=⭐) · Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 An open-source real-time monitoring system with custom-monitor and agentless.
 
 > **AI analysis:** Sistema de monitoreo open-source real-time, agentless, custom-monitors. Para DevOps/SRE que necesitan observabilidad sin vendor lock.
@@ -451,11 +401,29 @@ An open-source real-time monitoring system with custom-monitor and agentless.
 
 ---
 
+### [k9s](https://github.com/derailed/k9s)
+
+![](https://img.shields.io/github/stars/derailed/k9s?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Kubernetes CLI to manage your clusters in style.
+
+> **AI analysis:** CLI para Kubernetes que reemplaza kubectl en día a día. Dashboard interactivo, fuzzy search, manejo de recursos en estilo. Imprescindible para ops que viven en k8s.
+
+**Strengths:** _Interfaz intuitiva y rápida vs kubectl crudo_ · _Comunidad activa, mantenimiento constante_
+
+**Tags:** `kubernetes` `cli` `golang` `devops`
+
+---
+
 ### [lazydocker](https://github.com/jesseduffield/lazydocker)
 
 ![](https://img.shields.io/github/stars/jesseduffield/lazydocker?style=flat-square&label=⭐) · Found in 2 active sources
 
-The lazier way to manage everything docker. A simple terminal UI for both docker and docker-compose, written in Go with the gocui library. By [jesseduffield](https://github.com/jesseduffield).
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+The lazier way to manage everything docker. A simple terminal UI for both docker and docker-compose, written in Go with the gocui library. By jesseduffield.
 
 > **AI analysis:** TUI terminal para Docker y docker-compose en Go. Simplifica operaciones cotidianas de contenedores sin dejar la CLI. Resuelve la fricción de memorizar comandos docker complejos.
 
@@ -469,7 +437,9 @@ The lazier way to manage everything docker. A simple terminal UI for both docker
 
 ![](https://img.shields.io/github/stars/lifailon/lazyjournal?style=flat-square&label=⭐) · Found in 2 active sources
 
-A interface for reading and filtering the logs output of Docker and Podman containers like [Dozzle](dozzle) but for the terminal with support for fuzzy find, regex and output coloring.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+A interface for reading and filtering the logs output of Docker and Podman containers like Dozzle but for the terminal with support for fuzzy find, regex and output coloring.
 
 > **AI analysis:** Interfaz terminal para logs de Docker/Podman con fuzzy find, regex y coloring. Alternativa TUI a Dozzle, útil para devops que viven en terminal.
 
@@ -482,6 +452,8 @@ A interface for reading and filtering the logs output of Docker and Podman conta
 ### [localtunnel](https://github.com/localtunnel/localtunnel)
 
 ![](https://img.shields.io/github/stars/localtunnel/localtunnel?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 Expose your localhost to the world.
 
@@ -497,6 +469,8 @@ Expose your localhost to the world.
 
 ![](https://img.shields.io/github/stars/spotify/luigi?style=flat-square&label=⭐) · Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 - Luigi is a Python module that helps you build complex pipelines of batch jobs, handling dependency resolution, workflow management, visualisation, etc..
 
 > **AI analysis:** Framework Python para pipelines de batch jobs complejos. Maneja dependencias, workflows y visualización. Spotify lo usa en producción. Alternativa ligera a Airflow para equipos medianos.
@@ -511,7 +485,9 @@ Expose your localhost to the world.
 
 Found in 2 active sources
 
-Run your own web server to remotely manage and control computers on a local network or anywhere on the internet.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Run your own web server to remotely manage and control computers on a local network or anywhere on the internet. () Apache-2.0 Nodejs
 
 > **AI analysis:** Suite de remote management (RDP/SSH/terminal) via web. Node.js + Apache-2.0. Alternativa moderna a TeamViewer/AnyDesk self-hosted. Resuelve problema real pero vendor lock-in al stack Node.
 
@@ -525,7 +501,9 @@ Run your own web server to remotely manage and control computers on a local netw
 
 ![](https://img.shields.io/github/stars/jason5ng32/myip?style=flat-square&label=⭐) · Found in 2 active sources
 
-All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more. By [jason5ng32](https://github.com/jason5ng32).
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check availability, whois search and more. By jason5ng32.
 
 > **AI analysis:** Toolbox IP todo-en-uno: geolocación, DNS leak check, WebRTC test, speed/ping/MTR, whois. Vue.js frontend. Útil para netops/devops diagnosing. No resuelve problema profundo, es conveniente consolidation.
 
@@ -539,7 +517,9 @@ All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS
 
 ![](https://img.shields.io/github/stars/netdata/netdata?style=flat-square&label=⭐) · Found in 2 active sources
 
-🎖️ 🏠 ☁️ 📟 🍎 🪟 🐧 - Discovery, exploration, reporting and root cause analysis using all observability data, including metrics, logs, systems, containers, processes, and network connections
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+🎖️ 🏠 ☁️ 📟 🍎 🪟 🐧 Discovery, exploration, reporting and root cause analysis using all observability data, including metrics, logs, systems, containers, processes, and network connections
 
 > **AI analysis:** Observabilidad full-stack: métricas, logs, containers, procesos, red. UI nativa sin Grafana. Buena para infraestructura on-prem con pocos recursos. Integración real pero UI menos pulida que competencia.
 
@@ -549,11 +529,29 @@ All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS
 
 ---
 
+### [Nextcloud](https://nextcloud.com)
+
+Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Access and share your files, calendars, contacts, mail and more from any device, on your terms. (Demo, ) AGPL-3.0 PHP/deb
+
+> **AI analysis:** Suite cloud open-source tipo Dropbox on-premise. PHP/Docker, muy modular con marketplace de apps. Estándar industrial para self-hosted. Resuelve storage, sync, colaboración, mail. Escala bien.
+
+**Strengths:** _Ecosistema robusto de apps integradas_ · _Deployment flexible (Docker, bare metal)_
+
+**Tags:** `cloud-storage` `self-hosted` `php` `docker` `collaboration`
+
+---
+
 ### [nwiizo/tfmcp](https://github.com/nwiizo/tfmcp)
 
 ![](https://img.shields.io/github/stars/nwiizo/tfmcp?style=flat-square&label=⭐) · Found in 2 active sources
 
-🦀 🏠 - A Terraform MCP server allowing AI assistants to manage and operate Terraform environments, enabling reading configurations, analyzing plans, applying configurations, and managing Terraform state.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+🦀 🏠 A Terraform MCP server allowing AI assistants to manage and operate Terraform environments, enabling reading configurations, analyzing plans, applying configurations, and managing Terraform state.
 
 > **AI analysis:** MCP server para Terraform, permite a IAs manejar IaC. Arquitectura interesante pero MCP es todavía experimental. Promesa alta pero adopción temprana, riesgos de breaking changes.
 
@@ -566,6 +564,8 @@ All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS
 ### [orhun/rustypaste](https://github.com/orhun/rustypaste)
 
 ![](https://img.shields.io/github/stars/orhun/rustypaste?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 A minimal file upload/pastebin service
 
@@ -581,7 +581,9 @@ A minimal file upload/pastebin service
 
 Found in 2 active sources
 
-A proxy server that runs a Shadowsocks instance for each access key and a REST API to manage the access keys.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+A proxy server that runs a Shadowsocks instance for each access key and a REST API to manage the access keys. () Apache-2.0 Docker/Nodejs
 
 > **AI analysis:** Servidor proxy Shadowsocks self-hosted moderno. REST API para gestión keys. Docker/Node. Alternativa abierta a VPN comerciales. Admin cómodo pero requiere ops skills.
 
@@ -595,7 +597,9 @@ A proxy server that runs a Shadowsocks instance for each access key and a REST A
 
 ![](https://img.shields.io/github/stars/mrjackwills/oxker?style=flat-square&label=⭐) · Found in 2 active sources
 
-A simple tui to view & control docker containers. Written in [Rust](https://rust-lang.org/), making heavy use of [ratatui](https://github.com/tui-rs-revival/ratatui) & [Bollard](https://github.com/fussybeaver/bollard),.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+A simple tui to view & control docker containers. Written in Rust, making heavy use of ratatui & Bollard,.
 
 > **AI analysis:** TUI minimalista en Rust para gestionar containers Docker. Interfaz simple, construida con ratatui y Bollard. Útil para devs que viven en terminal, pero no reemplaza docker CLI + dashboards.
 
@@ -605,11 +609,29 @@ A simple tui to view & control docker containers. Written in [Rust](https://rust
 
 ---
 
+### [pm2](https://github.com/unitech/pm2)
+
+![](https://img.shields.io/github/stars/unitech/pm2?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Production Process Manager for Node.js.
+
+> **AI analysis:** Process manager Node.js estándar industria: clustering, reload zero-downtime, monitoreo. 16+ años, 4M+ weekly downloads. Alternativa (Supervisor, systemd) existen pero pm2 domina Node ecosystem.
+
+**Strengths:** _Zero-downtime restarts_ · _Clustering automático multi-core_
+
+**Tags:** `node.js` `process-manager` `production` `clustering`
+
+---
+
 ### [Pomerium](https://pomerium.io)
 
 Found in 2 active sources
 
-Identity-aware reverse proxy, successor to now obsolete oauth_proxy. It inserts an OAuth step before proxying your request to the backend, so that you can safely expose your self-hosted websites to public Internet.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Identity-aware reverse proxy, successor to now obsolete oauthproxy. It inserts an OAuth step before proxying your request to the backend, so that you can safely expose your self-hosted websites to public Internet. () Apache-2.0 Go/Docker
 
 > **AI analysis:** Reverse proxy con OAuth/identity-aware routing. Simplifica exposición segura de internals. Go-based, Docker-ready. Sucesor de oauth_proxy abandonado.
 
@@ -623,6 +645,8 @@ Identity-aware reverse proxy, successor to now obsolete oauth_proxy. It inserts 
 
 ![](https://img.shields.io/github/stars/prefecthq/prefect?style=flat-square&label=⭐) · Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 - Workflow management system that makes it easy to take your data pipelines and add semantics like retries, logging, dynamic mapping, caching, failure notifications, and more.
 
 > **AI analysis:** Orquestador de workflows con abstracciones para retry, caching, logging. Alternativa a Airflow menos pesada. Resuelve problema: ejecutar DAGs complejos con resiliencia sin montar infraestructura pesada.
@@ -633,11 +657,29 @@ Identity-aware reverse proxy, successor to now obsolete oauth_proxy. It inserts 
 
 ---
 
+### [Prometheus](https://prometheus.io)
+
+Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Service monitoring system and time series database. () Apache-2.0 Go
+
+> **AI analysis:** Time-series database y monitoring system open-source escrito en Go. No exclusivo Docker pero standard para containerized envs. TSDB + alerting combina.
+
+**Strengths:** _Estándar industry para metrics en containers/Kubernetes, simple e eficiente_ · _Pull-model, no requiere agentes, bajo overhead_
+
+**Tags:** `monitoring` `tsdb` `go` `open-source` `observability`
+
+---
+
 ### [QEMU](https://qemu.org)
 
 Found in 2 active sources
 
-A free and open-source emulator and virtualizer that can perform hardware virtualization. [![Open-Source Software][OSS Icon]](https://github.com/qemu/qemu) ![Freeware][Freeware Icon]
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+A free and open-source emulator and virtualizer that can perform hardware virtualization. (https://github.com/qemu/qemu)
 
 > **AI analysis:** Virtualizador multiplataforma de Oracle. GUI pulida, snapshot, clonado. Gratuito con GPL/CDDL. Accesible a principiantes, menos overhead que Hyper-V.
 
@@ -651,7 +693,9 @@ A free and open-source emulator and virtualizer that can perform hardware virtua
 
 ![](https://img.shields.io/github/stars/ignisda/ryot?style=flat-square&label=⭐) · Found in 2 active sources
 
-Track various facets of your life - media, fitness, etc.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Track various facets of your life media, fitness, etc. (Demo) GPL-3.0 Docker
 
 > **AI analysis:** Aplicación de tracking personal para media, fitness y vida en general. Docker-ready, GPL-3.0. Resuelve bien la necesidad de centralizar datos personales sin vendor lock-in.
 
@@ -665,6 +709,8 @@ Track various facets of your life - media, fitness, etc.
 
 ![](https://img.shields.io/github/stars/peak/s5cmd?style=flat-square&label=⭐) · Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 Blazing fast S3 and local filesystem execution tool.
 
 > **AI analysis:** CLI para operaciones S3 en paralelo, escrito en Go. Resuelve transfers masivos rápido. Para devops/data engineers que usan AWS S3 y necesitan velocidad bruta.
@@ -675,9 +721,43 @@ Blazing fast S3 and local filesystem execution tool.
 
 ---
 
+### [SaltStack](https://github.com/saltstack/salt)
+
+![](https://img.shields.io/github/stars/saltstack/salt?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+<br Software to automate the management and configuration of any infrastructure or application at scale.
+
+> **AI analysis:** Orquestación y config management en escala. Alternativa a Ansible, más compleja pero poderosa. Estándar en DevOps empresarial.
+
+**Strengths:** _Event-driven, escalable horizontalmente_ · _Masterless o master-based flexible_
+
+**Tags:** `orchestration` `configuration-management` `python` `devops`
+
+---
+
+### [scapy](https://github.com/secdev/scapy)
+
+![](https://img.shields.io/github/stars/secdev/scapy?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Python-based interactive packet manipulation program and library.
+
+> **AI analysis:** Librería Python para manipular paquetes de red a nivel bajo. Herramienta clásica para pentesting, network debugging y análisis de tráfico. Resuelve crafteo de packets complejos.
+
+**Strengths:** _API flexible para construir packets arbitrarios y procesar capturados_ · _Estándar de facto en pentesting y research de seguridad_
+
+**Tags:** `python` `networking` `packets` `security` `low-level`
+
+---
+
 ### [Semaphore CI](https://semaphore.io)
 
 Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 yen: — A high-performance cloud solution that makes it easy to build, test and ship your containers to production.
 
@@ -693,7 +773,9 @@ yen: — A high-performance cloud solution that makes it easy to build, test and
 
 ![](https://img.shields.io/github/stars/sintan1729/chhoto-url?style=flat-square&label=⭐) · Found in 2 active sources
 
-A simple, blazingly fast, selfhosted URL shortener with no unnecessary features.[](https://github.com/SinTan1729/chhoto-url/actions/workflows/docker-release.yml)
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+A simple, blazingly fast, selfhosted URL shortener with no unnecessary features.
 
 > **AI analysis:** URL shortener minimalista self-hosted en Rust. Rápido, sin bloat, perfecto para quien necesita control total sin complejidad innecesaria.
 
@@ -707,6 +789,8 @@ A simple, blazingly fast, selfhosted URL shortener with no unnecessary features.
 
 ![](https://img.shields.io/github/stars/sshuttle/sshuttle?style=flat-square&label=⭐) · Found in 2 active sources
 
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
 Transparent proxy server that works as a poor man's VPN.
 
 > **AI analysis:** Proxy transparente basado en SSH que actúa como VPN económica. Establece túnel sobre SSH existente sin overhead de protocolo VPN. Para quien necesita bypass de redes sin herramientas pesadas.
@@ -714,6 +798,22 @@ Transparent proxy server that works as a poor man's VPN.
 **Strengths:** _Usa SSH existente, sin credenciales extra_ · _Bajo overhead, overhead, funciona en conexiones lentas_
 
 **Tags:** `vpn` `proxy` `ssh` `cli` `python`
+
+---
+
+### [Træfɪk](https://github.com/containous/traefik)
+
+![](https://img.shields.io/github/stars/containous/traefik?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Automated reverse proxy and load-balancer for Docker, Mesos, Consul, Etcd... By EmileVauge.
+
+> **AI analysis:** Reverse proxy y load balancer automático. Descubre servicios en Docker/K8S/Consul. Reemplaza nginx manual. Simplifica mucho ops.
+
+**Strengths:** _Service discovery automático, no recargas nginx_ · _HTTPS/Let's Encrypt integrado, SSL sin drama_
+
+**Tags:** `reverse-proxy` `load-balancer` `docker` `kubernetes` `go`
 
 ---
 

@@ -27,6 +27,18 @@ AI classification helps summarize and triage entries into suggested verdicts suc
 
 Human-reviewed entries are tools where Juan has confirmed or overridden the automated suggestion. Highlighted picks require a human GEM verdict and a visible reason for inclusion.
 
+## Source Traces
+
+Staff Picks expose the upstream sources that mentioned the tool. A trace includes the source repository, source status, source quality, upstream item name, and observation date when available. The public evidence snapshot in [data/latest.json](data/latest.json) is the inspectable source for these traces.
+
+## Public Labels
+
+Public labels are reader-facing and separate endorsement strength: Human Pick, Worth Trying, AI Candidate, Popular Standard, Needs Review, Context Resource, Rejected, and Graveyard. AI Candidate means automated triage suggested promise, not that Juan endorsed the tool.
+
+## Caveats
+
+Every Staff Pick includes a short caveat. Caveats call out scope, maintenance, popularity, security sensitivity, or adoption fit so the top section does not overstate certainty.
+
 ## Inclusion Rules
 
 Primary tool recommendations should be developer tools, libraries, frameworks, platforms, or tool-like projects with a clear use case. Stronger entries have independent source consensus, useful descriptions, active upstream signals when available, and a defensible rationale.
@@ -41,4 +53,4 @@ Classification can be imperfect because upstream awesome lists mix tools, articl
 
 ## Latest Generation
 
-Generated on 2026-06-22 from the juanchi.dev Awesome Curated pipeline.
+Generated on 2026-06-22 from the juanchi.dev Awesome Curated pipeline. Evidence snapshot: [data/latest.json](data/latest.json).
