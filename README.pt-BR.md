@@ -99,15 +99,15 @@ Escolhas revisadas por humano com um motivo concreto para olhar agora.
 
 ---
 
-## What changed this week
+## Review queue
 
-- [intelli-shell](https://github.com/lasantosr/intelli-shell) — label changed · Worth Trying: Label changed from AI Candidate to Worth Trying.
-- [Mem0](https://github.com/mem0ai/mem0) — label changed · Worth Trying: Label changed from AI Candidate to Worth Trying.
-- [agent-of-empires](https://github.com/njbrake/agent-of-empires) — label changed · Worth Trying: Label changed from AI Candidate to Worth Trying.
-- [Aim](https://github.com/aimhubio/aim) — label changed · Worth Trying: Label changed from AI Candidate to Worth Trying.
-- [ast-grep](https://github.com/ast-grep/ast-grep) — label changed · Worth Trying: Label changed from AI Candidate to Worth Trying.
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, jivoi/awesome-osint, vinta/awesome-python
+- [Deepchecks](https://github.com/deepchecks/deepchecks) — Dev Tooling · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
+- [Feature Engine](https://github.com/feature-engine/feature_engine) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
+- [lstags](https://github.com/ivanilves/lstags) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, veggiemonk/awesome-docker, avelino/awesome-go
+- [DEAP](https://github.com/deap/deap) — AI & ML · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
-See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
+Candidates are not endorsements. Ask for review via [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) or inspect the full queue in [TOOLS.md](TOOLS.md).
 
 ---
 

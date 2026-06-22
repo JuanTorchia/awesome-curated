@@ -2,143 +2,15 @@
   "changes": [
     {
       "changedAt": "2026-06-22",
-      "currentLabel": "Worth Trying",
-      "name": "intelli-shell",
-      "previousLabel": "AI Candidate",
-      "reason": "Label changed from AI Candidate to Worth Trying.",
-      "toolId": "cmnwlwza900pyvn4d8ouw69a9",
-      "type": "label changed",
-      "url": "https://github.com/lasantosr/intelli-shell"
-    },
-    {
-      "changedAt": "2026-06-22",
-      "currentLabel": "Worth Trying",
-      "name": "Mem0",
-      "previousLabel": "AI Candidate",
-      "reason": "Label changed from AI Candidate to Worth Trying.",
-      "toolId": "cmnwknkwt01da1p4thk72udzl",
-      "type": "label changed",
-      "url": "https://github.com/mem0ai/mem0"
-    },
-    {
-      "changedAt": "2026-06-22",
-      "currentLabel": "Worth Trying",
-      "name": "agent-of-empires",
-      "previousLabel": "AI Candidate",
-      "reason": "Label changed from AI Candidate to Worth Trying.",
-      "toolId": "cmnwlw6lm00d5vn4dtvazqp3b",
-      "type": "label changed",
-      "url": "https://github.com/njbrake/agent-of-empires"
-    },
-    {
-      "changedAt": "2026-06-22",
-      "currentLabel": "Worth Trying",
-      "name": "Aim",
-      "previousLabel": "AI Candidate",
-      "reason": "Label changed from AI Candidate to Worth Trying.",
-      "toolId": "cmnwkwetw01jpb0i78htji1tm",
-      "type": "label changed",
-      "url": "https://github.com/aimhubio/aim"
-    },
-    {
-      "changedAt": "2026-06-22",
-      "currentLabel": "Worth Trying",
-      "name": "ast-grep",
-      "previousLabel": "AI Candidate",
-      "reason": "Label changed from AI Candidate to Worth Trying.",
-      "toolId": "cmnwlw6u500d9vn4dz3s8x95r",
-      "type": "label changed",
-      "url": "https://github.com/ast-grep/ast-grep"
-    },
-    {
-      "changedAt": "2026-06-22",
-      "currentLabel": "Worth Trying",
-      "name": "ATAC",
-      "previousLabel": "AI Candidate",
-      "reason": "Label changed from AI Candidate to Worth Trying.",
-      "toolId": "cmnwlwx8x00p4vn4debc4c6mn",
-      "type": "label changed",
-      "url": "https://github.com/julien-cpsn/atac"
-    },
-    {
-      "changedAt": "2026-06-22",
-      "currentLabel": "Worth Trying",
-      "name": "bandwhich",
-      "previousLabel": "AI Candidate",
-      "reason": "Label changed from AI Candidate to Worth Trying.",
-      "toolId": "cmnwlwftr00h9vn4d140gj6ih",
-      "type": "label changed",
-      "url": "https://github.com/imsnif/bandwhich"
-    },
-    {
-      "changedAt": "2026-06-22",
-      "currentLabel": "Worth Trying",
-      "name": "broot",
-      "previousLabel": "AI Candidate",
-      "reason": "Label changed from AI Candidate to Worth Trying.",
-      "toolId": "cmnwlvz9e009tvn4df1t804eq",
-      "type": "label changed",
-      "url": "https://github.com/canop/broot"
-    },
-    {
-      "changedAt": "2026-06-22",
-      "currentLabel": "Worth Trying",
-      "name": "candle",
-      "previousLabel": "AI Candidate",
-      "reason": "Label changed from AI Candidate to Worth Trying.",
-      "toolId": "cmnwkv77a04ry1p4t2q5qm30t",
-      "type": "label changed",
-      "url": "https://github.com/huggingface/candle"
-    },
-    {
-      "changedAt": "2026-06-22",
-      "currentLabel": "Worth Trying",
-      "name": "Chroma",
-      "previousLabel": "AI Candidate",
-      "reason": "Label changed from AI Candidate to Worth Trying.",
-      "toolId": "cmnwkovzc01ye1p4trj7nl1lb",
-      "type": "label changed",
-      "url": "https://github.com/chroma-core/chroma"
-    },
-    {
-      "changedAt": "2026-06-22",
-      "currentLabel": "AI Candidate",
-      "name": "Opik",
-      "reason": "Opik is an open-source platform for evaluating, testing and monitoring LLM applications.",
-      "toolId": "cmnwkwv1701r1b0i7lylxsfzi",
-      "type": "newly reviewed",
-      "url": "https://github.com/comet-ml/opik"
-    },
-    {
-      "changedAt": "2026-06-22",
-      "currentLabel": "AI Candidate",
-      "name": "pandas",
-      "reason": "API intuitiva, comunidad gigante",
-      "toolId": "cmnwl477j051ib0i7hf0tsz0j",
-      "type": "newly reviewed",
-      "url": "https://pandas.pydata.org"
-    },
-    {
-      "changedAt": "2026-06-22",
-      "name": "Opik",
-      "previousLabel": "AI Candidate",
-      "reason": "No longer present in the current public recommendation set.",
-      "toolId": "cmnwl3pmo04tkb0i7y873tadf",
-      "type": "removed",
-      "url": "https://comet.com/site/products/opik"
-    },
-    {
-      "changedAt": "2026-06-22",
-      "name": "pandas",
-      "previousLabel": "AI Candidate",
-      "reason": "No longer present in the current public recommendation set.",
-      "toolId": "cmnwknkai01d01p4tiaff2tii",
-      "type": "removed",
-      "url": "https://github.com/pandas-dev/pandas"
+      "name": "Public recommendation set",
+      "reason": "No material public change detected.",
+      "toolId": "snapshot",
+      "type": "unchanged",
+      "url": "data/latest.json"
     }
   ],
-  "commitSha": "4fdb934e95e3",
-  "generatedAt": "2026-06-22T21:49:25.383Z",
+  "commitSha": "36f61608646a",
+  "generatedAt": "2026-06-22T22:44:39.762Z",
   "recommendations": [
     {
       "caveat": "Best fit for teams with a matching ML or data workflow.",
@@ -19964,7 +19836,7 @@
     "sources": 20
   },
   "validation": {
-    "checkedAt": "2026-06-22T21:49:25.383Z",
+    "checkedAt": "2026-06-22T22:44:39.762Z",
     "status": "pass",
     "warnings": []
   }
