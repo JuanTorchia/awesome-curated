@@ -2,7 +2,7 @@
 
 <p><sub>← [Back to main](../README.md)</sub></p>
 
-**33 GEMs · 41 Worth trying**
+**34 GEMs · 41 Worth trying**
 
 ---
 
@@ -441,6 +441,20 @@ Statistical modelling and econometrics in Python.
 **Strengths:** _API exhaustiva para modelos econométricos_ · _Documentación científica y ejemplos robustos_
 
 **Tags:** `python` `statistics` `econometrics` `timeseries`
+
+---
+
+### [TiDB](https://github.com/pingcap/tidb)
+
+![](https://img.shields.io/github/stars/pingcap/tidb?style=flat-square&label=⭐) · Found in 2 active sources
+
+_(label: good first issue)_ <br> A distributed scalable Hybrid Transactional and Analytical Processing (HTAP) database
+
+> **AI analysis:** UI toolkit multiplataforma Dart de Google para mobile/web/desktop. Estándar real de facto para apps Dart. Compila nativo, hot reload, testing robusto integrado.
+
+**Strengths:** _Hot reload acelera desarrollo exponencialmente_ · _Compilación nativa genera APK/IPA sin intermediate_
+
+**Tags:** `dart` `flutter` `mobile` `cross-platform` `ui-toolkit`
 
 ---
 

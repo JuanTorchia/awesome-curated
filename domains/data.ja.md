@@ -2,7 +2,7 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**33 GEMs · 41 試す価値あり**
+**34 GEMs · 41 試す価値あり**
 
 ---
 
@@ -441,6 +441,20 @@ Statistical modelling and econometrics in Python.
 **強み:** _API exhaustiva para modelos econométricos_ · _Documentación científica y ejemplos robustos_
 
 **Tags:** `python` `statistics` `econometrics` `timeseries`
+
+---
+
+### [TiDB](https://github.com/pingcap/tidb)
+
+![](https://img.shields.io/github/stars/pingcap/tidb?style=flat-square&label=⭐) · Found in 2 active sources
+
+_(label: good first issue)_ <br> A distributed scalable Hybrid Transactional and Analytical Processing (HTAP) database
+
+> **AI 分析:** UI toolkit multiplataforma Dart de Google para mobile/web/desktop. Estándar real de facto para apps Dart. Compila nativo, hot reload, testing robusto integrado.
+
+**強み:** _Hot reload acelera desarrollo exponencialmente_ · _Compilación nativa genera APK/IPA sin intermediate_
+
+**Tags:** `dart` `flutter` `mobile` `cross-platform` `ui-toolkit`
 
 ---
 

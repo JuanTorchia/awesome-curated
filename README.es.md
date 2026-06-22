@@ -32,7 +32,7 @@ Dale star si querés una lista recurrente y de bajo ruido con herramientas dev, 
 
 ## 🗺️ Encontrá tu stack
 
-[🌐 **Web** · 24](domains/web.es.md) · [🤖 **IA y ML** · 35](domains/ai-ml.es.md) · [🛠️ **DevOps** · 17](domains/devops.es.md) · [📱 **Mobile** · 1](domains/mobile.es.md) · [💾 **Datos y Bases** · 33](domains/data.es.md) · [🔐 **Seguridad y Cripto** · 27](domains/security.es.md) · [⚡ **Performance** · 4](domains/performance.es.md) · [🧰 **Herramientas Dev** · 53](domains/tooling.es.md) · [🎓 **Aprendizaje** · 2](domains/learning.es.md) · [🎨 **Otros** · 10](domains/other.es.md)
+[🌐 **Web** · 24](domains/web.es.md) · [🤖 **IA y ML** · 36](domains/ai-ml.es.md) · [🛠️ **DevOps** · 16](domains/devops.es.md) · [💾 **Datos y Bases** · 34](domains/data.es.md) · [🔐 **Seguridad y Cripto** · 27](domains/security.es.md) · [⚡ **Performance** · 4](domains/performance.es.md) · [🧰 **Herramientas Dev** · 53](domains/tooling.es.md) · [🎓 **Aprendizaje** · 2](domains/learning.es.md) · [🎨 **Otros** · 10](domains/other.es.md)
 
 ---
 
@@ -74,18 +74,17 @@ Picks revisados por humano con una razón concreta para mirarlos ahora.
 | [**XGBoost**](https://github.com/dmlc/xgboost) | - XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. | Found in 5 active sources · AI suggested, pending human review |
 | [**Apache Spark**](https://github.com/apache/spark) | - Micro-batch processing for streams using the apache spark framework as a backend supporting stateful exactly-once… | Found in 3 active sources · AI suggested, pending human review |
 | [**Awesome Machine Learning**](https://github.com/josephmisiti/awesome-machine-learning) | *(GitHub)* | Found in 3 active sources · AI suggested, pending human review |
+| [**RLlib**](https://github.com/ray-project/ray) | RLlib is an industry level, highly scalable RL library for tf and torch, based on Ray. It's used by companies like… | Found in 3 active sources · AI suggested, pending human review |
 | [**SpaCy**](https://github.com/explosion/spacy) | - spaCy is a library for advanced Natural Language Processing in Python and Cython. | Found in 3 active sources · AI suggested, pending human review |
 | [**Stable Baselines**](https://github.com/dlr-rm/stable-baselines3) | - A fork of OpenAI Baselines, implementations of reinforcement learning algorithms. | Found in 3 active sources · AI suggested, pending human review |
 | [**Vercel AI**](https://github.com/vercel/ai) | - Vercel AI is a TypeScript toolkit designed to help you build AI-powered applications using popular frameworks like… | Found in 3 active sources · AI suggested, pending human review |
-| [**ashvardanian/NumKong**](https://github.com/ashvardanian/numkong) | SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-512, and Arm NEON… | Found in 2 active sources · AI suggested, pending human review |
 
-📖 27 más en la [página detallada →](domains/ai-ml.es.md)
+📖 28 más en la [página detallada →](domains/ai-ml.es.md)
 
 ### 🛠️ DevOps
 
 | Tool | Qué hace | Señal |
 |---|---|---|
-| [**RLlib**](https://github.com/ray-project/ray) | RLlib is an industry level, highly scalable RL library for tf and torch, based on Ray. It's used by companies like… | Found in 3 active sources · AI suggested, pending human review |
 | [**ZooKeeper**](https://zookeeper.apache.org) | ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed… | Found in 3 active sources · AI suggested, pending human review |
 | [**Ansible**](https://github.com/ansible/ansible) | _(label: easyfix)_ <br> A simple IT automation platform | Found in 2 active sources · AI suggested, pending human review |
 | [**BorgBackup**](https://github.com/borgbackup/borg) | _(label: easy)_ <br> Deduplicating backup program with compression and authenticated encryption. | Found in 2 active sources · AI suggested, pending human review |
@@ -93,16 +92,9 @@ Picks revisados por humano con una razón concreta para mirarlos ahora.
 | [**CML**](https://github.com/iterative/cml) | A library for doing continuous integration with ML projects. Use GitHub Actions & GitLab CI to train and evaluate… | Found in 2 active sources · AI suggested, pending human review |
 | [**Concourse**](https://concourse-ci.org) | Concourse is a CI tool that treats pipelines as first class objects and containerizes every step along the way. ) | Found in 2 active sources · AI suggested, pending human review |
 | [**Consul**](https://consul.io) | Consul is a tool for service discovery, monitoring and configuration. | Found in 2 active sources · AI suggested, pending human review |
+| [**Docker.DotNet**](https://github.com/microsoft/docker.dotnet) | C#/.NET HTTP client for the Docker remote API. | Found in 2 active sources · AI suggested, pending human review |
 
-📖 9 más en la [página detallada →](domains/devops.es.md)
-
-### 📱 Mobile
-
-| Tool | Qué hace | Señal |
-|---|---|---|
-| [**TiDB**](https://github.com/pingcap/tidb) | _(label: good first issue)_ <br> A distributed scalable Hybrid Transactional and Analytical Processing (HTAP) database | Found in 2 active sources · AI suggested, pending human review |
-
-📖 [Página completa del dominio →](domains/mobile.es.md)
+📖 8 más en la [página detallada →](domains/devops.es.md)
 
 ### 💾 Datos y Bases
 
@@ -117,7 +109,7 @@ Picks revisados por humano con una razón concreta para mirarlos ahora.
 | [**Chart.js**](https://chartjs.org) | a javascript library that allows you to create charts easly | Found in 2 active sources · AI suggested, pending human review |
 | [**cleanlab**](https://github.com/cleanlab/cleanlab) | - Python library for data-centric AI. Can automatically: find mislabeled data, detect outliers, estimate consensus +… | Found in 2 active sources · AI suggested, pending human review |
 
-📖 25 más en la [página detallada →](domains/data.es.md)
+📖 26 más en la [página detallada →](domains/data.es.md)
 
 ### 🔐 Seguridad y Cripto
 

@@ -2,7 +2,7 @@
 
 <p><sub>← [Voltar ao main](../README.pt-BR.md)</sub></p>
 
-**36 GEMs · 75 Vale a pena testar**
+**37 GEMs · 75 Vale a pena testar**
 
 ---
 
@@ -63,6 +63,20 @@ A CLI tool to transpile trained classic machine learning models into a native Ru
 **Pontos fortes:** _Cobertura exhaustiva organizada por lenguaje de programación, útil tanto para pythonistas como para devs de R, Julia o Go_ · _Punto de entrada canónico con décadas de curaduría comunitaria y miles de contribuidores reales_
 
 **Tags:** `machine-learning` `awesome-list` `recursos` `open-source` `curated-list`
+
+---
+
+### [RLlib](https://github.com/ray-project/ray)
+
+![](https://img.shields.io/github/stars/ray-project/ray?style=flat-square&label=⭐) · Found in 3 active sources
+
+RLlib is an industry level, highly scalable RL library for tf and torch, based on Ray. It's used by companies like Amazon and Microsoft to solve real-world decision making problems at scale.
+
+> **Análise IA:** RL framework distributed basado en Ray. Para empresas que necesitan scale: Amazon/Microsoft lo usan. Resuelve: entrenar agentes complejos en clusters sin morir en el intento.
+
+**Pontos fortes:** _Distribución automática sin boilerplate_ · _Integración tight con Ray ecosystem (tune, serve)_
+
+**Tags:** `reinforcement-learning` `ray` `python` `distributed` `pytorch`
 
 ---
 

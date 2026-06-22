@@ -2,27 +2,13 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**17 GEMs · 34 試す価値あり**
+**16 GEMs · 34 試す価値あり**
 
 ---
 
 ## ⭐ GEMs — 業界標準
 
 コミュニティがデフォルトと見なすツール。知らないなら探る価値あり。
-
-### [RLlib](https://github.com/ray-project/ray)
-
-![](https://img.shields.io/github/stars/ray-project/ray?style=flat-square&label=⭐) · Found in 3 active sources
-
-RLlib is an industry level, highly scalable RL library for tf and torch, based on Ray. It's used by companies like Amazon and Microsoft to solve real-world decision making problems at scale.
-
-> **AI 分析:** RL framework distributed basado en Ray. Para empresas que necesitan scale: Amazon/Microsoft lo usan. Resuelve: entrenar agentes complejos en clusters sin morir en el intento.
-
-**強み:** _Distribución automática sin boilerplate_ · _Integración tight con Ray ecosystem (tune, serve)_
-
-**Tags:** `reinforcement-learning` `ray` `python` `distributed` `pytorch`
-
----
 
 ### [ZooKeeper](https://zookeeper.apache.org)
 

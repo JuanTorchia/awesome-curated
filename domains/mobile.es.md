@@ -2,25 +2,7 @@
 
 <p><sub>← [Volver al main](../README.es.md)</sub></p>
 
-**1 GEMs · 4 Vale probar**
-
----
-
-## ⭐ GEMs — estándares de la industria
-
-Herramientas que la comunidad considera default. Si no las conocés, valen la pena.
-
-### [TiDB](https://github.com/pingcap/tidb)
-
-![](https://img.shields.io/github/stars/pingcap/tidb?style=flat-square&label=⭐) · Found in 2 active sources
-
-_(label: good first issue)_ <br> A distributed scalable Hybrid Transactional and Analytical Processing (HTAP) database
-
-> **Análisis IA:** UI toolkit multiplataforma Dart de Google para mobile/web/desktop. Estándar real de facto para apps Dart. Compila nativo, hot reload, testing robusto integrado.
-
-**Fortalezas:** _Hot reload acelera desarrollo exponencialmente_ · _Compilación nativa genera APK/IPA sin intermediate_
-
-**Tags:** `dart` `flutter` `mobile` `cross-platform` `ui-toolkit`
+**0 GEMs · 4 Vale probar**
 
 ---
 
