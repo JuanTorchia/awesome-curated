@@ -12,7 +12,7 @@
 
 ### [Cython](https://github.com/cython/cython)
 
-![](https://img.shields.io/github/stars/cython/cython?style=flat-square&label=⭐) · 出现在 2 个列表中
+![](https://img.shields.io/github/stars/cython/cython?style=flat-square&label=⭐) · Found in 2 active sources
 
 Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It makes writing C extensions for Python as easy as Python itself. [Apache] [website](http://cython.org/)
 
@@ -26,7 +26,7 @@ Cython is an optimising static compiler for both the Python programming language
 
 ### [Numba](https://github.com/numba/numba)
 
-![](https://img.shields.io/github/stars/numba/numba?style=flat-square&label=⭐) · 出现在 2 个列表中
+![](https://img.shields.io/github/stars/numba/numba?style=flat-square&label=⭐) · Found in 2 active sources
 
 - A compiler for Python array and numerical functions.
 
@@ -40,7 +40,7 @@ Cython is an optimising static compiler for both the Python programming language
 
 ### [uWebSockets](https://github.com/unetworking/uwebsockets)
 
-![](https://img.shields.io/github/stars/unetworking/uwebsockets?style=flat-square&label=⭐) · 出现在 2 个列表中
+![](https://img.shields.io/github/stars/unetworking/uwebsockets?style=flat-square&label=⭐) · Found in 2 active sources
 
 µWS is one of the most lightweight, efficient & scalable WebSocket & HTTP server implementations available. [Zlib]
 
@@ -54,7 +54,7 @@ Cython is an optimising static compiler for both the Python programming language
 
 ### [xxHash](https://github.com/cyan4973/xxhash)
 
-![](https://img.shields.io/github/stars/cyan4973/xxhash?style=flat-square&label=⭐) · 出现在 2 个列表中
+![](https://img.shields.io/github/stars/cyan4973/xxhash?style=flat-square&label=⭐) · Found in 2 active sources
 
 Extremely fast non-cryptographic hash algorithm. [BSD-2-Clause] [website](https://xxhash.com/)
 
@@ -75,7 +75,7 @@ Extremely fast non-cryptographic hash algorithm. [BSD-2-Clause] [website](https:
 
 ### [bencher](https://github.com/bencherdev/bencher)
 
-![](https://img.shields.io/github/stars/bencherdev/bencher?style=flat-square&label=⭐) · 出现在 3 个列表中
+![](https://img.shields.io/github/stars/bencherdev/bencher?style=flat-square&label=⭐) · Found in 3 active sources
 
 A suite of continuous benchmarking tools designed to catch performance regressions in CI.
 
@@ -89,7 +89,7 @@ A suite of continuous benchmarking tools designed to catch performance regressio
 
 ### [CodeFlash.AI](https://codeflash.ai)
 
-出现在 2 个列表中
+Found in 2 active sources
 
 CodeFlash.AI – Ship Blazing-Fast Python Code, Every Time.
 
@@ -103,7 +103,7 @@ CodeFlash.AI – Ship Blazing-Fast Python Code, Every Time.
 
 ### [GeneticSharp](https://github.com/giacomelli/geneticsharp)
 
-![](https://img.shields.io/github/stars/giacomelli/geneticsharp?style=flat-square&label=⭐) · 出现在 2 个列表中
+![](https://img.shields.io/github/stars/giacomelli/geneticsharp?style=flat-square&label=⭐) · Found in 2 active sources
 
 Multi-platform genetic algorithm library for .NET Core and .NET Framework. The library has several implementations of GA operators, like: selection, crossover, mutation, reinsertion and termination.
 
@@ -117,7 +117,7 @@ Multi-platform genetic algorithm library for .NET Core and .NET Framework. The l
 
 ### [loadtest](https://github.com/alexfernandez/loadtest)
 
-![](https://img.shields.io/github/stars/alexfernandez/loadtest?style=flat-square&label=⭐) · 出现在 2 个列表中
+![](https://img.shields.io/github/stars/alexfernandez/loadtest?style=flat-square&label=⭐) · Found in 2 active sources
 
 Run load tests for your web application, with an API for automation.
 
@@ -131,7 +131,7 @@ Run load tests for your web application, with an API for automation.
 
 ### [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding)
 
-![](https://img.shields.io/github/stars/real-logic/simple-binary-encoding?style=flat-square&label=⭐) · 出现在 2 个列表中
+![](https://img.shields.io/github/stars/real-logic/simple-binary-encoding?style=flat-square&label=⭐) · Found in 2 active sources
 
 encoding and decoding application messages in binary format for low-latency applications. [Apache2]
 

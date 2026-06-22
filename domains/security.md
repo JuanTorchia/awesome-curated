@@ -12,7 +12,7 @@ Tools the community considers default. If you don't know them yet, they're worth
 
 ### 👤 [themis](https://github.com/cossacklabs/themis)
 
-![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · 🔥 **appears in 7 lists**
+![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · 🔥 **Found in 7 active sources**
 
 High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption). Ported on many languages and platforms, suitable for client-server infastructures.
 
@@ -26,7 +26,7 @@ High level crypto library for storing data (AES), secure messaging (ECC + ECDSA 
 
 ### [Bouncy Castle](https://bouncycastle.org/java.html)
 
-appears in 2 lists
+Found in 2 active sources
 
 All-purpose cryptographic library and JCA provider offering a wide range of functions, from basic helpers to PGP/SMIME operations.
 
@@ -40,7 +40,7 @@ All-purpose cryptographic library and JCA provider offering a wide range of func
 
 ### [briansmith/ring](https://github.com/briansmith/ring)
 
-![](https://img.shields.io/github/stars/briansmith/ring?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/briansmith/ring?style=flat-square&label=⭐) · Found in 2 active sources
 
 Safe, fast, small crypto using Rust and BoringSSL's cryptography primitives.
 
@@ -54,7 +54,7 @@ Safe, fast, small crypto using Rust and BoringSSL's cryptography primitives.
 
 ### [Crypto++](https://github.com/weidai11/cryptopp)
 
-![](https://img.shields.io/github/stars/weidai11/cryptopp?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/weidai11/cryptopp?style=flat-square&label=⭐) · Found in 2 active sources
 
 A free C++ class library of cryptographic schemes. [Boost] [website](http://www.cryptopp.com/)
 
@@ -68,7 +68,7 @@ A free C++ class library of cryptographic schemes. [Boost] [website](http://www.
 
 ### [Cryptomator](https://cryptomator.org)
 
-appears in 2 lists
+Found in 2 active sources
 
 Multi-platform transparent client-side encryption of your files in the cloud. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/cryptomator/cryptomator/)
 
@@ -82,7 +82,7 @@ Multi-platform transparent client-side encryption of your files in the cloud. [!
 
 ### [Google Hacking Database (GHDB)](https://exploit-db.com/google-hacking-database)
 
-appears in 2 lists
+Found in 2 active sources
 
 The GHDB is an index of search queries (we call them dorks) used to find publicly available information, intended for pentesters and security researchers.
 
@@ -96,7 +96,7 @@ The GHDB is an index of search queries (we call them dorks) used to find publicl
 
 ### [gpg](https://gnupg.org)
 
-appears in 2 lists
+Found in 2 active sources
 
 Complete and free implementation of the OpenPGP standard. It allows to encrypt and sign your data and communication, features a versatile key management system. GnuPG is a command line tool with features for easy integration with other applications.
 
@@ -110,7 +110,7 @@ Complete and free implementation of the OpenPGP standard. It allows to encrypt a
 
 ### [hashes](https://github.com/rustcrypto/hashes)
 
-![](https://img.shields.io/github/stars/rustcrypto/hashes?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/rustcrypto/hashes?style=flat-square&label=⭐) · Found in 2 active sources
 
 Collection of cryptographic hash functions written in pure Rust.
 
@@ -124,7 +124,7 @@ Collection of cryptographic hash functions written in pure Rust.
 
 ### [KeyCloak](https://keycloak.org)
 
-appears in 2 lists
+Found in 2 active sources
 
 Open Source Identity and Access Management.
 
@@ -138,7 +138,7 @@ Open Source Identity and Access Management.
 
 ### [libsodium](https://github.com/jedisct1/libsodium)
 
-![](https://img.shields.io/github/stars/jedisct1/libsodium?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/jedisct1/libsodium?style=flat-square&label=⭐) · Found in 2 active sources
 
 P(ortable·ackageable) NaCl-based crypto library, opinionated and easy to use. [ISC]
 
@@ -152,7 +152,7 @@ P(ortable·ackageable) NaCl-based crypto library, opinionated and easy to use. [
 
 ### [Lynis](https://cisofy.com/lynis)
 
-appears in 2 lists
+Found in 2 active sources
 
 Auditing tool for UNIX-based systems.
 
@@ -166,7 +166,7 @@ Auditing tool for UNIX-based systems.
 
 ### [OpenSSL](https://github.com/openssl/openssl)
 
-![](https://img.shields.io/github/stars/openssl/openssl?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/openssl/openssl?style=flat-square&label=⭐) · Found in 2 active sources
 
 A robust, commercial-grade, full-featured, and Open Source cryptography library. [Apache] [website](http://www.openssl.org/)
 
@@ -180,7 +180,7 @@ A robust, commercial-grade, full-featured, and Open Source cryptography library.
 
 ### [pynacl](https://github.com/pyca/pynacl)
 
-![](https://img.shields.io/github/stars/pyca/pynacl?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/pyca/pynacl?style=flat-square&label=⭐) · Found in 2 active sources
 
 Python binding to the Networking and Cryptography (NaCl) library.
 
@@ -194,7 +194,7 @@ Python binding to the Networking and Cryptography (NaCl) library.
 
 ### [s2n](https://github.com/awslabs/s2n)
 
-![](https://img.shields.io/github/stars/awslabs/s2n?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/awslabs/s2n?style=flat-square&label=⭐) · Found in 2 active sources
 
 An implementation of the TLS/SSL protocols. [Apache]
 
@@ -208,7 +208,7 @@ An implementation of the TLS/SSL protocols. [Apache]
 
 ### [safedep/vet](https://github.com/safedep/vet)
 
-![](https://img.shields.io/github/stars/safedep/vet?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/safedep/vet?style=flat-square&label=⭐) · Found in 2 active sources
 
 🎖️ 🏎️ ☁️ 🍎 🪟 🐧 - vet-mcp checks open source packages—like those suggested by AI coding tools—for vulnerabilities and malicious code. It supports npm and PyPI, and runs locally via Docker or as a standalone binary for fast, automated vetting.
 
@@ -222,7 +222,7 @@ An implementation of the TLS/SSL protocols. [Apache]
 
 ### [SecLists](https://github.com/danielmiessler/seclists)
 
-![](https://img.shields.io/github/stars/danielmiessler/seclists?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/danielmiessler/seclists?style=flat-square&label=⭐) · Found in 2 active sources
 
 Collection of multiple types of lists used during security assessments.
 
@@ -236,7 +236,7 @@ Collection of multiple types of lists used during security assessments.
 
 ### [Shodan](https://shodan.io)
 
-appears in 2 lists
+Found in 2 active sources
 
 Shodan is a search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using various searching filters.
 
@@ -250,7 +250,7 @@ Shodan is a search engine for the IOT(Internet of Things) that allows you to sea
 
 ### [Social Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit)
 
-![](https://img.shields.io/github/stars/trustedsec/social-engineer-toolkit?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/trustedsec/social-engineer-toolkit?style=flat-square&label=⭐) · Found in 2 active sources
 
 Open source pentesting framework designed for social engineering featuring a number of custom attack vectors to make believable attacks quickly.
 
@@ -264,7 +264,7 @@ Open source pentesting framework designed for social engineering featuring a num
 
 ### [SpiderFoot](https://spiderfoot.net)
 
-appears in 2 lists
+Found in 2 active sources
 
 SpiderFoot is an open source intelligence (OSINT) automation platform with over 200 modules for threat intelligence, attack surface monitoring, security assessments and asset discovery.
 
@@ -278,7 +278,7 @@ SpiderFoot is an open source intelligence (OSINT) automation platform with over 
 
 ### [SQLMap](https://github.com/sqlmapproject/sqlmap)
 
-![](https://img.shields.io/github/stars/sqlmapproject/sqlmap?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/sqlmapproject/sqlmap?style=flat-square&label=⭐) · Found in 2 active sources
 
 An automatic SQL injection and database takeover tool.
 
@@ -292,7 +292,7 @@ An automatic SQL injection and database takeover tool.
 
 ### [Syft](https://github.com/anchore/syft)
 
-![](https://img.shields.io/github/stars/anchore/syft?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/anchore/syft?style=flat-square&label=⭐) · Found in 2 active sources
 
 CLI tool and library for generating a Software Bill of Materials (SBOM) from container images and filesystems. By [Anchore](https://github.com/anchore).
 
@@ -306,7 +306,7 @@ CLI tool and library for generating a Software Bill of Materials (SBOM) from con
 
 ### [Tails](https://tails.boum.org)
 
-appears in 2 lists
+Found in 2 active sources
 
 Live operating system aiming to preserve your privacy and anonymity.
 
@@ -320,7 +320,7 @@ Live operating system aiming to preserve your privacy and anonymity.
 
 ### [Tink](https://github.com/google/tink)
 
-![](https://img.shields.io/github/stars/google/tink?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/google/tink?style=flat-square&label=⭐) · Found in 2 active sources
 
 A multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse. [Apache-2.0]
 
@@ -334,7 +334,7 @@ A multi-language, cross-platform library that provides cryptographic APIs that a
 
 ### [Tor](https://torproject.org)
 
-appears in 2 lists
+Found in 2 active sources
 
 Free software and onion routed overlay network that helps you defend against traffic analysis.
 
@@ -348,7 +348,7 @@ Free software and onion routed overlay network that helps you defend against tra
 
 ### [vaultwarden](https://github.com/dani-garcia/vaultwarden)
 
-![](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=flat-square&label=⭐) · Found in 2 active sources
 
 ](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml) - Alternative implementation of the Bitwarden server API written in Rust
 
@@ -362,7 +362,7 @@ Free software and onion routed overlay network that helps you defend against tra
 
 ### [Virus Total](https://virustotal.com)
 
-appears in 2 lists
+Found in 2 active sources
 
 Free service that analyzes suspicious files and URLs and facilitates the quick detection of viruses, worms, trojans, and all kinds of malware.
 
@@ -376,7 +376,7 @@ Free service that analyzes suspicious files and URLs and facilitates the quick d
 
 ### [webpki](https://github.com/briansmith/webpki)
 
-![](https://img.shields.io/github/stars/briansmith/webpki?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/briansmith/webpki?style=flat-square&label=⭐) · Found in 2 active sources
 
 Web PKI TLS X.509 certificate validation in Rust.
 
@@ -397,7 +397,7 @@ Less hype than the GEMs but reliable if you fall into their use case.
 
 ### [Honeypots](https://github.com/paralax/awesome-honeypots)
 
-![](https://img.shields.io/github/stars/paralax/awesome-honeypots?style=flat-square&label=⭐) · appears in 3 lists
+![](https://img.shields.io/github/stars/paralax/awesome-honeypots?style=flat-square&label=⭐) · Found in 3 active sources
 
 Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
 
@@ -411,7 +411,7 @@ Deception trap, designed to entice an attacker into attempting to compromise the
 
 ### [Agentic Radar](https://github.com/splx-ai/agentic-radar)
 
-![](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=flat-square&label=⭐) · Found in 2 active sources
 
 Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. Supports LangGraph, CrewAI, n8n, OpenAI Agents, and more.
 
@@ -425,7 +425,7 @@ Open-source CLI security scanner for agentic workflows. Scans your workflow’s 
 
 ### [Apache Shiro](https://shiro.apache.org)
 
-appears in 2 lists
+Found in 2 active sources
 
 Performs authentication, authorization, cryptography and session management.
 
@@ -439,7 +439,7 @@ Performs authentication, authorization, cryptography and session management.
 
 ### [Botan](https://botan.randombit.net)
 
-appears in 2 lists
+Found in 2 active sources
 
 Cryptography library written in `C++20`.
 
@@ -453,7 +453,7 @@ Cryptography library written in `C++20`.
 
 ### [Brave](https://brave.com)
 
-appears in 2 lists
+Found in 2 active sources
 
 Web browser with an emphasis on privacy and speed. [![Open-Source Software][OSS Icon]](https://github.com/brave/brave-browser/) ![Freeware][Freeware Icon]
 
@@ -467,7 +467,7 @@ Web browser with an emphasis on privacy and speed. [![Open-Source Software][OSS 
 
 ### [CryptoSwift](https://github.com/krzyzanowskim/cryptoswift)
 
-![](https://img.shields.io/github/stars/krzyzanowskim/cryptoswift?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/krzyzanowskim/cryptoswift?style=flat-square&label=⭐) · Found in 2 active sources
 
 Crypto related functions and helpers for Swift implemented in Swift programming language.
 
@@ -481,7 +481,7 @@ Crypto related functions and helpers for Swift implemented in Swift programming 
 
 ### [DNSDumpster](https://dnsdumpster.com)
 
-appears in 2 lists
+Found in 2 active sources
 
 is a website that will help you discover hosts related to a specific domain.
 
@@ -495,7 +495,7 @@ is a website that will help you discover hosts related to a specific domain.
 
 ### [Element](https://element.io)
 
-appears in 2 lists
+Found in 2 active sources
 
 Create, share communicate. Chat and call securely. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/vector-im)
 
@@ -509,7 +509,7 @@ Create, share communicate. Chat and call securely. [![Open-Source Software][OSS 
 
 ### [Firezone](https://firezone.dev)
 
-appears in 2 lists
+Found in 2 active sources
 
 Secure remote access gateway that supports the WireGuard protocol. It offers a Web GUI, 1-line install script, multi-factor auth (MFA), and SSO.
 
@@ -523,7 +523,7 @@ Secure remote access gateway that supports the WireGuard protocol. It offers a W
 
 ### [Hunter.io](https://hunter.io)
 
-appears in 2 lists
+Found in 2 active sources
 
 Data broker providing a Web search interface for discovering the email addresses and other organizational details of a company.
 
@@ -537,7 +537,7 @@ Data broker providing a Web search interface for discovering the email addresses
 
 ### [I2P](https://geti2p.net)
 
-appears in 2 lists
+Found in 2 active sources
 
 The Invisible Internet Project.
 
@@ -551,7 +551,7 @@ The Invisible Internet Project.
 
 ### [Keybase](https://keybase.io)
 
-appears in 2 lists
+Found in 2 active sources
 
 Secure groups, files, and chat for everyone! [![Open-Source Software][OSS Icon]](https://github.com/keybase) ![Freeware][Freeware Icon]
 
@@ -565,7 +565,7 @@ Secure groups, files, and chat for everyone! [![Open-Source Software][OSS Icon]]
 
 ### [kpcyrd/authoscope](https://github.com/kpcyrd/authoscope)
 
-![](https://img.shields.io/github/stars/kpcyrd/authoscope?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/kpcyrd/authoscope?style=flat-square&label=⭐) · Found in 2 active sources
 
 A scriptable network authentication cracker
 
@@ -579,7 +579,7 @@ A scriptable network authentication cracker
 
 ### [kpcyrd/sniffglue](https://github.com/kpcyrd/sniffglue)
 
-![](https://img.shields.io/github/stars/kpcyrd/sniffglue?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/kpcyrd/sniffglue?style=flat-square&label=⭐) · Found in 2 active sources
 
 A secure multithreaded packet sniffer
 
@@ -593,7 +593,7 @@ A secure multithreaded packet sniffer
 
 ### [LibreWolf](https://librewolf.net)
 
-appears in 2 lists
+Found in 2 active sources
 
 A fork of Firefox, focused on privacy, security and freedom. [![Open-Source Software][OSS Icon]](https://gitlab.com/librewolf-community) ![Freeware][Freeware Icon]
 
@@ -607,7 +607,7 @@ A fork of Firefox, focused on privacy, security and freedom. [![Open-Source Soft
 
 ### [Maltego](https://maltego.com)
 
-appears in 2 lists
+Found in 2 active sources
 
 Maltego is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
 
@@ -621,7 +621,7 @@ Maltego is an open source intelligence (OSINT) and graphical link analysis tool 
 
 ### [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub)
 
-![](https://img.shields.io/github/stars/mariocandela/beelzebub?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/mariocandela/beelzebub?style=flat-square&label=⭐) · Found in 2 active sources
 
 ☁️ - Beelzebub is a honeypot framework that lets you build honeypot tools using MCP. Its purpose is to detect prompt injection or malicious agent behavior. The underlying idea is to provide the agent with tools it would never use in its normal work.
 
@@ -635,7 +635,7 @@ Maltego is an open source intelligence (OSINT) and graphical link analysis tool 
 
 ### [mavdol/capsule/mcp-server](https://github.com/mavdol/capsule)
 
-![](https://img.shields.io/github/stars/mavdol/capsule?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/mavdol/capsule?style=flat-square&label=⭐) · Found in 2 active sources
 
 ](https://glama.ai/mcp/servers/mavdol/capsule-mcp-server) 🦀 🏠 🍎 🪟 🐧 - Run untrusted Python/JavaScript code in WebAssembly sandboxes.
 
@@ -649,7 +649,7 @@ Maltego is an open source intelligence (OSINT) and graphical link analysis tool 
 
 ### [Ockam](https://github.com/ockam-network/ockam)
 
-![](https://img.shields.io/github/stars/ockam-network/ockam?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/ockam-network/ockam?style=flat-square&label=⭐) · Found in 2 active sources
 
 _(label: good first issue)_ <br> End-to-end encryption and mutual authentication for distributed applications.
 
@@ -663,7 +663,7 @@ _(label: good first issue)_ <br> End-to-end encryption and mutual authentication
 
 ### [orion-rs/orion](https://github.com/orion-rs/orion)
 
-![](https://img.shields.io/github/stars/orion-rs/orion?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/orion-rs/orion?style=flat-square&label=⭐) · Found in 2 active sources
 
 This library aims to provide easy and usable crypto. 'Usable' meaning exposing high-level API's that are easy to use and hard to misuse. [](https://github.com/orion-rs/orion/actions/workflows/test.yml)
 
@@ -677,7 +677,7 @@ This library aims to provide easy and usable crypto. 'Usable' meaning exposing h
 
 ### [paaster](https://paaster.io)
 
-appears in 2 lists
+Found in 2 active sources
 
 Paaster is a secure and user-friendly pastebin application that prioritizes privacy and simplicity. With end-to-end encryption and paste history, Paaster ensures that your pasted code remains confidential and accessible.
 
@@ -691,7 +691,7 @@ Paaster is a secure and user-friendly pastebin application that prioritizes priv
 
 ### [Promptfoo](https://github.com/promptfoo/promptfoo)
 
-![](https://img.shields.io/github/stars/promptfoo/promptfoo?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/promptfoo/promptfoo?style=flat-square&label=⭐) · Found in 2 active sources
 
 - LLM red teaming and evaluation framework for testing jailbreaks, prompt injection, and other vulnerabilities with CI/CD integration.
 
@@ -705,7 +705,7 @@ Paaster is a secure and user-friendly pastebin application that prioritizes priv
 
 ### [rage](https://github.com/str4d/rage)
 
-![](https://img.shields.io/github/stars/str4d/rage?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/str4d/rage?style=flat-square&label=⭐) · Found in 2 active sources
 
 is a simple, modern, and secure file encryption tool, using the age format.
 
@@ -719,7 +719,7 @@ is a simple, modern, and secure file encryption tool, using the age format.
 
 ### [Redlib](https://github.com/redlib-org/redlib)
 
-![](https://img.shields.io/github/stars/redlib-org/redlib?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/redlib-org/redlib?style=flat-square&label=⭐) · Found in 2 active sources
 
 An alternative private front-end to Reddit, with its origins in [Libreddit](https://github.com/libreddit/libreddit)
 
@@ -733,7 +733,7 @@ An alternative private front-end to Reddit, with its origins in [Libreddit](http
 
 ### [rshijack](https://github.com/kpcyrd/rshijack)
 
-![](https://img.shields.io/github/stars/kpcyrd/rshijack?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/kpcyrd/rshijack?style=flat-square&label=⭐) · Found in 2 active sources
 
 TCP connection hijacker, Rust rewrite of `shijack`.
 
@@ -747,7 +747,7 @@ TCP connection hijacker, Rust rewrite of `shijack`.
 
 ### [sherlock](https://github.com/sherlock-project/sherlock)
 
-![](https://img.shields.io/github/stars/sherlock-project/sherlock?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/sherlock-project/sherlock?style=flat-square&label=⭐) · Found in 2 active sources
 
 Hunt down social media accounts by username across social networks.
 
@@ -761,7 +761,7 @@ Hunt down social media accounts by username across social networks.
 
 ### [ssh-vault](https://github.com/ssh-vault/ssh-vault)
 
-![](https://img.shields.io/github/stars/ssh-vault/ssh-vault?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/ssh-vault/ssh-vault?style=flat-square&label=⭐) · Found in 2 active sources
 
 A simple tool to manage secrets using ssh keys for encryption and decryption.
 
@@ -775,7 +775,7 @@ A simple tool to manage secrets using ssh keys for encryption and decryption.
 
 ### [Swift-Sodium](https://github.com/jedisct1/swift-sodium)
 
-![](https://img.shields.io/github/stars/jedisct1/swift-sodium?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/jedisct1/swift-sodium?style=flat-square&label=⭐) · Found in 2 active sources
 
 Swift interface to the Sodium library for common crypto operations for iOS and macOS.
 
@@ -789,7 +789,7 @@ Swift interface to the Sodium library for common crypto operations for iOS and m
 
 ### [The Harvester](https://github.com/laramies/theharvester)
 
-![](https://img.shields.io/github/stars/laramies/theharvester?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/laramies/theharvester?style=flat-square&label=⭐) · Found in 2 active sources
 
 Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
 
@@ -803,7 +803,7 @@ Gather emails, subdomains, hosts, employee names, open ports and banners from di
 
 ### [Trail of Bits Security Skills](https://github.com/trailofbits/skills)
 
-![](https://img.shields.io/github/stars/trailofbits/skills?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/trailofbits/skills?style=flat-square&label=⭐) · Found in 2 active sources
 
 by [Trail of Bits](https://github.com/trailofbits) - A very professional collection of over a dozen security-focused skills for code auditing and vulnerability detection. Includes skills for static analysis with CodeQL and Semgrep, variant analysis across codebases, fix verification, and differential code review.
 
@@ -817,7 +817,7 @@ by [Trail of Bits](https://github.com/trailofbits) - A very professional collect
 
 ### [WiGLE](https://wigle.net)
 
-appears in 2 lists
+Found in 2 active sources
 
 Wi-fi "wardriving" database. Contains a global map containing crowdsourced information on the location, name, and other properties of wi-fi networks. Software available to download to contribute data to the public infoset.
 
@@ -831,7 +831,7 @@ Wi-fi "wardriving" database. Contains a global map containing crowdsourced infor
 
 ### [x64dbg](https://x64dbg.com)
 
-appears in 2 lists
+Found in 2 active sources
 
 An open-source x64/x32 debugger for windows.
 

@@ -12,7 +12,7 @@ Herramientas que la comunidad considera default. Si no las conocés, valen la pe
 
 ### [beets](https://github.com/beetbox/beets)
 
-![](https://img.shields.io/github/stars/beetbox/beets?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/beetbox/beets?style=flat-square&label=⭐) · Found in 2 active sources
 
 A music library manager and [MusicBrainz](https://musicbrainz.org/) tagger.
 
@@ -26,7 +26,7 @@ A music library manager and [MusicBrainz](https://musicbrainz.org/) tagger.
 
 ### [Godot Engine](https://github.com/godotengine/godot)
 
-![](https://img.shields.io/github/stars/godotengine/godot?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/godotengine/godot?style=flat-square&label=⭐) · Found in 2 active sources
 
 _(label: good first issue)_ <br> 2D and 3D cross-platform game engine. Also has C# and Python code.
 
@@ -40,7 +40,7 @@ _(label: good first issue)_ <br> 2D and 3D cross-platform game engine. Also has 
 
 ### [Kodi](https://kodi.tv)
 
-aparece en 2 listas
+Found in 2 active sources
 
 Multimedia/Entertainment center, formerly known as XBMC. Runs on Android, BSD, Linux, macOS, iOS and Windows.
 
@@ -54,7 +54,7 @@ Multimedia/Entertainment center, formerly known as XBMC. Runs on Android, BSD, L
 
 ### [Lean](https://github.com/quantconnect/lean)
 
-![](https://img.shields.io/github/stars/quantconnect/lean?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/quantconnect/lean?style=flat-square&label=⭐) · Found in 2 active sources
 
 Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. https://www.quantconnect.com/lean/
 
@@ -68,7 +68,7 @@ Lean Engine is an open-source fully managed C# algorithmic trading engine built 
 
 ### [mpv](https://mpv.io)
 
-aparece en 2 listas
+Found in 2 active sources
 
 Free, open-source, and cross-platform media player. [![Open-Source Software][OSS Icon]](https://github.com/mpv-player/mpv) ![Freeware][Freeware Icon]
 
@@ -82,7 +82,7 @@ Free, open-source, and cross-platform media player. [![Open-Source Software][OSS
 
 ### [nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
 
-![](https://img.shields.io/github/stars/nautechsystems/nautilus_trader?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/nautechsystems/nautilus_trader?style=flat-square&label=⭐) · Found in 2 active sources
 
 `Python` `Rust` - A high-performance algorithmic trading platform and event-driven backtester.
 
@@ -96,7 +96,7 @@ Free, open-source, and cross-platform media player. [![Open-Source Software][OSS
 
 ### [qBittorrent](https://qbittorrent.org)
 
-aparece en 2 listas
+Found in 2 active sources
 
 A project aims to provide an open-source software alternative to µTorrent. [![Open-Source Software][OSS Icon]](https://github.com/qbittorrent/qBittorrent) ![Freeware][Freeware Icon]
 
@@ -110,7 +110,7 @@ A project aims to provide an open-source software alternative to µTorrent. [![O
 
 ### [QuantLib](https://github.com/lballabio/quantlib)
 
-![](https://img.shields.io/github/stars/lballabio/quantlib?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/lballabio/quantlib?style=flat-square&label=⭐) · Found in 2 active sources
 
 The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance.
 
@@ -124,7 +124,7 @@ The QuantLib project is aimed at providing a comprehensive software framework fo
 
 ### [Samba](https://samba.org)
 
-aparece en 2 listas
+Found in 2 active sources
 
 Samba is the standard Windows interoperability suite of programs for Linux and Unix. It provides secure, stable and fast file and print services for all clients using the SMB/CIFS protocol. `GPL-3.0` `C`
 
@@ -138,7 +138,7 @@ Samba is the standard Windows interoperability suite of programs for Linux and U
 
 ### [Syncthing](https://syncthing.net)
 
-aparece en 2 listas
+Found in 2 active sources
 
 Syncthing is an open source peer-to-peer file synchronisation tool.
 
@@ -159,7 +159,7 @@ Menos hype que las GEMs, pero confiables si caés en su caso de uso.
 
 ### [awesome](https://github.com/sindresorhus/awesome)
 
-![](https://img.shields.io/github/stars/sindresorhus/awesome?style=flat-square&label=⭐) · aparece en 4 listas
+![](https://img.shields.io/github/stars/sindresorhus/awesome?style=flat-square&label=⭐) · Found in 4 active sources
 
 zap: - A curated list of awesome lists.
 
@@ -173,7 +173,7 @@ zap: - A curated list of awesome lists.
 
 ### [RunJS](https://runjs.app)
 
-aparece en 3 listas
+Found in 3 active sources
 
 JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas or trying out new libraries.
 
@@ -187,7 +187,7 @@ JavaScript playground that evaluates your code as you type and gives instant fee
 
 ### [AFFiNE Community Edition](https://affine.pro)
 
-aparece en 2 listas
+Found in 2 active sources
 
 Next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, customizable and ready to use (alternative to Notion and Miro). )
 
@@ -201,7 +201,7 @@ Next-gen knowledge base that brings planning, sorting and creating all together.
 
 ### [croc](https://github.com/schollz/croc)
 
-![](https://img.shields.io/github/stars/schollz/croc?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/schollz/croc?style=flat-square&label=⭐) · Found in 2 active sources
 
 Easily and securely send files or folders from one computer to another.
 
@@ -215,7 +215,7 @@ Easily and securely send files or folders from one computer to another.
 
 ### [Deluge](https://deluge-torrent.org)
 
-aparece en 2 listas
+Found in 2 active sources
 
 Deluge is a lightweight, Free Software, cross-platform BitTorrent client. [![Open-Source Software][OSS Icon]](https://dev.deluge-torrent.org/wiki/Development) ![Freeware][Freeware Icon]
 
@@ -229,7 +229,7 @@ Deluge is a lightweight, Free Software, cross-platform BitTorrent client. [![Ope
 
 ### [Forensics](https://github.com/cugu/awesome-forensics)
 
-![](https://img.shields.io/github/stars/cugu/awesome-forensics?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/cugu/awesome-forensics?style=flat-square&label=⭐) · Found in 2 active sources
 
 Free (mostly open source) forensic analysis tools and resources.
 
@@ -243,7 +243,7 @@ Free (mostly open source) forensic analysis tools and resources.
 
 ### [Gokapi](https://github.com/forceu/gokapi)
 
-![](https://img.shields.io/github/stars/forceu/gokapi?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/forceu/gokapi?style=flat-square&label=⭐) · Found in 2 active sources
 
 Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files.
 
@@ -257,7 +257,7 @@ Lightweight server to share files, which expire after a set amount of downloads 
 
 ### [NewsBlur](https://newsblur.com)
 
-aparece en 2 listas
+Found in 2 active sources
 
 Personal news reader that brings people together to talk about the world. A new sound of an old instrument.
 
@@ -271,7 +271,7 @@ Personal news reader that brings people together to talk about the world. A new 
 
 ### [phpList](https://phplist.org)
 
-aparece en 2 listas
+Found in 2 active sources
 
 Newsletter and email marketing with advanced management of subscribers, bounces, and plugins.
 
@@ -285,7 +285,7 @@ Newsletter and email marketing with advanced management of subscribers, bounces,
 
 ### [Polaris](https://github.com/agersant/polaris)
 
-![](https://img.shields.io/github/stars/agersant/polaris?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/agersant/polaris?style=flat-square&label=⭐) · Found in 2 active sources
 
 Music browsing and streaming application optimized for large music collections, ease of use and high performance.
 
@@ -299,7 +299,7 @@ Music browsing and streaming application optimized for large music collections, 
 
 ### [Reeder 5](https://reederapp.com)
 
-aparece en 2 listas
+Found in 2 active sources
 
 News reader for Feedbin, Feedly, Feed Wrangler and so on. [![App Store][app-store Icon]](https://apps.apple.com/pl/app/reeder-5/id1529448980?platform=mac)
 
@@ -313,7 +313,7 @@ News reader for Feedbin, Feedly, Feed Wrangler and so on. [![App Store][app-stor
 
 ### [StockSharp](https://github.com/stocksharp/stocksharp)
 
-![](https://img.shields.io/github/stars/stocksharp/stocksharp?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/stocksharp/stocksharp?style=flat-square&label=⭐) · Found in 2 active sources
 
 `CSharp` - Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins, and options).
 
@@ -327,7 +327,7 @@ News reader for Feedbin, Feedly, Feed Wrangler and so on. [![App Store][app-stor
 
 ### [Super Productivity](https://super-productivity.com)
 
-aparece en 2 listas
+Found in 2 active sources
 
 Task manager with timeboxing and time tracking. [![Open-Source Software][OSS Icon]](https://github.com/johannesjo/super-productivity) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/super-productivity/id1482572463?platform=mac)
 
@@ -341,7 +341,7 @@ Task manager with timeboxing and time tracking. [![Open-Source Software][OSS Ico
 
 ### [SVGo](https://github.com/ajstarks/svgo)
 
-![](https://img.shields.io/github/stars/ajstarks/svgo?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/ajstarks/svgo?style=flat-square&label=⭐) · Found in 2 active sources
 
 The Go Language library for SVG generation.
 
@@ -355,7 +355,7 @@ The Go Language library for SVG generation.
 
 ### [tldr-pages](https://github.com/tldr-pages/tldr)
 
-![](https://img.shields.io/github/stars/tldr-pages/tldr?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/tldr-pages/tldr?style=flat-square&label=⭐) · Found in 2 active sources
 
 _(label: help-wanted)_ <br> Collaborative cheatsheets for console commands.
 
@@ -369,7 +369,7 @@ _(label: help-wanted)_ <br> Collaborative cheatsheets for console commands.
 
 ### [uk-company-number](https://github.com/borschai/uk-company-number)
 
-![](https://img.shields.io/github/stars/borschai/uk-company-number?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/borschai/uk-company-number?style=flat-square&label=⭐) · Found in 2 active sources
 
 `Python` - Validate, format, and identify UK Companies House company numbers. Supports all 27 prefixes. [PyPI](https://pypi.org/project/uk-company-number/)
 
@@ -383,7 +383,7 @@ _(label: help-wanted)_ <br> Collaborative cheatsheets for console commands.
 
 ### [uk-sic-codes](https://github.com/borschai/uk-sic-codes)
 
-![](https://img.shields.io/github/stars/borschai/uk-sic-codes?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/borschai/uk-sic-codes?style=flat-square&label=⭐) · Found in 2 active sources
 
 `Python` - UK SIC 2007 industry classification code lookup, search, and validation. 731 codes, 21 sections. [PyPI](https://pypi.org/project/uk-sic-codes/)
 

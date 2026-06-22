@@ -12,7 +12,7 @@ Herramientas que la comunidad considera default. Si no las conocés, valen la pe
 
 ### [Jest](https://github.com/facebook/jest)
 
-![](https://img.shields.io/github/stars/facebook/jest?style=flat-square&label=⭐) · 🔥 **aparece en 5 listas**
+![](https://img.shields.io/github/stars/facebook/jest?style=flat-square&label=⭐) · 🔥 **Found in 5 active sources**
 
 _(label: good first issue)_ <br> A complete and easy to set up JavaScript testing solution.
 
@@ -26,7 +26,7 @@ _(label: good first issue)_ <br> A complete and easy to set up JavaScript testin
 
 ### [Next.js](https://github.com/vercel/next.js)
 
-![](https://img.shields.io/github/stars/vercel/next.js?style=flat-square&label=⭐) · 🔥 **aparece en 5 listas**
+![](https://img.shields.io/github/stars/vercel/next.js?style=flat-square&label=⭐) · 🔥 **Found in 5 active sources**
 
 _(label: good first issue)_ <br> A minimalistic framework for universal server-rendered React applications
 
@@ -40,7 +40,7 @@ _(label: good first issue)_ <br> A minimalistic framework for universal server-r
 
 ### [Netron](https://github.com/lutzroeder/netron)
 
-![](https://img.shields.io/github/stars/lutzroeder/netron?style=flat-square&label=⭐) · aparece en 4 listas
+![](https://img.shields.io/github/stars/lutzroeder/netron?style=flat-square&label=⭐) · Found in 4 active sources
 
 - Netron is a viewer for neural network, deep learning and machine learning models.
 
@@ -54,7 +54,7 @@ _(label: good first issue)_ <br> A minimalistic framework for universal server-r
 
 ### [swiper](https://github.com/nolimits4web/swiper)
 
-![](https://img.shields.io/github/stars/nolimits4web/swiper?style=flat-square&label=⭐) · aparece en 4 listas
+![](https://img.shields.io/github/stars/nolimits4web/swiper?style=flat-square&label=⭐) · Found in 4 active sources
 
 [docs](https://swiperjs.com/react) - The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
 
@@ -68,7 +68,7 @@ _(label: good first issue)_ <br> A minimalistic framework for universal server-r
 
 ### [Visual Studio Code](https://github.com/microsoft/vscode)
 
-![](https://img.shields.io/github/stars/microsoft/vscode?style=flat-square&label=⭐) · aparece en 4 listas
+![](https://img.shields.io/github/stars/microsoft/vscode?style=flat-square&label=⭐) · Found in 4 active sources
 
 New type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. Code provides comprehensive editing and debugging support, an extensibility model, and lightweight integration with existing tools.
 
@@ -82,7 +82,7 @@ New type of tool that combines the simplicity of a code editor with what develop
 
 ### [Vite](https://github.com/vitejs/vite)
 
-![](https://img.shields.io/github/stars/vitejs/vite?style=flat-square&label=⭐) · aparece en 4 listas
+![](https://img.shields.io/github/stars/vitejs/vite?style=flat-square&label=⭐) · Found in 4 active sources
 
 _(label: good first issue)_ <br> Next generation frontend tooling. It's fast! Alternative to Create React App
 
@@ -96,7 +96,7 @@ _(label: good first issue)_ <br> Next generation frontend tooling. It's fast! Al
 
 ### [Babel](https://github.com/babel/babel)
 
-![](https://img.shields.io/github/stars/babel/babel?style=flat-square&label=⭐) · aparece en 3 listas
+![](https://img.shields.io/github/stars/babel/babel?style=flat-square&label=⭐) · Found in 3 active sources
 
 _(label: good first issue)_ <br> A compiler for writing next generation JavaScript.
 
@@ -110,7 +110,7 @@ _(label: good first issue)_ <br> A compiler for writing next generation JavaScri
 
 ### [D3js](https://d3js.org)
 
-aparece en 3 listas
+Found in 3 active sources
 
 is a powerful data visualization javascript library.
 
@@ -124,7 +124,7 @@ is a powerful data visualization javascript library.
 
 ### [ESLint](https://github.com/eslint/eslint)
 
-![](https://img.shields.io/github/stars/eslint/eslint?style=flat-square&label=⭐) · aparece en 3 listas
+![](https://img.shields.io/github/stars/eslint/eslint?style=flat-square&label=⭐) · Found in 3 active sources
 
 _(label: good first issue)_ <br> A fully pluggable tool for identifying and reporting on patterns in JavaScript.
 
@@ -138,7 +138,7 @@ _(label: good first issue)_ <br> A fully pluggable tool for identifying and repo
 
 ### [grpc](https://github.com/grpc/grpc)
 
-![](https://img.shields.io/github/stars/grpc/grpc?style=flat-square&label=⭐) · aparece en 3 listas
+![](https://img.shields.io/github/stars/grpc/grpc?style=flat-square&label=⭐) · Found in 3 active sources
 
 Remote Procedure Calls (RPCs) provide a useful abstraction for building distributed applications and services. The libraries in this repository provide a concrete implementation of the gRPC protocol, layered over HTTP/2. These libraries enable communication between clients and servers using any combination of the supported languages.
 
@@ -152,7 +152,7 @@ Remote Procedure Calls (RPCs) provide a useful abstraction for building distribu
 
 ### [query](https://github.com/tanstack/query)
 
-![](https://img.shields.io/github/stars/tanstack/query?style=flat-square&label=⭐) · aparece en 3 listas
+![](https://img.shields.io/github/stars/tanstack/query?style=flat-square&label=⭐) · Found in 3 active sources
 
 Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
 
@@ -166,7 +166,7 @@ Powerful asynchronous state management, server-state utilities and data fetching
 
 ### [React Native](https://github.com/facebook/react-native)
 
-![](https://img.shields.io/github/stars/facebook/react-native?style=flat-square&label=⭐) · aparece en 3 listas
+![](https://img.shields.io/github/stars/facebook/react-native?style=flat-square&label=⭐) · Found in 3 active sources
 
 _(label: Good-first-issue)_ <br> A framework for building native apps with React.
 
@@ -180,7 +180,7 @@ _(label: Good-first-issue)_ <br> A framework for building native apps with React
 
 ### [Vue.js](https://github.com/vuejs/vue)
 
-![](https://img.shields.io/github/stars/vuejs/vue?style=flat-square&label=⭐) · aparece en 3 listas
+![](https://img.shields.io/github/stars/vuejs/vue?style=flat-square&label=⭐) · Found in 3 active sources
 
 _(label: good first issue)_ <br> The Progressive JavaScript Framework.
 
@@ -194,7 +194,7 @@ _(label: good first issue)_ <br> The Progressive JavaScript Framework.
 
 ### [framer-motion](https://github.com/framer/motion)
 
-![](https://img.shields.io/github/stars/framer/motion?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/framer/motion?style=flat-square&label=⭐) · Found in 2 active sources
 
 Open source, production-ready animation and gesture library for React
 
@@ -208,7 +208,7 @@ Open source, production-ready animation and gesture library for React
 
 ### [GoAccess](https://goaccess.io)
 
-aparece en 2 listas
+Found in 2 active sources
 
 Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. `MIT` `C`
 
@@ -222,7 +222,7 @@ Real-time web log analyzer and interactive viewer that runs in a terminal or thr
 
 ### [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)
 
-![](https://img.shields.io/github/stars/hasura/graphql-engine?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/hasura/graphql-engine?style=flat-square&label=⭐) · Found in 2 active sources
 
 _(label: good first issue)_ <br> Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 
@@ -236,7 +236,7 @@ _(label: good first issue)_ <br> Blazing fast, instant realtime GraphQL APIs on 
 
 ### [hyperium/hyper](https://github.com/hyperium/hyper)
 
-![](https://img.shields.io/github/stars/hyperium/hyper?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/hyperium/hyper?style=flat-square&label=⭐) · Found in 2 active sources
 
 an HTTP implementation [](https://github.com/hyperium/hyper/actions?query=workflow%3ACI)
 
@@ -250,7 +250,7 @@ an HTTP implementation [](https://github.com/hyperium/hyper/actions?query=workfl
 
 ### [Leaflet](https://github.com/leaflet/leaflet)
 
-![](https://img.shields.io/github/stars/leaflet/leaflet?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/leaflet/leaflet?style=flat-square&label=⭐) · Found in 2 active sources
 
 _(label: good first issue)_ <br> JavaScript library for mobile-friendly interactive maps.
 
@@ -264,7 +264,7 @@ _(label: good first issue)_ <br> JavaScript library for mobile-friendly interact
 
 ### [Nuxt.js](https://github.com/nuxt/nuxt.js)
 
-![](https://img.shields.io/github/stars/nuxt/nuxt.js?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/nuxt/nuxt.js?style=flat-square&label=⭐) · Found in 2 active sources
 
 Minimalistic framework for server-rendered Vue.js apps.
 
@@ -278,7 +278,7 @@ Minimalistic framework for server-rendered Vue.js apps.
 
 ### [React](https://github.com/facebook/react)
 
-![](https://img.shields.io/github/stars/facebook/react?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/facebook/react?style=flat-square&label=⭐) · Found in 2 active sources
 
 _(label: good first issue)_ <br> A declarative, efficient, and flexible JavaScript library for building user interfaces.
 
@@ -292,7 +292,7 @@ _(label: good first issue)_ <br> A declarative, efficient, and flexible JavaScri
 
 ### [Safari](https://apple.com/safari)
 
-aparece en 2 listas
+Found in 2 active sources
 
 Native browser for Macs. ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/safari-extensions#readme)
 
@@ -306,7 +306,7 @@ Native browser for Macs. ![Freeware][Freeware Icon] [![Awesome List][awesome-lis
 
 ### [scrapy](https://github.com/scrapy/scrapy)
 
-![](https://img.shields.io/github/stars/scrapy/scrapy?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/scrapy/scrapy?style=flat-square&label=⭐) · Found in 2 active sources
 
 _(label: good first issue)_ <br> A fast high-level web crawling & scraping framework for Python.
 
@@ -320,7 +320,7 @@ _(label: good first issue)_ <br> A fast high-level web crawling & scraping frame
 
 ### [Storybook JS](https://github.com/storybookjs/storybook)
 
-![](https://img.shields.io/github/stars/storybookjs/storybook?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/storybookjs/storybook?style=flat-square&label=⭐) · Found in 2 active sources
 
 _(label: good first issue)_ <br> Storybook is a frontend workshop for building UI components and pages in isolation.
 
@@ -334,7 +334,7 @@ _(label: good first issue)_ <br> Storybook is a frontend workshop for building U
 
 ### [svelte](https://github.com/sveltejs/svelte)
 
-![](https://img.shields.io/github/stars/sveltejs/svelte?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/sveltejs/svelte?style=flat-square&label=⭐) · Found in 2 active sources
 
 Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
 
@@ -348,7 +348,7 @@ Svelte is a new way to build web applications. It's a compiler that takes your d
 
 ### [TrailBase](https://trailbase.io)
 
-aparece en 2 listas
+Found in 2 active sources
 
 Open, sub-millisecond, single-executable FireBase alternative with type-safe REST & realtime APIs, built-in JS/TS runtime, auth & admin UI. )
 
@@ -369,7 +369,7 @@ Menos hype que las GEMs, pero confiables si caés en su caso de uso.
 
 ### [Bit](https://github.com/teambit/bit)
 
-![](https://img.shields.io/github/stars/teambit/bit?style=flat-square&label=⭐) · aparece en 4 listas
+![](https://img.shields.io/github/stars/teambit/bit?style=flat-square&label=⭐) · Found in 4 active sources
 
 Manage and reuse `vue` components between projects. Easily isolate and share components from any project without changing its source code, organize curated collections and install in different projects.
 
@@ -383,7 +383,7 @@ Manage and reuse `vue` components between projects. Easily isolate and share com
 
 ### [Gatsby.js](https://github.com/gatsbyjs/gatsby)
 
-![](https://img.shields.io/github/stars/gatsbyjs/gatsby?style=flat-square&label=⭐) · aparece en 4 listas
+![](https://img.shields.io/github/stars/gatsbyjs/gatsby?style=flat-square&label=⭐) · Found in 4 active sources
 
 _(label: good first issue)_ <br> Build blazing fast, modern apps and websites with React.
 
@@ -397,7 +397,7 @@ _(label: good first issue)_ <br> Build blazing fast, modern apps and websites wi
 
 ### [tsParticles](https://github.com/matteobruni/tsparticles)
 
-![](https://img.shields.io/github/stars/matteobruni/tsparticles?style=flat-square&label=⭐) · aparece en 4 listas
+![](https://img.shields.io/github/stars/matteobruni/tsparticles?style=flat-square&label=⭐) · Found in 4 active sources
 
 A lightweight Javascript library to easily create highly configurable and interactive particle animations
 
@@ -411,7 +411,7 @@ A lightweight Javascript library to easily create highly configurable and intera
 
 ### [Amplication](https://github.com/amplication/amplication)
 
-![](https://img.shields.io/github/stars/amplication/amplication?style=flat-square&label=⭐) · aparece en 3 listas
+![](https://img.shields.io/github/stars/amplication/amplication?style=flat-square&label=⭐) · Found in 3 active sources
 
 _(label: good first issue)_ <br> Amplication is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 
@@ -425,7 +425,7 @@ _(label: good first issue)_ <br> Amplication is an open-source development tool.
 
 ### [Ghost](https://github.com/tryghost/ghost)
 
-![](https://img.shields.io/github/stars/tryghost/ghost?style=flat-square&label=⭐) · aparece en 3 listas
+![](https://img.shields.io/github/stars/tryghost/ghost?style=flat-square&label=⭐) · Found in 3 active sources
 
 _(label: good first issue)_ <br> Just a blogging platform
 
@@ -439,7 +439,7 @@ _(label: good first issue)_ <br> Just a blogging platform
 
 ### [juspay/neurolink](https://github.com/juspay/neurolink)
 
-![](https://img.shields.io/github/stars/juspay/neurolink?style=flat-square&label=⭐) · aparece en 3 listas
+![](https://img.shields.io/github/stars/juspay/neurolink?style=flat-square&label=⭐) · Found in 3 active sources
 
 📇 ☁️ 🏠 🍎 🪟 🐧 - Making enterprise AI infrastructure universally accessible. Edge-first platform unifying 12 providers and 100+ models with multi-agent orchestration, HITL workflows, guardrails middleware, and context summarization.
 
@@ -453,7 +453,7 @@ _(label: good first issue)_ <br> Just a blogging platform
 
 ### [mkosir/react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt)
 
-![](https://img.shields.io/github/stars/mkosir/react-parallax-tilt?style=flat-square&label=⭐) · aparece en 3 listas
+![](https://img.shields.io/github/stars/mkosir/react-parallax-tilt?style=flat-square&label=⭐) · Found in 3 active sources
 
 GIF demo. Multiple badges. Feature list. Great live demo with code examples. Easy to follow instructions for local development set up.
 
@@ -467,7 +467,7 @@ GIF demo. Multiple badges. Feature list. Great live demo with code examples. Eas
 
 ### [schedule-x](https://github.com/schedule-x/schedule-x)
 
-![](https://img.shields.io/github/stars/schedule-x/schedule-x?style=flat-square&label=⭐) · aparece en 3 listas
+![](https://img.shields.io/github/stars/schedule-x/schedule-x?style=flat-square&label=⭐) · Found in 3 active sources
 
 Material design event calendar and date picker components. Demo site: https://schedule-x.dev/
 
@@ -481,7 +481,7 @@ Material design event calendar and date picker components. Demo site: https://sc
 
 ### [Vest](https://github.com/ealush/vest)
 
-![](https://img.shields.io/github/stars/ealush/vest?style=flat-square&label=⭐) · aparece en 3 listas
+![](https://img.shields.io/github/stars/ealush/vest?style=flat-square&label=⭐) · Found in 3 active sources
 
 _(label: good first issue)_ <br> Validations framework inspired by unit testing frameworks.
 
@@ -495,7 +495,7 @@ _(label: good first issue)_ <br> Validations framework inspired by unit testing 
 
 ### [Vitest](https://github.com/vitest-dev/vitest)
 
-![](https://img.shields.io/github/stars/vitest-dev/vitest?style=flat-square&label=⭐) · aparece en 3 listas
+![](https://img.shields.io/github/stars/vitest-dev/vitest?style=flat-square&label=⭐) · Found in 3 active sources
 
 _(label: good first issue)_ <br> A blazing fast unit test framework powered by Vite.
 
@@ -509,7 +509,7 @@ _(label: good first issue)_ <br> A blazing fast unit test framework powered by V
 
 ### [Vivaldi](https://vivaldi.com)
 
-aparece en 3 listas
+Found in 3 active sources
 
 The browser that puts you in control. ![Freeware][Freeware Icon]
 
@@ -523,7 +523,7 @@ The browser that puts you in control. ![Freeware][Freeware Icon]
 
 ### [webdriver.io](https://github.com/webdriverio/webdriverio)
 
-![](https://img.shields.io/github/stars/webdriverio/webdriverio?style=flat-square&label=⭐) · aparece en 3 listas
+![](https://img.shields.io/github/stars/webdriverio/webdriverio?style=flat-square&label=⭐) · Found in 3 active sources
 
 _(label: first-timers-only)_ <br> Next-gen browser and mobile automation test framework for Node.js
 
@@ -537,7 +537,7 @@ _(label: first-timers-only)_ <br> Next-gen browser and mobile automation test fr
 
 ### [biome](https://github.com/biomejs/biome)
 
-![](https://img.shields.io/github/stars/biomejs/biome?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/biomejs/biome?style=flat-square&label=⭐) · Found in 2 active sources
 
 A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP
 
@@ -551,7 +551,7 @@ A toolchain for web projects, aimed to provide functionalities to maintain them.
 
 ### [Certificate Ripper](https://github.com/hakky54/certificate-ripper)
 
-![](https://img.shields.io/github/stars/hakky54/certificate-ripper?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/hakky54/certificate-ripper?style=flat-square&label=⭐) · Found in 2 active sources
 
 CLI tool and library for extracting and exporting server certificates from HTTPS endpoints.
 
@@ -565,7 +565,7 @@ CLI tool and library for extracting and exporting server certificates from HTTPS
 
 ### [Fastify](https://github.com/fastify/fastify)
 
-![](https://img.shields.io/github/stars/fastify/fastify?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/fastify/fastify?style=flat-square&label=⭐) · Found in 2 active sources
 
 _(label: good first issue)_ <br> Fast and low overhead web framework, for Node.js.
 
@@ -579,7 +579,7 @@ _(label: good first issue)_ <br> Fast and low overhead web framework, for Node.j
 
 ### [Formily](https://github.com/alibaba/formily)
 
-![](https://img.shields.io/github/stars/alibaba/formily?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/alibaba/formily?style=flat-square&label=⭐) · Found in 2 active sources
 
 High performance, extensible, and Typescript friendly
 
@@ -593,7 +593,7 @@ High performance, extensible, and Typescript friendly
 
 ### [gofiber/fiber](https://github.com/gofiber/fiber)
 
-![](https://img.shields.io/github/stars/gofiber/fiber?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/gofiber/fiber?style=flat-square&label=⭐) · Found in 2 active sources
 
 Clean project logo. Useful badges and links (languages switcher, code style, test cover, docs, Discord channel). Clear description of what the project does with quickstart, benchmark charts, well-documented code examples (with the ability to hide long content), project philosophy notes ("the why of project"), tables with project addons, list of contributors, star growth statistics, and more.
 
@@ -607,7 +607,7 @@ Clean project logo. Useful badges and links (languages switcher, code style, tes
 
 ### [grommet](https://github.com/grommet/grommet)
 
-![](https://img.shields.io/github/stars/grommet/grommet?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/grommet/grommet?style=flat-square&label=⭐) · Found in 2 active sources
 
 _(label: good first issue)_ <br> a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 
@@ -621,7 +621,7 @@ _(label: good first issue)_ <br> a react-based framework that provides accessibi
 
 ### [material-ui](https://github.com/mui/material-ui)
 
-![](https://img.shields.io/github/stars/mui/material-ui?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/mui/material-ui?style=flat-square&label=⭐) · Found in 2 active sources
 
 _(label: good first issue)_ <br> React components for faster and easier web development. Build your own design system, or start with Material Design.
 
@@ -635,7 +635,7 @@ _(label: good first issue)_ <br> React components for faster and easier web deve
 
 ### [OctoLinker](https://github.com/octolinker/octolinker)
 
-![](https://img.shields.io/github/stars/octolinker/octolinker?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/octolinker/octolinker?style=flat-square&label=⭐) · Found in 2 active sources
 
 ice_cube: - A browser extension for GitHub that makes the image name in a `Dockerfile` clickable and redirect you to the related Docker Hub page.
 
@@ -649,7 +649,7 @@ ice_cube: - A browser extension for GitHub that makes the image name in a `Docke
 
 ### [pydantic-ai](https://github.com/pydantic/pydantic-ai)
 
-![](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=flat-square&label=⭐) · Found in 2 active sources
 
 A Python agent framework for building generative AI applications with structured schemas.
 
@@ -663,7 +663,7 @@ A Python agent framework for building generative AI applications with structured
 
 ### [Python Babel](https://github.com/python-babel/babel)
 
-![](https://img.shields.io/github/stars/python-babel/babel?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/python-babel/babel?style=flat-square&label=⭐) · Found in 2 active sources
 
 _(label: difficulty/low)_ <br> The Python Internationalization Library.
 
@@ -677,7 +677,7 @@ _(label: difficulty/low)_ <br> The Python Internationalization Library.
 
 ### [react-relay](https://github.com/facebook/relay)
 
-![](https://img.shields.io/github/stars/facebook/relay?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/facebook/relay?style=flat-square&label=⭐) · Found in 2 active sources
 
 Relay is a JavaScript framework for building data-driven React applications.
 
@@ -691,7 +691,7 @@ Relay is a JavaScript framework for building data-driven React applications.
 
 ### [Superdesk](https://superdesk.org)
 
-aparece en 2 listas
+Found in 2 active sources
 
 `⚠` - End-to-end news creation, production, curation, distribution, and publishing platform. `AGPL-3.0` `Docker/Python/PHP`
 
@@ -705,7 +705,7 @@ aparece en 2 listas
 
 ### [svenstaro/miniserve](https://github.com/svenstaro/miniserve)
 
-![](https://img.shields.io/github/stars/svenstaro/miniserve?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/svenstaro/miniserve?style=flat-square&label=⭐) · Found in 2 active sources
 
 A small, self-contained cross-platform CLI tool that allows you to just grab the binary and serve some file(s) via HTTP [](https://github.com/svenstaro/miniserve/actions)
 
@@ -719,7 +719,7 @@ A small, self-contained cross-platform CLI tool that allows you to just grab the
 
 ### [tencent/tquic](https://github.com/tencent/tquic)
 
-![](https://img.shields.io/github/stars/tencent/tquic?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/tencent/tquic?style=flat-square&label=⭐) · Found in 2 active sources
 
 A high-performance, lightweight, and cross-platform QUIC library [](https://github.com/Tencent/tquic/actions/workflows/rust.yml)
 
@@ -733,7 +733,7 @@ A high-performance, lightweight, and cross-platform QUIC library [](https://gith
 
 ### [txn2/kubefwd](https://github.com/txn2/kubefwd)
 
-![](https://img.shields.io/github/stars/txn2/kubefwd?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/txn2/kubefwd?style=flat-square&label=⭐) · Found in 2 active sources
 
 🏎️ 🏠 - Kubernetes bulk port forwarding with service discovery, /etc/hosts management, traffic monitoring, and pod log streaming
 
@@ -747,7 +747,7 @@ A high-performance, lightweight, and cross-platform QUIC library [](https://gith
 
 ### [virtua](https://github.com/inokawa/virtua)
 
-![](https://img.shields.io/github/stars/inokawa/virtua?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/inokawa/virtua?style=flat-square&label=⭐) · Found in 2 active sources
 
 A zero-config, fast and small (~3kB) virtual list component for React, Vue and Solid.
 

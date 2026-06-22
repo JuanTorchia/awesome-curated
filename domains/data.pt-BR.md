@@ -2,7 +2,7 @@
 
 <p><sub>← [Voltar ao main](../README.pt-BR.md)</sub></p>
 
-**35 GEMs · 41 Vale a pena testar**
+**33 GEMs · 41 Vale a pena testar**
 
 ---
 
@@ -12,7 +12,7 @@ Ferramentas que a comunidade considera default. Se você não conhece, vale expl
 
 ### [matplotlib](https://github.com/matplotlib/matplotlib)
 
-![](https://img.shields.io/github/stars/matplotlib/matplotlib?style=flat-square&label=⭐) · aparece em 3 listas
+![](https://img.shields.io/github/stars/matplotlib/matplotlib?style=flat-square&label=⭐) · Found in 3 active sources
 
 - A Python 2D plotting library which produces publication-quality figures in a variety of hardcopy formats and interactive environments across platforms.
 
@@ -26,7 +26,7 @@ Ferramentas que a comunidade considera default. Se você não conhece, vale expl
 
 ### [recharts](https://github.com/recharts/recharts)
 
-![](https://img.shields.io/github/stars/recharts/recharts?style=flat-square&label=⭐) · aparece em 3 listas
+![](https://img.shields.io/github/stars/recharts/recharts?style=flat-square&label=⭐) · Found in 3 active sources
 
 Redefined chart library built with React and D3.
 
@@ -40,7 +40,7 @@ Redefined chart library built with React and D3.
 
 ### [Streamlit](https://github.com/streamlit/streamlit)
 
-![](https://img.shields.io/github/stars/streamlit/streamlit?style=flat-square&label=⭐) · aparece em 3 listas
+![](https://img.shields.io/github/stars/streamlit/streamlit?style=flat-square&label=⭐) · Found in 3 active sources
 
 - Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts. It supports hot-reloading, so your app updates live as you edit and save your file.
 
@@ -54,7 +54,7 @@ Redefined chart library built with React and D3.
 
 ### [ActiveMQ](https://activemq.apache.org)
 
-aparece em 2 listas
+Found in 2 active sources
 
 Java message broker.
 
@@ -68,7 +68,7 @@ Java message broker.
 
 ### [Apache Airflow](https://github.com/apache/airflow)
 
-![](https://img.shields.io/github/stars/apache/airflow?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/apache/airflow?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Data Pipeline framework built in Python, including scheduler, DAG definition and a UI for visualisation.
 
@@ -82,7 +82,7 @@ Java message broker.
 
 ### [Apache ECharts](https://github.com/apache/echarts)
 
-![](https://img.shields.io/github/stars/apache/echarts?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/apache/echarts?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Apache ECharts is a powerful, interactive charting and data visualization library for browser.
 
@@ -96,7 +96,7 @@ Java message broker.
 
 ### [Chart.js](https://chartjs.org)
 
-aparece em 2 listas
+Found in 2 active sources
 
 a javascript library that allows you to create charts easly
 
@@ -110,7 +110,7 @@ a javascript library that allows you to create charts easly
 
 ### [cleanlab](https://github.com/cleanlab/cleanlab)
 
-![](https://img.shields.io/github/stars/cleanlab/cleanlab?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/cleanlab/cleanlab?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Python library for data-centric AI. Can automatically: find mislabeled data, detect outliers, estimate consensus + annotator-quality for multi-annotator datasets, suggest which data is best to (re)label next.
 
@@ -124,7 +124,7 @@ a javascript library that allows you to create charts easly
 
 ### [Dask](https://github.com/dask/dask)
 
-![](https://img.shields.io/github/stars/dask/dask?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/dask/dask?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Distributed parallel processing framework for Pandas and NumPy computations.
 
@@ -138,7 +138,7 @@ a javascript library that allows you to create charts easly
 
 ### [DataFrames](https://github.com/juliadata/dataframes.jl)
 
-![](https://img.shields.io/github/stars/juliadata/dataframes.jl?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/juliadata/dataframes.jl?style=flat-square&label=⭐) · Found in 2 active sources
 
 library for working with tabular data in Julia.
 
@@ -152,7 +152,7 @@ library for working with tabular data in Julia.
 
 ### [DataGrip](https://jetbrains.com/datagrip)
 
-aparece em 2 listas
+Found in 2 active sources
 
 DataGrip is a cross-platform IDE that is aimed at DBAs and developers working with SQL databases. It has built-in drivers that support DB2, Derby, H2, HSQLDB, MySQL, Oracle, PostgreSQL, SQL Server, Sqlite and Sybase.
 
@@ -166,7 +166,7 @@ DataGrip is a cross-platform IDE that is aimed at DBAs and developers working wi
 
 ### [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)
 
-![](https://img.shields.io/github/stars/dbt-labs/dbt-core?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/dbt-labs/dbt-core?style=flat-square&label=⭐) · Found in 2 active sources
 
 Project banner, super clear description (friendly to people brand new to the product), screenshot of the docs the tool generates, and concise links to other comprehensive pages explaining Getting Started, Joining the dbt Community, Bug Reports, Code Contribution, and Code of Conduct
 
@@ -180,7 +180,7 @@ Project banner, super clear description (friendly to people brand new to the pro
 
 ### [Druid](https://druid.apache.org)
 
-aparece em 2 listas
+Found in 2 active sources
 
 Distributed, column-oriented, real-time analytics data store.
 
@@ -194,7 +194,7 @@ Distributed, column-oriented, real-time analytics data store.
 
 ### [edgartools](https://github.com/dgunning/edgartools)
 
-![](https://img.shields.io/github/stars/dgunning/edgartools?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/dgunning/edgartools?style=flat-square&label=⭐) · Found in 2 active sources
 
 `Python` - AI-native SEC EDGAR library with XBRL financials, clean text extraction, 17+ typed forms, and pandas DataFrames.
 
@@ -208,7 +208,7 @@ Distributed, column-oriented, real-time analytics data store.
 
 ### [etcd](https://github.com/etcd-io/etcd)
 
-![](https://img.shields.io/github/stars/etcd-io/etcd?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/etcd-io/etcd?style=flat-square&label=⭐) · Found in 2 active sources
 
 Distributed reliable key-value store for the most critical data of a distributed system by [etcd-io](https://github.com/etcd-io) (former part of CoreOS).
 
@@ -222,7 +222,7 @@ Distributed reliable key-value store for the most critical data of a distributed
 
 ### [ExifTool](https://sno.phy.queensu.ca/~phil/exiftool)
 
-aparece em 2 listas
+Found in 2 active sources
 
 Platform-independent Perl library plus a command-line application for reading, writing and editing meta information in a wide variety of files.
 
@@ -236,7 +236,7 @@ Platform-independent Perl library plus a command-line application for reading, w
 
 ### [Flink](https://flink.apache.org)
 
-aparece em 2 listas
+Found in 2 active sources
 
 Open source platform for distributed stream and batch data processing.
 
@@ -250,7 +250,7 @@ Open source platform for distributed stream and batch data processing.
 
 ### [ggplot2](https://ggplot2.tidyverse.org)
 
-aparece em 2 listas
+Found in 2 active sources
 
 A data visualization package based on the grammar of graphics.
 
@@ -264,7 +264,7 @@ A data visualization package based on the grammar of graphics.
 
 ### [Kubo](https://github.com/ipfs/kubo)
 
-![](https://img.shields.io/github/stars/ipfs/kubo?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/ipfs/kubo?style=flat-square&label=⭐) · Found in 2 active sources
 
 Implementation of IPFS, a global, versioned, peer-to-peer filesystem that seeks to connect all computing devices with the same system of files.
 
@@ -278,7 +278,7 @@ Implementation of IPFS, a global, versioned, peer-to-peer filesystem that seeks 
 
 ### [numpy](https://numpy.org)
 
-aparece em 2 listas
+Found in 2 active sources
 
 `Python` - NumPy is the fundamental package for scientific computing with Python. [GitHub](https://github.com/numpy/numpy)
 
@@ -292,7 +292,7 @@ aparece em 2 listas
 
 ### [OpenStreetMap](https://openstreetmap.org)
 
-aparece em 2 listas
+Found in 2 active sources
 
 Collaborative project to create a free editable map of the world. )
 
@@ -306,7 +306,7 @@ Collaborative project to create a free editable map of the world. )
 
 ### [pandas](https://github.com/pandas-dev/pandas)
 
-![](https://img.shields.io/github/stars/pandas-dev/pandas?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/pandas-dev/pandas?style=flat-square&label=⭐) · Found in 2 active sources
 
 _(label: good first issue)_ <br> Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 
@@ -318,23 +318,9 @@ _(label: good first issue)_ <br> Flexible and powerful data analysis / manipulat
 
 ---
 
-### [pandas](https://pandas.pydata.org)
-
-aparece em 2 listas
-
-`Python` - pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language. [GitHub](https://github.com/pandas-dev/pandas)
-
-> **Análise IA:** Librería de estructuras de datos y análisis para Python (DataFrames, Series). Imprescindible en ciencia de datos, estándar de 20 años. Ningún proyecto Python data-heavy prescinde de pandas.
-
-**Pontos fortes:** _API intuitiva, comunidad gigante_ · _Rendimiento sólido con C backend, integración perfecto con NumPy/Matplotlib_
-
-**Tags:** `dataframe` `data-analysis` `python` `performance`
-
----
-
 ### [pgcli](https://github.com/dbcli/pgcli)
 
-![](https://img.shields.io/github/stars/dbcli/pgcli?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/dbcli/pgcli?style=flat-square&label=⭐) · Found in 2 active sources
 
 Postgres client with autocompletion and syntax highlighting.
 
@@ -348,7 +334,7 @@ Postgres client with autocompletion and syntax highlighting.
 
 ### [Plotly](https://github.com/plotly/plotly.py)
 
-![](https://img.shields.io/github/stars/plotly/plotly.py?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/plotly/plotly.py?style=flat-square&label=⭐) · Found in 2 active sources
 
 - An interactive, open source, and browser-based graphing library for Python.
 
@@ -362,7 +348,7 @@ Postgres client with autocompletion and syntax highlighting.
 
 ### [pola-rs/polars](https://github.com/pola-rs/polars)
 
-![](https://img.shields.io/github/stars/pola-rs/polars?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/pola-rs/polars?style=flat-square&label=⭐) · Found in 2 active sources
 
 Fast feature complete DataFrame library [](https://github.com/pola-rs/polars/actions)
 
@@ -376,7 +362,7 @@ Fast feature complete DataFrame library [](https://github.com/pola-rs/polars/act
 
 ### [protobuf](https://github.com/protocolbuffers/protobuf)
 
-![](https://img.shields.io/github/stars/protocolbuffers/protobuf?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/protocolbuffers/protobuf?style=flat-square&label=⭐) · Found in 2 active sources
 
 Protocol Buffers - Google's data interchange format. [BSD]
 
@@ -390,7 +376,7 @@ Protocol Buffers - Google's data interchange format. [BSD]
 
 ### [Redis](https://github.com/redis/redis)
 
-![](https://img.shields.io/github/stars/redis/redis?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/redis/redis?style=flat-square&label=⭐) · Found in 2 active sources
 
 Redis is an open-source, in-memory data store that supports vector similarity search, making it suitable for AI/ML applications such as semantic search and recommendation systems.
 
@@ -404,7 +390,7 @@ Redis is an open-source, in-memory data store that supports vector similarity se
 
 ### [ROOT](https://root.cern.ch)
 
-aparece em 2 listas
+Found in 2 active sources
 
 A modular scientific software framework. It provides all the functionalities needed to deal with big data processing, statistical analysis, visualization and storage.
 
@@ -418,7 +404,7 @@ A modular scientific software framework. It provides all the functionalities nee
 
 ### [scipy](https://scipy.org)
 
-aparece em 2 listas
+Found in 2 active sources
 
 `Python` - SciPy (pronounced “Sigh Pie”) is a Python-based ecosystem of open-source software for mathematics, science, and engineering. [GitHub](https://github.com/scipy/scipy)
 
@@ -432,7 +418,7 @@ aparece em 2 listas
 
 ### [seaborn](https://github.com/mwaskom/seaborn)
 
-![](https://img.shields.io/github/stars/mwaskom/seaborn?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/mwaskom/seaborn?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
 
@@ -444,23 +430,9 @@ aparece em 2 listas
 
 ---
 
-### [Seaborn](https://seaborn.pydata.org)
-
-aparece em 2 listas
-
-A python visualization library based on matplotlib.
-
-> **Análise IA:** Librería de visualización estadística sobre Matplotlib. Gráficos estéticos para EDA y reportes. Resuelve problema: plots complejos (heatmaps, pair plots) con defaults bonitos en pocas líneas.
-
-**Pontos fortes:** _API intuitiva, defaults bonitos, integración fluida con Pandas_ · _Ideal para EDA rápida y comunicación de resultados_
-
-**Tags:** `visualization` `matplotlib` `statistical-graphics` `pandas`
-
----
-
 ### [statsmodels](https://github.com/statsmodels/statsmodels)
 
-![](https://img.shields.io/github/stars/statsmodels/statsmodels?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/statsmodels/statsmodels?style=flat-square&label=⭐) · Found in 2 active sources
 
 Statistical modelling and econometrics in Python.
 
@@ -474,7 +446,7 @@ Statistical modelling and econometrics in Python.
 
 ### [TiKV](https://github.com/tikv/tikv)
 
-![](https://img.shields.io/github/stars/tikv/tikv?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/tikv/tikv?style=flat-square&label=⭐) · Found in 2 active sources
 
 _(label: difficulty/easy)_ <br> A distributed transactional key-value database
 
@@ -488,7 +460,7 @@ _(label: difficulty/easy)_ <br> A distributed transactional key-value database
 
 ### [tsfresh](https://github.com/blue-yonder/tsfresh)
 
-![](https://img.shields.io/github/stars/blue-yonder/tsfresh?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/blue-yonder/tsfresh?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Automatic extraction of relevant features from time series.
 
@@ -509,7 +481,7 @@ Menos hype que as GEMs, mas confiáveis se você cair no caso de uso.
 
 ### [gradio](https://github.com/gradio-app/gradio)
 
-![](https://img.shields.io/github/stars/gradio-app/gradio?style=flat-square&label=⭐) · aparece em 3 listas
+![](https://img.shields.io/github/stars/gradio-app/gradio?style=flat-square&label=⭐) · Found in 3 active sources
 
 - Quickly create and share demos of models - by only writing Python. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
 
@@ -523,7 +495,7 @@ Menos hype que as GEMs, mas confiáveis se você cair no caso de uso.
 
 ### [High Charts](https://highcharts.com)
 
-aparece em 3 listas
+Found in 3 active sources
 
 
 
@@ -537,7 +509,7 @@ aparece em 3 listas
 
 ### [AI Job Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker)
 
-![](https://img.shields.io/github/stars/noahaust2/ai-displacement-tracker?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/noahaust2/ai-displacement-tracker?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Structured, source-backed dataset tracking 96 AI-attributed workforce reductions (457K workers affected, 13 countries, 13 sectors). Every entry includes source URLs, attribution tier, and job functions.
 
@@ -551,7 +523,7 @@ aparece em 3 listas
 
 ### [ajitpratap0/GoSQLX](https://github.com/ajitpratap0/gosqlx)
 
-![](https://img.shields.io/github/stars/ajitpratap0/gosqlx?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/ajitpratap0/gosqlx?style=flat-square&label=⭐) · Found in 2 active sources
 
 ](https://glama.ai/mcp/servers/ajitpratap0/GoSQLX) 🏎️ ☁️ 🏠 - 7 SQL tools (validate, format, parse, lint, security scan, metadata extraction, full analysis) over Streamable HTTP. Public remote server at mcp.gosqlx.dev - no install needed. 1.25M+ ops/sec, 6 SQL dialects.
 
@@ -565,7 +537,7 @@ aparece em 3 listas
 
 ### [Aleph](https://aleph.occrp.org)
 
-aparece em 2 listas
+Found in 2 active sources
 
 Tool for indexing large amounts of both documents (PDF, Word, HTML) and structured (CSV, XLS, SQL) data for easy browsing and search. It is built with investigative reporting as a primary use case. )
 
@@ -579,7 +551,7 @@ Tool for indexing large amounts of both documents (PDF, Word, HTML) and structur
 
 ### [Another Redis Desktop Manager](https://github.com/qishibo/anotherredisdesktopmanager)
 
-![](https://img.shields.io/github/stars/qishibo/anotherredisdesktopmanager?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/qishibo/anotherredisdesktopmanager?style=flat-square&label=⭐) · Found in 2 active sources
 
 A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys.
 
@@ -593,7 +565,7 @@ A faster, better and more stable redis desktop manager [GUI client], compatible 
 
 ### [Apache Ignite](https://github.com/apache/ignite)
 
-![](https://img.shields.io/github/stars/apache/ignite?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/apache/ignite?style=flat-square&label=⭐) · Found in 2 active sources
 
 - A memory-centric distributed database, caching, and processing platform for transactional, analytical, and streaming workloads delivering in-memory speeds at petabyte scale - [Demo](https://www.youtube.com/watch?v=Xt4PWQ__YPw).
 
@@ -607,7 +579,7 @@ A faster, better and more stable redis desktop manager [GUI client], compatible 
 
 ### [Apache Solr](https://lucene.apache.org/solr)
 
-aparece em 2 listas
+Found in 2 active sources
 
 Enterprise search platform featuring full-text search, hit highlighting, faceted search, real-time indexing, dynamic clustering, and rich document (e.g., Word, PDF) handling.
 
@@ -621,7 +593,7 @@ Enterprise search platform featuring full-text search, hit highlighting, faceted
 
 ### [Bread Dataset Viewer](https://github.com/bread-technologies/mle_vscode_extension)
 
-![](https://img.shields.io/github/stars/bread-technologies/mle_vscode_extension?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/bread-technologies/mle_vscode_extension?style=flat-square&label=⭐) · Found in 2 active sources
 
 A VS Code extension for viewing and exploring large machine learning datasets (CSV, JSON, Parquet, etc.) directly within the editor without VS Code crashing in a clean UI.
 
@@ -635,7 +607,7 @@ A VS Code extension for viewing and exploring large machine learning datasets (C
 
 ### [C3.js](https://c3js.org)
 
-aparece em 2 listas
+Found in 2 active sources
 
 customizable library based on D3.js for easy chart drawing.
 
@@ -649,7 +621,7 @@ customizable library based on D3.js for easy chart drawing.
 
 ### [csvkit](https://github.com/wireservice/csvkit)
 
-![](https://img.shields.io/github/stars/wireservice/csvkit?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/wireservice/csvkit?style=flat-square&label=⭐) · Found in 2 active sources
 
 Utilities for converting to and working with CSV.
 
@@ -663,7 +635,7 @@ Utilities for converting to and working with CSV.
 
 ### [Dagster](https://github.com/dagster-io/dagster)
 
-![](https://img.shields.io/github/stars/dagster-io/dagster?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/dagster-io/dagster?style=flat-square&label=⭐) · Found in 2 active sources
 
 - A data orchestrator for machine learning, analytics, and ETL.
 
@@ -677,7 +649,7 @@ Utilities for converting to and working with CSV.
 
 ### [dasel](https://github.com/tomwright/dasel)
 
-![](https://img.shields.io/github/stars/tomwright/dasel?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/tomwright/dasel?style=flat-square&label=⭐) · Found in 2 active sources
 
 Query and update data structures using selectors from the command line. Comparable to jq/yq but supports JSON, YAML, TOML and XML with zero runtime dependencies.
 
@@ -691,7 +663,7 @@ Query and update data structures using selectors from the command line. Comparab
 
 ### [DataComPy](https://github.com/capitalone/datacompy)
 
-![](https://img.shields.io/github/stars/capitalone/datacompy?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/capitalone/datacompy?style=flat-square&label=⭐) · Found in 2 active sources
 
 A library to compare Pandas, Polars, and Spark data frames. It provides stats and lets users adjust for match accuracy.
 
@@ -705,7 +677,7 @@ A library to compare Pandas, Polars, and Spark data frames. It provides stats an
 
 ### [Deepnote](https://github.com/deepnote/deepnote)
 
-![](https://img.shields.io/github/stars/deepnote/deepnote?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/deepnote/deepnote?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for real-time collaboration, Deepnote agent, and deployable data apps.
 
@@ -719,7 +691,7 @@ A library to compare Pandas, Polars, and Spark data frames. It provides stats an
 
 ### [Dolt](https://github.com/dolthub/dolt)
 
-![](https://img.shields.io/github/stars/dolthub/dolt?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/dolthub/dolt?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.
 
@@ -733,7 +705,7 @@ A library to compare Pandas, Polars, and Spark data frames. It provides stats an
 
 ### [FlatBuffers](https://github.com/google/flatbuffers)
 
-![](https://img.shields.io/github/stars/google/flatbuffers?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/google/flatbuffers?style=flat-square&label=⭐) · Found in 2 active sources
 
 Memory-efficient serialization library that can access serialized data without unpacking and parsing it.
 
@@ -747,7 +719,7 @@ Memory-efficient serialization library that can access serialized data without u
 
 ### [Gephi](https://gephi.org)
 
-aparece em 2 listas
+Found in 2 active sources
 
 is an open-source graph and network visualization software.
 
@@ -761,7 +733,7 @@ is an open-source graph and network visualization software.
 
 ### [Hamilton](https://github.com/dagworks-inc/hamilton)
 
-![](https://img.shields.io/github/stars/dagworks-inc/hamilton?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/dagworks-inc/hamilton?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Hamilton is a micro-orchestration framework for defining dataflows. Runs anywhere python runs (e.g. jupyter, fastAPI, spark, ray, dask). Brings software engineering best practices without you knowing it. Use it to define feature engineering transforms, end-to-end model pipelines, and LLM workflows. It complements macro-orchestration systems (e.g. kedro, luigi, airflow, dbt, etc.) as it…
 
@@ -775,7 +747,7 @@ is an open-source graph and network visualization software.
 
 ### [iredis](https://github.com/laixintao/iredis)
 
-![](https://img.shields.io/github/stars/laixintao/iredis?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/laixintao/iredis?style=flat-square&label=⭐) · Found in 2 active sources
 
 Redis client with autocompletion and syntax highlighting.
 
@@ -789,7 +761,7 @@ Redis client with autocompletion and syntax highlighting.
 
 ### [Metabase](https://metabase.com)
 
-aparece em 2 listas
+Found in 2 active sources
 
 Easy way for everyone in your company to ask questions and learn from data.
 
@@ -803,7 +775,7 @@ Easy way for everyone in your company to ask questions and learn from data.
 
 ### [Mingo](https://mingo.io)
 
-aparece em 2 listas
+Found in 2 active sources
 
 Easy to use MongoDB GUI with mind-blowing features.
 
@@ -817,7 +789,7 @@ Easy to use MongoDB GUI with mind-blowing features.
 
 ### [mycli](https://github.com/dbcli/mycli)
 
-![](https://img.shields.io/github/stars/dbcli/mycli?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/dbcli/mycli?style=flat-square&label=⭐) · Found in 2 active sources
 
 MySQL client with autocompletion and syntax highlighting.
 
@@ -831,7 +803,7 @@ MySQL client with autocompletion and syntax highlighting.
 
 ### [NSQ](https://nsq.io)
 
-aparece em 2 listas
+Found in 2 active sources
 
 A realtime distributed messaging platform.
 
@@ -845,7 +817,7 @@ A realtime distributed messaging platform.
 
 ### [OpenRefine](https://openrefine.org)
 
-aparece em 2 listas
+Found in 2 active sources
 
 Tool for working with messy data: cleaning, transforming, extending it with web services and linking it to databases.
 
@@ -859,7 +831,7 @@ Tool for working with messy data: cleaning, transforming, extending it with web 
 
 ### [pathwaycom/pathway](https://github.com/pathwaycom/pathway)
 
-![](https://img.shields.io/github/stars/pathwaycom/pathway?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/pathwaycom/pathway?style=flat-square&label=⭐) · Found in 2 active sources
 
 Performant open-source Python ETL framework with Rust runtime, supporting 300+ data sources.
 
@@ -873,7 +845,7 @@ Performant open-source Python ETL framework with Rust runtime, supporting 300+ d
 
 ### [Perspective](https://github.com/finos/perspective)
 
-![](https://img.shields.io/github/stars/finos/perspective?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/finos/perspective?style=flat-square&label=⭐) · Found in 2 active sources
 
 Streaming pivot visualization via WebAssembly.
 
@@ -887,7 +859,7 @@ Streaming pivot visualization via WebAssembly.
 
 ### [pouchdb](https://github.com/pouchdb/pouchdb)
 
-![](https://img.shields.io/github/stars/pouchdb/pouchdb?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/pouchdb/pouchdb?style=flat-square&label=⭐) · Found in 2 active sources
 
 Javascript db inspired by Apache CouchDB to run well within the browser.
 
@@ -901,7 +873,7 @@ Javascript db inspired by Apache CouchDB to run well within the browser.
 
 ### [PyBroker](https://github.com/edtechre/pybroker)
 
-![](https://img.shields.io/github/stars/edtechre/pybroker?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/edtechre/pybroker?style=flat-square&label=⭐) · Found in 2 active sources
 
 `Python` - Algorithmic Trading with Machine Learning.
 
@@ -915,7 +887,7 @@ Javascript db inspired by Apache CouchDB to run well within the browser.
 
 ### [pyqtgraph](https://github.com/pyqtgraph/pyqtgraph)
 
-![](https://img.shields.io/github/stars/pyqtgraph/pyqtgraph?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/pyqtgraph/pyqtgraph?style=flat-square&label=⭐) · Found in 2 active sources
 
 Interactive and realtime 2D/3D/Image plotting and science/engineering widgets.
 
@@ -929,7 +901,7 @@ Interactive and realtime 2D/3D/Image plotting and science/engineering widgets.
 
 ### [QuestDB](https://github.com/questdb/questdb)
 
-![](https://img.shields.io/github/stars/questdb/questdb?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/questdb/questdb?style=flat-square&label=⭐) · Found in 2 active sources
 
 High-performance SQL database for time series. Supports InfluxDB line protocol, PostgreSQL wire protocol, and REST.
 
@@ -943,7 +915,7 @@ High-performance SQL database for time series. Supports InfluxDB line protocol, 
 
 ### [ReactiveSearch](https://github.com/appbaseio/reactivesearch)
 
-![](https://img.shields.io/github/stars/appbaseio/reactivesearch?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/appbaseio/reactivesearch?style=flat-square&label=⭐) · Found in 2 active sources
 
 _(label: good first issue-:wave:)_ <br> A UI components library for Elasticsearch: Available for React, Vue and React Native.
 
@@ -957,7 +929,7 @@ _(label: good first issue-:wave:)_ <br> A UI components library for Elasticsearc
 
 ### [Redash](https://redash.io)
 
-aparece em 2 listas
+Found in 2 active sources
 
 Connect and query your data sources, build dashboards to visualize data and share them with your company.
 
@@ -971,7 +943,7 @@ Connect and query your data sources, build dashboards to visualize data and shar
 
 ### [Rerun](https://github.com/rerun-io/rerun)
 
-![](https://img.shields.io/github/stars/rerun-io/rerun?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/rerun-io/rerun?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Rerun is an open-source SDK for logging, storing, querying, and visualizing multimodal data, designed for robotics, computer vision, and spatial AI.
 
@@ -985,7 +957,7 @@ Connect and query your data sources, build dashboards to visualize data and shar
 
 ### [RisingWave](https://github.com/risingwavelabs/risingwave)
 
-![](https://img.shields.io/github/stars/risingwavelabs/risingwave?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/risingwavelabs/risingwave?style=flat-square&label=⭐) · Found in 2 active sources
 
 - A distributed SQL streaming database that unifies stream processing and low-latency serving, ideal for building and serving features for online machine learning.
 
@@ -999,7 +971,7 @@ Connect and query your data sources, build dashboards to visualize data and shar
 
 ### [ticker](https://github.com/achannarasappa/ticker)
 
-![](https://img.shields.io/github/stars/achannarasappa/ticker?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/achannarasappa/ticker?style=flat-square&label=⭐) · Found in 2 active sources
 
 Terminal stock watcher and stock position tracker.
 
@@ -1013,7 +985,7 @@ Terminal stock watcher and stock position tracker.
 
 ### [Vaex](https://github.com/vaexio/vaex)
 
-![](https://img.shields.io/github/stars/vaexio/vaex?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/vaexio/vaex?style=flat-square&label=⭐) · Found in 2 active sources
 
 Vaex is a high performance Python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets. Vaex uses memory mapping, zero memory copy policy and lazy computations for best performance (no memory wasted).
 
@@ -1027,7 +999,7 @@ Vaex is a high performance Python library for lazy Out-of-Core DataFrames (simil
 
 ### [Vega-Altair](https://github.com/vega/altair)
 
-![](https://img.shields.io/github/stars/vega/altair?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/vega/altair?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Vega-Altair is a declarative statistical visualization library for Python.
 
@@ -1041,7 +1013,7 @@ Vaex is a high performance Python library for lazy Out-of-Core DataFrames (simil
 
 ### [vispy](https://github.com/vispy/vispy)
 
-![](https://img.shields.io/github/stars/vispy/vispy?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/vispy/vispy?style=flat-square&label=⭐) · Found in 2 active sources
 
 GPU-based high-performance interactive OpenGL 2D/3D data visualization library.
 
@@ -1055,7 +1027,7 @@ GPU-based high-performance interactive OpenGL 2D/3D data visualization library.
 
 ### [vizzu](https://github.com/vizzuhq/vizzu-lib)
 
-![](https://img.shields.io/github/stars/vizzuhq/vizzu-lib?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/vizzuhq/vizzu-lib?style=flat-square&label=⭐) · Found in 2 active sources
 
 Library for animated data visualizations and data stories.
 
@@ -1069,7 +1041,7 @@ Library for animated data visualizations and data stories.
 
 ### [yfinance](https://github.com/ranaroussi/yfinance)
 
-![](https://img.shields.io/github/stars/ranaroussi/yfinance?style=flat-square&label=⭐) · aparece em 2 listas
+![](https://img.shields.io/github/stars/ranaroussi/yfinance?style=flat-square&label=⭐) · Found in 2 active sources
 
 `Python` - Yahoo! Finance market data downloader (+faster Pandas Datareader).
 

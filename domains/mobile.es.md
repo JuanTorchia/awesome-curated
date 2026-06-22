@@ -12,7 +12,7 @@ Herramientas que la comunidad considera default. Si no las conocés, valen la pe
 
 ### [TiDB](https://github.com/pingcap/tidb)
 
-![](https://img.shields.io/github/stars/pingcap/tidb?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/pingcap/tidb?style=flat-square&label=⭐) · Found in 2 active sources
 
 _(label: good first issue)_ <br> A distributed scalable Hybrid Transactional and Analytical Processing (HTAP) database
 
@@ -33,7 +33,7 @@ Menos hype que las GEMs, pero confiables si caés en su caso de uso.
 
 ### [Awesome Core ML Models](https://github.com/likedan/awesome-coreml-models)
 
-![](https://img.shields.io/github/stars/likedan/awesome-coreml-models?style=flat-square&label=⭐) · aparece en 3 listas
+![](https://img.shields.io/github/stars/likedan/awesome-coreml-models?style=flat-square&label=⭐) · Found in 3 active sources
 
 A curated list of machine learning models in CoreML format.
 
@@ -47,7 +47,7 @@ A curated list of machine learning models in CoreML format.
 
 ### [NativeScript](https://github.com/nativescript/nativescript)
 
-![](https://img.shields.io/github/stars/nativescript/nativescript?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/nativescript/nativescript?style=flat-square&label=⭐) · Found in 2 active sources
 
 _(label: good first issue)_ <br> NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.
 
@@ -61,7 +61,7 @@ _(label: good first issue)_ <br> NativeScript is an open source framework for bu
 
 ### [RunAnywhere](https://github.com/runanywhereai/runanywhere-sdks)
 
-![](https://img.shields.io/github/stars/runanywhereai/runanywhere-sdks?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/runanywhereai/runanywhere-sdks?style=flat-square&label=⭐) · Found in 2 active sources
 
 - RunAnywhere is a production-ready SDK for running AI models (LLMs, speech-to-text, text-to-speech) on-device for iOS, Android, React Native, and Flutter - enabling private, offline, and fast mobile AI applications.
 
@@ -75,7 +75,7 @@ _(label: good first issue)_ <br> NativeScript is an open source framework for bu
 
 ### [ZXing](https://github.com/zxing/zxing)
 
-![](https://img.shields.io/github/stars/zxing/zxing?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/zxing/zxing?style=flat-square&label=⭐) · Found in 2 active sources
 
 An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages. [Apache]
 

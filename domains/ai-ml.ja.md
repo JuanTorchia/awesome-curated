@@ -2,7 +2,7 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**36 GEMs · 78 試す価値あり**
+**36 GEMs · 75 試す価値あり**
 
 ---
 
@@ -12,7 +12,7 @@
 
 ### 👤 [BayesWitnesses/m2cgen](https://github.com/bayeswitnesses/m2cgen)
 
-![](https://img.shields.io/github/stars/bayeswitnesses/m2cgen?style=flat-square&label=⭐) · 🔥 **7 個のリストに登場**
+![](https://img.shields.io/github/stars/bayeswitnesses/m2cgen?style=flat-square&label=⭐) · 🔥 **Found in 7 active sources**
 
 A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies. [](https://github.com/BayesWitnesses/m2cgen/actions)
 
@@ -26,7 +26,7 @@ A CLI tool to transpile trained classic machine learning models into a native Ru
 
 ### [XGBoost](https://github.com/dmlc/xgboost)
 
-![](https://img.shields.io/github/stars/dmlc/xgboost?style=flat-square&label=⭐) · 🔥 **5 個のリストに登場**
+![](https://img.shields.io/github/stars/dmlc/xgboost?style=flat-square&label=⭐) · 🔥 **Found in 5 active sources**
 
 - XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable.
 
@@ -40,7 +40,7 @@ A CLI tool to transpile trained classic machine learning models into a native Ru
 
 ### [Apache Spark](https://github.com/apache/spark)
 
-![](https://img.shields.io/github/stars/apache/spark?style=flat-square&label=⭐) · 3 個のリストに登場
+![](https://img.shields.io/github/stars/apache/spark?style=flat-square&label=⭐) · Found in 3 active sources
 
 - Micro-batch processing for streams using the apache spark framework as a backend supporting stateful exactly-once semantics.
 
@@ -54,7 +54,7 @@ A CLI tool to transpile trained classic machine learning models into a native Ru
 
 ### [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
-![](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning?style=flat-square&label=⭐) · 3 個のリストに登場
+![](https://img.shields.io/github/stars/josephmisiti/awesome-machine-learning?style=flat-square&label=⭐) · Found in 3 active sources
 
 *(GitHub)*
 
@@ -68,7 +68,7 @@ A CLI tool to transpile trained classic machine learning models into a native Ru
 
 ### [SpaCy](https://github.com/explosion/spacy)
 
-![](https://img.shields.io/github/stars/explosion/spacy?style=flat-square&label=⭐) · 3 個のリストに登場
+![](https://img.shields.io/github/stars/explosion/spacy?style=flat-square&label=⭐) · Found in 3 active sources
 
 - spaCy is a library for advanced Natural Language Processing in Python and Cython.
 
@@ -82,7 +82,7 @@ A CLI tool to transpile trained classic machine learning models into a native Ru
 
 ### [Stable Baselines](https://github.com/dlr-rm/stable-baselines3)
 
-![](https://img.shields.io/github/stars/dlr-rm/stable-baselines3?style=flat-square&label=⭐) · 3 個のリストに登場
+![](https://img.shields.io/github/stars/dlr-rm/stable-baselines3?style=flat-square&label=⭐) · Found in 3 active sources
 
 - A fork of OpenAI Baselines, implementations of reinforcement learning algorithms.
 
@@ -96,7 +96,7 @@ A CLI tool to transpile trained classic machine learning models into a native Ru
 
 ### [Vercel AI](https://github.com/vercel/ai)
 
-![](https://img.shields.io/github/stars/vercel/ai?style=flat-square&label=⭐) · 3 個のリストに登場
+![](https://img.shields.io/github/stars/vercel/ai?style=flat-square&label=⭐) · Found in 3 active sources
 
 - Vercel AI is a TypeScript toolkit designed to help you build AI-powered applications using popular frameworks like Next.js, React, Svelte, Vue and runtimes like Node.js.
 
@@ -110,7 +110,7 @@ A CLI tool to transpile trained classic machine learning models into a native Ru
 
 ### [ashvardanian/NumKong](https://github.com/ashvardanian/numkong)
 
-![](https://img.shields.io/github/stars/ashvardanian/numkong?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/ashvardanian/numkong?style=flat-square&label=⭐) · Found in 2 active sources
 
 SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-512, and Arm NEON [](https://crates.io/crates/simsimd)
 
@@ -124,7 +124,7 @@ SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-51
 
 ### [Detectron2](https://github.com/facebookresearch/detectron2)
 
-![](https://img.shields.io/github/stars/facebookresearch/detectron2?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/facebookresearch/detectron2?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Detectron2 is Facebook AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms.
 
@@ -138,7 +138,7 @@ SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-51
 
 ### [Dlib](https://github.com/davisking/dlib)
 
-![](https://img.shields.io/github/stars/davisking/dlib?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/davisking/dlib?style=flat-square&label=⭐) · Found in 2 active sources
 
 zap: - A toolkit for making real world machine learning and data analysis applications in C++. [Boost] [website](http://dlib.net/)
 
@@ -152,7 +152,7 @@ zap: - A toolkit for making real world machine learning and data analysis applic
 
 ### [EspNet](https://github.com/espnet/espnet)
 
-![](https://img.shields.io/github/stars/espnet/espnet?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/espnet/espnet?style=flat-square&label=⭐) · Found in 2 active sources
 
 ESPnet is an end-to-end speech processing toolkit for tasks like speech recognition, translation, and enhancement, using PyTorch and Kaldi-style data processing.
 
@@ -166,7 +166,7 @@ ESPnet is an end-to-end speech processing toolkit for tasks like speech recognit
 
 ### [Evidently](https://github.com/evidentlyai/evidently)
 
-![](https://img.shields.io/github/stars/evidentlyai/evidently?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/evidentlyai/evidently?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Evidently is an open-source framework to evaluate, test and monitor ML and LLM-powered systems.
 
@@ -180,7 +180,7 @@ ESPnet is an end-to-end speech processing toolkit for tasks like speech recognit
 
 ### [Faiss](https://github.com/facebookresearch/faiss)
 
-![](https://img.shields.io/github/stars/facebookresearch/faiss?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/facebookresearch/faiss?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Faiss is a library for efficient similarity search and clustering of dense vectors.
 
@@ -194,7 +194,7 @@ ESPnet is an end-to-end speech processing toolkit for tasks like speech recognit
 
 ### [GoCV](https://github.com/hybridgroup/gocv)
 
-![](https://img.shields.io/github/stars/hybridgroup/gocv?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/hybridgroup/gocv?style=flat-square&label=⭐) · Found in 2 active sources
 
 Package for computer vision using OpenCV 4 and beyond.
 
@@ -208,7 +208,7 @@ Package for computer vision using OpenCV 4 and beyond.
 
 ### [Gymnasium](https://github.com/farama-foundation/gymnasium)
 
-![](https://img.shields.io/github/stars/farama-foundation/gymnasium?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/farama-foundation/gymnasium?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Gymnasium is an open source Python library for developing and comparing reinforcement learning algorithms by providing a standard API to communicate between learning algorithms and environments, as well as a standard set of environments compliant with that API.
 
@@ -222,7 +222,7 @@ Package for computer vision using OpenCV 4 and beyond.
 
 ### [huggingface/tokenizers](https://github.com/huggingface/tokenizers)
 
-![](https://img.shields.io/github/stars/huggingface/tokenizers?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/huggingface/tokenizers?style=flat-square&label=⭐) · Found in 2 active sources
 
 Hugging Face's tokenizers for modern NLP pipelines (original implementation) with bindings for Python. [](https://github.com/huggingface/tokenizers/actions)
 
@@ -236,7 +236,7 @@ Hugging Face's tokenizers for modern NLP pipelines (original implementation) wit
 
 ### [InterpretML](https://github.com/interpretml/interpret)
 
-![](https://img.shields.io/github/stars/interpretml/interpret?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/interpretml/interpret?style=flat-square&label=⭐) · Found in 2 active sources
 
 InterpretML implements the Explainable Boosting Machine (EBM), a modern, fully interpretable machine learning model based on Generalized Additive Models (GAMs). This open-source package also provides visualization tools for EBMs, other glass-box models, and black-box explanations.
 
@@ -250,7 +250,7 @@ InterpretML implements the Explainable Boosting Machine (EBM), a modern, fully i
 
 ### [Jax](https://github.com/jax-ml/jax)
 
-![](https://img.shields.io/github/stars/jax-ml/jax?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/jax-ml/jax?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
 
@@ -264,7 +264,7 @@ InterpretML implements the Explainable Boosting Machine (EBM), a modern, fully i
 
 ### [Kaldi](https://github.com/kaldi-asr/kaldi)
 
-![](https://img.shields.io/github/stars/kaldi-asr/kaldi?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/kaldi-asr/kaldi?style=flat-square&label=⭐) · Found in 2 active sources
 
 Kaldi is a toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. Kaldi is intended for use by speech recognition researchers.
 
@@ -278,7 +278,7 @@ Kaldi is a toolkit for speech recognition written in C++ and licensed under the 
 
 ### [LlamaIndex](https://github.com/run-llama/llama_index)
 
-![](https://img.shields.io/github/stars/run-llama/llama_index?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/run-llama/llama_index?style=flat-square&label=⭐) · Found in 2 active sources
 
 - LlamaIndex (GPT Index) is a data framework for your LLM application.
 
@@ -292,7 +292,7 @@ Kaldi is a toolkit for speech recognition written in C++ and licensed under the 
 
 ### [Milvus](https://github.com/milvus-io/milvus)
 
-![](https://img.shields.io/github/stars/milvus-io/milvus?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/milvus-io/milvus?style=flat-square&label=⭐) · Found in 2 active sources
 
 Milvus is a cloud-native, open-source vector database built to manage embedding vectors generated by machine learning models and neural networks.
 
@@ -306,7 +306,7 @@ Milvus is a cloud-native, open-source vector database built to manage embedding 
 
 ### [Ollama](https://github.com/ollama/ollama)
 
-![](https://img.shields.io/github/stars/ollama/ollama?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/ollama/ollama?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Get up and running with large language models, locally.
 
@@ -320,7 +320,7 @@ Milvus is a cloud-native, open-source vector database built to manage embedding 
 
 ### [oneDNN](https://github.com/oneapi-src/onednn)
 
-![](https://img.shields.io/github/stars/oneapi-src/onednn?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/oneapi-src/onednn?style=flat-square&label=⭐) · Found in 2 active sources
 
 An open-source cross-platform performance library for deep learning applications. [Apache] [website](https://01.org/onednn)
 
@@ -334,7 +334,7 @@ An open-source cross-platform performance library for deep learning applications
 
 ### [Optuna](https://github.com/optuna/optuna)
 
-![](https://img.shields.io/github/stars/optuna/optuna?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/optuna/optuna?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Optuna is an automatic hyperparameter optimisation software framework, particularly designed for machine learning.
 
@@ -348,7 +348,7 @@ An open-source cross-platform performance library for deep learning applications
 
 ### [PEFT](https://github.com/huggingface/peft)
 
-![](https://img.shields.io/github/stars/huggingface/peft?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/huggingface/peft?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Parameter-Efficient Fine-Tuning (PEFT) methods enable efficient adaptation of pre-trained language models (PLMs) to various downstream applications without fine-tuning all the model's parameters.
 
@@ -362,7 +362,7 @@ An open-source cross-platform performance library for deep learning applications
 
 ### [PyOD](https://github.com/yzhao062/pyod)
 
-![](https://img.shields.io/github/stars/yzhao062/pyod?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/yzhao062/pyod?style=flat-square&label=⭐) · Found in 2 active sources
 
 > Python Outlier Detection, comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. Featured for Advanced models, including Neural Networks/Deep Learning and Outlier Ensembles.
 
@@ -376,7 +376,7 @@ An open-source cross-platform performance library for deep learning applications
 
 ### [PySyft](https://github.com/openmined/pysyft)
 
-![](https://img.shields.io/github/stars/openmined/pysyft?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/openmined/pysyft?style=flat-square&label=⭐) · Found in 2 active sources
 
 - A Python library for secure, private Deep Learning. PySyft decouples private data from model training, using Multi-Party (MPC) within PyTorch.
 
@@ -390,7 +390,7 @@ An open-source cross-platform performance library for deep learning applications
 
 ### [PyTorch Lightning](https://github.com/lightning-ai/pytorch-lightning)
 
-![](https://img.shields.io/github/stars/lightning-ai/pytorch-lightning?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/lightning-ai/pytorch-lightning?style=flat-square&label=⭐) · Found in 2 active sources
 
 - PyTorch Lightning pretrains, finetunes and deploys AI models on multiple GPUs, TPUs with zero code changes.
 
@@ -404,7 +404,7 @@ An open-source cross-platform performance library for deep learning applications
 
 ### [Qdrant](https://github.com/qdrant/qdrant)
 
-![](https://img.shields.io/github/stars/qdrant/qdrant?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/qdrant/qdrant?style=flat-square&label=⭐) · Found in 2 active sources
 
 An open source vector similarity search engine with extended filtering support [](https://github.com/qdrant/qdrant/actions)
 
@@ -418,7 +418,7 @@ An open source vector similarity search engine with extended filtering support [
 
 ### [Sacred](https://github.com/idsia/sacred)
 
-![](https://img.shields.io/github/stars/idsia/sacred?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/idsia/sacred?style=flat-square&label=⭐) · Found in 2 active sources
 
 Python tool to help you configure, organize, log and reproduce experiments. Like a notebook lab in the context of Chemistry/Biology. The community has built multiple add-ons leveraging the proposed standard.
 
@@ -432,7 +432,7 @@ Python tool to help you configure, organize, log and reproduce experiments. Like
 
 ### [scikit-learn](https://scikit-learn.org)
 
-2 個のリストに登場
+Found in 2 active sources
 
 A Python module for machine learning built on top of SciPy.
 
@@ -446,7 +446,7 @@ A Python module for machine learning built on top of SciPy.
 
 ### [TF-Agents](https://github.com/tensorflow/agents)
 
-![](https://img.shields.io/github/stars/tensorflow/agents?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/tensorflow/agents?style=flat-square&label=⭐) · Found in 2 active sources
 
 - A reliable, scalable and easy to use TensorFlow library for contextual bandits and reinforcement learning.
 
@@ -460,7 +460,7 @@ A Python module for machine learning built on top of SciPy.
 
 ### [vLLM](https://github.com/vllm-project/vllm)
 
-![](https://img.shields.io/github/stars/vllm-project/vllm?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/vllm-project/vllm?style=flat-square&label=⭐) · Found in 2 active sources
 
 - vLLM is a high-throughput and memory-efficient inference and serving engine for LLMs.
 
@@ -474,7 +474,7 @@ A Python module for machine learning built on top of SciPy.
 
 ### [Vowpal Wabbit](https://github.com/vowpalwabbit/vowpal_wabbit)
 
-![](https://img.shields.io/github/stars/vowpalwabbit/vowpal_wabbit?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/vowpalwabbit/vowpal_wabbit?style=flat-square&label=⭐) · Found in 2 active sources
 
 Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
 
@@ -488,7 +488,7 @@ Vowpal Wabbit is a machine learning system which pushes the frontier of machine 
 
 ### [Wav2Letter++](https://github.com/facebookresearch/wav2letter)
 
-![](https://img.shields.io/github/stars/facebookresearch/wav2letter?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/facebookresearch/wav2letter?style=flat-square&label=⭐) · Found in 2 active sources
 
 Public domain, a fast open source speech processing toolkit written entirely in C++ and uses the ArrayFire tensor library and the flashlight machine learning library for maximum efficiency. [BSD]
 
@@ -502,7 +502,7 @@ Public domain, a fast open source speech processing toolkit written entirely in 
 
 ### [YOLOv8](https://github.com/ultralytics/ultralytics)
 
-![](https://img.shields.io/github/stars/ultralytics/ultralytics?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/ultralytics/ultralytics?style=flat-square&label=⭐) · Found in 2 active sources
 
 Ultralytics' YOLOv8 implementation with C++ support for real-time object detection and tracking, optimized for edge devices.
 
@@ -523,7 +523,7 @@ GEMs ほど話題ではないが、該当するユースケースなら信頼で
 
 ### [CatBoost](https://github.com/catboost/catboost)
 
-![](https://img.shields.io/github/stars/catboost/catboost?style=flat-square&label=⭐) · 4 個のリストに登場
+![](https://img.shields.io/github/stars/catboost/catboost?style=flat-square&label=⭐) · Found in 4 active sources
 
 General purpose gradient boosting on decision trees library with categorical features support out of the box. It is easy to install, contains fast inference implementation and supports CPU and GPU (even multi-GPU) computation.
 
@@ -537,7 +537,7 @@ General purpose gradient boosting on decision trees library with categorical fea
 
 ### [Feature Engine](https://github.com/feature-engine/feature_engine)
 
-![](https://img.shields.io/github/stars/feature-engine/feature_engine?style=flat-square&label=⭐) · 3 個のリストに登場
+![](https://img.shields.io/github/stars/feature-engine/feature_engine?style=flat-square&label=⭐) · Found in 3 active sources
 
 - Feature-engine is a Python library that contains several transformers to engineer features for use in machine learning models.
 
@@ -551,7 +551,7 @@ General purpose gradient boosting on decision trees library with categorical fea
 
 ### [H2O-3](https://github.com/h2oai/h2o-3)
 
-![](https://img.shields.io/github/stars/h2oai/h2o-3?style=flat-square&label=⭐) · 3 個のリストに登場
+![](https://img.shields.io/github/stars/h2oai/h2o-3?style=flat-square&label=⭐) · Found in 3 active sources
 
 - Fast scalable Machine Learning platform for smarter applications: Deep Learning, Gradient Boosting & XGBoost, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles, Automatic Machine Learning (AutoML), etc..
 
@@ -563,23 +563,9 @@ General purpose gradient boosting on decision trees library with categorical fea
 
 ---
 
-### [m2cgen](https://github.com/bayeswitnesses/m2cgen)
-
-![](https://img.shields.io/github/stars/bayeswitnesses/m2cgen?style=flat-square&label=⭐) · 3 個のリストに登場
-
-A tool that allows the conversion of ML models into native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart) with zero dependencies.
-
-> **AI 分析:** Resuelve un problema real y concreto: deployar modelos de ML sin arrastrar todo el ecosistema de Python/scikit-learn a producción. ¿Necesitás inferencia en un microservicio Java, un sistema legacy en C# o una app mobile en Dart? m2cgen convierte tu modelo entrenado a código nativo puro, sin dependencias. Ideal para devs que trabajan en entornos con restricciones de infraestructura o que no quieren levantar un servidor de inferencia solo para un modelo de regresión. No sirve para deep learning complejo, pero para modelos clásicos es una joya discreta.
-
-**強み:** _Elimina dependencias en runtime: el código generado es standalone, sin necesitar librerías de ML instaladas en producción_ · _Soporte amplio de lenguajes (11+) y modelos clásicos de scikit-learn, XGBoost y LightGBM, cubriendo los casos de uso más comunes_ · _Ideal para entornos restringidos como sistemas embebidos, aplicaciones legacy o servicios donde instalar Python es inviable_
-
-**Tags:** `machine-learning` `code-generation` `model-deployment` `scikit-learn` `open-source`
-
----
-
 ### [Mem0](https://github.com/mem0ai/mem0)
 
-![](https://img.shields.io/github/stars/mem0ai/mem0?style=flat-square&label=⭐) · 3 個のリストに登場
+![](https://img.shields.io/github/stars/mem0ai/mem0?style=flat-square&label=⭐) · Found in 3 active sources
 
 - Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions.
 
@@ -593,7 +579,7 @@ A tool that allows the conversion of ML models into native code (Java, C, Python
 
 ### [Scikit-Image](https://github.com/scikit-image/scikit-image)
 
-![](https://img.shields.io/github/stars/scikit-image/scikit-image?style=flat-square&label=⭐) · 3 個のリストに登場
+![](https://img.shields.io/github/stars/scikit-image/scikit-image?style=flat-square&label=⭐) · Found in 3 active sources
 
 A collection of algorithms for image processing in Python.
 
@@ -607,7 +593,7 @@ A collection of algorithms for image processing in Python.
 
 ### [agent-of-empires](https://github.com/njbrake/agent-of-empires)
 
-![](https://img.shields.io/github/stars/njbrake/agent-of-empires?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/njbrake/agent-of-empires?style=flat-square&label=⭐) · Found in 2 active sources
 
 A TUI/CLI for managing multiple AI coding agent sessions with tmux, git worktrees, and Docker sandboxing [](https://github.com/njbrake/agent-of-empires/actions)
 
@@ -621,7 +607,7 @@ A TUI/CLI for managing multiple AI coding agent sessions with tmux, git worktree
 
 ### [Aim](https://github.com/aimhubio/aim)
 
-![](https://img.shields.io/github/stars/aimhubio/aim?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/aimhubio/aim?style=flat-square&label=⭐) · Found in 2 active sources
 
 - A super-easy way to record, search and compare AI experiments.
 
@@ -635,7 +621,7 @@ A TUI/CLI for managing multiple AI coding agent sessions with tmux, git worktree
 
 ### [askbudi/roundtable](https://github.com/askbudi/roundtable)
 
-![](https://img.shields.io/github/stars/askbudi/roundtable?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/askbudi/roundtable?style=flat-square&label=⭐) · Found in 2 active sources
 
 📇 ☁️ 🏠 🍎 🪟 🐧 - Meta-MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized MCP interface, providing zero-configuration access to the entire AI coding ecosystem.
 
@@ -649,7 +635,7 @@ A TUI/CLI for managing multiple AI coding agent sessions with tmux, git worktree
 
 ### [Awesome RAG Production](https://github.com/yigtwxx/awesome-rag-production)
 
-![](https://img.shields.io/github/stars/yigtwxx/awesome-rag-production?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/yigtwxx/awesome-rag-production?style=flat-square&label=⭐) · Found in 2 active sources
 
 A curated collection of battle-tested tools, frameworks, and best practices for building, scaling, and monitoring production-grade Retrieval-Augmented Generation (RAG) systems. Covers frameworks, vector databases, retrieval & reranking, evaluation, observability, deployment, and security.
 
@@ -663,7 +649,7 @@ A curated collection of battle-tested tools, frameworks, and best practices for 
 
 ### [BentoML](https://github.com/bentoml/bentoml)
 
-![](https://img.shields.io/github/stars/bentoml/bentoml?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/bentoml/bentoml?style=flat-square&label=⭐) · Found in 2 active sources
 
 - BentoML is an open source framework for high performance ML model serving.
 
@@ -677,7 +663,7 @@ A curated collection of battle-tested tools, frameworks, and best practices for 
 
 ### [Bread WandB Viewer](https://github.com/bread-technologies/bread_wandb_viewer_extension)
 
-![](https://img.shields.io/github/stars/bread-technologies/bread_wandb_viewer_extension?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/bread-technologies/bread_wandb_viewer_extension?style=flat-square&label=⭐) · Found in 2 active sources
 
 A VS Code extension to view Weights & Biases experiments, logs, and artifacts within the IDE, eliminating the need to switch to the web UI & preserving data privacy by being 100% offline.
 
@@ -691,7 +677,7 @@ A VS Code extension to view Weights & Biases experiments, logs, and artifacts wi
 
 ### [burn](https://github.com/tracel-ai/burn)
 
-![](https://img.shields.io/github/stars/tracel-ai/burn?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/tracel-ai/burn?style=flat-square&label=⭐) · Found in 2 active sources
 
 Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals
 
@@ -705,7 +691,7 @@ Burn is a new comprehensive dynamic Deep Learning Framework built using Rust wit
 
 ### [candle](https://github.com/huggingface/candle)
 
-![](https://img.shields.io/github/stars/huggingface/candle?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/huggingface/candle?style=flat-square&label=⭐) · Found in 2 active sources
 
 Candle is a minimalist ML framework for Rust with a focus on performance (including GPU support) and ease of use.
 
@@ -719,7 +705,7 @@ Candle is a minimalist ML framework for Rust with a focus on performance (includ
 
 ### [Catalyst](https://github.com/catalyst-team/catalyst)
 
-![](https://img.shields.io/github/stars/catalyst-team/catalyst?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/catalyst-team/catalyst?style=flat-square&label=⭐) · Found in 2 active sources
 
 High-level utils for PyTorch DL & RL research. It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing. Being able to research/develop something new, rather than write another regular train loop.
 
@@ -733,7 +719,7 @@ High-level utils for PyTorch DL & RL research. It was developed with a focus on 
 
 ### [CCV](https://github.com/liuliu/ccv)
 
-![](https://img.shields.io/github/stars/liuliu/ccv?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/liuliu/ccv?style=flat-square&label=⭐) · Found in 2 active sources
 
 C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library. [BSD]
 
@@ -747,7 +733,7 @@ C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library. [
 
 ### [Chroma](https://github.com/chroma-core/chroma)
 
-![](https://img.shields.io/github/stars/chroma-core/chroma?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/chroma-core/chroma?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Chroma is an open-source embedding database.
 
@@ -761,7 +747,7 @@ C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library. [
 
 ### [ClearML](https://github.com/clearml/clearml)
 
-![](https://img.shields.io/github/stars/clearml/clearml?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/clearml/clearml?style=flat-square&label=⭐) · Found in 2 active sources
 
 Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestration, Scheduling & Serving in one MLOps/LLMOps solution.
 
@@ -775,7 +761,7 @@ Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data M
 
 ### [CloudForest](https://github.com/ryanbressler/cloudforest)
 
-![](https://img.shields.io/github/stars/ryanbressler/cloudforest?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/ryanbressler/cloudforest?style=flat-square&label=⭐) · Found in 2 active sources
 
 Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go.
 
@@ -789,7 +775,7 @@ Fast, flexible, multi-threaded ensembles of decision trees for machine learning 
 
 ### [Context Engineering Kit](https://github.com/neolabhq/context-engineering-kit)
 
-![](https://img.shields.io/github/stars/neolabhq/context-engineering-kit?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/neolabhq/context-engineering-kit?style=flat-square&label=⭐) · Found in 2 active sources
 
 by [Vlad Goncharov](https://github.com/LeoVS09) - Hand-crafted collection of advanced context engineering techniques and patterns with minimal token footprint focused on improving agent result quality.
 
@@ -803,7 +789,7 @@ by [Vlad Goncharov](https://github.com/LeoVS09) - Hand-crafted collection of adv
 
 ### [CoreNLP](https://nlp.stanford.edu/software/corenlp.shtml)
 
-2 個のリストに登場
+Found in 2 active sources
 
 Stanford CoreNLP provides a set of natural language analysis tools which can take raw English language text input and give the base forms of words.
 
@@ -817,7 +803,7 @@ Stanford CoreNLP provides a set of natural language analysis tools which can tak
 
 ### [CuML](https://github.com/rapidsai/cuml)
 
-![](https://img.shields.io/github/stars/rapidsai/cuml?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/rapidsai/cuml?style=flat-square&label=⭐) · Found in 2 active sources
 
 - cuML is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects.
 
@@ -831,7 +817,7 @@ Stanford CoreNLP provides a set of natural language analysis tools which can tak
 
 ### [Cursor](https://cursor.com)
 
-2 個のリストに登場
+Found in 2 active sources
 
 An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Uses OpenAI.
 
@@ -845,7 +831,7 @@ An IDE with chat, edit, generate and debug features. Forked from VSCodium, so th
 
 ### [dagger/container-use](https://github.com/dagger/container-use)
 
-![](https://img.shields.io/github/stars/dagger/container-use?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/dagger/container-use?style=flat-square&label=⭐) · Found in 2 active sources
 
 🏎️ 🏠 🐧 🍎 🪟 - Containerized environments for coding agents. Multiple agents can work independently, isolated in fresh containers and git branches. No conflicts, many experiments. Full execution history, terminal access to agent environments, git workflow. Any agent/model/infra stack.
 
@@ -859,7 +845,7 @@ An IDE with chat, edit, generate and debug features. Forked from VSCodium, so th
 
 ### [DEAP](https://github.com/deap/deap)
 
-![](https://img.shields.io/github/stars/deap/deap?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/deap/deap?style=flat-square&label=⭐) · Found in 2 active sources
 
 - A novel evolutionary computation framework for rapid prototyping and testing of ideas. It seeks to make algorithms explicit and data structures transparent. It works in perfect harmony with parallelisation mechanisms such as multiprocessing and SCOOP.
 
@@ -873,7 +859,7 @@ An IDE with chat, edit, generate and debug features. Forked from VSCodium, so th
 
 ### [DeepDetect](https://github.com/jolibrain/deepdetect)
 
-![](https://img.shields.io/github/stars/jolibrain/deepdetect?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/jolibrain/deepdetect?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Machine Learning production server for TensorFlow, XGBoost and Cafe models written in C++ and maintained by Jolibrain.
 
@@ -887,7 +873,7 @@ An IDE with chat, edit, generate and debug features. Forked from VSCodium, so th
 
 ### [Determined](https://github.com/determined-ai/determined)
 
-![](https://img.shields.io/github/stars/determined-ai/determined?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/determined-ai/determined?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Deep learning training platform with integrated support for distributed training, hyperparameter tuning, and model management (supports Tensorflow and Pytorch).
 
@@ -901,7 +887,7 @@ An IDE with chat, edit, generate and debug features. Forked from VSCodium, so th
 
 ### [dspy](https://github.com/stanfordnlp/dspy)
 
-![](https://img.shields.io/github/stars/stanfordnlp/dspy?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/stanfordnlp/dspy?style=flat-square&label=⭐) · Found in 2 active sources
 
 - A framework for programming with foundation models.
 
@@ -915,7 +901,7 @@ An IDE with chat, edit, generate and debug features. Forked from VSCodium, so th
 
 ### [Flashlight](https://github.com/flashlight/flashlight)
 
-![](https://img.shields.io/github/stars/flashlight/flashlight?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/flashlight/flashlight?style=flat-square&label=⭐) · Found in 2 active sources
 
 - A fast, flexible machine learning library written entirely in C++ from the Facebook AI Research and the creators of Torch, TensorFlow, Eigen and Deep Speech.
 
@@ -929,7 +915,7 @@ An IDE with chat, edit, generate and debug features. Forked from VSCodium, so th
 
 ### [GoLearn](https://github.com/sjwhitworth/golearn)
 
-![](https://img.shields.io/github/stars/sjwhitworth/golearn?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/sjwhitworth/golearn?style=flat-square&label=⭐) · Found in 2 active sources
 
 General Machine Learning library for Go.
 
@@ -943,7 +929,7 @@ General Machine Learning library for Go.
 
 ### [gorgonia](https://github.com/gorgonia/gorgonia)
 
-![](https://img.shields.io/github/stars/gorgonia/gorgonia?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/gorgonia/gorgonia?style=flat-square&label=⭐) · Found in 2 active sources
 
 graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms.
 
@@ -957,7 +943,7 @@ graph-based computational library like Theano for Go that provides primitives fo
 
 ### [gorse](https://github.com/zhenghaoz/gorse)
 
-![](https://img.shields.io/github/stars/zhenghaoz/gorse?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/zhenghaoz/gorse?style=flat-square&label=⭐) · Found in 2 active sources
 
 An offline recommender system backend based on collaborative filtering written in Go.
 
@@ -971,7 +957,7 @@ An offline recommender system backend based on collaborative filtering written i
 
 ### [Haystack](https://github.com/deepset-ai/haystack)
 
-![](https://img.shields.io/github/stars/deepset-ai/haystack?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/deepset-ai/haystack?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-3 and alike). Haystack offers production-ready tools to quickly build ChatGPT-like question answering, semantic search, text generation, and more.
 
@@ -985,7 +971,7 @@ An offline recommender system backend based on collaborative filtering written i
 
 ### [Hopsworks](https://github.com/logicalclocks/hopsworks)
 
-![](https://img.shields.io/github/stars/logicalclocks/hopsworks?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/logicalclocks/hopsworks?style=flat-square&label=⭐) · Found in 2 active sources
 
 A data-intensive platform for AI with the industry's first open-source feature store. The Hopsworks Feature Store provides both a feature warehouse for training and batch based on Apache Hive and a feature serving database, based on MySQL Cluster, for online applications.
 
@@ -999,7 +985,7 @@ A data-intensive platform for AI with the industry's first open-source feature s
 
 ### [Ignite](https://github.com/pytorch/ignite)
 
-![](https://img.shields.io/github/stars/pytorch/ignite?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/pytorch/ignite?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Ignite is a high-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently.
 
@@ -1013,7 +999,7 @@ A data-intensive platform for AI with the industry's first open-source feature s
 
 ### [Infer.NET](https://dotnet.github.io/infer)
 
-2 個のリストに登場
+Found in 2 active sources
 
 Infer.NET is a framework for running Bayesian inference in graphical models. One can use Infer.NET to solve many different kinds of machine learning problems, from standard problems like classification, recommendation or clustering through customized solutions to domain-specific problems. Infer.NET has been used in a wide variety of domains including information retrieval, bioinformatics,…
 
@@ -1027,7 +1013,7 @@ Infer.NET is a framework for running Bayesian inference in graphical models. One
 
 ### [Infinity](https://github.com/infiniflow/infinity)
 
-![](https://img.shields.io/github/stars/infiniflow/infinity?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/infiniflow/infinity?style=flat-square&label=⭐) · Found in 2 active sources
 
 The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. Developed using C++20
 
@@ -1039,23 +1025,9 @@ The AI-native database built for LLM applications, providing incredibly fast vec
 
 ---
 
-### [JAX](https://github.com/google/jax)
-
-![](https://img.shields.io/github/stars/google/jax?style=flat-square&label=⭐) · 2 個のリストに登場
-
-JAX is Autograd and XLA, brought together for high-performance machine learning research.
-
-> **AI 分析:** Dlib es toolkit C++ compacto para ML y visión. Incluye SVM, clustering, detección facial. Bueno para deployment embebido, pero inferior en redes deep vs TensorFlow/PyTorch.
-
-**強み:** _Single header/binario, cero dependencies_ · _Algoritmos clásicos optimizados, excelente para producción embebida_
-
-**Tags:** `cpp` `machine-learning` `computer-vision` `lightweight` `embedded`
-
----
-
 ### [Jieba-PHP](https://github.com/fukuball/jieba-php)
 
-![](https://img.shields.io/github/stars/fukuball/jieba-php?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/fukuball/jieba-php?style=flat-square&label=⭐) · Found in 2 active sources
 
 A PHP port of Python's jieba. Chinese text segmentation for natural language processing.
 
@@ -1069,7 +1041,7 @@ A PHP port of Python's jieba. Chinese text segmentation for natural language pro
 
 ### [kagan-sh/kagan](https://github.com/kagan-sh/kagan)
 
-![](https://img.shields.io/github/stars/kagan-sh/kagan?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/kagan-sh/kagan?style=flat-square&label=⭐) · Found in 2 active sources
 
 ](https://glama.ai/mcp/servers/kagan-sh/kagan) 🐍 🏠 🍎 🪟 🐧 - AI-powered Kanban TUI and MCP server for autonomous development workflows. Orchestrates 14 coding agents across task tracking, isolated git worktrees, review, and merge.
 
@@ -1083,7 +1055,7 @@ A PHP port of Python's jieba. Chinese text segmentation for natural language pro
 
 ### [keras-tuner](https://github.com/keras-team/keras-tuner)
 
-![](https://img.shields.io/github/stars/keras-team/keras-tuner?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/keras-team/keras-tuner?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Keras Tuner is an easy-to-use, distributable hyperparameter optimisation framework that solves the pain points of performing a hyperparameter search. Keras Tuner makes it easy to define a search space and leverage included algorithms to find the best hyperparameter values.
 
@@ -1097,7 +1069,7 @@ A PHP port of Python's jieba. Chinese text segmentation for natural language pro
 
 ### [Kornia](https://github.com/kornia/kornia)
 
-![](https://img.shields.io/github/stars/kornia/kornia?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/kornia/kornia?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Kornia is a differentiable computer vision library built on PyTorch that provides a rich set of differentiable image processing and geometric vision algorithms.
 
@@ -1111,7 +1083,7 @@ A PHP port of Python's jieba. Chinese text segmentation for natural language pro
 
 ### [LangChain](https://github.com/langchain-ai/langchain)
 
-![](https://img.shields.io/github/stars/langchain-ai/langchain?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/langchain-ai/langchain?style=flat-square&label=⭐) · Found in 2 active sources
 
 - LangChain assists in building applications with LLMs through composability.
 
@@ -1125,7 +1097,7 @@ A PHP port of Python's jieba. Chinese text segmentation for natural language pro
 
 ### [LightlyTrain](https://github.com/lightly-ai/lightly-train)
 
-![](https://img.shields.io/github/stars/lightly-ai/lightly-train?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/lightly-ai/lightly-train?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Pretrain computer vision models on unlabeled data for industrial applications.
 
@@ -1139,7 +1111,7 @@ A PHP port of Python's jieba. Chinese text segmentation for natural language pro
 
 ### [linfa](https://github.com/rust-ml/linfa)
 
-![](https://img.shields.io/github/stars/rust-ml/linfa?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/rust-ml/linfa?style=flat-square&label=⭐) · Found in 2 active sources
 
 a comprehensive toolkit to build Machine Learning applications with Rust
 
@@ -1153,7 +1125,7 @@ a comprehensive toolkit to build Machine Learning applications with Rust
 
 ### [LocalAI](https://github.com/mudler/localai)
 
-![](https://img.shields.io/github/stars/mudler/localai?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/mudler/localai?style=flat-square&label=⭐) · Found in 2 active sources
 
 - LocalAI is a drop-in replacement REST API that's compatible with OpenAI API specifications for local inferencing.
 
@@ -1167,7 +1139,7 @@ a comprehensive toolkit to build Machine Learning applications with Rust
 
 ### [Ludwig](https://github.com/ludwig-ai/ludwig)
 
-![](https://img.shields.io/github/stars/ludwig-ai/ludwig?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/ludwig-ai/ludwig?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Ludwig is a low-code framework for building custom AI models like LLMs and other deep neural networks.
 
@@ -1181,7 +1153,7 @@ a comprehensive toolkit to build Machine Learning applications with Rust
 
 ### [MCP Memory Service](https://github.com/doobidoo/mcp-memory-service)
 
-![](https://img.shields.io/github/stars/doobidoo/mcp-memory-service?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/doobidoo/mcp-memory-service?style=flat-square&label=⭐) · Found in 2 active sources
 
 Universal memory service with semantic search, autonomous consolidation, and multi-client support for AI applications.
 
@@ -1195,7 +1167,7 @@ Universal memory service with semantic search, autonomous consolidation, and mul
 
 ### [mljar-supervised](https://github.com/mljar/mljar-supervised)
 
-![](https://img.shields.io/github/stars/mljar/mljar-supervised?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/mljar/mljar-supervised?style=flat-square&label=⭐) · Found in 2 active sources
 
 - A Python package for AutoML on tabular data with feature engineering, hyper-parameters tuning, explanations and automatic documentation.
 
@@ -1209,7 +1181,7 @@ Universal memory service with semantic search, autonomous consolidation, and mul
 
 ### [MLX](https://github.com/ml-explore/mlx)
 
-![](https://img.shields.io/github/stars/ml-explore/mlx?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/ml-explore/mlx?style=flat-square&label=⭐) · Found in 2 active sources
 
 - MLX is an array framework for machine learning on Apple silicon.
 
@@ -1223,7 +1195,7 @@ Universal memory service with semantic search, autonomous consolidation, and mul
 
 ### [mlxtend](https://github.com/rasbt/mlxtend)
 
-![](https://img.shields.io/github/stars/rasbt/mlxtend?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/rasbt/mlxtend?style=flat-square&label=⭐) · Found in 2 active sources
 
 A library consisting of useful tools for data science and machine learning tasks.
 
@@ -1237,7 +1209,7 @@ A library consisting of useful tools for data science and machine learning tasks
 
 ### [modAL](https://github.com/modal-python/modal)
 
-![](https://img.shields.io/github/stars/modal-python/modal?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/modal-python/modal?style=flat-square&label=⭐) · Found in 2 active sources
 
 A modular active learning framework for Python, built on top of scikit-learn.
 
@@ -1251,7 +1223,7 @@ A modular active learning framework for Python, built on top of scikit-learn.
 
 ### [Netron](https://netron.app)
 
-2 個のリストに登場
+Found in 2 active sources
 
 Visualizer for neural network and machine learning models.
 
@@ -1265,7 +1237,7 @@ Visualizer for neural network and machine learning models.
 
 ### [Nimbalyst](https://nimbalyst.com)
 
-2 個のリストに登場
+Found in 2 active sources
 
 An agent management environment for Claude Code and Codex. Interactive visual editing of markdown, mockups, excalidraw, code. Parallel session management.
 
@@ -1279,7 +1251,7 @@ An agent management environment for Claude Code and Codex. Interactive visual ed
 
 ### [Opik](https://github.com/comet-ml/opik)
 
-![](https://img.shields.io/github/stars/comet-ml/opik?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/comet-ml/opik?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Opik is an open-source platform for evaluating, testing and monitoring LLM applications.
 
@@ -1291,23 +1263,9 @@ An agent management environment for Claude Code and Codex. Interactive visual ed
 
 ---
 
-### [Opik](https://comet.com/site/products/opik)
-
-2 個のリストに登場
-
-Open source engineering platform to debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
-
-> **AI 分析:** Platform open-source para debugging y evaluación de LLM apps con tracing y evals. Competencia fuerte (Langsmith), pero madurez todavía alcanzando. Buena para early adopters.
-
-**強み:** _Trazado granular de LLM chains_ · _Evals automatizadas para reproducibility_
-
-**Tags:** `llm` `observability` `tracing` `evals` `agentic`
-
----
-
 ### [Oryx 2](https://github.com/oryxproject/oryx)
 
-![](https://img.shields.io/github/stars/oryxproject/oryx?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/oryxproject/oryx?style=flat-square&label=⭐) · Found in 2 active sources
 
 Framework for building real-time, large-scale machine learning applications. Includes end-to-end applications for collaborative filtering, classification, regression, and clustering.
 
@@ -1321,7 +1279,7 @@ Framework for building real-time, large-scale machine learning applications. Inc
 
 ### [pgmpy](https://github.com/pgmpy/pgmpy)
 
-![](https://img.shields.io/github/stars/pgmpy/pgmpy?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/pgmpy/pgmpy?style=flat-square&label=⭐) · Found in 2 active sources
 
 A Python library for probabilistic graphical models and Bayesian networks.
 
@@ -1335,7 +1293,7 @@ A Python library for probabilistic graphical models and Bayesian networks.
 
 ### [PyCaret](https://github.com/pycaret/pycaret)
 
-![](https://img.shields.io/github/stars/pycaret/pycaret?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/pycaret/pycaret?style=flat-square&label=⭐) · Found in 2 active sources
 
 ) - low-code library for training and deploying models (scikit-learn, XGBoost, LightGBM, spaCy)
 
@@ -1349,7 +1307,7 @@ A Python library for probabilistic graphical models and Bayesian networks.
 
 ### [rust-bert](https://github.com/guillaume-be/rust-bert)
 
-![](https://img.shields.io/github/stars/guillaume-be/rust-bert?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/guillaume-be/rust-bert?style=flat-square&label=⭐) · Found in 2 active sources
 
 Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
 
@@ -1363,7 +1321,7 @@ Rust native ready-to-use NLP pipelines and transformer-based models (BERT, Disti
 
 ### [Scikit-Opt](https://github.com/guofei9987/scikit-opt)
 
-![](https://img.shields.io/github/stars/guofei9987/scikit-opt?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/guofei9987/scikit-opt?style=flat-square&label=⭐) · Found in 2 active sources
 
 Swarm Intelligence in Python (Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Algorithm, Immune Algorithm, Artificial Fish Swarm Algorithm in Python)
 
@@ -1377,7 +1335,7 @@ Swarm Intelligence in Python (Genetic Algorithm, Particle Swarm Optimization, Si
 
 ### [SGLang](https://github.com/sgl-project/sglang)
 
-![](https://img.shields.io/github/stars/sgl-project/sglang?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/sgl-project/sglang?style=flat-square&label=⭐) · Found in 2 active sources
 
 - SGLang is a fast serving framework for large language models and vision language models.
 
@@ -1391,7 +1349,7 @@ Swarm Intelligence in Python (Genetic Algorithm, Particle Swarm Optimization, Si
 
 ### [SHAPash](https://github.com/maif/shapash)
 
-![](https://img.shields.io/github/stars/maif/shapash?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/maif/shapash?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Shapash is a Python library that provides several types of visualization that display explicit labels that everyone can understand.
 
@@ -1405,7 +1363,7 @@ Swarm Intelligence in Python (Genetic Algorithm, Particle Swarm Optimization, Si
 
 ### [SHOGUN](https://github.com/shogun-toolbox/shogun)
 
-![](https://img.shields.io/github/stars/shogun-toolbox/shogun?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/shogun-toolbox/shogun?style=flat-square&label=⭐) · Found in 2 active sources
 
 The Shogun Machine Learning Toolbox. [GPLv3]
 
@@ -1419,7 +1377,7 @@ The Shogun Machine Learning Toolbox. [GPLv3]
 
 ### [skill-seekers/Skill_Seekers](https://github.com/yusufkaraaslan/skill_seekers)
 
-![](https://img.shields.io/github/stars/yusufkaraaslan/skill_seekers?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/yusufkaraaslan/skill_seekers?style=flat-square&label=⭐) · Found in 2 active sources
 
 ](https://glama.ai/mcp/servers/yusufkaraaslan/Skill_Seekers) 🐍 🏠 🍎 🪟 🐧 - Transform 17 source types (docs, GitHub repos, PDFs, videos, Jupyter, Confluence, Notion, Slack/Discord) into AI-ready skills and RAG knowledge. 35 MCP tools for scraping, packaging, enhancing, and exporting to vector databases (Weaviate, Chroma, FAISS, Qdrant). Supports 16+ target platforms.
 
@@ -1433,7 +1391,7 @@ The Shogun Machine Learning Toolbox. [GPLv3]
 
 ### [skorch](https://github.com/skorch-dev/skorch)
 
-![](https://img.shields.io/github/stars/skorch-dev/skorch?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/skorch-dev/skorch?style=flat-square&label=⭐) · Found in 2 active sources
 
 A scikit-learn compatible neural network library that wraps PyTorch.
 
@@ -1447,7 +1405,7 @@ A scikit-learn compatible neural network library that wraps PyTorch.
 
 ### [spaGO](https://github.com/nlpodyssey/spago)
 
-![](https://img.shields.io/github/stars/nlpodyssey/spago?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/nlpodyssey/spago?style=flat-square&label=⭐) · Found in 2 active sources
 
 Self-contained Machine Learning and Natural Language Processing library in Go.
 
@@ -1461,7 +1419,7 @@ Self-contained Machine Learning and Natural Language Processing library in Go.
 
 ### [spfunctions/simplefunctions-cli](https://github.com/spfunctions/simplefunctions-cli)
 
-![](https://img.shields.io/github/stars/spfunctions/simplefunctions-cli?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/spfunctions/simplefunctions-cli?style=flat-square&label=⭐) · Found in 2 active sources
 
 ](https://glama.ai/mcp/servers/spfunctions/simplefunctions-cli) 📇 ☁️ - Calibrated world model for AI agents from 9,700+ prediction markets. 16 MCP tools covering real-time world state, market search, thesis management, edge detection, and content enrichment across Kalshi and Polymarket. `get_world_state` returns ~800 tokens of calibrated probabilities — no API key needed.
 
@@ -1475,7 +1433,7 @@ Self-contained Machine Learning and Natural Language Processing library in Go.
 
 ### [Superpowers](https://github.com/obra/superpowers)
 
-![](https://img.shields.io/github/stars/obra/superpowers?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/obra/superpowers?style=flat-square&label=⭐) · Found in 2 active sources
 
 by [Jesse Vincent](https://github.com/obra) - A strong bundle of core competencies for software engineering, with good coverage of a large portion of the SDLC - from planning, reviewing, testing, debugging... Well written, well organized, and adaptable. The author refers to them as "superpowers", but many of them are just consolidating engineering best practices - which sometimes does feel…
 
@@ -1489,7 +1447,7 @@ by [Jesse Vincent](https://github.com/obra) - A strong bundle of core competenci
 
 ### [TabGAN](https://github.com/diyago/tabular-data-generation)
 
-![](https://img.shields.io/github/stars/diyago/tabular-data-generation?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/diyago/tabular-data-generation?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Synthetic tabular data generation using GANs (CTGAN), Diffusion Models, and LLMs with adversarial filtering, privacy metrics, and sklearn integration.
 
@@ -1503,7 +1461,7 @@ by [Jesse Vincent](https://github.com/obra) - A strong bundle of core competenci
 
 ### [tch-rs](https://github.com/laurentmazare/tch-rs)
 
-![](https://img.shields.io/github/stars/laurentmazare/tch-rs?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/laurentmazare/tch-rs?style=flat-square&label=⭐) · Found in 2 active sources
 
 Rust bindings for the C++ API of PyTorch
 
@@ -1517,7 +1475,7 @@ Rust bindings for the C++ API of PyTorch
 
 ### [TensorZero](https://github.com/tensorzero/tensorzero)
 
-![](https://img.shields.io/github/stars/tensorzero/tensorzero?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/tensorzero/tensorzero?style=flat-square&label=⭐) · Found in 2 active sources
 
 data & learning flywheel for LLMs that unifies inference, observability, optimization, and experimentation
 
@@ -1531,7 +1489,7 @@ data & learning flywheel for LLMs that unifies inference, observability, optimiz
 
 ### [TPOT](https://github.com/epistasislab/tpot)
 
-![](https://img.shields.io/github/stars/epistasislab/tpot?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/epistasislab/tpot?style=flat-square&label=⭐) · Found in 2 active sources
 
 Tool that automatically creates and optimizes machine learning pipelines using genetic programming. Consider it your personal data science assistant, automating a tedious part of machine learning.
 
@@ -1545,7 +1503,7 @@ Tool that automatically creates and optimizes machine learning pipelines using g
 
 ### [unsloth](https://github.com/unslothai/unsloth)
 
-![](https://img.shields.io/github/stars/unslothai/unsloth?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/unslothai/unsloth?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Fine-tuning & Reinforcement Learning for LLMs. Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM.
 
@@ -1559,7 +1517,7 @@ Tool that automatically creates and optimizes machine learning pipelines using g
 
 ### [USearch](https://github.com/unum-cloud/usearch)
 
-![](https://img.shields.io/github/stars/unum-cloud/usearch?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/unum-cloud/usearch?style=flat-square&label=⭐) · Found in 2 active sources
 
 Similarity Search Engine for Vectors and Strings [](https://crates.io/crates/usearch)
 
@@ -1573,7 +1531,7 @@ Similarity Search Engine for Vectors and Strings [](https://crates.io/crates/use
 
 ### [Windsurf](https://windsurf.com)
 
-2 個のリストに登場
+Found in 2 active sources
 
 An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Formerly known as Codeium.
 
@@ -1587,7 +1545,7 @@ An IDE with chat, edit, generate and debug features. Forked from VSCodium, so th
 
 ### [xLearn](https://github.com/aksnzhy/xlearn)
 
-![](https://img.shields.io/github/stars/aksnzhy/xlearn?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/aksnzhy/xlearn?style=flat-square&label=⭐) · Found in 2 active sources
 
 A high performance, easy-to-use, and scalable machine learning package, which can be used to solve large-scale machine learning problems. xLearn is especially useful for solving machine learning problems on large-scale sparse data, which is very common in Internet services such as online advertising and recommender systems.
 
@@ -1601,7 +1559,7 @@ A high performance, easy-to-use, and scalable machine learning package, which ca
 
 ### [ZenML](https://github.com/zenml-io/zenml)
 
-![](https://img.shields.io/github/stars/zenml-io/zenml?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/zenml-io/zenml?style=flat-square&label=⭐) · Found in 2 active sources
 
 - ZenML is an extensible, open-source MLOps framework to create reproducible ML pipelines with a focus on automated metadata tracking, caching, and many integrations to other tools.
 

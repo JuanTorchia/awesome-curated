@@ -2,7 +2,7 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**18 GEMs · 34 試す価値あり**
+**17 GEMs · 34 試す価値あり**
 
 ---
 
@@ -12,7 +12,7 @@
 
 ### [RLlib](https://github.com/ray-project/ray)
 
-![](https://img.shields.io/github/stars/ray-project/ray?style=flat-square&label=⭐) · 3 個のリストに登場
+![](https://img.shields.io/github/stars/ray-project/ray?style=flat-square&label=⭐) · Found in 3 active sources
 
 RLlib is an industry level, highly scalable RL library for tf and torch, based on Ray. It's used by companies like Amazon and Microsoft to solve real-world decision making problems at scale.
 
@@ -26,7 +26,7 @@ RLlib is an industry level, highly scalable RL library for tf and torch, based o
 
 ### [ZooKeeper](https://zookeeper.apache.org)
 
-3 個のリストに登場
+Found in 3 active sources
 
 ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services.
 
@@ -40,7 +40,7 @@ ZooKeeper is a centralized service for maintaining configuration information, na
 
 ### [Ansible](https://github.com/ansible/ansible)
 
-![](https://img.shields.io/github/stars/ansible/ansible?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/ansible/ansible?style=flat-square&label=⭐) · Found in 2 active sources
 
 _(label: easyfix)_ <br> A simple IT automation platform
 
@@ -54,7 +54,7 @@ _(label: easyfix)_ <br> A simple IT automation platform
 
 ### [BorgBackup](https://github.com/borgbackup/borg)
 
-![](https://img.shields.io/github/stars/borgbackup/borg?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/borgbackup/borg?style=flat-square&label=⭐) · Found in 2 active sources
 
 _(label: easy)_ <br> Deduplicating backup program with compression and authenticated encryption.
 
@@ -68,7 +68,7 @@ _(label: easy)_ <br> Deduplicating backup program with compression and authentic
 
 ### [cadvisor](https://github.com/google/cadvisor)
 
-![](https://img.shields.io/github/stars/google/cadvisor?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/google/cadvisor?style=flat-square&label=⭐) · Found in 2 active sources
 
 Analyzes resource usage and performance characteristics of running containers.
 
@@ -80,23 +80,9 @@ Analyzes resource usage and performance characteristics of running containers.
 
 ---
 
-### [cadvisor](https://github.com/google/cadvisor)
-
-![](https://img.shields.io/github/stars/google/cadvisor?style=flat-square&label=⭐) · 2 個のリストに登場
-
-Analyzes resource usage and performance characteristics of running containers.
-
-> **AI 分析:** Analyzes resource usage de containers (CPU, RAM, I/O). Built by Google, standard en Kubernetes. Production-grade monitoring.
-
-**強み:** _Integración nativa Kubernetes, es el estándar_ · _Overhead mínimo, escala a miles de containers_
-
-**Tags:** `containers` `monitoring` `go` `kubernetes` `metrics`
-
----
-
 ### [CML](https://github.com/iterative/cml)
 
-![](https://img.shields.io/github/stars/iterative/cml?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/iterative/cml?style=flat-square&label=⭐) · Found in 2 active sources
 
 A library for doing continuous integration with ML projects. Use GitHub Actions & GitLab CI to train and evaluate models in production like environments and automatically generate visual reports with metrics and graphs in pull/merge requests. Framework & language agnostic.
 
@@ -110,7 +96,7 @@ A library for doing continuous integration with ML projects. Use GitHub Actions 
 
 ### [Concourse](https://concourse-ci.org)
 
-2 個のリストに登場
+Found in 2 active sources
 
 Concourse is a CI tool that treats pipelines as first class objects and containerizes every step along the way. )
 
@@ -124,7 +110,7 @@ Concourse is a CI tool that treats pipelines as first class objects and containe
 
 ### [Consul](https://consul.io)
 
-2 個のリストに登場
+Found in 2 active sources
 
 Consul is a tool for service discovery, monitoring and configuration.
 
@@ -138,7 +124,7 @@ Consul is a tool for service discovery, monitoring and configuration.
 
 ### [Docker.DotNet](https://github.com/microsoft/docker.dotnet)
 
-![](https://img.shields.io/github/stars/microsoft/docker.dotnet?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/microsoft/docker.dotnet?style=flat-square&label=⭐) · Found in 2 active sources
 
 C#/.NET HTTP client for the Docker remote API.
 
@@ -152,7 +138,7 @@ C#/.NET HTTP client for the Docker remote API.
 
 ### [GitLab CI](https://about.gitlab.com/solutions/continuous-integration)
 
-2 個のリストに登場
+Found in 2 active sources
 
 Gitlab's built-in, full-featured CI/CD solution.
 
@@ -166,7 +152,7 @@ Gitlab's built-in, full-featured CI/CD solution.
 
 ### [k9s](https://github.com/derailed/k9s)
 
-![](https://img.shields.io/github/stars/derailed/k9s?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/derailed/k9s?style=flat-square&label=⭐) · Found in 2 active sources
 
 Kubernetes CLI to manage your clusters in style.
 
@@ -180,7 +166,7 @@ Kubernetes CLI to manage your clusters in style.
 
 ### [Nextcloud](https://nextcloud.com)
 
-2 個のリストに登場
+Found in 2 active sources
 
 Access and share your files, calendars, contacts, mail and [more](https://apps.nextcloud.com/) from any device, on your terms. )
 
@@ -194,7 +180,7 @@ Access and share your files, calendars, contacts, mail and [more](https://apps.n
 
 ### [pm2](https://github.com/unitech/pm2)
 
-![](https://img.shields.io/github/stars/unitech/pm2?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/unitech/pm2?style=flat-square&label=⭐) · Found in 2 active sources
 
 Production Process Manager for Node.js.
 
@@ -208,7 +194,7 @@ Production Process Manager for Node.js.
 
 ### [Prometheus](https://prometheus.io)
 
-2 個のリストに登場
+Found in 2 active sources
 
 Service monitoring system and time series database.
 
@@ -222,7 +208,7 @@ Service monitoring system and time series database.
 
 ### [SaltStack](https://github.com/saltstack/salt)
 
-![](https://img.shields.io/github/stars/saltstack/salt?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/saltstack/salt?style=flat-square&label=⭐) · Found in 2 active sources
 
 _(label: good first issue)_ <br> Software to automate the management and configuration of any infrastructure or application at scale.
 
@@ -236,7 +222,7 @@ _(label: good first issue)_ <br> Software to automate the management and configu
 
 ### [scapy](https://github.com/secdev/scapy)
 
-![](https://img.shields.io/github/stars/secdev/scapy?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/secdev/scapy?style=flat-square&label=⭐) · Found in 2 active sources
 
 Python-based interactive packet manipulation program and library.
 
@@ -250,7 +236,7 @@ Python-based interactive packet manipulation program and library.
 
 ### [Træfɪk](https://github.com/containous/traefik)
 
-![](https://img.shields.io/github/stars/containous/traefik?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/containous/traefik?style=flat-square&label=⭐) · Found in 2 active sources
 
 Automated reverse proxy and load-balancer for Docker, Mesos, Consul, Etcd... By [EmileVauge](https://github.com/emilevauge).
 
@@ -271,7 +257,7 @@ GEMs ほど話題ではないが、該当するユースケースなら信頼で
 
 ### [Bencher](https://bencher.dev)
 
-4 個のリストに登場
+Found in 4 active sources
 
 Suite of continuous benchmarking tools designed to catch performance regressions in CI.
 
@@ -285,7 +271,7 @@ Suite of continuous benchmarking tools designed to catch performance regressions
 
 ### [Dragonfly](https://github.com/dragonflyoss/dragonfly2)
 
-![](https://img.shields.io/github/stars/dragonflyoss/dragonfly2?style=flat-square&label=⭐) · 3 個のリストに登場
+![](https://img.shields.io/github/stars/dragonflyoss/dragonfly2?style=flat-square&label=⭐) · Found in 3 active sources
 
 Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures.
 
@@ -299,7 +285,7 @@ Provide efficient, stable and secure file distribution and image acceleration ba
 
 ### [bandwhich](https://github.com/imsnif/bandwhich)
 
-![](https://img.shields.io/github/stars/imsnif/bandwhich?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/imsnif/bandwhich?style=flat-square&label=⭐) · Found in 2 active sources
 
 Track bandwidth utilization by process.
 
@@ -313,7 +299,7 @@ Track bandwidth utilization by process.
 
 ### [changedetection.io](https://changedetection.io)
 
-2 個のリストに登場
+Found in 2 active sources
 
 Stay up-to-date with web-site content changes.
 
@@ -327,7 +313,7 @@ Stay up-to-date with web-site content changes.
 
 ### [chasquid](https://blitiri.com.ar/p/chasquid)
 
-2 個のリストに登場
+Found in 2 active sources
 
 SMTP (email) server with a focus on simplicity, security, and ease of operation.
 
@@ -341,7 +327,7 @@ SMTP (email) server with a focus on simplicity, security, and ease of operation.
 
 ### [CircleCI](https://circleci.com)
 
-2 個のリストに登場
+Found in 2 active sources
 
 :yen: Push or pull Docker images from your build environment, or build and run containers right on CircleCI.
 
@@ -355,7 +341,7 @@ SMTP (email) server with a focus on simplicity, security, and ease of operation.
 
 ### [ctop](https://github.com/bcicen/ctop)
 
-![](https://img.shields.io/github/stars/bcicen/ctop?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/bcicen/ctop?style=flat-square&label=⭐) · Found in 2 active sources
 
 interface (e.g. htop) for container metrics.
 
@@ -369,7 +355,7 @@ interface (e.g. htop) for container metrics.
 
 ### [Deployer](https://github.com/deployphp/deployer)
 
-![](https://img.shields.io/github/stars/deployphp/deployer?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/deployphp/deployer?style=flat-square&label=⭐) · Found in 2 active sources
 
 _(label: good-for-beginner)_ <br> A deployment tool written in PHP with support for popular frameworks out of the box.
 
@@ -383,7 +369,7 @@ _(label: good-for-beginner)_ <br> A deployment tool written in PHP with support 
 
 ### [dive](https://github.com/wagoodman/dive)
 
-![](https://img.shields.io/github/stars/wagoodman/dive?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/wagoodman/dive?style=flat-square&label=⭐) · Found in 2 active sources
 
 A tool for exploring each layer in a docker image. By [wagoodman](https://github.com/wagoodman).
 
@@ -397,7 +383,7 @@ A tool for exploring each layer in a docker image. By [wagoodman](https://github
 
 ### [docker-volume-backup](https://github.com/offen/docker-volume-backup)
 
-![](https://img.shields.io/github/stars/offen/docker-volume-backup?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/offen/docker-volume-backup?style=flat-square&label=⭐) · Found in 2 active sources
 
 Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage.
 
@@ -411,7 +397,7 @@ Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox 
 
 ### [dockly](https://github.com/lirantal/dockly)
 
-![](https://img.shields.io/github/stars/lirantal/dockly?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/lirantal/dockly?style=flat-square&label=⭐) · Found in 2 active sources
 
 An interactive shell UI for managing Docker containers.
 
@@ -425,7 +411,7 @@ An interactive shell UI for managing Docker containers.
 
 ### [domcyrus/rustnet](https://github.com/domcyrus/rustnet)
 
-![](https://img.shields.io/github/stars/domcyrus/rustnet?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/domcyrus/rustnet?style=flat-square&label=⭐) · Found in 2 active sources
 
 Cross-platform network monitoring TUI with process identification via eBPF/PKTAP and deep packet inspection [](https://github.com/domcyrus/rustnet/actions/workflows/rust.yml) [](https://crates.io/crates/rustnet-monitor)
 
@@ -439,7 +425,7 @@ Cross-platform network monitoring TUI with process identification via eBPF/PKTAP
 
 ### [Drone](https://github.com/drone/drone)
 
-![](https://img.shields.io/github/stars/drone/drone?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/drone/drone?style=flat-square&label=⭐) · Found in 2 active sources
 
 Continuous integration server built on Docker and configured using YAML files.
 
@@ -453,7 +439,7 @@ Continuous integration server built on Docker and configured using YAML files.
 
 ### [glances](https://nicolargo.github.io/glances)
 
-2 個のリストに登場
+Found in 2 active sources
 
 Open-source, cross-platform real-time monitoring tool with CLI and web dashboard interfaces and many exporting options.
 
@@ -467,7 +453,7 @@ Open-source, cross-platform real-time monitoring tool with CLI and web dashboard
 
 ### [HertzBeat](https://github.com/dromara/hertzbeat)
 
-![](https://img.shields.io/github/stars/dromara/hertzbeat?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/dromara/hertzbeat?style=flat-square&label=⭐) · Found in 2 active sources
 
 An open-source real-time monitoring system with custom-monitor and agentless.
 
@@ -481,7 +467,7 @@ An open-source real-time monitoring system with custom-monitor and agentless.
 
 ### [lazydocker](https://github.com/jesseduffield/lazydocker)
 
-![](https://img.shields.io/github/stars/jesseduffield/lazydocker?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/jesseduffield/lazydocker?style=flat-square&label=⭐) · Found in 2 active sources
 
 The lazier way to manage everything docker. A simple terminal UI for both docker and docker-compose, written in Go with the gocui library. By [jesseduffield](https://github.com/jesseduffield).
 
@@ -495,7 +481,7 @@ The lazier way to manage everything docker. A simple terminal UI for both docker
 
 ### [lazyjournal](https://github.com/lifailon/lazyjournal)
 
-![](https://img.shields.io/github/stars/lifailon/lazyjournal?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/lifailon/lazyjournal?style=flat-square&label=⭐) · Found in 2 active sources
 
 A interface for reading and filtering the logs output of Docker and Podman containers like [Dozzle](dozzle) but for the terminal with support for fuzzy find, regex and output coloring.
 
@@ -509,7 +495,7 @@ A interface for reading and filtering the logs output of Docker and Podman conta
 
 ### [localtunnel](https://github.com/localtunnel/localtunnel)
 
-![](https://img.shields.io/github/stars/localtunnel/localtunnel?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/localtunnel/localtunnel?style=flat-square&label=⭐) · Found in 2 active sources
 
 Expose your localhost to the world.
 
@@ -523,7 +509,7 @@ Expose your localhost to the world.
 
 ### [Luigi](https://github.com/spotify/luigi)
 
-![](https://img.shields.io/github/stars/spotify/luigi?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/spotify/luigi?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Luigi is a Python module that helps you build complex pipelines of batch jobs, handling dependency resolution, workflow management, visualisation, etc..
 
@@ -537,7 +523,7 @@ Expose your localhost to the world.
 
 ### [MeshCentral](https://meshcentral.com)
 
-2 個のリストに登場
+Found in 2 active sources
 
 Run your own web server to remotely manage and control computers on a local network or anywhere on the internet.
 
@@ -551,7 +537,7 @@ Run your own web server to remotely manage and control computers on a local netw
 
 ### [MyIP](https://github.com/jason5ng32/myip)
 
-![](https://img.shields.io/github/stars/jason5ng32/myip?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/jason5ng32/myip?style=flat-square&label=⭐) · Found in 2 active sources
 
 All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more. By [jason5ng32](https://github.com/jason5ng32).
 
@@ -565,7 +551,7 @@ All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS
 
 ### [netdata/netdata#Netdata](https://github.com/netdata/netdata)
 
-![](https://img.shields.io/github/stars/netdata/netdata?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/netdata/netdata?style=flat-square&label=⭐) · Found in 2 active sources
 
 🎖️ 🏠 ☁️ 📟 🍎 🪟 🐧 - Discovery, exploration, reporting and root cause analysis using all observability data, including metrics, logs, systems, containers, processes, and network connections
 
@@ -579,7 +565,7 @@ All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS
 
 ### [nwiizo/tfmcp](https://github.com/nwiizo/tfmcp)
 
-![](https://img.shields.io/github/stars/nwiizo/tfmcp?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/nwiizo/tfmcp?style=flat-square&label=⭐) · Found in 2 active sources
 
 🦀 🏠 - A Terraform MCP server allowing AI assistants to manage and operate Terraform environments, enabling reading configurations, analyzing plans, applying configurations, and managing Terraform state.
 
@@ -593,7 +579,7 @@ All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS
 
 ### [orhun/rustypaste](https://github.com/orhun/rustypaste)
 
-![](https://img.shields.io/github/stars/orhun/rustypaste?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/orhun/rustypaste?style=flat-square&label=⭐) · Found in 2 active sources
 
 A minimal file upload/pastebin service
 
@@ -607,7 +593,7 @@ A minimal file upload/pastebin service
 
 ### [Outline Server](https://getoutline.org)
 
-2 個のリストに登場
+Found in 2 active sources
 
 A proxy server that runs a Shadowsocks instance for each access key and a REST API to manage the access keys.
 
@@ -621,7 +607,7 @@ A proxy server that runs a Shadowsocks instance for each access key and a REST A
 
 ### [oxker](https://github.com/mrjackwills/oxker)
 
-![](https://img.shields.io/github/stars/mrjackwills/oxker?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/mrjackwills/oxker?style=flat-square&label=⭐) · Found in 2 active sources
 
 A simple tui to view & control docker containers. Written in [Rust](https://rust-lang.org/), making heavy use of [ratatui](https://github.com/tui-rs-revival/ratatui) & [Bollard](https://github.com/fussybeaver/bollard),.
 
@@ -635,7 +621,7 @@ A simple tui to view & control docker containers. Written in [Rust](https://rust
 
 ### [Pomerium](https://pomerium.io)
 
-2 個のリストに登場
+Found in 2 active sources
 
 Identity-aware reverse proxy, successor to now obsolete oauth_proxy. It inserts an OAuth step before proxying your request to the backend, so that you can safely expose your self-hosted websites to public Internet.
 
@@ -649,7 +635,7 @@ Identity-aware reverse proxy, successor to now obsolete oauth_proxy. It inserts 
 
 ### [Prefect Core](https://github.com/prefecthq/prefect)
 
-![](https://img.shields.io/github/stars/prefecthq/prefect?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/prefecthq/prefect?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Workflow management system that makes it easy to take your data pipelines and add semantics like retries, logging, dynamic mapping, caching, failure notifications, and more.
 
@@ -663,7 +649,7 @@ Identity-aware reverse proxy, successor to now obsolete oauth_proxy. It inserts 
 
 ### [QEMU](https://qemu.org)
 
-2 個のリストに登場
+Found in 2 active sources
 
 A free and open-source emulator and virtualizer that can perform hardware virtualization. [![Open-Source Software][OSS Icon]](https://github.com/qemu/qemu) ![Freeware][Freeware Icon]
 
@@ -677,7 +663,7 @@ A free and open-source emulator and virtualizer that can perform hardware virtua
 
 ### [ryot](https://github.com/ignisda/ryot)
 
-![](https://img.shields.io/github/stars/ignisda/ryot?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/ignisda/ryot?style=flat-square&label=⭐) · Found in 2 active sources
 
 Track various facets of your life - media, fitness, etc.
 
@@ -691,7 +677,7 @@ Track various facets of your life - media, fitness, etc.
 
 ### [s5cmd](https://github.com/peak/s5cmd)
 
-![](https://img.shields.io/github/stars/peak/s5cmd?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/peak/s5cmd?style=flat-square&label=⭐) · Found in 2 active sources
 
 Blazing fast S3 and local filesystem execution tool.
 
@@ -705,7 +691,7 @@ Blazing fast S3 and local filesystem execution tool.
 
 ### [Semaphore CI](https://semaphore.io)
 
-2 個のリストに登場
+Found in 2 active sources
 
 yen: — A high-performance cloud solution that makes it easy to build, test and ship your containers to production.
 
@@ -719,7 +705,7 @@ yen: — A high-performance cloud solution that makes it easy to build, test and
 
 ### [SinTan1729/Chhoto URL](https://github.com/sintan1729/chhoto-url)
 
-![](https://img.shields.io/github/stars/sintan1729/chhoto-url?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/sintan1729/chhoto-url?style=flat-square&label=⭐) · Found in 2 active sources
 
 A simple, blazingly fast, selfhosted URL shortener with no unnecessary features.[](https://github.com/SinTan1729/chhoto-url/actions/workflows/docker-release.yml)
 
@@ -733,7 +719,7 @@ A simple, blazingly fast, selfhosted URL shortener with no unnecessary features.
 
 ### [sshuttle](https://github.com/sshuttle/sshuttle)
 
-![](https://img.shields.io/github/stars/sshuttle/sshuttle?style=flat-square&label=⭐) · 2 個のリストに登場
+![](https://img.shields.io/github/stars/sshuttle/sshuttle?style=flat-square&label=⭐) · Found in 2 active sources
 
 Transparent proxy server that works as a poor man's VPN.
 

@@ -2,7 +2,7 @@
 
 <p><sub>← [Back to main](../README.md)</sub></p>
 
-**54 GEMs · 97 Worth trying**
+**53 GEMs · 97 Worth trying**
 
 ---
 
@@ -12,7 +12,7 @@ Tools the community considers default. If you don't know them yet, they're worth
 
 ### 👤 [Cline](https://marketplace.visualstudio.com/items)
 
-🔥 **appears in 7 lists**
+🔥 **Found in 7 active sources**
 
 Autonomous coding agent for VS Code that can create/edit files, execute commands, and use the browser with user permission. Supports multiple AI providers including OpenRouter, Anthropic, OpenAI, Google Gemini, AWS Bedrock, Azure, and GCP Vertex.
 
@@ -26,7 +26,7 @@ Autonomous coding agent for VS Code that can create/edit files, execute commands
 
 ### 👤 [Pytorch](https://github.com/pytorch/pytorch)
 
-![](https://img.shields.io/github/stars/pytorch/pytorch?style=flat-square&label=⭐) · 🔥 **appears in 6 lists**
+![](https://img.shields.io/github/stars/pytorch/pytorch?style=flat-square&label=⭐) · 🔥 **Found in 6 active sources**
 
 _(label: good first issue)_ <br> PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing.
 
@@ -40,7 +40,7 @@ _(label: good first issue)_ <br> PyTorch is an open source machine learning libr
 
 ### 👤 [TensorFlow](https://github.com/tensorflow/tensorflow)
 
-![](https://img.shields.io/github/stars/tensorflow/tensorflow?style=flat-square&label=⭐) · 🔥 **appears in 6 lists**
+![](https://img.shields.io/github/stars/tensorflow/tensorflow?style=flat-square&label=⭐) · 🔥 **Found in 6 active sources**
 
 - TensorFlow is a leading library designed for developing and deploying state-of-the-art machine learning applications.
 
@@ -54,7 +54,7 @@ _(label: good first issue)_ <br> PyTorch is an open source machine learning libr
 
 ### [Docker](https://docker.com)
 
-appears in 4 lists
+Found in 4 active sources
 
 Powerful, performs operating-system-level virtualization. [![Open-Source Software][OSS Icon]](https://github.com/docker) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/veggiemonk/awesome-docker#readme)
 
@@ -68,7 +68,7 @@ Powerful, performs operating-system-level virtualization. [![Open-Source Softwar
 
 ### [Node.js](https://github.com/sindresorhus/awesome-nodejs)
 
-![](https://img.shields.io/github/stars/sindresorhus/awesome-nodejs?style=flat-square&label=⭐) · appears in 4 lists
+![](https://img.shields.io/github/stars/sindresorhus/awesome-nodejs?style=flat-square&label=⭐) · Found in 4 active sources
 
 Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
 
@@ -82,7 +82,7 @@ Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScri
 
 ### [Obsidian](https://obsidian.md)
 
-appears in 4 lists
+Found in 4 active sources
 
 Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
 
@@ -96,7 +96,7 @@ Obsidian is a powerful knowledge base on top of a local folder of plain text Mar
 
 ### [Playwright](https://github.com/microsoft/playwright)
 
-![](https://img.shields.io/github/stars/microsoft/playwright?style=flat-square&label=⭐) · appears in 4 lists
+![](https://img.shields.io/github/stars/microsoft/playwright?style=flat-square&label=⭐) · Found in 4 active sources
 
 Node.js library to automate Chromium, Firefox and WebKit with a single API.
 
@@ -110,7 +110,7 @@ Node.js library to automate Chromium, Firefox and WebKit with a single API.
 
 ### [Visual Studio Code](https://code.visualstudio.com)
 
-appears in 4 lists
+Found in 4 active sources
 
 Microsoft's free & open-source editor, TypeScript friendly, [VSCode Plugins](editor-plugin.md#vscode-plugin). [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/viatsko/awesome-vscode#readme)
 
@@ -124,7 +124,7 @@ Microsoft's free & open-source editor, TypeScript friendly, [VSCode Plugins](edi
 
 ### [Bitwarden](https://bitwarden.com)
 
-appears in 3 lists
+Found in 3 active sources
 
 Open source password management tool for Mac OS, iOS and browsers. [![Open-Source Software][OSS Icon]](https://github.com/bitwarden) ![Freeware][Freeware Icon]
 
@@ -138,7 +138,7 @@ Open source password management tool for Mac OS, iOS and browsers. [![Open-Sourc
 
 ### [DVC](https://github.com/iterative/dvc)
 
-![](https://img.shields.io/github/stars/iterative/dvc?style=flat-square&label=⭐) · appears in 3 lists
+![](https://img.shields.io/github/stars/iterative/dvc?style=flat-square&label=⭐) · Found in 3 active sources
 
 Data Science Version Control is an open-source version control system for machine learning projects with pipelines support. It makes ML projects reproducible and shareable.
 
@@ -152,7 +152,7 @@ Data Science Version Control is an open-source version control system for machin
 
 ### [Jupyter Notebooks](https://github.com/jupyter/notebook)
 
-![](https://img.shields.io/github/stars/jupyter/notebook?style=flat-square&label=⭐) · appears in 3 lists
+![](https://img.shields.io/github/stars/jupyter/notebook?style=flat-square&label=⭐) · Found in 3 active sources
 
 - Web interface python sandbox environments for reproducible development
 
@@ -166,7 +166,7 @@ Data Science Version Control is an open-source version control system for machin
 
 ### [Kubernetes](https://github.com/kubernetes/kubernetes)
 
-![](https://img.shields.io/github/stars/kubernetes/kubernetes?style=flat-square&label=⭐) · appears in 3 lists
+![](https://img.shields.io/github/stars/kubernetes/kubernetes?style=flat-square&label=⭐) · Found in 3 active sources
 
 _(label: good first issue)_ <br> Production-Grade Container Scheduling and Management System
 
@@ -180,7 +180,7 @@ _(label: good first issue)_ <br> Production-Grade Container Scheduling and Manag
 
 ### [LightGBM](https://github.com/microsoft/lightgbm)
 
-![](https://img.shields.io/github/stars/microsoft/lightgbm?style=flat-square&label=⭐) · appears in 3 lists
+![](https://img.shields.io/github/stars/microsoft/lightgbm?style=flat-square&label=⭐) · Found in 3 active sources
 
 Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 
@@ -194,7 +194,7 @@ Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, G
 
 ### [mitmproxy](https://mitmproxy.org)
 
-appears in 3 lists
+Found in 3 active sources
 
 A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems.
 
@@ -208,7 +208,7 @@ A Python tool used for intercepting, viewing and modifying network traffic. Inva
 
 ### [Moby](https://github.com/moby/moby)
 
-![](https://img.shields.io/github/stars/moby/moby?style=flat-square&label=⭐) · appears in 3 lists
+![](https://img.shields.io/github/stars/moby/moby?style=flat-square&label=⭐) · Found in 3 active sources
 
 Collaborative project for the container ecosystem to assemble container-based systems.
 
@@ -222,7 +222,7 @@ Collaborative project for the container ecosystem to assemble container-based sy
 
 ### [PyG](https://github.com/pyg-team/pytorch_geometric)
 
-![](https://img.shields.io/github/stars/pyg-team/pytorch_geometric?style=flat-square&label=⭐) · appears in 3 lists
+![](https://img.shields.io/github/stars/pyg-team/pytorch_geometric?style=flat-square&label=⭐) · Found in 3 active sources
 
 - PyG (PyTorch Geometric) is a library built upon PyTorch to easily write and train Graph Neural Networks (GNNs) for a wide range of applications related to structured data.
 
@@ -236,7 +236,7 @@ Collaborative project for the container ecosystem to assemble container-based sy
 
 ### [scikit-learn](https://github.com/scikit-learn/scikit-learn)
 
-![](https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=flat-square&label=⭐) · appears in 3 lists
+![](https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=flat-square&label=⭐) · Found in 3 active sources
 
 - Scikit-learn is a powerful machine learning library that provides a wide variety of modules for data access, data preparation and statistical model building.
 
@@ -250,7 +250,7 @@ Collaborative project for the container ecosystem to assemble container-based sy
 
 ### [SymPy](https://github.com/sympy/sympy)
 
-![](https://img.shields.io/github/stars/sympy/sympy?style=flat-square&label=⭐) · appears in 3 lists
+![](https://img.shields.io/github/stars/sympy/sympy?style=flat-square&label=⭐) · Found in 3 active sources
 
 _(label: Easy-to-Fix)_ <br> A Python library for symbolic mathematics.
 
@@ -264,7 +264,7 @@ _(label: Easy-to-Fix)_ <br> A Python library for symbolic mathematics.
 
 ### [Transformers](https://github.com/huggingface/transformers)
 
-![](https://img.shields.io/github/stars/huggingface/transformers?style=flat-square&label=⭐) · appears in 3 lists
+![](https://img.shields.io/github/stars/huggingface/transformers?style=flat-square&label=⭐) · Found in 3 active sources
 
 - Huggingface's library of state-of-the-art pretrained models for Natural Language Processing (NLP).
 
@@ -278,7 +278,7 @@ _(label: Easy-to-Fix)_ <br> A Python library for symbolic mathematics.
 
 ### [Wireshark](https://wireshark.org)
 
-appears in 3 lists
+Found in 3 active sources
 
 The world’s foremost and widely-used network protocol analyzer. [![Open-Source Software][OSS Icon]](https://github.com/wireshark/wireshark) ![Freeware][Freeware Icon]
 
@@ -292,7 +292,7 @@ The world’s foremost and widely-used network protocol analyzer. [![Open-Source
 
 ### [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
 
-![](https://img.shields.io/github/stars/ajeetdsouza/zoxide?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/ajeetdsouza/zoxide?style=flat-square&label=⭐) · Found in 2 active sources
 
 A fast alternative to `cd` that learns your habits [](https://github.com/ajeetdsouza/zoxide/actions)
 
@@ -306,7 +306,7 @@ A fast alternative to `cd` that learns your habits [](https://github.com/ajeetds
 
 ### [Apache Maven](https://maven.apache.org)
 
-appears in 2 lists
+Found in 2 active sources
 
 Build automation tool mainly for Java. A software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.
 
@@ -320,7 +320,7 @@ Build automation tool mainly for Java. A software project management and compreh
 
 ### [astral-sh/ruff](https://github.com/astral-sh/ruff)
 
-![](https://img.shields.io/github/stars/astral-sh/ruff?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/astral-sh/ruff?style=flat-square&label=⭐) · Found in 2 active sources
 
 An extremely fast Python linter and code formatter [](https://github.com/astral-sh/ruff/actions)
 
@@ -334,7 +334,7 @@ An extremely fast Python linter and code formatter [](https://github.com/astral-
 
 ### [Calibre](https://calibre-ebook.com)
 
-appears in 2 lists
+Found in 2 active sources
 
 E-book library manager that can view, convert, and catalog e-books in most of the major e-book formats and provides a built-in Web server for remote clients. )
 
@@ -348,7 +348,7 @@ E-book library manager that can view, convert, and catalog e-books in most of th
 
 ### [cookiecutter](https://github.com/cookiecutter/cookiecutter)
 
-![](https://img.shields.io/github/stars/cookiecutter/cookiecutter?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/cookiecutter/cookiecutter?style=flat-square&label=⭐) · Found in 2 active sources
 
 _(label: good first issue)_ <br> A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
 
@@ -362,7 +362,7 @@ _(label: good first issue)_ <br> A command-line utility that creates projects fr
 
 ### [cypress](https://github.com/cypress-io/cypress)
 
-![](https://img.shields.io/github/stars/cypress-io/cypress?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/cypress-io/cypress?style=flat-square&label=⭐) · Found in 2 active sources
 
 _(label: good first issue)_ <br> Fast, easy and reliable testing for anything that runs in a browser.
 
@@ -376,7 +376,7 @@ _(label: good first issue)_ <br> Fast, easy and reliable testing for anything th
 
 ### [dust](https://github.com/bootandy/dust)
 
-![](https://img.shields.io/github/stars/bootandy/dust?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/bootandy/dust?style=flat-square&label=⭐) · Found in 2 active sources
 
 A more intuitive version of `du` in Rust.
 
@@ -390,7 +390,7 @@ A more intuitive version of `du` in Rust.
 
 ### [fzf](https://github.com/junegunn/fzf)
 
-![](https://img.shields.io/github/stars/junegunn/fzf?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/junegunn/fzf?style=flat-square&label=⭐) · Found in 2 active sources
 
 A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
 
@@ -404,7 +404,7 @@ A general purpose command-line fuzzy finder, can be used with any list: files/di
 
 ### [Gradle](https://gradle.org)
 
-appears in 2 lists
+Found in 2 active sources
 
 Incremental builds programmed via Groovy instead of declaring XML. Works well with Maven's dependency management.
 
@@ -418,7 +418,7 @@ Incremental builds programmed via Groovy instead of declaring XML. Works well wi
 
 ### [GTK+](https://gtk.org)
 
-appears in 2 lists
+Found in 2 active sources
 
 A multi-platform toolkit for creating graphical user interfaces. [LGPL]
 
@@ -432,7 +432,7 @@ A multi-platform toolkit for creating graphical user interfaces. [LGPL]
 
 ### [Hex Fiend](https://ridiculousfish.com/hexfiend)
 
-appears in 2 lists
+Found in 2 active sources
 
 Fast and clever open source hex editor. [![Open-Source Software][OSS Icon]](https://github.com/ridiculousfish/HexFiend/) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/hex-fiend/id1342896380?platform=mac)
 
@@ -446,7 +446,7 @@ Fast and clever open source hex editor. [![Open-Source Software][OSS Icon]](http
 
 ### [Homebrew](https://brew.sh)
 
-appears in 2 lists
+Found in 2 active sources
 
 The missing package manager for macOS. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Homebrew/brew/)
 
@@ -460,7 +460,7 @@ The missing package manager for macOS. ![Freeware][Freeware Icon] [![Open-Source
 
 ### [imgui](https://github.com/ocornut/imgui)
 
-![](https://img.shields.io/github/stars/ocornut/imgui?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/ocornut/imgui?style=flat-square&label=⭐) · Found in 2 active sources
 
 Immediate Mode Graphical User Interface with minimal dependencies. [MIT]
 
@@ -474,7 +474,7 @@ Immediate Mode Graphical User Interface with minimal dependencies. [MIT]
 
 ### [IntelliJ IDEA](https://jetbrains.com/idea)
 
-appears in 2 lists
+Found in 2 active sources
 
 Powerful IDE for JVM languages. (**Free** for Students)
 
@@ -488,7 +488,7 @@ Powerful IDE for JVM languages. (**Free** for Students)
 
 ### [Jupyter](https://github.com/markusschanta/awesome-jupyter)
 
-![](https://img.shields.io/github/stars/markusschanta/awesome-jupyter?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/markusschanta/awesome-jupyter?style=flat-square&label=⭐) · Found in 2 active sources
 
 Create and share documents that contain code, equations, visualizations and narrative text.
 
@@ -502,7 +502,7 @@ Create and share documents that contain code, equations, visualizations and narr
 
 ### [MicroPython](https://github.com/micropython/micropython)
 
-![](https://img.shields.io/github/stars/micropython/micropython?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/micropython/micropython?style=flat-square&label=⭐) · Found in 2 active sources
 
 Aims to put an implementation of Python 3.x on a microcontroller. [MIT]
 
@@ -514,23 +514,9 @@ Aims to put an implementation of Python 3.x on a microcontroller. [MIT]
 
 ---
 
-### [mitmproxy](https://github.com/mitmproxy/mitmproxy)
-
-![](https://img.shields.io/github/stars/mitmproxy/mitmproxy?style=flat-square&label=⭐) · appears in 2 lists
-
-_(label: help-wanted)_ <br> An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
-
-> **AI analysis:** Proxy HTTP/HTTPS interactivo para testing y pentesting. Herramienta de facto en seguridad. Resuelve debugging de requests HTTPS e inspection de tráfico.
-
-**Strengths:** _TLS termination interactivo_ · _API programática + web UI_
-
-**Tags:** `proxy` `http` `https` `security` `penetration-testing`
-
----
-
 ### [mypy](https://github.com/python/mypy)
 
-![](https://img.shields.io/github/stars/python/mypy?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/python/mypy?style=flat-square&label=⭐) · Found in 2 active sources
 
 _(label: good first issue)_ <br> Optional static typing for Python.
 
@@ -544,7 +530,7 @@ _(label: good first issue)_ <br> Optional static typing for Python.
 
 ### [Neon](https://github.com/neon-bindings/neon)
 
-![](https://img.shields.io/github/stars/neon-bindings/neon?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/neon-bindings/neon?style=flat-square&label=⭐) · Found in 2 active sources
 
 Rust bindings for writing safe and fast native Node.js modules.
 
@@ -558,7 +544,7 @@ Rust bindings for writing safe and fast native Node.js modules.
 
 ### [Node.js core](https://github.com/nodejs/node)
 
-![](https://img.shields.io/github/stars/nodejs/node?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/nodejs/node?style=flat-square&label=⭐) · Found in 2 active sources
 
 _(label: good first issue)_ <br> JavaScript runtime built on Chrome's V8 JavaScript engine
 
@@ -572,7 +558,7 @@ _(label: good first issue)_ <br> JavaScript runtime built on Chrome's V8 JavaScr
 
 ### [Notion](https://notion.so)
 
-appears in 2 lists
+Found in 2 active sources
 
 All-in-one workspace for your notes, tasks, wikis, and databases.
 
@@ -586,7 +572,7 @@ All-in-one workspace for your notes, tasks, wikis, and databases.
 
 ### [OpenAPI Generator](https://github.com/openapitools/openapi-generator)
 
-![](https://img.shields.io/github/stars/openapitools/openapi-generator?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/openapitools/openapi-generator?style=flat-square&label=⭐) · Found in 2 active sources
 
 OpenAPI Generator allows generation of API client libraries (e.g. C#, TypeScript, etc), server stubs (ASP.NET Core, NancyFx, etc), documentation and configuration automatically given an OpenAPI Spec (v2, v3).
 
@@ -600,7 +586,7 @@ OpenAPI Generator allows generation of API client libraries (e.g. C#, TypeScript
 
 ### [Postman](https://getpostman.com)
 
-appears in 2 lists
+Found in 2 active sources
 
 GUI platform for API development. ![Freeware][Freeware Icon]
 
@@ -614,7 +600,7 @@ GUI platform for API development. ![Freeware][Freeware Icon]
 
 ### [Pytest](https://github.com/pytest-dev/pytest)
 
-![](https://img.shields.io/github/stars/pytest-dev/pytest?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/pytest-dev/pytest?style=flat-square&label=⭐) · Found in 2 active sources
 
 _(label: status:-easy)_ <br> The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.
 
@@ -628,7 +614,7 @@ _(label: status:-easy)_ <br> The pytest framework makes it easy to write small t
 
 ### [RustDesk](https://github.com/rustdesk/rustdesk)
 
-![](https://img.shields.io/github/stars/rustdesk/rustdesk?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/rustdesk/rustdesk?style=flat-square&label=⭐) · Found in 2 active sources
 
 [99332⭐] - Open source virtual / remote desktop. TeamViewer alternative. Built with Rust by [RustDesk team](https://www.rustdesk.com/).
 
@@ -642,7 +628,7 @@ _(label: status:-easy)_ <br> The pytest framework makes it easy to write small t
 
 ### [Sccache](https://github.com/mozilla/sccache)
 
-![](https://img.shields.io/github/stars/mozilla/sccache?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/mozilla/sccache?style=flat-square&label=⭐) · Found in 2 active sources
 
 A fast compiler cache for C/C++, with cross-platform support and cloud backed storage options.
 
@@ -656,7 +642,7 @@ A fast compiler cache for C/C++, with cross-platform support and cloud backed st
 
 ### [Selenium](https://github.com/christian-bromann/awesome-selenium)
 
-![](https://img.shields.io/github/stars/christian-bromann/awesome-selenium?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/christian-bromann/awesome-selenium?style=flat-square&label=⭐) · Found in 2 active sources
 
 Open-source browser automation framework and ecosystem.
 
@@ -670,7 +656,7 @@ Open-source browser automation framework and ecosystem.
 
 ### [sharkdp/bat](https://github.com/sharkdp/bat)
 
-![](https://img.shields.io/github/stars/sharkdp/bat?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/sharkdp/bat?style=flat-square&label=⭐) · Found in 2 active sources
 
 A cat(1) clone with wings. [](https://github.com/sharkdp/bat/actions/workflows/CICD.yml)
 
@@ -684,7 +670,7 @@ A cat(1) clone with wings. [](https://github.com/sharkdp/bat/actions/workflows/C
 
 ### [sharkdp/fd](https://github.com/sharkdp/fd)
 
-![](https://img.shields.io/github/stars/sharkdp/fd?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/sharkdp/fd?style=flat-square&label=⭐) · Found in 2 active sources
 
 A simple, fast and user-friendly alternative to find. [](https://github.com/sharkdp/fd/actions/workflows/CICD.yml)
 
@@ -698,7 +684,7 @@ A simple, fast and user-friendly alternative to find. [](https://github.com/shar
 
 ### [Taskwarrior](https://taskwarrior.org)
 
-appears in 2 lists
+Found in 2 active sources
 
 Taskwarrior is Free and Open Source Software that manages your TODO list from your command line. It is flexible, fast, efficient, and unobtrusive. It does its job then gets out of your way.
 
@@ -712,7 +698,7 @@ Taskwarrior is Free and Open Source Software that manages your TODO list from yo
 
 ### [Vim](https://vim.org)
 
-appears in 2 lists
+Found in 2 active sources
 
 An old terminal-based editor. For common plugins, check [Vim Common Plugins](editor-plugin-zh.md#vim-plugin). [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/mhinz/vim-galore#readme)
 
@@ -726,7 +712,7 @@ An old terminal-based editor. For common plugins, check [Vim Common Plugins](edi
 
 ### [VSCodium](https://vscodium.com)
 
-appears in 2 lists
+Found in 2 active sources
 
 An open source cross-platform extensible code editor based on [VS Code by Microsoft](https://code.visualstudio.com/) removing their non-free additions.
 
@@ -740,7 +726,7 @@ An open source cross-platform extensible code editor based on [VS Code by Micros
 
 ### [Xcode](https://developer.apple.com/xcode)
 
-appears in 2 lists
+Found in 2 active sources
 
 Essential IDE for iOS/macOS development. [![App Store][app-store Icon]](https://apps.apple.com/app/id497799835?platform=mac)
 
@@ -754,7 +740,7 @@ Essential IDE for iOS/macOS development. [![App Store][app-store Icon]](https://
 
 ### [Zed](https://zed.dev)
 
-appears in 2 lists
+Found in 2 active sources
 
 A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. [![Open-Source Software][OSS Icon]](https://github.com/zed-industries/zed) ![Freeware][Freeware Icon]
 
@@ -775,7 +761,7 @@ Less hype than the GEMs but reliable if you fall into their use case.
 
 ### [Bokeh](https://github.com/bokeh/bokeh)
 
-![](https://img.shields.io/github/stars/bokeh/bokeh?style=flat-square&label=⭐) · appears in 4 lists
+![](https://img.shields.io/github/stars/bokeh/bokeh?style=flat-square&label=⭐) · Found in 4 active sources
 
 - Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation of data in modern web browsers.
 
@@ -789,7 +775,7 @@ Less hype than the GEMs but reliable if you fall into their use case.
 
 ### [Sniffnet](https://github.com/gyulyvgc/sniffnet)
 
-![](https://img.shields.io/github/stars/gyulyvgc/sniffnet?style=flat-square&label=⭐) · appears in 4 lists
+![](https://img.shields.io/github/stars/gyulyvgc/sniffnet?style=flat-square&label=⭐) · Found in 4 active sources
 
 Cross-platform application to monitor your network traffic with ease [](https://github.com/GyulyVGC/sniffnet/blob/main/.github/workflows/rust.yml) [](https://crates.io/crates/sniffnet)
 
@@ -803,7 +789,7 @@ Cross-platform application to monitor your network traffic with ease [](https://
 
 ### [bun](https://bun.sh)
 
-appears in 3 lists
+Found in 3 active sources
 
 Bun is a fast JavaScript runtime, package manager, bundler, test runner
 
@@ -817,7 +803,7 @@ Bun is a fast JavaScript runtime, package manager, bundler, test runner
 
 ### [Cake](https://github.com/cake-build/cake)
 
-![](https://img.shields.io/github/stars/cake-build/cake?style=flat-square&label=⭐) · appears in 3 lists
+![](https://img.shields.io/github/stars/cake-build/cake?style=flat-square&label=⭐) · Found in 3 active sources
 
 _(label: Good-first-issue)_ <br> Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and folders, running unit tests, compressing files and building NuGet packages.
 
@@ -831,7 +817,7 @@ _(label: Good-first-issue)_ <br> Cake (C# Make) is a free and open source cross-
 
 ### [Colossal-AI](https://github.com/hpcaitech/colossalai)
 
-![](https://img.shields.io/github/stars/hpcaitech/colossalai?style=flat-square&label=⭐) · appears in 3 lists
+![](https://img.shields.io/github/stars/hpcaitech/colossalai?style=flat-square&label=⭐) · Found in 3 active sources
 
 - A unified deep learning system for big model era, which helps users to efficiently and quickly deploy large AI model training and inference.
 
@@ -845,7 +831,7 @@ _(label: Good-first-issue)_ <br> Cake (C# Make) is a free and open source cross-
 
 ### [Deepchecks](https://github.com/deepchecks/deepchecks)
 
-![](https://img.shields.io/github/stars/deepchecks/deepchecks?style=flat-square&label=⭐) · appears in 3 lists
+![](https://img.shields.io/github/stars/deepchecks/deepchecks?style=flat-square&label=⭐) · Found in 3 active sources
 
 - Deepchecks is a holistic open-source solution for all of your AI & ML validation needs, enabling you to test your data and models from research to production thoroughly.
 
@@ -859,7 +845,7 @@ _(label: Good-first-issue)_ <br> Cake (C# Make) is a free and open source cross-
 
 ### [intelli-shell](https://github.com/lasantosr/intelli-shell)
 
-![](https://img.shields.io/github/stars/lasantosr/intelli-shell?style=flat-square&label=⭐) · appears in 3 lists
+![](https://img.shields.io/github/stars/lasantosr/intelli-shell?style=flat-square&label=⭐) · Found in 3 active sources
 
 Bookmark commands with placeholders and search or autocomplete at any time [](https://crates.io/crates/intelli-shell) [](https://github.com/lasantosr/intelli-shell/actions/workflows/release.yml)
 
@@ -873,7 +859,7 @@ Bookmark commands with placeholders and search or autocomplete at any time [](ht
 
 ### [lstags](https://github.com/ivanilves/lstags)
 
-![](https://img.shields.io/github/stars/ivanilves/lstags?style=flat-square&label=⭐) · appears in 3 lists
+![](https://img.shields.io/github/stars/ivanilves/lstags?style=flat-square&label=⭐) · Found in 3 active sources
 
 Tool and API to sync Docker images across different registries.
 
@@ -887,7 +873,7 @@ Tool and API to sync Docker images across different registries.
 
 ### [Mocha](https://github.com/mochajs/mocha)
 
-![](https://img.shields.io/github/stars/mochajs/mocha?style=flat-square&label=⭐) · appears in 3 lists
+![](https://img.shields.io/github/stars/mochajs/mocha?style=flat-square&label=⭐) · Found in 3 active sources
 
 _(label: good first issue)_ <br> Javascript test framework for Node.js and the browser.
 
@@ -901,7 +887,7 @@ _(label: good first issue)_ <br> Javascript test framework for Node.js and the b
 
 ### [OctoLinker](https://github.com/octolinker/browser-extension)
 
-![](https://img.shields.io/github/stars/octolinker/browser-extension?style=flat-square&label=⭐) · appears in 3 lists
+![](https://img.shields.io/github/stars/octolinker/browser-extension?style=flat-square&label=⭐) · Found in 3 active sources
 
 Navigate through `projects.json` files efficiently with the OctoLinker browser extension for GitHub.
 
@@ -915,7 +901,7 @@ Navigate through `projects.json` files efficiently with the OctoLinker browser e
 
 ### [PeachPie](https://github.com/peachpiecompiler/peachpie)
 
-![](https://img.shields.io/github/stars/peachpiecompiler/peachpie?style=flat-square&label=⭐) · appears in 3 lists
+![](https://img.shields.io/github/stars/peachpiecompiler/peachpie?style=flat-square&label=⭐) · Found in 3 active sources
 
 PeachPie is a PHP compiler and runtime for .NET and .NET Core, which allows entire PHP applications to run on the modern, secure and performant .NET and .NET Core platforms.
 
@@ -929,7 +915,7 @@ PeachPie is a PHP compiler and runtime for .NET and .NET Core, which allows enti
 
 ### [Polyaxon](https://github.com/polyaxon/polyaxon)
 
-![](https://img.shields.io/github/stars/polyaxon/polyaxon?style=flat-square&label=⭐) · appears in 3 lists
+![](https://img.shields.io/github/stars/polyaxon/polyaxon?style=flat-square&label=⭐) · Found in 3 active sources
 
 - A platform for reproducible and scalable machine learning and deep learning on kubernetes - [(Video)](https://www.youtube.com/watch?v=Iexwrka_hys).
 
@@ -943,7 +929,7 @@ PeachPie is a PHP compiler and runtime for .NET and .NET Core, which allows enti
 
 ### [PyMC](https://github.com/pymc-devs/pymc)
 
-![](https://img.shields.io/github/stars/pymc-devs/pymc?style=flat-square&label=⭐) · appears in 3 lists
+![](https://img.shields.io/github/stars/pymc-devs/pymc?style=flat-square&label=⭐) · Found in 3 active sources
 
 _(label: beginner friendly)_ <br> A Python library for Bayesian statistical modeling and probabilistic machine learning. Beginner-friendly with 'good first issue' labels.
 
@@ -957,7 +943,7 @@ _(label: beginner friendly)_ <br> A Python library for Bayesian statistical mode
 
 ### [Readest](https://github.com/readest/readest)
 
-![](https://img.shields.io/github/stars/readest/readest?style=flat-square&label=⭐) · appears in 3 lists
+![](https://img.shields.io/github/stars/readest/readest?style=flat-square&label=⭐) · Found in 3 active sources
 
 _(label: good first issue)_ <br> A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface.
 
@@ -971,7 +957,7 @@ _(label: good first issue)_ <br> A modern, feature-rich ebook reader designed fo
 
 ### [Rider](https://jetbrains.com/rider)
 
-appears in 3 lists
+Found in 3 active sources
 
 A cross-platform C# IDE based on the IntelliJ platform and ReSharper
 
@@ -985,7 +971,7 @@ A cross-platform C# IDE based on the IntelliJ platform and ReSharper
 
 ### [Wave](https://github.com/wavetermdev/waveterm)
 
-![](https://img.shields.io/github/stars/wavetermdev/waveterm?style=flat-square&label=⭐) · appears in 3 lists
+![](https://img.shields.io/github/stars/wavetermdev/waveterm?style=flat-square&label=⭐) · Found in 3 active sources
 
 Open-source terminal with built-in file previews, web browsing, and AI tools. [![Open-Source Software][OSS Icon]](https://github.com/wavetermdev/waveterm) ![Freeware][Freeware Icon]
 
@@ -999,7 +985,7 @@ Open-source terminal with built-in file previews, web browsing, and AI tools. [!
 
 ### [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
-![](https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=flat-square&label=⭐) · appears in 3 lists
+![](https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=flat-square&label=⭐) · Found in 3 active sources
 
 Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
 
@@ -1013,7 +999,7 @@ Downloads videos from almost any online platform, along with information, thumbn
 
 ### [ActivityWatch](https://activitywatch.net)
 
-appears in 2 lists
+Found in 2 active sources
 
 Cross-platform, extensible, and privacy-focused time-tracker. [![Open-Source Software][OSS Icon]](https://github.com/ActivityWatch/activitywatch) ![Freeware][Freeware Icon]
 
@@ -1027,7 +1013,7 @@ Cross-platform, extensible, and privacy-focused time-tracker. [![Open-Source Sof
 
 ### [Agentify](https://github.com/koriyoshi2041/agentify)
 
-![](https://img.shields.io/github/stars/koriyoshi2041/agentify?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/koriyoshi2041/agentify?style=flat-square&label=⭐) · Found in 2 active sources
 
 CLI tool that transforms any OpenAPI spec into 9 agent interface formats (MCP server, AGENTS.md, CLAUDE.md, .cursorrules, Skills, llms.txt, GEMINI.md, A2A Card, CLI) with a single command. Tiered generation strategies for small to large APIs.
 
@@ -1041,7 +1027,7 @@ CLI tool that transforms any OpenAPI spec into 9 agent interface formats (MCP se
 
 ### [AI Git Narrator](https://github.com/pmusolino/ai-git-narrator)
 
-![](https://img.shields.io/github/stars/pmusolino/ai-git-narrator?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/pmusolino/ai-git-narrator?style=flat-square&label=⭐) · Found in 2 active sources
 
 CLI tool that uses AI to automatically generate high-quality Git commit messages and pull request descriptions.
 
@@ -1055,7 +1041,7 @@ CLI tool that uses AI to automatically generate high-quality Git commit messages
 
 ### [AppFlowy](https://appflowy.io)
 
-appears in 2 lists
+Found in 2 active sources
 
 Build detailed lists of to-do’s for different projects while tracking the status of each one. Open Source Notion Alternative.
 
@@ -1069,7 +1055,7 @@ Build detailed lists of to-do’s for different projects while tracking the stat
 
 ### [ashvardanian/stringzilla](https://github.com/ashvardanian/stringzilla)
 
-![](https://img.shields.io/github/stars/ashvardanian/stringzilla?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/ashvardanian/stringzilla?style=flat-square&label=⭐) · Found in 2 active sources
 
 SIMD-accelerated string search, sort, edit distances, alignments, and generators for x86 AVX2 & AVX-512, and Arm NEON [](https://crates.io/crates/stringzilla)
 
@@ -1083,7 +1069,7 @@ SIMD-accelerated string search, sort, edit distances, alignments, and generators
 
 ### [ast-grep](https://github.com/ast-grep/ast-grep)
 
-![](https://img.shields.io/github/stars/ast-grep/ast-grep?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/ast-grep/ast-grep?style=flat-square&label=⭐) · Found in 2 active sources
 
 A CLI tool for code structural search, lint and rewriting.
 
@@ -1097,7 +1083,7 @@ A CLI tool for code structural search, lint and rewriting.
 
 ### [ATAC](https://github.com/julien-cpsn/atac)
 
-![](https://img.shields.io/github/stars/julien-cpsn/atac?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/julien-cpsn/atac?style=flat-square&label=⭐) · Found in 2 active sources
 
 A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
 
@@ -1111,7 +1097,7 @@ A feature-full TUI API client made in Rust. ATAC is free, open-source, offline a
 
 ### [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
 
-![](https://img.shields.io/github/stars/unixorn/awesome-zsh-plugins?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/unixorn/awesome-zsh-plugins?style=flat-square&label=⭐) · Found in 2 active sources
 
 ZSH frameworks, plugins, tutorials & themes.
 
@@ -1125,7 +1111,7 @@ ZSH frameworks, plugins, tutorials & themes.
 
 ### [Bartib](https://github.com/nikolassv/bartib)
 
-![](https://img.shields.io/github/stars/nikolassv/bartib?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/nikolassv/bartib?style=flat-square&label=⭐) · Found in 2 active sources
 
 ] - A simple timetracker for the command line [](https://github.com/nikolassv/bartib/actions/workflows/test.yml)
 
@@ -1139,7 +1125,7 @@ ZSH frameworks, plugins, tutorials & themes.
 
 ### [Bazel](https://bazel.build)
 
-appears in 2 lists
+Found in 2 active sources
 
 A multi-language, fast and scalable build system from Google. [Apache]
 
@@ -1153,7 +1139,7 @@ A multi-language, fast and scalable build system from Google. [Apache]
 
 ### [boilr](https://github.com/tmrts/boilr)
 
-![](https://img.shields.io/github/stars/tmrts/boilr?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/tmrts/boilr?style=flat-square&label=⭐) · Found in 2 active sources
 
 Blazingly fast CLI tool for creating projects from boilerplate templates.
 
@@ -1167,7 +1153,7 @@ Blazingly fast CLI tool for creating projects from boilerplate templates.
 
 ### [broot](https://github.com/canop/broot)
 
-![](https://img.shields.io/github/stars/canop/broot?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/canop/broot?style=flat-square&label=⭐) · Found in 2 active sources
 
 A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then `cd` to it; never lose track of file hierarchy while you search; manipulate your files, ...), further reading [dystroy.org/broot](https://dystroy.org/broot/) [](https://crates.io/crates/broot)
 
@@ -1181,7 +1167,7 @@ A new way to see and navigate directory trees (get an overview of a directory, e
 
 ### [Buck2](https://github.com/facebook/buck2)
 
-![](https://img.shields.io/github/stars/facebook/buck2?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/facebook/buck2?style=flat-square&label=⭐) · Found in 2 active sources
 
 Encourages the creation of small, reusable modules consisting of code and resources.
 
@@ -1195,7 +1181,7 @@ Encourages the creation of small, reusable modules consisting of code and resour
 
 ### [carbon-now-cli](https://github.com/mixn/carbon-now-cli)
 
-![](https://img.shields.io/github/stars/mixn/carbon-now-cli?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/mixn/carbon-now-cli?style=flat-square&label=⭐) · Found in 2 active sources
 
 Beautiful images of your code — from right inside your terminal.
 
@@ -1209,7 +1195,7 @@ Beautiful images of your code — from right inside your terminal.
 
 ### [CLion](https://jetbrains.com/clion)
 
-appears in 2 lists
+Found in 2 active sources
 
 Powerful C and C++ IDE. (**Free** for Students)
 
@@ -1223,7 +1209,7 @@ Powerful C and C++ IDE. (**Free** for Students)
 
 ### [config-file-validator](https://github.com/boeing/config-file-validator)
 
-![](https://img.shields.io/github/stars/boeing/config-file-validator?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/boeing/config-file-validator?style=flat-square&label=⭐) · Found in 2 active sources
 
 Cross Platform tool to validate configuration files.
 
@@ -1237,7 +1223,7 @@ Cross Platform tool to validate configuration files.
 
 ### [Cppcheck](https://cppcheck.sourceforge.net)
 
-appears in 2 lists
+Found in 2 active sources
 
 A tool for static C/C++ code analysis. - [source](https://github.com/danmar/cppcheck)
 
@@ -1251,7 +1237,7 @@ A tool for static C/C++ code analysis. - [source](https://github.com/danmar/cppc
 
 ### [CppSharp](https://github.com/mono/cppsharp)
 
-![](https://img.shields.io/github/stars/mono/cppsharp?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/mono/cppsharp?style=flat-square&label=⭐) · Found in 2 active sources
 
 Tools and libraries to glue C/C++ APIs to high-level languages. [MIT]
 
@@ -1265,7 +1251,7 @@ Tools and libraries to glue C/C++ APIs to high-level languages. [MIT]
 
 ### [create-go-app/cli](https://github.com/create-go-app/cli)
 
-![](https://img.shields.io/github/stars/create-go-app/cli?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/create-go-app/cli?style=flat-square&label=⭐) · Found in 2 active sources
 
 Clean project logo. Useful badges (version, code style, test cover, docs). Clear readme with quickstart, understandable installation and usage manual, video screencast, ToC with well-documented project features (with a demo recording of the work in the terminal), project philosophy notes ("the why another"), most frequently asked questions, and more.
 
@@ -1279,7 +1265,7 @@ Clean project logo. Useful badges (version, code style, test cover, docs). Clear
 
 ### [Dash](https://kapeli.com/dash)
 
-appears in 2 lists
+Found in 2 active sources
 
 Offline API documentation browser for macOS with instant search access to Vue.js docs and 200+ other frameworks.
 
@@ -1293,7 +1279,7 @@ Offline API documentation browser for macOS with instant search access to Vue.js
 
 ### [diskonaut](https://github.com/imsnif/diskonaut)
 
-![](https://img.shields.io/github/stars/imsnif/diskonaut?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/imsnif/diskonaut?style=flat-square&label=⭐) · Found in 2 active sources
 
 Terminal visual disk space navigator
 
@@ -1307,7 +1293,7 @@ Terminal visual disk space navigator
 
 ### [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter)
 
-![](https://img.shields.io/github/stars/dotenv-linter/dotenv-linter?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/dotenv-linter/dotenv-linter?style=flat-square&label=⭐) · Found in 2 active sources
 
 Linter for `.env` files [](https://github.com/dotenv-linter/dotenv-linter/actions?query=workflow%3ACI+branch%3Amaster)
 
@@ -1321,7 +1307,7 @@ Linter for `.env` files [](https://github.com/dotenv-linter/dotenv-linter/action
 
 ### [editly](https://github.com/mifi/editly)
 
-![](https://img.shields.io/github/stars/mifi/editly?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/mifi/editly?style=flat-square&label=⭐) · Found in 2 active sources
 
 Declarative video editing API.
 
@@ -1335,7 +1321,7 @@ Declarative video editing API.
 
 ### [einops](https://github.com/arogozhnikov/einops)
 
-![](https://img.shields.io/github/stars/arogozhnikov/einops?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/arogozhnikov/einops?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Flexible and powerful tensor operations for readable and reliable code.
 
@@ -1349,7 +1335,7 @@ Declarative video editing API.
 
 ### [fjira](https://github.com/mk-5/fjira)
 
-![](https://img.shields.io/github/stars/mk-5/fjira?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/mk-5/fjira?style=flat-square&label=⭐) · Found in 2 active sources
 
 A fuzzy-search based terminal UI application for Attlasian Jira
 
@@ -1363,7 +1349,7 @@ A fuzzy-search based terminal UI application for Attlasian Jira
 
 ### [fkill](https://github.com/sindresorhus/fkill-cli)
 
-![](https://img.shields.io/github/stars/sindresorhus/fkill-cli?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/sindresorhus/fkill-cli?style=flat-square&label=⭐) · Found in 2 active sources
 
 Fabulously kill processes. Cross-platform.
 
@@ -1377,7 +1363,7 @@ Fabulously kill processes. Cross-platform.
 
 ### [Focalboard](https://focalboard.com)
 
-appears in 2 lists
+Found in 2 active sources
 
 Define, organize, track and manage work across individuals and teams (alternative to Trello, Notion and Asana). ) `MIT/AGPL-3.0/Apache-2.0`
 
@@ -1391,7 +1377,7 @@ Define, organize, track and manage work across individuals and teams (alternativ
 
 ### [fx](https://github.com/antonmedv/fx)
 
-![](https://img.shields.io/github/stars/antonmedv/fx?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/antonmedv/fx?style=flat-square&label=⭐) · Found in 2 active sources
 
 Terminal JSON viewer & processor.
 
@@ -1405,7 +1391,7 @@ Terminal JSON viewer & processor.
 
 ### [Gebug](https://github.com/moshebe/gebug)
 
-![](https://img.shields.io/github/stars/moshebe/gebug?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/moshebe/gebug?style=flat-square&label=⭐) · Found in 2 active sources
 
 A tool that makes debugging of Dockerized Go applications super easy by enabling Debugger and Hot-Reload features, seamlessly.
 
@@ -1419,7 +1405,7 @@ A tool that makes debugging of Dockerized Go applications super easy by enabling
 
 ### [ggc](https://github.com/bmf-san/ggc)
 
-![](https://img.shields.io/github/stars/bmf-san/ggc?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/bmf-san/ggc?style=flat-square&label=⭐) · Found in 2 active sources
 
 A Git CLI tool with both traditional command-line and interactive incremental-search UI, workflow support, and configurable keybindings.
 
@@ -1433,7 +1419,7 @@ A Git CLI tool with both traditional command-line and interactive incremental-se
 
 ### [GitButler](https://gitbutler.com)
 
-appears in 2 lists
+Found in 2 active sources
 
 Change management with parallel and stacked branches, unlimited undo, agent integrations. [![Open-Source Software][OSS Icon]](https://github.com/gitbutlerapp/gitbutler) ![Freeware][Freeware Icon]
 
@@ -1447,7 +1433,7 @@ Change management with parallel and stacked branches, unlimited undo, agent inte
 
 ### [GitKraken](https://gitkraken.com)
 
-appears in 2 lists
+Found in 2 active sources
 
 The most popular Git GUI for Windows, Mac and Linux.
 
@@ -1461,7 +1447,7 @@ The most popular Git GUI for Windows, Mac and Linux.
 
 ### [GNU Emacs](https://gnu.org/software/emacs)
 
-appears in 2 lists
+Found in 2 active sources
 
 An extensible, customizable text editor-and more. `GPL-3.0` `C`
 
@@ -1475,7 +1461,7 @@ An extensible, customizable text editor-and more. `GPL-3.0` `C`
 
 ### [grex](https://github.com/pemistahl/grex)
 
-![](https://img.shields.io/github/stars/pemistahl/grex?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/pemistahl/grex?style=flat-square&label=⭐) · Found in 2 active sources
 
 A command-line tool and library for generating regular expressions from user-provided test cases
 
@@ -1489,7 +1475,7 @@ A command-line tool and library for generating regular expressions from user-pro
 
 ### [helix](https://github.com/helix-editor/helix)
 
-![](https://img.shields.io/github/stars/helix-editor/helix?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/helix-editor/helix?style=flat-square&label=⭐) · Found in 2 active sources
 
 A post-modern modal text editor inspired by Neovim/Kakoune. [](https://github.com/helix-editor/helix/actions)
 
@@ -1503,7 +1489,7 @@ A post-modern modal text editor inspired by Neovim/Kakoune. [](https://github.co
 
 ### [httpie/httpie](https://github.com/httpie/httpie)
 
-![](https://img.shields.io/github/stars/httpie/httpie?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/httpie/httpie?style=flat-square&label=⭐) · Found in 2 active sources
 
 Description of what the project does. Demo screenshots. Project logo. TOC for easy navigation. Build badges. Quick and simple installation and usage sections. Includes an examples section.
 
@@ -1517,7 +1503,7 @@ Description of what the project does. Demo screenshots. Project logo. TOC for ea
 
 ### [Ideone](https://ideone.com)
 
-appears in 2 lists
+Found in 2 active sources
 
 An online compiler and debugging tool which allows you to compile source code and execute it online in more than 60 programming languages.
 
@@ -1531,7 +1517,7 @@ An online compiler and debugging tool which allows you to compile source code an
 
 ### [Infer](https://github.com/facebook/infer)
 
-![](https://img.shields.io/github/stars/facebook/infer?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/facebook/infer?style=flat-square&label=⭐) · Found in 2 active sources
 
 Modern static analysis tool for verifying the correctness of code.
 
@@ -1545,7 +1531,7 @@ Modern static analysis tool for verifying the correctness of code.
 
 ### [IterTools TS](https://github.com/smoren/itertools-ts)
 
-![](https://img.shields.io/github/stars/smoren/itertools-ts?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/smoren/itertools-ts?style=flat-square&label=⭐) · Found in 2 active sources
 
 _(label: good first issue)_ <br> Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
 
@@ -1559,7 +1545,7 @@ _(label: good first issue)_ <br> Extended itertools port for TypeScript and Java
 
 ### [JavaCpp](https://github.com/bytedeco/javacpp)
 
-![](https://img.shields.io/github/stars/bytedeco/javacpp?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/bytedeco/javacpp?style=flat-square&label=⭐) · Found in 2 active sources
 
 The missing bridge between Java and native C++. [Apache2]
 
@@ -1573,7 +1559,7 @@ The missing bridge between Java and native C++. [Apache2]
 
 ### [Joplin](https://joplinapp.org)
 
-appears in 2 lists
+Found in 2 active sources
 
 Note taking application with markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through a self hosted Nextcloud instance or similar (alternative to Evernote).
 
@@ -1587,7 +1573,7 @@ Note taking application with markdown editor and encryption support for mobile a
 
 ### [just](https://github.com/casey/just)
 
-![](https://img.shields.io/github/stars/casey/just?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/casey/just?style=flat-square&label=⭐) · Found in 2 active sources
 
 A handy command runner for project-specific tasks
 
@@ -1601,7 +1587,7 @@ A handy command runner for project-specific tasks
 
 ### [Kaitai Struct](https://kaitai.io)
 
-appears in 2 lists
+Found in 2 active sources
 
 File formats and network protocols dissection language and web IDE, generating parsers in C++, C#, Java, JavaScript, Perl, PHP, Python, Ruby.
 
@@ -1615,7 +1601,7 @@ File formats and network protocols dissection language and web IDE, generating p
 
 ### [KDevelop](https://kdevelop.org)
 
-appears in 2 lists
+Found in 2 active sources
 
 IDE by the people behind KDE.
 
@@ -1629,7 +1615,7 @@ IDE by the people behind KDE.
 
 ### [kreuzberg](https://github.com/kreuzberg-dev/kreuzberg)
 
-![](https://img.shields.io/github/stars/kreuzberg-dev/kreuzberg?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/kreuzberg-dev/kreuzberg?style=flat-square&label=⭐) · Found in 2 active sources
 
 High-performance document extraction library with a Rust core, supporting 62+ formats including PDF, Office, images with OCR, HTML, email, and archives.
 
@@ -1643,7 +1629,7 @@ High-performance document extraction library with a Rust core, supporting 62+ fo
 
 ### [LargeModGames/spotatui](https://github.com/largemodgames/spotatui)
 
-![](https://img.shields.io/github/stars/largemodgames/spotatui?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/largemodgames/spotatui?style=flat-square&label=⭐) · Found in 2 active sources
 
 ] - A Spotify terminal client with native streaming, synced lyrics, and real-time audio visualization [](https://github.com/LargeModGames/spotatui/actions/workflows/cd.yml)
 
@@ -1657,7 +1643,7 @@ High-performance document extraction library with a Rust core, supporting 62+ fo
 
 ### [LINQPad](https://linqpad.net)
 
-appears in 2 lists
+Found in 2 active sources
 
 a C#/VB/F# scratchpad that instantly executes any expression, statement block or program with rich output formatting and a wealth of features. Also lets you interactively query databases in LINQ. [$]
 
@@ -1671,7 +1657,7 @@ a C#/VB/F# scratchpad that instantly executes any expression, statement block or
 
 ### [Linus-Mussmaecher/rucola](https://github.com/linus-mussmaecher/rucola)
 
-![](https://img.shields.io/github/stars/linus-mussmaecher/rucola?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/linus-mussmaecher/rucola?style=flat-square&label=⭐) · Found in 2 active sources
 
 Terminal-based markdown note manager. [](https://crates.io/crates/rucola-notes) [](https://github.com/Linus-Mussmaecher/rucola/actions/workflows/continuous-testing.yml)
 
@@ -1685,7 +1671,7 @@ Terminal-based markdown note manager. [](https://crates.io/crates/rucola-notes) 
 
 ### [LosslessCut](https://github.com/mifi/lossless-cut)
 
-![](https://img.shields.io/github/stars/mifi/lossless-cut?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/mifi/lossless-cut?style=flat-square&label=⭐) · Found in 2 active sources
 
 Cross platform tool for quick and lossless video and audio trimming using ffmpeg. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mifi/lossless-cut)
 
@@ -1699,7 +1685,7 @@ Cross platform tool for quick and lossless video and audio trimming using ffmpeg
 
 ### [Mailpit](https://github.com/axllent/mailpit)
 
-![](https://img.shields.io/github/stars/axllent/mailpit?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/axllent/mailpit?style=flat-square&label=⭐) · Found in 2 active sources
 
 An email and SMTP testing tool for developers.
 
@@ -1713,7 +1699,7 @@ An email and SMTP testing tool for developers.
 
 ### [Mailspring](https://getmailspring.com)
 
-appears in 2 lists
+Found in 2 active sources
 
 A beautiful, fast, and fully open source mail client. [![Open-Source Software][OSS Icon]](https://github.com/Foundry376/Mailspring) ![Freeware][Freeware Icon]
 
@@ -1727,7 +1713,7 @@ A beautiful, fast, and fully open source mail client. [![Open-Source Software][O
 
 ### [Marimo](https://github.com/marimo-team/marimo)
 
-![](https://img.shields.io/github/stars/marimo-team/marimo?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/marimo-team/marimo?style=flat-square&label=⭐) · Found in 2 active sources
 
 - Reactive Python notebook — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 
@@ -1741,7 +1727,7 @@ A beautiful, fast, and fully open source mail client. [![Open-Source Software][O
 
 ### [MarkText](https://github.com/marktext/marktext)
 
-![](https://img.shields.io/github/stars/marktext/marktext?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/marktext/marktext?style=flat-square&label=⭐) · Found in 2 active sources
 
 Next generation markdown editor, running on platforms of MacOS Windows and Linux. [![Open-Source Software][OSS Icon]](https://github.com/marktext/marktext) ![Freeware][Freeware Icon]
 
@@ -1755,7 +1741,7 @@ Next generation markdown editor, running on platforms of MacOS Windows and Linux
 
 ### [micro](https://micro-editor.github.io)
 
-appears in 2 lists
+Found in 2 active sources
 
 Modern and intuitive terminal-based text editor. [![Open-Source Software][OSS Icon]](https://github.com/ory/editor) ![Freeware][Freeware Icon]
 
@@ -1769,7 +1755,7 @@ Modern and intuitive terminal-based text editor. [![Open-Source Software][OSS Ic
 
 ### [microsoft/markitdown](https://github.com/microsoft/markitdown)
 
-![](https://img.shields.io/github/stars/microsoft/markitdown?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/microsoft/markitdown?style=flat-square&label=⭐) · Found in 2 active sources
 
 🎖️ 🐍 🏠 - MCP tool access to MarkItDown -- a library that converts many file formats (local or remote) to Markdown for LLM consumption.
 
@@ -1783,7 +1769,7 @@ Modern and intuitive terminal-based text editor. [![Open-Source Software][OSS Ic
 
 ### [Mockoon](https://mockoon.com)
 
-appears in 2 lists
+Found in 2 active sources
 
 Create mock APIs in seconds. [![Open-Source Software][OSS Icon]](https://github.com/mockoon/mockoon)
 
@@ -1797,7 +1783,7 @@ Create mock APIs in seconds. [![Open-Source Software][OSS Icon]](https://github.
 
 ### [.NET Interactive](https://github.com/dotnet/interactive)
 
-![](https://img.shields.io/github/stars/dotnet/interactive?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/dotnet/interactive?style=flat-square&label=⭐) · Found in 2 active sources
 
 - .NET Interactive takes the power of .NET and embeds it into your interactive experiences.
 
@@ -1811,7 +1797,7 @@ Create mock APIs in seconds. [![Open-Source Software][OSS Icon]](https://github.
 
 ### [nuklear](https://github.com/immediate-mode-ui/nuklear)
 
-![](https://img.shields.io/github/stars/immediate-mode-ui/nuklear?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/immediate-mode-ui/nuklear?style=flat-square&label=⭐) · Found in 2 active sources
 
 A single-header ANSI C gui library. [PublicDomain]
 
@@ -1825,7 +1811,7 @@ A single-header ANSI C gui library. [PublicDomain]
 
 ### [nushell](https://github.com/nushell/nushell)
 
-![](https://img.shields.io/github/stars/nushell/nushell?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/nushell/nushell?style=flat-square&label=⭐) · Found in 2 active sources
 
 _(label: good first issue)_ <br> A modern shell for the GitHub era written in Rust.
 
@@ -1839,7 +1825,7 @@ _(label: good first issue)_ <br> A modern shell for the GitHub era written in Ru
 
 ### [OneCompiler](https://onecompiler.com)
 
-appears in 2 lists
+Found in 2 active sources
 
 A free AI Powered online compiler supporting over 70 languages, including Java, Python, MySQL, C++, and HTML, for writing, running, and sharing code.
 
@@ -1853,7 +1839,7 @@ A free AI Powered online compiler supporting over 70 languages, including Java, 
 
 ### [OpenLayers3](https://openlayers.org)
 
-appears in 2 lists
+Found in 2 active sources
 
 A high-performance, feature-packed library for all your mapping needs.
 
@@ -1867,7 +1853,7 @@ A high-performance, feature-packed library for all your mapping needs.
 
 ### [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins)
 
-![](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins?style=flat-square&label=⭐) · Found in 2 active sources
 
 List of useful [Quick Look](https://en.wikipedia.org/wiki/Quick_Look) plugins for developers
 
@@ -1881,7 +1867,7 @@ List of useful [Quick Look](https://en.wikipedia.org/wiki/Quick_Look) plugins fo
 
 ### [readme-md-generator](https://github.com/kefranabg/readme-md-generator)
 
-![](https://img.shields.io/github/stars/kefranabg/readme-md-generator?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/kefranabg/readme-md-generator?style=flat-square&label=⭐) · Found in 2 active sources
 
 A CLI that generates beautiful README.md files
 
@@ -1895,7 +1881,7 @@ A CLI that generates beautiful README.md files
 
 ### [RepoFlow](https://repoflow.io)
 
-appears in 2 lists
+Found in 2 active sources
 
 A simple and easy-to-use package management platform with Docker support alongside other formats like PyPI, Maven, npm, and Helm. Includes smart search, built-in Docker image scanning, and a great free option for both self-hosted and cloud use.
 
@@ -1909,7 +1895,7 @@ A simple and easy-to-use package management platform with Docker support alongsi
 
 ### [Retext](https://github.com/retextjs/retext)
 
-![](https://img.shields.io/github/stars/retextjs/retext?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/retextjs/retext?style=flat-square&label=⭐) · Found in 2 active sources
 
 Extensible system for analyzing and manipulating natural language.
 
@@ -1923,7 +1909,7 @@ Extensible system for analyzing and manipulating natural language.
 
 ### [RustRover](https://jetbrains.com/rust)
 
-appears in 2 lists
+Found in 2 active sources
 
 A powerful Rust IDE by JetBrains, free for individual non-commercial use
 
@@ -1937,7 +1923,7 @@ A powerful Rust IDE by JetBrains, free for individual non-commercial use
 
 ### [scc](https://github.com/boyter/scc)
 
-![](https://img.shields.io/github/stars/boyter/scc?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/boyter/scc?style=flat-square&label=⭐) · Found in 2 active sources
 
 Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates.
 
@@ -1951,7 +1937,7 @@ Sloc Cloc and Code, a very fast accurate code counter with complexity calculatio
 
 ### [script](https://github.com/bitfield/script)
 
-![](https://img.shields.io/github/stars/bitfield/script?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/bitfield/script?style=flat-square&label=⭐) · Found in 2 active sources
 
 _(label: good first issue)_ <br> A Go library for doing the kind of tasks that shell scripts are good at: reading files, executing subprocesses, counting lines, matching strings, and so on. Beginners are very welcome and will get detailed code review and help through the PR process.
 
@@ -1965,7 +1951,7 @@ _(label: good first issue)_ <br> A Go library for doing the kind of tasks that s
 
 ### [slint-ui/slint](https://github.com/slint-ui/slint)
 
-![](https://img.shields.io/github/stars/slint-ui/slint?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/slint-ui/slint?style=flat-square&label=⭐) · Found in 2 active sources
 
 [Slint](https://slint.dev/) is a toolkit to efficiently develop fluid graphical user interfaces for embedded devices and desktop applications. [](https://github.com/slint-ui/slint/actions?query=workflow%3ACI)
 
@@ -1979,7 +1965,7 @@ _(label: good first issue)_ <br> A Go library for doing the kind of tasks that s
 
 ### [Spack](https://spack.io)
 
-appears in 2 lists
+Found in 2 active sources
 
 A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 
@@ -1993,7 +1979,7 @@ A flexible package manager that supports multiple versions, configurations, plat
 
 ### [Sphinx](https://github.com/sphinx-doc/sphinx)
 
-![](https://img.shields.io/github/stars/sphinx-doc/sphinx?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/sphinx-doc/sphinx?style=flat-square&label=⭐) · Found in 2 active sources
 
 Sphinx makes it easy to create intelligent and beautiful documentation. [BSD-2-Clause] [website](https://www.sphinx-doc.org)
 
@@ -2007,7 +1993,7 @@ Sphinx makes it easy to create intelligent and beautiful documentation. [BSD-2-C
 
 ### [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
 
-![](https://img.shields.io/github/stars/tauri-apps/tauri?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/tauri-apps/tauri?style=flat-square&label=⭐) · Found in 2 active sources
 
 Build smaller, faster, and more secure desktop applications with a web frontend, powered by [WRY](https://github.com/tauri-apps/wry). [](https://github.com/tauri-apps/tauri/actions?query=workflow%3A%22test+library%22)
 
@@ -2021,7 +2007,7 @@ Build smaller, faster, and more secure desktop applications with a web frontend,
 
 ### [television](https://github.com/alexpasmantier/television)
 
-![](https://img.shields.io/github/stars/alexpasmantier/television?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/alexpasmantier/television?style=flat-square&label=⭐) · Found in 2 active sources
 
 A blazing fast general purpose fuzzy finder TUI
 
@@ -2035,7 +2021,7 @@ A blazing fast general purpose fuzzy finder TUI
 
 ### [Termius](https://termius.com)
 
-appears in 2 lists
+Found in 2 active sources
 
 A beautiful SSH and SFTP client for Mac. It is also available for mobile. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/termius-terminal-ssh-client/id549039908?platform=mac)
 
@@ -2049,7 +2035,7 @@ A beautiful SSH and SFTP client for Mac. It is also available for mobile. ![Free
 
 ### [Typora](https://typora.io)
 
-appears in 2 lists
+Found in 2 active sources
 
 Truly minimal Markdown editor featuring seamless live preview.
 
@@ -2063,7 +2049,7 @@ Truly minimal Markdown editor featuring seamless live preview.
 
 ### [Vectr](https://vectr.com)
 
-appears in 2 lists
+Found in 2 active sources
 
 Vectr is a free graphics software used to create vector graphics easily and intuitively. It's a simple yet powerful web and desktop cross-platform tool to bring your designs into reality.
 
@@ -2077,7 +2063,7 @@ Vectr is a free graphics software used to create vector graphics easily and intu
 
 ### [Warp](https://warp.dev)
 
-appears in 2 lists
+Found in 2 active sources
 
 Warp is a blazingly fast, rust-based terminal reimagined from the ground up to work like a modern app.
 
@@ -2091,7 +2077,7 @@ Warp is a blazingly fast, rust-based terminal reimagined from the ground up to w
 
 ### [Water-Run/treepp](https://github.com/water-run/treepp)
 
-![](https://img.shields.io/github/stars/water-run/treepp?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/water-run/treepp?style=flat-square&label=⭐) · Found in 2 active sources
 
 A Rust-based native Windows `tree` replacement with diff-level input/output compatibility on successful runs, many more features including essential exclusions and `.gitignore` support, and several-times faster performance.
 
@@ -2105,7 +2091,7 @@ A Rust-based native Windows `tree` replacement with diff-level input/output comp
 
 ### [xplr](https://github.com/sayanarijit/xplr)
 
-![](https://img.shields.io/github/stars/sayanarijit/xplr?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/sayanarijit/xplr?style=flat-square&label=⭐) · Found in 2 active sources
 
 A hackable, minimal, fast TUI file explorer.
 
@@ -2119,7 +2105,7 @@ A hackable, minimal, fast TUI file explorer.
 
 ### [yazi](https://github.com/sxyazi/yazi)
 
-![](https://img.shields.io/github/stars/sxyazi/yazi?style=flat-square&label=⭐) · appears in 2 lists
+![](https://img.shields.io/github/stars/sxyazi/yazi?style=flat-square&label=⭐) · Found in 2 active sources
 
 Blazing fast terminal file manager, based on async I/O.
 

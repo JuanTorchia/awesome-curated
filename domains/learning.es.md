@@ -12,7 +12,7 @@ Herramientas que la comunidad considera default. Si no las conocés, valen la pe
 
 ### 👤 [Docker for novices](https://youtube.com/watch)
 
-🔥 **aparece en 16 listas**
+🔥 **Found in 16 active sources**
 
 An introduction to Docker for developers and testers who have never used it. (Video 1h40, recorded linux.conf.au 2019 — Christchurch, New Zealand) by Alex Clews.
 
@@ -26,7 +26,7 @@ An introduction to Docker for developers and testers who have never used it. (Vi
 
 ### 👤 [Functional Programming with TypeScript](https://youtube.com/playlist)
 
-🔥 **aparece en 11 listas**
+🔥 **Found in 11 active sources**
 
 Discover functional programming with Typescript and create a library like fp-ts alongside Sahand Javid in this beginner-friendly YouTube playlist.
 
@@ -47,7 +47,7 @@ Menos hype que las GEMs, pero confiables si caés en su caso de uso.
 
 ### [CTFs](https://github.com/apsdehal/awesome-ctf)
 
-![](https://img.shields.io/github/stars/apsdehal/awesome-ctf?style=flat-square&label=⭐) · aparece en 3 listas
+![](https://img.shields.io/github/stars/apsdehal/awesome-ctf?style=flat-square&label=⭐) · Found in 3 active sources
 
 Capture The Flag frameworks, libraries, etc.
 
@@ -61,7 +61,7 @@ Capture The Flag frameworks, libraries, etc.
 
 ### [AgentsKB](https://agentskb.com)
 
-aparece en 2 listas
+Found in 2 active sources
 
 Knowledge base with 39K+ researched technical Q&As accessible via MCP server, REST API, or web search. Integrates with Claude Code, Cursor, and Cline.
 
@@ -75,7 +75,7 @@ Knowledge base with 39K+ researched technical Q&As accessible via MCP server, RE
 
 ### [awesome-talks](https://github.com/janvanryswyck/awesome-talks)
 
-![](https://img.shields.io/github/stars/janvanryswyck/awesome-talks?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/janvanryswyck/awesome-talks?style=flat-square&label=⭐) · Found in 2 active sources
 
 A lot of screencasts, recordings of user group gatherings and conference talks.
 
@@ -89,7 +89,7 @@ A lot of screencasts, recordings of user group gatherings and conference talks.
 
 ### [Claude Code Tips](https://github.com/ykdojo/claude-code-tips)
 
-![](https://img.shields.io/github/stars/ykdojo/claude-code-tips?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/ykdojo/claude-code-tips?style=flat-square&label=⭐) · Found in 2 active sources
 
 by [ykdojo](https://github.com/ykdojo) - A nice variety of 35+ brief but information-dense Claude Code tips covering voice input, system prompt patching, container workflows for risky tasks, conversation cloning(!), multi-model orchestration with Gemini CLI, and plenty more. Nice demos, working scripts, a plugin, I'd say this probably has a little something for everyone.
 
@@ -103,7 +103,7 @@ by [ykdojo](https://github.com/ykdojo) - A nice variety of 35+ brief but informa
 
 ### [crypto-algorithms](https://github.com/b-con/crypto-algorithms)
 
-![](https://img.shields.io/github/stars/b-con/crypto-algorithms?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/b-con/crypto-algorithms?style=flat-square&label=⭐) · Found in 2 active sources
 
 Basic implementations of standard cryptography algorithms (AES, SHA, etc.) in C. [PublicDomain]
 
@@ -117,7 +117,7 @@ Basic implementations of standard cryptography algorithms (AES, SHA, etc.) in C.
 
 ### [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 
-![](https://img.shields.io/github/stars/donnemartin/data-science-ipython-notebooks?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/donnemartin/data-science-ipython-notebooks?style=flat-square&label=⭐) · Found in 2 active sources
 
 Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines.
 
@@ -131,7 +131,7 @@ Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS
 
 ### [Security Talks](https://github.com/paulsec/awesome-sec-talks)
 
-![](https://img.shields.io/github/stars/paulsec/awesome-sec-talks?style=flat-square&label=⭐) · aparece en 2 listas
+![](https://img.shields.io/github/stars/paulsec/awesome-sec-talks?style=flat-square&label=⭐) · Found in 2 active sources
 
 Curated list of security conferences.
 
