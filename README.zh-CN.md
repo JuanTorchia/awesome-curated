@@ -6,8 +6,8 @@
 
 ### 一个**每周审计的开发工具雷达**，追踪活跃 `awesome-*` 仓库中真正获得关注的工具，帮助开发者少开标签页、少看炒作。
 
-[![GEMs](https://img.shields.io/badge/GEMs-206-gold?style=for-the-badge)](#)
-[![Worth Trying](https://img.shields.io/badge/Worth_Trying-340-cyan?style=for-the-badge)](#)
+[![GEMs](https://img.shields.io/badge/GEMs-208-gold?style=for-the-badge)](#)
+[![Worth Trying](https://img.shields.io/badge/Worth_Trying-339-cyan?style=for-the-badge)](#)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](#)
 [![Updated](https://img.shields.io/badge/Updated-2026-06-22-green?style=for-the-badge)](#)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
@@ -24,7 +24,7 @@
 
 - **最新生成更新**: 2026-06-22
 - **活跃来源**: 20
-- **人工审核工具**: 7
+- **人工审核工具**: 10
 - **方法论**: [METHODOLOGY.md](METHODOLOGY.md)
 - **更新摘要**: [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md)
 
@@ -32,7 +32,7 @@
 
 ## 🗺️ 找到你的技术栈
 
-[🌐 **Web** · 24](domains/web.zh-CN.md) · [🤖 **AI 与机器学习** · 36](domains/ai-ml.zh-CN.md) · [🛠️ **DevOps** · 16](domains/devops.zh-CN.md) · [💾 **数据与数据库** · 34](domains/data.zh-CN.md) · [🔐 **安全与加密** · 27](domains/security.zh-CN.md) · [⚡ **性能** · 4](domains/performance.zh-CN.md) · [🧰 **开发工具** · 53](domains/tooling.zh-CN.md) · [🎓 **学习资源** · 2](domains/learning.zh-CN.md) · [🎨 **其他** · 10](domains/other.zh-CN.md)
+[🌐 **Web** · 24](domains/web.zh-CN.md) · [🤖 **AI 与机器学习** · 36](domains/ai-ml.zh-CN.md) · [🛠️ **DevOps** · 17](domains/devops.zh-CN.md) · [💾 **数据与数据库** · 34](domains/data.zh-CN.md) · [🔐 **安全与加密** · 27](domains/security.zh-CN.md) · [⚡ **性能** · 4](domains/performance.zh-CN.md) · [🧰 **开发工具** · 54](domains/tooling.zh-CN.md) · [🎓 **学习资源** · 2](domains/learning.zh-CN.md) · [🎨 **其他** · 10](domains/other.zh-CN.md)
 
 ---
 
@@ -45,6 +45,9 @@
 |---|---|---|---|
 | 👤 [**BayesWitnesses/m2cgen**](https://github.com/bayeswitnesses/m2cgen) | Elimina dependencias de runtime de ML en producción: el código generado es nativo y standalone | Found in 7 active sources · Human reviewed | 人工审核 |
 | 👤 [**themis**](https://github.com/cossacklabs/themis) | Abstracción de alto nivel sobre primitivas criptográficas complejas (ECC, AES, ECDH) sin sacrificar seguridad real | Found in 7 active sources · Human reviewed | 人工审核 |
+| 👤 [**Bencher**](https://bencher.dev) | Continuous benchmarking para detectar regresiones de performance en CI/CD con umbrales configurables. | Found in 4 active sources · Human reviewed | 人工审核 |
+| 👤 [**Netron**](https://github.com/lutzroeder/netron) | Visualizador práctico de modelos ML con soporte amplio para formatos como ONNX, TensorFlow y PyTorch. | Found in 4 active sources · Human reviewed | 人工审核 |
+| 👤 [**Sniffnet**](https://github.com/gyulyvgc/sniffnet) | Monitor de tráfico de red multiplataforma con UI accesible para debugging y seguridad sin fricción. | Found in 4 active sources · Human reviewed | 人工审核 |
 <!-- staff-picks:end -->
 
 ---
@@ -57,7 +60,7 @@
 |---|---|---|
 | [**Jest**](https://github.com/facebook/jest) | _(label: good first issue)_ <br> A complete and easy to set up JavaScript testing solution. | Found in 5 active sources · AI suggested, pending human review |
 | [**Next.js**](https://github.com/vercel/next.js) | _(label: good first issue)_ <br> A minimalistic framework for universal server-rendered React applications | Found in 5 active sources · AI suggested, pending human review |
-| [**Netron**](https://github.com/lutzroeder/netron) | - Netron is a viewer for neural network, deep learning and machine learning models. | Found in 4 active sources · AI suggested, pending human review |
+| 👤 [**Netron**](https://github.com/lutzroeder/netron) | - Netron is a viewer for neural network, deep learning and machine learning models. | Found in 4 active sources · Human reviewed |
 | [**swiper**](https://github.com/nolimits4web/swiper) | [docs](https://swiperjs.com/react) - The most modern free mobile touch slider with hardware accelerated transitions… | Found in 4 active sources · AI suggested, pending human review |
 | [**Vite**](https://github.com/vitejs/vite) | _(label: good first issue)_ <br> Next generation frontend tooling. It's fast! Alternative to Create React App | Found in 4 active sources · AI suggested, pending human review |
 | [**Babel**](https://github.com/babel/babel) | _(label: good first issue)_ <br> A compiler for writing next generation JavaScript. | Found in 3 active sources · AI suggested, pending human review |
@@ -85,6 +88,7 @@
 
 | 工具 | 作用 | 信号 |
 |---|---|---|
+| 👤 [**Bencher**](https://bencher.dev) | Suite of continuous benchmarking tools designed to catch performance regressions in CI. | Found in 4 active sources · Human reviewed |
 | [**ZooKeeper**](https://zookeeper.apache.org) | ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed… | Found in 3 active sources · AI suggested, pending human review |
 | [**Ansible**](https://github.com/ansible/ansible) | _(label: easyfix)_ <br> A simple IT automation platform | Found in 2 active sources · AI suggested, pending human review |
 | [**BorgBackup**](https://github.com/borgbackup/borg) | _(label: easy)_ <br> Deduplicating backup program with compression and authenticated encryption. | Found in 2 active sources · AI suggested, pending human review |
@@ -92,9 +96,8 @@
 | [**CML**](https://github.com/iterative/cml) | A library for doing continuous integration with ML projects. Use GitHub Actions & GitLab CI to train and evaluate… | Found in 2 active sources · AI suggested, pending human review |
 | [**Concourse**](https://concourse-ci.org) | Concourse is a CI tool that treats pipelines as first class objects and containerizes every step along the way. ) | Found in 2 active sources · AI suggested, pending human review |
 | [**Consul**](https://consul.io) | Consul is a tool for service discovery, monitoring and configuration. | Found in 2 active sources · AI suggested, pending human review |
-| [**Docker.DotNet**](https://github.com/microsoft/docker.dotnet) | C#/.NET HTTP client for the Docker remote API. | Found in 2 active sources · AI suggested, pending human review |
 
-📖 更多 8 个见[详细页面 →](domains/devops.zh-CN.md)
+📖 更多 9 个见[详细页面 →](domains/devops.zh-CN.md)
 
 ### 💾 数据与数据库
 
@@ -148,9 +151,9 @@
 | [**Node.js**](https://github.com/sindresorhus/awesome-nodejs) | Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine. | Found in 4 active sources · AI suggested, pending human review |
 | [**Obsidian**](https://obsidian.md) | Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files. | Found in 4 active sources · AI suggested, pending human review |
 | [**Playwright**](https://github.com/microsoft/playwright) | Node.js library to automate Chromium, Firefox and WebKit with a single API. | Found in 4 active sources · AI suggested, pending human review |
-| [**Visual Studio Code**](https://code.visualstudio.com) | Microsoft's free & open-source editor, TypeScript friendly, [VSCode Plugins](editor-plugin.md#vscode-plugin).… | Found in 4 active sources · AI suggested, pending human review |
+| 👤 [**Sniffnet**](https://github.com/gyulyvgc/sniffnet) | Cross-platform application to monitor your network traffic with ease [](https://github.com/GyulyVGC/sniffnet/blob/mai… | Found in 4 active sources · Human reviewed |
 
-📖 更多 45 个见[详细页面 →](domains/tooling.zh-CN.md)
+📖 更多 46 个见[详细页面 →](domains/tooling.zh-CN.md)
 
 ### 🎓 学习资源
 

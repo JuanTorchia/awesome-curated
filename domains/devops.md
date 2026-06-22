@@ -2,13 +2,27 @@
 
 <p><sub>← [Back to main](../README.md)</sub></p>
 
-**16 GEMs · 34 Worth trying**
+**17 GEMs · 33 Worth trying**
 
 ---
 
 ## ⭐ GEMs — industry standards
 
 Tools the community considers default. If you don't know them yet, they're worth exploring.
+
+### 👤 [Bencher](https://bencher.dev)
+
+Found in 4 active sources
+
+Suite of continuous benchmarking tools designed to catch performance regressions in CI.
+
+> **AI analysis:** Suite de benchmarking en CI escrita en Rust. Atrapa regresiones de performance en PR; menos conocida que alternatives pero solid.
+
+**Strengths:** _Detección de regresiones con tolerancia configurable_ · _API HTTP para integraciones custom_
+
+**Tags:** `benchmarking` `ci-cd` `rust`
+
+---
 
 ### [ZooKeeper](https://zookeeper.apache.org)
 
@@ -58,11 +72,11 @@ _(label: easy)_ <br> Deduplicating backup program with compression and authentic
 
 Analyzes resource usage and performance characteristics of running containers.
 
-> **AI analysis:** cAdvisor es una herramienta sólida y probada de Google para monitoreo de contenedores. Si corrés Docker o Kubernetes y necesitás métricas de CPU, memoria, red y disco por contenedor, esto es lo que usás. No es hype: es infraestructura real que alimenta stacks de observabilidad serios (Prometheus + Grafana). El problema es que solo es el recolector; necesitás otra capa para almacenar y visualizar. Esencial en setups productivos con contenedores, pero no reemplaza un stack de monitoreo completo.
+> **AI analysis:** Analyzes resource usage de containers (CPU, RAM, I/O). Built by Google, standard en Kubernetes. Production-grade monitoring.
 
-**Strengths:** _Integración nativa con Prometheus: expone métricas listas para scraping sin configuración compleja_ · _Respaldado y mantenido por Google, ampliamente probado en entornos de producción a escala_ · _Granularidad por contenedor: CPU, memoria, red y filesystem con historial de rendimiento_
+**Strengths:** _Integración nativa Kubernetes, es el estándar_ · _Overhead mínimo, escala a miles de containers_
 
-**Tags:** `containers` `monitoring` `docker` `kubernetes` `metrics`
+**Tags:** `containers` `monitoring` `go` `kubernetes` `metrics`
 
 ---
 
@@ -240,20 +254,6 @@ Automated reverse proxy and load-balancer for Docker, Mesos, Consul, Etcd... By 
 ## 👍 Worth trying — solid in their niche
 
 Less hype than the GEMs but reliable if you fall into their use case.
-
-### [Bencher](https://bencher.dev)
-
-Found in 4 active sources
-
-Suite of continuous benchmarking tools designed to catch performance regressions in CI.
-
-> **AI analysis:** Suite de benchmarking en CI escrita en Rust. Atrapa regresiones de performance en PR; menos conocida que alternatives pero solid.
-
-**Strengths:** _Detección de regresiones con tolerancia configurable_ · _API HTTP para integraciones custom_
-
-**Tags:** `benchmarking` `ci-cd` `rust`
-
----
 
 ### [Dragonfly](https://github.com/dragonflyoss/dragonfly2)
 

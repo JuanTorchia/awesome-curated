@@ -38,7 +38,7 @@ _(label: good first issue)_ <br> A minimalistic framework for universal server-r
 
 ---
 
-### [Netron](https://github.com/lutzroeder/netron)
+### 👤 [Netron](https://github.com/lutzroeder/netron)
 
 ![](https://img.shields.io/github/stars/lutzroeder/netron?style=flat-square&label=⭐) · Found in 4 active sources
 

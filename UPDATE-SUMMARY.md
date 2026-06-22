@@ -3,11 +3,11 @@
 ## Latest Sync
 
 - Date: 2026-06-22
-- Commit: 6da05eddc077
+- Commit: 898dc3a3c2b1
 
 ## Current Snapshot
 
-- Active public tools: 7
+- Active public tools: 10
 - Graveyard tools: 0
 - Open issues: 0
 

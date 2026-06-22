@@ -2,7 +2,7 @@
 
 <p><sub>← [Back to main](../README.md)</sub></p>
 
-**53 GEMs · 97 Worth trying**
+**54 GEMs · 96 Worth trying**
 
 ---
 
@@ -105,6 +105,20 @@ Node.js library to automate Chromium, Firefox and WebKit with a single API.
 **Strengths:** _Soporte nativo para Chromium, Firefox y WebKit con una sola API coherente, sin parches ni wrappers_ · _Ejecución de tests en paralelo out-of-the-box con aislamiento por contexto de browser, sin configuración compleja_ · _Auto-wait integrado que elimina la mayoría de los flaky tests por timing sin agregar sleeps manuales_
 
 **Tags:** `testing` `e2e` `automation` `browser` `node`
+
+---
+
+### 👤 [Sniffnet](https://github.com/gyulyvgc/sniffnet)
+
+![](https://img.shields.io/github/stars/gyulyvgc/sniffnet?style=flat-square&label=⭐) · Found in 4 active sources
+
+Cross-platform application to monitor your network traffic with ease [](https://github.com/GyulyVGC/sniffnet/blob/main/.github/workflows/rust.yml) [](https://crates.io/crates/sniffnet)
+
+> **AI analysis:** Herramienta legítima y útil para monitorear tráfico de red con una UI cómoda, construida en Rust. No es un Wireshark killer, pero tampoco pretende serlo: apunta a devs y sysadmins que necesitan visibilidad rápida de qué está pasando en su red sin volverse locos con tcpdump. El diferencial es la experiencia de uso: gráficos en tiempo real, filtros simples, multiplataforma. Para debugging de conectividad o auditorías básicas, es genuinamente bueno. Open source y gratuito suman mucho.
+
+**Strengths:** _UI accesible que hace que el monitoreo de tráfico sea consumible sin ser experto en redes_ · _Escrito en Rust: performance nativa y binario standalone sin dependencias pesadas_ · _Open source con desarrollo activo en GitHub, bien mantenido_
+
+**Tags:** `rust` `networking` `open-source` `packet-sniffer` `cross-platform`
 
 ---
 
@@ -770,20 +784,6 @@ Less hype than the GEMs but reliable if you fall into their use case.
 **Strengths:** _Genera visualizaciones interactivas autocontenidas en HTML/JS sin requerir conocimiento de JavaScript por parte del desarrollador_ · _Soporta streaming de datos en tiempo real via Bokeh Server, útil para dashboards de monitoreo con actualizaciones dinámicas_ · _Altamente personalizable a bajo nivel: control fino sobre widgets, layouts y callbacks del lado servidor o cliente_
 
 **Tags:** `python` `data-visualization` `interactive-charts` `open-source` `javascript-output`
-
----
-
-### [Sniffnet](https://github.com/gyulyvgc/sniffnet)
-
-![](https://img.shields.io/github/stars/gyulyvgc/sniffnet?style=flat-square&label=⭐) · Found in 4 active sources
-
-Cross-platform application to monitor your network traffic with ease [](https://github.com/GyulyVGC/sniffnet/blob/main/.github/workflows/rust.yml) [](https://crates.io/crates/sniffnet)
-
-> **AI analysis:** Herramienta legítima y útil para monitorear tráfico de red con una UI cómoda, construida en Rust. No es un Wireshark killer, pero tampoco pretende serlo: apunta a devs y sysadmins que necesitan visibilidad rápida de qué está pasando en su red sin volverse locos con tcpdump. El diferencial es la experiencia de uso: gráficos en tiempo real, filtros simples, multiplataforma. Para debugging de conectividad o auditorías básicas, es genuinamente bueno. Open source y gratuito suman mucho.
-
-**Strengths:** _UI accesible que hace que el monitoreo de tráfico sea consumible sin ser experto en redes_ · _Escrito en Rust: performance nativa y binario standalone sin dependencias pesadas_ · _Open source con desarrollo activo en GitHub, bien mantenido_
-
-**Tags:** `rust` `networking` `open-source` `packet-sniffer` `cross-platform`
 
 ---
 

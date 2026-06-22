@@ -1263,17 +1263,17 @@ An agent management environment for Claude Code and Codex. Interactive visual ed
 
 ---
 
-### [Opik](https://github.com/comet-ml/opik)
+### [Opik](https://comet.com/site/products/opik)
 
-![](https://img.shields.io/github/stars/comet-ml/opik?style=flat-square&label=⭐) · Found in 2 active sources
+Found in 2 active sources
 
-- Opik is an open-source platform for evaluating, testing and monitoring LLM applications.
+Open source engineering platform to debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 
-> **Análisis IA:** Plataforma open-source para evaluar, testear y monitorear aplicaciones LLM. Trazabilidad de prompts y outputs con métricas de evaluación integradas.
+> **Análisis IA:** Platform open-source para debugging y evaluación de LLM apps con tracing y evals. Competencia fuerte (Langsmith), pero madurez todavía alcanzando. Buena para early adopters.
 
-**Fortalezas:** _Dashboard unificado para debugging de LLM pipelines_ · _Evaluación automática de outputs con criterios personalizados_
+**Fortalezas:** _Trazado granular de LLM chains_ · _Evals automatizadas para reproducibility_
 
-**Tags:** `python` `llm-monitoring` `evaluation` `open-source`
+**Tags:** `llm` `observability` `tracing` `evals` `agentic`
 
 ---
 
