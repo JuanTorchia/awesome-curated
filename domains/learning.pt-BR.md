@@ -2,7 +2,7 @@
 
 <p><sub>← [Voltar ao main](../README.pt-BR.md)</sub></p>
 
-**0 Human-reviewed · 0 Popular standards · 0 AI candidates**
+**0 Human-reviewed · 0 Popular standards · 0 AI candidates · 0 Needs review**
 
 ---
 

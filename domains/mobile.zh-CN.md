@@ -2,32 +2,16 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**0 Human-reviewed · 0 Popular standards · 3 AI candidates**
+**0 Human-reviewed · 0 Popular standards · 2 AI candidates · 1 Needs review**
 
 ---
 
 
 ---
 
-## AI candidates and needs review
+## AI candidates
 
-Automated candidates with source signal; these are not human endorsements yet.
-
-### [NativeScript](https://github.com/nativescript/nativescript)
-
-![](https://img.shields.io/github/stars/nativescript/nativescript?style=flat-square&label=⭐) · Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.
-
-> **AI 分析：** Framework JS para mobile nativo en iOS/Android reutilizando skills web (Angular, Vue, CSS). Promete código compartido pero la realidad es plugins nativos obligatorios para features complejas.
-
-**优势:** _Integración real con ecosistemas web modernos_ · _Comunidad activa y ejemplos abundantes_
-
-**Tags:** `javascript` `mobile` `cross-platform` `angular` `vue`
-
----
+Automated candidates with enough source signal; these are not human endorsements yet.
 
 ### [RunAnywhere](https://github.com/runanywhereai/runanywhere-sdks)
 
@@ -58,6 +42,29 @@ An open-source, multi-format 1D/2D barcode image processing library implemented 
 **优势:** _Soporte amplio de formatos (QR, EAN, Code128, etc)_ · _Puertos a múltiples lenguajes, no solo Java_
 
 **Tags:** `barcode` `qr-code` `image-processing` `java`
+
+---
+
+
+---
+
+## Needs review
+
+Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
+
+### [NativeScript](https://github.com/nativescript/nativescript)
+
+![](https://img.shields.io/github/stars/nativescript/nativescript?style=flat-square&label=⭐) · Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.
+
+> **AI 分析：** Framework JS para mobile nativo en iOS/Android reutilizando skills web (Angular, Vue, CSS). Promete código compartido pero la realidad es plugins nativos obligatorios para features complejas.
+
+**优势:** _Integración real con ecosistemas web modernos_ · _Comunidad activa y ejemplos abundantes_
+
+**Tags:** `javascript` `mobile` `cross-platform` `angular` `vue`
 
 ---
 

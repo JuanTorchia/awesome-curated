@@ -2,32 +2,36 @@
 
 <p><sub>← [Volver al main](../README.es.md)</sub></p>
 
-**0 Human-reviewed · 0 Popular standards · 9 AI candidates**
+**1 Human-reviewed · 0 Popular standards · 5 AI candidates · 3 Needs review**
+
+---
+
+## Human-reviewed picks
+
+Tools with a human review label and visible caveats.
+
+### 👤 [Bencher](https://bencher.dev)
+
+Found in 1 active source: avelino/awesome-go
+
+**Review label:** Human Pick · **Caveat:** Worth a focused trial before adopting broadly.
+
+Suite of continuous benchmarking tools designed to catch performance regressions in CI. MIT/Apache-2.0 Rust
+
+> **Análisis IA:** Suite de benchmarking en CI escrita en Rust. Atrapa regresiones de performance en PR; menos conocida que alternatives pero solid.
+
+**Fortalezas:** _Detección de regresiones con tolerancia configurable_ · _API HTTP para integraciones custom_
+
+**Tags:** `benchmarking` `ci-cd` `rust`
 
 ---
 
 
 ---
 
-## AI candidates and needs review
+## AI candidates
 
-Automated candidates with source signal; these are not human endorsements yet.
-
-### [bencher](https://github.com/bencherdev/bencher)
-
-![](https://img.shields.io/github/stars/bencherdev/bencher?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-A suite of continuous benchmarking tools designed to catch performance regressions in CI.
-
-> **Análisis IA:** Suite de benchmarking continuo para CI que detecta regresiones de performance. Para equipos que necesitan alertas automáticas cuando el código se vuelve lento. Resuelve el problema invisible de degradación gradual.
-
-**Fortalezas:** _Integración directa en pipelines de CI sin overhead manual_ · _Almacenamiento histórico y comparación visual de métricas temporales_
-
-**Tags:** `benchmarking` `ci-cd` `performance` `monitoring` `regression-detection`
-
----
+Automated candidates with enough source signal; these are not human endorsements yet.
 
 ### [CodeFlash.AI](https://codeflash.ai)
 
@@ -108,6 +112,13 @@ A compiler for Python array and numerical functions.
 **Tags:** `jit-compiler` `numpy` `performance` `scientific-computing` `python`
 
 ---
+
+
+---
+
+## Needs review
+
+Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
 
 ### [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding)
 

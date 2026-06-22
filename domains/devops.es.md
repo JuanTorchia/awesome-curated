@@ -2,36 +2,16 @@
 
 <p><sub>← [Volver al main](../README.es.md)</sub></p>
 
-**1 Human-reviewed · 0 Popular standards · 49 AI candidates**
-
----
-
-## Human-reviewed picks
-
-Tools with a human review label and visible caveats.
-
-### 👤 [Bencher](https://bencher.dev)
-
-Found in 1 active source: avelino/awesome-go
-
-**Review label:** Human Pick · **Caveat:** Worth a focused trial before adopting broadly.
-
-Suite of continuous benchmarking tools designed to catch performance regressions in CI. MIT/Apache-2.0 Rust
-
-> **Análisis IA:** Suite de benchmarking en CI escrita en Rust. Atrapa regresiones de performance en PR; menos conocida que alternatives pero solid.
-
-**Fortalezas:** _Detección de regresiones con tolerancia configurable_ · _API HTTP para integraciones custom_
-
-**Tags:** `benchmarking` `ci-cd` `rust`
+**0 Human-reviewed · 0 Popular standards · 45 AI candidates · 4 Needs review**
 
 ---
 
 
 ---
 
-## AI candidates and needs review
+## AI candidates
 
-Automated candidates with source signal; these are not human endorsements yet.
+Automated candidates with enough source signal; these are not human endorsements yet.
 
 ### [Dragonfly](https://github.com/dragonflyoss/dragonfly2)
 
@@ -241,22 +221,6 @@ interface (e.g. htop) for container metrics.
 
 ---
 
-### [Deployer](https://github.com/deployphp/deployer)
-
-![](https://img.shields.io/github/stars/deployphp/deployer?style=flat-square&label=⭐) · Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-A deployment tool written in PHP with support for popular frameworks out of the box.
-
-> **Análisis IA:** Tool deploy en PHP con soporte frameworks populares. Maduro, usado en producción. Alternativa a Capistrano/Fabric pero para PHP.
-
-**Fortalezas:** _Maduro y estable, comunidad PHP lo usa_ · _Zero-downtime deployments out-of-box_
-
-**Tags:** `php` `deployment` `cli`
-
----
-
 ### [dive](https://github.com/wagoodman/dive)
 
 ![](https://img.shields.io/github/stars/wagoodman/dive?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go
@@ -273,22 +237,6 @@ A tool for exploring each layer in a docker image. By wagoodman.
 
 ---
 
-### [Docker.DotNet](https://github.com/microsoft/docker.dotnet)
-
-![](https://img.shields.io/github/stars/microsoft/docker.dotnet?style=flat-square&label=⭐) · Found in 1 active source: veggiemonk/awesome-docker
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-C#/.NET HTTP client for the Docker remote API.
-
-> **Análisis IA:** Cliente HTTP .NET/C# para Docker Remote API. Integra operaciones docker programáticamente en aplicaciones .NET. Estándar de facto para devs .NET con Docker.
-
-**Fortalezas:** _Única librería oficial .NET para Docker API, mantenida por Microsoft_ · _Cubre API completa de Docker, bien documentada_
-
-**Tags:** `csharp` `dotnet` `docker-api` `client-library`
-
----
-
 ### [docker-volume-backup](https://github.com/offen/docker-volume-backup)
 
 ![](https://img.shields.io/github/stars/offen/docker-volume-backup?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go
@@ -302,6 +250,22 @@ Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox 
 **Fortalezas:** _Soporta múltiples destinos sin reimplementación_ · _Integración nativa con ecosistema Docker_
 
 **Tags:** `docker` `backup` `s3` `devops`
+
+---
+
+### [Docker.DotNet](https://github.com/microsoft/docker.dotnet)
+
+![](https://img.shields.io/github/stars/microsoft/docker.dotnet?style=flat-square&label=⭐) · Found in 1 active source: veggiemonk/awesome-docker
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+C#/.NET HTTP client for the Docker remote API.
+
+> **Análisis IA:** Cliente HTTP .NET/C# para Docker Remote API. Integra operaciones docker programáticamente en aplicaciones .NET. Estándar de facto para devs .NET con Docker.
+
+**Fortalezas:** _Única librería oficial .NET para Docker API, mantenida por Microsoft_ · _Cubre API completa de Docker, bien documentada_
+
+**Tags:** `csharp` `dotnet` `docker-api` `client-library`
 
 ---
 
@@ -350,22 +314,6 @@ Continuous integration server built on Docker and configured using YAML files.
 **Fortalezas:** _Binario único, deployment trivial_ · _YAML limpio vs XML verboso de Jenkins_
 
 **Tags:** `ci-cd` `docker` `yaml` `go`
-
----
-
-### [GitLab CI](https://about.gitlab.com/solutions/continuous-integration)
-
-Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Gitlab's built-in, full-featured CI/CD solution. MIT Ruby
-
-> **Análisis IA:** CI/CD integrado nativo en GitLab. Full-featured, no requiere herramienta externa. Excelente si ya usás GitLab; problema si no.
-
-**Fortalezas:** _Integración perfecta con GitLab (webhooks, auth, repos)_ · _Feature-complete sin dependencias externas_
-
-**Tags:** `cicd` `gitlab` `devops` `pipelines`
 
 ---
 
@@ -478,22 +426,6 @@ Luigi is a Python module that helps you build complex pipelines of batch jobs, h
 **Fortalezas:** _API simple y pythónica_ · _Excelente para pipelines medianos sin overhead de infraestructura_
 
 **Tags:** `python` `workflow` `batch` `dag` `spotify`
-
----
-
-### [MeshCentral](https://meshcentral.com)
-
-Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Run your own web server to remotely manage and control computers on a local network or anywhere on the internet. Apache-2.0 Nodejs
-
-> **Análisis IA:** Suite de remote management (RDP/SSH/terminal) via web. Node.js + Apache-2.0. Alternativa moderna a TeamViewer/AnyDesk self-hosted. Resuelve problema real pero vendor lock-in al stack Node.
-
-**Fortalezas:** _UI web pulida, terminal remota + file manager integrados_ · _Manejo de múltiples agentes simultáneamente sin fricción_
-
-**Tags:** `nodejs` `remote-management` `web-ui` `self-hosted`
 
 ---
 
@@ -622,22 +554,6 @@ Production Process Manager for Node.js.
 **Fortalezas:** _Zero-downtime restarts_ · _Clustering automático multi-core_
 
 **Tags:** `node.js` `process-manager` `production` `clustering`
-
----
-
-### [Pomerium](https://pomerium.io)
-
-Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Identity-aware reverse proxy, successor to now obsolete oauthproxy. It inserts an OAuth step before proxying your request to the backend, so that you can safely expose your self-hosted websites to public Internet. Apache-2.0 Go/Docker
-
-> **Análisis IA:** Reverse proxy con OAuth/identity-aware routing. Simplifica exposición segura de internals. Go-based, Docker-ready. Sucesor de oauth_proxy abandonado.
-
-**Fortalezas:** _Solución completa (auth + routing + TLS)_ · _Lightweight vs API gateways monolíticos_
-
-**Tags:** `reverse-proxy` `oauth` `identity` `go` `security`
 
 ---
 
@@ -814,6 +730,77 @@ Automated reverse proxy and load-balancer for Docker, Mesos, Consul, Etcd... By 
 **Fortalezas:** _Service discovery automático, no recargas nginx_ · _HTTPS/Let's Encrypt integrado, SSL sin drama_
 
 **Tags:** `reverse-proxy` `load-balancer` `docker` `kubernetes` `go`
+
+---
+
+
+---
+
+## Needs review
+
+Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
+
+### [Deployer](https://github.com/deployphp/deployer)
+
+![](https://img.shields.io/github/stars/deployphp/deployer?style=flat-square&label=⭐) · Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+A deployment tool written in PHP with support for popular frameworks out of the box.
+
+> **Análisis IA:** Tool deploy en PHP con soporte frameworks populares. Maduro, usado en producción. Alternativa a Capistrano/Fabric pero para PHP.
+
+**Fortalezas:** _Maduro y estable, comunidad PHP lo usa_ · _Zero-downtime deployments out-of-box_
+
+**Tags:** `php` `deployment` `cli`
+
+---
+
+### [GitLab CI](https://about.gitlab.com/solutions/continuous-integration)
+
+Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Gitlab's built-in, full-featured CI/CD solution. MIT Ruby
+
+> **Análisis IA:** CI/CD integrado nativo en GitLab. Full-featured, no requiere herramienta externa. Excelente si ya usás GitLab; problema si no.
+
+**Fortalezas:** _Integración perfecta con GitLab (webhooks, auth, repos)_ · _Feature-complete sin dependencias externas_
+
+**Tags:** `cicd` `gitlab` `devops` `pipelines`
+
+---
+
+### [MeshCentral](https://meshcentral.com)
+
+Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Run your own web server to remotely manage and control computers on a local network or anywhere on the internet. Apache-2.0 Nodejs
+
+> **Análisis IA:** Suite de remote management (RDP/SSH/terminal) via web. Node.js + Apache-2.0. Alternativa moderna a TeamViewer/AnyDesk self-hosted. Resuelve problema real pero vendor lock-in al stack Node.
+
+**Fortalezas:** _UI web pulida, terminal remota + file manager integrados_ · _Manejo de múltiples agentes simultáneamente sin fricción_
+
+**Tags:** `nodejs` `remote-management` `web-ui` `self-hosted`
+
+---
+
+### [Pomerium](https://pomerium.io)
+
+Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Identity-aware reverse proxy, successor to now obsolete oauthproxy. It inserts an OAuth step before proxying your request to the backend, so that you can safely expose your self-hosted websites to public Internet. Apache-2.0 Go/Docker
+
+> **Análisis IA:** Reverse proxy con OAuth/identity-aware routing. Simplifica exposición segura de internals. Go-based, Docker-ready. Sucesor de oauth_proxy abandonado.
+
+**Fortalezas:** _Solución completa (auth + routing + TLS)_ · _Lightweight vs API gateways monolíticos_
+
+**Tags:** `reverse-proxy` `oauth` `identity` `go` `security`
 
 ---
 

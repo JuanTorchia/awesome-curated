@@ -2,16 +2,16 @@
 
 <p><sub>← [Back to main](../README.md)</sub></p>
 
-**0 Human-reviewed · 0 Popular standards · 74 AI candidates**
+**0 Human-reviewed · 0 Popular standards · 70 AI candidates · 4 Needs review**
 
 ---
 
 
 ---
 
-## AI candidates and needs review
+## AI candidates
 
-Automated candidates with source signal; these are not human endorsements yet.
+Automated candidates with enough source signal; these are not human endorsements yet.
 
 ### [gradio](https://github.com/gradio-app/gradio)
 
@@ -58,22 +58,6 @@ A Python 2D plotting library which produces publication-quality figures in a var
 **Strengths:** _APIs consistentes, composable transformers_ · _Handlea edge cases (missing values, outliers)_
 
 **Tags:** `feature-engineering` `python` `sklearn` `ml` `preprocessing`
-
----
-
-### [recharts](https://github.com/recharts/recharts)
-
-![](https://img.shields.io/github/stars/recharts/recharts?style=flat-square&label=⭐) · Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Redefined chart library built with React and D3.
-
-> **AI analysis:** Recharts es la librería de gráficos para React más usada y con mejor DX del ecosistema. Componentes declarativos, composables, que abstraen D3 sin perder su potencia. Si necesitás charts en React sin querer pelearte con D3 directamente ni pagar licencias de Highcharts, este es el camino estándar. No es la más performante con datasets masivos, pero para el 90% de los dashboards del mundo real cumple de sobra. Maduro, bien mantenido y con buena comunidad.
-
-**Strengths:** _API declarativa y composable que hace que armar gráficos complejos sea intuitivo sin tocar D3 directamente_ · _Amplia variedad de tipos de gráficos (line, bar, area, pie, radar, etc.) listos para usar con buena customización_ · _Excelente integración con el ecosistema React, incluyendo soporte para SSR y responsive containers nativos_
-
-**Tags:** `react` `charts` `d3` `data-visualization` `open-source`
 
 ---
 
@@ -717,22 +701,6 @@ Tool for working with messy data: cleaning, transforming, extending it with web 
 
 ---
 
-### [OpenStreetMap](https://openstreetmap.org)
-
-Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Collaborative project to create a free editable map of the world. (, Clients) GPL-2.0 Ruby
-
-> **AI analysis:** Proyecto colaborativo masivo para mapas libres y editables. Base de datos geoespacial comunitaria con millones de contribuidores. Resuelve el problema de mapas privativos y datos geográficos abiertos.
-
-**Strengths:** _Cobertura global con datos actualizados comunitariamente_ · _Integración amplia en proyectos open-source y empresariales_
-
-**Tags:** `geospatial` `osm` `collaborative` `maps` `ruby`
-
----
-
 ### [pandas](https://github.com/pandas-dev/pandas)
 
 ![](https://img.shields.io/github/stars/pandas-dev/pandas?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
@@ -829,22 +797,6 @@ Fast feature complete DataFrame library
 
 ---
 
-### [pouchdb](https://github.com/pouchdb/pouchdb)
-
-![](https://img.shields.io/github/stars/pouchdb/pouchdb?style=flat-square&label=⭐) · Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Javascript db inspired by Apache CouchDB to run well within the browser.
-
-> **AI analysis:** PouchDB sincroniza datos entre navegador y backend (CouchDB compatible). Útil para apps offline-first con sincronización de cola. Menos tracción que IndexedDB nativo moderno.
-
-**Strengths:** _Sincronización bidireccional robusta, manejo elegante de conflictos_ · _API simple y documentación clara_
-
-**Tags:** `database` `offline-first` `sync` `browser`
-
----
-
 ### [protobuf](https://github.com/protocolbuffers/protobuf)
 
 ![](https://img.shields.io/github/stars/protocolbuffers/protobuf?style=flat-square&label=⭐) · Found in 1 active source: akullpp/awesome-java
@@ -906,22 +858,6 @@ High-performance SQL database for time series. Supports InfluxDB line protocol, 
 **Strengths:** _Ingesta ultra-rápida de datos (millones de puntos/segundo)_ · _Compresión nativa y queries complejas sin denormalización_
 
 **Tags:** `timeseries` `sql` `java` `high-performance` `olap`
-
----
-
-### [ReactiveSearch](https://github.com/appbaseio/reactivesearch)
-
-![](https://img.shields.io/github/stars/appbaseio/reactivesearch?style=flat-square&label=⭐) · Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-A UI components library for Elasticsearch: Available for React, Vue and React Native.
-
-> **AI analysis:** Librería React/Vue de componentes UI para Elasticsearch. Acelera construcciones de dashboards de búsqueda. Útil en nicho específico pero no resuelve problema genérico.
-
-**Strengths:** _Integración nativa con Elasticsearch queries_ · _Componentes ready-to-use para filtros y resultados_
-
-**Tags:** `react` `vue` `elasticsearch` `ui-components` `search`
 
 ---
 
@@ -1194,6 +1130,77 @@ Python Yahoo! Finance market data downloader (+faster Pandas Datareader).
 **Strengths:** _Sintaxis simple, comunidad grande_ · _Cubre la mayoría de activos (stocks, cryptos, ETFs)_
 
 **Tags:** `finance` `data-fetching` `python` `stock-market`
+
+---
+
+
+---
+
+## Needs review
+
+Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
+
+### [recharts](https://github.com/recharts/recharts)
+
+![](https://img.shields.io/github/stars/recharts/recharts?style=flat-square&label=⭐) · Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Redefined chart library built with React and D3.
+
+> **AI analysis:** Recharts es la librería de gráficos para React más usada y con mejor DX del ecosistema. Componentes declarativos, composables, que abstraen D3 sin perder su potencia. Si necesitás charts en React sin querer pelearte con D3 directamente ni pagar licencias de Highcharts, este es el camino estándar. No es la más performante con datasets masivos, pero para el 90% de los dashboards del mundo real cumple de sobra. Maduro, bien mantenido y con buena comunidad.
+
+**Strengths:** _API declarativa y composable que hace que armar gráficos complejos sea intuitivo sin tocar D3 directamente_ · _Amplia variedad de tipos de gráficos (line, bar, area, pie, radar, etc.) listos para usar con buena customización_ · _Excelente integración con el ecosistema React, incluyendo soporte para SSR y responsive containers nativos_
+
+**Tags:** `react` `charts` `d3` `data-visualization` `open-source`
+
+---
+
+### [OpenStreetMap](https://openstreetmap.org)
+
+Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Collaborative project to create a free editable map of the world. (, Clients) GPL-2.0 Ruby
+
+> **AI analysis:** Proyecto colaborativo masivo para mapas libres y editables. Base de datos geoespacial comunitaria con millones de contribuidores. Resuelve el problema de mapas privativos y datos geográficos abiertos.
+
+**Strengths:** _Cobertura global con datos actualizados comunitariamente_ · _Integración amplia en proyectos open-source y empresariales_
+
+**Tags:** `geospatial` `osm` `collaborative` `maps` `ruby`
+
+---
+
+### [pouchdb](https://github.com/pouchdb/pouchdb)
+
+![](https://img.shields.io/github/stars/pouchdb/pouchdb?style=flat-square&label=⭐) · Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Javascript db inspired by Apache CouchDB to run well within the browser.
+
+> **AI analysis:** PouchDB sincroniza datos entre navegador y backend (CouchDB compatible). Útil para apps offline-first con sincronización de cola. Menos tracción que IndexedDB nativo moderno.
+
+**Strengths:** _Sincronización bidireccional robusta, manejo elegante de conflictos_ · _API simple y documentación clara_
+
+**Tags:** `database` `offline-first` `sync` `browser`
+
+---
+
+### [ReactiveSearch](https://github.com/appbaseio/reactivesearch)
+
+![](https://img.shields.io/github/stars/appbaseio/reactivesearch?style=flat-square&label=⭐) · Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+A UI components library for Elasticsearch: Available for React, Vue and React Native.
+
+> **AI analysis:** Librería React/Vue de componentes UI para Elasticsearch. Acelera construcciones de dashboards de búsqueda. Útil en nicho específico pero no resuelve problema genérico.
+
+**Strengths:** _Integración nativa con Elasticsearch queries_ · _Componentes ready-to-use para filtros y resultados_
+
+**Tags:** `react` `vue` `elasticsearch` `ui-components` `search`
 
 ---
 

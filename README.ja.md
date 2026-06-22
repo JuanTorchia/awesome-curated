@@ -36,7 +36,7 @@
 
 ## 🗺️ あなたのスタックを見つける
 
-[🌐 **Web** · 50](domains/web.ja.md) · [🤖 **AI・機械学習** · 105](domains/ai-ml.ja.md) · [🛠️ **DevOps** · 50](domains/devops.ja.md) · [📱 **モバイル** · 3](domains/mobile.ja.md) · [💾 **データ・DB** · 74](domains/data.ja.md) · [🔐 **セキュリティ・暗号** · 58](domains/security.ja.md) · [⚡ **パフォーマンス** · 8](domains/performance.ja.md) · [🧰 **開発ツール** · 136](domains/tooling.ja.md) · [🎨 **その他** · 25](domains/other.ja.md)
+[🌐 **Web** · 49](domains/web.ja.md) · [🤖 **AI・機械学習** · 106](domains/ai-ml.ja.md) · [🛠️ **DevOps** · 49](domains/devops.ja.md) · [📱 **モバイル** · 3](domains/mobile.ja.md) · [💾 **データ・DB** · 74](domains/data.ja.md) · [🔐 **セキュリティ・暗号** · 58](domains/security.ja.md) · [⚡ **パフォーマンス** · 9](domains/performance.ja.md) · [🧰 **開発ツール** · 136](domains/tooling.ja.md) · [🎨 **その他** · 25](domains/other.ja.md)
 
 ---
 
@@ -104,11 +104,11 @@
 
 | ツール | 何をする | シグナル |
 |---|---|---|
-| 👤 [**Netron**](https://github.com/lutzroeder/netron) | Netron is a viewer for neural network, deep learning and machine learning models. | Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning · Human Pick |
 | [**Amplication**](https://github.com/amplication/amplication) | Amplication is an open-source development tool. It helps you develop quality Node.js applications without spending... | Found in 1 active source: matiassingers/awesome-readme · AI Candidate |
 | [**D3js**](https://d3js.org) | is a powerful data visualization javascript library. | Found in 2 active sources: jivoi/awesome-osint, academic/awesome-datascience · AI Candidate |
+| [**grpc**](https://github.com/grpc/grpc) | Remote Procedure Calls (RPCs) provide a useful abstraction for building distributed applications and services. The... | Found in 1 active source: vinta/awesome-python · AI Candidate |
 
-📖 他 47 件は[詳細ページ →](domains/web.ja.md)
+📖 他 46 件は[詳細ページ →](domains/web.ja.md)
 
 ### 🤖 AI・機械学習
 
@@ -118,17 +118,17 @@
 | [**XGBoost**](https://github.com/dmlc/xgboost) | XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. | Found in 4 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning +1 more · AI Candidate |
 | [**CatBoost**](https://github.com/catboost/catboost) | General purpose gradient boosting on decision trees library with categorical features support out of the box. It is... | Found in 3 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning, vinta/awesome-python · AI Candidate |
 
-📖 他 102 件は[詳細ページ →](domains/ai-ml.ja.md)
+📖 他 103 件は[詳細ページ →](domains/ai-ml.ja.md)
 
 ### 🛠️ DevOps
 
 | ツール | 何をする | シグナル |
 |---|---|---|
-| 👤 [**Bencher**](https://bencher.dev) | Suite of continuous benchmarking tools designed to catch performance regressions in CI. MIT/Apache-2.0 Rust | Found in 1 active source: avelino/awesome-go · Human Pick |
 | [**Dragonfly**](https://github.com/dragonflyoss/dragonfly2) | Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best... | Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go · AI Candidate |
 | [**ZooKeeper**](https://zookeeper.apache.org) | ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed... | Found in 2 active sources: akullpp/awesome-java, rust-unofficial/awesome-rust · AI Candidate |
+| [**bandwhich**](https://github.com/imsnif/bandwhich) | Track bandwidth utilization by process. | Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust · AI Candidate |
 
-📖 他 47 件は[詳細ページ →](domains/devops.ja.md)
+📖 他 46 件は[詳細ページ →](domains/devops.ja.md)
 
 ### 📱 モバイル
 
@@ -163,11 +163,11 @@
 
 | ツール | 何をする | シグナル |
 |---|---|---|
+| 👤 [**Bencher**](https://bencher.dev) | Suite of continuous benchmarking tools designed to catch performance regressions in CI. MIT/Apache-2.0 Rust | Found in 1 active source: avelino/awesome-go · Human Pick |
 | [**CodeFlash.AI**](https://codeflash.ai) | CodeFlash.AI – Ship Blazing-Fast Python Code, Every Time. | Found in 1 active source: josephmisiti/awesome-machine-learning · AI Candidate |
 | [**Cython**](https://github.com/cython/cython) | Cython is an optimising static compiler for both the Python programming language and the extended Cython programming... | Found in 1 active source: vinta/awesome-python · AI Candidate |
-| [**GeneticSharp**](https://github.com/giacomelli/geneticsharp) | Multi-platform genetic algorithm library for .NET Core and .NET Framework. The library has several implementations... | Found in 1 active source: josephmisiti/awesome-machine-learning · AI Candidate |
 
-📖 他 5 件は[詳細ページ →](domains/performance.ja.md)
+📖 他 6 件は[詳細ページ →](domains/performance.ja.md)
 
 ### 🧰 開発ツール
 

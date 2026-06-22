@@ -2,7 +2,7 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**1 Human-reviewed · 0 Popular standards · 57 AI candidates**
+**1 Human-reviewed · 0 Popular standards · 46 AI candidates · 11 Needs review**
 
 ---
 
@@ -29,9 +29,9 @@ High level crypto library for storing data (AES), secure messaging (ECC + ECDSA 
 
 ---
 
-## AI candidates and needs review
+## AI candidates
 
-Automated candidates with source signal; these are not human endorsements yet.
+Automated candidates with enough source signal; these are not human endorsements yet.
 
 ### [Agentic Radar](https://github.com/splx-ai/agentic-radar)
 
@@ -62,22 +62,6 @@ Performs authentication, authorization, cryptography and session management.
 **強み:** _Feature-complete, soporta realm-based auth_ · _Integración simple en apps Java/JVM existentes_
 
 **Tags:** `java` `authentication` `authorization` `security` `apache`
-
----
-
-### [Botan](https://botan.randombit.net)
-
-Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Cryptography library written in C++20.
-
-> **AI 分析:** Librería crypto en C++20 con algoritmos modernos. Para devs C++ que necesitan crypto integrada sin OpenSSL o dependencias pesadas.
-
-**強み:** _C++20 native, code moderno_ · _Cobertura amplia de algoritmos post-quantum_
-
-**Tags:** `cpp20` `cryptography` `library` `algorithms`
 
 ---
 
@@ -126,22 +110,6 @@ Safe, fast, small crypto using Rust and BoringSSL's cryptography primitives.
 **強み:** _Safety guarantees de Rust + auditoría BoringSSL_ · _Performance sin sacrificar seguridad_
 
 **Tags:** `rust` `crypto` `boringssl` `tls`
-
----
-
-### [Crypto++](https://github.com/weidai11/cryptopp)
-
-![](https://img.shields.io/github/stars/weidai11/cryptopp?style=flat-square&label=⭐) · Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-A free C++ class library of cryptographic schemes. [Boost]
-
-> **AI 分析:** Librería C++ crypto consolidada, 25+ años de desarrollo. Estándar industrial para esquemas criptográficos. Pero: C++ puro (overhead), comunidad menor que alternativas modernas como Tink.
-
-**強み:** _Amplia cobertura de esquemas criptográficos_ · _Maduro y auditado_
-
-**Tags:** `cpp` `cryptography` `production-ready`
 
 ---
 
@@ -209,22 +177,6 @@ Create, share communicate. Chat and call securely.
 
 ---
 
-### [Firezone](https://firezone.dev)
-
-Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Secure remote access gateway that supports the WireGuard protocol. It offers a Web GUI, 1-line install script, multi-factor auth (MFA), and SSO. Apache-2.0 Elixir/Docker
-
-> **AI 分析:** VPN/secure gateway moderno con WireGuard, MFA, SSO. Elixir + Docker. Alternativa legítima a OpenVPN/traditional VPN si necesitás remote access corporativo self-hosted con polish moderno.
-
-**強み:** _1-line install, setup trivial vs OpenVPN, GUI intuitiva_ · _WireGuard más eficiente y moderno que IPSec/OpenVPN_
-
-**Tags:** `wireguard` `vpn` `self-hosted` `mfa-sso`
-
----
-
 ### [Google Hacking Database (GHDB)](https://exploit-db.com/google-hacking-database)
 
 Found in 1 active source: jivoi/awesome-osint
@@ -238,22 +190,6 @@ The GHDB is an index of search queries (we call them dorks) used to find publicl
 **強み:** _Cobertura exhaustiva de técnicas google search_ · _Gratuito y mantenido activamente_
 
 **Tags:** `osint` `google-dorking` `recon` `pentesting`
-
----
-
-### [gpg](https://gnupg.org)
-
-Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Complete and free implementation of the OpenPGP standard. It allows to encrypt and sign your data and communication, features a versatile key management system. GnuPG is a command line tool with features for easy integration with other applications.
-
-> **AI 分析:** Implementación completa y free del estándar OpenPGP. Para encriptación/firma de datos y comunicaciones con CLI integrable a cualquier tool.
-
-**強み:** _Estándar industria de 25+ años_ · _Zero-dependency, CLI portable y ubiquo_
-
-**Tags:** `gpg` `encryption` `cli` `openpgp` `portable`
 
 ---
 
@@ -385,22 +321,6 @@ A fork of Firefox, focused on privacy, security and freedom. (https://gitlab.com
 
 ---
 
-### [libsodium](https://github.com/jedisct1/libsodium)
-
-![](https://img.shields.io/github/stars/jedisct1/libsodium?style=flat-square&label=⭐) · Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-P(ortable ackageable) NaCl-based crypto library, opinionated and easy to use. [ISC]
-
-> **AI 分析:** Librería crypto moderna basada en NaCl, diseñada para ser segura por defecto (opciones opinionadas). Estándar en Python (PyNaCl) y en sistemas que necesitan crypto sin sorpresas.
-
-**強み:** _API opinionada reduce errores de uso_ · _Ampliamente auditada y confiable_
-
-**Tags:** `cryptography` `nacl` `security` `c`
-
----
-
 ### [Lynis](https://cisofy.com/lynis)
 
 Found in 1 active source: veggiemonk/awesome-docker
@@ -462,38 +382,6 @@ Maltego is an open source intelligence (OSINT) and graphical link analysis tool 
 **強み:** _Isolación real via WASM, sin escape path obvio_ · _Soporte dual Python/JavaScript_
 
 **Tags:** `mcp` `wasm` `sandbox` `rust` `security`
-
----
-
-### [Ockam](https://github.com/ockam-network/ockam)
-
-![](https://img.shields.io/github/stars/ockam-network/ockam?style=flat-square&label=⭐) · Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-End-to-end encryption and mutual authentication for distributed applications.
-
-> **AI 分析:** Toolkit para encriptación e2e y autenticación mutua en apps distribuidas. Resuelve confianza en arquitecturas mesh/zero-trust reales.
-
-**強み:** _Abstracciones portables para transporte (TCP, UDP, Bluetooth)_ · _Modelo de seguridad auditado para comms distribuidas_
-
-**Tags:** `rust` `cryptography` `distributed` `security`
-
----
-
-### [OpenSSL](https://github.com/openssl/openssl)
-
-![](https://img.shields.io/github/stars/openssl/openssl?style=flat-square&label=⭐) · Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-A robust, commercial-grade, full-featured, and Open Source cryptography library. [Apache]
-
-> **AI 分析:** Librería crypto de grado comercial, open source, estándar universal. Para cualquier app que necesite encriptación, TLS, o signing con soporte universal.
-
-**強み:** _Estándar de facto en todas partes (sistemas, apps, servicios)_ · _Auditoría y madurez incomparables_
-
-**Tags:** `openssl` `cryptography` `tls` `c` `universal`
 
 ---
 
@@ -609,22 +497,6 @@ TCP connection hijacker, Rust rewrite of shijack.
 
 ---
 
-### [s2n](https://github.com/awslabs/s2n)
-
-![](https://img.shields.io/github/stars/awslabs/s2n?style=flat-square&label=⭐) · Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-An implementation of the TLS/SSL protocols. [Apache]
-
-> **AI 分析:** Implementación robusta de TLS/SSL de AWS Labs. Usado en producción para aplicaciones que necesitan criptografía moderna. Bien mantenido, auditado, estándar en infraestructura AWS.
-
-**強み:** _Auditorías de seguridad regulares y mantenimiento activo_ · _Optimizaciones de performance específicas para SSL/TLS_
-
-**Tags:** `tls` `ssl` `cryptography` `c` `aws`
-
----
-
 ### [safedep/vet](https://github.com/safedep/vet)
 
 ![](https://img.shields.io/github/stars/safedep/vet?style=flat-square&label=⭐) · Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers
@@ -686,22 +558,6 @@ Shodan is a search engine for the IOT(Internet of Things) that allows you to sea
 **強み:** _Base de datos masiva de dispositivos indexados_ · _Filtros avanzados (puerto, banner, geolocalización)_
 
 **Tags:** `iot-search` `vulnerability-scanning` `asset-discovery` `threat-intel`
-
----
-
-### [Social Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit)
-
-![](https://img.shields.io/github/stars/trustedsec/social-engineer-toolkit?style=flat-square&label=⭐) · Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Open source pentesting framework designed for social engineering featuring a number of custom attack vectors to make believable attacks quickly.
-
-> **AI 分析:** Framework pentesting enfocado en ingeniería social. Ataques creíbles preseteados (phishing, spear-phishing, payloads). Usado en red teams reales, documentación sólida.
-
-**強み:** _Ataques preseteados realistas y probados_ · _Integración con Metasploit, payloads customizables_
-
-**Tags:** `pentesting` `social-engineering` `framework` `python` `red-team`
 
 ---
 
@@ -849,22 +705,6 @@ Free software and onion routed overlay network that helps you defend against tra
 
 ---
 
-### [Trail of Bits Security Skills](https://github.com/trailofbits/skills)
-
-![](https://img.shields.io/github/stars/trailofbits/skills?style=flat-square&label=⭐) · Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-by Trail of Bits A very professional collection of over a dozen security-focused skills for code auditing and vulnerability detection. Includes skills for static analysis with CodeQL and Semgrep, variant analysis across codebases, fix verification, and differential code review.
-
-> **AI 分析:** Colección de skills de seguridad para auditoría de código y análisis de vulnerabilidades. Incluye CodeQL y Semgrep. Producción Trail of Bits.
-
-**強み:** _Creado por referentes en security (Trail of Bits)_ · _Cubre análisis estático, variante y code review diferencial_
-
-**Tags:** `security` `code-audit` `codeql` `semgrep`
-
----
-
 ### [vaultwarden](https://github.com/dani-garcia/vaultwarden)
 
 ![](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
@@ -926,6 +766,173 @@ Wi-fi "wardriving" database. Contains a global map containing crowdsourced infor
 **強み:** _Cobertura global con aporte comunitario_ · _Herramienta propia para captura de datos_
 
 **Tags:** `wifi-mapping` `geolocation` `wardriving` `crowdsourced`
+
+---
+
+
+---
+
+## Needs review
+
+Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
+
+### [Botan](https://botan.randombit.net)
+
+Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Cryptography library written in C++20.
+
+> **AI 分析:** Librería crypto en C++20 con algoritmos modernos. Para devs C++ que necesitan crypto integrada sin OpenSSL o dependencias pesadas.
+
+**強み:** _C++20 native, code moderno_ · _Cobertura amplia de algoritmos post-quantum_
+
+**Tags:** `cpp20` `cryptography` `library` `algorithms`
+
+---
+
+### [Crypto++](https://github.com/weidai11/cryptopp)
+
+![](https://img.shields.io/github/stars/weidai11/cryptopp?style=flat-square&label=⭐) · Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+A free C++ class library of cryptographic schemes. [Boost]
+
+> **AI 分析:** Librería C++ crypto consolidada, 25+ años de desarrollo. Estándar industrial para esquemas criptográficos. Pero: C++ puro (overhead), comunidad menor que alternativas modernas como Tink.
+
+**強み:** _Amplia cobertura de esquemas criptográficos_ · _Maduro y auditado_
+
+**Tags:** `cpp` `cryptography` `production-ready`
+
+---
+
+### [Firezone](https://firezone.dev)
+
+Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Secure remote access gateway that supports the WireGuard protocol. It offers a Web GUI, 1-line install script, multi-factor auth (MFA), and SSO. Apache-2.0 Elixir/Docker
+
+> **AI 分析:** VPN/secure gateway moderno con WireGuard, MFA, SSO. Elixir + Docker. Alternativa legítima a OpenVPN/traditional VPN si necesitás remote access corporativo self-hosted con polish moderno.
+
+**強み:** _1-line install, setup trivial vs OpenVPN, GUI intuitiva_ · _WireGuard más eficiente y moderno que IPSec/OpenVPN_
+
+**Tags:** `wireguard` `vpn` `self-hosted` `mfa-sso`
+
+---
+
+### [gpg](https://gnupg.org)
+
+Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Complete and free implementation of the OpenPGP standard. It allows to encrypt and sign your data and communication, features a versatile key management system. GnuPG is a command line tool with features for easy integration with other applications.
+
+> **AI 分析:** Implementación completa y free del estándar OpenPGP. Para encriptación/firma de datos y comunicaciones con CLI integrable a cualquier tool.
+
+**強み:** _Estándar industria de 25+ años_ · _Zero-dependency, CLI portable y ubiquo_
+
+**Tags:** `gpg` `encryption` `cli` `openpgp` `portable`
+
+---
+
+### [libsodium](https://github.com/jedisct1/libsodium)
+
+![](https://img.shields.io/github/stars/jedisct1/libsodium?style=flat-square&label=⭐) · Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+P(ortable ackageable) NaCl-based crypto library, opinionated and easy to use. [ISC]
+
+> **AI 分析:** Librería crypto moderna basada en NaCl, diseñada para ser segura por defecto (opciones opinionadas). Estándar en Python (PyNaCl) y en sistemas que necesitan crypto sin sorpresas.
+
+**強み:** _API opinionada reduce errores de uso_ · _Ampliamente auditada y confiable_
+
+**Tags:** `cryptography` `nacl` `security` `c`
+
+---
+
+### [Ockam](https://github.com/ockam-network/ockam)
+
+![](https://img.shields.io/github/stars/ockam-network/ockam?style=flat-square&label=⭐) · Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+End-to-end encryption and mutual authentication for distributed applications.
+
+> **AI 分析:** Toolkit para encriptación e2e y autenticación mutua en apps distribuidas. Resuelve confianza en arquitecturas mesh/zero-trust reales.
+
+**強み:** _Abstracciones portables para transporte (TCP, UDP, Bluetooth)_ · _Modelo de seguridad auditado para comms distribuidas_
+
+**Tags:** `rust` `cryptography` `distributed` `security`
+
+---
+
+### [OpenSSL](https://github.com/openssl/openssl)
+
+![](https://img.shields.io/github/stars/openssl/openssl?style=flat-square&label=⭐) · Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+A robust, commercial-grade, full-featured, and Open Source cryptography library. [Apache]
+
+> **AI 分析:** Librería crypto de grado comercial, open source, estándar universal. Para cualquier app que necesite encriptación, TLS, o signing con soporte universal.
+
+**強み:** _Estándar de facto en todas partes (sistemas, apps, servicios)_ · _Auditoría y madurez incomparables_
+
+**Tags:** `openssl` `cryptography` `tls` `c` `universal`
+
+---
+
+### [s2n](https://github.com/awslabs/s2n)
+
+![](https://img.shields.io/github/stars/awslabs/s2n?style=flat-square&label=⭐) · Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+An implementation of the TLS/SSL protocols. [Apache]
+
+> **AI 分析:** Implementación robusta de TLS/SSL de AWS Labs. Usado en producción para aplicaciones que necesitan criptografía moderna. Bien mantenido, auditado, estándar en infraestructura AWS.
+
+**強み:** _Auditorías de seguridad regulares y mantenimiento activo_ · _Optimizaciones de performance específicas para SSL/TLS_
+
+**Tags:** `tls` `ssl` `cryptography` `c` `aws`
+
+---
+
+### [Social Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit)
+
+![](https://img.shields.io/github/stars/trustedsec/social-engineer-toolkit?style=flat-square&label=⭐) · Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Open source pentesting framework designed for social engineering featuring a number of custom attack vectors to make believable attacks quickly.
+
+> **AI 分析:** Framework pentesting enfocado en ingeniería social. Ataques creíbles preseteados (phishing, spear-phishing, payloads). Usado en red teams reales, documentación sólida.
+
+**強み:** _Ataques preseteados realistas y probados_ · _Integración con Metasploit, payloads customizables_
+
+**Tags:** `pentesting` `social-engineering` `framework` `python` `red-team`
+
+---
+
+### [Trail of Bits Security Skills](https://github.com/trailofbits/skills)
+
+![](https://img.shields.io/github/stars/trailofbits/skills?style=flat-square&label=⭐) · Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+by Trail of Bits A very professional collection of over a dozen security-focused skills for code auditing and vulnerability detection. Includes skills for static analysis with CodeQL and Semgrep, variant analysis across codebases, fix verification, and differential code review.
+
+> **AI 分析:** Colección de skills de seguridad para auditoría de código y análisis de vulnerabilidades. Incluye CodeQL y Semgrep. Producción Trail of Bits.
+
+**強み:** _Creado por referentes en security (Trail of Bits)_ · _Cubre análisis estático, variante y code review diferencial_
+
+**Tags:** `security` `code-audit` `codeql` `semgrep`
 
 ---
 

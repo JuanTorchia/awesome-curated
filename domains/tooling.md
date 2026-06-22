@@ -2,7 +2,7 @@
 
 <p><sub>← [Back to main](../README.md)</sub></p>
 
-**1 Human-reviewed · 2 Popular standards · 133 AI candidates**
+**1 Human-reviewed · 2 Popular standards · 119 AI candidates · 14 Needs review**
 
 ---
 
@@ -68,9 +68,9 @@ TensorFlow is a leading library designed for developing and deploying state-of-t
 
 ---
 
-## AI candidates and needs review
+## AI candidates
 
-Automated candidates with source signal; these are not human endorsements yet.
+Automated candidates with enough source signal; these are not human endorsements yet.
 
 ### [Bokeh](https://github.com/bokeh/bokeh)
 
@@ -104,22 +104,6 @@ Obsidian is a powerful knowledge base on top of a local folder of plain text Mar
 
 ---
 
-### [Playwright](https://github.com/microsoft/playwright)
-
-![](https://img.shields.io/github/stars/microsoft/playwright?style=flat-square&label=⭐) · Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Node.js library to automate Chromium, Firefox and WebKit with a single API.
-
-> **AI analysis:** Playwright es la herramienta de testing E2E más sólida del ecosistema web hoy. Microsoft la mantiene activamente y superó a Cypress en varios aspectos clave: soporte multi-browser real (no solo Chromium), ejecución en paralelo nativa, y una API más potente para casos complejos. Si hacés testing de frontends modernos, esto es oro. No es hype: resuelve problemas reales que Selenium hacía sufrir. El dev que ya usa Cypress debería evaluarla seriamente antes de seguir invirtiendo ahí.
-
-**Strengths:** _Soporte nativo para Chromium, Firefox y WebKit con una sola API coherente, sin parches ni wrappers_ · _Ejecución de tests en paralelo out-of-the-box con aislamiento por contexto de browser, sin configuración compleja_ · _Auto-wait integrado que elimina la mayoría de los flaky tests por timing sin agregar sleeps manuales_
-
-**Tags:** `testing` `e2e` `automation` `browser` `node`
-
----
-
 ### [Bitwarden](https://bitwarden.com)
 
 Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac
@@ -133,38 +117,6 @@ Open source password management tool for Mac OS, iOS and browsers. (https://gith
 **Strengths:** _Código abierto auditado, E2E encryption_ · _Self-hosting option + cloud oficial_
 
 **Tags:** `password-manager` `security` `open-source` `self-hosted`
-
----
-
-### [bun](https://bun.sh)
-
-Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Bun is a fast JavaScript runtime, package manager, bundler, test runner
-
-> **AI analysis:** Bun es el movimiento más serio que tuvo el ecosistema JS en años para sacarse de encima la lentitud histórica de Node+npm. Runtime, package manager, bundler y test runner en uno solo, escrito en Zig, con velocidades que hacen quedar mal a npm y yarn. Para proyectos nuevos o equipos que sufren los tiempos de install y startup, el salto es real y medible. La compatibilidad con Node mejoró mucho pero todavía hay edge cases en producción. No es hype: es una apuesta técnica sólida que ya ganó tracción real.
-
-**Strengths:** _Velocidad de instalación de dependencias notablemente superior a npm/yarn/pnpm en benchmarks reales_ · _Reemplaza cuatro herramientas (runtime, bundler, test runner, package manager) con una sola instalación y CLI unificada_ · _Compatibilidad nativa con TypeScript y JSX sin configuración adicional_
-
-**Tags:** `javascript` `runtime` `package-manager` `bundler` `typescript`
-
----
-
-### [Cake](https://github.com/cake-build/cake)
-
-![](https://img.shields.io/github/stars/cake-build/cake?style=flat-square&label=⭐) · Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and folders, running unit tests, compressing files and building NuGet packages.
-
-> **AI analysis:** Build system en C# con DSL para compile, testing, packaging. Para .NET teams que quieren scripting de build portable sin PowerShell crudo. Resuelve fricciones de cross-platform build automation.
-
-**Strengths:** _DSL en C# permite reutilizar logica de compilación sin shell script, más type-safe_ · _Integración nativa con NuGet y ecosystem .NET sin plugins externos_
-
-**Tags:** `csharp` `build-automation` `dsl` `ci-cd` `dotnet`
 
 ---
 
@@ -328,22 +280,6 @@ Collaborative project for the container ecosystem to assemble container-based sy
 
 ---
 
-### [Mocha](https://github.com/mochajs/mocha)
-
-![](https://img.shields.io/github/stars/mochajs/mocha?style=flat-square&label=⭐) · Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Javascript test framework for Node.js and the browser.
-
-> **AI analysis:** Test runner JS/Node maduro. Para testing en Node.js y browsers. Estándar de facto, compite con Jest/Vitest pero sigue siendo sólido.
-
-**Strengths:** _Sintaxis clara, fácil de leer para no-especialistas_ · _Integración directa con CI/CD sin configuración compleja_
-
-**Tags:** `javascript` `testing` `nodejs` `browser`
-
----
-
 ### [OctoLinker](https://github.com/octolinker/browser-extension)
 
 ![](https://img.shields.io/github/stars/octolinker/browser-extension?style=flat-square&label=⭐) · Found in 1 active source: avelino/awesome-go
@@ -357,22 +293,6 @@ Navigate through projects.json files efficiently with the OctoLinker browser ext
 **Strengths:** _Zero-config, activa automáticamente en GH_ · _Soporta monorepos y path mappings_
 
 **Tags:** `github` `browser-extension` `typescript` `navigation` `dev-tools`
-
----
-
-### [PeachPie](https://github.com/peachpiecompiler/peachpie)
-
-![](https://img.shields.io/github/stars/peachpiecompiler/peachpie?style=flat-square&label=⭐) · Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-PeachPie is a PHP compiler and runtime for .NET and .NET Core, which allows entire PHP applications to run on the modern, secure and performant .NET and .NET Core platforms.
-
-> **AI analysis:** Nicho muy específico pero resuelve un problema real: migrar o interoperar PHP con .NET sin reescribir todo desde cero. Si tenés una base de código PHP legacy y el stack nuevo es .NET, esto es oro. Para el dev promedio que arranca un proyecto nuevo, no tiene sentido. El caso de uso más legítimo es empresas con deuda técnica en PHP que quieren aprovechar el ecosistema .NET. No es hype, es una herramienta seria con commits activos, pero el público objetivo es extremadamente reducido.
-
-**Strengths:** _Permite ejecutar código PHP existente en .NET sin reescritura, reduciendo drásticamente el costo de migración_ · _Interoperabilidad bidireccional: podés llamar librerías .NET desde PHP y viceversa_ · _Compilación a bytecode .NET, lo que potencialmente mejora performance respecto al runtime PHP tradicional_
-
-**Tags:** `php` `dotnet` `compiler` `runtime` `interop`
 
 ---
 
@@ -517,6 +437,22 @@ Downloads videos from almost any online platform, along with information, thumbn
 **Strengths:** _Coverage absurdo de plataformas (YouTube, Twitch, TikTok, etc)_ · _Desarrollo muy activo con fixes constantes_
 
 **Tags:** `cli` `video-download` `python` `metadata-extraction`
+
+---
+
+### [.NET Interactive](https://github.com/dotnet/interactive)
+
+![](https://img.shields.io/github/stars/dotnet/interactive?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+.NET Interactive takes the power of .NET and embeds it into your interactive experiences.
+
+> **AI analysis:** .NET embebido en notebooks/REPL interactivos. Para data scientists .NET-istas prototipando, teaching. Buena integración con Jupyter pero ecosistema fragmentado.
+
+**Strengths:** _Integración nativa con C# type-safety en notebooks_ · _Soporte para Markdown + visualización inline_
+
+**Tags:** `dotnet` `repl` `interactive` `jupyter` `notebook`
 
 ---
 
@@ -821,54 +757,6 @@ A command-line utility that creates projects from cookiecutters (project templat
 **Strengths:** _Estándar de facto en Python para templates_ · _Extremadamente simple y flexible_
 
 **Tags:** `cli` `scaffolding` `templating` `python`
-
----
-
-### [Cppcheck](https://cppcheck.sourceforge.net)
-
-Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-A tool for static C/C++ code analysis. source
-
-> **AI analysis:** Analizador estático C/C++ open-source. Detecta bugs y malos olores en código C/C++. Integrable en CI/CD, complementario a compilador.
-
-**Strengths:** _Bajo rate de falsos positivos, basado en análisis real de código_ · _Sin dependencias externas, rápido de ejecutar_
-
-**Tags:** `static-analysis` `cpp` `c` `linter` `quality`
-
----
-
-### [CppSharp](https://github.com/mono/cppsharp)
-
-![](https://img.shields.io/github/stars/mono/cppsharp?style=flat-square&label=⭐) · Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Tools and libraries to glue C/C++ APIs to high-level languages. [MIT]
-
-> **AI analysis:** Generador de bindings C/C++ a lenguajes de alto nivel. Para desarrolladores que necesitan integrar librerías nativas en .NET. Resuelve el dolor de mantenimiento de wrappers manuales, pero requiere conocimiento de ambos mundos.
-
-**Strengths:** _Automatiza generación de bindings reduciendo boilerplate_ · _Soporte multiplataforma (Windows, Linux, macOS)_
-
-**Tags:** `interop` `csharp` `c++binding` `code-generation`
-
----
-
-### [cypress](https://github.com/cypress-io/cypress)
-
-![](https://img.shields.io/github/stars/cypress-io/cypress?style=flat-square&label=⭐) · Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Fast, easy and reliable testing for anything that runs in a browser.
-
-> **AI analysis:** Framework de testing end-to-end para navegadores moderno. Mejor UX que Selenium, dominante en testing de SPA/web apps.
-
-**Strengths:** _Experiencia de desarrollo superior a Selenium_ · _Excellent debugging tools y error messages_
-
-**Tags:** `javascript` `testing` `e2e` `browser-automation`
 
 ---
 
@@ -1288,22 +1176,6 @@ Powerful IDE for JVM languages. (Free for Students)
 
 ---
 
-### [IterTools TS](https://github.com/smoren/itertools-ts)
-
-![](https://img.shields.io/github/stars/smoren/itertools-ts?style=flat-square&label=⭐) · Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
-
-> **AI analysis:** Colección extendida de funciones iterables (lazy, async) para TS/JS. Útil para procesamiento de streams complejos sin lodash.
-
-**Strengths:** _Soporte nativo de async iterables, raro en ecosistema JS_ · _Lazy evaluation evita materializar colecciones grandes_
-
-**Tags:** `typescript` `javascript` `itertools` `functional`
-
----
-
 ### [JavaCpp](https://github.com/bytedeco/javacpp)
 
 ![](https://img.shields.io/github/stars/bytedeco/javacpp?style=flat-square&label=⭐) · Found in 1 active source: akullpp/awesome-java
@@ -1349,38 +1221,6 @@ A handy command runner for project-specific tasks
 **Strengths:** _Sintaxis limpia y legible vs Makefiles_ · _Excelente integración en proyectos existentes sin cambiar estructura_
 
 **Tags:** `task-runner` `cli` `rust`
-
----
-
-### [Kaitai Struct](https://kaitai.io)
-
-Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-File formats and network protocols dissection language and web IDE, generating parsers in C++, C#, Java, JavaScript, Perl, PHP, Python, Ruby.
-
-> **AI analysis:** DSL para parsear formatos binarios y protocolos. Genera parsers en 10+ lenguajes. Útil para reverse-engineering y trabajo con specs complejas.
-
-**Strengths:** _Generación automática de parsers multiplataforma desde spec única_ · _Web IDE integrada para testing interactivo_
-
-**Tags:** `serialization` `parsing` `dsl` `code-generation` `binary-formats`
-
----
-
-### [KDevelop](https://kdevelop.org)
-
-Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-IDE by the people behind KDE. GFDL-1.2 C++
-
-> **AI analysis:** IDE por los devs de KDE, enfocado en C++. Para proyectos Qt/KDE o C++ pesado. Similar a Visual Studio pero más liviano.
-
-**Strengths:** _Integración perfecta con Qt_ · _Debugger robusto, refactoring avanzado_
-
-**Tags:** `ide` `cpp` `kde` `qt` `cross-platform`
 
 ---
 
@@ -1608,38 +1448,6 @@ Rust bindings for writing safe and fast native Node.js modules.
 
 ---
 
-### [.NET Interactive](https://github.com/dotnet/interactive)
-
-![](https://img.shields.io/github/stars/dotnet/interactive?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-.NET Interactive takes the power of .NET and embeds it into your interactive experiences.
-
-> **AI analysis:** .NET embebido en notebooks/REPL interactivos. Para data scientists .NET-istas prototipando, teaching. Buena integración con Jupyter pero ecosistema fragmentado.
-
-**Strengths:** _Integración nativa con C# type-safety en notebooks_ · _Soporte para Markdown + visualización inline_
-
-**Tags:** `dotnet` `repl` `interactive` `jupyter` `notebook`
-
----
-
-### [Node.js core](https://github.com/nodejs/node)
-
-![](https://img.shields.io/github/stars/nodejs/node?style=flat-square&label=⭐) · Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-JavaScript runtime built on Chrome's V8 JavaScript engine
-
-> **AI analysis:** Runtime JavaScript de facto. Estándar industrial para backend, CLI, edge. Core del ecosistema JS/TS moderno.
-
-**Strengths:** _Estándar absoluto, mantenimiento empresarial activo_ · _Ecosistema npm más grande que existe_
-
-**Tags:** `javascript` `runtime` `backend` `v8`
-
----
-
 ### [Notion](https://notion.so)
 
 Found in 1 active source: jaywcjlove/awesome-mac
@@ -1685,22 +1493,6 @@ A modern shell for the GitHub era written in Rust.
 **Strengths:** _Piping de estructuras (JSON, tablas) nativo sin conversión_ · _Sintaxis limpia y debugging intuitivo vs bash arcano_
 
 **Tags:** `rust` `shell` `cli` `unix`
-
----
-
-### [OneCompiler](https://onecompiler.com)
-
-Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-A free AI Powered online compiler supporting over 70 languages, including Java, Python, MySQL, C++, and HTML, for writing, running, and sharing code.
-
-> **AI analysis:** Compilador web con 70+ lenguajes, UI intuitiva, comparte snippets. Prototipado rápido sin instalación. Pero 'AI Powered' es marketing; no resuelve problemas serios, latencia variable.
-
-**Strengths:** _Cero setup, 70+ idiomas_ · _Compartir código via link directo_
-
-**Tags:** `online-ide` `web-compiler` `multi-language` `prototyping`
 
 ---
 
@@ -1960,22 +1752,6 @@ Slint is a toolkit to efficiently develop fluid graphical user interfaces for em
 
 ---
 
-### [Spack](https://spack.io)
-
-Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-A flexible package manager that supports multiple versions, configurations, platforms, and compilers. MIT/Apache-2.0 Python
-
-> **AI analysis:** Package manager flexible para HPC/científico con soporte multi-versión y compiladores. Para labs/investigadores con dependencias complejas en múltiples plataformas.
-
-**Strengths:** _Soporte nativo de múltiples versiones y compiladores en paralelo_ · _Reproducibilidad garantizada en clusters_
-
-**Tags:** `package-manager` `hpc` `python` `multi-version`
-
----
-
 ### [Sphinx](https://github.com/sphinx-doc/sphinx)
 
 ![](https://img.shields.io/github/stars/sphinx-doc/sphinx?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
@@ -2197,6 +1973,237 @@ A high-performance, multiplayer code editor from the creators of Atom and Tree-s
 **Strengths:** _Performance genuinamente superior a VS Code en archivos enormes_ · _Colaboración en tiempo real nativa, UX pulida_
 
 **Tags:** `rust` `editor` `multiplayer` `performance`
+
+---
+
+
+---
+
+## Needs review
+
+Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
+
+### [Playwright](https://github.com/microsoft/playwright)
+
+![](https://img.shields.io/github/stars/microsoft/playwright?style=flat-square&label=⭐) · Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Node.js library to automate Chromium, Firefox and WebKit with a single API.
+
+> **AI analysis:** Playwright es la herramienta de testing E2E más sólida del ecosistema web hoy. Microsoft la mantiene activamente y superó a Cypress en varios aspectos clave: soporte multi-browser real (no solo Chromium), ejecución en paralelo nativa, y una API más potente para casos complejos. Si hacés testing de frontends modernos, esto es oro. No es hype: resuelve problemas reales que Selenium hacía sufrir. El dev que ya usa Cypress debería evaluarla seriamente antes de seguir invirtiendo ahí.
+
+**Strengths:** _Soporte nativo para Chromium, Firefox y WebKit con una sola API coherente, sin parches ni wrappers_ · _Ejecución de tests en paralelo out-of-the-box con aislamiento por contexto de browser, sin configuración compleja_ · _Auto-wait integrado que elimina la mayoría de los flaky tests por timing sin agregar sleeps manuales_
+
+**Tags:** `testing` `e2e` `automation` `browser` `node`
+
+---
+
+### [bun](https://bun.sh)
+
+Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Bun is a fast JavaScript runtime, package manager, bundler, test runner
+
+> **AI analysis:** Bun es el movimiento más serio que tuvo el ecosistema JS en años para sacarse de encima la lentitud histórica de Node+npm. Runtime, package manager, bundler y test runner en uno solo, escrito en Zig, con velocidades que hacen quedar mal a npm y yarn. Para proyectos nuevos o equipos que sufren los tiempos de install y startup, el salto es real y medible. La compatibilidad con Node mejoró mucho pero todavía hay edge cases en producción. No es hype: es una apuesta técnica sólida que ya ganó tracción real.
+
+**Strengths:** _Velocidad de instalación de dependencias notablemente superior a npm/yarn/pnpm en benchmarks reales_ · _Reemplaza cuatro herramientas (runtime, bundler, test runner, package manager) con una sola instalación y CLI unificada_ · _Compatibilidad nativa con TypeScript y JSX sin configuración adicional_
+
+**Tags:** `javascript` `runtime` `package-manager` `bundler` `typescript`
+
+---
+
+### [Cake](https://github.com/cake-build/cake)
+
+![](https://img.shields.io/github/stars/cake-build/cake?style=flat-square&label=⭐) · Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and folders, running unit tests, compressing files and building NuGet packages.
+
+> **AI analysis:** Build system en C# con DSL para compile, testing, packaging. Para .NET teams que quieren scripting de build portable sin PowerShell crudo. Resuelve fricciones de cross-platform build automation.
+
+**Strengths:** _DSL en C# permite reutilizar logica de compilación sin shell script, más type-safe_ · _Integración nativa con NuGet y ecosystem .NET sin plugins externos_
+
+**Tags:** `csharp` `build-automation` `dsl` `ci-cd` `dotnet`
+
+---
+
+### [Mocha](https://github.com/mochajs/mocha)
+
+![](https://img.shields.io/github/stars/mochajs/mocha?style=flat-square&label=⭐) · Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Javascript test framework for Node.js and the browser.
+
+> **AI analysis:** Test runner JS/Node maduro. Para testing en Node.js y browsers. Estándar de facto, compite con Jest/Vitest pero sigue siendo sólido.
+
+**Strengths:** _Sintaxis clara, fácil de leer para no-especialistas_ · _Integración directa con CI/CD sin configuración compleja_
+
+**Tags:** `javascript` `testing` `nodejs` `browser`
+
+---
+
+### [PeachPie](https://github.com/peachpiecompiler/peachpie)
+
+![](https://img.shields.io/github/stars/peachpiecompiler/peachpie?style=flat-square&label=⭐) · Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+PeachPie is a PHP compiler and runtime for .NET and .NET Core, which allows entire PHP applications to run on the modern, secure and performant .NET and .NET Core platforms.
+
+> **AI analysis:** Nicho muy específico pero resuelve un problema real: migrar o interoperar PHP con .NET sin reescribir todo desde cero. Si tenés una base de código PHP legacy y el stack nuevo es .NET, esto es oro. Para el dev promedio que arranca un proyecto nuevo, no tiene sentido. El caso de uso más legítimo es empresas con deuda técnica en PHP que quieren aprovechar el ecosistema .NET. No es hype, es una herramienta seria con commits activos, pero el público objetivo es extremadamente reducido.
+
+**Strengths:** _Permite ejecutar código PHP existente en .NET sin reescritura, reduciendo drásticamente el costo de migración_ · _Interoperabilidad bidireccional: podés llamar librerías .NET desde PHP y viceversa_ · _Compilación a bytecode .NET, lo que potencialmente mejora performance respecto al runtime PHP tradicional_
+
+**Tags:** `php` `dotnet` `compiler` `runtime` `interop`
+
+---
+
+### [Cppcheck](https://cppcheck.sourceforge.net)
+
+Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+A tool for static C/C++ code analysis. source
+
+> **AI analysis:** Analizador estático C/C++ open-source. Detecta bugs y malos olores en código C/C++. Integrable en CI/CD, complementario a compilador.
+
+**Strengths:** _Bajo rate de falsos positivos, basado en análisis real de código_ · _Sin dependencias externas, rápido de ejecutar_
+
+**Tags:** `static-analysis` `cpp` `c` `linter` `quality`
+
+---
+
+### [CppSharp](https://github.com/mono/cppsharp)
+
+![](https://img.shields.io/github/stars/mono/cppsharp?style=flat-square&label=⭐) · Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Tools and libraries to glue C/C++ APIs to high-level languages. [MIT]
+
+> **AI analysis:** Generador de bindings C/C++ a lenguajes de alto nivel. Para desarrolladores que necesitan integrar librerías nativas en .NET. Resuelve el dolor de mantenimiento de wrappers manuales, pero requiere conocimiento de ambos mundos.
+
+**Strengths:** _Automatiza generación de bindings reduciendo boilerplate_ · _Soporte multiplataforma (Windows, Linux, macOS)_
+
+**Tags:** `interop` `csharp` `c++binding` `code-generation`
+
+---
+
+### [cypress](https://github.com/cypress-io/cypress)
+
+![](https://img.shields.io/github/stars/cypress-io/cypress?style=flat-square&label=⭐) · Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Fast, easy and reliable testing for anything that runs in a browser.
+
+> **AI analysis:** Framework de testing end-to-end para navegadores moderno. Mejor UX que Selenium, dominante en testing de SPA/web apps.
+
+**Strengths:** _Experiencia de desarrollo superior a Selenium_ · _Excellent debugging tools y error messages_
+
+**Tags:** `javascript` `testing` `e2e` `browser-automation`
+
+---
+
+### [IterTools TS](https://github.com/smoren/itertools-ts)
+
+![](https://img.shields.io/github/stars/smoren/itertools-ts?style=flat-square&label=⭐) · Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
+
+> **AI analysis:** Colección extendida de funciones iterables (lazy, async) para TS/JS. Útil para procesamiento de streams complejos sin lodash.
+
+**Strengths:** _Soporte nativo de async iterables, raro en ecosistema JS_ · _Lazy evaluation evita materializar colecciones grandes_
+
+**Tags:** `typescript` `javascript` `itertools` `functional`
+
+---
+
+### [Kaitai Struct](https://kaitai.io)
+
+Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+File formats and network protocols dissection language and web IDE, generating parsers in C++, C#, Java, JavaScript, Perl, PHP, Python, Ruby.
+
+> **AI analysis:** DSL para parsear formatos binarios y protocolos. Genera parsers en 10+ lenguajes. Útil para reverse-engineering y trabajo con specs complejas.
+
+**Strengths:** _Generación automática de parsers multiplataforma desde spec única_ · _Web IDE integrada para testing interactivo_
+
+**Tags:** `serialization` `parsing` `dsl` `code-generation` `binary-formats`
+
+---
+
+### [KDevelop](https://kdevelop.org)
+
+Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+IDE by the people behind KDE. GFDL-1.2 C++
+
+> **AI analysis:** IDE por los devs de KDE, enfocado en C++. Para proyectos Qt/KDE o C++ pesado. Similar a Visual Studio pero más liviano.
+
+**Strengths:** _Integración perfecta con Qt_ · _Debugger robusto, refactoring avanzado_
+
+**Tags:** `ide` `cpp` `kde` `qt` `cross-platform`
+
+---
+
+### [Node.js core](https://github.com/nodejs/node)
+
+![](https://img.shields.io/github/stars/nodejs/node?style=flat-square&label=⭐) · Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+JavaScript runtime built on Chrome's V8 JavaScript engine
+
+> **AI analysis:** Runtime JavaScript de facto. Estándar industrial para backend, CLI, edge. Core del ecosistema JS/TS moderno.
+
+**Strengths:** _Estándar absoluto, mantenimiento empresarial activo_ · _Ecosistema npm más grande que existe_
+
+**Tags:** `javascript` `runtime` `backend` `v8`
+
+---
+
+### [OneCompiler](https://onecompiler.com)
+
+Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+A free AI Powered online compiler supporting over 70 languages, including Java, Python, MySQL, C++, and HTML, for writing, running, and sharing code.
+
+> **AI analysis:** Compilador web con 70+ lenguajes, UI intuitiva, comparte snippets. Prototipado rápido sin instalación. Pero 'AI Powered' es marketing; no resuelve problemas serios, latencia variable.
+
+**Strengths:** _Cero setup, 70+ idiomas_ · _Compartir código via link directo_
+
+**Tags:** `online-ide` `web-compiler` `multi-language` `prototyping`
+
+---
+
+### [Spack](https://spack.io)
+
+Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+A flexible package manager that supports multiple versions, configurations, platforms, and compilers. MIT/Apache-2.0 Python
+
+> **AI analysis:** Package manager flexible para HPC/científico con soporte multi-versión y compiladores. Para labs/investigadores con dependencias complejas en múltiples plataformas.
+
+**Strengths:** _Soporte nativo de múltiples versiones y compiladores en paralelo_ · _Reproducibilidad garantizada en clusters_
+
+**Tags:** `package-manager` `hpc` `python` `multi-version`
 
 ---
 

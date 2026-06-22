@@ -2,7 +2,7 @@
 
 <p><sub>← [Voltar ao main](../README.pt-BR.md)</sub></p>
 
-**1 Human-reviewed · 0 Popular standards · 105 AI candidates**
+**2 Human-reviewed · 0 Popular standards · 102 AI candidates · 2 Needs review**
 
 ---
 
@@ -26,12 +26,28 @@ A CLI tool to transpile trained classic machine learning models into a native Ru
 
 ---
 
+### 👤 [Netron](https://github.com/lutzroeder/netron)
+
+![](https://img.shields.io/github/stars/lutzroeder/netron?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
+
+**Review label:** Human Pick · **Caveat:** Best fit for teams with a matching ML or data workflow.
+
+Netron is a viewer for neural network, deep learning and machine learning models.
+
+> **Análise IA:** Visualizador open-source para modelos ML/DL (ONNX, TensorFlow, PyTorch). Resuelve problema real: inspeccionar arquitecturas sin pasar por Jupyter o herramientas propietarias.
+
+**Pontos fortes:** _Soporta múltiples formatos de modelos (ONNX, TF, PyTorch, Keras)_ · _Interface interactiva sin dependencias pesadas_
+
+**Tags:** `neural-networks` `visualization` `ml-models`
 
 ---
 
-## AI candidates and needs review
 
-Automated candidates with source signal; these are not human endorsements yet.
+---
+
+## AI candidates
+
+Automated candidates with enough source signal; these are not human endorsements yet.
 
 ### [XGBoost](https://github.com/dmlc/xgboost)
 
@@ -414,22 +430,6 @@ Fast, flexible, multi-threaded ensembles of decision trees for machine learning 
 **Pontos fortes:** _Performance nativo en Go_ · _Implementación limpia sin dependencias externas_
 
 **Tags:** `go` `machine-learning` `decision-trees` `performance`
-
----
-
-### [Context Engineering Kit](https://github.com/neolabhq/context-engineering-kit)
-
-![](https://img.shields.io/github/stars/neolabhq/context-engineering-kit?style=flat-square&label=⭐) · Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-by Vlad Goncharov Hand-crafted collection of advanced context engineering techniques and patterns with minimal token footprint focused on improving agent result quality.
-
-> **Análise IA:** Técnicas avanzadas de context engineering para agentes IA con bajo token footprint. Para users de Claude que optimizan prompts en producción.
-
-**Pontos fortes:** _Enfoque explícito en eficiencia de tokens_ · _Patterns de ingeniería contexto hand-crafted_
-
-**Tags:** `prompt-engineering` `token-optimization` `context` `agents`
 
 ---
 
@@ -1121,22 +1121,6 @@ A library consisting of useful tools for data science and machine learning tasks
 
 ---
 
-### [Netron](https://netron.app)
-
-Found in 1 active source: josephmisiti/awesome-machine-learning
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Visualizer for neural network and machine learning models. MIT Python/Nodejs
-
-> **Análise IA:** Visualizador web para inspeccionar arquitecturas de redes neuronales (ONNX, TF, PyTorch). Lee modelos, muestra grafo. Útil para debug y documentación, no para training.
-
-**Pontos fortes:** _UI limpia e intuitiva_ · _Soporta múltiples formatos (ONNX, SavedModel, etc)_
-
-**Tags:** `visualization` `neural-network` `onnx` `model-inspection`
-
----
-
 ### [Nimbalyst](https://nimbalyst.com)
 
 Found in 1 active source: jaywcjlove/awesome-mac
@@ -1473,22 +1457,6 @@ Self-contained Machine Learning and Natural Language Processing library in Go.
 
 ---
 
-### [Superpowers](https://github.com/obra/superpowers)
-
-![](https://img.shields.io/github/stars/obra/superpowers?style=flat-square&label=⭐) · Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-by Jesse Vincent A strong bundle of core competencies for software engineering, with good coverage of a large portion of the SDLC from planning, reviewing, testing, debugging... Well written, well organized, and adaptable. The author refers to them as "superpowers", but many of them are just consolidating engineering best practices which sometimes does feel like a superpower when working with...
-
-> **Análise IA:** Bundle de prácticas de ingeniería software (planning, review, testing, debug) como prompts/técnicas. Para devs con Claude Code que busquen estructura en el ciclo de vida.
-
-**Pontos fortes:** _Cobertura amplia del ciclo de vida completo_ · _Bien organizado y adaptable a contextos específicos_
-
-**Tags:** `prompt-engineering` `sdlc` `best-practices` `claude`
-
----
-
 ### [TabGAN](https://github.com/diyago/tabular-data-generation)
 
 ![](https://img.shields.io/github/stars/diyago/tabular-data-generation?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
@@ -1710,6 +1678,45 @@ ZenML is an extensible, open-source MLOps framework to create reproducible ML pi
 **Pontos fortes:** _Metadata tracking y caching built-in reduce overhead_ · _Flexible: soporta múltiples orquestadores y backends_
 
 **Tags:** `mlops` `ml-pipelines` `metadata-tracking` `python`
+
+---
+
+
+---
+
+## Needs review
+
+Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
+
+### [Context Engineering Kit](https://github.com/neolabhq/context-engineering-kit)
+
+![](https://img.shields.io/github/stars/neolabhq/context-engineering-kit?style=flat-square&label=⭐) · Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+by Vlad Goncharov Hand-crafted collection of advanced context engineering techniques and patterns with minimal token footprint focused on improving agent result quality.
+
+> **Análise IA:** Técnicas avanzadas de context engineering para agentes IA con bajo token footprint. Para users de Claude que optimizan prompts en producción.
+
+**Pontos fortes:** _Enfoque explícito en eficiencia de tokens_ · _Patterns de ingeniería contexto hand-crafted_
+
+**Tags:** `prompt-engineering` `token-optimization` `context` `agents`
+
+---
+
+### [Superpowers](https://github.com/obra/superpowers)
+
+![](https://img.shields.io/github/stars/obra/superpowers?style=flat-square&label=⭐) · Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+by Jesse Vincent A strong bundle of core competencies for software engineering, with good coverage of a large portion of the SDLC from planning, reviewing, testing, debugging... Well written, well organized, and adaptable. The author refers to them as "superpowers", but many of them are just consolidating engineering best practices which sometimes does feel like a superpower when working with...
+
+> **Análise IA:** Bundle de prácticas de ingeniería software (planning, review, testing, debug) como prompts/técnicas. Para devs con Claude Code que busquen estructura en el ciclo de vida.
+
+**Pontos fortes:** _Cobertura amplia del ciclo de vida completo_ · _Bien organizado y adaptable a contextos específicos_
+
+**Tags:** `prompt-engineering` `sdlc` `best-practices` `claude`
 
 ---
 

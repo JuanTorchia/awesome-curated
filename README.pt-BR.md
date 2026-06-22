@@ -36,7 +36,7 @@ Dê star se você quer uma shortlist recorrente e com pouco ruído de ferramenta
 
 ## 🗺️ Encontre seu stack
 
-[🌐 **Web** · 50](domains/web.pt-BR.md) · [🤖 **IA e ML** · 105](domains/ai-ml.pt-BR.md) · [🛠️ **DevOps** · 50](domains/devops.pt-BR.md) · [📱 **Mobile** · 3](domains/mobile.pt-BR.md) · [💾 **Dados e Bancos** · 74](domains/data.pt-BR.md) · [🔐 **Segurança e Cripto** · 58](domains/security.pt-BR.md) · [⚡ **Performance** · 8](domains/performance.pt-BR.md) · [🧰 **Ferramentas Dev** · 136](domains/tooling.pt-BR.md) · [🎨 **Outros** · 25](domains/other.pt-BR.md)
+[🌐 **Web** · 49](domains/web.pt-BR.md) · [🤖 **IA e ML** · 106](domains/ai-ml.pt-BR.md) · [🛠️ **DevOps** · 49](domains/devops.pt-BR.md) · [📱 **Mobile** · 3](domains/mobile.pt-BR.md) · [💾 **Dados e Bancos** · 74](domains/data.pt-BR.md) · [🔐 **Segurança e Cripto** · 58](domains/security.pt-BR.md) · [⚡ **Performance** · 9](domains/performance.pt-BR.md) · [🧰 **Ferramentas Dev** · 136](domains/tooling.pt-BR.md) · [🎨 **Outros** · 25](domains/other.pt-BR.md)
 
 ---
 
@@ -104,11 +104,11 @@ Escolhas revisadas por humano com um motivo concreto para olhar agora.
 
 | Tool | O que faz | Sinal |
 |---|---|---|
-| 👤 [**Netron**](https://github.com/lutzroeder/netron) | Netron is a viewer for neural network, deep learning and machine learning models. | Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning · Human Pick |
 | [**Amplication**](https://github.com/amplication/amplication) | Amplication is an open-source development tool. It helps you develop quality Node.js applications without spending... | Found in 1 active source: matiassingers/awesome-readme · AI Candidate |
 | [**D3js**](https://d3js.org) | is a powerful data visualization javascript library. | Found in 2 active sources: jivoi/awesome-osint, academic/awesome-datascience · AI Candidate |
+| [**grpc**](https://github.com/grpc/grpc) | Remote Procedure Calls (RPCs) provide a useful abstraction for building distributed applications and services. The... | Found in 1 active source: vinta/awesome-python · AI Candidate |
 
-📖 mais 47 na [página detalhada →](domains/web.pt-BR.md)
+📖 mais 46 na [página detalhada →](domains/web.pt-BR.md)
 
 ### 🤖 IA e ML
 
@@ -118,17 +118,17 @@ Escolhas revisadas por humano com um motivo concreto para olhar agora.
 | [**XGBoost**](https://github.com/dmlc/xgboost) | XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. | Found in 4 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning +1 more · AI Candidate |
 | [**CatBoost**](https://github.com/catboost/catboost) | General purpose gradient boosting on decision trees library with categorical features support out of the box. It is... | Found in 3 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning, vinta/awesome-python · AI Candidate |
 
-📖 mais 102 na [página detalhada →](domains/ai-ml.pt-BR.md)
+📖 mais 103 na [página detalhada →](domains/ai-ml.pt-BR.md)
 
 ### 🛠️ DevOps
 
 | Tool | O que faz | Sinal |
 |---|---|---|
-| 👤 [**Bencher**](https://bencher.dev) | Suite of continuous benchmarking tools designed to catch performance regressions in CI. MIT/Apache-2.0 Rust | Found in 1 active source: avelino/awesome-go · Human Pick |
 | [**Dragonfly**](https://github.com/dragonflyoss/dragonfly2) | Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best... | Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go · AI Candidate |
 | [**ZooKeeper**](https://zookeeper.apache.org) | ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed... | Found in 2 active sources: akullpp/awesome-java, rust-unofficial/awesome-rust · AI Candidate |
+| [**bandwhich**](https://github.com/imsnif/bandwhich) | Track bandwidth utilization by process. | Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust · AI Candidate |
 
-📖 mais 47 na [página detalhada →](domains/devops.pt-BR.md)
+📖 mais 46 na [página detalhada →](domains/devops.pt-BR.md)
 
 ### 📱 Mobile
 
@@ -163,11 +163,11 @@ Escolhas revisadas por humano com um motivo concreto para olhar agora.
 
 | Tool | O que faz | Sinal |
 |---|---|---|
+| 👤 [**Bencher**](https://bencher.dev) | Suite of continuous benchmarking tools designed to catch performance regressions in CI. MIT/Apache-2.0 Rust | Found in 1 active source: avelino/awesome-go · Human Pick |
 | [**CodeFlash.AI**](https://codeflash.ai) | CodeFlash.AI – Ship Blazing-Fast Python Code, Every Time. | Found in 1 active source: josephmisiti/awesome-machine-learning · AI Candidate |
 | [**Cython**](https://github.com/cython/cython) | Cython is an optimising static compiler for both the Python programming language and the extended Cython programming... | Found in 1 active source: vinta/awesome-python · AI Candidate |
-| [**GeneticSharp**](https://github.com/giacomelli/geneticsharp) | Multi-platform genetic algorithm library for .NET Core and .NET Framework. The library has several implementations... | Found in 1 active source: josephmisiti/awesome-machine-learning · AI Candidate |
 
-📖 mais 5 na [página detalhada →](domains/performance.pt-BR.md)
+📖 mais 6 na [página detalhada →](domains/performance.pt-BR.md)
 
 ### 🧰 Ferramentas Dev
 

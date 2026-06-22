@@ -2,32 +2,16 @@
 
 <p><sub>← [Back to main](../README.md)</sub></p>
 
-**0 Human-reviewed · 0 Popular standards · 25 AI candidates**
+**0 Human-reviewed · 0 Popular standards · 21 AI candidates · 4 Needs review**
 
 ---
 
 
 ---
 
-## AI candidates and needs review
+## AI candidates
 
-Automated candidates with source signal; these are not human endorsements yet.
-
-### [RunJS](https://runjs.app)
-
-Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas or trying out new libraries.
-
-> **AI analysis:** RunJS es una de esas herramientas que una vez que la usás no entendés cómo viviste sin ella. Playground de JS/TS desktop (no web) que ejecuta código mientras escribís, con acceso real a Node y npm. Para prototipar ideas rápido, probar una lib sin armar un proyecto entero, o debuggear algo puntual, es imbatible. No reemplaza tu IDE, pero para experimentación rápida le gana a abrir un REPL o un CodeSandbox. Dev que trabaja con JS a diario debería tenerlo instalado.
-
-**Strengths:** _Ejecución en tiempo real mientras escribís, sin botón de run ni fricción_ · _Acceso a Node.js real y posibilidad de importar paquetes npm directamente_ · _App nativa de escritorio: rápida, sin latencia de red, siempre disponible_
-
-**Tags:** `javascript` `typescript` `playground` `desktop-app` `repl`
-
----
+Automated candidates with enough source signal; these are not human endorsements yet.
 
 ### [AFFiNE Community Edition](https://affine.pro)
 
@@ -90,22 +74,6 @@ Deluge is a lightweight, Free Software, cross-platform BitTorrent client. (https
 **Strengths:** _Muy liviano en recursos_ · _Web UI funcional y remoto_
 
 **Tags:** `bittorrent` `python` `cross-platform` `lightweight`
-
----
-
-### [Godot Engine](https://github.com/godotengine/godot)
-
-![](https://img.shields.io/github/stars/godotengine/godot?style=flat-square&label=⭐) · Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-2D and 3D cross-platform game engine. Also has C# and Python code.
-
-> **AI analysis:** Motor de juegos 2D/3D multiplataforma con soporte C#/Python. Para devs indie que quieren control total. Alternativa open-source real a Unity/Unreal con comunidad consolidada.
-
-**Strengths:** _Open-source puro, control total del engine_ · _Soporta múltiples lenguajes reduce friction onboarding_
-
-**Tags:** `cpp` `gamedev` `csharp` `cross-platform` `open-source`
 
 ---
 
@@ -205,22 +173,6 @@ Personal news reader that brings people together to talk about the world. A new 
 
 ---
 
-### [phpList](https://phplist.org)
-
-Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. AGPL-3.0 PHP
-
-> **AI analysis:** Plataforma madura de email marketing self-hosted con gestión avanzada de suscriptores, bounces y plugin ecosystem. Para agencias y marketers que necesitan control total. Resuelve problema real de newsletters sin vendor lock-in.
-
-**Strengths:** _Plugin ecosystem robusto y bien documentado_ · _Manejo sofisticado de bounces y listas de suscriptores_
-
-**Tags:** `php` `self-hosted` `email-marketing` `agpl`
-
----
-
 ### [Polaris](https://github.com/agersant/polaris)
 
 ![](https://img.shields.io/github/stars/agersant/polaris?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
@@ -282,22 +234,6 @@ News reader for Feedbin, Feedly, Feed Wrangler and so on. (https://apps.apple.co
 **Strengths:** _Interfaz pulida y rápida para lectura RSS_ · _Soporte múltiple de backends (Feedbin, Feedly, Feed Wrangler)_
 
 **Tags:** `rss` `news-reader` `macos` `ios` `feedbin`
-
----
-
-### [Samba](https://samba.org)
-
-Needs trace review
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Samba is the standard Windows interoperability suite of programs for Linux and Unix. It provides secure, stable and fast file and print services for all clients using the SMB/CIFS protocol. GPL-3.0 C
-
-> **AI analysis:** Suite estándar de facto para interoperabilidad Windows en Linux/Unix. Servicios SMB/CIFS de producción. Si necesitás fileserver con clients Windows, esto es obligatorio, no opción.
-
-**Strengths:** _Estándar industrial de 30+ años, probado en millones de deployments_ · _Performance y seguridad battle-tested, integración Active Directory nativa_
-
-**Tags:** `c` `file-sharing` `smb-cifs` `production`
 
 ---
 
@@ -410,6 +346,77 @@ Python UK SIC 2007 industry classification code lookup, search, and validation. 
 **Strengths:** _Cobertura 100% de 731 códigos SIC 2007_ · _Búsqueda y validación integradas_
 
 **Tags:** `python` `sic-codes` `uk-industry` `classification` `pypi`
+
+---
+
+
+---
+
+## Needs review
+
+Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
+
+### [RunJS](https://runjs.app)
+
+Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas or trying out new libraries.
+
+> **AI analysis:** RunJS es una de esas herramientas que una vez que la usás no entendés cómo viviste sin ella. Playground de JS/TS desktop (no web) que ejecuta código mientras escribís, con acceso real a Node y npm. Para prototipar ideas rápido, probar una lib sin armar un proyecto entero, o debuggear algo puntual, es imbatible. No reemplaza tu IDE, pero para experimentación rápida le gana a abrir un REPL o un CodeSandbox. Dev que trabaja con JS a diario debería tenerlo instalado.
+
+**Strengths:** _Ejecución en tiempo real mientras escribís, sin botón de run ni fricción_ · _Acceso a Node.js real y posibilidad de importar paquetes npm directamente_ · _App nativa de escritorio: rápida, sin latencia de red, siempre disponible_
+
+**Tags:** `javascript` `typescript` `playground` `desktop-app` `repl`
+
+---
+
+### [Godot Engine](https://github.com/godotengine/godot)
+
+![](https://img.shields.io/github/stars/godotengine/godot?style=flat-square&label=⭐) · Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+2D and 3D cross-platform game engine. Also has C# and Python code.
+
+> **AI analysis:** Motor de juegos 2D/3D multiplataforma con soporte C#/Python. Para devs indie que quieren control total. Alternativa open-source real a Unity/Unreal con comunidad consolidada.
+
+**Strengths:** _Open-source puro, control total del engine_ · _Soporta múltiples lenguajes reduce friction onboarding_
+
+**Tags:** `cpp` `gamedev` `csharp` `cross-platform` `open-source`
+
+---
+
+### [phpList](https://phplist.org)
+
+Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. AGPL-3.0 PHP
+
+> **AI analysis:** Plataforma madura de email marketing self-hosted con gestión avanzada de suscriptores, bounces y plugin ecosystem. Para agencias y marketers que necesitan control total. Resuelve problema real de newsletters sin vendor lock-in.
+
+**Strengths:** _Plugin ecosystem robusto y bien documentado_ · _Manejo sofisticado de bounces y listas de suscriptores_
+
+**Tags:** `php` `self-hosted` `email-marketing` `agpl`
+
+---
+
+### [Samba](https://samba.org)
+
+Needs trace review
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Samba is the standard Windows interoperability suite of programs for Linux and Unix. It provides secure, stable and fast file and print services for all clients using the SMB/CIFS protocol. GPL-3.0 C
+
+> **AI analysis:** Suite estándar de facto para interoperabilidad Windows en Linux/Unix. Servicios SMB/CIFS de producción. Si necesitás fileserver con clients Windows, esto es obligatorio, no opción.
+
+**Strengths:** _Estándar industrial de 30+ años, probado en millones de deployments_ · _Performance y seguridad battle-tested, integración Active Directory nativa_
+
+**Tags:** `c` `file-sharing` `smb-cifs` `production`
 
 ---
 

@@ -2,36 +2,311 @@
 
 <p><sub>← [Voltar ao main](../README.pt-BR.md)</sub></p>
 
-**1 Human-reviewed · 0 Popular standards · 50 AI candidates**
-
----
-
-## Human-reviewed picks
-
-Tools with a human review label and visible caveats.
-
-### 👤 [Netron](https://github.com/lutzroeder/netron)
-
-![](https://img.shields.io/github/stars/lutzroeder/netron?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
-
-**Review label:** Human Pick · **Caveat:** Best fit for teams with a matching ML or data workflow.
-
-Netron is a viewer for neural network, deep learning and machine learning models.
-
-> **Análise IA:** Visualizador open-source para modelos ML/DL (ONNX, TensorFlow, PyTorch). Resuelve problema real: inspeccionar arquitecturas sin pasar por Jupyter o herramientas propietarias.
-
-**Pontos fortes:** _Soporta múltiples formatos de modelos (ONNX, TF, PyTorch, Keras)_ · _Interface interactiva sin dependencias pesadas_
-
-**Tags:** `neural-networks` `visualization` `ml-models`
+**0 Human-reviewed · 0 Popular standards · 18 AI candidates · 31 Needs review**
 
 ---
 
 
 ---
 
-## AI candidates and needs review
+## AI candidates
 
-Automated candidates with source signal; these are not human endorsements yet.
+Automated candidates with enough source signal; these are not human endorsements yet.
+
+### [Amplication](https://github.com/amplication/amplication)
+
+![](https://img.shields.io/github/stars/amplication/amplication?style=flat-square&label=⭐) · Found in 1 active source: matiassingers/awesome-readme
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Amplication is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
+
+> **Análise IA:** Generador de código Node.js con UI que abstrae boilerplate repetitivo (auth, CRUD, DB). Útil para prototipado rápido y MVPs. Riesgo: código generado puede ser opaco y difícil de mantener si necesitás customizaciones profundas.
+
+**Pontos fortes:** _Acelera desarrollo inicial eliminando scaffolding tedioso_ · _Open source: podés forkear y modificar la generación de código_
+
+**Tags:** `code-generation` `nodejs` `backend` `low-code` `open-source`
+
+---
+
+### [D3js](https://d3js.org)
+
+Found in 2 active sources: jivoi/awesome-osint, academic/awesome-datascience
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+is a powerful data visualization javascript library.
+
+> **Análise IA:** Librería de data visualization en JavaScript con enfoque en transformación de datos. Resuelve visualization compleja sin ser un wrapper. D3 es basal pero tiene learning curve vertical.
+
+**Pontos fortes:** _Control granular sobre cada pixel renderizado_ · _Bind data-to-DOM model es poderoso una vez lo dominás_
+
+**Tags:** `javascript` `visualization` `svg` `data-driven`
+
+---
+
+### [grpc](https://github.com/grpc/grpc)
+
+![](https://img.shields.io/github/stars/grpc/grpc?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Remote Procedure Calls (RPCs) provide a useful abstraction for building distributed applications and services. The libraries in this repository provide a concrete implementation of the gRPC protocol, layered over HTTP/2. These libraries enable communication between clients and servers using any combination of the supported languages.
+
+> **Análise IA:** Framework RPC sobre HTTP/2 con code generation multilenguaje. Resuelve comunicación inter-servicios con schemas versionados. Complejo pero solid para microservicios serios.
+
+**Pontos fortes:** _Code generation elimina boilerplate de serialización_ · _Performance superior a REST para cargas altas_
+
+**Tags:** `rpc` `http2` `distributed-systems` `protobuf`
+
+---
+
+### [juspay/neurolink](https://github.com/juspay/neurolink)
+
+![](https://img.shields.io/github/stars/juspay/neurolink?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, punkpeye/awesome-mcp-servers
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+📇 ☁️ 🏠 🍎 🪟 🐧 Making enterprise AI infrastructure universally accessible. Edge-first platform unifying 12 providers and 100+ models with multi-agent orchestration, HITL workflows, guardrails middleware, and context summarization.
+
+> **Análise IA:** Plataforma edge-first para IA empresarial: 12+ providers, 100+ modelos, orquestación multi-agente. Resuelve: consolidar infra AI distribuida con guardrails y HITL. Ambicioso pero info técnica escasa.
+
+**Pontos fortes:** _Abstracción multi-provider consolidada_ · _Middleware guardrails incluido_
+
+**Tags:** `edge-computing` `multi-agent` `enterprise` `orchestration`
+
+---
+
+### [mkosir/react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt)
+
+![](https://img.shields.io/github/stars/mkosir/react-parallax-tilt?style=flat-square&label=⭐) · Found in 1 active source: matiassingers/awesome-readme
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+GIF demo. Multiple badges. Feature list. Great live demo with code examples. Easy to follow instructions for local development set up.
+
+> **Análise IA:** Componente React bien mantenido para efecto tilt/parallax en cards y elementos UI. Resuelve un problema concreto y específico: ese efecto 3D de inclinación que ves en portfolios y landing pages premium. No es para todos los proyectos, pero cuando lo necesitás, evitás reinventar la rueda con listeners de mouse y transforms manuales. La demo es excelente, la API parece limpia. El riesgo real es usarlo de más y terminar con una UI que marea al usuario.
+
+**Pontos fortes:** _API declarativa que abstrae toda la matemática de mouse position + CSS 3D transforms_ · _Demo interactiva con código que permite evaluar el efecto antes de instalar_ · _Mantenido activamente con TypeScript support incluido_
+
+**Tags:** `react` `animation` `css-transform` `ui-components` `parallax`
+
+---
+
+### [Vivaldi](https://vivaldi.com)
+
+Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+The browser that puts you in control.
+
+> **Análise IA:** Browser Chromium con énfasis en customización y control. Para power-users que quieren personalizar colores, layouts, temas. Técnicamente funciona, pero es nicho.
+
+**Pontos fortes:** _Altamente themeable, muchas opciones de UI_ · _Integración con servicios propios (Mail, Feed Reader)_
+
+**Tags:** `browser` `chromium` `customization`
+
+---
+
+### [biome](https://github.com/biomejs/biome)
+
+![](https://img.shields.io/github/stars/biomejs/biome?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP
+
+> **Análise IA:** Toolchain web moderno: formatter + linter + bundler aspirations. Escrito en Rust. Para devs que quieren remplazar ESLint+Prettier. Resuelve fragmentación de tools frontend.
+
+**Pontos fortes:** _Performance brutal (Rust), análisis instantáneo_ · _Configuración sensata por defecto, sin eslintrc boilerplate_
+
+**Tags:** `rust` `javascript` `formatter` `linter` `cli`
+
+---
+
+### [Certificate Ripper](https://github.com/hakky54/certificate-ripper)
+
+![](https://img.shields.io/github/stars/hakky54/certificate-ripper?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, akullpp/awesome-java
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+CLI tool and library for extracting and exporting server certificates from HTTPS endpoints.
+
+> **Análise IA:** Toolkit selfhosted para archivar web a Wayback, archive.today, IPFS. Escenarios: preservación de contenido, análisis histórico, cumplimiento legal. Go asegura deploy ligero.
+
+**Pontos fortes:** _Múltiples backends (Wayback, archive.today, IPFS, local)_ · _Bajo overhead, fácil de desplegar y mantener_
+
+**Tags:** `go` `web-archiving` `self-hosted` `ipfs` `wayback`
+
+---
+
+### [gofiber/fiber](https://github.com/gofiber/fiber)
+
+![](https://img.shields.io/github/stars/gofiber/fiber?style=flat-square&label=⭐) · Found in 2 active sources: matiassingers/awesome-readme, avelino/awesome-go
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Clean project logo. Useful badges and links (languages switcher, code style, test cover, docs, Discord channel). Clear description of what the project does with quickstart, benchmark charts, well-documented code examples (with the ability to hide long content), project philosophy notes ("the why of project"), tables with project addons, list of contributors, star growth statistics, and more.
+
+> **Análise IA:** Framework web Go rápido, sintaxis Express-like. Descripción dada es sobre su README, no features. Fiber es bueno pero descripción no la caracteriza.
+
+**Pontos fortes:** _performance cercano a raw HTTP_ · _API intuitiva_
+
+**Tags:** `web-framework` `go` `http` `performance`
+
+---
+
+### [hyperium/hyper](https://github.com/hyperium/hyper)
+
+![](https://img.shields.io/github/stars/hyperium/hyper?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+an HTTP implementation
+
+> **Análise IA:** HTTP client/server library de bajo nivel para Rust. Para quien necesita control fino sobre HTTP. Estándar en Rust async web.
+
+**Pontos fortes:** _Arquitectura async/await limpia con Tokio_ · _Performance de referencia en benchmarks HTTP Rust_
+
+**Tags:** `rust` `http` `async` `networking`
+
+---
+
+### [pydantic-ai](https://github.com/pydantic/pydantic-ai)
+
+![](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=flat-square&label=⭐) · Found in 2 active sources: vinta/awesome-python, punkpeye/awesome-mcp-servers
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+A Python agent framework for building generative AI applications with structured schemas.
+
+> **Análise IA:** Framework Python para agentes IA con schemas Pydantic. Abstracción sobre LLMs (OpenAI, Anthropic) con validación estructurada de respuestas. Para buildear chatbots y agents que no escupan basura sin validar.
+
+**Pontos fortes:** _Validación automática de respuestas LLM contra Pydantic models_ · _Multi-LLM provider support sin reescribir lógica_
+
+**Tags:** `python` `ai-agents` `llm` `pydantic` `structured-output`
+
+---
+
+### [Python Babel](https://github.com/python-babel/babel)
+
+![](https://img.shields.io/github/stars/python-babel/babel?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+The Python Internationalization Library.
+
+> **Análise IA:** I18n para Python. Buena, establece estándar, pero espacializado. Resuelve bien el problema de internacionalización si lo necesitás.
+
+**Pontos fortes:** _Integración con gettext_ · _Soporte para múltiples formatos de catálogos_
+
+**Tags:** `i18n` `localization` `python`
+
+---
+
+### [scrapy](https://github.com/scrapy/scrapy)
+
+![](https://img.shields.io/github/stars/scrapy/scrapy?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+A fast high-level web crawling & scraping framework for Python.
+
+> **Análise IA:** Framework de web scraping de alto nivel para Python. Estándar de la industria para crawling a escala, muy maduro y documentado.
+
+**Pontos fortes:** _Estándar de facto para scraping en Python_ · _Maduro, estable, excelente documentación_
+
+**Tags:** `python` `scraping` `web-crawling` `framework`
+
+---
+
+### [Superdesk](https://superdesk.org)
+
+Found in 1 active source: jivoi/awesome-osint
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+⚠ End-to-end news creation, production, curation, distribution, and publishing platform. AGPL-3.0 Docker/Python/PHP
+
+> **Análise IA:** Plataforma integral para newsrooms: creación, producción, curación y distribución de contenido. Stack Python/PHP maduro. Resuelve flujo editorial completo pero requiere deployment y mantenimiento significativo.
+
+**Pontos fortes:** _Cobertura end-to-end del workflow editorial_ · _Stack open-source con comunidad activa_
+
+**Tags:** `cms` `news-management` `docker` `python` `agpl`
+
+---
+
+### [svenstaro/miniserve](https://github.com/svenstaro/miniserve)
+
+![](https://img.shields.io/github/stars/svenstaro/miniserve?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+A small, self-contained cross-platform CLI tool that allows you to just grab the binary and serve some file(s) via HTTP
+
+> **Análise IA:** CLI minimalista en Rust para servir archivos vía HTTP. Sin dependencias, binario único, cross-platform. Perfecto para compartir archivos rápidamente o prototipar servidores estáticos.
+
+**Pontos fortes:** _Binario standalone, zero runtime dependencies_ · _Funciona inmediatamente sin configuración en cualquier SO_
+
+**Tags:** `rust` `cli` `http-server` `self-contained`
+
+---
+
+### [tencent/tquic](https://github.com/tencent/tquic)
+
+![](https://img.shields.io/github/stars/tencent/tquic?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+A high-performance, lightweight, and cross-platform QUIC library
+
+> **Análise IA:** QUIC library Rust de Tencent. High-performance, lightweight, cross-platform. QUIC es futuro (HTTP/3), pero adopción aún niche. Competencia directa con quinn, neqo.
+
+**Pontos fortes:** _Performance benchmarks competitivos vs quinn_ · _Mantenimiento activo por Tencent (commits recientes)_
+
+**Tags:** `quic` `rust` `networking` `http3`
+
+---
+
+### [TrailBase](https://trailbase.io)
+
+Found in 1 active source: jaywcjlove/awesome-mac
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Open, sub-millisecond, single-executable FireBase alternative with type-safe REST & realtime APIs, built-in JS/TS runtime, auth & admin UI. (Demo, ) OSL-3.0 Rust/Docker
+
+> **Análise IA:** Firebase alternativa open-source, single-binary, Rust/Docker. APIs type-safe REST+realtime, auth integrado, runtime JS/TS. Problema real resuelto: self-hosted realtime DB.
+
+**Pontos fortes:** _Single executable, deploys trivial_ · _Type-safe APIs generadas, runtime integrado sin node_modules_
+
+**Tags:** `firebase-alternative` `rust` `self-hosted` `realtime` `backend`
+
+---
+
+### [txn2/kubefwd](https://github.com/txn2/kubefwd)
+
+![](https://img.shields.io/github/stars/txn2/kubefwd?style=flat-square&label=⭐) · Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+🏎️ 🏠 Kubernetes bulk port forwarding with service discovery, /etc/hosts management, traffic monitoring, and pod log streaming
+
+> **Análise IA:** Port forwarding bulk para Kubernetes con service discovery y /etc/hosts automation. Resuelve el quilombo de tunelizar múltiples servicios locales sin escribir comandos kubectl repetitivos. Útil para devs que trabajan contra clusters.
+
+**Pontos fortes:** _Automatiza /etc/hosts para resolver servicios por nombre en localhost_ · _Traffic monitoring integrado para ver qué pasa en los tuneles_
+
+**Tags:** `kubernetes` `port-forwarding` `cli` `go` `networking`
+
+---
+
+
+---
+
+## Needs review
+
+Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
 
 ### [Jest](https://github.com/facebook/jest)
 
@@ -161,22 +436,6 @@ Next generation frontend tooling. It's fast! Alternative to Create React App
 
 ---
 
-### [Amplication](https://github.com/amplication/amplication)
-
-![](https://img.shields.io/github/stars/amplication/amplication?style=flat-square&label=⭐) · Found in 1 active source: matiassingers/awesome-readme
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Amplication is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
-
-> **Análise IA:** Generador de código Node.js con UI que abstrae boilerplate repetitivo (auth, CRUD, DB). Útil para prototipado rápido y MVPs. Riesgo: código generado puede ser opaco y difícil de mantener si necesitás customizaciones profundas.
-
-**Pontos fortes:** _Acelera desarrollo inicial eliminando scaffolding tedioso_ · _Open source: podés forkear y modificar la generación de código_
-
-**Tags:** `code-generation` `nodejs` `backend` `low-code` `open-source`
-
----
-
 ### [Babel](https://github.com/babel/babel)
 
 ![](https://img.shields.io/github/stars/babel/babel?style=flat-square&label=⭐) · Needs trace review
@@ -190,22 +449,6 @@ A compiler for writing next generation JavaScript.
 **Pontos fortes:** _Plugin system extremadamente flexible_ · _Comunidad masiva y documentación exhaustiva_
 
 **Tags:** `javascript` `transpiler` `babel` `ast`
-
----
-
-### [D3js](https://d3js.org)
-
-Found in 2 active sources: jivoi/awesome-osint, academic/awesome-datascience
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-is a powerful data visualization javascript library.
-
-> **Análise IA:** Librería de data visualization en JavaScript con enfoque en transformación de datos. Resuelve visualization compleja sin ser un wrapper. D3 es basal pero tiene learning curve vertical.
-
-**Pontos fortes:** _Control granular sobre cada pixel renderizado_ · _Bind data-to-DOM model es poderoso una vez lo dominás_
-
-**Tags:** `javascript` `visualization` `svg` `data-driven`
 
 ---
 
@@ -238,54 +481,6 @@ Just a blogging platform
 **Pontos fortes:** _Editor intuitivo con preview real-time_ · _API headless bien documentada para extensiones_
 
 **Tags:** `javascript` `node.js` `cms` `self-hosted` `blogging`
-
----
-
-### [grpc](https://github.com/grpc/grpc)
-
-![](https://img.shields.io/github/stars/grpc/grpc?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Remote Procedure Calls (RPCs) provide a useful abstraction for building distributed applications and services. The libraries in this repository provide a concrete implementation of the gRPC protocol, layered over HTTP/2. These libraries enable communication between clients and servers using any combination of the supported languages.
-
-> **Análise IA:** Framework RPC sobre HTTP/2 con code generation multilenguaje. Resuelve comunicación inter-servicios con schemas versionados. Complejo pero solid para microservicios serios.
-
-**Pontos fortes:** _Code generation elimina boilerplate de serialización_ · _Performance superior a REST para cargas altas_
-
-**Tags:** `rpc` `http2` `distributed-systems` `protobuf`
-
----
-
-### [juspay/neurolink](https://github.com/juspay/neurolink)
-
-![](https://img.shields.io/github/stars/juspay/neurolink?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, punkpeye/awesome-mcp-servers
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-📇 ☁️ 🏠 🍎 🪟 🐧 Making enterprise AI infrastructure universally accessible. Edge-first platform unifying 12 providers and 100+ models with multi-agent orchestration, HITL workflows, guardrails middleware, and context summarization.
-
-> **Análise IA:** Plataforma edge-first para IA empresarial: 12+ providers, 100+ modelos, orquestación multi-agente. Resuelve: consolidar infra AI distribuida con guardrails y HITL. Ambicioso pero info técnica escasa.
-
-**Pontos fortes:** _Abstracción multi-provider consolidada_ · _Middleware guardrails incluido_
-
-**Tags:** `edge-computing` `multi-agent` `enterprise` `orchestration`
-
----
-
-### [mkosir/react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt)
-
-![](https://img.shields.io/github/stars/mkosir/react-parallax-tilt?style=flat-square&label=⭐) · Found in 1 active source: matiassingers/awesome-readme
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-GIF demo. Multiple badges. Feature list. Great live demo with code examples. Easy to follow instructions for local development set up.
-
-> **Análise IA:** Componente React bien mantenido para efecto tilt/parallax en cards y elementos UI. Resuelve un problema concreto y específico: ese efecto 3D de inclinación que ves en portfolios y landing pages premium. No es para todos los proyectos, pero cuando lo necesitás, evitás reinventar la rueda con listeners de mouse y transforms manuales. La demo es excelente, la API parece limpia. El riesgo real es usarlo de más y terminar con una UI que marea al usuario.
-
-**Pontos fortes:** _API declarativa que abstrae toda la matemática de mouse position + CSS 3D transforms_ · _Demo interactiva con código que permite evaluar el efecto antes de instalar_ · _Mantenido activamente con TypeScript support incluido_
-
-**Tags:** `react` `animation` `css-transform` `ui-components` `parallax`
 
 ---
 
@@ -369,22 +564,6 @@ A blazing fast unit test framework powered by Vite.
 
 ---
 
-### [Vivaldi](https://vivaldi.com)
-
-Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-The browser that puts you in control.
-
-> **Análise IA:** Browser Chromium con énfasis en customización y control. Para power-users que quieren personalizar colores, layouts, temas. Técnicamente funciona, pero es nicho.
-
-**Pontos fortes:** _Altamente themeable, muchas opciones de UI_ · _Integración con servicios propios (Mail, Feed Reader)_
-
-**Tags:** `browser` `chromium` `customization`
-
----
-
 ### [Vue.js](https://github.com/vuejs/vue)
 
 ![](https://img.shields.io/github/stars/vuejs/vue?style=flat-square&label=⭐) · Needs trace review
@@ -414,38 +593,6 @@ Next-gen browser and mobile automation test framework for Node.js
 **Pontos fortes:** _Soporte nativo de mobile + web en mismo código_ · _Compatible con múltiples browsers (Selenium, Appium)_
 
 **Tags:** `javascript` `e2e-testing` `webdriver` `automation` `mobile`
-
----
-
-### [biome](https://github.com/biomejs/biome)
-
-![](https://img.shields.io/github/stars/biomejs/biome?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP
-
-> **Análise IA:** Toolchain web moderno: formatter + linter + bundler aspirations. Escrito en Rust. Para devs que quieren remplazar ESLint+Prettier. Resuelve fragmentación de tools frontend.
-
-**Pontos fortes:** _Performance brutal (Rust), análisis instantáneo_ · _Configuración sensata por defecto, sin eslintrc boilerplate_
-
-**Tags:** `rust` `javascript` `formatter` `linter` `cli`
-
----
-
-### [Certificate Ripper](https://github.com/hakky54/certificate-ripper)
-
-![](https://img.shields.io/github/stars/hakky54/certificate-ripper?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, akullpp/awesome-java
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-CLI tool and library for extracting and exporting server certificates from HTTPS endpoints.
-
-> **Análise IA:** Toolkit selfhosted para archivar web a Wayback, archive.today, IPFS. Escenarios: preservación de contenido, análisis histórico, cumplimiento legal. Go asegura deploy ligero.
-
-**Pontos fortes:** _Múltiples backends (Wayback, archive.today, IPFS, local)_ · _Bajo overhead, fácil de desplegar y mantener_
-
-**Tags:** `go` `web-archiving` `self-hosted` `ipfs` `wayback`
 
 ---
 
@@ -513,22 +660,6 @@ Real-time web log analyzer and interactive viewer that runs in a terminal or thr
 
 ---
 
-### [gofiber/fiber](https://github.com/gofiber/fiber)
-
-![](https://img.shields.io/github/stars/gofiber/fiber?style=flat-square&label=⭐) · Found in 2 active sources: matiassingers/awesome-readme, avelino/awesome-go
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Clean project logo. Useful badges and links (languages switcher, code style, test cover, docs, Discord channel). Clear description of what the project does with quickstart, benchmark charts, well-documented code examples (with the ability to hide long content), project philosophy notes ("the why of project"), tables with project addons, list of contributors, star growth statistics, and more.
-
-> **Análise IA:** Framework web Go rápido, sintaxis Express-like. Descripción dada es sobre su README, no features. Fiber es bueno pero descripción no la caracteriza.
-
-**Pontos fortes:** _performance cercano a raw HTTP_ · _API intuitiva_
-
-**Tags:** `web-framework` `go` `http` `performance`
-
----
-
 ### [grommet](https://github.com/grommet/grommet)
 
 ![](https://img.shields.io/github/stars/grommet/grommet?style=flat-square&label=⭐) · Needs trace review
@@ -558,22 +689,6 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 **Pontos fortes:** _Genera schema GraphQL automático desde DB_ · _Webhooks en eventos DB nativos, evita polling_
 
 **Tags:** `haskell` `graphql` `postgres` `realtime` `webhooks`
-
----
-
-### [hyperium/hyper](https://github.com/hyperium/hyper)
-
-![](https://img.shields.io/github/stars/hyperium/hyper?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-an HTTP implementation
-
-> **Análise IA:** HTTP client/server library de bajo nivel para Rust. Para quien necesita control fino sobre HTTP. Estándar en Rust async web.
-
-**Pontos fortes:** _Arquitectura async/await limpia con Tokio_ · _Performance de referencia en benchmarks HTTP Rust_
-
-**Tags:** `rust` `http` `async` `networking`
 
 ---
 
@@ -625,54 +740,6 @@ Minimalistic framework for server-rendered Vue.js apps.
 
 ---
 
-### [OctoLinker](https://github.com/octolinker/octolinker)
-
-![](https://img.shields.io/github/stars/octolinker/octolinker?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, akullpp/awesome-java
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-icecube: A browser extension for GitHub that makes the image name in a Dockerfile clickable and redirect you to the related Docker Hub page.
-
-> **Análise IA:** Extension Chrome que linkea nombres de imágenes en Dockerfiles a Docker Hub. Micro-utilidad para devs navegando Docker.
-
-**Pontos fortes:** _Soluciona fricción real: lookup manual de imágenes_ · _Instalación trivial, sin overhead_
-
-**Tags:** `browser-extension` `docker` `github` `productivity`
-
----
-
-### [pydantic-ai](https://github.com/pydantic/pydantic-ai)
-
-![](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=flat-square&label=⭐) · Found in 2 active sources: vinta/awesome-python, punkpeye/awesome-mcp-servers
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-A Python agent framework for building generative AI applications with structured schemas.
-
-> **Análise IA:** Framework Python para agentes IA con schemas Pydantic. Abstracción sobre LLMs (OpenAI, Anthropic) con validación estructurada de respuestas. Para buildear chatbots y agents que no escupan basura sin validar.
-
-**Pontos fortes:** _Validación automática de respuestas LLM contra Pydantic models_ · _Multi-LLM provider support sin reescribir lógica_
-
-**Tags:** `python` `ai-agents` `llm` `pydantic` `structured-output`
-
----
-
-### [Python Babel](https://github.com/python-babel/babel)
-
-![](https://img.shields.io/github/stars/python-babel/babel?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-The Python Internationalization Library.
-
-> **Análise IA:** I18n para Python. Buena, establece estándar, pero espacializado. Resuelve bien el problema de internacionalización si lo necesitás.
-
-**Pontos fortes:** _Integración con gettext_ · _Soporte para múltiples formatos de catálogos_
-
-**Tags:** `i18n` `localization` `python`
-
----
-
 ### [React](https://github.com/facebook/react)
 
 ![](https://img.shields.io/github/stars/facebook/react?style=flat-square&label=⭐) · Needs trace review
@@ -705,38 +772,6 @@ Relay is a JavaScript framework for building data-driven React applications.
 
 ---
 
-### [scrapy](https://github.com/scrapy/scrapy)
-
-![](https://img.shields.io/github/stars/scrapy/scrapy?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-A fast high-level web crawling & scraping framework for Python.
-
-> **Análise IA:** Framework de web scraping de alto nivel para Python. Estándar de la industria para crawling a escala, muy maduro y documentado.
-
-**Pontos fortes:** _Estándar de facto para scraping en Python_ · _Maduro, estable, excelente documentación_
-
-**Tags:** `python` `scraping` `web-crawling` `framework`
-
----
-
-### [Superdesk](https://superdesk.org)
-
-Found in 1 active source: jivoi/awesome-osint
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-⚠ End-to-end news creation, production, curation, distribution, and publishing platform. AGPL-3.0 Docker/Python/PHP
-
-> **Análise IA:** Plataforma integral para newsrooms: creación, producción, curación y distribución de contenido. Stack Python/PHP maduro. Resuelve flujo editorial completo pero requiere deployment y mantenimiento significativo.
-
-**Pontos fortes:** _Cobertura end-to-end del workflow editorial_ · _Stack open-source con comunidad activa_
-
-**Tags:** `cms` `news-management` `docker` `python` `agpl`
-
----
-
 ### [svelte](https://github.com/sveltejs/svelte)
 
 ![](https://img.shields.io/github/stars/sveltejs/svelte?style=flat-square&label=⭐) · Needs trace review
@@ -750,70 +785,6 @@ Svelte is a new way to build web applications. It's a compiler that takes your d
 **Pontos fortes:** _Output JS limpio y minimal, mejor performance que React/Vue_ · _Reactividad a nivel compilador sin runtime overhead_
 
 **Tags:** `javascript` `compiler` `reactive` `ui` `framework`
-
----
-
-### [svenstaro/miniserve](https://github.com/svenstaro/miniserve)
-
-![](https://img.shields.io/github/stars/svenstaro/miniserve?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-A small, self-contained cross-platform CLI tool that allows you to just grab the binary and serve some file(s) via HTTP
-
-> **Análise IA:** CLI minimalista en Rust para servir archivos vía HTTP. Sin dependencias, binario único, cross-platform. Perfecto para compartir archivos rápidamente o prototipar servidores estáticos.
-
-**Pontos fortes:** _Binario standalone, zero runtime dependencies_ · _Funciona inmediatamente sin configuración en cualquier SO_
-
-**Tags:** `rust` `cli` `http-server` `self-contained`
-
----
-
-### [tencent/tquic](https://github.com/tencent/tquic)
-
-![](https://img.shields.io/github/stars/tencent/tquic?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-A high-performance, lightweight, and cross-platform QUIC library
-
-> **Análise IA:** QUIC library Rust de Tencent. High-performance, lightweight, cross-platform. QUIC es futuro (HTTP/3), pero adopción aún niche. Competencia directa con quinn, neqo.
-
-**Pontos fortes:** _Performance benchmarks competitivos vs quinn_ · _Mantenimiento activo por Tencent (commits recientes)_
-
-**Tags:** `quic` `rust` `networking` `http3`
-
----
-
-### [TrailBase](https://trailbase.io)
-
-Found in 1 active source: jaywcjlove/awesome-mac
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Open, sub-millisecond, single-executable FireBase alternative with type-safe REST & realtime APIs, built-in JS/TS runtime, auth & admin UI. (Demo, ) OSL-3.0 Rust/Docker
-
-> **Análise IA:** Firebase alternativa open-source, single-binary, Rust/Docker. APIs type-safe REST+realtime, auth integrado, runtime JS/TS. Problema real resuelto: self-hosted realtime DB.
-
-**Pontos fortes:** _Single executable, deploys trivial_ · _Type-safe APIs generadas, runtime integrado sin node_modules_
-
-**Tags:** `firebase-alternative` `rust` `self-hosted` `realtime` `backend`
-
----
-
-### [txn2/kubefwd](https://github.com/txn2/kubefwd)
-
-![](https://img.shields.io/github/stars/txn2/kubefwd?style=flat-square&label=⭐) · Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-🏎️ 🏠 Kubernetes bulk port forwarding with service discovery, /etc/hosts management, traffic monitoring, and pod log streaming
-
-> **Análise IA:** Port forwarding bulk para Kubernetes con service discovery y /etc/hosts automation. Resuelve el quilombo de tunelizar múltiples servicios locales sin escribir comandos kubectl repetitivos. Útil para devs que trabajan contra clusters.
-
-**Pontos fortes:** _Automatiza /etc/hosts para resolver servicios por nombre en localhost_ · _Traffic monitoring integrado para ver qué pasa en los tuneles_
-
-**Tags:** `kubernetes` `port-forwarding` `cli` `go` `networking`
 
 ---
 

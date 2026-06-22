@@ -36,7 +36,7 @@
 
 ## 🗺️ 找到你的技术栈
 
-[🌐 **Web** · 50](domains/web.zh-CN.md) · [🤖 **AI 与机器学习** · 105](domains/ai-ml.zh-CN.md) · [🛠️ **DevOps** · 50](domains/devops.zh-CN.md) · [📱 **移动端** · 3](domains/mobile.zh-CN.md) · [💾 **数据与数据库** · 74](domains/data.zh-CN.md) · [🔐 **安全与加密** · 58](domains/security.zh-CN.md) · [⚡ **性能** · 8](domains/performance.zh-CN.md) · [🧰 **开发工具** · 136](domains/tooling.zh-CN.md) · [🎨 **其他** · 25](domains/other.zh-CN.md)
+[🌐 **Web** · 49](domains/web.zh-CN.md) · [🤖 **AI 与机器学习** · 106](domains/ai-ml.zh-CN.md) · [🛠️ **DevOps** · 49](domains/devops.zh-CN.md) · [📱 **移动端** · 3](domains/mobile.zh-CN.md) · [💾 **数据与数据库** · 74](domains/data.zh-CN.md) · [🔐 **安全与加密** · 58](domains/security.zh-CN.md) · [⚡ **性能** · 9](domains/performance.zh-CN.md) · [🧰 **开发工具** · 136](domains/tooling.zh-CN.md) · [🎨 **其他** · 25](domains/other.zh-CN.md)
 
 ---
 
@@ -104,11 +104,11 @@
 
 | 工具 | 作用 | 信号 |
 |---|---|---|
-| 👤 [**Netron**](https://github.com/lutzroeder/netron) | Netron is a viewer for neural network, deep learning and machine learning models. | Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning · Human Pick |
 | [**Amplication**](https://github.com/amplication/amplication) | Amplication is an open-source development tool. It helps you develop quality Node.js applications without spending... | Found in 1 active source: matiassingers/awesome-readme · AI Candidate |
 | [**D3js**](https://d3js.org) | is a powerful data visualization javascript library. | Found in 2 active sources: jivoi/awesome-osint, academic/awesome-datascience · AI Candidate |
+| [**grpc**](https://github.com/grpc/grpc) | Remote Procedure Calls (RPCs) provide a useful abstraction for building distributed applications and services. The... | Found in 1 active source: vinta/awesome-python · AI Candidate |
 
-📖 更多 47 个见[详细页面 →](domains/web.zh-CN.md)
+📖 更多 46 个见[详细页面 →](domains/web.zh-CN.md)
 
 ### 🤖 AI 与机器学习
 
@@ -118,17 +118,17 @@
 | [**XGBoost**](https://github.com/dmlc/xgboost) | XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. | Found in 4 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning +1 more · AI Candidate |
 | [**CatBoost**](https://github.com/catboost/catboost) | General purpose gradient boosting on decision trees library with categorical features support out of the box. It is... | Found in 3 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning, vinta/awesome-python · AI Candidate |
 
-📖 更多 102 个见[详细页面 →](domains/ai-ml.zh-CN.md)
+📖 更多 103 个见[详细页面 →](domains/ai-ml.zh-CN.md)
 
 ### 🛠️ DevOps
 
 | 工具 | 作用 | 信号 |
 |---|---|---|
-| 👤 [**Bencher**](https://bencher.dev) | Suite of continuous benchmarking tools designed to catch performance regressions in CI. MIT/Apache-2.0 Rust | Found in 1 active source: avelino/awesome-go · Human Pick |
 | [**Dragonfly**](https://github.com/dragonflyoss/dragonfly2) | Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best... | Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go · AI Candidate |
 | [**ZooKeeper**](https://zookeeper.apache.org) | ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed... | Found in 2 active sources: akullpp/awesome-java, rust-unofficial/awesome-rust · AI Candidate |
+| [**bandwhich**](https://github.com/imsnif/bandwhich) | Track bandwidth utilization by process. | Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust · AI Candidate |
 
-📖 更多 47 个见[详细页面 →](domains/devops.zh-CN.md)
+📖 更多 46 个见[详细页面 →](domains/devops.zh-CN.md)
 
 ### 📱 移动端
 
@@ -163,11 +163,11 @@
 
 | 工具 | 作用 | 信号 |
 |---|---|---|
+| 👤 [**Bencher**](https://bencher.dev) | Suite of continuous benchmarking tools designed to catch performance regressions in CI. MIT/Apache-2.0 Rust | Found in 1 active source: avelino/awesome-go · Human Pick |
 | [**CodeFlash.AI**](https://codeflash.ai) | CodeFlash.AI – Ship Blazing-Fast Python Code, Every Time. | Found in 1 active source: josephmisiti/awesome-machine-learning · AI Candidate |
 | [**Cython**](https://github.com/cython/cython) | Cython is an optimising static compiler for both the Python programming language and the extended Cython programming... | Found in 1 active source: vinta/awesome-python · AI Candidate |
-| [**GeneticSharp**](https://github.com/giacomelli/geneticsharp) | Multi-platform genetic algorithm library for .NET Core and .NET Framework. The library has several implementations... | Found in 1 active source: josephmisiti/awesome-machine-learning · AI Candidate |
 
-📖 更多 5 个见[详细页面 →](domains/performance.zh-CN.md)
+📖 更多 6 个见[详细页面 →](domains/performance.zh-CN.md)
 
 ### 🧰 开发工具
 
