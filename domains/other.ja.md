@@ -21,11 +21,9 @@ Found in 1 active source: jaywcjlove/awesome-mac
 
 Next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, customizable and ready to use (alternative to Notion and Miro). (Demo, ) MIT/AGPL-3.0 Docker
 
-> **AI 分析:** Workspace colaborativo tipo Notion pero open-source. Notas, planning, databases con focus en privacy y self-hosting. Alternativa viable para quien quiere datos propios sin vendor lock.
+**Why this is here:** MIT/AGPL dual license permite hosting propio
 
-**強み:** _MIT/AGPL dual license permite hosting propio_ · _Interfaz moderna con Excalidraw integrado_
-
-**Tags:** `self-hosted` `knowledge-base` `open-source` `docker`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -37,11 +35,9 @@ Next-gen knowledge base that brings planning, sorting and creating all together.
 
 A music library manager and MusicBrainz tagger.
 
-> **AI 分析:** Gestor de bibliotecas musicales con etiquetado automático vía MusicBrainz. Indispensable para quien maneja colecciones grandes. Automatiza metadatos, renombra archivos, detecta duplicados con precisión.
+**Why this is here:** Integración MusicBrainz precisa, renombramiento batch inteligente
 
-**強み:** _Integración MusicBrainz precisa, renombramiento batch inteligente_ · _Plugin ecosystem robusto, maneja formatos diversos (FLAC, MP3, AAC)_
-
-**Tags:** `audio` `metadata` `python` `cli` `musicbrainz`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -53,11 +49,9 @@ A music library manager and MusicBrainz tagger.
 
 Easily and securely send files or folders from one computer to another.
 
-> **AI 分析:** Transfer de archivos P2P encriptado y simple entre máquinas. No requiere servidor central. Resuelve bien el caso de 'mandar un archivo grande sin cloud'.
+**Why this is here:** Zero config, seguro por defecto
 
-**強み:** _Zero config, seguro por defecto_ · _Funciona entre cualquier OS_
-
-**Tags:** `file-transfer` `p2p` `golang` `encryption`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -69,11 +63,9 @@ Found in 1 active source: jaywcjlove/awesome-mac
 
 Deluge is a lightweight, Free Software, cross-platform BitTorrent client. (https://dev.deluge-torrent.org/wiki/Development)
 
-> **AI 分析:** Cliente BitTorrent ligero y multiplataforma con interfaz GTK/Web. Descarga torrents sin bloat. Activo, mantenido, sin telemetría. Buena opción para usuarios que necesitan gestión torrents sin complejidad.
+**Why this is here:** Web UI funcional y remoto
 
-**強み:** _Muy liviano en recursos_ · _Web UI funcional y remoto_
-
-**Tags:** `bittorrent` `python` `cross-platform` `lightweight`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -85,11 +77,9 @@ Deluge is a lightweight, Free Software, cross-platform BitTorrent client. (https
 
 Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files. GPL-3.0 Go/Docker
 
-> **AI 分析:** Servidor ligero para compartir archivos temporales (expiración por descargas/días). Reemplazo simple para Firefox Send. Admin-only uploads, útil para equipos pequeños.
+**Why this is here:** control granular de expiración
 
-**強み:** _setup rápido en Docker_ · _control granular de expiración_
-
-**Tags:** `file-sharing` `self-hosted` `go` `docker` `gpl`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -101,11 +91,9 @@ Found in 1 active source: jaywcjlove/awesome-mac
 
 Multimedia/Entertainment center, formerly known as XBMC. Runs on Android, BSD, Linux, macOS, iOS and Windows. GPL-2.0 C++/deb
 
-> **AI 分析:** Centro multimedia open-source (video/audio/images). Multi-plataforma (Android, Linux, macOS, Windows). Maduro, comunidad grande. Para home theater y HTPC.
+**Why this is here:** Soporte de codecs extensivo y hardware variado
 
-**強み:** _Soporte de codecs extensivo y hardware variado_ · _Comunidad active, skins/addons desarrollados_
-
-**Tags:** `multimedia` `open-source` `cross-platform` `htpc` `cpp`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -117,11 +105,9 @@ Multimedia/Entertainment center, formerly known as XBMC. Runs on Android, BSD, L
 
 Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. https://www.quantconnect.com/lean/
 
-> **AI 分析:** Motor de trading algorítmico C# open-source para backtesting y live trading. Backend maduro de QuantConnect. Stack sólido para quants pero monopolio QuantConnect en cloud.
+**Why this is here:** Engine enterprise-grade con historial probado
 
-**強み:** _Engine enterprise-grade con historial probado_ · _Desktop y cloud ready_
-
-**Tags:** `csharp` `trading` `backtesting` `quantitative`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -133,15 +119,13 @@ Found in 2 active sources: agarrharr/awesome-cli-apps, jaywcjlove/awesome-mac
 
 Free, open-source, and cross-platform media player. (https://github.com/mpv-player/mpv)
 
-> **AI 分析:** Media player open-source minimalista. Control total, keybindings customizables, sine bloat. Estándar en comunidad Linux/power users.
+**Why this is here:** Altamente configurable, scripteable
 
-**強み:** _Altamente configurable, scripteable_ · _Eficiente, sin bloat UI, funciona perfecto en SSH+remote_
-
-**Tags:** `media-player` `open-source` `cli-friendly` `cross-platform`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
-### [nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
+### [nautilustrader](https://github.com/nautechsystems/nautilus_trader)
 
 ![](https://img.shields.io/github/stars/nautechsystems/nautilus_trader?style=flat-square&label=⭐) · Found in 2 active sources: wilsonfreitas/awesome-quant, rust-unofficial/awesome-rust
 
@@ -149,11 +133,9 @@ Free, open-source, and cross-platform media player. (https://github.com/mpv-play
 
 Python Rust A high-performance algorithmic trading platform and event-driven backtester.
 
-> **AI 分析:** Plataforma de trading algorítmico híbrida Python/Rust con backtesting event-driven. Para quants que necesitan performance sin abandonar Python. Resuelve latencia en backtesting masivo.
+**Why this is here:** Híbrido Python/Rust obtiene velocidad + flexibilidad
 
-**強み:** _Híbrido Python/Rust obtiene velocidad + flexibilidad_ · _Event-driven architecture permite simulaciones realistas_
-
-**Tags:** `python` `rust` `trading` `backtesting` `event-driven`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -165,11 +147,9 @@ Found in 1 active source: jivoi/awesome-osint
 
 Personal news reader that brings people together to talk about the world. A new sound of an old instrument. MIT Python
 
-> **AI 分析:** Lector RSS personal con social features para compartir y discutir noticias. Stack Python sólido. Reemplaza a Google Reader parcialmente pero la comunidad es pequeña comparado con alternativas modernas.
+**Why this is here:** Soporte para feeds privados y compartidos con usuarios
 
-**強み:** _Soporte para feeds privados y compartidos con usuarios_ · _API REST completa para integraciones custom_
-
-**Tags:** `python` `rss-reader` `social` `self-hosted`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -181,11 +161,9 @@ Personal news reader that brings people together to talk about the world. A new 
 
 Music browsing and streaming application optimized for large music collections, ease of use and high performance. MIT Rust/Docker
 
-> **AI 分析:** Servidor de música self-hosted en Rust optimizado para grandes librerías. Interfaz web limpia, streaming sin fricción. Resuelve problema real de quién quiere Spotify casero sin depender de terceros.
+**Why this is here:** Performance superior en librerías grandes (Rust + diseño eficiente)
 
-**強み:** _Performance superior en librerías grandes (Rust + diseño eficiente)_ · _Totalmente self-hosted, control total de datos_
-
-**Tags:** `rust` `self-hosted` `music-streaming` `docker` `backend`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -197,11 +175,9 @@ Found in 1 active source: jaywcjlove/awesome-mac
 
 A project aims to provide an alternative to µTorrent. (https://github.com/qbittorrent/qBittorrent)
 
-> **AI 分析:** Cliente torrent open-source, alternativa µTorrent. Ligero, funcional, cross-platform. Estándar en comunidad, mantenimiento activo.
+**Why this is here:** Bajo overhead recursos vs clients propietarios
 
-**強み:** _Bajo overhead recursos vs clients propietarios_ · _Comunidad activa, updates regulares_
-
-**Tags:** `torrent` `open-source` `cross-platform` `bittorrent`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -213,11 +189,9 @@ A project aims to provide an alternative to µTorrent. (https://github.com/qbitt
 
 The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance.
 
-> **AI 分析:** Framework maduro para finanzas cuantitativa: pricing, riesgos, calibración. C++ production-grade. Estándar en bancos e hedge funds.
+**Why this is here:** Librería exhaustiva de modelos financieros y calibración probada
 
-**強み:** _Librería exhaustiva de modelos financieros y calibración probada_ · _Comunidad activa en finanzas cuantitativa_
-
-**Tags:** `quantitative-finance` `cpp` `pricing` `risk` `mathematics`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -229,11 +203,9 @@ Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac
 
 News reader for Feedbin, Feedly, Feed Wrangler and so on. (https://apps.apple.com/pl/app/reeder-5/id1529448980?platform=mac)
 
-> **AI 分析:** Cliente RSS multiplataforma para macOS/iOS. Agrega feeds de Feedbin, Feedly, etc. Resuelve bien la lectura de noticias si usás estos servicios, pero es específico para ese nicho.
+**Why this is here:** Interfaz pulida y rápida para lectura RSS
 
-**強み:** _Interfaz pulida y rápida para lectura RSS_ · _Soporte múltiple de backends (Feedbin, Feedly, Feed Wrangler)_
-
-**Tags:** `rss` `news-reader` `macos` `ios` `feedbin`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -245,11 +217,9 @@ News reader for Feedbin, Feedly, Feed Wrangler and so on. (https://apps.apple.co
 
 CSharp Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins, and options).
 
-> **AI 分析:** Plataforma de trading cuantitativo C# multi-asset (stocks, forex, cripto, opciones). Similar a Lean pero con ecosistema históricamente fragmentado. Buena cobertura pero comunidad menor.
+**Why this is here:** Cobertura multi-asset amplia
 
-**強み:** _Cobertura multi-asset amplia_ · _Stack C# maduro_
-
-**Tags:** `csharp` `trading` `forex` `crypto` `quantitative`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -261,11 +231,9 @@ Found in 1 active source: jaywcjlove/awesome-mac
 
 Task manager with timeboxing and time tracking. (https://github.com/johannesjo/super-productivity) (https://apps.apple.com/cn/app/super-productivity/id1482572463?platform=mac)
 
-> **AI 分析:** Task manager con timeboxing y time tracking integrado. Para equipos y freelancers que necesitan visibilidad de tiempo real en tareas. Resuelve el problema de procrastinación con límites de tiempo y reportes honestos.
+**Why this is here:** Timeboxing forzado evita task-switching infinito
 
-**強み:** _Timeboxing forzado evita task-switching infinito_ · _Reportes de tiempo granulares para facturación/análisis_
-
-**Tags:** `task-management` `time-tracking` `productivity` `open-source` `cross-platform`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -277,11 +245,9 @@ Task manager with timeboxing and time tracking. (https://github.com/johannesjo/s
 
 The Go Language library for SVG generation.
 
-> **AI 分析:** Librería Go para generar SVG programáticamente. Abstrae syntax de SVG en funciones idiomáticas. Para quien genera gráficos vectoriales en backend.
+**Why this is here:** API limpia y Go-idiomática
 
-**強み:** _API limpia y Go-idiomática_ · _Performance nativa de Go, sin dependencias externas_
-
-**Tags:** `go` `svg` `graphics` `library`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -293,11 +259,9 @@ Found in 1 active source: avelino/awesome-go
 
 Syncthing is an open source peer-to-peer file synchronisation tool. MPL-2.0 Go/Docker/deb
 
-> **AI 分析:** Sincronización P2P descentralizada entre devices, agnóstica a cloud. Rust/Go, MPL-2.0. Resuelve sync privado genuinamente. Estándar en hogar tech-savvy, pero requiere administración manual.
+**Why this is here:** Verdaderamente descentralizado, no depende cloud
 
-**強み:** _Verdaderamente descentralizado, no depende cloud_ · _Cifrado end-to-end nativo_
-
-**Tags:** `sync` `p2p` `self-hosted` `go` `rust`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -309,11 +273,9 @@ Syncthing is an open source peer-to-peer file synchronisation tool. MPL-2.0 Go/D
 
 Collaborative cheatsheets for console commands.
 
-> **AI 分析:** Cheatsheets colaborativas para comandos CLI. Referencia rápida y crowdsourced. Aporta valor real a dev community pero es más recurso que herramienta técnica.
+**Why this is here:** Contenido siempre actualizado por comunidad, formato simple y searcheable
 
-**強み:** _Contenido siempre actualizado por comunidad, formato simple y searcheable_ · _Cubre herramientas obscuras donde falta documentación oficial_
-
-**Tags:** `documentation` `cli` `community` `cheatsheet`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -325,11 +287,9 @@ Collaborative cheatsheets for console commands.
 
 Python Validate, format, and identify UK Companies House company numbers. Supports all 27 prefixes. PyPI
 
-> **AI 分析:** Librería Python para validación de números de empresa UK. Nicho muy específico: desarrolladores UK. Mantiene soporta todos 27 prefijos. Funciona bien para su scope.
+**Why this is here:** Cobertura completa de prefijos UK
 
-**強み:** _Cobertura completa de prefijos UK_ · _Validación robusta con soporte PyPI_
-
-**Tags:** `python` `uk-companies` `validation` `pypi`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -341,11 +301,9 @@ Python Validate, format, and identify UK Companies House company numbers. Suppor
 
 Python UK SIC 2007 industry classification code lookup, search, and validation. 731 codes, 21 sections. PyPI
 
-> **AI 分析:** Librería Python para códigos SIC 2007 UK (clasificación industrial). Nicho: devs UK que necesitan mapear/validar códigos. Base datos estática pero completa (731 códigos).
+**Why this is here:** Cobertura 100% de 731 códigos SIC 2007
 
-**強み:** _Cobertura 100% de 731 códigos SIC 2007_ · _Búsqueda y validación integradas_
-
-**Tags:** `python` `sic-codes` `uk-industry` `classification` `pypi`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -358,65 +316,57 @@ Entries with weak or inconsistent trace evidence. They stay visible for auditabi
 
 ### [RunJS](https://runjs.app)
 
-Needs trace review
+Found in 3 active sources
 
 **Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
 JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas or trying out new libraries.
 
-> **AI 分析:** RunJS es una de esas herramientas que una vez que la usás no entendés cómo viviste sin ella. Playground de JS/TS desktop (no web) que ejecuta código mientras escribís, con acceso real a Node y npm. Para prototipar ideas rápido, probar una lib sin armar un proyecto entero, o debuggear algo puntual, es imbatible. No reemplaza tu IDE, pero para experimentación rápida le gana a abrir un REPL o un CodeSandbox. Dev que trabaja con JS a diario debería tenerlo instalado.
+**Why this is here:** Ejecución en tiempo real mientras escribís, sin botón de run ni fricción
 
-**強み:** _Ejecución en tiempo real mientras escribís, sin botón de run ni fricción_ · _Acceso a Node.js real y posibilidad de importar paquetes npm directamente_ · _App nativa de escritorio: rápida, sin latencia de red, siempre disponible_
-
-**Tags:** `javascript` `typescript` `playground` `desktop-app` `repl`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
 ### [Godot Engine](https://github.com/godotengine/godot)
 
-![](https://img.shields.io/github/stars/godotengine/godot?style=flat-square&label=⭐) · Needs trace review
+![](https://img.shields.io/github/stars/godotengine/godot?style=flat-square&label=⭐) · Found in 2 active sources
 
 **Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
 2D and 3D cross-platform game engine. Also has C# and Python code.
 
-> **AI 分析:** Motor de juegos 2D/3D multiplataforma con soporte C#/Python. Para devs indie que quieren control total. Alternativa open-source real a Unity/Unreal con comunidad consolidada.
+**Why this is here:** Open-source puro, control total del engine
 
-**強み:** _Open-source puro, control total del engine_ · _Soporta múltiples lenguajes reduce friction onboarding_
-
-**Tags:** `cpp` `gamedev` `csharp` `cross-platform` `open-source`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
 ### [phpList](https://phplist.org)
 
-Needs trace review
+Found in 2 active sources
 
 **Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
 Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. AGPL-3.0 PHP
 
-> **AI 分析:** Plataforma madura de email marketing self-hosted con gestión avanzada de suscriptores, bounces y plugin ecosystem. Para agencias y marketers que necesitan control total. Resuelve problema real de newsletters sin vendor lock-in.
+**Why this is here:** Plugin ecosystem robusto y bien documentado
 
-**強み:** _Plugin ecosystem robusto y bien documentado_ · _Manejo sofisticado de bounces y listas de suscriptores_
-
-**Tags:** `php` `self-hosted` `email-marketing` `agpl`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
 ### [Samba](https://samba.org)
 
-Needs trace review
+Found in 2 active sources
 
 **Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
 Samba is the standard Windows interoperability suite of programs for Linux and Unix. It provides secure, stable and fast file and print services for all clients using the SMB/CIFS protocol. GPL-3.0 C
 
-> **AI 分析:** Suite estándar de facto para interoperabilidad Windows en Linux/Unix. Servicios SMB/CIFS de producción. Si necesitás fileserver con clients Windows, esto es obligatorio, no opción.
+**Why this is here:** Estándar industrial de 30+ años, probado en millones de deployments
 
-**強み:** _Estándar industrial de 30+ años, probado en millones de deployments_ · _Performance y seguridad battle-tested, integración Active Directory nativa_
-
-**Tags:** `c` `file-sharing` `smb-cifs` `production`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 

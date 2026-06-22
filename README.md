@@ -36,7 +36,7 @@ Star it if you want fewer tool-hunt tabs: source traces, dedupe, caveats, and a 
 
 ## 🗺️ Find your stack
 
-[🌐 **Web** · 49](domains/web.md) · [🤖 **AI & ML** · 106](domains/ai-ml.md) · [🛠️ **DevOps** · 49](domains/devops.md) · [📱 **Mobile** · 3](domains/mobile.md) · [💾 **Data & Databases** · 74](domains/data.md) · [🔐 **Security & Crypto** · 58](domains/security.md) · [⚡ **Performance** · 9](domains/performance.md) · [🧰 **Dev Tooling** · 136](domains/tooling.md) · [🎨 **Other** · 25](domains/other.md)
+[🌐 **Web** · 48](domains/web.md) · [🤖 **AI & ML** · 100](domains/ai-ml.md) · [🛠️ **DevOps** · 49](domains/devops.md) · [📱 **Mobile** · 3](domains/mobile.md) · [💾 **Data & Databases** · 73](domains/data.md) · [🔐 **Security & Crypto** · 58](domains/security.md) · [⚡ **Performance** · 9](domains/performance.md) · [🧰 **Dev Tooling** · 134](domains/tooling.md) · [🎨 **Other** · 25](domains/other.md)
 
 ---
 
@@ -104,21 +104,21 @@ Human-reviewed picks with a concrete reason to look now.
 
 | Tool | What it does | Signal |
 |---|---|---|
-| [**Amplication**](https://github.com/amplication/amplication) | Amplication is an open-source development tool. It helps you develop quality Node.js applications without spending... | Found in 1 active source: matiassingers/awesome-readme · AI Candidate |
 | [**D3js**](https://d3js.org) | is a powerful data visualization javascript library. | Found in 2 active sources: jivoi/awesome-osint, academic/awesome-datascience · AI Candidate |
 | [**grpc**](https://github.com/grpc/grpc) | Remote Procedure Calls (RPCs) provide a useful abstraction for building distributed applications and services. The... | Found in 1 active source: vinta/awesome-python · AI Candidate |
+| [**juspay/neurolink**](https://github.com/juspay/neurolink) | 📇 ☁️ 🏠 🍎 🪟 🐧 Making enterprise AI infrastructure universally accessible. Edge-first platform unifying 12... | Found in 2 active sources: josephmisiti/awesome-machine-learning, punkpeye/awesome-mcp-servers · AI Candidate |
 
-📖 46 more in [detail page →](domains/web.md)
+📖 45 more in [detail page →](domains/web.md)
 
 ### 🤖 AI & ML
 
 | Tool | What it does | Signal |
 |---|---|---|
 | 👤 [**BayesWitnesses/m2cgen**](https://github.com/bayeswitnesses/m2cgen) | A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies. | Found in 4 active sources: akullpp/awesome-java, rust-unofficial/awesome-rust, josephmisiti/awesome-machine-learning +1 more · Human Pick |
+| 👤 [**Netron**](https://github.com/lutzroeder/netron) | Netron is a viewer for neural network, deep learning and machine learning models. | Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning · Human Pick |
 | [**XGBoost**](https://github.com/dmlc/xgboost) | XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. | Found in 4 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning +1 more · AI Candidate |
-| [**CatBoost**](https://github.com/catboost/catboost) | General purpose gradient boosting on decision trees library with categorical features support out of the box. It is... | Found in 3 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning, vinta/awesome-python · AI Candidate |
 
-📖 103 more in [detail page →](domains/ai-ml.md)
+📖 97 more in [detail page →](domains/ai-ml.md)
 
 ### 🛠️ DevOps
 
@@ -147,7 +147,7 @@ Human-reviewed picks with a concrete reason to look now.
 | [**matplotlib**](https://github.com/matplotlib/matplotlib) | A Python 2D plotting library which produces publication-quality figures in a variety of hardcopy formats and... | Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python · AI Candidate |
 | [**Streamlit**](https://github.com/streamlit/streamlit) | Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts. It... | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python · AI Candidate |
 
-📖 71 more in [detail page →](domains/data.md)
+📖 70 more in [detail page →](domains/data.md)
 
 ### 🔐 Security & Crypto
 
@@ -173,11 +173,11 @@ Human-reviewed picks with a concrete reason to look now.
 
 | Tool | What it does | Signal |
 |---|---|---|
+| 👤 [**Sniffnet**](https://github.com/gyulyvgc/sniffnet) | Cross-platform application to monitor your network traffic with ease | Found in 3 active sources: matiassingers/awesome-readme, rust-unofficial/awesome-rust, jaywcjlove/awesome-mac · Human Pick |
 | [**Pytorch**](https://github.com/pytorch/pytorch) | PyTorch is an open source machine learning library based on the Torch library, used for applications such as... | Found in 4 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning +1 more · Popular Standard |
-| [**TensorFlow**](https://github.com/tensorflow/tensorflow) | TensorFlow is a leading library designed for developing and deploying state-of-the-art machine learning applications. | Found in 4 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning +1 more · Popular Standard |
 | [**Bokeh**](https://github.com/bokeh/bokeh) | Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation... | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python · AI Candidate |
 
-📖 133 more in [detail page →](domains/tooling.md)
+📖 131 more in [detail page →](domains/tooling.md)
 
 ### 🎨 Other
 

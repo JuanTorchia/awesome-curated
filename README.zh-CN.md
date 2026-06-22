@@ -36,7 +36,7 @@
 
 ## 🗺️ 找到你的技术栈
 
-[🌐 **Web** · 49](domains/web.zh-CN.md) · [🤖 **AI 与机器学习** · 106](domains/ai-ml.zh-CN.md) · [🛠️ **DevOps** · 49](domains/devops.zh-CN.md) · [📱 **移动端** · 3](domains/mobile.zh-CN.md) · [💾 **数据与数据库** · 74](domains/data.zh-CN.md) · [🔐 **安全与加密** · 58](domains/security.zh-CN.md) · [⚡ **性能** · 9](domains/performance.zh-CN.md) · [🧰 **开发工具** · 136](domains/tooling.zh-CN.md) · [🎨 **其他** · 25](domains/other.zh-CN.md)
+[🌐 **Web** · 48](domains/web.zh-CN.md) · [🤖 **AI 与机器学习** · 100](domains/ai-ml.zh-CN.md) · [🛠️ **DevOps** · 49](domains/devops.zh-CN.md) · [📱 **移动端** · 3](domains/mobile.zh-CN.md) · [💾 **数据与数据库** · 73](domains/data.zh-CN.md) · [🔐 **安全与加密** · 58](domains/security.zh-CN.md) · [⚡ **性能** · 9](domains/performance.zh-CN.md) · [🧰 **开发工具** · 134](domains/tooling.zh-CN.md) · [🎨 **其他** · 25](domains/other.zh-CN.md)
 
 ---
 
@@ -104,21 +104,21 @@
 
 | 工具 | 作用 | 信号 |
 |---|---|---|
-| [**Amplication**](https://github.com/amplication/amplication) | Amplication is an open-source development tool. It helps you develop quality Node.js applications without spending... | Found in 1 active source: matiassingers/awesome-readme · AI Candidate |
 | [**D3js**](https://d3js.org) | is a powerful data visualization javascript library. | Found in 2 active sources: jivoi/awesome-osint, academic/awesome-datascience · AI Candidate |
 | [**grpc**](https://github.com/grpc/grpc) | Remote Procedure Calls (RPCs) provide a useful abstraction for building distributed applications and services. The... | Found in 1 active source: vinta/awesome-python · AI Candidate |
+| [**juspay/neurolink**](https://github.com/juspay/neurolink) | 📇 ☁️ 🏠 🍎 🪟 🐧 Making enterprise AI infrastructure universally accessible. Edge-first platform unifying 12... | Found in 2 active sources: josephmisiti/awesome-machine-learning, punkpeye/awesome-mcp-servers · AI Candidate |
 
-📖 更多 46 个见[详细页面 →](domains/web.zh-CN.md)
+📖 更多 45 个见[详细页面 →](domains/web.zh-CN.md)
 
 ### 🤖 AI 与机器学习
 
 | 工具 | 作用 | 信号 |
 |---|---|---|
 | 👤 [**BayesWitnesses/m2cgen**](https://github.com/bayeswitnesses/m2cgen) | A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies. | Found in 4 active sources: akullpp/awesome-java, rust-unofficial/awesome-rust, josephmisiti/awesome-machine-learning +1 more · Human Pick |
+| 👤 [**Netron**](https://github.com/lutzroeder/netron) | Netron is a viewer for neural network, deep learning and machine learning models. | Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning · Human Pick |
 | [**XGBoost**](https://github.com/dmlc/xgboost) | XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. | Found in 4 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning +1 more · AI Candidate |
-| [**CatBoost**](https://github.com/catboost/catboost) | General purpose gradient boosting on decision trees library with categorical features support out of the box. It is... | Found in 3 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning, vinta/awesome-python · AI Candidate |
 
-📖 更多 103 个见[详细页面 →](domains/ai-ml.zh-CN.md)
+📖 更多 97 个见[详细页面 →](domains/ai-ml.zh-CN.md)
 
 ### 🛠️ DevOps
 
@@ -147,7 +147,7 @@
 | [**matplotlib**](https://github.com/matplotlib/matplotlib) | A Python 2D plotting library which produces publication-quality figures in a variety of hardcopy formats and... | Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python · AI Candidate |
 | [**Streamlit**](https://github.com/streamlit/streamlit) | Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts. It... | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python · AI Candidate |
 
-📖 更多 71 个见[详细页面 →](domains/data.zh-CN.md)
+📖 更多 70 个见[详细页面 →](domains/data.zh-CN.md)
 
 ### 🔐 安全与加密
 
@@ -173,11 +173,11 @@
 
 | 工具 | 作用 | 信号 |
 |---|---|---|
+| 👤 [**Sniffnet**](https://github.com/gyulyvgc/sniffnet) | Cross-platform application to monitor your network traffic with ease | Found in 3 active sources: matiassingers/awesome-readme, rust-unofficial/awesome-rust, jaywcjlove/awesome-mac · Human Pick |
 | [**Pytorch**](https://github.com/pytorch/pytorch) | PyTorch is an open source machine learning library based on the Torch library, used for applications such as... | Found in 4 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning +1 more · Popular Standard |
-| [**TensorFlow**](https://github.com/tensorflow/tensorflow) | TensorFlow is a leading library designed for developing and deploying state-of-the-art machine learning applications. | Found in 4 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning +1 more · Popular Standard |
 | [**Bokeh**](https://github.com/bokeh/bokeh) | Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation... | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python · AI Candidate |
 
-📖 更多 133 个见[详细页面 →](domains/tooling.zh-CN.md)
+📖 更多 131 个见[详细页面 →](domains/tooling.zh-CN.md)
 
 ### 🎨 其他
 

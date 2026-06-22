@@ -21,11 +21,9 @@ Automated candidates with enough source signal; these are not human endorsements
 
 RunAnywhere is a production-ready SDK for running AI models (LLMs, speech-to-text, text-to-speech) on-device for iOS, Android, React Native, and Flutter enabling private, offline, and fast mobile AI applications.
 
-> **Análise IA:** SDK multi-plataforma para correr modelos IA on-device (LLM, speech, TTS) en iOS/Android/React Native. Privacidad y offline garantizados. Resuelve problema real de latencia + costo de API.
+**Why this is here:** Cubre múltiples modalidades (LLM, speech, TTS)
 
-**Pontos fortes:** _Cubre múltiples modalidades (LLM, speech, TTS)_ · _Private + offline elimina dependencia de APIs_
-
-**Tags:** `mobile` `on-device` `llm` `offline` `ios-android`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -37,11 +35,9 @@ RunAnywhere is a production-ready SDK for running AI models (LLMs, speech-to-tex
 
 An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages. [Apache]
 
-> **Análise IA:** Biblioteca multi-formato para leer/escribir códigos de barras 1D y 2D. Implementación madura en Java con puertos. Resuelve OCR visual de códigos.
+**Why this is here:** Soporte amplio de formatos (QR, EAN, Code128, etc)
 
-**Pontos fortes:** _Soporte amplio de formatos (QR, EAN, Code128, etc)_ · _Puertos a múltiples lenguajes, no solo Java_
-
-**Tags:** `barcode` `qr-code` `image-processing` `java`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -54,17 +50,15 @@ Entries with weak or inconsistent trace evidence. They stay visible for auditabi
 
 ### [NativeScript](https://github.com/nativescript/nativescript)
 
-![](https://img.shields.io/github/stars/nativescript/nativescript?style=flat-square&label=⭐) · Needs trace review
+![](https://img.shields.io/github/stars/nativescript/nativescript?style=flat-square&label=⭐) · Found in 2 active sources
 
 **Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
 NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.
 
-> **Análise IA:** Framework JS para mobile nativo en iOS/Android reutilizando skills web (Angular, Vue, CSS). Promete código compartido pero la realidad es plugins nativos obligatorios para features complejas.
+**Why this is here:** Integración real con ecosistemas web modernos
 
-**Pontos fortes:** _Integración real con ecosistemas web modernos_ · _Comunidad activa y ejemplos abundantes_
-
-**Tags:** `javascript` `mobile` `cross-platform` `angular` `vue`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 

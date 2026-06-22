@@ -21,11 +21,9 @@ Automated candidates with enough source signal; these are not human endorsements
 
 Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures.
 
-> **Análisis IA:** P2P para distribución de archivos e imágenes OCI en cloud native. Pull decentralizado en lugar de todos pedir al registry central. Resuelve: throttling, latencia, costo de ancho hacia registry externo.
+**Why this is here:** Reduce carga en registry central y costo de egress a internet
 
-**Fortalezas:** _Reduce carga en registry central y costo de egress a internet_ · _Compatible con estándares OCI; integra con containerd/Docker nativo_
-
-**Tags:** `p2p` `oci-images` `container-registry` `distributed-systems` `go`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -37,11 +35,9 @@ Found in 2 active sources: akullpp/awesome-java, rust-unofficial/awesome-rust
 
 ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services. Apache-2.0 Java/C++
 
-> **Análisis IA:** Servicio centralizado de coordinación distribuida (config, naming, sync). Apache-maduro. Estándar para Kafka, HDFS, HBase pero overhead significativo para casos simples.
+**Why this is here:** Garantías ACID robustas en operaciones distribuidas
 
-**Fortalezas:** _Garantías ACID robustas en operaciones distribuidas_ · _Usado exitosamente en prod masivo (Netflix, Uber)_
-
-**Tags:** `java` `distributed-coordination` `apache` `consensus`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -53,11 +49,9 @@ ZooKeeper is a centralized service for maintaining configuration information, na
 
 A simple IT automation platform
 
-> **Análisis IA:** Ansible automatiza deploy e infraestructura vía agentless SSH. Estándar de la industria para IaC en empresas mid-to-large. Curva aprendizaje suave, YAML-based.
+**Why this is here:** Agentless (solo SSH), learning curve suave, librerías built-in exhaustivas
 
-**Fortalezas:** _Agentless (solo SSH), learning curve suave, librerías built-in exhaustivas_ · _Excelente documentación y comunidad mature_
-
-**Tags:** `infrastructure-as-code` `automation` `ssh` `python`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -69,11 +63,9 @@ A simple IT automation platform
 
 Track bandwidth utilization by process.
 
-> **Análisis IA:** Herramienta de monitoreo de ancho de banda por proceso. Útil para debugging de performance en desarrollo y producción. Resuelve el problema real de identificar qué proceso consume recursos.
+**Why this is here:** Precisión en per-process bandwidth tracking
 
-**Fortalezas:** _Precisión en per-process bandwidth tracking_ · _Interfaz TUI clara y responsiva_
-
-**Tags:** `network` `monitoring` `rust` `cli` `performance`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -85,11 +77,9 @@ Track bandwidth utilization by process.
 
 Deduplicating backup program with compression and authenticated encryption.
 
-> **Análisis IA:** Herramienta de backup deduplicando con compresión y encriptación. Resuelve backups confiables en servidores y NAS sin ocupar espacio innecesario. Estándar en infraestructuras críticas.
+**Why this is here:** Deduplicación a nivel byte muy eficiente
 
-**Fortalezas:** _Deduplicación a nivel byte muy eficiente_ · _Encriptación nativa sin dependencias externas_
-
-**Tags:** `backup` `deduplication` `encryption` `python` `self-hosted`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -101,11 +91,9 @@ Deduplicating backup program with compression and authenticated encryption.
 
 Analyzes resource usage and performance characteristics of running containers. Apache-2.0 Go
 
-> **Análisis IA:** Analyzes resource usage de containers (CPU, RAM, I/O). Built by Google, standard en Kubernetes. Production-grade monitoring.
+**Why this is here:** Integración nativa Kubernetes, es el estándar
 
-**Fortalezas:** _Integración nativa Kubernetes, es el estándar_ · _Overhead mínimo, escala a miles de containers_
-
-**Tags:** `containers` `monitoring` `go` `kubernetes` `metrics`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -117,11 +105,9 @@ Found in 1 active source: jivoi/awesome-osint
 
 Stay up-to-date with web-site content changes. Apache-2.0 Python/Docker
 
-> **Análisis IA:** Monitor de cambios web vía scraping periódico. Soluciona problema real: detectar updates sin suscribirse. Self-hosted, bajo overhead. Comunidad pequeña pero sólida.
+**Why this is here:** Arquitectura ligera, bajo consumo de recursos
 
-**Fortalezas:** _Arquitectura ligera, bajo consumo de recursos_ · _Soporte para múltiples métodos: JSON diff, visual diff, regex_
-
-**Tags:** `web-monitoring` `change-detection` `python` `self-hosted` `docker`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -133,11 +119,9 @@ Found in 1 active source: avelino/awesome-go
 
 SMTP (email) server with a focus on simplicity, security, and ease of operation. Apache-2.0 Go
 
-> **Análisis IA:** SMTP server minimalista en Go. Foco en seguridad, operabilidad simple. Alternativa liviana a Postfix/Exim para setups pequeños o selfhosted. Mantenido activamente, código limpio.
+**Why this is here:** Footprint mínimo, setup simple, sin configuración retorcida
 
-**Fortalezas:** _Footprint mínimo, setup simple, sin configuración retorcida_ · _Seguridad como design principle (TLS requerido, validaciones estrictas)_
-
-**Tags:** `go` `smtp` `email-server` `self-hosted` `security`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -149,11 +133,9 @@ Found in 1 active source: veggiemonk/awesome-docker
 
 :yen: Push or pull Docker images from your build environment, or build and run containers right on CircleCI.
 
-> **Análisis IA:** SaaS CI/CD cloud que pushea/pullea imágenes Docker y ejecuta containers en build. Hosted, con free tier limitado. Competencia de GitHub Actions, bueno para legacy.
+**Why this is here:** Soporte docker nativo, UI madura, buena para equipos sin infra
 
-**Fortalezas:** _Soporte docker nativo, UI madura, buena para equipos sin infra_ · _Pricing por minutos, flexible_
-
-**Tags:** `ci-cd` `saas` `docker` `cloud`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -163,13 +145,11 @@ Found in 1 active source: veggiemonk/awesome-docker
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-A library for doing continuous integration with ML projects. Use GitHub Actions & GitLab CI to train and evaluate models in production like environments and automatically generate visual reports with metrics and graphs in pull/merge requests. Framework & language agnostic.
+A library for doing continuous integration with ML projects. Use GitHub Actions & GitLab CI to train and evaluate models in production like environments and automatically generate visual reports with metrics and...
 
-> **Análisis IA:** CI/CD agnóstico para ML: entrena modelos en runners de GitHub/GitLab y genera reportes visuales automáticos. Soluciona reproducibilidad y documentación de experimentos en PRs. Maduro y pragmático.
+**Why this is here:** Integración nativa GitHub/GitLab sin overhead
 
-**Fortalezas:** _Integración nativa GitHub/GitLab sin overhead_ · _Genera reportes visuales automáticos inline_
-
-**Tags:** `ci-cd` `mlops` `github-actions` `gitops` `ml-pipeline`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -181,11 +161,9 @@ Found in 1 active source: veggiemonk/awesome-docker
 
 Concourse is a CI tool that treats pipelines as first class objects and containerizes every step along the way. (Demo, ) Apache-2.0 Go
 
-> **Análisis IA:** CI open-source escrito en Go que trata pipelines como first-class objects, containeriza cada paso. Alternativa self-hosted a Jenkins, enfoque declarativo y limpio.
+**Why this is here:** Arquitetura limpia, pipelines reproducibles, excelente para microservicios
 
-**Fortalezas:** _Arquitetura limpia, pipelines reproducibles, excelente para microservicios_ · _Self-hosted, Apache 2.0, sin vendor lock-in_
-
-**Tags:** `ci-cd` `go` `self-hosted` `open-source` `containers`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -197,11 +175,9 @@ Found in 1 active source: avelino/awesome-go
 
 Consul is a tool for service discovery, monitoring and configuration. MPL-2.0 Go
 
-> **Análisis IA:** Service discovery + config management distribuido, estándar Hashicorp. Crítico en infraestructura cloud/Kubernetes, aunque K8s nativo reemplazó parte de su rol.
+**Why this is here:** Multi-datacenter nativo, DNS integrado
 
-**Fortalezas:** _Multi-datacenter nativo, DNS integrado_ · _Monitoring y health checks built-in_
-
-**Tags:** `service-discovery` `go` `distributed` `configuration`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -213,11 +189,9 @@ Consul is a tool for service discovery, monitoring and configuration. MPL-2.0 Go
 
 interface (e.g. htop) for container metrics.
 
-> **Análisis IA:** htop pero para containers. Monitorea métricas en tiempo real (CPU, memoria, I/O) de múltiples contenedores desde terminal. Imprescindible si manejás Docker/Kubernetes en producción.
+**Why this is here:** interfaz intuitiva similar a htop
 
-**Fortalezas:** _interfaz intuitiva similar a htop_ · _monitoreo en vivo sin overhead_
-
-**Tags:** `cli` `monitoring` `docker` `containers` `go`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -229,11 +203,9 @@ interface (e.g. htop) for container metrics.
 
 A tool for exploring each layer in a docker image. By wagoodman.
 
-> **Análisis IA:** Herramienta para inspeccionionar layers de Docker images. Práctica para debugging de builds, comunidad activa, pero nicho específico.
+**Why this is here:** UI interactiva clara, muy útil para analizar tamaño de layers
 
-**Fortalezas:** _UI interactiva clara, muy útil para analizar tamaño de layers_ · _Mantenida activamente_
-
-**Tags:** `docker` `go` `debugging` `cli`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -245,11 +217,9 @@ A tool for exploring each layer in a docker image. By wagoodman.
 
 Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage.
 
-> **Análisis IA:** Herramienta de backup para volúmenes Docker hacia S3, WebDAV, Azure, Dropbox o SSH. Resuelve urgencia real: automatizar backups sin scripting manual. Ligera, agnóstica de backend.
+**Why this is here:** Soporta múltiples destinos sin reimplementación
 
-**Fortalezas:** _Soporta múltiples destinos sin reimplementación_ · _Integración nativa con ecosistema Docker_
-
-**Tags:** `docker` `backup` `s3` `devops`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -261,11 +231,9 @@ Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox 
 
 C#/.NET HTTP client for the Docker remote API.
 
-> **Análisis IA:** Cliente HTTP .NET/C# para Docker Remote API. Integra operaciones docker programáticamente en aplicaciones .NET. Estándar de facto para devs .NET con Docker.
+**Why this is here:** Única librería oficial .NET para Docker API, mantenida por Microsoft
 
-**Fortalezas:** _Única librería oficial .NET para Docker API, mantenida por Microsoft_ · _Cubre API completa de Docker, bien documentada_
-
-**Tags:** `csharp` `dotnet` `docker-api` `client-library`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -277,11 +245,9 @@ C#/.NET HTTP client for the Docker remote API.
 
 An interactive shell UI for managing Docker containers.
 
-> **Análisis IA:** Shell UI interactivo para manejar Docker. Alternativa a docker CLI puro. Útil para DevOps que prefieren TUI.
+**Why this is here:** Interface visual sobre CLI crudo es más rápido para navegar
 
-**Fortalezas:** _Interface visual sobre CLI crudo es más rápido para navegar_ · _Está en GitHub mantenido regularmente_
-
-**Tags:** `docker` `cli` `tui` `containers` `nodejs`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -293,11 +259,9 @@ An interactive shell UI for managing Docker containers.
 
 Cross-platform network monitoring TUI with process identification via eBPF/PKTAP and deep packet inspection
 
-> **Análisis IA:** Network monitor TUI en Rust con eBPF/PKTAP, process ID + deep packet inspection. Cross-platform, activamente mantenido, herramienta niche pero potente para sysadmins.
+**Why this is here:** eBPF/PKTAP nativo sin overhead kernel
 
-**Fortalezas:** _eBPF/PKTAP nativo sin overhead kernel_ · _Process-level network visibility rara en TUI tools_
-
-**Tags:** `network` `tui` `rust` `ebpf` `monitoring`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -309,11 +273,9 @@ Cross-platform network monitoring TUI with process identification via eBPF/PKTAP
 
 Continuous integration server built on Docker and configured using YAML files.
 
-> **Análisis IA:** CI server ligero, Docker-nativo, YAML-first. Estándar en entornos containerizados, alternativa sólida a Jenkins con overhead menor.
+**Why this is here:** Binario único, deployment trivial
 
-**Fortalezas:** _Binario único, deployment trivial_ · _YAML limpio vs XML verboso de Jenkins_
-
-**Tags:** `ci-cd` `docker` `yaml` `go`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -325,11 +287,9 @@ Found in 1 active source: agarrharr/awesome-cli-apps
 
 Open-source, cross-platform real-time monitoring tool with CLI and web dashboard interfaces and many exporting options. GPL-3.0 Python
 
-> **Análisis IA:** Glances es un monitor de sistema ligero con CLI interactivo y dashboard web. Cubre CPU, RAM, disco, red, procesos. Útil para troubleshooting rápido en servers sin overhead.
+**Why this is here:** Instalación one-liner y sin dependencias pesadas
 
-**Fortalezas:** _Instalación one-liner y sin dependencias pesadas_ · _Exporta a Prometheus, CSV, JSON_
-
-**Tags:** `monitoring` `cli` `python` `cross-platform` `lightweight`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -341,11 +301,9 @@ Open-source, cross-platform real-time monitoring tool with CLI and web dashboard
 
 An open-source real-time monitoring system with custom-monitor and agentless.
 
-> **Análisis IA:** Sistema de monitoreo open-source real-time, agentless, custom-monitors. Para DevOps/SRE que necesitan observabilidad sin vendor lock.
+**Why this is here:** Agentless reduces operational overhead
 
-**Fortalezas:** _Agentless reduces operational overhead_ · _Custom monitors permite casos de uso flexibles_
-
-**Tags:** `monitoring` `observability` `agentless` `open-source`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -357,11 +315,9 @@ An open-source real-time monitoring system with custom-monitor and agentless.
 
 Kubernetes CLI to manage your clusters in style.
 
-> **Análisis IA:** CLI para Kubernetes que reemplaza kubectl en día a día. Dashboard interactivo, fuzzy search, manejo de recursos en estilo. Imprescindible para ops que viven en k8s.
+**Why this is here:** Interfaz intuitiva y rápida vs kubectl crudo
 
-**Fortalezas:** _Interfaz intuitiva y rápida vs kubectl crudo_ · _Comunidad activa, mantenimiento constante_
-
-**Tags:** `kubernetes` `cli` `golang` `devops`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -373,11 +329,9 @@ Kubernetes CLI to manage your clusters in style.
 
 The lazier way to manage everything docker. A simple terminal UI for both docker and docker-compose, written in Go with the gocui library. By jesseduffield.
 
-> **Análisis IA:** TUI terminal para Docker y docker-compose en Go. Simplifica operaciones cotidianas de contenedores sin dejar la CLI. Resuelve la fricción de memorizar comandos docker complejos.
+**Why this is here:** Interfaz intuitiva que acelera workflows docker en desarrollo
 
-**Fortalezas:** _Interfaz intuitiva que acelera workflows docker en desarrollo_ · _Ligera, binario único, sin dependencias externas_
-
-**Tags:** `cli` `go` `docker` `tui` `devops`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -389,11 +343,9 @@ The lazier way to manage everything docker. A simple terminal UI for both docker
 
 A interface for reading and filtering the logs output of Docker and Podman containers like Dozzle but for the terminal with support for fuzzy find, regex and output coloring.
 
-> **Análisis IA:** Interfaz terminal para logs de Docker/Podman con fuzzy find, regex y coloring. Alternativa TUI a Dozzle, útil para devops que viven en terminal.
+**Why this is here:** Fuzzy search integrado en logs
 
-**Fortalezas:** _Fuzzy search integrado en logs_ · _Soporte para Podman además de Docker_
-
-**Tags:** `docker` `podman` `logging` `tui` `cli`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -405,11 +357,9 @@ A interface for reading and filtering the logs output of Docker and Podman conta
 
 Expose your localhost to the world.
 
-> **Análisis IA:** Tunneling inverso para exponer localhost. Para demos rápidas, webhooks en desarrollo, testing remoto. Soluciona problema real pero con riesgos de seguridad si se descuida.
+**Why this is here:** Setup instantáneo, cero config
 
-**Fortalezas:** _Setup instantáneo, cero config_ · _URLs públicas generadas automáticamente sin registrarse_
-
-**Tags:** `tunneling` `networking` `demo` `node`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -421,11 +371,9 @@ Expose your localhost to the world.
 
 Luigi is a Python module that helps you build complex pipelines of batch jobs, handling dependency resolution, workflow management, visualisation, etc..
 
-> **Análisis IA:** Framework Python para pipelines de batch jobs complejos. Maneja dependencias, workflows y visualización. Spotify lo usa en producción. Alternativa ligera a Airflow para equipos medianos.
+**Why this is here:** Excelente para pipelines medianos sin overhead de infraestructura
 
-**Fortalezas:** _API simple y pythónica_ · _Excelente para pipelines medianos sin overhead de infraestructura_
-
-**Tags:** `python` `workflow` `batch` `dag` `spotify`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -437,11 +385,9 @@ Luigi is a Python module that helps you build complex pipelines of batch jobs, h
 
 All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check availability, whois search and more. By jason5ng32.
 
-> **Análisis IA:** Toolbox IP todo-en-uno: geolocación, DNS leak check, WebRTC test, speed/ping/MTR, whois. Vue.js frontend. Útil para netops/devops diagnosing. No resuelve problema profundo, es conveniente consolidation.
+**Why this is here:** UI limpia agrupando tools dispersas, cero instalación (web)
 
-**Fortalezas:** _UI limpia agrupando tools dispersas, cero instalación (web)_ · _Integra funciones que típicamente requieren múltiples tools CLI_
-
-**Tags:** `vue` `network-tools` `ip-tools` `frontend`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -453,11 +399,9 @@ All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS
 
 🎖️ 🏠 ☁️ 📟 🍎 🪟 🐧 Discovery, exploration, reporting and root cause analysis using all observability data, including metrics, logs, systems, containers, processes, and network connections
 
-> **Análisis IA:** Observabilidad full-stack: métricas, logs, containers, procesos, red. UI nativa sin Grafana. Buena para infraestructura on-prem con pocos recursos. Integración real pero UI menos pulida que competencia.
+**Why this is here:** Agente lightweight, baja huella de memoria
 
-**Fortalezas:** _Agente lightweight, baja huella de memoria_ · _RCA integrado sin saltar entre herramientas_
-
-**Tags:** `observability` `metrics` `self-hosted` `c` `agent-based`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -469,11 +413,9 @@ Found in 1 active source: jaywcjlove/awesome-mac
 
 Access and share your files, calendars, contacts, mail and more from any device, on your terms. (Demo, ) AGPL-3.0 PHP/deb
 
-> **Análisis IA:** Suite cloud open-source tipo Dropbox on-premise. PHP/Docker, muy modular con marketplace de apps. Estándar industrial para self-hosted. Resuelve storage, sync, colaboración, mail. Escala bien.
+**Why this is here:** Ecosistema robusto de apps integradas
 
-**Fortalezas:** _Ecosistema robusto de apps integradas_ · _Deployment flexible (Docker, bare metal)_
-
-**Tags:** `cloud-storage` `self-hosted` `php` `docker` `collaboration`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -485,11 +427,9 @@ Access and share your files, calendars, contacts, mail and more from any device,
 
 🦀 🏠 A Terraform MCP server allowing AI assistants to manage and operate Terraform environments, enabling reading configurations, analyzing plans, applying configurations, and managing Terraform state.
 
-> **Análisis IA:** MCP server para Terraform, permite a IAs manejar IaC. Arquitectura interesante pero MCP es todavía experimental. Promesa alta pero adopción temprana, riesgos de breaking changes.
+**Why this is here:** Primer bridge serio entre IAs y Terraform state
 
-**Fortalezas:** _Primer bridge serio entre IAs y Terraform state_ · _Sandboxing seguro de operaciones IaC_
-
-**Tags:** `terraform` `mcp` `ai` `infrastructure`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -501,11 +441,9 @@ Access and share your files, calendars, contacts, mail and more from any device,
 
 A minimal file upload/pastebin service
 
-> **Análisis IA:** Pastebin/upload minimalista en Rust. Blazing-fast, self-hosted, sin dependencias pesadas. Para equipos que necesitan control y velocidad sin complejidad.
+**Why this is here:** Binario estático, deployment trivial
 
-**Fortalezas:** _Binario estático, deployment trivial_ · _Performance excelente incluso bajo carga_
-
-**Tags:** `rust` `self-hosted` `file-upload` `minimal`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -517,11 +455,9 @@ Found in 1 active source: jaywcjlove/awesome-mac
 
 A proxy server that runs a Shadowsocks instance for each access key and a REST API to manage the access keys. Apache-2.0 Docker/Nodejs
 
-> **Análisis IA:** Servidor proxy Shadowsocks self-hosted moderno. REST API para gestión keys. Docker/Node. Alternativa abierta a VPN comerciales. Admin cómodo pero requiere ops skills.
+**Why this is here:** API REST para automation
 
-**Fortalezas:** _API REST para automation_ · _Ligero en recursos_
-
-**Tags:** `proxy` `shadowsocks` `docker` `nodejs` `self-hosted`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -533,11 +469,9 @@ A proxy server that runs a Shadowsocks instance for each access key and a REST A
 
 A simple tui to view & control docker containers. Written in Rust, making heavy use of ratatui & Bollard,.
 
-> **Análisis IA:** TUI minimalista en Rust para gestionar containers Docker. Interfaz simple, construida con ratatui y Bollard. Útil para devs que viven en terminal, pero no reemplaza docker CLI + dashboards.
+**Why this is here:** Interfaz responsiva en terminal, cero overhead
 
-**Fortalezas:** _Interfaz responsiva en terminal, cero overhead_ · _Código limpio Rust, muy mantenible_
-
-**Tags:** `rust` `tui` `docker` `terminal` `ratatui`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -549,11 +483,9 @@ A simple tui to view & control docker containers. Written in Rust, making heavy 
 
 Production Process Manager for Node.js.
 
-> **Análisis IA:** Process manager Node.js estándar industria: clustering, reload zero-downtime, monitoreo. 16+ años, 4M+ weekly downloads. Alternativa (Supervisor, systemd) existen pero pm2 domina Node ecosystem.
+**Why this is here:** Clustering automático multi-core
 
-**Fortalezas:** _Zero-downtime restarts_ · _Clustering automático multi-core_
-
-**Tags:** `node.js` `process-manager` `production` `clustering`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -565,11 +497,9 @@ Production Process Manager for Node.js.
 
 Workflow management system that makes it easy to take your data pipelines and add semantics like retries, logging, dynamic mapping, caching, failure notifications, and more.
 
-> **Análisis IA:** Orquestador de workflows con abstracciones para retry, caching, logging. Alternativa a Airflow menos pesada. Resuelve problema: ejecutar DAGs complejos con resiliencia sin montar infraestructura pesada.
+**Why this is here:** API Pythonica más limpia que Airflow, menos dependencias
 
-**Fortalezas:** _API Pythonica más limpia que Airflow, menos dependencias_ · _Async-first, mejor performance en workflows I/O bound_
-
-**Tags:** `python` `workflow-orchestration` `dag` `job-scheduler` `etl`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -581,11 +511,9 @@ Found in 1 active source: veggiemonk/awesome-docker
 
 Service monitoring system and time series database. Apache-2.0 Go
 
-> **Análisis IA:** Time-series database y monitoring system open-source escrito en Go. No exclusivo Docker pero standard para containerized envs. TSDB + alerting combina.
+**Why this is here:** Estándar industry para metrics en containers/Kubernetes, simple e eficiente
 
-**Fortalezas:** _Estándar industry para metrics en containers/Kubernetes, simple e eficiente_ · _Pull-model, no requiere agentes, bajo overhead_
-
-**Tags:** `monitoring` `tsdb` `go` `open-source` `observability`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -597,11 +525,9 @@ Found in 1 active source: jaywcjlove/awesome-mac
 
 A free and open-source emulator and virtualizer that can perform hardware virtualization. (https://github.com/qemu/qemu)
 
-> **Análisis IA:** Virtualizador multiplataforma de Oracle. GUI pulida, snapshot, clonado. Gratuito con GPL/CDDL. Accesible a principiantes, menos overhead que Hyper-V.
+**Why this is here:** GUI intuitiva, snapshots reversibles
 
-**Fortalezas:** _GUI intuitiva, snapshots reversibles_ · _Ligero en recursos, setup rápido_
-
-**Tags:** `virtualization` `vm` `gui` `freeware`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -613,11 +539,9 @@ A free and open-source emulator and virtualizer that can perform hardware virtua
 
 Track various facets of your life media, fitness, etc. (Demo) GPL-3.0 Docker
 
-> **Análisis IA:** Aplicación de tracking personal para media, fitness y vida en general. Docker-ready, GPL-3.0. Resuelve bien la necesidad de centralizar datos personales sin vendor lock-in.
+**Why this is here:** Arquitectura modular con Docker
 
-**Fortalezas:** _Arquitectura modular con Docker_ · _Código abierto GPL-3.0 sin restricciones_
-
-**Tags:** `self-hosted` `docker` `tracking` `privacy-first`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -629,11 +553,9 @@ Track various facets of your life media, fitness, etc. (Demo) GPL-3.0 Docker
 
 Blazing fast S3 and local filesystem execution tool.
 
-> **Análisis IA:** CLI para operaciones S3 en paralelo, escrito en Go. Resuelve transfers masivos rápido. Para devops/data engineers que usan AWS S3 y necesitan velocidad bruta.
+**Why this is here:** Ejecución paralela nativa, significativamente más rápido que aws-cli
 
-**Fortalezas:** _Ejecución paralela nativa, significativamente más rápido que aws-cli_ · _Sintaxis simple, cero configuración AWS extra_
-
-**Tags:** `cli` `s3` `go` `parallel` `aws`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -645,11 +567,9 @@ Blazing fast S3 and local filesystem execution tool.
 
 Software to automate the management and configuration of any infrastructure or application at scale.
 
-> **Análisis IA:** Orquestación y config management en escala. Alternativa a Ansible, más compleja pero poderosa. Estándar en DevOps empresarial.
+**Why this is here:** Event-driven, escalable horizontalmente
 
-**Fortalezas:** _Event-driven, escalable horizontalmente_ · _Masterless o master-based flexible_
-
-**Tags:** `orchestration` `configuration-management` `python` `devops`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -661,11 +581,9 @@ Software to automate the management and configuration of any infrastructure or a
 
 Python-based interactive packet manipulation program and library.
 
-> **Análisis IA:** Librería Python para manipular paquetes de red a nivel bajo. Herramienta clásica para pentesting, network debugging y análisis de tráfico. Resuelve crafteo de packets complejos.
+**Why this is here:** API flexible para construir packets arbitrarios y procesar capturados
 
-**Fortalezas:** _API flexible para construir packets arbitrarios y procesar capturados_ · _Estándar de facto en pentesting y research de seguridad_
-
-**Tags:** `python` `networking` `packets` `security` `low-level`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -677,11 +595,9 @@ Found in 1 active source: veggiemonk/awesome-docker
 
 yen: — A high-performance cloud solution that makes it easy to build, test and ship your containers to production.
 
-> **Análisis IA:** SaaS CI/CD cloud optimizada para build, test y ship de containers a producción. High-performance, DX enfocado. Competencia directa CircleCI, GitHub Actions.
+**Why this is here:** Performance destacada, container-first design, UX limpia
 
-**Fortalezas:** _Performance destacada, container-first design, UX limpia_ · _Free tier generoso, bueno para startups_
-
-**Tags:** `ci-cd` `saas` `docker` `cloud`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -693,11 +609,9 @@ yen: — A high-performance cloud solution that makes it easy to build, test and
 
 A simple, blazingly fast, selfhosted URL shortener with no unnecessary features.
 
-> **Análisis IA:** URL shortener minimalista self-hosted en Rust. Rápido, sin bloat, perfecto para quien necesita control total sin complejidad innecesaria.
+**Why this is here:** Binario compilado ultra-ligero, fácil deployment
 
-**Fortalezas:** _Binario compilado ultra-ligero, fácil deployment_ · _Cero dependencias de terceros, control total del data_
-
-**Tags:** `rust` `self-hosted` `url-shortener` `cli`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -709,11 +623,9 @@ A simple, blazingly fast, selfhosted URL shortener with no unnecessary features.
 
 Transparent proxy server that works as a poor man's VPN.
 
-> **Análisis IA:** Proxy transparente basado en SSH que actúa como VPN económica. Establece túnel sobre SSH existente sin overhead de protocolo VPN. Para quien necesita bypass de redes sin herramientas pesadas.
+**Why this is here:** Usa SSH existente, sin credenciales extra
 
-**Fortalezas:** _Usa SSH existente, sin credenciales extra_ · _Bajo overhead, overhead, funciona en conexiones lentas_
-
-**Tags:** `vpn` `proxy` `ssh` `cli` `python`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -725,11 +637,9 @@ Transparent proxy server that works as a poor man's VPN.
 
 Automated reverse proxy and load-balancer for Docker, Mesos, Consul, Etcd... By EmileVauge.
 
-> **Análisis IA:** Reverse proxy y load balancer automático. Descubre servicios en Docker/K8S/Consul. Reemplaza nginx manual. Simplifica mucho ops.
+**Why this is here:** Service discovery automático, no recargas nginx
 
-**Fortalezas:** _Service discovery automático, no recargas nginx_ · _HTTPS/Let's Encrypt integrado, SSL sin drama_
-
-**Tags:** `reverse-proxy` `load-balancer` `docker` `kubernetes` `go`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
@@ -742,65 +652,57 @@ Entries with weak or inconsistent trace evidence. They stay visible for auditabi
 
 ### [Deployer](https://github.com/deployphp/deployer)
 
-![](https://img.shields.io/github/stars/deployphp/deployer?style=flat-square&label=⭐) · Needs trace review
+![](https://img.shields.io/github/stars/deployphp/deployer?style=flat-square&label=⭐) · Found in 2 active sources
 
 **Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
 A deployment tool written in PHP with support for popular frameworks out of the box.
 
-> **Análisis IA:** Tool deploy en PHP con soporte frameworks populares. Maduro, usado en producción. Alternativa a Capistrano/Fabric pero para PHP.
+**Why this is here:** Maduro y estable, comunidad PHP lo usa
 
-**Fortalezas:** _Maduro y estable, comunidad PHP lo usa_ · _Zero-downtime deployments out-of-box_
-
-**Tags:** `php` `deployment` `cli`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
 ### [GitLab CI](https://about.gitlab.com/solutions/continuous-integration)
 
-Needs trace review
+Found in 2 active sources
 
 **Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
 Gitlab's built-in, full-featured CI/CD solution. MIT Ruby
 
-> **Análisis IA:** CI/CD integrado nativo en GitLab. Full-featured, no requiere herramienta externa. Excelente si ya usás GitLab; problema si no.
+**Why this is here:** Integración perfecta con GitLab (webhooks, auth, repos)
 
-**Fortalezas:** _Integración perfecta con GitLab (webhooks, auth, repos)_ · _Feature-complete sin dependencias externas_
-
-**Tags:** `cicd` `gitlab` `devops` `pipelines`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
 ### [MeshCentral](https://meshcentral.com)
 
-Needs trace review
+Found in 2 active sources
 
 **Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
 Run your own web server to remotely manage and control computers on a local network or anywhere on the internet. Apache-2.0 Nodejs
 
-> **Análisis IA:** Suite de remote management (RDP/SSH/terminal) via web. Node.js + Apache-2.0. Alternativa moderna a TeamViewer/AnyDesk self-hosted. Resuelve problema real pero vendor lock-in al stack Node.
+**Why this is here:** UI web pulida, terminal remota + file manager integrados
 
-**Fortalezas:** _UI web pulida, terminal remota + file manager integrados_ · _Manejo de múltiples agentes simultáneamente sin fricción_
-
-**Tags:** `nodejs` `remote-management` `web-ui` `self-hosted`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 
 ### [Pomerium](https://pomerium.io)
 
-Needs trace review
+Found in 2 active sources
 
 **Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
-Identity-aware reverse proxy, successor to now obsolete oauthproxy. It inserts an OAuth step before proxying your request to the backend, so that you can safely expose your self-hosted websites to public Internet. Apache-2.0 Go/Docker
+Identity-aware reverse proxy, successor to now obsolete oauthproxy. It inserts an OAuth step before proxying your request to the backend, so that you can safely expose your self-hosted websites to public Internet....
 
-> **Análisis IA:** Reverse proxy con OAuth/identity-aware routing. Simplifica exposición segura de internals. Go-based, Docker-ready. Sucesor de oauth_proxy abandonado.
+**Why this is here:** Solución completa (auth + routing + TLS)
 
-**Fortalezas:** _Solución completa (auth + routing + TLS)_ · _Lightweight vs API gateways monolíticos_
-
-**Tags:** `reverse-proxy` `oauth` `identity` `go` `security`
+**Evidence record:** [data/latest.json](../data/latest.json)
 
 ---
 

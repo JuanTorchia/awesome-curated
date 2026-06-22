@@ -2,16 +2,15 @@
   "changes": [
     {
       "changedAt": "2026-06-22",
-      "name": "High Charts",
-      "previousLabel": "AI Candidate",
-      "reason": "No longer present in the current public recommendation set.",
-      "toolId": "cmnwkvgf60146b0i7sprbjh6b",
-      "type": "removed",
-      "url": "https://highcharts.com"
+      "name": "Public recommendation set",
+      "reason": "No material public change detected.",
+      "toolId": "snapshot",
+      "type": "unchanged",
+      "url": "data/latest.json"
     }
   ],
-  "commitSha": "c8d1e4a243cd",
-  "generatedAt": "2026-06-22T21:06:43.999Z",
+  "commitSha": "ed6943a4c609",
+  "generatedAt": "2026-06-22T21:24:29.470Z",
   "recommendations": [
     {
       "caveat": "Best fit for teams with a matching ML or data workflow.",
@@ -19807,7 +19806,7 @@
     "sources": 20
   },
   "validation": {
-    "checkedAt": "2026-06-22T21:06:43.999Z",
+    "checkedAt": "2026-06-22T21:24:29.470Z",
     "status": "pass",
     "warnings": []
   }

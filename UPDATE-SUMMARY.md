@@ -3,7 +3,7 @@
 ## Latest Sync
 
 - Date: 2026-06-22
-- Previous public commit: c8d1e4a243cd
+- Previous public commit: ed6943a4c609
 - Evidence: [data/latest.json](data/latest.json)
 
 ## Current Snapshot
@@ -19,9 +19,9 @@
 
 ## Recent Changes
 
-### Removed
+### No Material Public Change
 
-- [High Charts](https://highcharts.com) (AI Candidate) — No longer present in the current public recommendation set. (2026-06-22)
+No material public change detected for the latest generated window.
 
 ## Review Note
 
