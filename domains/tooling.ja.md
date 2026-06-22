@@ -12,7 +12,7 @@ Tools with a human review label and visible caveats.
 
 ### 👤 [Sniffnet](https://github.com/gyulyvgc/sniffnet)
 
-![](https://img.shields.io/github/stars/gyulyvgc/sniffnet?style=flat-square&label=⭐) · Found in 4 active sources
+![](https://img.shields.io/github/stars/gyulyvgc/sniffnet?style=flat-square&label=⭐) · Found in 3 active sources: matiassingers/awesome-readme, rust-unofficial/awesome-rust, jaywcjlove/awesome-mac
 
 **Review label:** Human Pick · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -35,11 +35,11 @@ Useful standards included as reference, not necessarily emerging discoveries.
 
 ### [Pytorch](https://github.com/pytorch/pytorch)
 
-![](https://img.shields.io/github/stars/pytorch/pytorch?style=flat-square&label=⭐) · 🔥 **Found in 6 active sources**
+![](https://img.shields.io/github/stars/pytorch/pytorch?style=flat-square&label=⭐) · 🔥 **Found in 4 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning +1 more**
 
 **Review label:** Popular Standard · **Caveat:** Useful standard, but not a discovery or emerging pick.
 
-<br PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing.
+PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing.
 
 > **AI 分析:** No hay mucho que analizar acá: PyTorch es el estándar de facto para investigación en deep learning y cada vez más para producción. Si trabajás con ML/AI en Python, lo vas a usar o ya lo usás. No es hype, es infraestructura. El ecosistema es masivo, la documentación es sólida y tiene el respaldo de Meta. ¿Para quién? Desde estudiantes aprendiendo redes neuronales hasta equipos construyendo LLMs. La curva existe, pero es la más razonable del área.
 
@@ -51,11 +51,11 @@ Useful standards included as reference, not necessarily emerging discoveries.
 
 ### [TensorFlow](https://github.com/tensorflow/tensorflow)
 
-![](https://img.shields.io/github/stars/tensorflow/tensorflow?style=flat-square&label=⭐) · 🔥 **Found in 6 active sources**
+![](https://img.shields.io/github/stars/tensorflow/tensorflow?style=flat-square&label=⭐) · 🔥 **Found in 4 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning +1 more**
 
 **Review label:** Popular Standard · **Caveat:** Useful standard, but not a discovery or emerging pick.
 
-- TensorFlow is a leading library designed for developing and deploying state-of-the-art machine learning applications.
+TensorFlow is a leading library designed for developing and deploying state-of-the-art machine learning applications.
 
 > **AI 分析:** TensorFlow es el framework de ML más battle-tested de la industria, respaldado por Google y con años de producción real. No es hype: es infraestructura seria para modelos a escala. El dev promedio hoy en día probablemente prefiere PyTorch por ergonomía, pero TF sigue siendo la opción cuando necesitás deployment en móvil (TFLite), edge, o integración con ecosistema Google Cloud. Si estás aprendiendo ML desde cero, PyTorch te va a hacer menos daño de cabeza. Si tenés un sistema productivo que lo usa, no hay razón para migrar.
 
@@ -74,11 +74,11 @@ Automated candidates with source signal; these are not human endorsements yet.
 
 ### [Bokeh](https://github.com/bokeh/bokeh)
 
-![](https://img.shields.io/github/stars/bokeh/bokeh?style=flat-square&label=⭐) · Found in 4 active sources
+![](https://img.shields.io/github/stars/bokeh/bokeh?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-- Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation of data in modern web browsers.
+Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation of data in modern web browsers.
 
 > **AI 分析:** Bokeh es una biblioteca de visualización Python madura y legítima, no hype. Resuelve un problema real: crear gráficos interactivos para el browser sin escribir JavaScript. El diferencial es que genera HTML/JS autónomo o se integra con servidores como Tornado/Flask para dashboards con datos en vivo. Ideal para data scientists y devs Python que necesitan más que matplotlib pero no quieren meterse en D3.js. Compite con Plotly; Bokeh gana en personalización y control del rendering, pero tiene una curva de aprendizaje más pronunciada.
 
@@ -90,7 +90,7 @@ Automated candidates with source signal; these are not human endorsements yet.
 
 ### [Obsidian](https://obsidian.md)
 
-Found in 4 active sources
+Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -106,9 +106,9 @@ Obsidian is a powerful knowledge base on top of a local folder of plain text Mar
 
 ### [Playwright](https://github.com/microsoft/playwright)
 
-![](https://img.shields.io/github/stars/microsoft/playwright?style=flat-square&label=⭐) · Found in 4 active sources
+![](https://img.shields.io/github/stars/microsoft/playwright?style=flat-square&label=⭐) · Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
 Node.js library to automate Chromium, Firefox and WebKit with a single API.
 
@@ -122,7 +122,7 @@ Node.js library to automate Chromium, Firefox and WebKit with a single API.
 
 ### [Bitwarden](https://bitwarden.com)
 
-Found in 3 active sources
+Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -138,9 +138,9 @@ Open source password management tool for Mac OS, iOS and browsers. (https://gith
 
 ### [bun](https://bun.sh)
 
-Found in 3 active sources
+Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
 Bun is a fast JavaScript runtime, package manager, bundler, test runner
 
@@ -154,11 +154,11 @@ Bun is a fast JavaScript runtime, package manager, bundler, test runner
 
 ### [Cake](https://github.com/cake-build/cake)
 
-![](https://img.shields.io/github/stars/cake-build/cake?style=flat-square&label=⭐) · Found in 3 active sources
+![](https://img.shields.io/github/stars/cake-build/cake?style=flat-square&label=⭐) · Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
-<br Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and folders, running unit tests, compressing files and building NuGet packages.
+Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and folders, running unit tests, compressing files and building NuGet packages.
 
 > **AI 分析:** Build system en C# con DSL para compile, testing, packaging. Para .NET teams que quieren scripting de build portable sin PowerShell crudo. Resuelve fricciones de cross-platform build automation.
 
@@ -170,11 +170,11 @@ Bun is a fast JavaScript runtime, package manager, bundler, test runner
 
 ### [Colossal-AI](https://github.com/hpcaitech/colossalai)
 
-![](https://img.shields.io/github/stars/hpcaitech/colossalai?style=flat-square&label=⭐) · Found in 3 active sources
+![](https://img.shields.io/github/stars/hpcaitech/colossalai?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-- A unified deep learning system for big model era, which helps users to efficiently and quickly deploy large AI model training and inference.
+A unified deep learning system for big model era, which helps users to efficiently and quickly deploy large AI model training and inference.
 
 > **AI 分析:** Framework distribuido para entrenamiento/inferencia de LLMs grandes. Optimizaciones para multi-GPU, tensor parallelism. Para MLOps que entrenan modelos propios.
 
@@ -186,11 +186,11 @@ Bun is a fast JavaScript runtime, package manager, bundler, test runner
 
 ### [Deepchecks](https://github.com/deepchecks/deepchecks)
 
-![](https://img.shields.io/github/stars/deepchecks/deepchecks?style=flat-square&label=⭐) · Found in 3 active sources
+![](https://img.shields.io/github/stars/deepchecks/deepchecks?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-- Deepchecks is a holistic open-source solution for all of your AI & ML validation needs, enabling you to test your data and models from research to production thoroughly.
+Deepchecks is a holistic open-source solution for all of your AI & ML validation needs, enabling you to test your data and models from research to production thoroughly.
 
 > **AI 分析:** Framework Python para validación exhaustiva de datos y modelos ML en toda la pipeline. Resuelve el problema real de detectar data drift, model degradation y issues de calidad antes de producción. Para data scientists y ML engineers serios.
 
@@ -202,7 +202,7 @@ Bun is a fast JavaScript runtime, package manager, bundler, test runner
 
 ### [DVC](https://github.com/iterative/dvc)
 
-![](https://img.shields.io/github/stars/iterative/dvc?style=flat-square&label=⭐) · Found in 3 active sources
+![](https://img.shields.io/github/stars/iterative/dvc?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, matiassingers/awesome-readme, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -218,7 +218,7 @@ Data Science Version Control is an open-source version control system for machin
 
 ### [intelli-shell](https://github.com/lasantosr/intelli-shell)
 
-![](https://img.shields.io/github/stars/lasantosr/intelli-shell?style=flat-square&label=⭐) · Found in 3 active sources
+![](https://img.shields.io/github/stars/lasantosr/intelli-shell?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -234,11 +234,11 @@ Bookmark commands with placeholders and search or autocomplete at any time
 
 ### [Jupyter Notebooks](https://github.com/jupyter/notebook)
 
-![](https://img.shields.io/github/stars/jupyter/notebook?style=flat-square&label=⭐) · Found in 3 active sources
+![](https://img.shields.io/github/stars/jupyter/notebook?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-- Web interface python sandbox environments for reproducible development
+Web interface python sandbox environments for reproducible development
 
 > **AI 分析:** Entorno web interactivo para Python que mezcla código, visualización y documentación. Estándar para data science y research reproducible. Resuelve bien el problema de experimentación exploratoria, menos para producción.
 
@@ -250,11 +250,11 @@ Bookmark commands with placeholders and search or autocomplete at any time
 
 ### [Kubernetes](https://github.com/kubernetes/kubernetes)
 
-![](https://img.shields.io/github/stars/kubernetes/kubernetes?style=flat-square&label=⭐) · Found in 3 active sources
+![](https://img.shields.io/github/stars/kubernetes/kubernetes?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-<br Production-Grade Container Scheduling and Management System
+Production-Grade Container Scheduling and Management System
 
 > **AI 分析:** Orquestador de contenedores nivel producción: scheduling, networking, storage en clusters. Para infraestructura en serio. Resuelve el problema masivo de ejecutar aplicaciones distribuidas sin entrar en detalles manuales.
 
@@ -266,7 +266,7 @@ Bookmark commands with placeholders and search or autocomplete at any time
 
 ### [LightGBM](https://github.com/microsoft/lightgbm)
 
-![](https://img.shields.io/github/stars/microsoft/lightgbm?style=flat-square&label=⭐) · Found in 3 active sources
+![](https://img.shields.io/github/stars/microsoft/lightgbm?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -282,7 +282,7 @@ Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, G
 
 ### [lstags](https://github.com/ivanilves/lstags)
 
-![](https://img.shields.io/github/stars/ivanilves/lstags?style=flat-square&label=⭐) · Found in 3 active sources
+![](https://img.shields.io/github/stars/ivanilves/lstags?style=flat-square&label=⭐) · Found in 3 active sources: agarrharr/awesome-cli-apps, veggiemonk/awesome-docker, avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -298,11 +298,11 @@ Tool and API to sync Docker images across different registries.
 
 ### [mitmproxy](https://mitmproxy.org)
 
-Found in 3 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems. () MIT Python
+A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems. MIT Python
 
 > **AI 分析:** Proxy MITM escrito en Python para interceptar y modificar tráfico HTTP/HTTPS. Imprescindible para debugging de APIs, testing de seguridad y análisis de aplicaciones cliente-servidor. Resuelve real: ver qué hace una app cuando habla con el servidor.
 
@@ -314,7 +314,7 @@ A Python tool used for intercepting, viewing and modifying network traffic. Inva
 
 ### [Moby](https://github.com/moby/moby)
 
-![](https://img.shields.io/github/stars/moby/moby?style=flat-square&label=⭐) · Found in 3 active sources
+![](https://img.shields.io/github/stars/moby/moby?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -330,11 +330,11 @@ Collaborative project for the container ecosystem to assemble container-based sy
 
 ### [Mocha](https://github.com/mochajs/mocha)
 
-![](https://img.shields.io/github/stars/mochajs/mocha?style=flat-square&label=⭐) · Found in 3 active sources
+![](https://img.shields.io/github/stars/mochajs/mocha?style=flat-square&label=⭐) · Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
-<br Javascript test framework for Node.js and the browser.
+Javascript test framework for Node.js and the browser.
 
 > **AI 分析:** Test runner JS/Node maduro. Para testing en Node.js y browsers. Estándar de facto, compite con Jest/Vitest pero sigue siendo sólido.
 
@@ -346,7 +346,7 @@ Collaborative project for the container ecosystem to assemble container-based sy
 
 ### [OctoLinker](https://github.com/octolinker/browser-extension)
 
-![](https://img.shields.io/github/stars/octolinker/browser-extension?style=flat-square&label=⭐) · Found in 3 active sources
+![](https://img.shields.io/github/stars/octolinker/browser-extension?style=flat-square&label=⭐) · Found in 1 active source: avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -362,9 +362,9 @@ Navigate through projects.json files efficiently with the OctoLinker browser ext
 
 ### [PeachPie](https://github.com/peachpiecompiler/peachpie)
 
-![](https://img.shields.io/github/stars/peachpiecompiler/peachpie?style=flat-square&label=⭐) · Found in 3 active sources
+![](https://img.shields.io/github/stars/peachpiecompiler/peachpie?style=flat-square&label=⭐) · Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
 PeachPie is a PHP compiler and runtime for .NET and .NET Core, which allows entire PHP applications to run on the modern, secure and performant .NET and .NET Core platforms.
 
@@ -378,11 +378,11 @@ PeachPie is a PHP compiler and runtime for .NET and .NET Core, which allows enti
 
 ### [PyG](https://github.com/pyg-team/pytorch_geometric)
 
-![](https://img.shields.io/github/stars/pyg-team/pytorch_geometric?style=flat-square&label=⭐) · Found in 3 active sources
+![](https://img.shields.io/github/stars/pyg-team/pytorch_geometric?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-- PyG (PyTorch Geometric) is a library built upon PyTorch to easily write and train Graph Neural Networks (GNNs) for a wide range of applications related to structured data.
+PyG (PyTorch Geometric) is a library built upon PyTorch to easily write and train Graph Neural Networks (GNNs) for a wide range of applications related to structured data.
 
 > **AI 分析:** Biblioteca PyTorch para GNNs: abstracción sobre grafos con ops optimizadas. Para ML engineers que laburen con datos estructurados no-euclidianos. Problema real: training de GNNs sin reinventar la rueda.
 
@@ -394,11 +394,11 @@ PeachPie is a PHP compiler and runtime for .NET and .NET Core, which allows enti
 
 ### [PyMC](https://github.com/pymc-devs/pymc)
 
-![](https://img.shields.io/github/stars/pymc-devs/pymc?style=flat-square&label=⭐) · Found in 3 active sources
+![](https://img.shields.io/github/stars/pymc-devs/pymc?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-<br A Python library for Bayesian statistical modeling and probabilistic machine learning. Beginner-friendly with 'good first issue' labels.
+A Python library for Bayesian statistical modeling and probabilistic machine learning. Beginner-friendly with 'good first issue' labels.
 
 > **AI 分析:** PyMC es la librería de referencia para modelado bayesiano en Python, y el label 'beginner friendly' no es humo: tiene documentación seria y ejemplos didácticos. Si trabajás en estadística, ciencia de datos o ML probabilístico, esto es herramienta real. No es para el dev promedio que quiere hacer un CRUD, pero si necesitás cuantificar incertidumbre o ajustar modelos estadísticos complejos, PyMC es producción-ready con comunidad activa detrás.
 
@@ -410,11 +410,11 @@ PeachPie is a PHP compiler and runtime for .NET and .NET Core, which allows enti
 
 ### [Readest](https://github.com/readest/readest)
 
-![](https://img.shields.io/github/stars/readest/readest?style=flat-square&label=⭐) · Found in 3 active sources
+![](https://img.shields.io/github/stars/readest/readest?style=flat-square&label=⭐) · Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-<br A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface.
+A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface.
 
 > **AI 分析:** Lector de ebooks en Rust con cross-platform. UI moderna, pero es herramienta bastante niche. Resuelve bien el problema si lees en múltiples plataformas.
 
@@ -426,7 +426,7 @@ PeachPie is a PHP compiler and runtime for .NET and .NET Core, which allows enti
 
 ### [Rider](https://jetbrains.com/rider)
 
-Found in 3 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -442,11 +442,11 @@ A cross-platform C# IDE based on the IntelliJ platform and ReSharper
 
 ### [SymPy](https://github.com/sympy/sympy)
 
-![](https://img.shields.io/github/stars/sympy/sympy?style=flat-square&label=⭐) · Found in 3 active sources
+![](https://img.shields.io/github/stars/sympy/sympy?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-<br A Python library for symbolic mathematics.
+A Python library for symbolic mathematics.
 
 > **AI 分析:** SymPy es una librería de matemática simbólica en Python puro, sin dependencias externas pesadas. Resuelve un problema muy real: hacer álgebra, cálculo, ecuaciones diferenciales y geometría de forma simbólica (no numérica) desde Python. Para científicos, ingenieros o devs que trabajan con modelos matemáticos es oro puro. No es hype, lleva décadas activa y es usada en producción. No es para el dev web promedio, pero si necesás manipular expresiones matemáticas formales, no hay mejor opción en el ecosistema Python.
 
@@ -458,11 +458,11 @@ A cross-platform C# IDE based on the IntelliJ platform and ReSharper
 
 ### [Transformers](https://github.com/huggingface/transformers)
 
-![](https://img.shields.io/github/stars/huggingface/transformers?style=flat-square&label=⭐) · Found in 3 active sources
+![](https://img.shields.io/github/stars/huggingface/transformers?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-- Huggingface's library of state-of-the-art pretrained models for Natural Language Processing (NLP).
+Huggingface's library of state-of-the-art pretrained models for Natural Language Processing (NLP).
 
 > **AI 分析:** Librería PyTorch/TensorFlow que domina NLP. Estado del arte en transformer models, fine-tuning y deployment. Estándar de facto para cualquier proyecto serio en lenguaje natural.
 
@@ -474,7 +474,7 @@ A cross-platform C# IDE based on the IntelliJ platform and ReSharper
 
 ### [Wave](https://github.com/wavetermdev/waveterm)
 
-![](https://img.shields.io/github/stars/wavetermdev/waveterm?style=flat-square&label=⭐) · Found in 3 active sources
+![](https://img.shields.io/github/stars/wavetermdev/waveterm?style=flat-square&label=⭐) · Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -490,7 +490,7 @@ Open-source terminal with built-in file previews, web browsing, and AI tools. (h
 
 ### [Wireshark](https://wireshark.org)
 
-Found in 3 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -506,7 +506,7 @@ The world’s foremost and widely-used network protocol analyzer. (https://githu
 
 ### [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
-![](https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=flat-square&label=⭐) · Found in 3 active sources
+![](https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=flat-square&label=⭐) · Found in 3 active sources: agarrharr/awesome-cli-apps, jivoi/awesome-osint, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -522,7 +522,7 @@ Downloads videos from almost any online platform, along with information, thumbn
 
 ### [ActivityWatch](https://activitywatch.net)
 
-Found in 2 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -538,7 +538,7 @@ Cross-platform, extensible, and privacy-focused time-tracker. (https://github.co
 
 ### [Agentify](https://github.com/koriyoshi2041/agentify)
 
-![](https://img.shields.io/github/stars/koriyoshi2041/agentify?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/koriyoshi2041/agentify?style=flat-square&label=⭐) · Found in 1 active source: agarrharr/awesome-cli-apps
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -554,7 +554,7 @@ CLI tool that transforms any OpenAPI spec into 9 agent interface formats (MCP se
 
 ### [AI Git Narrator](https://github.com/pmusolino/ai-git-narrator)
 
-![](https://img.shields.io/github/stars/pmusolino/ai-git-narrator?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/pmusolino/ai-git-narrator?style=flat-square&label=⭐) · Found in 1 active source: agarrharr/awesome-cli-apps
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -570,7 +570,7 @@ CLI tool that uses AI to automatically generate high-quality Git commit messages
 
 ### [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
 
-![](https://img.shields.io/github/stars/ajeetdsouza/zoxide?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/ajeetdsouza/zoxide?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -586,11 +586,11 @@ A fast alternative to cd that learns your habits
 
 ### [Apache Maven](https://maven.apache.org)
 
-Found in 2 active sources
+Found in 1 active source: akullpp/awesome-java
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-Build automation tool mainly for Java. A software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information. () Apache-2.0 Java
+Build automation tool mainly for Java. A software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information. Apache-2.0 Java
 
 > **AI 分析:** Build automation estándar para Java desde 2002. Project Object Model (POM) centraliza configuración. Imprescindible en ecosistema Java enterprise.
 
@@ -602,11 +602,11 @@ Build automation tool mainly for Java. A software project management and compreh
 
 ### [AppFlowy](https://appflowy.io)
 
-Found in 2 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-Build detailed lists of to-do’s for different projects while tracking the status of each one. Open Source Notion Alternative. () AGPL-3.0 Rust/Dart/Docker
+Build detailed lists of to-do’s for different projects while tracking the status of each one. Open Source Notion Alternative. AGPL-3.0 Rust/Dart/Docker
 
 > **AI 分析:** IDE Notion-like open-source en Rust/Dart. Listas, tareas, tracking visual. Buen stack tecnológico pero interfaz menos pulida que Notion, comunidad más pequeña.
 
@@ -618,7 +618,7 @@ Build detailed lists of to-do’s for different projects while tracking the stat
 
 ### [ashvardanian/stringzilla](https://github.com/ashvardanian/stringzilla)
 
-![](https://img.shields.io/github/stars/ashvardanian/stringzilla?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/ashvardanian/stringzilla?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -634,7 +634,7 @@ SIMD-accelerated string search, sort, edit distances, alignments, and generators
 
 ### [ast-grep](https://github.com/ast-grep/ast-grep)
 
-![](https://img.shields.io/github/stars/ast-grep/ast-grep?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/ast-grep/ast-grep?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -650,7 +650,7 @@ A CLI tool for code structural search, lint and rewriting.
 
 ### [astral-sh/ruff](https://github.com/astral-sh/ruff)
 
-![](https://img.shields.io/github/stars/astral-sh/ruff?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/astral-sh/ruff?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -666,7 +666,7 @@ An extremely fast Python linter and code formatter
 
 ### [ATAC](https://github.com/julien-cpsn/atac)
 
-![](https://img.shields.io/github/stars/julien-cpsn/atac?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/julien-cpsn/atac?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -682,7 +682,7 @@ A feature-full TUI API client made in Rust. ATAC is free, open-source, offline a
 
 ### [Bartib](https://github.com/nikolassv/bartib)
 
-![](https://img.shields.io/github/stars/nikolassv/bartib?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/nikolassv/bartib?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -698,7 +698,7 @@ A feature-full TUI API client made in Rust. ATAC is free, open-source, offline a
 
 ### [Bazel](https://bazel.build)
 
-Found in 2 active sources
+Found in 1 active source: akullpp/awesome-java
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -714,7 +714,7 @@ A multi-language, fast and scalable build system from Google. [Apache]
 
 ### [boilr](https://github.com/tmrts/boilr)
 
-![](https://img.shields.io/github/stars/tmrts/boilr?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/tmrts/boilr?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -730,7 +730,7 @@ Blazingly fast CLI tool for creating projects from boilerplate templates.
 
 ### [broot](https://github.com/canop/broot)
 
-![](https://img.shields.io/github/stars/canop/broot?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/canop/broot?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -746,7 +746,7 @@ A new way to see and navigate directory trees (get an overview of a directory, e
 
 ### [Buck2](https://github.com/facebook/buck2)
 
-![](https://img.shields.io/github/stars/facebook/buck2?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/facebook/buck2?style=flat-square&label=⭐) · Found in 2 active sources: akullpp/awesome-java, rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -762,7 +762,7 @@ Encourages the creation of small, reusable modules consisting of code and resour
 
 ### [carbon-now-cli](https://github.com/mixn/carbon-now-cli)
 
-![](https://img.shields.io/github/stars/mixn/carbon-now-cli?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/mixn/carbon-now-cli?style=flat-square&label=⭐) · Found in 1 active source: agarrharr/awesome-cli-apps
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -778,7 +778,7 @@ Beautiful images of your code — from right inside your terminal.
 
 ### [CLion](https://jetbrains.com/clion)
 
-Found in 2 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -794,7 +794,7 @@ Powerful C and C++ IDE. (Free for Students)
 
 ### [config-file-validator](https://github.com/boeing/config-file-validator)
 
-![](https://img.shields.io/github/stars/boeing/config-file-validator?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/boeing/config-file-validator?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -810,11 +810,11 @@ Cross Platform tool to validate configuration files.
 
 ### [cookiecutter](https://github.com/cookiecutter/cookiecutter)
 
-![](https://img.shields.io/github/stars/cookiecutter/cookiecutter?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/cookiecutter/cookiecutter?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-<br A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
+A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
 
 > **AI 分析:** CLI para generar proyectos desde templates. Estándar en Python para scaffolding. Resuelve problema real de boilerplate, muy usado en comunidad.
 
@@ -826,9 +826,9 @@ Cross Platform tool to validate configuration files.
 
 ### [Cppcheck](https://cppcheck.sourceforge.net)
 
-Found in 2 active sources
+Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
 A tool for static C/C++ code analysis. source
 
@@ -842,9 +842,9 @@ A tool for static C/C++ code analysis. source
 
 ### [CppSharp](https://github.com/mono/cppsharp)
 
-![](https://img.shields.io/github/stars/mono/cppsharp?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/mono/cppsharp?style=flat-square&label=⭐) · Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
 Tools and libraries to glue C/C++ APIs to high-level languages. [MIT]
 
@@ -858,11 +858,11 @@ Tools and libraries to glue C/C++ APIs to high-level languages. [MIT]
 
 ### [cypress](https://github.com/cypress-io/cypress)
 
-![](https://img.shields.io/github/stars/cypress-io/cypress?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/cypress-io/cypress?style=flat-square&label=⭐) · Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
-<br Fast, easy and reliable testing for anything that runs in a browser.
+Fast, easy and reliable testing for anything that runs in a browser.
 
 > **AI 分析:** Framework de testing end-to-end para navegadores moderno. Mejor UX que Selenium, dominante en testing de SPA/web apps.
 
@@ -874,7 +874,7 @@ Tools and libraries to glue C/C++ APIs to high-level languages. [MIT]
 
 ### [Dash](https://kapeli.com/dash)
 
-Found in 2 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -890,7 +890,7 @@ Offline API documentation browser for macOS with instant search access to Vue.js
 
 ### [diskonaut](https://github.com/imsnif/diskonaut)
 
-![](https://img.shields.io/github/stars/imsnif/diskonaut?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/imsnif/diskonaut?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -906,7 +906,7 @@ Terminal visual disk space navigator
 
 ### [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter)
 
-![](https://img.shields.io/github/stars/dotenv-linter/dotenv-linter?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/dotenv-linter/dotenv-linter?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -922,7 +922,7 @@ Linter for .env files
 
 ### [dust](https://github.com/bootandy/dust)
 
-![](https://img.shields.io/github/stars/bootandy/dust?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/bootandy/dust?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -938,11 +938,11 @@ A more intuitive version of du in Rust.
 
 ### [einops](https://github.com/arogozhnikov/einops)
 
-![](https://img.shields.io/github/stars/arogozhnikov/einops?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/arogozhnikov/einops?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-- Flexible and powerful tensor operations for readable and reliable code.
+Flexible and powerful tensor operations for readable and reliable code.
 
 > **AI 分析:** Librería Python para tensor reshaping/slicing con sintaxis readable. Resuelve problema real: operaciones tensor sin broadcasting confusion. Alternativa a NumPy puro.
 
@@ -954,7 +954,7 @@ A more intuitive version of du in Rust.
 
 ### [fjira](https://github.com/mk-5/fjira)
 
-![](https://img.shields.io/github/stars/mk-5/fjira?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/mk-5/fjira?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -970,7 +970,7 @@ A fuzzy-search based terminal UI application for Attlasian Jira
 
 ### [fkill](https://github.com/sindresorhus/fkill-cli)
 
-![](https://img.shields.io/github/stars/sindresorhus/fkill-cli?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/sindresorhus/fkill-cli?style=flat-square&label=⭐) · Found in 1 active source: agarrharr/awesome-cli-apps
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -986,7 +986,7 @@ Fabulously kill processes. Cross-platform.
 
 ### [Focalboard](https://focalboard.com)
 
-Found in 2 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1002,7 +1002,7 @@ Define, organize, track and manage work across individuals and teams (alternativ
 
 ### [fx](https://github.com/antonmedv/fx)
 
-![](https://img.shields.io/github/stars/antonmedv/fx?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/antonmedv/fx?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1018,7 +1018,7 @@ Terminal JSON viewer & processor.
 
 ### [fzf](https://github.com/junegunn/fzf)
 
-![](https://img.shields.io/github/stars/junegunn/fzf?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/junegunn/fzf?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1034,7 +1034,7 @@ A general purpose command-line fuzzy finder, can be used with any list: files/di
 
 ### [Gebug](https://github.com/moshebe/gebug)
 
-![](https://img.shields.io/github/stars/moshebe/gebug?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/moshebe/gebug?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1050,7 +1050,7 @@ A tool that makes debugging of Dockerized Go applications super easy by enabling
 
 ### [ggc](https://github.com/bmf-san/ggc)
 
-![](https://img.shields.io/github/stars/bmf-san/ggc?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/bmf-san/ggc?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1066,7 +1066,7 @@ A Git CLI tool with both traditional command-line and interactive incremental-se
 
 ### [GitButler](https://gitbutler.com)
 
-Found in 2 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1082,7 +1082,7 @@ Change management with parallel and stacked branches, unlimited undo, agent inte
 
 ### [GitKraken](https://gitkraken.com)
 
-Found in 2 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1098,11 +1098,11 @@ The most popular Git GUI for Windows, Mac and Linux.
 
 ### [GNU Emacs](https://gnu.org/software/emacs)
 
-Found in 2 active sources
+Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-An extensible, customizable text editor-and more. () GPL-3.0 C
+An extensible, customizable text editor-and more. GPL-3.0 C
 
 > **AI 分析:** Editor cult con 40+ años de historia. Lisp-based, infinitamente customizable. No es herramienta modern; es religión. Productivo si invertís meses.
 
@@ -1114,7 +1114,7 @@ An extensible, customizable text editor-and more. () GPL-3.0 C
 
 ### [Gradle](https://gradle.org)
 
-Found in 2 active sources
+Found in 1 active source: akullpp/awesome-java
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1130,7 +1130,7 @@ Incremental builds programmed via Groovy instead of declaring XML. Works well wi
 
 ### [grex](https://github.com/pemistahl/grex)
 
-![](https://img.shields.io/github/stars/pemistahl/grex?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/pemistahl/grex?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1146,7 +1146,7 @@ A command-line tool and library for generating regular expressions from user-pro
 
 ### [GTK+](https://gtk.org)
 
-Found in 2 active sources
+Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1162,7 +1162,7 @@ A multi-platform toolkit for creating graphical user interfaces. [LGPL]
 
 ### [helix](https://github.com/helix-editor/helix)
 
-![](https://img.shields.io/github/stars/helix-editor/helix?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/helix-editor/helix?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1178,7 +1178,7 @@ A post-modern modal text editor inspired by Neovim/Kakoune.
 
 ### [Hex Fiend](https://ridiculousfish.com/hexfiend)
 
-Found in 2 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1194,7 +1194,7 @@ Fast and clever open source hex editor. (https://github.com/ridiculousfish/HexFi
 
 ### [Homebrew](https://brew.sh)
 
-Found in 2 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1210,7 +1210,7 @@ The missing package manager for macOS. (https://github.com/Homebrew/brew/)
 
 ### [httpie/httpie](https://github.com/httpie/httpie)
 
-![](https://img.shields.io/github/stars/httpie/httpie?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/httpie/httpie?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, matiassingers/awesome-readme
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1226,7 +1226,7 @@ Description of what the project does. Demo screenshots. Project logo. TOC for ea
 
 ### [Ideone](https://ideone.com)
 
-Found in 2 active sources
+Found in 1 active source: jivoi/awesome-osint
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1242,7 +1242,7 @@ An online compiler and debugging tool which allows you to compile and execute it
 
 ### [imgui](https://github.com/ocornut/imgui)
 
-![](https://img.shields.io/github/stars/ocornut/imgui?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/ocornut/imgui?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1258,7 +1258,7 @@ Immediate Mode Graphical User Interface with minimal dependencies. [MIT]
 
 ### [Infer](https://github.com/facebook/infer)
 
-![](https://img.shields.io/github/stars/facebook/infer?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/facebook/infer?style=flat-square&label=⭐) · Found in 1 active source: akullpp/awesome-java
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1274,7 +1274,7 @@ Modern static analysis tool for verifying the correctness of code.
 
 ### [IntelliJ IDEA](https://jetbrains.com/idea)
 
-Found in 2 active sources
+Found in 2 active sources: rust-unofficial/awesome-rust, jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1290,11 +1290,11 @@ Powerful IDE for JVM languages. (Free for Students)
 
 ### [IterTools TS](https://github.com/smoren/itertools-ts)
 
-![](https://img.shields.io/github/stars/smoren/itertools-ts?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/smoren/itertools-ts?style=flat-square&label=⭐) · Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
-<br Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
+Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
 
 > **AI 分析:** Colección extendida de funciones iterables (lazy, async) para TS/JS. Útil para procesamiento de streams complejos sin lodash.
 
@@ -1306,7 +1306,7 @@ Powerful IDE for JVM languages. (Free for Students)
 
 ### [JavaCpp](https://github.com/bytedeco/javacpp)
 
-![](https://img.shields.io/github/stars/bytedeco/javacpp?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/bytedeco/javacpp?style=flat-square&label=⭐) · Found in 1 active source: akullpp/awesome-java
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1322,11 +1322,11 @@ The missing bridge between Java and native C++. [Apache2]
 
 ### [Joplin](https://joplinapp.org)
 
-Found in 2 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-Note taking application with markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through a self hosted Nextcloud instance or similar (alternative to Evernote). () MIT Nodejs
+Note taking application with markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through a self hosted Nextcloud instance or similar (alternative to Evernote). MIT Nodejs
 
 > **AI 分析:** App notas con markdown, encriptación, sync por Nextcloud/self-hosted. Open source, multi-plataforma. Alternativa Evernote con control total de datos.
 
@@ -1338,7 +1338,7 @@ Note taking application with markdown editor and encryption support for mobile a
 
 ### [just](https://github.com/casey/just)
 
-![](https://img.shields.io/github/stars/casey/just?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/casey/just?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1354,9 +1354,9 @@ A handy command runner for project-specific tasks
 
 ### [Kaitai Struct](https://kaitai.io)
 
-Found in 2 active sources
+Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
 File formats and network protocols dissection language and web IDE, generating parsers in C++, C#, Java, JavaScript, Perl, PHP, Python, Ruby.
 
@@ -1370,11 +1370,11 @@ File formats and network protocols dissection language and web IDE, generating p
 
 ### [KDevelop](https://kdevelop.org)
 
-Found in 2 active sources
+Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
-IDE by the people behind KDE. () GFDL-1.2 C++
+IDE by the people behind KDE. GFDL-1.2 C++
 
 > **AI 分析:** IDE por los devs de KDE, enfocado en C++. Para proyectos Qt/KDE o C++ pesado. Similar a Visual Studio pero más liviano.
 
@@ -1386,7 +1386,7 @@ IDE by the people behind KDE. () GFDL-1.2 C++
 
 ### [kreuzberg](https://github.com/kreuzberg-dev/kreuzberg)
 
-![](https://img.shields.io/github/stars/kreuzberg-dev/kreuzberg?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/kreuzberg-dev/kreuzberg?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1402,7 +1402,7 @@ High-performance document extraction library with a Rust core, supporting 62+ fo
 
 ### [LargeModGames/spotatui](https://github.com/largemodgames/spotatui)
 
-![](https://img.shields.io/github/stars/largemodgames/spotatui?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/largemodgames/spotatui?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1418,7 +1418,7 @@ High-performance document extraction library with a Rust core, supporting 62+ fo
 
 ### [LINQPad](https://linqpad.net)
 
-Found in 2 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1434,7 +1434,7 @@ a C#/VB/F# scratchpad that instantly executes any expression, statement block or
 
 ### [Linus-Mussmaecher/rucola](https://github.com/linus-mussmaecher/rucola)
 
-![](https://img.shields.io/github/stars/linus-mussmaecher/rucola?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/linus-mussmaecher/rucola?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1450,7 +1450,7 @@ Terminal-based markdown note manager.
 
 ### [Mailpit](https://github.com/axllent/mailpit)
 
-![](https://img.shields.io/github/stars/axllent/mailpit?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/axllent/mailpit?style=flat-square&label=⭐) · Found in 1 active source: avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1466,7 +1466,7 @@ An email and SMTP testing tool for developers.
 
 ### [Mailspring](https://getmailspring.com)
 
-Found in 2 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1482,11 +1482,11 @@ A beautiful, fast, and fully open source mail client. (https://github.com/Foundr
 
 ### [Marimo](https://github.com/marimo-team/marimo)
 
-![](https://img.shields.io/github/stars/marimo-team/marimo?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/marimo-team/marimo?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-- Reactive Python notebook — run reproducible experiments, execute as a script, deploy as an app, and version with git.
+Reactive Python notebook — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 
 > **AI 分析:** Notebook Python reactivo, ejecutable como script y deployable como web app. Versionable con git. Alternativa moderna a Jupyter.
 
@@ -1498,7 +1498,7 @@ A beautiful, fast, and fully open source mail client. (https://github.com/Foundr
 
 ### [MarkText](https://github.com/marktext/marktext)
 
-![](https://img.shields.io/github/stars/marktext/marktext?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/marktext/marktext?style=flat-square&label=⭐) · Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1514,7 +1514,7 @@ Next generation markdown editor, running on platforms of MacOS Windows and Linux
 
 ### [micro](https://micro-editor.github.io)
 
-Found in 2 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1530,7 +1530,7 @@ Modern and intuitive terminal-based text editor. (https://github.com/ory/editor)
 
 ### [MicroPython](https://github.com/micropython/micropython)
 
-![](https://img.shields.io/github/stars/micropython/micropython?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/micropython/micropython?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1546,7 +1546,7 @@ Aims to put an implementation of Python 3.x on a microcontroller. [MIT]
 
 ### [microsoft/markitdown](https://github.com/microsoft/markitdown)
 
-![](https://img.shields.io/github/stars/microsoft/markitdown?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/microsoft/markitdown?style=flat-square&label=⭐) · Found in 2 active sources: vinta/awesome-python, punkpeye/awesome-mcp-servers
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1562,7 +1562,7 @@ Aims to put an implementation of Python 3.x on a microcontroller. [MIT]
 
 ### [Mockoon](https://mockoon.com)
 
-Found in 2 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1578,11 +1578,11 @@ Create mock APIs in seconds. (https://github.com/mockoon/mockoon)
 
 ### [mypy](https://github.com/python/mypy)
 
-![](https://img.shields.io/github/stars/python/mypy?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/python/mypy?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-<br Optional static typing for Python.
+Optional static typing for Python.
 
 > **AI 分析:** Type checker estático para Python. Estándar de la industria para tipado opcional. Resuelve problema crítico: mantener calidad sin overhead de lenguaje tipado.
 
@@ -1594,7 +1594,7 @@ Create mock APIs in seconds. (https://github.com/mockoon/mockoon)
 
 ### [Neon](https://github.com/neon-bindings/neon)
 
-![](https://img.shields.io/github/stars/neon-bindings/neon?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/neon-bindings/neon?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1610,11 +1610,11 @@ Rust bindings for writing safe and fast native Node.js modules.
 
 ### [.NET Interactive](https://github.com/dotnet/interactive)
 
-![](https://img.shields.io/github/stars/dotnet/interactive?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/dotnet/interactive?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-- .NET Interactive takes the power of .NET and embeds it into your interactive experiences.
+.NET Interactive takes the power of .NET and embeds it into your interactive experiences.
 
 > **AI 分析:** .NET embebido en notebooks/REPL interactivos. Para data scientists .NET-istas prototipando, teaching. Buena integración con Jupyter pero ecosistema fragmentado.
 
@@ -1626,11 +1626,11 @@ Rust bindings for writing safe and fast native Node.js modules.
 
 ### [Node.js core](https://github.com/nodejs/node)
 
-![](https://img.shields.io/github/stars/nodejs/node?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/nodejs/node?style=flat-square&label=⭐) · Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
-<br JavaScript runtime built on Chrome's V8 JavaScript engine
+JavaScript runtime built on Chrome's V8 JavaScript engine
 
 > **AI 分析:** Runtime JavaScript de facto. Estándar industrial para backend, CLI, edge. Core del ecosistema JS/TS moderno.
 
@@ -1642,7 +1642,7 @@ Rust bindings for writing safe and fast native Node.js modules.
 
 ### [Notion](https://notion.so)
 
-Found in 2 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1658,7 +1658,7 @@ All-in-one workspace for your notes, tasks, wikis, and databases.
 
 ### [nuklear](https://github.com/immediate-mode-ui/nuklear)
 
-![](https://img.shields.io/github/stars/immediate-mode-ui/nuklear?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/immediate-mode-ui/nuklear?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1674,11 +1674,11 @@ A single-header ANSI C gui library. [PublicDomain]
 
 ### [nushell](https://github.com/nushell/nushell)
 
-![](https://img.shields.io/github/stars/nushell/nushell?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/nushell/nushell?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-<br A modern shell for the GitHub era written in Rust.
+A modern shell for the GitHub era written in Rust.
 
 > **AI 分析:** Shell moderno en Rust con piping estructurado y sintaxis mejorada. Para devs que quieren escapar de bash/zsh. Resuelve legibilidad y seguridad de scripts.
 
@@ -1690,9 +1690,9 @@ A single-header ANSI C gui library. [PublicDomain]
 
 ### [OneCompiler](https://onecompiler.com)
 
-Found in 2 active sources
+Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
 A free AI Powered online compiler supporting over 70 languages, including Java, Python, MySQL, C++, and HTML, for writing, running, and sharing code.
 
@@ -1706,7 +1706,7 @@ A free AI Powered online compiler supporting over 70 languages, including Java, 
 
 ### [OpenAPI Generator](https://github.com/openapitools/openapi-generator)
 
-![](https://img.shields.io/github/stars/openapitools/openapi-generator?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/openapitools/openapi-generator?style=flat-square&label=⭐) · Found in 1 active source: akullpp/awesome-java
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1722,7 +1722,7 @@ OpenAPI Generator allows generation of API client libraries (e.g. C#, TypeScript
 
 ### [OpenLayers3](https://openlayers.org)
 
-Found in 2 active sources
+Found in 1 active source: jivoi/awesome-osint
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1738,7 +1738,7 @@ A high-performance, feature-packed library for all your mapping needs.
 
 ### [Postman](https://getpostman.com)
 
-Found in 2 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1754,11 +1754,11 @@ GUI platform for API development.
 
 ### [Pytest](https://github.com/pytest-dev/pytest)
 
-![](https://img.shields.io/github/stars/pytest-dev/pytest?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/pytest-dev/pytest?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-<br The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.
+The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.
 
 > **AI 分析:** Framework testing Python estándar industrial. Sintaxis simple, fixtures poderosas, escalable a tests complejos. Reemplazó unittest.
 
@@ -1770,7 +1770,7 @@ GUI platform for API development.
 
 ### [quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins)
 
-![](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/sindresorhus/quick-look-plugins?style=flat-square&label=⭐) · Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1786,7 +1786,7 @@ List of useful Quick Look plugins for developers
 
 ### [readme-md-generator](https://github.com/kefranabg/readme-md-generator)
 
-![](https://img.shields.io/github/stars/kefranabg/readme-md-generator?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/kefranabg/readme-md-generator?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, matiassingers/awesome-readme
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1802,7 +1802,7 @@ A CLI that generates beautiful README.md files
 
 ### [RepoFlow](https://repoflow.io)
 
-Found in 2 active sources
+Found in 2 active sources: veggiemonk/awesome-docker, rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1818,7 +1818,7 @@ A simple and easy-to-use package management platform with Docker support alongsi
 
 ### [Retext](https://github.com/retextjs/retext)
 
-![](https://img.shields.io/github/stars/retextjs/retext?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/retextjs/retext?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1834,7 +1834,7 @@ Extensible system for analyzing and manipulating natural language.
 
 ### [RustDesk](https://github.com/rustdesk/rustdesk)
 
-![](https://img.shields.io/github/stars/rustdesk/rustdesk?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/rustdesk/rustdesk?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1850,7 +1850,7 @@ Extensible system for analyzing and manipulating natural language.
 
 ### [RustRover](https://jetbrains.com/rust)
 
-Found in 2 active sources
+Found in 2 active sources: rust-unofficial/awesome-rust, jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1866,7 +1866,7 @@ A powerful Rust IDE by JetBrains, free for individual non-commercial use
 
 ### [scc](https://github.com/boyter/scc)
 
-![](https://img.shields.io/github/stars/boyter/scc?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/boyter/scc?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1882,7 +1882,7 @@ Sloc Cloc and Code, a very fast accurate code counter with complexity calculatio
 
 ### [Sccache](https://github.com/mozilla/sccache)
 
-![](https://img.shields.io/github/stars/mozilla/sccache?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/mozilla/sccache?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1898,11 +1898,11 @@ A fast compiler cache for C/C++, with cross-platform support and cloud backed st
 
 ### [script](https://github.com/bitfield/script)
 
-![](https://img.shields.io/github/stars/bitfield/script?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/bitfield/script?style=flat-square&label=⭐) · Found in 1 active source: avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-<br A Go library for doing the kind of tasks that shell scripts are good at: reading files, executing subprocesses, counting lines, matching strings, and so on. Beginners are very welcome and will get detailed code review and help through the PR process.
+A Go library for doing the kind of tasks that shell scripts are good at: reading files, executing subprocesses, counting lines, matching strings, and so on. Beginners are very welcome and will get detailed code review and help through the PR process.
 
 > **AI 分析:** Librería Go para tareas de shell scripting: lectura de archivos, subprocesos, conteo de líneas, pattern matching. Buena para automatización simple en Go, comunidad abierta a principiantes.
 
@@ -1914,7 +1914,7 @@ A fast compiler cache for C/C++, with cross-platform support and cloud backed st
 
 ### [sharkdp/bat](https://github.com/sharkdp/bat)
 
-![](https://img.shields.io/github/stars/sharkdp/bat?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/sharkdp/bat?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1930,7 +1930,7 @@ A cat(1) clone with wings.
 
 ### [sharkdp/fd](https://github.com/sharkdp/fd)
 
-![](https://img.shields.io/github/stars/sharkdp/fd?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/sharkdp/fd?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1946,7 +1946,7 @@ A simple, fast and user-friendly alternative to find.
 
 ### [slint-ui/slint](https://github.com/slint-ui/slint)
 
-![](https://img.shields.io/github/stars/slint-ui/slint?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/slint-ui/slint?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1962,11 +1962,11 @@ Slint is a toolkit to efficiently develop fluid graphical user interfaces for em
 
 ### [Spack](https://spack.io)
 
-Found in 2 active sources
+Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
-A flexible package manager that supports multiple versions, configurations, platforms, and compilers. () MIT/Apache-2.0 Python
+A flexible package manager that supports multiple versions, configurations, platforms, and compilers. MIT/Apache-2.0 Python
 
 > **AI 分析:** Package manager flexible para HPC/científico con soporte multi-versión y compiladores. Para labs/investigadores con dependencias complejas en múltiples plataformas.
 
@@ -1978,7 +1978,7 @@ A flexible package manager that supports multiple versions, configurations, plat
 
 ### [Sphinx](https://github.com/sphinx-doc/sphinx)
 
-![](https://img.shields.io/github/stars/sphinx-doc/sphinx?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/sphinx-doc/sphinx?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1994,11 +1994,11 @@ Sphinx makes it easy to create intelligent and beautiful documentation. [BSD-2-C
 
 ### [Taskwarrior](https://taskwarrior.org)
 
-Found in 2 active sources
+Found in 1 active source: agarrharr/awesome-cli-apps
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-Taskwarrior is Free and Open Source Software that manages your TODO list from your command line. It is flexible, fast, efficient, and unobtrusive. It does its job then gets out of your way. () MIT C++
+Taskwarrior is Free and Open Source Software that manages your TODO list from your command line. It is flexible, fast, efficient, and unobtrusive. It does its job then gets out of your way. MIT C++
 
 > **AI 分析:** TODO list CLI minimalista, rápido y eficiente. Filosofía Unix: hace una cosa bien. Flexible con sintaxis potente para power users.
 
@@ -2010,7 +2010,7 @@ Taskwarrior is Free and Open Source Software that manages your TODO list from yo
 
 ### [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
 
-![](https://img.shields.io/github/stars/tauri-apps/tauri?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/tauri-apps/tauri?style=flat-square&label=⭐) · Found in 2 active sources: matiassingers/awesome-readme, rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -2026,7 +2026,7 @@ Build smaller, faster, and more secure desktop applications with a web frontend,
 
 ### [television](https://github.com/alexpasmantier/television)
 
-![](https://img.shields.io/github/stars/alexpasmantier/television?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/alexpasmantier/television?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -2042,7 +2042,7 @@ A blazing fast general purpose fuzzy finder TUI
 
 ### [Termius](https://termius.com)
 
-Found in 2 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -2058,7 +2058,7 @@ A beautiful SSH and SFTP client for Mac. It is also available for mobile. (https
 
 ### [Typora](https://typora.io)
 
-Found in 2 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -2074,7 +2074,7 @@ Truly minimal Markdown editor featuring seamless live preview.
 
 ### [Vectr](https://vectr.com)
 
-Found in 2 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -2090,11 +2090,11 @@ Vectr is a free graphics software used to create vector graphics easily and intu
 
 ### [VSCodium](https://vscodium.com)
 
-Found in 2 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-An open source cross-platform extensible code editor based on VS Code by Microsoft removing their non-free additions. () MIT TypeScript
+An open source cross-platform extensible code editor based on VS Code by Microsoft removing their non-free additions. MIT TypeScript
 
 > **AI 分析:** VS Code open-source puro, sin telemetría Microsoft. Fork mantenido, extensiones compatibles. Alternativa ética a VS Code proprietary, mismo poder.
 
@@ -2106,7 +2106,7 @@ An open source cross-platform extensible code editor based on VS Code by Microso
 
 ### [Warp](https://warp.dev)
 
-Found in 2 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -2122,7 +2122,7 @@ Warp is a blazingly fast, rust-based terminal reimagined from the ground up to w
 
 ### [Water-Run/treepp](https://github.com/water-run/treepp)
 
-![](https://img.shields.io/github/stars/water-run/treepp?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/water-run/treepp?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -2138,7 +2138,7 @@ A Rust-based native Windows tree replacement with diff-level input/output compat
 
 ### [Xcode](https://developer.apple.com/xcode)
 
-Found in 2 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -2154,7 +2154,7 @@ Essential IDE for iOS/macOS development. (https://apps.apple.com/app/id497799835
 
 ### [xplr](https://github.com/sayanarijit/xplr)
 
-![](https://img.shields.io/github/stars/sayanarijit/xplr?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/sayanarijit/xplr?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -2170,7 +2170,7 @@ A hackable, minimal, fast TUI file explorer.
 
 ### [yazi](https://github.com/sxyazi/yazi)
 
-![](https://img.shields.io/github/stars/sxyazi/yazi?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/sxyazi/yazi?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -2186,7 +2186,7 @@ Blazing fast terminal file manager, based on async I/O.
 
 ### [Zed](https://zed.dev)
 
-Found in 2 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 

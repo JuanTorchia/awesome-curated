@@ -15,9 +15,9 @@ Automated candidates with source signal; these are not human endorsements yet.
 
 ### [RunJS](https://runjs.app)
 
-Found in 3 active sources
+Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
 JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas or trying out new libraries.
 
@@ -31,7 +31,7 @@ JavaScript playground that evaluates your code as you type and gives instant fee
 
 ### [AFFiNE Community Edition](https://affine.pro)
 
-Found in 2 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -47,7 +47,7 @@ Next-gen knowledge base that brings planning, sorting and creating all together.
 
 ### [beets](https://github.com/beetbox/beets)
 
-![](https://img.shields.io/github/stars/beetbox/beets?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/beetbox/beets?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -63,7 +63,7 @@ A music library manager and MusicBrainz tagger.
 
 ### [croc](https://github.com/schollz/croc)
 
-![](https://img.shields.io/github/stars/schollz/croc?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/schollz/croc?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -79,7 +79,7 @@ Easily and securely send files or folders from one computer to another.
 
 ### [Deluge](https://deluge-torrent.org)
 
-Found in 2 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -95,11 +95,11 @@ Deluge is a lightweight, Free Software, cross-platform BitTorrent client. (https
 
 ### [Godot Engine](https://github.com/godotengine/godot)
 
-![](https://img.shields.io/github/stars/godotengine/godot?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/godotengine/godot?style=flat-square&label=⭐) · Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
-<br 2D and 3D cross-platform game engine. Also has C# and Python code.
+2D and 3D cross-platform game engine. Also has C# and Python code.
 
 > **AI 分析:** Motor de juegos 2D/3D multiplataforma con soporte C#/Python. Para devs indie que quieren control total. Alternativa open-source real a Unity/Unreal con comunidad consolidada.
 
@@ -111,7 +111,7 @@ Deluge is a lightweight, Free Software, cross-platform BitTorrent client. (https
 
 ### [Gokapi](https://github.com/forceu/gokapi)
 
-![](https://img.shields.io/github/stars/forceu/gokapi?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/forceu/gokapi?style=flat-square&label=⭐) · Found in 1 active source: avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -127,11 +127,11 @@ Lightweight server to share files, which expire after a set amount of downloads 
 
 ### [Kodi](https://kodi.tv)
 
-Found in 2 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-Multimedia/Entertainment center, formerly known as XBMC. Runs on Android, BSD, Linux, macOS, iOS and Windows. () GPL-2.0 C++/deb
+Multimedia/Entertainment center, formerly known as XBMC. Runs on Android, BSD, Linux, macOS, iOS and Windows. GPL-2.0 C++/deb
 
 > **AI 分析:** Centro multimedia open-source (video/audio/images). Multi-plataforma (Android, Linux, macOS, Windows). Maduro, comunidad grande. Para home theater y HTPC.
 
@@ -143,7 +143,7 @@ Multimedia/Entertainment center, formerly known as XBMC. Runs on Android, BSD, L
 
 ### [Lean](https://github.com/quantconnect/lean)
 
-![](https://img.shields.io/github/stars/quantconnect/lean?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/quantconnect/lean?style=flat-square&label=⭐) · Found in 1 active source: wilsonfreitas/awesome-quant
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -159,7 +159,7 @@ Lean Engine is an open-source fully managed C# algorithmic trading engine built 
 
 ### [mpv](https://mpv.io)
 
-Found in 2 active sources
+Found in 2 active sources: agarrharr/awesome-cli-apps, jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -175,7 +175,7 @@ Free, open-source, and cross-platform media player. (https://github.com/mpv-play
 
 ### [nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
 
-![](https://img.shields.io/github/stars/nautechsystems/nautilus_trader?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/nautechsystems/nautilus_trader?style=flat-square&label=⭐) · Found in 2 active sources: wilsonfreitas/awesome-quant, rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -191,11 +191,11 @@ Python Rust A high-performance algorithmic trading platform and event-driven bac
 
 ### [NewsBlur](https://newsblur.com)
 
-Found in 2 active sources
+Found in 1 active source: jivoi/awesome-osint
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-Personal news reader that brings people together to talk about the world. A new sound of an old instrument. () MIT Python
+Personal news reader that brings people together to talk about the world. A new sound of an old instrument. MIT Python
 
 > **AI 分析:** Lector RSS personal con social features para compartir y discutir noticias. Stack Python sólido. Reemplaza a Google Reader parcialmente pero la comunidad es pequeña comparado con alternativas modernas.
 
@@ -207,11 +207,11 @@ Personal news reader that brings people together to talk about the world. A new 
 
 ### [phpList](https://phplist.org)
 
-Found in 2 active sources
+Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
-Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. () AGPL-3.0 PHP
+Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. AGPL-3.0 PHP
 
 > **AI 分析:** Plataforma madura de email marketing self-hosted con gestión avanzada de suscriptores, bounces y plugin ecosystem. Para agencias y marketers que necesitan control total. Resuelve problema real de newsletters sin vendor lock-in.
 
@@ -223,7 +223,7 @@ Newsletter and email marketing with advanced management of subscribers, bounces,
 
 ### [Polaris](https://github.com/agersant/polaris)
 
-![](https://img.shields.io/github/stars/agersant/polaris?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/agersant/polaris?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -239,7 +239,7 @@ Music browsing and streaming application optimized for large music collections, 
 
 ### [qBittorrent](https://qbittorrent.org)
 
-Found in 2 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -255,7 +255,7 @@ A project aims to provide an alternative to µTorrent. (https://github.com/qbitt
 
 ### [QuantLib](https://github.com/lballabio/quantlib)
 
-![](https://img.shields.io/github/stars/lballabio/quantlib?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/lballabio/quantlib?style=flat-square&label=⭐) · Found in 1 active source: wilsonfreitas/awesome-quant
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -271,7 +271,7 @@ The QuantLib project is aimed at providing a comprehensive software framework fo
 
 ### [Reeder 5](https://reederapp.com)
 
-Found in 2 active sources
+Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -287,11 +287,11 @@ News reader for Feedbin, Feedly, Feed Wrangler and so on. (https://apps.apple.co
 
 ### [Samba](https://samba.org)
 
-Found in 2 active sources
+Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
-Samba is the standard Windows interoperability suite of programs for Linux and Unix. It provides secure, stable and fast file and print services for all clients using the SMB/CIFS protocol. () GPL-3.0 C
+Samba is the standard Windows interoperability suite of programs for Linux and Unix. It provides secure, stable and fast file and print services for all clients using the SMB/CIFS protocol. GPL-3.0 C
 
 > **AI 分析:** Suite estándar de facto para interoperabilidad Windows en Linux/Unix. Servicios SMB/CIFS de producción. Si necesitás fileserver con clients Windows, esto es obligatorio, no opción.
 
@@ -303,7 +303,7 @@ Samba is the standard Windows interoperability suite of programs for Linux and U
 
 ### [StockSharp](https://github.com/stocksharp/stocksharp)
 
-![](https://img.shields.io/github/stars/stocksharp/stocksharp?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/stocksharp/stocksharp?style=flat-square&label=⭐) · Found in 1 active source: wilsonfreitas/awesome-quant
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -319,7 +319,7 @@ CSharp Algorithmic trading and quantitative trading open source platform to deve
 
 ### [Super Productivity](https://super-productivity.com)
 
-Found in 2 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -335,7 +335,7 @@ Task manager with timeboxing and time tracking. (https://github.com/johannesjo/s
 
 ### [SVGo](https://github.com/ajstarks/svgo)
 
-![](https://img.shields.io/github/stars/ajstarks/svgo?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/ajstarks/svgo?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -351,11 +351,11 @@ The Go Language library for SVG generation.
 
 ### [Syncthing](https://syncthing.net)
 
-Found in 2 active sources
+Found in 1 active source: avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-Syncthing is an open source peer-to-peer file synchronisation tool. () MPL-2.0 Go/Docker/deb
+Syncthing is an open source peer-to-peer file synchronisation tool. MPL-2.0 Go/Docker/deb
 
 > **AI 分析:** Sincronización P2P descentralizada entre devices, agnóstica a cloud. Rust/Go, MPL-2.0. Resuelve sync privado genuinamente. Estándar en hogar tech-savvy, pero requiere administración manual.
 
@@ -367,11 +367,11 @@ Syncthing is an open source peer-to-peer file synchronisation tool. () MPL-2.0 G
 
 ### [tldr-pages](https://github.com/tldr-pages/tldr)
 
-![](https://img.shields.io/github/stars/tldr-pages/tldr?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/tldr-pages/tldr?style=flat-square&label=⭐) · Found in 1 active source: agarrharr/awesome-cli-apps
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-<br Collaborative cheatsheets for console commands.
+Collaborative cheatsheets for console commands.
 
 > **AI 分析:** Cheatsheets colaborativas para comandos CLI. Referencia rápida y crowdsourced. Aporta valor real a dev community pero es más recurso que herramienta técnica.
 
@@ -383,7 +383,7 @@ Syncthing is an open source peer-to-peer file synchronisation tool. () MPL-2.0 G
 
 ### [uk-company-number](https://github.com/borschai/uk-company-number)
 
-![](https://img.shields.io/github/stars/borschai/uk-company-number?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/borschai/uk-company-number?style=flat-square&label=⭐) · Found in 2 active sources: wilsonfreitas/awesome-quant, jivoi/awesome-osint
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -399,7 +399,7 @@ Python Validate, format, and identify UK Companies House company numbers. Suppor
 
 ### [uk-sic-codes](https://github.com/borschai/uk-sic-codes)
 
-![](https://img.shields.io/github/stars/borschai/uk-sic-codes?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/borschai/uk-sic-codes?style=flat-square&label=⭐) · Found in 2 active sources: wilsonfreitas/awesome-quant, jivoi/awesome-osint
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 

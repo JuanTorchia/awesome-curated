@@ -12,11 +12,11 @@ Tools with a human review label and visible caveats.
 
 ### 👤 [Bencher](https://bencher.dev)
 
-Found in 4 active sources
+Found in 1 active source: avelino/awesome-go
 
 **Review label:** Human Pick · **Caveat:** Worth a focused trial before adopting broadly.
 
-Suite of continuous benchmarking tools designed to catch performance regressions in CI. () MIT/Apache-2.0 Rust
+Suite of continuous benchmarking tools designed to catch performance regressions in CI. MIT/Apache-2.0 Rust
 
 > **AI analysis:** Suite de benchmarking en CI escrita en Rust. Atrapa regresiones de performance en PR; menos conocida que alternatives pero solid.
 
@@ -35,7 +35,7 @@ Automated candidates with source signal; these are not human endorsements yet.
 
 ### [Dragonfly](https://github.com/dragonflyoss/dragonfly2)
 
-![](https://img.shields.io/github/stars/dragonflyoss/dragonfly2?style=flat-square&label=⭐) · Found in 3 active sources
+![](https://img.shields.io/github/stars/dragonflyoss/dragonfly2?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -51,11 +51,11 @@ Provide efficient, stable and secure file distribution and image acceleration ba
 
 ### [ZooKeeper](https://zookeeper.apache.org)
 
-Found in 3 active sources
+Found in 2 active sources: akullpp/awesome-java, rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services. () Apache-2.0 Java/C++
+ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services. Apache-2.0 Java/C++
 
 > **AI analysis:** Servicio centralizado de coordinación distribuida (config, naming, sync). Apache-maduro. Estándar para Kafka, HDFS, HBase pero overhead significativo para casos simples.
 
@@ -67,11 +67,11 @@ ZooKeeper is a centralized service for maintaining configuration information, na
 
 ### [Ansible](https://github.com/ansible/ansible)
 
-![](https://img.shields.io/github/stars/ansible/ansible?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/ansible/ansible?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-<br A simple IT automation platform
+A simple IT automation platform
 
 > **AI analysis:** Ansible automatiza deploy e infraestructura vía agentless SSH. Estándar de la industria para IaC en empresas mid-to-large. Curva aprendizaje suave, YAML-based.
 
@@ -83,7 +83,7 @@ ZooKeeper is a centralized service for maintaining configuration information, na
 
 ### [bandwhich](https://github.com/imsnif/bandwhich)
 
-![](https://img.shields.io/github/stars/imsnif/bandwhich?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/imsnif/bandwhich?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -99,11 +99,11 @@ Track bandwidth utilization by process.
 
 ### [BorgBackup](https://github.com/borgbackup/borg)
 
-![](https://img.shields.io/github/stars/borgbackup/borg?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/borgbackup/borg?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-<br Deduplicating backup program with compression and authenticated encryption.
+Deduplicating backup program with compression and authenticated encryption.
 
 > **AI analysis:** Herramienta de backup deduplicando con compresión y encriptación. Resuelve backups confiables en servidores y NAS sin ocupar espacio innecesario. Estándar en infraestructuras críticas.
 
@@ -115,7 +115,7 @@ Track bandwidth utilization by process.
 
 ### [cadvisor](https://github.com/google/cadvisor)
 
-![](https://img.shields.io/github/stars/google/cadvisor?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/google/cadvisor?style=flat-square&label=⭐) · Found in 1 active source: veggiemonk/awesome-docker
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -131,11 +131,11 @@ Analyzes resource usage and performance characteristics of running containers. A
 
 ### [changedetection.io](https://changedetection.io)
 
-Found in 2 active sources
+Found in 1 active source: jivoi/awesome-osint
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-Stay up-to-date with web-site content changes. () Apache-2.0 Python/Docker
+Stay up-to-date with web-site content changes. Apache-2.0 Python/Docker
 
 > **AI analysis:** Monitor de cambios web vía scraping periódico. Soluciona problema real: detectar updates sin suscribirse. Self-hosted, bajo overhead. Comunidad pequeña pero sólida.
 
@@ -147,11 +147,11 @@ Stay up-to-date with web-site content changes. () Apache-2.0 Python/Docker
 
 ### [chasquid](https://blitiri.com.ar/p/chasquid)
 
-Found in 2 active sources
+Found in 1 active source: avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-SMTP (email) server with a focus on simplicity, security, and ease of operation. () Apache-2.0 Go
+SMTP (email) server with a focus on simplicity, security, and ease of operation. Apache-2.0 Go
 
 > **AI analysis:** SMTP server minimalista en Go. Foco en seguridad, operabilidad simple. Alternativa liviana a Postfix/Exim para setups pequeños o selfhosted. Mantenido activamente, código limpio.
 
@@ -163,7 +163,7 @@ SMTP (email) server with a focus on simplicity, security, and ease of operation.
 
 ### [CircleCI](https://circleci.com)
 
-Found in 2 active sources
+Found in 1 active source: veggiemonk/awesome-docker
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -179,7 +179,7 @@ Found in 2 active sources
 
 ### [CML](https://github.com/iterative/cml)
 
-![](https://img.shields.io/github/stars/iterative/cml?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/iterative/cml?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -195,7 +195,7 @@ A library for doing continuous integration with ML projects. Use GitHub Actions 
 
 ### [Concourse](https://concourse-ci.org)
 
-Found in 2 active sources
+Found in 1 active source: veggiemonk/awesome-docker
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -211,11 +211,11 @@ Concourse is a CI tool that treats pipelines as first class objects and containe
 
 ### [Consul](https://consul.io)
 
-Found in 2 active sources
+Found in 1 active source: avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-Consul is a tool for service discovery, monitoring and configuration. () MPL-2.0 Go
+Consul is a tool for service discovery, monitoring and configuration. MPL-2.0 Go
 
 > **AI analysis:** Service discovery + config management distribuido, estándar Hashicorp. Crítico en infraestructura cloud/Kubernetes, aunque K8s nativo reemplazó parte de su rol.
 
@@ -227,7 +227,7 @@ Consul is a tool for service discovery, monitoring and configuration. () MPL-2.0
 
 ### [ctop](https://github.com/bcicen/ctop)
 
-![](https://img.shields.io/github/stars/bcicen/ctop?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/bcicen/ctop?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -243,11 +243,11 @@ interface (e.g. htop) for container metrics.
 
 ### [Deployer](https://github.com/deployphp/deployer)
 
-![](https://img.shields.io/github/stars/deployphp/deployer?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/deployphp/deployer?style=flat-square&label=⭐) · Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
-<br A deployment tool written in PHP with support for popular frameworks out of the box.
+A deployment tool written in PHP with support for popular frameworks out of the box.
 
 > **AI analysis:** Tool deploy en PHP con soporte frameworks populares. Maduro, usado en producción. Alternativa a Capistrano/Fabric pero para PHP.
 
@@ -259,7 +259,7 @@ interface (e.g. htop) for container metrics.
 
 ### [dive](https://github.com/wagoodman/dive)
 
-![](https://img.shields.io/github/stars/wagoodman/dive?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/wagoodman/dive?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -275,7 +275,7 @@ A tool for exploring each layer in a docker image. By wagoodman.
 
 ### [Docker.DotNet](https://github.com/microsoft/docker.dotnet)
 
-![](https://img.shields.io/github/stars/microsoft/docker.dotnet?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/microsoft/docker.dotnet?style=flat-square&label=⭐) · Found in 1 active source: veggiemonk/awesome-docker
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -291,7 +291,7 @@ C#/.NET HTTP client for the Docker remote API.
 
 ### [docker-volume-backup](https://github.com/offen/docker-volume-backup)
 
-![](https://img.shields.io/github/stars/offen/docker-volume-backup?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/offen/docker-volume-backup?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -307,7 +307,7 @@ Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox 
 
 ### [dockly](https://github.com/lirantal/dockly)
 
-![](https://img.shields.io/github/stars/lirantal/dockly?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/lirantal/dockly?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, veggiemonk/awesome-docker
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -323,7 +323,7 @@ An interactive shell UI for managing Docker containers.
 
 ### [domcyrus/rustnet](https://github.com/domcyrus/rustnet)
 
-![](https://img.shields.io/github/stars/domcyrus/rustnet?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/domcyrus/rustnet?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -339,7 +339,7 @@ Cross-platform network monitoring TUI with process identification via eBPF/PKTAP
 
 ### [Drone](https://github.com/drone/drone)
 
-![](https://img.shields.io/github/stars/drone/drone?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/drone/drone?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -355,11 +355,11 @@ Continuous integration server built on Docker and configured using YAML files.
 
 ### [GitLab CI](https://about.gitlab.com/solutions/continuous-integration)
 
-Found in 2 active sources
+Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
-Gitlab's built-in, full-featured CI/CD solution. () MIT Ruby
+Gitlab's built-in, full-featured CI/CD solution. MIT Ruby
 
 > **AI analysis:** CI/CD integrado nativo en GitLab. Full-featured, no requiere herramienta externa. Excelente si ya usás GitLab; problema si no.
 
@@ -371,11 +371,11 @@ Gitlab's built-in, full-featured CI/CD solution. () MIT Ruby
 
 ### [glances](https://nicolargo.github.io/glances)
 
-Found in 2 active sources
+Found in 1 active source: agarrharr/awesome-cli-apps
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-Open-source, cross-platform real-time monitoring tool with CLI and web dashboard interfaces and many exporting options. () GPL-3.0 Python
+Open-source, cross-platform real-time monitoring tool with CLI and web dashboard interfaces and many exporting options. GPL-3.0 Python
 
 > **AI analysis:** Glances es un monitor de sistema ligero con CLI interactivo y dashboard web. Cubre CPU, RAM, disco, red, procesos. Útil para troubleshooting rápido en servers sin overhead.
 
@@ -387,7 +387,7 @@ Open-source, cross-platform real-time monitoring tool with CLI and web dashboard
 
 ### [HertzBeat](https://github.com/dromara/hertzbeat)
 
-![](https://img.shields.io/github/stars/dromara/hertzbeat?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/dromara/hertzbeat?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, akullpp/awesome-java
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -403,7 +403,7 @@ An open-source real-time monitoring system with custom-monitor and agentless.
 
 ### [k9s](https://github.com/derailed/k9s)
 
-![](https://img.shields.io/github/stars/derailed/k9s?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/derailed/k9s?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -419,7 +419,7 @@ Kubernetes CLI to manage your clusters in style.
 
 ### [lazydocker](https://github.com/jesseduffield/lazydocker)
 
-![](https://img.shields.io/github/stars/jesseduffield/lazydocker?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/jesseduffield/lazydocker?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, veggiemonk/awesome-docker
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -435,7 +435,7 @@ The lazier way to manage everything docker. A simple terminal UI for both docker
 
 ### [lazyjournal](https://github.com/lifailon/lazyjournal)
 
-![](https://img.shields.io/github/stars/lifailon/lazyjournal?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/lifailon/lazyjournal?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -451,7 +451,7 @@ A interface for reading and filtering the logs output of Docker and Podman conta
 
 ### [localtunnel](https://github.com/localtunnel/localtunnel)
 
-![](https://img.shields.io/github/stars/localtunnel/localtunnel?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/localtunnel/localtunnel?style=flat-square&label=⭐) · Found in 1 active source: agarrharr/awesome-cli-apps
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -467,11 +467,11 @@ Expose your localhost to the world.
 
 ### [Luigi](https://github.com/spotify/luigi)
 
-![](https://img.shields.io/github/stars/spotify/luigi?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/spotify/luigi?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-- Luigi is a Python module that helps you build complex pipelines of batch jobs, handling dependency resolution, workflow management, visualisation, etc..
+Luigi is a Python module that helps you build complex pipelines of batch jobs, handling dependency resolution, workflow management, visualisation, etc..
 
 > **AI analysis:** Framework Python para pipelines de batch jobs complejos. Maneja dependencias, workflows y visualización. Spotify lo usa en producción. Alternativa ligera a Airflow para equipos medianos.
 
@@ -483,11 +483,11 @@ Expose your localhost to the world.
 
 ### [MeshCentral](https://meshcentral.com)
 
-Found in 2 active sources
+Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
-Run your own web server to remotely manage and control computers on a local network or anywhere on the internet. () Apache-2.0 Nodejs
+Run your own web server to remotely manage and control computers on a local network or anywhere on the internet. Apache-2.0 Nodejs
 
 > **AI analysis:** Suite de remote management (RDP/SSH/terminal) via web. Node.js + Apache-2.0. Alternativa moderna a TeamViewer/AnyDesk self-hosted. Resuelve problema real pero vendor lock-in al stack Node.
 
@@ -499,7 +499,7 @@ Run your own web server to remotely manage and control computers on a local netw
 
 ### [MyIP](https://github.com/jason5ng32/myip)
 
-![](https://img.shields.io/github/stars/jason5ng32/myip?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/jason5ng32/myip?style=flat-square&label=⭐) · Found in 1 active source: veggiemonk/awesome-docker
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -515,7 +515,7 @@ All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS
 
 ### [netdata/netdata#Netdata](https://github.com/netdata/netdata)
 
-![](https://img.shields.io/github/stars/netdata/netdata?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/netdata/netdata?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, punkpeye/awesome-mcp-servers
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -531,7 +531,7 @@ All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS
 
 ### [Nextcloud](https://nextcloud.com)
 
-Found in 2 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -547,7 +547,7 @@ Access and share your files, calendars, contacts, mail and more from any device,
 
 ### [nwiizo/tfmcp](https://github.com/nwiizo/tfmcp)
 
-![](https://img.shields.io/github/stars/nwiizo/tfmcp?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/nwiizo/tfmcp?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, punkpeye/awesome-mcp-servers
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -563,7 +563,7 @@ Access and share your files, calendars, contacts, mail and more from any device,
 
 ### [orhun/rustypaste](https://github.com/orhun/rustypaste)
 
-![](https://img.shields.io/github/stars/orhun/rustypaste?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/orhun/rustypaste?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -579,11 +579,11 @@ A minimal file upload/pastebin service
 
 ### [Outline Server](https://getoutline.org)
 
-Found in 2 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-A proxy server that runs a Shadowsocks instance for each access key and a REST API to manage the access keys. () Apache-2.0 Docker/Nodejs
+A proxy server that runs a Shadowsocks instance for each access key and a REST API to manage the access keys. Apache-2.0 Docker/Nodejs
 
 > **AI analysis:** Servidor proxy Shadowsocks self-hosted moderno. REST API para gestión keys. Docker/Node. Alternativa abierta a VPN comerciales. Admin cómodo pero requiere ops skills.
 
@@ -595,7 +595,7 @@ A proxy server that runs a Shadowsocks instance for each access key and a REST A
 
 ### [oxker](https://github.com/mrjackwills/oxker)
 
-![](https://img.shields.io/github/stars/mrjackwills/oxker?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/mrjackwills/oxker?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -611,7 +611,7 @@ A simple tui to view & control docker containers. Written in Rust, making heavy 
 
 ### [pm2](https://github.com/unitech/pm2)
 
-![](https://img.shields.io/github/stars/unitech/pm2?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/unitech/pm2?style=flat-square&label=⭐) · Found in 1 active source: agarrharr/awesome-cli-apps
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -627,11 +627,11 @@ Production Process Manager for Node.js.
 
 ### [Pomerium](https://pomerium.io)
 
-Found in 2 active sources
+Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
-Identity-aware reverse proxy, successor to now obsolete oauthproxy. It inserts an OAuth step before proxying your request to the backend, so that you can safely expose your self-hosted websites to public Internet. () Apache-2.0 Go/Docker
+Identity-aware reverse proxy, successor to now obsolete oauthproxy. It inserts an OAuth step before proxying your request to the backend, so that you can safely expose your self-hosted websites to public Internet. Apache-2.0 Go/Docker
 
 > **AI analysis:** Reverse proxy con OAuth/identity-aware routing. Simplifica exposición segura de internals. Go-based, Docker-ready. Sucesor de oauth_proxy abandonado.
 
@@ -643,11 +643,11 @@ Identity-aware reverse proxy, successor to now obsolete oauthproxy. It inserts a
 
 ### [Prefect Core](https://github.com/prefecthq/prefect)
 
-![](https://img.shields.io/github/stars/prefecthq/prefect?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/prefecthq/prefect?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-- Workflow management system that makes it easy to take your data pipelines and add semantics like retries, logging, dynamic mapping, caching, failure notifications, and more.
+Workflow management system that makes it easy to take your data pipelines and add semantics like retries, logging, dynamic mapping, caching, failure notifications, and more.
 
 > **AI analysis:** Orquestador de workflows con abstracciones para retry, caching, logging. Alternativa a Airflow menos pesada. Resuelve problema: ejecutar DAGs complejos con resiliencia sin montar infraestructura pesada.
 
@@ -659,11 +659,11 @@ Identity-aware reverse proxy, successor to now obsolete oauthproxy. It inserts a
 
 ### [Prometheus](https://prometheus.io)
 
-Found in 2 active sources
+Found in 1 active source: veggiemonk/awesome-docker
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-Service monitoring system and time series database. () Apache-2.0 Go
+Service monitoring system and time series database. Apache-2.0 Go
 
 > **AI analysis:** Time-series database y monitoring system open-source escrito en Go. No exclusivo Docker pero standard para containerized envs. TSDB + alerting combina.
 
@@ -675,7 +675,7 @@ Service monitoring system and time series database. () Apache-2.0 Go
 
 ### [QEMU](https://qemu.org)
 
-Found in 2 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -691,7 +691,7 @@ A free and open-source emulator and virtualizer that can perform hardware virtua
 
 ### [ryot](https://github.com/ignisda/ryot)
 
-![](https://img.shields.io/github/stars/ignisda/ryot?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/ignisda/ryot?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -707,7 +707,7 @@ Track various facets of your life media, fitness, etc. (Demo) GPL-3.0 Docker
 
 ### [s5cmd](https://github.com/peak/s5cmd)
 
-![](https://img.shields.io/github/stars/peak/s5cmd?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/peak/s5cmd?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -723,11 +723,11 @@ Blazing fast S3 and local filesystem execution tool.
 
 ### [SaltStack](https://github.com/saltstack/salt)
 
-![](https://img.shields.io/github/stars/saltstack/salt?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/saltstack/salt?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-<br Software to automate the management and configuration of any infrastructure or application at scale.
+Software to automate the management and configuration of any infrastructure or application at scale.
 
 > **AI analysis:** Orquestación y config management en escala. Alternativa a Ansible, más compleja pero poderosa. Estándar en DevOps empresarial.
 
@@ -739,7 +739,7 @@ Blazing fast S3 and local filesystem execution tool.
 
 ### [scapy](https://github.com/secdev/scapy)
 
-![](https://img.shields.io/github/stars/secdev/scapy?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/secdev/scapy?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -755,7 +755,7 @@ Python-based interactive packet manipulation program and library.
 
 ### [Semaphore CI](https://semaphore.io)
 
-Found in 2 active sources
+Found in 1 active source: veggiemonk/awesome-docker
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -771,7 +771,7 @@ yen: — A high-performance cloud solution that makes it easy to build, test and
 
 ### [SinTan1729/Chhoto URL](https://github.com/sintan1729/chhoto-url)
 
-![](https://img.shields.io/github/stars/sintan1729/chhoto-url?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/sintan1729/chhoto-url?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -787,7 +787,7 @@ A simple, blazingly fast, selfhosted URL shortener with no unnecessary features.
 
 ### [sshuttle](https://github.com/sshuttle/sshuttle)
 
-![](https://img.shields.io/github/stars/sshuttle/sshuttle?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/sshuttle/sshuttle?style=flat-square&label=⭐) · Found in 1 active source: agarrharr/awesome-cli-apps
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -803,7 +803,7 @@ Transparent proxy server that works as a poor man's VPN.
 
 ### [Træfɪk](https://github.com/containous/traefik)
 
-![](https://img.shields.io/github/stars/containous/traefik?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/containous/traefik?style=flat-square&label=⭐) · Found in 1 active source: veggiemonk/awesome-docker
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 

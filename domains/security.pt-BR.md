@@ -12,7 +12,7 @@ Tools with a human review label and visible caveats.
 
 ### 👤 [themis](https://github.com/cossacklabs/themis)
 
-![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · 🔥 **Found in 7 active sources**
+![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · 🔥 **Found in 4 active sources: matteocrippa/awesome-swift, akullpp/awesome-java, rust-unofficial/awesome-rust +1 more**
 
 **Review label:** Human Pick · **Caveat:** Security-sensitive tool; evaluate fit and maintenance posture before production use.
 
@@ -35,7 +35,7 @@ Automated candidates with source signal; these are not human endorsements yet.
 
 ### [Agentic Radar](https://github.com/splx-ai/agentic-radar)
 
-![](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -51,7 +51,7 @@ Open-source CLI security scanner for agentic workflows. Scans your workflow’s 
 
 ### [Apache Shiro](https://shiro.apache.org)
 
-Found in 2 active sources
+Found in 1 active source: akullpp/awesome-java
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -67,9 +67,9 @@ Performs authentication, authorization, cryptography and session management.
 
 ### [Botan](https://botan.randombit.net)
 
-Found in 2 active sources
+Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
 Cryptography library written in C++20.
 
@@ -83,7 +83,7 @@ Cryptography library written in C++20.
 
 ### [Bouncy Castle](https://bouncycastle.org/java.html)
 
-Found in 2 active sources
+Found in 1 active source: akullpp/awesome-java
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -99,7 +99,7 @@ All-purpose cryptographic library and JCA provider offering a wide range of func
 
 ### [Brave](https://brave.com)
 
-Found in 2 active sources
+Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -115,7 +115,7 @@ Web browser with an emphasis on privacy and speed. (https://github.com/brave/bra
 
 ### [briansmith/ring](https://github.com/briansmith/ring)
 
-![](https://img.shields.io/github/stars/briansmith/ring?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/briansmith/ring?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -131,9 +131,9 @@ Safe, fast, small crypto using Rust and BoringSSL's cryptography primitives.
 
 ### [Crypto++](https://github.com/weidai11/cryptopp)
 
-![](https://img.shields.io/github/stars/weidai11/cryptopp?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/weidai11/cryptopp?style=flat-square&label=⭐) · Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
 A free C++ class library of cryptographic schemes. [Boost]
 
@@ -147,7 +147,7 @@ A free C++ class library of cryptographic schemes. [Boost]
 
 ### [Cryptomator](https://cryptomator.org)
 
-Found in 2 active sources
+Found in 2 active sources: akullpp/awesome-java, jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -163,7 +163,7 @@ Multi-platform transparent client-side encryption of your files in the cloud.
 
 ### [CryptoSwift](https://github.com/krzyzanowskim/cryptoswift)
 
-![](https://img.shields.io/github/stars/krzyzanowskim/cryptoswift?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/krzyzanowskim/cryptoswift?style=flat-square&label=⭐) · Found in 1 active source: matteocrippa/awesome-swift
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -179,7 +179,7 @@ Crypto related functions and helpers for Swift implemented in Swift programming 
 
 ### [DNSDumpster](https://dnsdumpster.com)
 
-Found in 2 active sources
+Found in 1 active source: jivoi/awesome-osint
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -195,7 +195,7 @@ is a that will help you discover hosts related to a specific domain.
 
 ### [Element](https://element.io)
 
-Found in 2 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -211,11 +211,11 @@ Create, share communicate. Chat and call securely.
 
 ### [Firezone](https://firezone.dev)
 
-Found in 2 active sources
+Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
-Secure remote access gateway that supports the WireGuard protocol. It offers a Web GUI, 1-line install script, multi-factor auth (MFA), and SSO. () Apache-2.0 Elixir/Docker
+Secure remote access gateway that supports the WireGuard protocol. It offers a Web GUI, 1-line install script, multi-factor auth (MFA), and SSO. Apache-2.0 Elixir/Docker
 
 > **Análise IA:** VPN/secure gateway moderno con WireGuard, MFA, SSO. Elixir + Docker. Alternativa legítima a OpenVPN/traditional VPN si necesitás remote access corporativo self-hosted con polish moderno.
 
@@ -227,7 +227,7 @@ Secure remote access gateway that supports the WireGuard protocol. It offers a W
 
 ### [Google Hacking Database (GHDB)](https://exploit-db.com/google-hacking-database)
 
-Found in 2 active sources
+Found in 1 active source: jivoi/awesome-osint
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -243,9 +243,9 @@ The GHDB is an index of search queries (we call them dorks) used to find publicl
 
 ### [gpg](https://gnupg.org)
 
-Found in 2 active sources
+Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
 Complete and free implementation of the OpenPGP standard. It allows to encrypt and sign your data and communication, features a versatile key management system. GnuPG is a command line tool with features for easy integration with other applications.
 
@@ -259,7 +259,7 @@ Complete and free implementation of the OpenPGP standard. It allows to encrypt a
 
 ### [hashes](https://github.com/rustcrypto/hashes)
 
-![](https://img.shields.io/github/stars/rustcrypto/hashes?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/rustcrypto/hashes?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -275,7 +275,7 @@ Collection of cryptographic hash functions written in pure Rust.
 
 ### [Hunter.io](https://hunter.io)
 
-Found in 2 active sources
+Found in 1 active source: jivoi/awesome-osint
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -291,7 +291,7 @@ Data broker providing a Web search interface for discovering the email addresses
 
 ### [I2P](https://geti2p.net)
 
-Found in 2 active sources
+Found in 1 active source: jivoi/awesome-osint
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -307,7 +307,7 @@ The Invisible Internet Project.
 
 ### [Keybase](https://keybase.io)
 
-Found in 2 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -323,11 +323,11 @@ Secure groups, files, and chat for everyone! (https://github.com/keybase)
 
 ### [KeyCloak](https://keycloak.org)
 
-Found in 2 active sources
+Found in 1 active source: akullpp/awesome-java
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-Open Source Identity and Access Management. () Apache-2.0 Java
+Open Source Identity and Access Management. Apache-2.0 Java
 
 > **Análise IA:** Keycloak es un IAM open-source maduro basado en estándares (OAuth2, OIDC, SAML). Resuelve autenticación/autorización en aplicaciones empresariales. Comunidad activa, pero requiere Java y DevOps experiente.
 
@@ -339,7 +339,7 @@ Open Source Identity and Access Management. () Apache-2.0 Java
 
 ### [kpcyrd/authoscope](https://github.com/kpcyrd/authoscope)
 
-![](https://img.shields.io/github/stars/kpcyrd/authoscope?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/kpcyrd/authoscope?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -355,7 +355,7 @@ A scriptable network authentication cracker
 
 ### [kpcyrd/sniffglue](https://github.com/kpcyrd/sniffglue)
 
-![](https://img.shields.io/github/stars/kpcyrd/sniffglue?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/kpcyrd/sniffglue?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -371,7 +371,7 @@ A secure multithreaded packet sniffer
 
 ### [LibreWolf](https://librewolf.net)
 
-Found in 2 active sources
+Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -387,9 +387,9 @@ A fork of Firefox, focused on privacy, security and freedom. (https://gitlab.com
 
 ### [libsodium](https://github.com/jedisct1/libsodium)
 
-![](https://img.shields.io/github/stars/jedisct1/libsodium?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/jedisct1/libsodium?style=flat-square&label=⭐) · Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
 P(ortable ackageable) NaCl-based crypto library, opinionated and easy to use. [ISC]
 
@@ -403,7 +403,7 @@ P(ortable ackageable) NaCl-based crypto library, opinionated and easy to use. [I
 
 ### [Lynis](https://cisofy.com/lynis)
 
-Found in 2 active sources
+Found in 1 active source: veggiemonk/awesome-docker
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -419,7 +419,7 @@ Auditing tool for UNIX-based systems.
 
 ### [Maltego](https://maltego.com)
 
-Found in 2 active sources
+Found in 1 active source: jivoi/awesome-osint
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -435,7 +435,7 @@ Maltego is an open source intelligence (OSINT) and graphical link analysis tool 
 
 ### [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub)
 
-![](https://img.shields.io/github/stars/mariocandela/beelzebub?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/mariocandela/beelzebub?style=flat-square&label=⭐) · Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -451,11 +451,11 @@ Maltego is an open source intelligence (OSINT) and graphical link analysis tool 
 
 ### [mavdol/capsule/mcp-server](https://github.com/mavdol/capsule)
 
-![](https://img.shields.io/github/stars/mavdol/capsule?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/mavdol/capsule?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, punkpeye/awesome-mcp-servers
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-](https://glama.ai/mcp/servers/mavdol/capsule-mcp-server) 🦀 🏠 🍎 🪟 🐧 Run untrusted Python/JavaScript code in WebAssembly sandboxes.
+🦀 🏠 🍎 🪟 🐧 Run untrusted Python/JavaScript code in WebAssembly sandboxes.
 
 > **Análise IA:** MCP server que ejecuta código Python/JavaScript untrusted en sandboxes WebAssembly. Previene exploits de agentes maliciosos. Para AI safety critical.
 
@@ -467,11 +467,11 @@ Maltego is an open source intelligence (OSINT) and graphical link analysis tool 
 
 ### [Ockam](https://github.com/ockam-network/ockam)
 
-![](https://img.shields.io/github/stars/ockam-network/ockam?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/ockam-network/ockam?style=flat-square&label=⭐) · Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
-<br End-to-end encryption and mutual authentication for distributed applications.
+End-to-end encryption and mutual authentication for distributed applications.
 
 > **Análise IA:** Toolkit para encriptación e2e y autenticación mutua en apps distribuidas. Resuelve confianza en arquitecturas mesh/zero-trust reales.
 
@@ -483,9 +483,9 @@ Maltego is an open source intelligence (OSINT) and graphical link analysis tool 
 
 ### [OpenSSL](https://github.com/openssl/openssl)
 
-![](https://img.shields.io/github/stars/openssl/openssl?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/openssl/openssl?style=flat-square&label=⭐) · Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
 A robust, commercial-grade, full-featured, and Open Source cryptography library. [Apache]
 
@@ -499,7 +499,7 @@ A robust, commercial-grade, full-featured, and Open Source cryptography library.
 
 ### [orion-rs/orion](https://github.com/orion-rs/orion)
 
-![](https://img.shields.io/github/stars/orion-rs/orion?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/orion-rs/orion?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -515,7 +515,7 @@ This library aims to provide easy and usable crypto. 'Usable' meaning exposing h
 
 ### [paaster](https://paaster.io)
 
-Found in 2 active sources
+Found in 1 active source: jivoi/awesome-osint
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -531,11 +531,11 @@ Paaster is a secure and user-friendly pastebin application that prioritizes priv
 
 ### [Promptfoo](https://github.com/promptfoo/promptfoo)
 
-![](https://img.shields.io/github/stars/promptfoo/promptfoo?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/promptfoo/promptfoo?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-- LLM red teaming and evaluation framework for testing jailbreaks, prompt injection, and other vulnerabilities with CI/CD integration.
+LLM red teaming and evaluation framework for testing jailbreaks, prompt injection, and other vulnerabilities with CI/CD integration.
 
 > **Análise IA:** Framework para testear LLMs contra injection, jailbreaks y vulnerabilidades. Red teaming automatizado con CI/CD. Necesario si desplegás LLMs en producción y querés seguridad serio.
 
@@ -547,7 +547,7 @@ Paaster is a secure and user-friendly pastebin application that prioritizes priv
 
 ### [pynacl](https://github.com/pyca/pynacl)
 
-![](https://img.shields.io/github/stars/pyca/pynacl?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/pyca/pynacl?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -563,7 +563,7 @@ Python binding to the Networking and Cryptography (NaCl) library.
 
 ### [rage](https://github.com/str4d/rage)
 
-![](https://img.shields.io/github/stars/str4d/rage?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/str4d/rage?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -579,7 +579,7 @@ is a simple, modern, and secure file encryption tool, using the age format.
 
 ### [Redlib](https://github.com/redlib-org/redlib)
 
-![](https://img.shields.io/github/stars/redlib-org/redlib?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/redlib-org/redlib?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -595,7 +595,7 @@ An alternative private front-end to Reddit, with its origins in Libreddit
 
 ### [rshijack](https://github.com/kpcyrd/rshijack)
 
-![](https://img.shields.io/github/stars/kpcyrd/rshijack?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/kpcyrd/rshijack?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -611,9 +611,9 @@ TCP connection hijacker, Rust rewrite of shijack.
 
 ### [s2n](https://github.com/awslabs/s2n)
 
-![](https://img.shields.io/github/stars/awslabs/s2n?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/awslabs/s2n?style=flat-square&label=⭐) · Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
 An implementation of the TLS/SSL protocols. [Apache]
 
@@ -627,7 +627,7 @@ An implementation of the TLS/SSL protocols. [Apache]
 
 ### [safedep/vet](https://github.com/safedep/vet)
 
-![](https://img.shields.io/github/stars/safedep/vet?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/safedep/vet?style=flat-square&label=⭐) · Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -643,7 +643,7 @@ An implementation of the TLS/SSL protocols. [Apache]
 
 ### [SecLists](https://github.com/danielmiessler/seclists)
 
-![](https://img.shields.io/github/stars/danielmiessler/seclists?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/danielmiessler/seclists?style=flat-square&label=⭐) · Found in 1 active source: jivoi/awesome-osint
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -659,7 +659,7 @@ Collection of multiple types of lists used during security assessments.
 
 ### [sherlock](https://github.com/sherlock-project/sherlock)
 
-![](https://img.shields.io/github/stars/sherlock-project/sherlock?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/sherlock-project/sherlock?style=flat-square&label=⭐) · Found in 2 active sources: jivoi/awesome-osint, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -675,7 +675,7 @@ Hunt down social media accounts by username across social networks.
 
 ### [Shodan](https://shodan.io)
 
-Found in 2 active sources
+Found in 1 active source: jivoi/awesome-osint
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -691,9 +691,9 @@ Shodan is a search engine for the IOT(Internet of Things) that allows you to sea
 
 ### [Social Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit)
 
-![](https://img.shields.io/github/stars/trustedsec/social-engineer-toolkit?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/trustedsec/social-engineer-toolkit?style=flat-square&label=⭐) · Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
 Open source pentesting framework designed for social engineering featuring a number of custom attack vectors to make believable attacks quickly.
 
@@ -707,7 +707,7 @@ Open source pentesting framework designed for social engineering featuring a num
 
 ### [SpiderFoot](https://spiderfoot.net)
 
-Found in 2 active sources
+Found in 1 active source: jivoi/awesome-osint
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -723,7 +723,7 @@ SpiderFoot is an open source intelligence (OSINT) automation platform with over 
 
 ### [SQLMap](https://github.com/sqlmapproject/sqlmap)
 
-![](https://img.shields.io/github/stars/sqlmapproject/sqlmap?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/sqlmapproject/sqlmap?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -739,7 +739,7 @@ An automatic SQL injection and database takeover tool.
 
 ### [ssh-vault](https://github.com/ssh-vault/ssh-vault)
 
-![](https://img.shields.io/github/stars/ssh-vault/ssh-vault?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/ssh-vault/ssh-vault?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -755,7 +755,7 @@ A simple tool to manage secrets using ssh keys for encryption and decryption.
 
 ### [Swift-Sodium](https://github.com/jedisct1/swift-sodium)
 
-![](https://img.shields.io/github/stars/jedisct1/swift-sodium?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/jedisct1/swift-sodium?style=flat-square&label=⭐) · Found in 1 active source: matteocrippa/awesome-swift
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -771,7 +771,7 @@ Swift interface to the Sodium library for common crypto operations for iOS and m
 
 ### [Syft](https://github.com/anchore/syft)
 
-![](https://img.shields.io/github/stars/anchore/syft?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/anchore/syft?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -787,7 +787,7 @@ CLI tool and library for generating a Software Bill of Materials (SBOM) from con
 
 ### [Tails](https://tails.boum.org)
 
-Found in 2 active sources
+Found in 1 active source: jivoi/awesome-osint
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -803,7 +803,7 @@ Live operating system aiming to preserve your privacy and anonymity.
 
 ### [The Harvester](https://github.com/laramies/theharvester)
 
-![](https://img.shields.io/github/stars/laramies/theharvester?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/laramies/theharvester?style=flat-square&label=⭐) · Found in 1 active source: jivoi/awesome-osint
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -819,7 +819,7 @@ Gather emails, subdomains, hosts, employee names, open ports and banners from di
 
 ### [Tink](https://github.com/google/tink)
 
-![](https://img.shields.io/github/stars/google/tink?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/google/tink?style=flat-square&label=⭐) · Found in 1 active source: akullpp/awesome-java
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -835,7 +835,7 @@ A multi-language, cross-platform library that provides cryptographic APIs that a
 
 ### [Tor](https://torproject.org)
 
-Found in 2 active sources
+Found in 1 active source: jivoi/awesome-osint
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -851,9 +851,9 @@ Free software and onion routed overlay network that helps you defend against tra
 
 ### [Trail of Bits Security Skills](https://github.com/trailofbits/skills)
 
-![](https://img.shields.io/github/stars/trailofbits/skills?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/trailofbits/skills?style=flat-square&label=⭐) · Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
 by Trail of Bits A very professional collection of over a dozen security-focused skills for code auditing and vulnerability detection. Includes skills for static analysis with CodeQL and Semgrep, variant analysis across codebases, fix verification, and differential code review.
 
@@ -867,11 +867,11 @@ by Trail of Bits A very professional collection of over a dozen security-focused
 
 ### [vaultwarden](https://github.com/dani-garcia/vaultwarden)
 
-![](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-](https://github.com/dani-garcia/vaultwarden/actions/workflows/build.yml) Alternative implementation of the Bitwarden server API written in Rust
+Alternative implementation of the Bitwarden server API written in Rust
 
 > **Análise IA:** Clone de Bitwarden API escrito en Rust. Para self-hosters que desconfían de cloud o necesitan auditabilidad. Funciona bien, mantención activa, alternativa seria a Bitwarden.
 
@@ -883,7 +883,7 @@ by Trail of Bits A very professional collection of over a dozen security-focused
 
 ### [Virus Total](https://virustotal.com)
 
-Found in 2 active sources
+Found in 1 active source: jivoi/awesome-osint
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -899,7 +899,7 @@ Free service that analyzes suspicious files and URLs and facilitates the quick d
 
 ### [webpki](https://github.com/briansmith/webpki)
 
-![](https://img.shields.io/github/stars/briansmith/webpki?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/briansmith/webpki?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -915,7 +915,7 @@ Web PKI TLS X.509 certificate validation in Rust.
 
 ### [WiGLE](https://wigle.net)
 
-Found in 2 active sources
+Found in 1 active source: jivoi/awesome-osint
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -931,9 +931,9 @@ Wi-fi "wardriving" database. Contains a global map containing crowdsourced infor
 
 ### [x64dbg](https://x64dbg.com)
 
-Found in 2 active sources
+Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
 An open-source x64/x32 debugger for windows.
 

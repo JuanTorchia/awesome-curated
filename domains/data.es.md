@@ -15,11 +15,11 @@ Automated candidates with source signal; these are not human endorsements yet.
 
 ### [gradio](https://github.com/gradio-app/gradio)
 
-![](https://img.shields.io/github/stars/gradio-app/gradio?style=flat-square&label=⭐) · Found in 3 active sources
+![](https://img.shields.io/github/stars/gradio-app/gradio?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-- Quickly create and share demos of models by only writing Python. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
+Quickly create and share demos of models by only writing Python. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
 
 > **Análisis IA:** Generador de UIs web minimalista para modelos Python. Creas demo funcional en 10 líneas. Resuelve el problema: demo rápida sin HTML/JS. Excelente para prototipos y sharing.
 
@@ -31,7 +31,7 @@ Automated candidates with source signal; these are not human endorsements yet.
 
 ### [High Charts](https://highcharts.com)
 
-Found in 3 active sources
+Found in 1 active source: josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -47,11 +47,11 @@ Found in 3 active sources
 
 ### [matplotlib](https://github.com/matplotlib/matplotlib)
 
-![](https://img.shields.io/github/stars/matplotlib/matplotlib?style=flat-square&label=⭐) · Found in 3 active sources
+![](https://img.shields.io/github/stars/matplotlib/matplotlib?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-- A Python 2D plotting library which produces publication-quality figures in a variety of hardcopy formats and interactive environments across platforms.
+A Python 2D plotting library which produces publication-quality figures in a variety of hardcopy formats and interactive environments across platforms.
 
 > **Análisis IA:** Python lib para feature engineering: transformers para limpieza, encoding, scaling. Para ML engineers que automatizan feature prep. Resuelve bien: FE repetitivo sin código custom.
 
@@ -63,9 +63,9 @@ Found in 3 active sources
 
 ### [recharts](https://github.com/recharts/recharts)
 
-![](https://img.shields.io/github/stars/recharts/recharts?style=flat-square&label=⭐) · Found in 3 active sources
+![](https://img.shields.io/github/stars/recharts/recharts?style=flat-square&label=⭐) · Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
 Redefined chart library built with React and D3.
 
@@ -79,11 +79,11 @@ Redefined chart library built with React and D3.
 
 ### [Streamlit](https://github.com/streamlit/streamlit)
 
-![](https://img.shields.io/github/stars/streamlit/streamlit?style=flat-square&label=⭐) · Found in 3 active sources
+![](https://img.shields.io/github/stars/streamlit/streamlit?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-- Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts. It supports hot-reloading, so your app updates live as you edit and save your file.
+Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts. It supports hot-reloading, so your app updates live as you edit and save your file.
 
 > **Análisis IA:** Framework Python para deployar ML apps sin frontend expertise. Hot-reload y state management builtin. Real para prototipado rápido, pero no escala a aplicaciones complejas.
 
@@ -95,11 +95,11 @@ Redefined chart library built with React and D3.
 
 ### [ActiveMQ](https://activemq.apache.org)
 
-Found in 2 active sources
+Found in 1 active source: akullpp/awesome-java
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-Java message broker. () Apache-2.0 Java
+Java message broker. Apache-2.0 Java
 
 > **Análisis IA:** Message broker Java Apache OpenSource. Estándar para async messaging, queuing, pub-sub en arquitecturas Java enterprise.
 
@@ -111,11 +111,11 @@ Java message broker. () Apache-2.0 Java
 
 ### [AI Job Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker)
 
-![](https://img.shields.io/github/stars/noahaust2/ai-displacement-tracker?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/noahaust2/ai-displacement-tracker?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-- Structured, source-backed dataset tracking 96 AI-attributed workforce reductions (457K workers affected, 13 countries, 13 sectors). Every entry includes source URLs, attribution tier, and job functions.
+Structured, source-backed dataset tracking 96 AI-attributed workforce reductions (457K workers affected, 13 countries, 13 sectors). Every entry includes source URLs, attribution tier, and job functions.
 
 > **Análisis IA:** Dataset estructurado de 96 reducciones de workforce atribuidas a IA (457K workers, 13 países). Útil para investigadores y policy makers que necesitan datos verificados sobre desplazamiento laboral. Resuelve la falta de fuentes confiables en un tema polémico.
 
@@ -127,11 +127,11 @@ Java message broker. () Apache-2.0 Java
 
 ### [ajitpratap0/GoSQLX](https://github.com/ajitpratap0/gosqlx)
 
-![](https://img.shields.io/github/stars/ajitpratap0/gosqlx?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/ajitpratap0/gosqlx?style=flat-square&label=⭐) · Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-](https://glama.ai/mcp/servers/ajitpratap0/GoSQLX) 🏎️ ☁️ 🏠 7 SQL tools (validate, format, parse, lint, security scan, metadata extraction, full analysis) over Streamable HTTP. Public remote server at mcp.gosqlx.dev no install needed. 1.25M+ ops/sec, 6 SQL dialects.
+🏎️ ☁️ 🏠 7 SQL tools (validate, format, parse, lint, security scan, metadata extraction, full analysis) over Streamable HTTP. Public remote server at mcp.gosqlx.dev no install needed. 1.25M+ ops/sec, 6 SQL dialects.
 
 > **Análisis IA:** 7 herramientas SQL vía HTTP: validar, formatear, parsear, lintear, security scan. Performance alto (1.25M+ ops/sec), 6 dialectos. Public remote o self-hosted. Resuelve problema real para equipos que procesan SQL.
 
@@ -143,7 +143,7 @@ Java message broker. () Apache-2.0 Java
 
 ### [Aleph](https://aleph.occrp.org)
 
-Found in 2 active sources
+Found in 1 active source: jivoi/awesome-osint
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -159,7 +159,7 @@ Tool for indexing large amounts of both documents (PDF, Word, HTML) and structur
 
 ### [Another Redis Desktop Manager](https://github.com/qishibo/anotherredisdesktopmanager)
 
-![](https://img.shields.io/github/stars/qishibo/anotherredisdesktopmanager?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/qishibo/anotherredisdesktopmanager?style=flat-square&label=⭐) · Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -175,11 +175,11 @@ A faster, better and more stable redis desktop manager [GUI client], compatible 
 
 ### [Apache Airflow](https://github.com/apache/airflow)
 
-![](https://img.shields.io/github/stars/apache/airflow?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/apache/airflow?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-- Data Pipeline framework built in Python, including scheduler, DAG definition and a UI for visualisation.
+Data Pipeline framework built in Python, including scheduler, DAG definition and a UI for visualisation.
 
 > **Análisis IA:** Framework Python para orquestar pipelines de datos con DAGs, scheduler y UI. Estándar en la industria para ETL a escala. Resuelve el problema real de coordinar tareas complejas con dependencias.
 
@@ -191,11 +191,11 @@ A faster, better and more stable redis desktop manager [GUI client], compatible 
 
 ### [Apache ECharts](https://github.com/apache/echarts)
 
-![](https://img.shields.io/github/stars/apache/echarts?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/apache/echarts?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-- Apache ECharts is a powerful, interactive charting and data visualization library for browser.
+Apache ECharts is a powerful, interactive charting and data visualization library for browser.
 
 > **Análisis IA:** Librería Apache de visualización interactiva en browser. 50K+ stars, soporte enterprise. Estándar para dashboards, reportes y análisis de datos complejos.
 
@@ -207,11 +207,11 @@ A faster, better and more stable redis desktop manager [GUI client], compatible 
 
 ### [Apache Ignite](https://github.com/apache/ignite)
 
-![](https://img.shields.io/github/stars/apache/ignite?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/apache/ignite?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-- A memory-centric distributed database, caching, and processing platform for transactional, analytical, and streaming workloads delivering in-memory speeds at petabyte scale Demo.
+A memory-centric distributed database, caching, and processing platform for transactional, analytical, and streaming workloads delivering in-memory speeds at petabyte scale Demo.
 
 > **Análisis IA:** Plataforma distribuida en-memoria para transaccional + analytics + streaming a escala petabyte. Para infraestructuras críticas que necesitan velocidad subsecond y alta disponibilidad.
 
@@ -223,11 +223,11 @@ A faster, better and more stable redis desktop manager [GUI client], compatible 
 
 ### [Apache Solr](https://lucene.apache.org/solr)
 
-Found in 2 active sources
+Found in 1 active source: akullpp/awesome-java
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-Enterprise search platform featuring full-text search, hit highlighting, faceted search, real-time indexing, dynamic clustering, and rich document (e.g., Word, PDF) handling. () Apache-2.0 Java/Docker/K8S
+Enterprise search platform featuring full-text search, hit highlighting, faceted search, real-time indexing, dynamic clustering, and rich document (e.g., Word, PDF) handling. Apache-2.0 Java/Docker/K8S
 
 > **Análisis IA:** Search engine empresarial con full-text, facets, clustering. Alternativa a Elasticsearch. Maduro, en producción desde hace años. Para quien necesita search robusto sin nube.
 
@@ -239,7 +239,7 @@ Enterprise search platform featuring full-text search, hit highlighting, faceted
 
 ### [Bread Dataset Viewer](https://github.com/bread-technologies/mle_vscode_extension)
 
-![](https://img.shields.io/github/stars/bread-technologies/mle_vscode_extension?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/bread-technologies/mle_vscode_extension?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -255,7 +255,7 @@ A VS Code extension for viewing and exploring large machine learning datasets (C
 
 ### [C3.js](https://c3js.org)
 
-Found in 2 active sources
+Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -271,7 +271,7 @@ customizable library based on D3.js for easy chart drawing.
 
 ### [Chart.js](https://chartjs.org)
 
-Found in 2 active sources
+Found in 1 active source: jivoi/awesome-osint
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -287,11 +287,11 @@ a javascript library that allows you to create charts easly
 
 ### [cleanlab](https://github.com/cleanlab/cleanlab)
 
-![](https://img.shields.io/github/stars/cleanlab/cleanlab?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/cleanlab/cleanlab?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-- Python library for data-centric AI. Can automatically: find mislabeled data, detect outliers, estimate consensus + annotator-quality for multi-annotator datasets, suggest which data is best to (re)label next.
+Python library for data-centric AI. Can automatically: find mislabeled data, detect outliers, estimate consensus + annotator-quality for multi-annotator datasets, suggest which data is best to (re)label next.
 
 > **Análisis IA:** Librería Python data-centric que identifica datos mislabeled, outliers y estima calidad de anotadores. Core real para ML en producción: encuentra problemas en datos antes que en modelos.
 
@@ -303,7 +303,7 @@ a javascript library that allows you to create charts easly
 
 ### [csvkit](https://github.com/wireservice/csvkit)
 
-![](https://img.shields.io/github/stars/wireservice/csvkit?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/wireservice/csvkit?style=flat-square&label=⭐) · Found in 2 active sources: jivoi/awesome-osint, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -319,11 +319,11 @@ Utilities for converting to and working with CSV.
 
 ### [Dagster](https://github.com/dagster-io/dagster)
 
-![](https://img.shields.io/github/stars/dagster-io/dagster?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/dagster-io/dagster?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-- A data orchestrator for machine learning, analytics, and ETL.
+A data orchestrator for machine learning, analytics, and ETL.
 
 > **Análisis IA:** Orquestador moderno de data pipelines con assets y sensores. Diseñado para ML/analytics. Propone model asset-driven sobre DAGs tradicionales, con mejor DX que Airflow.
 
@@ -335,7 +335,7 @@ Utilities for converting to and working with CSV.
 
 ### [dasel](https://github.com/tomwright/dasel)
 
-![](https://img.shields.io/github/stars/tomwright/dasel?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/tomwright/dasel?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -351,11 +351,11 @@ Query and update data structures using selectors from the command line. Comparab
 
 ### [Dask](https://github.com/dask/dask)
 
-![](https://img.shields.io/github/stars/dask/dask?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/dask/dask?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-- Distributed parallel processing framework for Pandas and NumPy computations.
+Distributed parallel processing framework for Pandas and NumPy computations.
 
 > **Análisis IA:** Framework paralelo distribuido para Pandas/NumPy. Escala cálculos sin reescribir código. Para data science que supera memoria local.
 
@@ -367,7 +367,7 @@ Query and update data structures using selectors from the command line. Comparab
 
 ### [DataComPy](https://github.com/capitalone/datacompy)
 
-![](https://img.shields.io/github/stars/capitalone/datacompy?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/capitalone/datacompy?style=flat-square&label=⭐) · Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -383,7 +383,7 @@ A library to compare Pandas, Polars, and Spark data frames. It provides stats an
 
 ### [DataFrames](https://github.com/juliadata/dataframes.jl)
 
-![](https://img.shields.io/github/stars/juliadata/dataframes.jl?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/juliadata/dataframes.jl?style=flat-square&label=⭐) · Found in 2 active sources: wilsonfreitas/awesome-quant, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -399,7 +399,7 @@ library for working with tabular data in Julia.
 
 ### [DataGrip](https://jetbrains.com/datagrip)
 
-Found in 2 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -415,7 +415,7 @@ DataGrip is a cross-platform IDE that is aimed at DBAs and developers working wi
 
 ### [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core)
 
-![](https://img.shields.io/github/stars/dbt-labs/dbt-core?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/dbt-labs/dbt-core?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, matiassingers/awesome-readme
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -431,11 +431,11 @@ Project banner, super clear description (friendly to people brand new to the pro
 
 ### [Deepnote](https://github.com/deepnote/deepnote)
 
-![](https://img.shields.io/github/stars/deepnote/deepnote?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/deepnote/deepnote?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-- Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for real-time collaboration, Deepnote agent, and deployable data apps.
+Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for real-time collaboration, Deepnote agent, and deployable data apps.
 
 > **Análisis IA:** Jupyter moderno con colaboración real-time, integraciones nativas y diseño AI-first. Para data scientists y equipos que necesitan notebooks productivos en la nube sin perder control local.
 
@@ -447,11 +447,11 @@ Project banner, super clear description (friendly to people brand new to the pro
 
 ### [Dolt](https://github.com/dolthub/dolt)
 
-![](https://img.shields.io/github/stars/dolthub/dolt?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/dolthub/dolt?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-- Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.
+Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.
 
 > **Análisis IA:** SQL database con git-like semantics (branch, merge, push). Innovador conceptualmente pero productización compleja y adopción limitada.
 
@@ -463,11 +463,11 @@ Project banner, super clear description (friendly to people brand new to the pro
 
 ### [Druid](https://druid.apache.org)
 
-Found in 2 active sources
+Found in 1 active source: akullpp/awesome-java
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-Distributed, column-oriented, real-time analytics data store. () Apache-2.0 Java/Docker
+Distributed, column-oriented, real-time analytics data store. Apache-2.0 Java/Docker
 
 > **Análisis IA:** OLAP distribuido, column-store, tiempo-real. Para analytics masivo (millones events/sec). Usado en Airbnb, Netflix. Estándar si escala es requisito.
 
@@ -479,7 +479,7 @@ Distributed, column-oriented, real-time analytics data store. () Apache-2.0 Java
 
 ### [edgartools](https://github.com/dgunning/edgartools)
 
-![](https://img.shields.io/github/stars/dgunning/edgartools?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/dgunning/edgartools?style=flat-square&label=⭐) · Found in 2 active sources: wilsonfreitas/awesome-quant, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -495,7 +495,7 @@ Python AI-native SEC EDGAR library with XBRL financials, clean text extraction, 
 
 ### [etcd](https://github.com/etcd-io/etcd)
 
-![](https://img.shields.io/github/stars/etcd-io/etcd?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/etcd-io/etcd?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -511,7 +511,7 @@ Distributed reliable key-value store for the most critical data of a distributed
 
 ### [ExifTool](https://sno.phy.queensu.ca/~phil/exiftool)
 
-Found in 2 active sources
+Found in 1 active source: jivoi/awesome-osint
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -527,7 +527,7 @@ Platform-independent Perl library plus a command-line application for reading, w
 
 ### [FlatBuffers](https://github.com/google/flatbuffers)
 
-![](https://img.shields.io/github/stars/google/flatbuffers?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/google/flatbuffers?style=flat-square&label=⭐) · Found in 1 active source: akullpp/awesome-java
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -543,7 +543,7 @@ Memory-efficient serialization library that can access serialized data without u
 
 ### [Flink](https://flink.apache.org)
 
-Found in 2 active sources
+Found in 2 active sources: akullpp/awesome-java, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -559,7 +559,7 @@ Open source platform for distributed stream and batch data processing.
 
 ### [Gephi](https://gephi.org)
 
-Found in 2 active sources
+Found in 2 active sources: jivoi/awesome-osint, academic/awesome-datascience
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -575,7 +575,7 @@ is an open-source graph and network visualization software.
 
 ### [ggplot2](https://ggplot2.tidyverse.org)
 
-Found in 2 active sources
+Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -591,11 +591,11 @@ A data visualization package based on the grammar of graphics.
 
 ### [Hamilton](https://github.com/dagworks-inc/hamilton)
 
-![](https://img.shields.io/github/stars/dagworks-inc/hamilton?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/dagworks-inc/hamilton?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-- Hamilton is a micro-orchestration framework for defining dataflows. Runs anywhere python runs (e.g. jupyter, fastAPI, spark, ray, dask). Brings software engineering best practices without you knowing it. Use it to define feature engineering transforms, end-to-end model pipelines, and LLM workflows. It complements macro-orchestration systems (e.g. kedro, luigi, airflow, dbt, etc.) as it...
+Hamilton is a micro-orchestration framework for defining dataflows. Runs anywhere python runs (e.g. jupyter, fastAPI, spark, ray, dask). Brings software engineering best practices without you knowing it. Use it to define feature engineering transforms, end-to-end model pipelines, and LLM workflows. It complements macro-orchestration systems (e.g. kedro, luigi, airflow, dbt, etc.) as it...
 
 > **Análisis IA:** Micro-orquestador para dataflows (feature eng, pipelines, LLM workflows). Python-first, corre en Jupyter/FastAPI/Spark/Ray. Resuelve problema: modularizar data transforms sin peso de DAG pesados.
 
@@ -607,7 +607,7 @@ A data visualization package based on the grammar of graphics.
 
 ### [iredis](https://github.com/laixintao/iredis)
 
-![](https://img.shields.io/github/stars/laixintao/iredis?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/laixintao/iredis?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -623,7 +623,7 @@ Redis client with autocompletion and syntax highlighting.
 
 ### [Kubo](https://github.com/ipfs/kubo)
 
-![](https://img.shields.io/github/stars/ipfs/kubo?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/ipfs/kubo?style=flat-square&label=⭐) · Found in 1 active source: avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -639,7 +639,7 @@ Implementation of IPFS, a global, versioned, peer-to-peer filesystem that seeks 
 
 ### [Mingo](https://mingo.io)
 
-Found in 2 active sources
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -655,7 +655,7 @@ Easy to use MongoDB GUI with mind-blowing features.
 
 ### [mycli](https://github.com/dbcli/mycli)
 
-![](https://img.shields.io/github/stars/dbcli/mycli?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/dbcli/mycli?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -671,11 +671,11 @@ MySQL client with autocompletion and syntax highlighting.
 
 ### [NSQ](https://nsq.io)
 
-Found in 2 active sources
+Found in 1 active source: avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-A realtime distributed messaging platform. () MPL-2.0 Go
+A realtime distributed messaging platform. MPL-2.0 Go
 
 > **Análisis IA:** Plataforma de messaging distribuido realtime. Go nativo, usado en producción pero mercado dominado por Kafka/RabbitMQ.
 
@@ -687,7 +687,7 @@ A realtime distributed messaging platform. () MPL-2.0 Go
 
 ### [numpy](https://numpy.org)
 
-Found in 2 active sources
+Found in 2 active sources: wilsonfreitas/awesome-quant, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -703,7 +703,7 @@ Python NumPy is the fundamental package for scientific computing with Python. Gi
 
 ### [OpenRefine](https://openrefine.org)
 
-Found in 2 active sources
+Found in 2 active sources: academic/awesome-datascience, akullpp/awesome-java
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -719,9 +719,9 @@ Tool for working with messy data: cleaning, transforming, extending it with web 
 
 ### [OpenStreetMap](https://openstreetmap.org)
 
-Found in 2 active sources
+Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
 Collaborative project to create a free editable map of the world. (, Clients) GPL-2.0 Ruby
 
@@ -735,11 +735,11 @@ Collaborative project to create a free editable map of the world. (, Clients) GP
 
 ### [pandas](https://github.com/pandas-dev/pandas)
 
-![](https://img.shields.io/github/stars/pandas-dev/pandas?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/pandas-dev/pandas?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-<br Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 
 > **Análisis IA:** Librería Python data manipulation estándar de la industria. Columnar, rápida, con SQL-like ops. Imprescindible en data science y análisis.
 
@@ -751,7 +751,7 @@ Collaborative project to create a free editable map of the world. (, Clients) GP
 
 ### [pathwaycom/pathway](https://github.com/pathwaycom/pathway)
 
-![](https://img.shields.io/github/stars/pathwaycom/pathway?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/pathwaycom/pathway?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -767,7 +767,7 @@ Performant open-source Python ETL framework with Rust runtime, supporting 300+ d
 
 ### [Perspective](https://github.com/finos/perspective)
 
-![](https://img.shields.io/github/stars/finos/perspective?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/finos/perspective?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, jivoi/awesome-osint
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -783,7 +783,7 @@ Streaming pivot visualization via WebAssembly.
 
 ### [pgcli](https://github.com/dbcli/pgcli)
 
-![](https://img.shields.io/github/stars/dbcli/pgcli?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/dbcli/pgcli?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -799,11 +799,11 @@ Postgres client with autocompletion and syntax highlighting.
 
 ### [Plotly](https://github.com/plotly/plotly.py)
 
-![](https://img.shields.io/github/stars/plotly/plotly.py?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/plotly/plotly.py?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-- An interactive, open source, and browser-based graphing library for Python.
+An interactive, open source, and browser-based graphing library for Python.
 
 > **Análisis IA:** Librería Python interactiva para gráficos. Web-based, responsive, soporta heatmaps, 3D, etc. Estándar en data science.
 
@@ -815,7 +815,7 @@ Postgres client with autocompletion and syntax highlighting.
 
 ### [pola-rs/polars](https://github.com/pola-rs/polars)
 
-![](https://img.shields.io/github/stars/pola-rs/polars?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/pola-rs/polars?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -831,9 +831,9 @@ Fast feature complete DataFrame library
 
 ### [pouchdb](https://github.com/pouchdb/pouchdb)
 
-![](https://img.shields.io/github/stars/pouchdb/pouchdb?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/pouchdb/pouchdb?style=flat-square&label=⭐) · Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
 Javascript db inspired by Apache CouchDB to run well within the browser.
 
@@ -847,7 +847,7 @@ Javascript db inspired by Apache CouchDB to run well within the browser.
 
 ### [protobuf](https://github.com/protocolbuffers/protobuf)
 
-![](https://img.shields.io/github/stars/protocolbuffers/protobuf?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/protocolbuffers/protobuf?style=flat-square&label=⭐) · Found in 1 active source: akullpp/awesome-java
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -863,7 +863,7 @@ Protocol Buffers Google's data interchange format. [BSD]
 
 ### [PyBroker](https://github.com/edtechre/pybroker)
 
-![](https://img.shields.io/github/stars/edtechre/pybroker?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/edtechre/pybroker?style=flat-square&label=⭐) · Found in 2 active sources: wilsonfreitas/awesome-quant, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -879,7 +879,7 @@ Python Algorithmic Trading with Machine Learning.
 
 ### [pyqtgraph](https://github.com/pyqtgraph/pyqtgraph)
 
-![](https://img.shields.io/github/stars/pyqtgraph/pyqtgraph?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/pyqtgraph/pyqtgraph?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -895,7 +895,7 @@ Interactive and realtime 2D/3D/Image plotting and science/engineering widgets.
 
 ### [QuestDB](https://github.com/questdb/questdb)
 
-![](https://img.shields.io/github/stars/questdb/questdb?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/questdb/questdb?style=flat-square&label=⭐) · Found in 1 active source: akullpp/awesome-java
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -911,11 +911,11 @@ High-performance SQL database for time series. Supports InfluxDB line protocol, 
 
 ### [ReactiveSearch](https://github.com/appbaseio/reactivesearch)
 
-![](https://img.shields.io/github/stars/appbaseio/reactivesearch?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/appbaseio/reactivesearch?style=flat-square&label=⭐) · Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
-<br A UI components library for Elasticsearch: Available for React, Vue and React Native.
+A UI components library for Elasticsearch: Available for React, Vue and React Native.
 
 > **Análisis IA:** Librería React/Vue de componentes UI para Elasticsearch. Acelera construcciones de dashboards de búsqueda. Útil en nicho específico pero no resuelve problema genérico.
 
@@ -927,11 +927,11 @@ High-performance SQL database for time series. Supports InfluxDB line protocol, 
 
 ### [Redash](https://redash.io)
 
-Found in 2 active sources
+Found in 1 active source: academic/awesome-datascience
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-Connect and query your data sources, build dashboards to visualize data and share them with your company. () BSD-2-Clause Docker
+Connect and query your data sources, build dashboards to visualize data and share them with your company. BSD-2-Clause Docker
 
 > **Análisis IA:** Dashboard open-source más ligero que Metabase. Para startups que quieren BI sin overhead. SQL-first, menos UX pero más control técnico.
 
@@ -943,7 +943,7 @@ Connect and query your data sources, build dashboards to visualize data and shar
 
 ### [Redis](https://github.com/redis/redis)
 
-![](https://img.shields.io/github/stars/redis/redis?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/redis/redis?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, matiassingers/awesome-readme
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -959,11 +959,11 @@ Redis is an open-source, in-memory data store that supports vector similarity se
 
 ### [Rerun](https://github.com/rerun-io/rerun)
 
-![](https://img.shields.io/github/stars/rerun-io/rerun?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/rerun-io/rerun?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-- Rerun is an open-source SDK for logging, storing, querying, and visualizing multimodal data, designed for robotics, computer vision, and spatial AI.
+Rerun is an open-source SDK for logging, storing, querying, and visualizing multimodal data, designed for robotics, computer vision, and spatial AI.
 
 > **Análisis IA:** SDK open-source para logging y visualización de datos multimodales en robotics y computer vision. Queries, replay y debugging de datos espaciales complejos sin infraestructura pesada.
 
@@ -975,11 +975,11 @@ Redis is an open-source, in-memory data store that supports vector similarity se
 
 ### [RisingWave](https://github.com/risingwavelabs/risingwave)
 
-![](https://img.shields.io/github/stars/risingwavelabs/risingwave?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/risingwavelabs/risingwave?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-- A distributed SQL streaming database that unifies stream processing and low-latency serving, ideal for building and serving features for online machine learning.
+A distributed SQL streaming database that unifies stream processing and low-latency serving, ideal for building and serving features for online machine learning.
 
 > **Análisis IA:** DB streaming SQL distribuida: unifica stream processing + low-latency serving. Caso de uso ML feature serving real. Rust, PostgreSQL-compatible. Productiva pero nicho (stream + feature store).
 
@@ -991,7 +991,7 @@ Redis is an open-source, in-memory data store that supports vector similarity se
 
 ### [ROOT](https://root.cern.ch)
 
-Found in 2 active sources
+Found in 1 active source: josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1007,7 +1007,7 @@ A modular scientific software framework. It provides all the functionalities nee
 
 ### [scipy](https://scipy.org)
 
-Found in 2 active sources
+Found in 2 active sources: wilsonfreitas/awesome-quant, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1023,11 +1023,11 @@ Python SciPy (pronounced “Sigh Pie”) is a Python-based ecosystem of for math
 
 ### [seaborn](https://github.com/mwaskom/seaborn)
 
-![](https://img.shields.io/github/stars/mwaskom/seaborn?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/mwaskom/seaborn?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-- Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
+Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
 
 > **Análisis IA:** Wrapper de matplotlib para gráficos estadísticos bonitos. Estándar industrial para EDA y papers. API intuitiva, integración con pandas fluida.
 
@@ -1039,7 +1039,7 @@ Python SciPy (pronounced “Sigh Pie”) is a Python-based ecosystem of for math
 
 ### [statsmodels](https://github.com/statsmodels/statsmodels)
 
-![](https://img.shields.io/github/stars/statsmodels/statsmodels?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/statsmodels/statsmodels?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1055,7 +1055,7 @@ Statistical modelling and econometrics in Python.
 
 ### [ticker](https://github.com/achannarasappa/ticker)
 
-![](https://img.shields.io/github/stars/achannarasappa/ticker?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/achannarasappa/ticker?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1071,11 +1071,11 @@ Terminal stock watcher and stock position tracker.
 
 ### [TiDB](https://github.com/pingcap/tidb)
 
-![](https://img.shields.io/github/stars/pingcap/tidb?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/pingcap/tidb?style=flat-square&label=⭐) · Found in 1 active source: avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-<br A distributed scalable Hybrid Transactional and Analytical Processing (HTAP) database
+A distributed scalable Hybrid Transactional and Analytical Processing (HTAP) database
 
 > **Análisis IA:** UI toolkit multiplataforma Dart de Google para mobile/web/desktop. Estándar real de facto para apps Dart. Compila nativo, hot reload, testing robusto integrado.
 
@@ -1087,11 +1087,11 @@ Terminal stock watcher and stock position tracker.
 
 ### [TiKV](https://github.com/tikv/tikv)
 
-![](https://img.shields.io/github/stars/tikv/tikv?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/tikv/tikv?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-<br A distributed transactional key-value database
+A distributed transactional key-value database
 
 > **Análisis IA:** Base de datos distribuida key-value transaccional escrita en Rust. Usado por PingCAP, producción-ready. Para quien necesita consistencia ACID en escala.
 
@@ -1103,11 +1103,11 @@ Terminal stock watcher and stock position tracker.
 
 ### [tsfresh](https://github.com/blue-yonder/tsfresh)
 
-![](https://img.shields.io/github/stars/blue-yonder/tsfresh?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/blue-yonder/tsfresh?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, wilsonfreitas/awesome-quant
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-- Automatic extraction of relevant features from time series.
+Automatic extraction of relevant features from time series.
 
 > **Análisis IA:** Librería Python para feature extraction automática de series temporales. Resuelve problema específico (análisis TSA) con 700+ features automáticas. Estándar en industry para ML en time-series.
 
@@ -1119,7 +1119,7 @@ Terminal stock watcher and stock position tracker.
 
 ### [Vaex](https://github.com/vaexio/vaex)
 
-![](https://img.shields.io/github/stars/vaexio/vaex?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/vaexio/vaex?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1135,11 +1135,11 @@ Vaex is a high performance Python library for lazy Out-of-Core DataFrames (simil
 
 ### [Vega-Altair](https://github.com/vega/altair)
 
-![](https://img.shields.io/github/stars/vega/altair?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/vega/altair?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-- Vega-Altair is a declarative statistical visualization library for Python.
+Vega-Altair is a declarative statistical visualization library for Python.
 
 > **Análisis IA:** Grammar of graphics declarativa para Python. Gráficos interactivos web sin JavaScript. Ideal para dashboards y exploración, pero menos control que D3/Plotly.
 
@@ -1151,7 +1151,7 @@ Vaex is a high performance Python library for lazy Out-of-Core DataFrames (simil
 
 ### [vispy](https://github.com/vispy/vispy)
 
-![](https://img.shields.io/github/stars/vispy/vispy?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/vispy/vispy?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1167,7 +1167,7 @@ GPU-based high-performance interactive OpenGL 2D/3D data visualization library.
 
 ### [vizzu](https://github.com/vizzuhq/vizzu-lib)
 
-![](https://img.shields.io/github/stars/vizzuhq/vizzu-lib?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/vizzuhq/vizzu-lib?style=flat-square&label=⭐) · Found in 1 active source: academic/awesome-datascience
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1183,7 +1183,7 @@ Library for animated data visualizations and data stories.
 
 ### [yfinance](https://github.com/ranaroussi/yfinance)
 
-![](https://img.shields.io/github/stars/ranaroussi/yfinance?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/ranaroussi/yfinance?style=flat-square&label=⭐) · Found in 2 active sources: wilsonfreitas/awesome-quant, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 

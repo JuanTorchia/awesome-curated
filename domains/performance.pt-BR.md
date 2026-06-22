@@ -15,7 +15,7 @@ Automated candidates with source signal; these are not human endorsements yet.
 
 ### [bencher](https://github.com/bencherdev/bencher)
 
-![](https://img.shields.io/github/stars/bencherdev/bencher?style=flat-square&label=⭐) · Found in 3 active sources
+![](https://img.shields.io/github/stars/bencherdev/bencher?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -31,7 +31,7 @@ A suite of continuous benchmarking tools designed to catch performance regressio
 
 ### [CodeFlash.AI](https://codeflash.ai)
 
-Found in 2 active sources
+Found in 1 active source: josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -47,7 +47,7 @@ CodeFlash.AI – Ship Blazing-Fast Python Code, Every Time.
 
 ### [Cython](https://github.com/cython/cython)
 
-![](https://img.shields.io/github/stars/cython/cython?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/cython/cython?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -63,7 +63,7 @@ Cython is an optimising static compiler for both the Python programming language
 
 ### [GeneticSharp](https://github.com/giacomelli/geneticsharp)
 
-![](https://img.shields.io/github/stars/giacomelli/geneticsharp?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/giacomelli/geneticsharp?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -79,7 +79,7 @@ Multi-platform genetic algorithm library for .NET Core and .NET Framework. The l
 
 ### [loadtest](https://github.com/alexfernandez/loadtest)
 
-![](https://img.shields.io/github/stars/alexfernandez/loadtest?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/alexfernandez/loadtest?style=flat-square&label=⭐) · Found in 1 active source: agarrharr/awesome-cli-apps
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -95,11 +95,11 @@ Run load tests for your web application, with an API for automation.
 
 ### [Numba](https://github.com/numba/numba)
 
-![](https://img.shields.io/github/stars/numba/numba?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/numba/numba?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-- A compiler for Python array and numerical functions.
+A compiler for Python array and numerical functions.
 
 > **Análise IA:** JIT compiler para Python que acelera loops numéricos 100x+ con decoradores. Esencial para científico computacional. Trade-off: tipos estrictos, soporte limitado de Python.
 
@@ -111,9 +111,9 @@ Run load tests for your web application, with an API for automation.
 
 ### [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding)
 
-![](https://img.shields.io/github/stars/real-logic/simple-binary-encoding?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/real-logic/simple-binary-encoding?style=flat-square&label=⭐) · Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
 encoding and decoding application messages in binary format for low-latency applications. [Apache2]
 
@@ -127,9 +127,9 @@ encoding and decoding application messages in binary format for low-latency appl
 
 ### [uWebSockets](https://github.com/unetworking/uwebsockets)
 
-![](https://img.shields.io/github/stars/unetworking/uwebsockets?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/unetworking/uwebsockets?style=flat-square&label=⭐) · Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
 µWS is one of the most lightweight, efficient & scalable WebSocket & HTTP server implementations available. [Zlib]
 
@@ -143,9 +143,9 @@ encoding and decoding application messages in binary format for low-latency appl
 
 ### [xxHash](https://github.com/cyan4973/xxhash)
 
-![](https://img.shields.io/github/stars/cyan4973/xxhash?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/cyan4973/xxhash?style=flat-square&label=⭐) · Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
 Extremely fast non-cryptographic hash algorithm. [BSD-2-Clause]
 

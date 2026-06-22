@@ -15,11 +15,11 @@ Automated candidates with source signal; these are not human endorsements yet.
 
 ### [NativeScript](https://github.com/nativescript/nativescript)
 
-![](https://img.shields.io/github/stars/nativescript/nativescript?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/nativescript/nativescript?style=flat-square&label=⭐) · Needs trace review
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
-<br NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.
+NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.
 
 > **Análise IA:** Framework JS para mobile nativo en iOS/Android reutilizando skills web (Angular, Vue, CSS). Promete código compartido pero la realidad es plugins nativos obligatorios para features complejas.
 
@@ -31,11 +31,11 @@ Automated candidates with source signal; these are not human endorsements yet.
 
 ### [RunAnywhere](https://github.com/runanywhereai/runanywhere-sdks)
 
-![](https://img.shields.io/github/stars/runanywhereai/runanywhere-sdks?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/runanywhereai/runanywhere-sdks?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-- RunAnywhere is a production-ready SDK for running AI models (LLMs, speech-to-text, text-to-speech) on-device for iOS, Android, React Native, and Flutter enabling private, offline, and fast mobile AI applications.
+RunAnywhere is a production-ready SDK for running AI models (LLMs, speech-to-text, text-to-speech) on-device for iOS, Android, React Native, and Flutter enabling private, offline, and fast mobile AI applications.
 
 > **Análise IA:** SDK multi-plataforma para correr modelos IA on-device (LLM, speech, TTS) en iOS/Android/React Native. Privacidad y offline garantizados. Resuelve problema real de latencia + costo de API.
 
@@ -47,7 +47,7 @@ Automated candidates with source signal; these are not human endorsements yet.
 
 ### [ZXing](https://github.com/zxing/zxing)
 
-![](https://img.shields.io/github/stars/zxing/zxing?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/zxing/zxing?style=flat-square&label=⭐) · Found in 1 active source: akullpp/awesome-java
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
