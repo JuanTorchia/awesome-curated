@@ -2,7 +2,7 @@
 
 <p><sub>← [Back to main](../README.md)</sub></p>
 
-**2 Human-reviewed · 0 Popular standards · 96 AI candidates · 2 Needs review**
+**7 Human-reviewed · 0 Popular standards · 91 AI candidates · 2 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -37,6 +37,76 @@ Netron is a viewer for neural network, deep learning and machine learning models
 **Why this is here:** Makes model inspection practical across ONNX, TensorFlow, PyTorch, and related ML formats.
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#netron-lutzroeder-netron-pms6) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [Mem0](https://github.com/mem0ai/mem0)
+
+![](https://img.shields.io/github/stars/mem0ai/mem0?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+
+**Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
+
+Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions.
+
+**Why this is here:** Worth trying: practical memory layer for AI assistants and agents, with enough cross-source signal to review beyond hype.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#mem0-mem0ai-mem0) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [agent-of-empires](https://github.com/njbrake/agent-of-empires)
+
+![](https://img.shields.io/github/stars/njbrake/agent-of-empires?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
+
+**Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
+
+A TUI/CLI for managing multiple AI coding agent sessions with tmux, git worktrees, and Docker sandboxing
+
+**Why this is here:** Worth trying: concrete TUI workflow for managing parallel coding-agent sessions with tmux, worktrees, and sandboxing.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#agent-of-empires-njbrake-agent-of-empires) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [Aim](https://github.com/aimhubio/aim)
+
+![](https://img.shields.io/github/stars/aimhubio/aim?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+
+**Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
+
+A super-easy way to record, search and compare AI experiments.
+
+**Why this is here:** Worth trying: open-source experiment tracking for AI work, especially if a team wants a lighter alternative to hosted-first tools.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#aim-aimhubio-aim-2zw8) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [candle](https://github.com/huggingface/candle)
+
+![](https://img.shields.io/github/stars/huggingface/candle?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, josephmisiti/awesome-machine-learning
+
+**Review label:** Worth Trying · **Caveat:** Best fit for teams with a matching ML or data workflow.
+
+Candle is a minimalist ML framework for Rust with a focus on performance (including GPU support) and ease of use.
+
+**Why this is here:** Worth trying: Rust-native ML framework with a clear portability/performance angle for teams exploring ML outside Python runtime defaults.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#candle-huggingface-candle) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [Chroma](https://github.com/chroma-core/chroma)
+
+![](https://img.shields.io/github/stars/chroma-core/chroma?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+
+**Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
+
+Chroma is an open-source embedding database.
+
+**Why this is here:** Worth trying: approachable open-source embedding database for prototyping retrieval and agent memory workflows.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#chroma-chroma-core-chroma) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -117,20 +187,6 @@ Fast scalable Machine Learning platform for smarter applications: Deep Learning,
 
 ---
 
-### [Mem0](https://github.com/mem0ai/mem0)
-
-![](https://img.shields.io/github/stars/mem0ai/mem0?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions.
-
-**Why this is here:** API simple para integrar memoria en agentes
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#mem0-mem0ai-mem0) · [data/latest.json](../data/latest.json)
-
----
-
 ### [RLlib](https://github.com/ray-project/ray)
 
 ![](https://img.shields.io/github/stars/ray-project/ray?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
@@ -201,34 +257,6 @@ Vercel AI is a TypeScript toolkit designed to help you build AI-powered applicat
 
 ---
 
-### [agent-of-empires](https://github.com/njbrake/agent-of-empires)
-
-![](https://img.shields.io/github/stars/njbrake/agent-of-empires?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-A TUI/CLI for managing multiple AI coding agent sessions with tmux, git worktrees, and Docker sandboxing
-
-**Why this is here:** A TUI/CLI for managing multiple AI coding agent sessions with tmux, git worktrees, and Docker sandboxing
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#agent-of-empires-njbrake-agent-of-empires) · [data/latest.json](../data/latest.json)
-
----
-
-### [Aim](https://github.com/aimhubio/aim)
-
-![](https://img.shields.io/github/stars/aimhubio/aim?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-A super-easy way to record, search and compare AI experiments.
-
-**Why this is here:** Interfaz intuitiva, UI limpia vs Weights&Biases
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#aim-aimhubio-aim-2zw8) · [data/latest.json](../data/latest.json)
-
----
-
 ### [ashvardanian/NumKong](https://github.com/ashvardanian/numkong)
 
 ![](https://img.shields.io/github/stars/ashvardanian/numkong?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
@@ -285,20 +313,6 @@ Burn is a new comprehensive dynamic Deep Learning Framework built using Rust wit
 
 ---
 
-### [candle](https://github.com/huggingface/candle)
-
-![](https://img.shields.io/github/stars/huggingface/candle?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, josephmisiti/awesome-machine-learning
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Candle is a minimalist ML framework for Rust with a focus on performance (including GPU support) and ease of use.
-
-**Why this is here:** API simple, sintaxis clara, menos boilerplate que otros frameworks
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#candle-huggingface-candle) · [data/latest.json](../data/latest.json)
-
----
-
 ### [Catalyst](https://github.com/catalyst-team/catalyst)
 
 ![](https://img.shields.io/github/stars/catalyst-team/catalyst?style=flat-square&label=⭐) · Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning
@@ -327,7 +341,63 @@ C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library. [
 
 ---
 
-_Showing 20 of 96. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+### [ClearML](https://github.com/clearml/clearml)
+
+![](https://img.shields.io/github/stars/clearml/clearml?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestration, Scheduling & Serving in one MLOps/LLMOps solution.
+
+**Why this is here:** Cobertura end-to-end impresionante (raro en una tool)
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#clearml-clearml-clearml-vffz) · [data/latest.json](../data/latest.json)
+
+---
+
+### [CloudForest](https://github.com/ryanbressler/cloudforest)
+
+![](https://img.shields.io/github/stars/ryanbressler/cloudforest?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, avelino/awesome-go
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go.
+
+**Why this is here:** Performance nativo en Go
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#cloudforest-ryanbressler-cloudforest) · [data/latest.json](../data/latest.json)
+
+---
+
+### [CoreNLP](https://nlp.stanford.edu/software/corenlp.shtml)
+
+Found in 2 active sources: akullpp/awesome-java, josephmisiti/awesome-machine-learning
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Stanford CoreNLP provides a set of natural language analysis tools which can take raw English language text input and give the base forms of words.
+
+**Why this is here:** Stanford CoreNLP provides a set of natural language analysis tools which can take raw English language text input and give the base forms of words.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#corenlp-nlp-53oh) · [data/latest.json](../data/latest.json)
+
+---
+
+### [CuML](https://github.com/rapidsai/cuml)
+
+![](https://img.shields.io/github/stars/rapidsai/cuml?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+cuML is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects.
+
+**Why this is here:** APIs familiares tipo scikit-learn
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#cuml-rapidsai-cuml) · [data/latest.json](../data/latest.json)
+
+---
+
+_Showing 20 of 91. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

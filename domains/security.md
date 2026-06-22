@@ -293,7 +293,7 @@ Found in 1 active source: veggiemonk/awesome-docker
 
 Auditing tool for UNIX-based systems.
 
-**Why this is here:** Amplio coverage de checks de seguridad
+**Why this is here:** Output estructurado, integrable en pipelines
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#lynis-cisofy) · [data/latest.json](../data/latest.json)
 
@@ -386,7 +386,7 @@ Complete and free implementation of the OpenPGP standard. It allows to encrypt a
 
 P(ortable ackageable) NaCl-based crypto library, opinionated and easy to use. [ISC]
 
-**Why this is here:** API opinionada reduce errores de uso
+**Why this is here:** Ampliamente auditada y confiable
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#libsodium-jedisct1-libsodium-uwf5) · [data/latest.json](../data/latest.json)
 

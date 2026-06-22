@@ -121,7 +121,7 @@ Tool for indexing large amounts of both documents (PDF, Word, HTML) and structur
 
 A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys.
 
-**Why this is here:** Estabilidad genuina con keys masivos, interfaz responsiva
+**Why this is here:** A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading...
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#another-redis-desktop-manager-qishibo-anotherredisdesktopmanager) · [data/latest.json](../data/latest.json)
 
@@ -275,7 +275,7 @@ A data orchestrator for machine learning, analytics, and ETL.
 
 Query and update data structures using selectors from the command line. Comparable to jq/yq but supports JSON, YAML, TOML and XML with zero runtime dependencies.
 
-**Why this is here:** Multi-format en una herramienta, cero dependencias runtime (Go binary)
+**Why this is here:** Sintaxis consistente vs aprender jq Y yq por separado
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#dasel-tomwright-dasel) · [data/latest.json](../data/latest.json)
 

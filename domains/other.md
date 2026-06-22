@@ -23,7 +23,7 @@ Found in 1 active source: jaywcjlove/awesome-mac
 
 Next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, customizable and ready to use (alternative to Notion and Miro). (Demo, ) MIT/AGPL-3.0 Docker
 
-**Why this is here:** Interfaz moderna con Excalidraw integrado
+**Why this is here:** Next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, customizable and ready to use (alternative to...
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#affine-community-edition-affine) · [data/latest.json](../data/latest.json)
 
@@ -233,7 +233,7 @@ Found in 1 active source: jaywcjlove/awesome-mac
 
 Task manager with timeboxing and time tracking. (https://github.com/johannesjo/super-productivity) (https://apps.apple.com/cn/app/super-productivity/id1482572463?platform=mac)
 
-**Why this is here:** Timeboxing forzado evita task-switching infinito
+**Why this is here:** Task manager with timeboxing and time tracking. (https://github.com/johannesjo/super-productivity)...
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#super-productivity-super-productivity-bhrk) · [data/latest.json](../data/latest.json)
 

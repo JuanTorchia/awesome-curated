@@ -23,7 +23,7 @@ Found in 2 active sources: jivoi/awesome-osint, academic/awesome-datascience
 
 is a powerful data visualization javascript library.
 
-**Why this is here:** Control granular sobre cada pixel renderizado
+**Why this is here:** is a powerful data visualization javascript library.
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#d3js-d3js-uj5s) · [data/latest.json](../data/latest.json)
 
@@ -296,7 +296,7 @@ A minimalistic framework for universal server-rendered React applications
 
 Manage and reuse vue components between projects. Easily isolate and share components from any project without changing its , organize curated collections and install in different projects.
 
-**Why this is here:** Modelo de dependencias por componente: cada uno trackea sus propias deps
+**Why this is here:** Manage and reuse vue components between projects. Easily isolate and share components from any project without changing its , organize curated...
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#bit-teambit-bit) · [data/latest.json](../data/latest.json)
 
@@ -394,7 +394,7 @@ A compiler for writing next generation JavaScript.
 
 A fully pluggable tool for identifying and reporting on patterns in JavaScript.
 
-**Why this is here:** Ecosistema masivo de plugins y configs compartidas
+**Why this is here:** A fully pluggable tool for identifying and reporting on patterns in JavaScript.
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#eslint-eslint-eslint) · [data/latest.json](../data/latest.json)
 

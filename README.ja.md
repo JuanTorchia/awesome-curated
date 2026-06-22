@@ -101,7 +101,11 @@
 
 ## What changed this week
 
-No material public change detected for the latest generated window.
+- [intelli-shell](https://github.com/lasantosr/intelli-shell) — label changed · Worth Trying: Label changed from AI Candidate to Worth Trying.
+- [Mem0](https://github.com/mem0ai/mem0) — label changed · Worth Trying: Label changed from AI Candidate to Worth Trying.
+- [agent-of-empires](https://github.com/njbrake/agent-of-empires) — label changed · Worth Trying: Label changed from AI Candidate to Worth Trying.
+- [Aim](https://github.com/aimhubio/aim) — label changed · Worth Trying: Label changed from AI Candidate to Worth Trying.
+- [ast-grep](https://github.com/ast-grep/ast-grep) — label changed · Worth Trying: Label changed from AI Candidate to Worth Trying.
 
 See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
 
@@ -125,7 +129,7 @@ See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
 |---|---|---|
 | 👤 [**BayesWitnesses/m2cgen**](https://github.com/bayeswitnesses/m2cgen) | A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies. | Found in 4 active sources: akullpp/awesome-java, rust-unofficial/awesome-rust, josephmisiti/awesome-machine-learning +1 more · Human Pick |
 | 👤 [**Netron**](https://github.com/lutzroeder/netron) | Netron is a viewer for neural network, deep learning and machine learning models. | Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning · Human Pick |
-| [**XGBoost**](https://github.com/dmlc/xgboost) | XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. | Found in 4 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning +1 more · AI Candidate |
+| 👤 [**Mem0**](https://github.com/mem0ai/mem0) | Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions. | Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python · Worth Trying |
 
 📖 他 97 件は[詳細ページ →](domains/ai-ml.ja.md)
 
@@ -133,9 +137,9 @@ See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
 
 | ツール | 何をする | シグナル |
 |---|---|---|
+| 👤 [**bandwhich**](https://github.com/imsnif/bandwhich) | Track bandwidth utilization by process. | Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust · Worth Trying |
 | [**Dragonfly**](https://github.com/dragonflyoss/dragonfly2) | Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best... | Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go · AI Candidate |
 | [**ZooKeeper**](https://zookeeper.apache.org) | ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed... | Found in 2 active sources: akullpp/awesome-java, rust-unofficial/awesome-rust · AI Candidate |
-| [**bandwhich**](https://github.com/imsnif/bandwhich) | Track bandwidth utilization by process. | Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust · AI Candidate |
 
 📖 他 46 件は[詳細ページ →](domains/devops.ja.md)
 
@@ -183,8 +187,8 @@ See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
 | ツール | 何をする | シグナル |
 |---|---|---|
 | 👤 [**Sniffnet**](https://github.com/gyulyvgc/sniffnet) | Cross-platform application to monitor your network traffic with ease | Found in 3 active sources: matiassingers/awesome-readme, rust-unofficial/awesome-rust, jaywcjlove/awesome-mac · Human Pick |
-| [**Pytorch**](https://github.com/pytorch/pytorch) | PyTorch is an open source machine learning library based on the Torch library, used for applications such as... | Found in 4 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning +1 more · Popular Standard |
-| [**Bokeh**](https://github.com/bokeh/bokeh) | Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation... | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python · AI Candidate |
+| 👤 [**intelli-shell**](https://github.com/lasantosr/intelli-shell) | Bookmark commands with placeholders and search or autocomplete at any time | Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust · Worth Trying |
+| 👤 [**ast-grep**](https://github.com/ast-grep/ast-grep) | A CLI tool for code structural search, lint and rewriting. | Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust · Worth Trying |
 
 📖 他 131 件は[詳細ページ →](domains/tooling.ja.md)
 

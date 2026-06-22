@@ -10,26 +10,26 @@ These are strong automated candidates worth human review next. They are not endo
 
 | Tool | Domain | Evidence | Caveat |
 |---|---|---|---|
-| [XGBoost](#xgboost-dmlc-xgboost) | AI & ML | Found in 4 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning +1 more | Candidate still needs human review before endorsement. |
 | [yt-dlp](#yt-dlp-yt-dlp-yt-dlp) | Dev Tooling | Found in 3 active sources: agarrharr/awesome-cli-apps, jivoi/awesome-osint, vinta/awesome-python | Candidate still needs human review before endorsement. |
-| [CatBoost](#catboost-catboost-catboost) | AI & ML | Found in 3 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning, vinta/awesome-python | Candidate still needs human review before endorsement. |
-| [H2O-3](#h2o-3-h2oai-h2o-3) | AI & ML | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python | Candidate still needs human review before endorsement. |
-| [LightGBM](#lightgbm-microsoft-lightgbm-qsy0) | Dev Tooling | Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning | Candidate still needs human review before endorsement. |
-| [gradio](#gradio-gradio-app-gradio) | Data & Databases | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python | Candidate still needs human review before endorsement. |
-| [Streamlit](#streamlit-streamlit-streamlit) | Data & Databases | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python | Candidate still needs human review before endorsement. |
-| [DVC](#dvc-iterative-dvc-l7ba) | Dev Tooling | Found in 3 active sources: EthicalML/awesome-production-machine-learning, matiassingers/awesome-readme, josephmisiti/awesome-machine-learning | Candidate still needs human review before endorsement. |
 | [Deepchecks](#deepchecks-deepchecks-deepchecks-b4fx) | Dev Tooling | Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning | Candidate still needs human review before endorsement. |
-| [Bokeh](#bokeh-bokeh-bokeh) | Dev Tooling | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python | Candidate still needs human review before endorsement. |
 | [Feature Engine](#feature-engine-feature-engine-feature-engine) | AI & ML | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python | Candidate still needs human review before endorsement. |
-| [Transformers](#transformers-huggingface-transformers-ayvf) | Dev Tooling | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python | Candidate still needs human review before endorsement. |
-| [SpaCy](#spacy-explosion-spacy) | AI & ML | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python | Candidate still needs human review before endorsement. |
-| [Stable Baselines](#stable-baselines-dlr-rm-stable-baselines3) | AI & ML | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python | Candidate still needs human review before endorsement. |
 | [lstags](#lstags-ivanilves-lstags-3nkm) | Dev Tooling | Found in 3 active sources: agarrharr/awesome-cli-apps, veggiemonk/awesome-docker, avelino/awesome-go | Candidate still needs human review before endorsement. |
-| [Scikit-Image](#scikit-image-scikit-image-scikit-image) | AI & ML | Found in 3 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning, vinta/awesome-python | Candidate still needs human review before endorsement. |
-| [broot](#broot-canop-broot) | Dev Tooling | Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust | Candidate still needs human review before endorsement. |
-| [dbt-labs/dbt-core](#dbt-labs-dbt-core-dbt-labs-dbt-core) | Data & Databases | Found in 2 active sources: EthicalML/awesome-production-machine-learning, matiassingers/awesome-readme | Candidate still needs human review before endorsement. |
 | [DEAP](#deap-deap-deap-ztlr) | AI & ML | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning | Candidate still needs human review before endorsement. |
 | [Gymnasium](#gymnasium-farama-foundation-gymnasium-9kby) | AI & ML | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning | Candidate still needs human review before endorsement. |
+| [Water-Run/treepp](#water-run-treepp-water-run-treepp) | Dev Tooling | Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust | Candidate still needs human review before endorsement. |
+| [safedep/vet](#safedep-vet-safedep-vet) | Security & Crypto | Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers | Candidate still needs human review before endorsement. |
+| [ajitpratap0/GoSQLX](#ajitpratap0-gosqlx-ajitpratap0-gosqlx) | Data & Databases | Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers | Candidate still needs human review before endorsement. |
+| [Catalyst](#catalyst-catalyst-team-catalyst-4f6p) | AI & ML | Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning | Candidate still needs human review before endorsement. |
+| [Hamilton](#hamilton-dagworks-inc-hamilton-8wdr) | Data & Databases | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning | Candidate still needs human review before endorsement. |
+| [Hopsworks](#hopsworks-logicalclocks-hopsworks) | AI & ML | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning | Candidate still needs human review before endorsement. |
+| [InterpretML](#interpretml-interpretml-interpret-by43) | AI & ML | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning | Candidate still needs human review before endorsement. |
+| [Vaex](#vaex-vaexio-vaex-1fwn) | Data & Databases | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning | Candidate still needs human review before endorsement. |
+| [RepoFlow](#repoflow-repoflow) | Dev Tooling | Found in 2 active sources: veggiemonk/awesome-docker, rust-unofficial/awesome-rust | Candidate still needs human review before endorsement. |
+| [CML](#cml-iterative-cml-ktba) | DevOps | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning | Candidate still needs human review before endorsement. |
+| [gofiber/fiber](#gofiber-fiber-gofiber-fiber) | Web | Found in 2 active sources: matiassingers/awesome-readme, avelino/awesome-go | Candidate still needs human review before endorsement. |
+| [mariocandela/beelzebub](#mariocandela-beelzebub-mariocandela-beelzebub) | Security & Crypto | Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers | Candidate still needs human review before endorsement. |
+| [juspay/neurolink](#juspay-neurolink-juspay-neurolink) | Web | Found in 2 active sources: josephmisiti/awesome-machine-learning, punkpeye/awesome-mcp-servers | Candidate still needs human review before endorsement. |
+| [PyOD](#pyod-yzhao062-pyod-dizc) | AI & ML | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning | Candidate still needs human review before endorsement. |
 
 ---
 
@@ -41,7 +41,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** is a powerful data visualization javascript library.
 
-**Why it is here:** Control granular sobre cada pixel renderizado
+**Why it is here:** is a powerful data visualization javascript library.
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -329,7 +329,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** Manage and reuse vue components between projects. Easily isolate and share components from any project without changing its , organize curated collections and install in different projects.
 
-**Why it is here:** Modelo de dependencias por componente: cada uno trackea sus propias deps
+**Why it is here:** Manage and reuse vue components between projects. Easily isolate and share components from any project without changing its , organize curated...
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -420,7 +420,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** A fully pluggable tool for identifying and reporting on patterns in JavaScript.
 
-**Why it is here:** Ecosistema masivo de plugins y configs compartidas
+**Why it is here:** A fully pluggable tool for identifying and reporting on patterns in JavaScript.
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -498,7 +498,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** A blazing fast unit test framework powered by Vite.
 
-**Why it is here:** Velocidad 10-20x comparado con Jest en watch mode
+**Why it is here:** Hot module reloading para tests
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -602,7 +602,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 
-**Why it is here:** Webhooks en eventos DB nativos, evita polling
+**Why it is here:** Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -654,7 +654,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** A declarative, efficient, and flexible JavaScript library for building user interfaces.
 
-**Why it is here:** Ecosistema masivo y tooling maduro
+**Why it is here:** Performance optimizado con Virtual DOM y fiber architecture
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -736,6 +736,86 @@ These are strong automated candidates worth human review next. They are not endo
 - [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 92 · observed 2026-06-22
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 86 · observed 2026-06-22
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · ROSTER · quality 84 · observed 2026-06-22
+
+---
+### <a id="mem0-mem0ai-mem0"></a>[Mem0](https://github.com/mem0ai/mem0)
+
+**Label:** Worth Trying · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+
+**Summary:** Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions.
+
+**Why it is here:** Worth trying: practical memory layer for AI assistants and agents, with enough cross-source signal to review beyond hype.
+
+**Caveat:** Worth a focused trial before adopting broadly.
+
+**Source traces:**
+
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 92 · observed 2026-06-22
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 91 · observed 2026-06-15
+
+---
+### <a id="agent-of-empires-njbrake-agent-of-empires"></a>[agent-of-empires](https://github.com/njbrake/agent-of-empires)
+
+**Label:** Worth Trying · **Domain:** AI & ML · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
+
+**Summary:** A TUI/CLI for managing multiple AI coding agent sessions with tmux, git worktrees, and Docker sandboxing
+
+**Why it is here:** Worth trying: concrete TUI workflow for managing parallel coding-agent sessions with tmux, worktrees, and sandboxing.
+
+**Caveat:** Promising signal, but source consensus is still narrow.
+
+**Source traces:**
+
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 90 · observed 2026-06-15
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-06-22
+
+---
+### <a id="aim-aimhubio-aim-2zw8"></a>[Aim](https://github.com/aimhubio/aim)
+
+**Label:** Worth Trying · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+
+**Summary:** A super-easy way to record, search and compare AI experiments.
+
+**Why it is here:** Worth trying: open-source experiment tracking for AI work, especially if a team wants a lighter alternative to hosted-first tools.
+
+**Caveat:** Promising signal, but source consensus is still narrow.
+
+**Source traces:**
+
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 92 · observed 2026-06-22
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · ROSTER · quality 84 · observed 2026-06-22
+
+---
+### <a id="candle-huggingface-candle"></a>[candle](https://github.com/huggingface/candle)
+
+**Label:** Worth Trying · **Domain:** AI & ML · **Signal:** Found in 2 active sources: rust-unofficial/awesome-rust, josephmisiti/awesome-machine-learning
+
+**Summary:** Candle is a minimalist ML framework for Rust with a focus on performance (including GPU support) and ease of use.
+
+**Why it is here:** Worth trying: Rust-native ML framework with a clear portability/performance angle for teams exploring ML outside Python runtime defaults.
+
+**Caveat:** Best fit for teams with a matching ML or data workflow.
+
+**Source traces:**
+
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-06-22
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · ROSTER · quality 84 · observed 2026-06-22
+
+---
+### <a id="chroma-chroma-core-chroma"></a>[Chroma](https://github.com/chroma-core/chroma)
+
+**Label:** Worth Trying · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+
+**Summary:** Chroma is an open-source embedding database.
+
+**Why it is here:** Worth trying: approachable open-source embedding database for prototyping retrieval and agent memory workflows.
+
+**Caveat:** Promising signal, but source consensus is still narrow.
+
+**Source traces:**
+
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 92 · observed 2026-06-22
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 91 · observed 2026-06-15
 
 ---
 ### <a id="xgboost-dmlc-xgboost"></a>[XGBoost](https://github.com/dmlc/xgboost)
@@ -823,22 +903,6 @@ These are strong automated candidates worth human review next. They are not endo
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 91 · observed 2026-06-15
 
 ---
-### <a id="mem0-mem0ai-mem0"></a>[Mem0](https://github.com/mem0ai/mem0)
-
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
-
-**Summary:** Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions.
-
-**Why it is here:** API simple para integrar memoria en agentes
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 92 · observed 2026-06-22
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 91 · observed 2026-06-15
-
----
 ### <a id="rllib-ray-project-ray-ujyw"></a>[RLlib](https://github.com/ray-project/ray)
 
 **Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
@@ -920,38 +984,6 @@ These are strong automated candidates worth human review next. They are not endo
 - [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 92 · observed 2026-06-22
 
 ---
-### <a id="agent-of-empires-njbrake-agent-of-empires"></a>[agent-of-empires](https://github.com/njbrake/agent-of-empires)
-
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Summary:** A TUI/CLI for managing multiple AI coding agent sessions with tmux, git worktrees, and Docker sandboxing
-
-**Why it is here:** A TUI/CLI for managing multiple AI coding agent sessions with tmux, git worktrees, and Docker sandboxing
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 90 · observed 2026-06-15
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-06-22
-
----
-### <a id="aim-aimhubio-aim-2zw8"></a>[Aim](https://github.com/aimhubio/aim)
-
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
-
-**Summary:** A super-easy way to record, search and compare AI experiments.
-
-**Why it is here:** Interfaz intuitiva, UI limpia vs Weights&Biases
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 92 · observed 2026-06-22
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · ROSTER · quality 84 · observed 2026-06-22
-
----
 ### <a id="ashvardanian-numkong-ashvardanian-numkong-5ut2"></a>[ashvardanian/NumKong](https://github.com/ashvardanian/numkong)
 
 **Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: rust-unofficial/awesome-rust
@@ -1014,22 +1046,6 @@ These are strong automated candidates worth human review next. They are not endo
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · ROSTER · quality 84 · observed 2026-06-22
 
 ---
-### <a id="candle-huggingface-candle"></a>[candle](https://github.com/huggingface/candle)
-
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: rust-unofficial/awesome-rust, josephmisiti/awesome-machine-learning
-
-**Summary:** Candle is a minimalist ML framework for Rust with a focus on performance (including GPU support) and ease of use.
-
-**Why it is here:** API simple, sintaxis clara, menos boilerplate que otros frameworks
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-06-22
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · ROSTER · quality 84 · observed 2026-06-22
-
----
 ### <a id="catalyst-catalyst-team-catalyst-4f6p"></a>[Catalyst](https://github.com/catalyst-team/catalyst)
 
 **Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning
@@ -1059,22 +1075,6 @@ These are strong automated candidates worth human review next. They are not endo
 **Source traces:**
 
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · ROSTER · quality 84 · observed 2026-06-22
-
----
-### <a id="chroma-chroma-core-chroma"></a>[Chroma](https://github.com/chroma-core/chroma)
-
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
-
-**Summary:** Chroma is an open-source embedding database.
-
-**Why it is here:** API simple y bien documentada para CRUD vectorial
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 92 · observed 2026-06-22
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 91 · observed 2026-06-15
 
 ---
 ### <a id="clearml-clearml-clearml-vffz"></a>[ClearML](https://github.com/clearml/clearml)
@@ -1461,7 +1461,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. Developed using C++20
 
-**Why it is here:** Velocidad en C++20 vs Python puro
+**Why it is here:** Full-text + vector search combinado
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -1751,18 +1751,19 @@ These are strong automated candidates worth human review next. They are not endo
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · ROSTER · quality 84 · observed 2026-06-22
 
 ---
-### <a id="opik-comet-2-lz3u"></a>[Opik](https://comet.com/site/products/opik)
+### <a id="opik-comet-ml-opik-gh7f"></a>[Opik](https://github.com/comet-ml/opik)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
-**Summary:** Open source engineering platform to debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
+**Summary:** Opik is an open-source platform for evaluating, testing and monitoring LLM applications.
 
-**Why it is here:** Trazado granular de LLM chains
+**Why it is here:** Opik is an open-source platform for evaluating, testing and monitoring LLM applications.
 
 **Caveat:** Candidate still needs human review before endorsement.
 
 **Source traces:**
 
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 92 · observed 2026-06-22
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · ROSTER · quality 84 · observed 2026-06-22
 
 ---
@@ -2073,7 +2074,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** data & learning flywheel for LLMs that unifies inference, observability, optimization, and experimentation
 
-**Why it is here:** Unifica inference, evals y feedback en una interfaz
+**Why it is here:** data & learning flywheel for LLMs that unifies inference, observability, optimization, and experimentation
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -2245,7 +2246,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** ZenML is an extensible, open-source MLOps framework to create reproducible ML pipelines with a focus on automated metadata tracking, caching, and many integrations to other tools.
 
-**Why it is here:** Metadata tracking y caching built-in reduce overhead
+**Why it is here:** ZenML is an extensible, open-source MLOps framework to create reproducible ML pipelines with a focus on automated metadata tracking, caching, and...
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -2284,13 +2285,29 @@ These are strong automated candidates worth human review next. They are not endo
 
 ## 🛠️ DevOps
 
+### <a id="bandwhich-imsnif-bandwhich"></a>[bandwhich](https://github.com/imsnif/bandwhich)
+
+**Label:** Worth Trying · **Domain:** DevOps · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
+
+**Summary:** Track bandwidth utilization by process.
+
+**Why it is here:** Worth trying: process-level bandwidth visibility from a terminal UI; small, focused, and easy to evaluate.
+
+**Caveat:** Promising signal, but source consensus is still narrow.
+
+**Source traces:**
+
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 90 · observed 2026-06-15
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-06-22
+
+---
 ### <a id="dragonfly-dragonflyoss-dragonfly2"></a>[Dragonfly](https://github.com/dragonflyoss/dragonfly2)
 
 **Label:** AI Candidate · **Domain:** DevOps · **Signal:** Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go
 
 **Summary:** Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures.
 
-**Why it is here:** Reduce carga en registry central y costo de egress a internet
+**Why it is here:** Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard...
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -2306,7 +2323,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services. Apache-2.0 Java/C++
 
-**Why it is here:** Usado exitosamente en prod masivo (Netflix, Uber)
+**Why it is here:** ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group...
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -2329,22 +2346,6 @@ These are strong automated candidates worth human review next. They are not endo
 **Source traces:**
 
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 91 · observed 2026-06-15
-
----
-### <a id="bandwhich-imsnif-bandwhich"></a>[bandwhich](https://github.com/imsnif/bandwhich)
-
-**Label:** AI Candidate · **Domain:** DevOps · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Summary:** Track bandwidth utilization by process.
-
-**Why it is here:** Interfaz TUI clara y responsiva
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 90 · observed 2026-06-15
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-06-22
 
 ---
 ### <a id="borgbackup-borgbackup-borg"></a>[BorgBackup](https://github.com/borgbackup/borg)
@@ -2474,7 +2475,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** interface (e.g. htop) for container metrics.
 
-**Why it is here:** interfaz intuitiva similar a htop
+**Why it is here:** monitoreo en vivo sin overhead
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -2632,7 +2633,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** The lazier way to manage everything docker. A simple terminal UI for both docker and docker-compose, written in Go with the gocui library. By jesseduffield.
 
-**Why it is here:** Interfaz intuitiva que acelera workflows docker en desarrollo
+**Why it is here:** The lazier way to manage everything docker. A simple terminal UI for both docker and docker-compose, written in Go with the gocui library. By...
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -2757,7 +2758,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** A minimal file upload/pastebin service
 
-**Why it is here:** Performance excelente incluso bajo carga
+**Why it is here:** A minimal file upload/pastebin service
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -2787,7 +2788,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** A simple tui to view & control docker containers. Written in Rust, making heavy use of ratatui & Bollard,.
 
-**Why it is here:** Interfaz responsiva en terminal, cero overhead
+**Why it is here:** A simple tui to view & control docker containers. Written in Rust, making heavy use of ratatui & Bollard,.
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -2998,7 +2999,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** Gitlab's built-in, full-featured CI/CD solution. MIT Ruby
 
-**Why it is here:** Feature-complete sin dependencias externas
+**Why it is here:** Gitlab's built-in, full-featured CI/CD solution. MIT Ruby
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -3199,7 +3200,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys.
 
-**Why it is here:** Estabilidad genuina con keys masivos, interfaz responsiva
+**Why it is here:** A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading...
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -3370,7 +3371,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** Query and update data structures using selectors from the command line. Comparable to jq/yq but supports JSON, YAML, TOML and XML with zero runtime dependencies.
 
-**Why it is here:** Multi-format en una herramienta, cero dependencias runtime (Go binary)
+**Why it is here:** Sintaxis consistente vs aprender jq Y yq por separado
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -3574,7 +3575,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** Open source platform for distributed stream and batch data processing.
 
-**Why it is here:** Escalabilidad probada en petabytes
+**Why it is here:** API unificada para stream y batch
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -3741,19 +3742,20 @@ These are strong automated candidates worth human review next. They are not endo
 - [akullpp/awesome-java](https://github.com/akullpp/awesome-java) · ROSTER · quality 98 · observed 2026-06-22
 
 ---
-### <a id="pandas-pandas-dev-pandas"></a>[pandas](https://github.com/pandas-dev/pandas)
+### <a id="pandas-pandas-nrua"></a>[pandas](https://pandas.pydata.org)
 
-**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 1 active source: vinta/awesome-python
+**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 2 active sources: wilsonfreitas/awesome-quant, josephmisiti/awesome-machine-learning
 
-**Summary:** Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+**Summary:** Python pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language. GitHub
 
-**Why it is here:** Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects,...
+**Why it is here:** API intuitiva, comunidad gigante
 
 **Caveat:** Candidate still needs human review before endorsement.
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 91 · observed 2026-06-15
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-06-22
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · ROSTER · quality 84 · observed 2026-06-22
 
 ---
 ### <a id="pathwaycom-pathway-pathwaycom-pathway"></a>[pathwaycom/pathway](https://github.com/pathwaycom/pathway)
@@ -4517,7 +4519,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** Auditing tool for UNIX-based systems.
 
-**Why it is here:** Amplio coverage de checks de seguridad
+**Why it is here:** Output estructurado, integrable en pipelines
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -4640,7 +4642,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** is a simple, modern, and secure file encryption tool, using the age format.
 
-**Why it is here:** Interfaz minimalista, sin opciones inseguras
+**Why it is here:** is a simple, modern, and secure file encryption tool, using the age format.
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -4670,7 +4672,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** TCP connection hijacker, Rust rewrite of shijack.
 
-**Why it is here:** Mantenimiento activo por kpcyrd
+**Why it is here:** TCP connection hijacker, Rust rewrite of shijack.
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -4777,7 +4779,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** A simple tool to manage secrets using ssh keys for encryption and decryption.
 
-**Why it is here:** Cero dependencias externas, aprovecha claves SSH existentes
+**Why it is here:** A simple tool to manage secrets using ssh keys for encryption and decryption.
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -4996,7 +4998,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** P(ortable ackageable) NaCl-based crypto library, opinionated and easy to use. [ISC]
 
-**Why it is here:** API opinionada reduce errores de uso
+**Why it is here:** Ampliamente auditada y confiable
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -5234,6 +5236,70 @@ These are strong automated candidates worth human review next. They are not endo
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-06-22
 
 ---
+### <a id="intelli-shell-lasantosr-intelli-shell"></a>[intelli-shell](https://github.com/lasantosr/intelli-shell)
+
+**Label:** Worth Trying · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
+
+**Summary:** Bookmark commands with placeholders and search or autocomplete at any time
+
+**Why it is here:** Worth trying: focused command bookmark/search workflow for terminal-heavy developers; useful without pretending to be a broad platform.
+
+**Caveat:** Worth a focused trial before adopting broadly.
+
+**Source traces:**
+
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 90 · observed 2026-06-15
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-06-22
+
+---
+### <a id="ast-grep-ast-grep-ast-grep"></a>[ast-grep](https://github.com/ast-grep/ast-grep)
+
+**Label:** Worth Trying · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
+
+**Summary:** A CLI tool for code structural search, lint and rewriting.
+
+**Why it is here:** Worth trying: structural search and rewrite by AST gives a stronger workflow than regex for codebase-wide changes.
+
+**Caveat:** Promising signal, but source consensus is still narrow.
+
+**Source traces:**
+
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 90 · observed 2026-06-15
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-06-22
+
+---
+### <a id="atac-julien-cpsn-atac"></a>[ATAC](https://github.com/julien-cpsn/atac)
+
+**Label:** Worth Trying · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
+
+**Summary:** A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
+
+**Why it is here:** Worth trying: offline, account-less TUI API client in Rust; useful for developers who want Postman-like flows from the terminal.
+
+**Caveat:** Promising signal, but source consensus is still narrow.
+
+**Source traces:**
+
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 90 · observed 2026-06-15
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-06-22
+
+---
+### <a id="broot-canop-broot"></a>[broot](https://github.com/canop/broot)
+
+**Label:** Worth Trying · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
+
+**Summary:** A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then cd to it; never lose track of file hierarchy while you search; manipulate your files, ...), further...
+
+**Why it is here:** Worth trying: fast terminal navigation for large directory trees, with a workflow meaningfully different from plain cd/find.
+
+**Caveat:** Promising signal, but source consensus is still narrow.
+
+**Source traces:**
+
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 90 · observed 2026-06-15
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-06-22
+
+---
 ### <a id="pytorch-pytorch-pytorch"></a>[Pytorch](https://github.com/pytorch/pytorch)
 
 **Label:** Popular Standard · **Domain:** Dev Tooling · **Signal:** Found in 4 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning +1 more
@@ -5351,22 +5417,6 @@ These are strong automated candidates worth human review next. They are not endo
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · ROSTER · quality 84 · observed 2026-06-22
 
 ---
-### <a id="intelli-shell-lasantosr-intelli-shell"></a>[intelli-shell](https://github.com/lasantosr/intelli-shell)
-
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Summary:** Bookmark commands with placeholders and search or autocomplete at any time
-
-**Why it is here:** Bookmark commands with placeholders and search or autocomplete at any time
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 90 · observed 2026-06-15
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-06-22
-
----
 ### <a id="jupyter-notebooks-jupyter-notebook"></a>[Jupyter Notebooks](https://github.com/jupyter/notebook)
 
 **Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
@@ -5405,7 +5455,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 
-**Why it is here:** Velocidad de entrenamiento significativamente superior a XGBoost en datasets grandes
+**Why it is here:** Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for...
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -5439,7 +5489,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems. MIT Python
 
-**Why it is here:** Interfaz web moderna y CLI potente
+**Why it is here:** A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems. MIT Python
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -5454,7 +5504,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** Collaborative project for the container ecosystem to assemble container-based systems.
 
-**Why it is here:** Comunidad masiva y mantenimiento activo de Docker Inc
+**Why it is here:** Collaborative project for the container ecosystem to assemble container-based systems.
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -5726,29 +5776,13 @@ These are strong automated candidates worth human review next. They are not endo
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-06-22
 
 ---
-### <a id="ast-grep-ast-grep-ast-grep"></a>[ast-grep](https://github.com/ast-grep/ast-grep)
-
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Summary:** A CLI tool for code structural search, lint and rewriting.
-
-**Why it is here:** Velocidad nativa en Rust, manejo correcto de AST vs regex
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 90 · observed 2026-06-15
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-06-22
-
----
 ### <a id="astral-sh-ruff-astral-sh-ruff"></a>[astral-sh/ruff](https://github.com/astral-sh/ruff)
 
 **Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: rust-unofficial/awesome-rust, vinta/awesome-python
 
 **Summary:** An extremely fast Python linter and code formatter
 
-**Why it is here:** Velocidad 10-100x respecto a flake8/black
+**Why it is here:** An extremely fast Python linter and code formatter
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -5758,29 +5792,13 @@ These are strong automated candidates worth human review next. They are not endo
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 91 · observed 2026-06-15
 
 ---
-### <a id="atac-julien-cpsn-atac"></a>[ATAC](https://github.com/julien-cpsn/atac)
-
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Summary:** A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
-
-**Why it is here:** Completamente offline y funcional
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 90 · observed 2026-06-15
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-06-22
-
----
 ### <a id="bartib-nikolassv-bartib"></a>[Bartib](https://github.com/nikolassv/bartib)
 
 **Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
 
 **Summary:** ] A simple timetracker for the command line
 
-**Why it is here:** Binario compilado, cero dependencias runtime
+**Why it is here:** ] A simple timetracker for the command line
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -5811,7 +5829,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** Blazingly fast CLI tool for creating projects from boilerplate templates.
 
-**Why it is here:** Simple y directo, sin dependencias pesadas
+**Why it is here:** Blazingly fast CLI tool for creating projects from boilerplate templates.
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -5819,22 +5837,6 @@ These are strong automated candidates worth human review next. They are not endo
 
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 90 · observed 2026-06-15
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-06-22
-
----
-### <a id="broot-canop-broot"></a>[broot](https://github.com/canop/broot)
-
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Summary:** A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then cd to it; never lose track of file hierarchy while you search; manipulate your files, ...), further...
-
-**Why it is here:** A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then cd to it; never lose track of...
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 90 · observed 2026-06-15
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-06-22
 
 ---
 ### <a id="buck2-facebook-buck2"></a>[Buck2](https://github.com/facebook/buck2)
@@ -5935,7 +5937,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** Terminal visual disk space navigator
 
-**Why it is here:** Interfaz TUI responsiva y fluida
+**Why it is here:** Terminal visual disk space navigator
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -5996,7 +5998,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** A fuzzy-search based terminal UI application for Attlasian Jira
 
-**Why it is here:** Interfaz responsiva y fuzzy search fluido
+**Why it is here:** A fuzzy-search based terminal UI application for Attlasian Jira
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -6042,7 +6044,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** Terminal JSON viewer & processor.
 
-**Why it is here:** Interfaz interactiva fluida, binario tiny (~6MB)
+**Why it is here:** Terminal JSON viewer & processor.
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -6106,7 +6108,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** Change management with parallel and stacked branches, unlimited undo, agent integrations. (https://github.com/gitbutlerapp/gitbutler)
 
-**Why it is here:** Stacked branches + undo infinito elimina rebase pain
+**Why it is here:** Agent integrations reducen manual rebasing
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -6304,7 +6306,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** Powerful IDE for JVM languages. (Free for Students)
 
-**Why it is here:** IDE JetBrains flagship para JVM (Java, Kotlin, etc). Gold standard en desarrollo backend/Android. Poderoso pero costoso. Alternativas libres...
+**Why it is here:** Powerful IDE for JVM languages. (Free for Students)
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -6382,7 +6384,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** ] A Spotify terminal client with native streaming, synced lyrics, and real-time audio visualization
 
-**Why it is here:** Streaming nativo sin dependencias externas pesadas
+**Why it is here:** ] A Spotify terminal client with native streaming, synced lyrics, and real-time audio visualization
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -6444,7 +6446,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** A beautiful, fast, and fully open source mail client. (https://github.com/Foundry376/Mailspring)
 
-**Why it is here:** Desarrollo activo con releases regulares
+**Why it is here:** A beautiful, fast, and fully open source mail client. (https://github.com/Foundry376/Mailspring)
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -6520,7 +6522,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** 🎖️ 🐍 🏠 MCP tool access to MarkItDown -- a library that converts many file formats (local or remote) to Markdown for LLM consumption.
 
-**Why it is here:** Microsoft backing, mantenimiento activo
+**Why it is here:** 🎖️ 🐍 🏠 MCP tool access to MarkItDown -- a library that converts many file formats (local or remote) to Markdown for LLM consumption.
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -6779,7 +6781,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates.
 
-**Why it is here:** Velocidad extrema (scans millones LOC)
+**Why it is here:** Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates.
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -6934,7 +6936,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** A beautiful SSH and SFTP client for Mac. It is also available for mobile. (https://apps.apple.com/us/app/termius-terminal-ssh-client/id549039908?platform=mac)
 
-**Why it is here:** Interfaz moderna y polida vs alternativas CLI puras
+**Why it is here:** A beautiful SSH and SFTP client for Mac. It is also available for mobile. (https://apps.apple.com/us/app/termius-terminal-ssh-client/id549039908?pl...
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -6994,7 +6996,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** Warp is a blazingly fast, rust-based terminal reimagined from the ground up to work like a modern app.
 
-**Why it is here:** Escrito en Rust, performance real
+**Why it is here:** UX pensada como app moderna, no como emulador retro
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -7056,7 +7058,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** Blazing fast terminal file manager, based on async I/O.
 
-**Why it is here:** Async I/O real evita bloqueos en carpetas grandes
+**Why it is here:** Blazing fast terminal file manager, based on async I/O.
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -7191,7 +7193,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
 
-**Why it is here:** Lazy evaluation evita materializar colecciones grandes
+**Why it is here:** Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -7272,7 +7274,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** Next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, customizable and ready to use (alternative to Notion and Miro). (Demo, ) MIT/AGPL-3.0 Docker
 
-**Why it is here:** Interfaz moderna con Excalidraw integrado
+**Why it is here:** Next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, customizable and ready to use (alternative to...
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -7502,7 +7504,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Summary:** Task manager with timeboxing and time tracking. (https://github.com/johannesjo/super-productivity) (https://apps.apple.com/cn/app/super-productivity/id1482572463?platform=mac)
 
-**Why it is here:** Timeboxing forzado evita task-switching infinito
+**Why it is here:** Task manager with timeboxing and time tracking. (https://github.com/johannesjo/super-productivity)...
 
 **Caveat:** Candidate still needs human review before endorsement.
 

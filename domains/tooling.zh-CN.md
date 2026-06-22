@@ -2,7 +2,7 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**1 Human-reviewed · 1 Popular standards · 118 AI candidates · 14 Needs review**
+**5 Human-reviewed · 1 Popular standards · 114 AI candidates · 14 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -23,6 +23,62 @@ Cross-platform application to monitor your network traffic with ease
 **Why this is here:** Provides a low-friction network traffic monitor for debugging and security checks.
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#sniffnet-gyulyvgc-sniffnet) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [intelli-shell](https://github.com/lasantosr/intelli-shell)
+
+![](https://img.shields.io/github/stars/lasantosr/intelli-shell?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
+
+**Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
+
+Bookmark commands with placeholders and search or autocomplete at any time
+
+**Why this is here:** Worth trying: focused command bookmark/search workflow for terminal-heavy developers; useful without pretending to be a broad platform.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#intelli-shell-lasantosr-intelli-shell) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [ast-grep](https://github.com/ast-grep/ast-grep)
+
+![](https://img.shields.io/github/stars/ast-grep/ast-grep?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
+
+**Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
+
+A CLI tool for code structural search, lint and rewriting.
+
+**Why this is here:** Worth trying: structural search and rewrite by AST gives a stronger workflow than regex for codebase-wide changes.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#ast-grep-ast-grep-ast-grep) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [ATAC](https://github.com/julien-cpsn/atac)
+
+![](https://img.shields.io/github/stars/julien-cpsn/atac?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
+
+**Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
+
+A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
+
+**Why this is here:** Worth trying: offline, account-less TUI API client in Rust; useful for developers who want Postman-like flows from the terminal.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#atac-julien-cpsn-atac) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [broot](https://github.com/canop/broot)
+
+![](https://img.shields.io/github/stars/canop/broot?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
+
+**Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
+
+A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then cd to it; never lose track of file hierarchy while you search; manipulate your files, ...), further...
+
+**Why this is here:** Worth trying: fast terminal navigation for large directory trees, with a workflow meaningfully different from plain cd/find.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#broot-canop-broot) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -138,20 +194,6 @@ Data Science Version Control is an open-source version control system for machin
 
 ---
 
-### [intelli-shell](https://github.com/lasantosr/intelli-shell)
-
-![](https://img.shields.io/github/stars/lasantosr/intelli-shell?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Bookmark commands with placeholders and search or autocomplete at any time
-
-**Why this is here:** Bookmark commands with placeholders and search or autocomplete at any time
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#intelli-shell-lasantosr-intelli-shell) · [data/latest.json](../data/latest.json)
-
----
-
 ### [Jupyter Notebooks](https://github.com/jupyter/notebook)
 
 ![](https://img.shields.io/github/stars/jupyter/notebook?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
@@ -188,7 +230,7 @@ Production-Grade Container Scheduling and Management System
 
 Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 
-**Why this is here:** Velocidad de entrenamiento significativamente superior a XGBoost en datasets grandes
+**Why this is here:** Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for...
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#lightgbm-microsoft-lightgbm-qsy0) · [data/latest.json](../data/latest.json)
 
@@ -216,7 +258,7 @@ Found in 1 active source: jaywcjlove/awesome-mac
 
 A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems. MIT Python
 
-**Why this is here:** Interfaz web moderna y CLI potente
+**Why this is here:** A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems. MIT Python
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#mitmproxy-mitmproxy) · [data/latest.json](../data/latest.json)
 
@@ -230,7 +272,7 @@ A Python tool used for intercepting, viewing and modifying network traffic. Inva
 
 Collaborative project for the container ecosystem to assemble container-based systems.
 
-**Why this is here:** Comunidad masiva y mantenimiento activo de Docker Inc
+**Why this is here:** Collaborative project for the container ecosystem to assemble container-based systems.
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#moby-moby-moby) · [data/latest.json](../data/latest.json)
 
@@ -334,7 +376,21 @@ Open-source terminal with built-in file previews, web browsing, and AI tools. (h
 
 ---
 
-_Showing 20 of 118. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+### [Wireshark](https://wireshark.org)
+
+Found in 1 active source: jaywcjlove/awesome-mac
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+The world’s foremost and widely-used network protocol analyzer. (https://github.com/wireshark/wireshark)
+
+**Why this is here:** Parser de protocols exhaustivo (2000+)
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#wireshark-wireshark) · [data/latest.json](../data/latest.json)
+
+---
+
+_Showing 20 of 114. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---
@@ -463,7 +519,7 @@ Fast, easy and reliable testing for anything that runs in a browser.
 
 Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
 
-**Why this is here:** Lazy evaluation evita materializar colecciones grandes
+**Why this is here:** Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#itertools-ts-smoren-itertools-ts) · [data/latest.json](../data/latest.json)
 

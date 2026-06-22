@@ -2,15 +2,143 @@
   "changes": [
     {
       "changedAt": "2026-06-22",
-      "name": "Public recommendation set",
-      "reason": "No material public change detected.",
-      "toolId": "snapshot",
-      "type": "unchanged",
-      "url": "data/latest.json"
+      "currentLabel": "Worth Trying",
+      "name": "intelli-shell",
+      "previousLabel": "AI Candidate",
+      "reason": "Label changed from AI Candidate to Worth Trying.",
+      "toolId": "cmnwlwza900pyvn4d8ouw69a9",
+      "type": "label changed",
+      "url": "https://github.com/lasantosr/intelli-shell"
+    },
+    {
+      "changedAt": "2026-06-22",
+      "currentLabel": "Worth Trying",
+      "name": "Mem0",
+      "previousLabel": "AI Candidate",
+      "reason": "Label changed from AI Candidate to Worth Trying.",
+      "toolId": "cmnwknkwt01da1p4thk72udzl",
+      "type": "label changed",
+      "url": "https://github.com/mem0ai/mem0"
+    },
+    {
+      "changedAt": "2026-06-22",
+      "currentLabel": "Worth Trying",
+      "name": "agent-of-empires",
+      "previousLabel": "AI Candidate",
+      "reason": "Label changed from AI Candidate to Worth Trying.",
+      "toolId": "cmnwlw6lm00d5vn4dtvazqp3b",
+      "type": "label changed",
+      "url": "https://github.com/njbrake/agent-of-empires"
+    },
+    {
+      "changedAt": "2026-06-22",
+      "currentLabel": "Worth Trying",
+      "name": "Aim",
+      "previousLabel": "AI Candidate",
+      "reason": "Label changed from AI Candidate to Worth Trying.",
+      "toolId": "cmnwkwetw01jpb0i78htji1tm",
+      "type": "label changed",
+      "url": "https://github.com/aimhubio/aim"
+    },
+    {
+      "changedAt": "2026-06-22",
+      "currentLabel": "Worth Trying",
+      "name": "ast-grep",
+      "previousLabel": "AI Candidate",
+      "reason": "Label changed from AI Candidate to Worth Trying.",
+      "toolId": "cmnwlw6u500d9vn4dz3s8x95r",
+      "type": "label changed",
+      "url": "https://github.com/ast-grep/ast-grep"
+    },
+    {
+      "changedAt": "2026-06-22",
+      "currentLabel": "Worth Trying",
+      "name": "ATAC",
+      "previousLabel": "AI Candidate",
+      "reason": "Label changed from AI Candidate to Worth Trying.",
+      "toolId": "cmnwlwx8x00p4vn4debc4c6mn",
+      "type": "label changed",
+      "url": "https://github.com/julien-cpsn/atac"
+    },
+    {
+      "changedAt": "2026-06-22",
+      "currentLabel": "Worth Trying",
+      "name": "bandwhich",
+      "previousLabel": "AI Candidate",
+      "reason": "Label changed from AI Candidate to Worth Trying.",
+      "toolId": "cmnwlwftr00h9vn4d140gj6ih",
+      "type": "label changed",
+      "url": "https://github.com/imsnif/bandwhich"
+    },
+    {
+      "changedAt": "2026-06-22",
+      "currentLabel": "Worth Trying",
+      "name": "broot",
+      "previousLabel": "AI Candidate",
+      "reason": "Label changed from AI Candidate to Worth Trying.",
+      "toolId": "cmnwlvz9e009tvn4df1t804eq",
+      "type": "label changed",
+      "url": "https://github.com/canop/broot"
+    },
+    {
+      "changedAt": "2026-06-22",
+      "currentLabel": "Worth Trying",
+      "name": "candle",
+      "previousLabel": "AI Candidate",
+      "reason": "Label changed from AI Candidate to Worth Trying.",
+      "toolId": "cmnwkv77a04ry1p4t2q5qm30t",
+      "type": "label changed",
+      "url": "https://github.com/huggingface/candle"
+    },
+    {
+      "changedAt": "2026-06-22",
+      "currentLabel": "Worth Trying",
+      "name": "Chroma",
+      "previousLabel": "AI Candidate",
+      "reason": "Label changed from AI Candidate to Worth Trying.",
+      "toolId": "cmnwkovzc01ye1p4trj7nl1lb",
+      "type": "label changed",
+      "url": "https://github.com/chroma-core/chroma"
+    },
+    {
+      "changedAt": "2026-06-22",
+      "currentLabel": "AI Candidate",
+      "name": "Opik",
+      "reason": "Opik is an open-source platform for evaluating, testing and monitoring LLM applications.",
+      "toolId": "cmnwkwv1701r1b0i7lylxsfzi",
+      "type": "newly reviewed",
+      "url": "https://github.com/comet-ml/opik"
+    },
+    {
+      "changedAt": "2026-06-22",
+      "currentLabel": "AI Candidate",
+      "name": "pandas",
+      "reason": "API intuitiva, comunidad gigante",
+      "toolId": "cmnwl477j051ib0i7hf0tsz0j",
+      "type": "newly reviewed",
+      "url": "https://pandas.pydata.org"
+    },
+    {
+      "changedAt": "2026-06-22",
+      "name": "Opik",
+      "previousLabel": "AI Candidate",
+      "reason": "No longer present in the current public recommendation set.",
+      "toolId": "cmnwl3pmo04tkb0i7y873tadf",
+      "type": "removed",
+      "url": "https://comet.com/site/products/opik"
+    },
+    {
+      "changedAt": "2026-06-22",
+      "name": "pandas",
+      "previousLabel": "AI Candidate",
+      "reason": "No longer present in the current public recommendation set.",
+      "toolId": "cmnwknkai01d01p4tiaff2tii",
+      "type": "removed",
+      "url": "https://github.com/pandas-dev/pandas"
     }
   ],
-  "commitSha": "72bee0b9dbe0",
-  "generatedAt": "2026-06-22T21:38:42.883Z",
+  "commitSha": "4fdb934e95e3",
+  "generatedAt": "2026-06-22T21:49:25.383Z",
   "recommendations": [
     {
       "caveat": "Best fit for teams with a matching ML or data workflow.",
@@ -286,6 +414,456 @@
       ],
       "summary": "Cross-platform application to monitor your network traffic with ease",
       "url": "https://github.com/gyulyvgc/sniffnet"
+    },
+    {
+      "caveat": "Worth a focused trial before adopting broadly.",
+      "domain": "tooling",
+      "id": "cmnwlwza900pyvn4d8ouw69a9",
+      "label": "Worth Trying",
+      "maintenance": {
+        "archived": false,
+        "graveyarded": false
+      },
+      "name": "intelli-shell",
+      "rationale": "Worth trying: focused command bookmark/search workflow for terminal-heavy developers; useful without pretending to be a broad platform.",
+      "review": {
+        "caveat": "Worth a focused trial before adopting broadly.",
+        "notes": "Worth trying: focused command bookmark/search workflow for terminal-heavy developers; useful without pretending to be a broad platform.",
+        "reviewedAt": "2026-06-22",
+        "reviewedBy": "Juan",
+        "status": "Worth Trying"
+      },
+      "slug": "lasantosr-intelli-shell",
+      "sourceSignal": "Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust",
+      "sourceTraces": [
+        {
+          "itemCategory": "Utilities",
+          "itemName": "intelli-shell",
+          "observedAt": "2026-06-15",
+          "sourceQuality": 90,
+          "sourceRepo": "agarrharr/awesome-cli-apps",
+          "sourceStatus": "ROSTER",
+          "sourceTitle": "awesome-cli-apps",
+          "sourceUrl": "https://github.com/agarrharr/awesome-cli-apps"
+        },
+        {
+          "itemCategory": "Development tools",
+          "itemName": "intelli-shell",
+          "observedAt": "2026-06-22",
+          "sourceQuality": 99,
+          "sourceRepo": "rust-unofficial/awesome-rust",
+          "sourceStatus": "ROSTER",
+          "sourceTitle": "awesome-rust",
+          "sourceUrl": "https://github.com/rust-unofficial/awesome-rust"
+        }
+      ],
+      "summary": "Bookmark commands with placeholders and search or autocomplete at any time",
+      "url": "https://github.com/lasantosr/intelli-shell"
+    },
+    {
+      "caveat": "Worth a focused trial before adopting broadly.",
+      "domain": "ai-ml",
+      "id": "cmnwknkwt01da1p4thk72udzl",
+      "label": "Worth Trying",
+      "maintenance": {
+        "archived": false,
+        "graveyarded": false
+      },
+      "name": "Mem0",
+      "rationale": "Worth trying: practical memory layer for AI assistants and agents, with enough cross-source signal to review beyond hype.",
+      "review": {
+        "caveat": "Worth a focused trial before adopting broadly.",
+        "notes": "Worth trying: practical memory layer for AI assistants and agents, with enough cross-source signal to review beyond hype.",
+        "reviewedAt": "2026-06-22",
+        "reviewedBy": "Juan",
+        "status": "Worth Trying"
+      },
+      "slug": "mem0ai-mem0",
+      "sourceSignal": "Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python",
+      "sourceTraces": [
+        {
+          "itemCategory": "Industry Strength Information Retrieval",
+          "itemName": "Mem0",
+          "observedAt": "2026-06-22",
+          "sourceQuality": 92,
+          "sourceRepo": "EthicalML/awesome-production-machine-learning",
+          "sourceStatus": "ROSTER",
+          "sourceTitle": "awesome-production-machine-learning",
+          "sourceUrl": "https://github.com/EthicalML/awesome-production-machine-learning"
+        },
+        {
+          "itemCategory": "Projects",
+          "itemName": "mem0",
+          "observedAt": "2026-06-15",
+          "sourceQuality": 91,
+          "sourceRepo": "vinta/awesome-python",
+          "sourceStatus": "ROSTER",
+          "sourceTitle": "awesome-python",
+          "sourceUrl": "https://github.com/vinta/awesome-python"
+        }
+      ],
+      "summary": "Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions.",
+      "url": "https://github.com/mem0ai/mem0"
+    },
+    {
+      "caveat": "Promising signal, but source consensus is still narrow.",
+      "domain": "ai-ml",
+      "id": "cmnwlw6lm00d5vn4dtvazqp3b",
+      "label": "Worth Trying",
+      "maintenance": {
+        "archived": false,
+        "graveyarded": false
+      },
+      "name": "agent-of-empires",
+      "rationale": "Worth trying: concrete TUI workflow for managing parallel coding-agent sessions with tmux, worktrees, and sandboxing.",
+      "review": {
+        "caveat": "Promising signal, but source consensus is still narrow.",
+        "notes": "Worth trying: concrete TUI workflow for managing parallel coding-agent sessions with tmux, worktrees, and sandboxing.",
+        "reviewedAt": "2026-06-22",
+        "reviewedBy": "Juan",
+        "status": "Worth Trying"
+      },
+      "slug": "njbrake-agent-of-empires",
+      "sourceSignal": "Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust",
+      "sourceTraces": [
+        {
+          "itemCategory": "AI",
+          "itemName": "agent-of-empires",
+          "observedAt": "2026-06-15",
+          "sourceQuality": 90,
+          "sourceRepo": "agarrharr/awesome-cli-apps",
+          "sourceStatus": "ROSTER",
+          "sourceTitle": "awesome-cli-apps",
+          "sourceUrl": "https://github.com/agarrharr/awesome-cli-apps"
+        },
+        {
+          "itemCategory": "Applications",
+          "itemName": "agent-of-empires",
+          "observedAt": "2026-06-22",
+          "sourceQuality": 99,
+          "sourceRepo": "rust-unofficial/awesome-rust",
+          "sourceStatus": "ROSTER",
+          "sourceTitle": "awesome-rust",
+          "sourceUrl": "https://github.com/rust-unofficial/awesome-rust"
+        }
+      ],
+      "summary": "A TUI/CLI for managing multiple AI coding agent sessions with tmux, git worktrees, and Docker sandboxing",
+      "url": "https://github.com/njbrake/agent-of-empires"
+    },
+    {
+      "caveat": "Promising signal, but source consensus is still narrow.",
+      "domain": "ai-ml",
+      "id": "cmnwkwetw01jpb0i78htji1tm",
+      "label": "Worth Trying",
+      "maintenance": {
+        "archived": false,
+        "graveyarded": false
+      },
+      "name": "Aim",
+      "rationale": "Worth trying: open-source experiment tracking for AI work, especially if a team wants a lighter alternative to hosted-first tools.",
+      "review": {
+        "caveat": "Promising signal, but source consensus is still narrow.",
+        "notes": "Worth trying: open-source experiment tracking for AI work, especially if a team wants a lighter alternative to hosted-first tools.",
+        "reviewedAt": "2026-06-22",
+        "reviewedBy": "Juan",
+        "status": "Worth Trying"
+      },
+      "slug": "aimhubio-aim-2zw8",
+      "sourceSignal": "Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning",
+      "sourceTraces": [
+        {
+          "itemCategory": "Model, Data and Experiment Management",
+          "itemName": "Aim",
+          "observedAt": "2026-06-22",
+          "sourceQuality": 92,
+          "sourceRepo": "EthicalML/awesome-production-machine-learning",
+          "sourceStatus": "ROSTER",
+          "sourceTitle": "awesome-production-machine-learning",
+          "sourceUrl": "https://github.com/EthicalML/awesome-production-machine-learning"
+        },
+        {
+          "itemCategory": "Python",
+          "itemName": "Aim",
+          "observedAt": "2026-06-22",
+          "sourceQuality": 84,
+          "sourceRepo": "josephmisiti/awesome-machine-learning",
+          "sourceStatus": "ROSTER",
+          "sourceTitle": "awesome-machine-learning",
+          "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
+        }
+      ],
+      "summary": "A super-easy way to record, search and compare AI experiments.",
+      "url": "https://github.com/aimhubio/aim"
+    },
+    {
+      "caveat": "Promising signal, but source consensus is still narrow.",
+      "domain": "tooling",
+      "id": "cmnwlw6u500d9vn4dz3s8x95r",
+      "label": "Worth Trying",
+      "maintenance": {
+        "archived": false,
+        "graveyarded": false
+      },
+      "name": "ast-grep",
+      "rationale": "Worth trying: structural search and rewrite by AST gives a stronger workflow than regex for codebase-wide changes.",
+      "review": {
+        "caveat": "Promising signal, but source consensus is still narrow.",
+        "notes": "Worth trying: structural search and rewrite by AST gives a stronger workflow than regex for codebase-wide changes.",
+        "reviewedAt": "2026-06-22",
+        "reviewedBy": "Juan",
+        "status": "Worth Trying"
+      },
+      "slug": "ast-grep-ast-grep",
+      "sourceSignal": "Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust",
+      "sourceTraces": [
+        {
+          "itemCategory": "Files and Directories",
+          "itemName": "ast-grep",
+          "observedAt": "2026-06-15",
+          "sourceQuality": 90,
+          "sourceRepo": "agarrharr/awesome-cli-apps",
+          "sourceStatus": "ROSTER",
+          "sourceTitle": "awesome-cli-apps",
+          "sourceUrl": "https://github.com/agarrharr/awesome-cli-apps"
+        },
+        {
+          "itemCategory": "Applications",
+          "itemName": "ast-grep",
+          "observedAt": "2026-06-22",
+          "sourceQuality": 99,
+          "sourceRepo": "rust-unofficial/awesome-rust",
+          "sourceStatus": "ROSTER",
+          "sourceTitle": "awesome-rust",
+          "sourceUrl": "https://github.com/rust-unofficial/awesome-rust"
+        }
+      ],
+      "summary": "A CLI tool for code structural search, lint and rewriting.",
+      "url": "https://github.com/ast-grep/ast-grep"
+    },
+    {
+      "caveat": "Promising signal, but source consensus is still narrow.",
+      "domain": "tooling",
+      "id": "cmnwlwx8x00p4vn4debc4c6mn",
+      "label": "Worth Trying",
+      "maintenance": {
+        "archived": false,
+        "graveyarded": false
+      },
+      "name": "ATAC",
+      "rationale": "Worth trying: offline, account-less TUI API client in Rust; useful for developers who want Postman-like flows from the terminal.",
+      "review": {
+        "caveat": "Promising signal, but source consensus is still narrow.",
+        "notes": "Worth trying: offline, account-less TUI API client in Rust; useful for developers who want Postman-like flows from the terminal.",
+        "reviewedAt": "2026-06-22",
+        "reviewedBy": "Juan",
+        "status": "Worth Trying"
+      },
+      "slug": "julien-cpsn-atac",
+      "sourceSignal": "Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust",
+      "sourceTraces": [
+        {
+          "itemCategory": "Development",
+          "itemName": "ATAC",
+          "observedAt": "2026-06-15",
+          "sourceQuality": 90,
+          "sourceRepo": "agarrharr/awesome-cli-apps",
+          "sourceStatus": "ROSTER",
+          "sourceTitle": "awesome-cli-apps",
+          "sourceUrl": "https://github.com/agarrharr/awesome-cli-apps"
+        },
+        {
+          "itemCategory": "Development tools",
+          "itemName": "ATAC",
+          "observedAt": "2026-06-22",
+          "sourceQuality": 99,
+          "sourceRepo": "rust-unofficial/awesome-rust",
+          "sourceStatus": "ROSTER",
+          "sourceTitle": "awesome-rust",
+          "sourceUrl": "https://github.com/rust-unofficial/awesome-rust"
+        }
+      ],
+      "summary": "A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.",
+      "url": "https://github.com/julien-cpsn/atac"
+    },
+    {
+      "caveat": "Promising signal, but source consensus is still narrow.",
+      "domain": "devops",
+      "id": "cmnwlwftr00h9vn4d140gj6ih",
+      "label": "Worth Trying",
+      "maintenance": {
+        "archived": false,
+        "graveyarded": false
+      },
+      "name": "bandwhich",
+      "rationale": "Worth trying: process-level bandwidth visibility from a terminal UI; small, focused, and easy to evaluate.",
+      "review": {
+        "caveat": "Promising signal, but source consensus is still narrow.",
+        "notes": "Worth trying: process-level bandwidth visibility from a terminal UI; small, focused, and easy to evaluate.",
+        "reviewedAt": "2026-06-22",
+        "reviewedBy": "Juan",
+        "status": "Worth Trying"
+      },
+      "slug": "imsnif-bandwhich",
+      "sourceSignal": "Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust",
+      "sourceTraces": [
+        {
+          "itemCategory": "Utilities",
+          "itemName": "bandwhich",
+          "observedAt": "2026-06-15",
+          "sourceQuality": 90,
+          "sourceRepo": "agarrharr/awesome-cli-apps",
+          "sourceStatus": "ROSTER",
+          "sourceTitle": "awesome-cli-apps",
+          "sourceUrl": "https://github.com/agarrharr/awesome-cli-apps"
+        },
+        {
+          "itemCategory": "Applications",
+          "itemName": "bandwhich",
+          "observedAt": "2026-06-22",
+          "sourceQuality": 99,
+          "sourceRepo": "rust-unofficial/awesome-rust",
+          "sourceStatus": "ROSTER",
+          "sourceTitle": "awesome-rust",
+          "sourceUrl": "https://github.com/rust-unofficial/awesome-rust"
+        }
+      ],
+      "summary": "Track bandwidth utilization by process.",
+      "url": "https://github.com/imsnif/bandwhich"
+    },
+    {
+      "caveat": "Promising signal, but source consensus is still narrow.",
+      "domain": "tooling",
+      "id": "cmnwlvz9e009tvn4df1t804eq",
+      "label": "Worth Trying",
+      "maintenance": {
+        "archived": false,
+        "graveyarded": false
+      },
+      "name": "broot",
+      "rationale": "Worth trying: fast terminal navigation for large directory trees, with a workflow meaningfully different from plain cd/find.",
+      "review": {
+        "caveat": "Promising signal, but source consensus is still narrow.",
+        "notes": "Worth trying: fast terminal navigation for large directory trees, with a workflow meaningfully different from plain cd/find.",
+        "reviewedAt": "2026-06-22",
+        "reviewedBy": "Juan",
+        "status": "Worth Trying"
+      },
+      "slug": "canop-broot",
+      "sourceSignal": "Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust",
+      "sourceTraces": [
+        {
+          "itemCategory": "Files and Directories",
+          "itemName": "broot",
+          "observedAt": "2026-06-15",
+          "sourceQuality": 90,
+          "sourceRepo": "agarrharr/awesome-cli-apps",
+          "sourceStatus": "ROSTER",
+          "sourceTitle": "awesome-cli-apps",
+          "sourceUrl": "https://github.com/agarrharr/awesome-cli-apps"
+        },
+        {
+          "itemCategory": "Applications",
+          "itemName": "broot",
+          "observedAt": "2026-06-22",
+          "sourceQuality": 99,
+          "sourceRepo": "rust-unofficial/awesome-rust",
+          "sourceStatus": "ROSTER",
+          "sourceTitle": "awesome-rust",
+          "sourceUrl": "https://github.com/rust-unofficial/awesome-rust"
+        }
+      ],
+      "summary": "A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then cd to it; never lose track of file hierarchy while you search; manipulate your files, ...), further...",
+      "url": "https://github.com/canop/broot"
+    },
+    {
+      "caveat": "Best fit for teams with a matching ML or data workflow.",
+      "domain": "ai-ml",
+      "id": "cmnwkv77a04ry1p4t2q5qm30t",
+      "label": "Worth Trying",
+      "maintenance": {
+        "archived": false,
+        "graveyarded": false
+      },
+      "name": "candle",
+      "rationale": "Worth trying: Rust-native ML framework with a clear portability/performance angle for teams exploring ML outside Python runtime defaults.",
+      "review": {
+        "caveat": "Best fit for teams with a matching ML or data workflow.",
+        "notes": "Worth trying: Rust-native ML framework with a clear portability/performance angle for teams exploring ML outside Python runtime defaults.",
+        "reviewedAt": "2026-06-22",
+        "reviewedBy": "Juan",
+        "status": "Worth Trying"
+      },
+      "slug": "huggingface-candle",
+      "sourceSignal": "Found in 2 active sources: rust-unofficial/awesome-rust, josephmisiti/awesome-machine-learning",
+      "sourceTraces": [
+        {
+          "itemCategory": "Libraries",
+          "itemName": "huggingface/candle",
+          "observedAt": "2026-06-22",
+          "sourceQuality": 99,
+          "sourceRepo": "rust-unofficial/awesome-rust",
+          "sourceStatus": "ROSTER",
+          "sourceTitle": "awesome-rust",
+          "sourceUrl": "https://github.com/rust-unofficial/awesome-rust"
+        },
+        {
+          "itemCategory": "Rust",
+          "itemName": "candle",
+          "observedAt": "2026-06-22",
+          "sourceQuality": 84,
+          "sourceRepo": "josephmisiti/awesome-machine-learning",
+          "sourceStatus": "ROSTER",
+          "sourceTitle": "awesome-machine-learning",
+          "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
+        }
+      ],
+      "summary": "Candle is a minimalist ML framework for Rust with a focus on performance (including GPU support) and ease of use.",
+      "url": "https://github.com/huggingface/candle"
+    },
+    {
+      "caveat": "Promising signal, but source consensus is still narrow.",
+      "domain": "ai-ml",
+      "id": "cmnwkovzc01ye1p4trj7nl1lb",
+      "label": "Worth Trying",
+      "maintenance": {
+        "archived": false,
+        "graveyarded": false
+      },
+      "name": "Chroma",
+      "rationale": "Worth trying: approachable open-source embedding database for prototyping retrieval and agent memory workflows.",
+      "review": {
+        "caveat": "Promising signal, but source consensus is still narrow.",
+        "notes": "Worth trying: approachable open-source embedding database for prototyping retrieval and agent memory workflows.",
+        "reviewedAt": "2026-06-22",
+        "reviewedBy": "Juan",
+        "status": "Worth Trying"
+      },
+      "slug": "chroma-core-chroma",
+      "sourceSignal": "Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python",
+      "sourceTraces": [
+        {
+          "itemCategory": "Data Storage Optimisation",
+          "itemName": "Chroma",
+          "observedAt": "2026-06-22",
+          "sourceQuality": 92,
+          "sourceRepo": "EthicalML/awesome-production-machine-learning",
+          "sourceStatus": "ROSTER",
+          "sourceTitle": "awesome-production-machine-learning",
+          "sourceUrl": "https://github.com/EthicalML/awesome-production-machine-learning"
+        },
+        {
+          "itemCategory": "Projects",
+          "itemName": "chromadb",
+          "observedAt": "2026-06-15",
+          "sourceQuality": 91,
+          "sourceRepo": "vinta/awesome-python",
+          "sourceStatus": "ROSTER",
+          "sourceTitle": "awesome-python",
+          "sourceUrl": "https://github.com/vinta/awesome-python"
+        }
+      ],
+      "summary": "Chroma is an open-source embedding database.",
+      "url": "https://github.com/chroma-core/chroma"
     },
     {
       "caveat": "Useful standard, but not a discovery or emerging pick.",
@@ -710,10 +1288,10 @@
         "graveyarded": false
       },
       "name": "D3js",
-      "rationale": "Control granular sobre cada pixel renderizado",
+      "rationale": "is a powerful data visualization javascript library.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Control granular sobre cada pixel renderizado",
+        "notes": "is a powerful data visualization javascript library.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -808,10 +1386,10 @@
         "graveyarded": false
       },
       "name": "Dragonfly",
-      "rationale": "Reduce carga en registry central y costo de egress a internet",
+      "rationale": "Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Reduce carga en registry central y costo de egress a internet",
+        "notes": "Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -1095,50 +1673,6 @@
     {
       "caveat": "Candidate still needs human review before endorsement.",
       "domain": "tooling",
-      "id": "cmnwlwza900pyvn4d8ouw69a9",
-      "label": "AI Candidate",
-      "maintenance": {
-        "archived": false,
-        "graveyarded": false
-      },
-      "name": "intelli-shell",
-      "rationale": "Bookmark commands with placeholders and search or autocomplete at any time",
-      "review": {
-        "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Bookmark commands with placeholders and search or autocomplete at any time",
-        "reviewedAt": "2026-04-13",
-        "status": "AI Candidate"
-      },
-      "slug": "lasantosr-intelli-shell",
-      "sourceSignal": "Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust",
-      "sourceTraces": [
-        {
-          "itemCategory": "Utilities",
-          "itemName": "intelli-shell",
-          "observedAt": "2026-06-15",
-          "sourceQuality": 90,
-          "sourceRepo": "agarrharr/awesome-cli-apps",
-          "sourceStatus": "ROSTER",
-          "sourceTitle": "awesome-cli-apps",
-          "sourceUrl": "https://github.com/agarrharr/awesome-cli-apps"
-        },
-        {
-          "itemCategory": "Development tools",
-          "itemName": "intelli-shell",
-          "observedAt": "2026-06-22",
-          "sourceQuality": 99,
-          "sourceRepo": "rust-unofficial/awesome-rust",
-          "sourceStatus": "ROSTER",
-          "sourceTitle": "awesome-rust",
-          "sourceUrl": "https://github.com/rust-unofficial/awesome-rust"
-        }
-      ],
-      "summary": "Bookmark commands with placeholders and search or autocomplete at any time",
-      "url": "https://github.com/lasantosr/intelli-shell"
-    },
-    {
-      "caveat": "Candidate still needs human review before endorsement.",
-      "domain": "tooling",
       "id": "cmnwknk2101cx1p4txp0azxs1",
       "label": "AI Candidate",
       "maintenance": {
@@ -1278,10 +1812,10 @@
         "graveyarded": false
       },
       "name": "LightGBM",
-      "rationale": "Velocidad de entrenamiento significativamente superior a XGBoost en datasets grandes",
+      "rationale": "Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Velocidad de entrenamiento significativamente superior a XGBoost en datasets grandes",
+        "notes": "Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -1422,50 +1956,6 @@
     },
     {
       "caveat": "Candidate still needs human review before endorsement.",
-      "domain": "ai-ml",
-      "id": "cmnwknkwt01da1p4thk72udzl",
-      "label": "AI Candidate",
-      "maintenance": {
-        "archived": false,
-        "graveyarded": false
-      },
-      "name": "Mem0",
-      "rationale": "API simple para integrar memoria en agentes",
-      "review": {
-        "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "API simple para integrar memoria en agentes",
-        "reviewedAt": "2026-04-13",
-        "status": "AI Candidate"
-      },
-      "slug": "mem0ai-mem0",
-      "sourceSignal": "Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python",
-      "sourceTraces": [
-        {
-          "itemCategory": "Industry Strength Information Retrieval",
-          "itemName": "Mem0",
-          "observedAt": "2026-06-22",
-          "sourceQuality": 92,
-          "sourceRepo": "EthicalML/awesome-production-machine-learning",
-          "sourceStatus": "ROSTER",
-          "sourceTitle": "awesome-production-machine-learning",
-          "sourceUrl": "https://github.com/EthicalML/awesome-production-machine-learning"
-        },
-        {
-          "itemCategory": "Projects",
-          "itemName": "mem0",
-          "observedAt": "2026-06-15",
-          "sourceQuality": 91,
-          "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "ROSTER",
-          "sourceTitle": "awesome-python",
-          "sourceUrl": "https://github.com/vinta/awesome-python"
-        }
-      ],
-      "summary": "Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions.",
-      "url": "https://github.com/mem0ai/mem0"
-    },
-    {
-      "caveat": "Candidate still needs human review before endorsement.",
       "domain": "tooling",
       "id": "cmnwkpxbs02fb1p4t5gih45p3",
       "label": "AI Candidate",
@@ -1474,10 +1964,10 @@
         "graveyarded": false
       },
       "name": "mitmproxy",
-      "rationale": "Interfaz web moderna y CLI potente",
+      "rationale": "A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems. MIT Python",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Interfaz web moderna y CLI potente",
+        "notes": "A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems. MIT Python",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -1542,10 +2032,10 @@
         "graveyarded": false
       },
       "name": "Moby",
-      "rationale": "Comunidad masiva y mantenimiento activo de Docker Inc",
+      "rationale": "Collaborative project for the container ecosystem to assemble container-based systems.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Comunidad masiva y mantenimiento activo de Docker Inc",
+        "notes": "Collaborative project for the container ecosystem to assemble container-based systems.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -2280,10 +2770,10 @@
         "graveyarded": false
       },
       "name": "ZooKeeper",
-      "rationale": "Usado exitosamente en prod masivo (Netflix, Uber)",
+      "rationale": "ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Usado exitosamente en prod masivo (Netflix, Uber)",
+        "notes": "ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -2426,10 +2916,10 @@
         "graveyarded": false
       },
       "name": "AFFiNE Community Edition",
-      "rationale": "Interfaz moderna con Excalidraw integrado",
+      "rationale": "Next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, customizable and ready to use (alternative to...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Interfaz moderna con Excalidraw integrado",
+        "notes": "Next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, customizable and ready to use (alternative to...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -2449,50 +2939,6 @@
       ],
       "summary": "Next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, customizable and ready to use (alternative to Notion and Miro). (Demo, ) MIT/AGPL-3.0 Docker",
       "url": "https://affine.pro"
-    },
-    {
-      "caveat": "Candidate still needs human review before endorsement.",
-      "domain": "ai-ml",
-      "id": "cmnwlw6lm00d5vn4dtvazqp3b",
-      "label": "AI Candidate",
-      "maintenance": {
-        "archived": false,
-        "graveyarded": false
-      },
-      "name": "agent-of-empires",
-      "rationale": "A TUI/CLI for managing multiple AI coding agent sessions with tmux, git worktrees, and Docker sandboxing",
-      "review": {
-        "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "A TUI/CLI for managing multiple AI coding agent sessions with tmux, git worktrees, and Docker sandboxing",
-        "reviewedAt": "2026-04-13",
-        "status": "AI Candidate"
-      },
-      "slug": "njbrake-agent-of-empires",
-      "sourceSignal": "Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust",
-      "sourceTraces": [
-        {
-          "itemCategory": "AI",
-          "itemName": "agent-of-empires",
-          "observedAt": "2026-06-15",
-          "sourceQuality": 90,
-          "sourceRepo": "agarrharr/awesome-cli-apps",
-          "sourceStatus": "ROSTER",
-          "sourceTitle": "awesome-cli-apps",
-          "sourceUrl": "https://github.com/agarrharr/awesome-cli-apps"
-        },
-        {
-          "itemCategory": "Applications",
-          "itemName": "agent-of-empires",
-          "observedAt": "2026-06-22",
-          "sourceQuality": 99,
-          "sourceRepo": "rust-unofficial/awesome-rust",
-          "sourceStatus": "ROSTER",
-          "sourceTitle": "awesome-rust",
-          "sourceUrl": "https://github.com/rust-unofficial/awesome-rust"
-        }
-      ],
-      "summary": "A TUI/CLI for managing multiple AI coding agent sessions with tmux, git worktrees, and Docker sandboxing",
-      "url": "https://github.com/njbrake/agent-of-empires"
     },
     {
       "caveat": "Candidate still needs human review before endorsement.",
@@ -2642,50 +3088,6 @@
     },
     {
       "caveat": "Candidate still needs human review before endorsement.",
-      "domain": "ai-ml",
-      "id": "cmnwkwetw01jpb0i78htji1tm",
-      "label": "AI Candidate",
-      "maintenance": {
-        "archived": false,
-        "graveyarded": false
-      },
-      "name": "Aim",
-      "rationale": "Interfaz intuitiva, UI limpia vs Weights&Biases",
-      "review": {
-        "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Interfaz intuitiva, UI limpia vs Weights&Biases",
-        "reviewedAt": "2026-04-13",
-        "status": "AI Candidate"
-      },
-      "slug": "aimhubio-aim-2zw8",
-      "sourceSignal": "Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning",
-      "sourceTraces": [
-        {
-          "itemCategory": "Model, Data and Experiment Management",
-          "itemName": "Aim",
-          "observedAt": "2026-06-22",
-          "sourceQuality": 92,
-          "sourceRepo": "EthicalML/awesome-production-machine-learning",
-          "sourceStatus": "ROSTER",
-          "sourceTitle": "awesome-production-machine-learning",
-          "sourceUrl": "https://github.com/EthicalML/awesome-production-machine-learning"
-        },
-        {
-          "itemCategory": "Python",
-          "itemName": "Aim",
-          "observedAt": "2026-06-22",
-          "sourceQuality": 84,
-          "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
-          "sourceTitle": "awesome-machine-learning",
-          "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
-        }
-      ],
-      "summary": "A super-easy way to record, search and compare AI experiments.",
-      "url": "https://github.com/aimhubio/aim"
-    },
-    {
-      "caveat": "Candidate still needs human review before endorsement.",
       "domain": "tooling",
       "id": "cmnwlwfki00h4vn4d8vknda0b",
       "label": "AI Candidate",
@@ -2816,10 +3218,10 @@
         "graveyarded": false
       },
       "name": "Another Redis Desktop Manager",
-      "rationale": "Estabilidad genuina con keys masivos, interfaz responsiva",
+      "rationale": "A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Estabilidad genuina con keys masivos, interfaz responsiva",
+        "notes": "A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -3227,50 +3629,6 @@
     {
       "caveat": "Candidate still needs human review before endorsement.",
       "domain": "tooling",
-      "id": "cmnwlw6u500d9vn4dz3s8x95r",
-      "label": "AI Candidate",
-      "maintenance": {
-        "archived": false,
-        "graveyarded": false
-      },
-      "name": "ast-grep",
-      "rationale": "Velocidad nativa en Rust, manejo correcto de AST vs regex",
-      "review": {
-        "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Velocidad nativa en Rust, manejo correcto de AST vs regex",
-        "reviewedAt": "2026-04-13",
-        "status": "AI Candidate"
-      },
-      "slug": "ast-grep-ast-grep",
-      "sourceSignal": "Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust",
-      "sourceTraces": [
-        {
-          "itemCategory": "Files and Directories",
-          "itemName": "ast-grep",
-          "observedAt": "2026-06-15",
-          "sourceQuality": 90,
-          "sourceRepo": "agarrharr/awesome-cli-apps",
-          "sourceStatus": "ROSTER",
-          "sourceTitle": "awesome-cli-apps",
-          "sourceUrl": "https://github.com/agarrharr/awesome-cli-apps"
-        },
-        {
-          "itemCategory": "Applications",
-          "itemName": "ast-grep",
-          "observedAt": "2026-06-22",
-          "sourceQuality": 99,
-          "sourceRepo": "rust-unofficial/awesome-rust",
-          "sourceStatus": "ROSTER",
-          "sourceTitle": "awesome-rust",
-          "sourceUrl": "https://github.com/rust-unofficial/awesome-rust"
-        }
-      ],
-      "summary": "A CLI tool for code structural search, lint and rewriting.",
-      "url": "https://github.com/ast-grep/ast-grep"
-    },
-    {
-      "caveat": "Candidate still needs human review before endorsement.",
-      "domain": "tooling",
       "id": "cmnwkp0t9020m1p4t9c79ud7a",
       "label": "AI Candidate",
       "maintenance": {
@@ -3278,10 +3636,10 @@
         "graveyarded": false
       },
       "name": "astral-sh/ruff",
-      "rationale": "Velocidad 10-100x respecto a flake8/black",
+      "rationale": "An extremely fast Python linter and code formatter",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Velocidad 10-100x respecto a flake8/black",
+        "notes": "An extremely fast Python linter and code formatter",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -3315,94 +3673,6 @@
     {
       "caveat": "Candidate still needs human review before endorsement.",
       "domain": "tooling",
-      "id": "cmnwlwx8x00p4vn4debc4c6mn",
-      "label": "AI Candidate",
-      "maintenance": {
-        "archived": false,
-        "graveyarded": false
-      },
-      "name": "ATAC",
-      "rationale": "Completamente offline y funcional",
-      "review": {
-        "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Completamente offline y funcional",
-        "reviewedAt": "2026-04-13",
-        "status": "AI Candidate"
-      },
-      "slug": "julien-cpsn-atac",
-      "sourceSignal": "Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust",
-      "sourceTraces": [
-        {
-          "itemCategory": "Development",
-          "itemName": "ATAC",
-          "observedAt": "2026-06-15",
-          "sourceQuality": 90,
-          "sourceRepo": "agarrharr/awesome-cli-apps",
-          "sourceStatus": "ROSTER",
-          "sourceTitle": "awesome-cli-apps",
-          "sourceUrl": "https://github.com/agarrharr/awesome-cli-apps"
-        },
-        {
-          "itemCategory": "Development tools",
-          "itemName": "ATAC",
-          "observedAt": "2026-06-22",
-          "sourceQuality": 99,
-          "sourceRepo": "rust-unofficial/awesome-rust",
-          "sourceStatus": "ROSTER",
-          "sourceTitle": "awesome-rust",
-          "sourceUrl": "https://github.com/rust-unofficial/awesome-rust"
-        }
-      ],
-      "summary": "A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.",
-      "url": "https://github.com/julien-cpsn/atac"
-    },
-    {
-      "caveat": "Candidate still needs human review before endorsement.",
-      "domain": "devops",
-      "id": "cmnwlwftr00h9vn4d140gj6ih",
-      "label": "AI Candidate",
-      "maintenance": {
-        "archived": false,
-        "graveyarded": false
-      },
-      "name": "bandwhich",
-      "rationale": "Interfaz TUI clara y responsiva",
-      "review": {
-        "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Interfaz TUI clara y responsiva",
-        "reviewedAt": "2026-04-13",
-        "status": "AI Candidate"
-      },
-      "slug": "imsnif-bandwhich",
-      "sourceSignal": "Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust",
-      "sourceTraces": [
-        {
-          "itemCategory": "Utilities",
-          "itemName": "bandwhich",
-          "observedAt": "2026-06-15",
-          "sourceQuality": 90,
-          "sourceRepo": "agarrharr/awesome-cli-apps",
-          "sourceStatus": "ROSTER",
-          "sourceTitle": "awesome-cli-apps",
-          "sourceUrl": "https://github.com/agarrharr/awesome-cli-apps"
-        },
-        {
-          "itemCategory": "Applications",
-          "itemName": "bandwhich",
-          "observedAt": "2026-06-22",
-          "sourceQuality": 99,
-          "sourceRepo": "rust-unofficial/awesome-rust",
-          "sourceStatus": "ROSTER",
-          "sourceTitle": "awesome-rust",
-          "sourceUrl": "https://github.com/rust-unofficial/awesome-rust"
-        }
-      ],
-      "summary": "Track bandwidth utilization by process.",
-      "url": "https://github.com/imsnif/bandwhich"
-    },
-    {
-      "caveat": "Candidate still needs human review before endorsement.",
-      "domain": "tooling",
       "id": "cmnwlw6yg00davn4d0pdd2z0y",
       "label": "AI Candidate",
       "maintenance": {
@@ -3410,10 +3680,10 @@
         "graveyarded": false
       },
       "name": "Bartib",
-      "rationale": "Binario compilado, cero dependencias runtime",
+      "rationale": "] A simple timetracker for the command line",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Binario compilado, cero dependencias runtime",
+        "notes": "] A simple timetracker for the command line",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -3566,10 +3836,10 @@
         "graveyarded": false
       },
       "name": "boilr",
-      "rationale": "Simple y directo, sin dependencias pesadas",
+      "rationale": "Blazingly fast CLI tool for creating projects from boilerplate templates.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Simple y directo, sin dependencias pesadas",
+        "notes": "Blazingly fast CLI tool for creating projects from boilerplate templates.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -3837,50 +4107,6 @@
     {
       "caveat": "Candidate still needs human review before endorsement.",
       "domain": "tooling",
-      "id": "cmnwlvz9e009tvn4df1t804eq",
-      "label": "AI Candidate",
-      "maintenance": {
-        "archived": false,
-        "graveyarded": false
-      },
-      "name": "broot",
-      "rationale": "A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then cd to it; never lose track of...",
-      "review": {
-        "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then cd to it; never lose track of...",
-        "reviewedAt": "2026-04-13",
-        "status": "AI Candidate"
-      },
-      "slug": "canop-broot",
-      "sourceSignal": "Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust",
-      "sourceTraces": [
-        {
-          "itemCategory": "Files and Directories",
-          "itemName": "broot",
-          "observedAt": "2026-06-15",
-          "sourceQuality": 90,
-          "sourceRepo": "agarrharr/awesome-cli-apps",
-          "sourceStatus": "ROSTER",
-          "sourceTitle": "awesome-cli-apps",
-          "sourceUrl": "https://github.com/agarrharr/awesome-cli-apps"
-        },
-        {
-          "itemCategory": "Applications",
-          "itemName": "broot",
-          "observedAt": "2026-06-22",
-          "sourceQuality": 99,
-          "sourceRepo": "rust-unofficial/awesome-rust",
-          "sourceStatus": "ROSTER",
-          "sourceTitle": "awesome-rust",
-          "sourceUrl": "https://github.com/rust-unofficial/awesome-rust"
-        }
-      ],
-      "summary": "A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then cd to it; never lose track of file hierarchy while you search; manipulate your files, ...), further...",
-      "url": "https://github.com/canop/broot"
-    },
-    {
-      "caveat": "Candidate still needs human review before endorsement.",
-      "domain": "tooling",
       "id": "cmnwlx3eq00rvvn4dhex9djlz",
       "label": "AI Candidate",
       "maintenance": {
@@ -4043,50 +4269,6 @@
       ],
       "summary": "Analyzes resource usage and performance characteristics of running containers. Apache-2.0 Go",
       "url": "https://github.com/google/cadvisor"
-    },
-    {
-      "caveat": "Candidate still needs human review before endorsement.",
-      "domain": "ai-ml",
-      "id": "cmnwkv77a04ry1p4t2q5qm30t",
-      "label": "AI Candidate",
-      "maintenance": {
-        "archived": false,
-        "graveyarded": false
-      },
-      "name": "candle",
-      "rationale": "API simple, sintaxis clara, menos boilerplate que otros frameworks",
-      "review": {
-        "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "API simple, sintaxis clara, menos boilerplate que otros frameworks",
-        "reviewedAt": "2026-04-13",
-        "status": "AI Candidate"
-      },
-      "slug": "huggingface-candle",
-      "sourceSignal": "Found in 2 active sources: rust-unofficial/awesome-rust, josephmisiti/awesome-machine-learning",
-      "sourceTraces": [
-        {
-          "itemCategory": "Libraries",
-          "itemName": "huggingface/candle",
-          "observedAt": "2026-06-22",
-          "sourceQuality": 99,
-          "sourceRepo": "rust-unofficial/awesome-rust",
-          "sourceStatus": "ROSTER",
-          "sourceTitle": "awesome-rust",
-          "sourceUrl": "https://github.com/rust-unofficial/awesome-rust"
-        },
-        {
-          "itemCategory": "Rust",
-          "itemName": "candle",
-          "observedAt": "2026-06-22",
-          "sourceQuality": 84,
-          "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
-          "sourceTitle": "awesome-machine-learning",
-          "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
-        }
-      ],
-      "summary": "Candle is a minimalist ML framework for Rust with a focus on performance (including GPU support) and ease of use.",
-      "url": "https://github.com/huggingface/candle"
     },
     {
       "caveat": "Candidate still needs human review before endorsement.",
@@ -4345,50 +4527,6 @@
       ],
       "summary": "SMTP (email) server with a focus on simplicity, security, and ease of operation. Apache-2.0 Go",
       "url": "https://blitiri.com.ar/p/chasquid"
-    },
-    {
-      "caveat": "Candidate still needs human review before endorsement.",
-      "domain": "ai-ml",
-      "id": "cmnwkovzc01ye1p4trj7nl1lb",
-      "label": "AI Candidate",
-      "maintenance": {
-        "archived": false,
-        "graveyarded": false
-      },
-      "name": "Chroma",
-      "rationale": "API simple y bien documentada para CRUD vectorial",
-      "review": {
-        "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "API simple y bien documentada para CRUD vectorial",
-        "reviewedAt": "2026-04-13",
-        "status": "AI Candidate"
-      },
-      "slug": "chroma-core-chroma",
-      "sourceSignal": "Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python",
-      "sourceTraces": [
-        {
-          "itemCategory": "Data Storage Optimisation",
-          "itemName": "Chroma",
-          "observedAt": "2026-06-22",
-          "sourceQuality": 92,
-          "sourceRepo": "EthicalML/awesome-production-machine-learning",
-          "sourceStatus": "ROSTER",
-          "sourceTitle": "awesome-production-machine-learning",
-          "sourceUrl": "https://github.com/EthicalML/awesome-production-machine-learning"
-        },
-        {
-          "itemCategory": "Projects",
-          "itemName": "chromadb",
-          "observedAt": "2026-06-15",
-          "sourceQuality": 91,
-          "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "ROSTER",
-          "sourceTitle": "awesome-python",
-          "sourceUrl": "https://github.com/vinta/awesome-python"
-        }
-      ],
-      "summary": "Chroma is an open-source embedding database.",
-      "url": "https://github.com/chroma-core/chroma"
     },
     {
       "caveat": "Candidate still needs human review before endorsement.",
@@ -5034,10 +5172,10 @@
         "graveyarded": false
       },
       "name": "ctop",
-      "rationale": "interfaz intuitiva similar a htop",
+      "rationale": "monitoreo en vivo sin overhead",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "interfaz intuitiva similar a htop",
+        "notes": "monitoreo en vivo sin overhead",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -5268,10 +5406,10 @@
         "graveyarded": false
       },
       "name": "dasel",
-      "rationale": "Multi-format en una herramienta, cero dependencias runtime (Go binary)",
+      "rationale": "Sintaxis consistente vs aprender jq Y yq por separado",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Multi-format en una herramienta, cero dependencias runtime (Go binary)",
+        "notes": "Sintaxis consistente vs aprender jq Y yq por separado",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -5810,10 +5948,10 @@
         "graveyarded": false
       },
       "name": "diskonaut",
-      "rationale": "Interfaz TUI responsiva y fluida",
+      "rationale": "Terminal visual disk space navigator",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Interfaz TUI responsiva y fluida",
+        "notes": "Terminal visual disk space navigator",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -6654,10 +6792,10 @@
         "graveyarded": false
       },
       "name": "fjira",
-      "rationale": "Interfaz responsiva y fuzzy search fluido",
+      "rationale": "A fuzzy-search based terminal UI application for Attlasian Jira",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Interfaz responsiva y fuzzy search fluido",
+        "notes": "A fuzzy-search based terminal UI application for Attlasian Jira",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -6800,10 +6938,10 @@
         "graveyarded": false
       },
       "name": "Flink",
-      "rationale": "Escalabilidad probada en petabytes",
+      "rationale": "API unificada para stream y batch",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Escalabilidad probada en petabytes",
+        "notes": "API unificada para stream y batch",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -6878,10 +7016,10 @@
         "graveyarded": false
       },
       "name": "fx",
-      "rationale": "Interfaz interactiva fluida, binario tiny (~6MB)",
+      "rationale": "Terminal JSON viewer & processor.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Interfaz interactiva fluida, binario tiny (~6MB)",
+        "notes": "Terminal JSON viewer & processor.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -7176,10 +7314,10 @@
         "graveyarded": false
       },
       "name": "GitButler",
-      "rationale": "Stacked branches + undo infinito elimina rebase pain",
+      "rationale": "Agent integrations reducen manual rebasing",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Stacked branches + undo infinito elimina rebase pain",
+        "notes": "Agent integrations reducen manual rebasing",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -8404,10 +8542,10 @@
         "graveyarded": false
       },
       "name": "Infinity",
-      "rationale": "Velocidad en C++20 vs Python puro",
+      "rationale": "Full-text + vector search combinado",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Velocidad en C++20 vs Python puro",
+        "notes": "Full-text + vector search combinado",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -8438,10 +8576,10 @@
         "graveyarded": false
       },
       "name": "IntelliJ IDEA",
-      "rationale": "IDE JetBrains flagship para JVM (Java, Kotlin, etc). Gold standard en desarrollo backend/Android. Poderoso pero costoso. Alternativas libres...",
+      "rationale": "Powerful IDE for JVM languages. (Free for Students)",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "IDE JetBrains flagship para JVM (Java, Kotlin, etc). Gold standard en desarrollo backend/Android. Poderoso pero costoso. Alternativas libres...",
+        "notes": "Powerful IDE for JVM languages. (Free for Students)",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -9208,10 +9346,10 @@
         "graveyarded": false
       },
       "name": "LargeModGames/spotatui",
-      "rationale": "Streaming nativo sin dependencias externas pesadas",
+      "rationale": "] A Spotify terminal client with native streaming, synced lyrics, and real-time audio visualization",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Streaming nativo sin dependencias externas pesadas",
+        "notes": "] A Spotify terminal client with native streaming, synced lyrics, and real-time audio visualization",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -9252,10 +9390,10 @@
         "graveyarded": false
       },
       "name": "lazydocker",
-      "rationale": "Interfaz intuitiva que acelera workflows docker en desarrollo",
+      "rationale": "The lazier way to manage everything docker. A simple terminal UI for both docker and docker-compose, written in Go with the gocui library. By...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Interfaz intuitiva que acelera workflows docker en desarrollo",
+        "notes": "The lazier way to manage everything docker. A simple terminal UI for both docker and docker-compose, written in Go with the gocui library. By...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -9774,10 +9912,10 @@
         "graveyarded": false
       },
       "name": "Lynis",
-      "rationale": "Amplio coverage de checks de seguridad",
+      "rationale": "Output estructurado, integrable en pipelines",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Amplio coverage de checks de seguridad",
+        "notes": "Output estructurado, integrable en pipelines",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -9842,10 +9980,10 @@
         "graveyarded": false
       },
       "name": "Mailspring",
-      "rationale": "Desarrollo activo con releases regulares",
+      "rationale": "A beautiful, fast, and fully open source mail client. (https://github.com/Foundry376/Mailspring)",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Desarrollo activo con releases regulares",
+        "notes": "A beautiful, fast, and fully open source mail client. (https://github.com/Foundry376/Mailspring)",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -10188,10 +10326,10 @@
         "graveyarded": false
       },
       "name": "microsoft/markitdown",
-      "rationale": "Microsoft backing, mantenimiento activo",
+      "rationale": "🎖️ 🐍 🏠 MCP tool access to MarkItDown -- a library that converts many file formats (local or remote) to Markdown for LLM consumption.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Microsoft backing, mantenimiento activo",
+        "notes": "🎖️ 🐍 🏠 MCP tool access to MarkItDown -- a library that converts many file formats (local or remote) to Markdown for LLM consumption.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -11253,25 +11391,35 @@
     {
       "caveat": "Candidate still needs human review before endorsement.",
       "domain": "ai-ml",
-      "id": "cmnwl3pmo04tkb0i7y873tadf",
+      "id": "cmnwkwv1701r1b0i7lylxsfzi",
       "label": "AI Candidate",
       "maintenance": {
         "archived": false,
         "graveyarded": false
       },
       "name": "Opik",
-      "rationale": "Trazado granular de LLM chains",
+      "rationale": "Opik is an open-source platform for evaluating, testing and monitoring LLM applications.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Trazado granular de LLM chains",
+        "notes": "Opik is an open-source platform for evaluating, testing and monitoring LLM applications.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
-      "slug": "comet-2-lz3u",
-      "sourceSignal": "Found in 1 active source: josephmisiti/awesome-machine-learning",
+      "slug": "comet-ml-opik-gh7f",
+      "sourceSignal": "Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning",
       "sourceTraces": [
         {
-          "itemCategory": "C++",
+          "itemCategory": "Evaluation and Monitoring",
+          "itemName": "Opik",
+          "observedAt": "2026-06-22",
+          "sourceQuality": 92,
+          "sourceRepo": "EthicalML/awesome-production-machine-learning",
+          "sourceStatus": "ROSTER",
+          "sourceTitle": "awesome-production-machine-learning",
+          "sourceUrl": "https://github.com/EthicalML/awesome-production-machine-learning"
+        },
+        {
+          "itemCategory": "Python",
           "itemName": "Opik",
           "observedAt": "2026-06-22",
           "sourceQuality": 84,
@@ -11281,8 +11429,8 @@
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
       ],
-      "summary": "Open source engineering platform to debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
-      "url": "https://comet.com/site/products/opik"
+      "summary": "Opik is an open-source platform for evaluating, testing and monitoring LLM applications.",
+      "url": "https://github.com/comet-ml/opik"
     },
     {
       "caveat": "Candidate still needs human review before endorsement.",
@@ -11338,10 +11486,10 @@
         "graveyarded": false
       },
       "name": "orhun/rustypaste",
-      "rationale": "Performance excelente incluso bajo carga",
+      "rationale": "A minimal file upload/pastebin service",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Performance excelente incluso bajo carga",
+        "notes": "A minimal file upload/pastebin service",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -11484,10 +11632,10 @@
         "graveyarded": false
       },
       "name": "oxker",
-      "rationale": "Interfaz responsiva en terminal, cero overhead",
+      "rationale": "A simple tui to view & control docker containers. Written in Rust, making heavy use of ratatui & Bollard,.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Interfaz responsiva en terminal, cero overhead",
+        "notes": "A simple tui to view & control docker containers. Written in Rust, making heavy use of ratatui & Bollard,.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -11555,36 +11703,46 @@
     {
       "caveat": "Candidate still needs human review before endorsement.",
       "domain": "data",
-      "id": "cmnwknkai01d01p4tiaff2tii",
+      "id": "cmnwl477j051ib0i7hf0tsz0j",
       "label": "AI Candidate",
       "maintenance": {
         "archived": false,
         "graveyarded": false
       },
       "name": "pandas",
-      "rationale": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects,...",
+      "rationale": "API intuitiva, comunidad gigante",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects,...",
+        "notes": "API intuitiva, comunidad gigante",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
-      "slug": "pandas-dev-pandas",
-      "sourceSignal": "Found in 1 active source: vinta/awesome-python",
+      "slug": "pandas-nrua",
+      "sourceSignal": "Found in 2 active sources: wilsonfreitas/awesome-quant, josephmisiti/awesome-machine-learning",
       "sourceTraces": [
         {
-          "itemCategory": "Projects",
+          "itemCategory": "Numerical Libraries & Data Structures",
           "itemName": "pandas",
-          "observedAt": "2026-06-15",
-          "sourceQuality": 91,
-          "sourceRepo": "vinta/awesome-python",
+          "observedAt": "2026-06-22",
+          "sourceQuality": 100,
+          "sourceRepo": "wilsonfreitas/awesome-quant",
           "sourceStatus": "ROSTER",
-          "sourceTitle": "awesome-python",
-          "sourceUrl": "https://github.com/vinta/awesome-python"
+          "sourceTitle": "awesome-quant",
+          "sourceUrl": "https://github.com/wilsonfreitas/awesome-quant"
+        },
+        {
+          "itemCategory": "Python",
+          "itemName": "Pandas",
+          "observedAt": "2026-06-22",
+          "sourceQuality": 84,
+          "sourceRepo": "josephmisiti/awesome-machine-learning",
+          "sourceStatus": "ROSTER",
+          "sourceTitle": "awesome-machine-learning",
+          "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
       ],
-      "summary": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
-      "url": "https://github.com/pandas-dev/pandas"
+      "summary": "Python pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language. GitHub",
+      "url": "https://pandas.pydata.org"
     },
     {
       "caveat": "Candidate still needs human review before endorsement.",
@@ -12732,10 +12890,10 @@
         "graveyarded": false
       },
       "name": "rage",
-      "rationale": "Interfaz minimalista, sin opciones inseguras",
+      "rationale": "is a simple, modern, and secure file encryption tool, using the age format.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Interfaz minimalista, sin opciones inseguras",
+        "notes": "is a simple, modern, and secure file encryption tool, using the age format.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -13166,10 +13324,10 @@
         "graveyarded": false
       },
       "name": "rshijack",
-      "rationale": "Mantenimiento activo por kpcyrd",
+      "rationale": "TCP connection hijacker, Rust rewrite of shijack.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Mantenimiento activo por kpcyrd",
+        "notes": "TCP connection hijacker, Rust rewrite of shijack.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -13600,10 +13758,10 @@
         "graveyarded": false
       },
       "name": "scc",
-      "rationale": "Velocidad extrema (scans millones LOC)",
+      "rationale": "Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Velocidad extrema (scans millones LOC)",
+        "notes": "Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -14526,10 +14684,10 @@
         "graveyarded": false
       },
       "name": "ssh-vault",
-      "rationale": "Cero dependencias externas, aprovecha claves SSH existentes",
+      "rationale": "A simple tool to manage secrets using ssh keys for encryption and decryption.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Cero dependencias externas, aprovecha claves SSH existentes",
+        "notes": "A simple tool to manage secrets using ssh keys for encryption and decryption.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -14682,10 +14840,10 @@
         "graveyarded": false
       },
       "name": "Super Productivity",
-      "rationale": "Timeboxing forzado evita task-switching infinito",
+      "rationale": "Task manager with timeboxing and time tracking. (https://github.com/johannesjo/super-productivity)...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Timeboxing forzado evita task-switching infinito",
+        "notes": "Task manager with timeboxing and time tracking. (https://github.com/johannesjo/super-productivity)...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -15218,10 +15376,10 @@
         "graveyarded": false
       },
       "name": "TensorZero",
-      "rationale": "Unifica inference, evals y feedback en una interfaz",
+      "rationale": "data & learning flywheel for LLMs that unifies inference, observability, optimization, and experimentation",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Unifica inference, evals y feedback en una interfaz",
+        "notes": "data & learning flywheel for LLMs that unifies inference, observability, optimization, and experimentation",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -15252,10 +15410,10 @@
         "graveyarded": false
       },
       "name": "Termius",
-      "rationale": "Interfaz moderna y polida vs alternativas CLI puras",
+      "rationale": "A beautiful SSH and SFTP client for Mac. It is also available for mobile. (https://apps.apple.com/us/app/termius-terminal-ssh-client/id549039908?pl...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Interfaz moderna y polida vs alternativas CLI puras",
+        "notes": "A beautiful SSH and SFTP client for Mac. It is also available for mobile. (https://apps.apple.com/us/app/termius-terminal-ssh-client/id549039908?pl...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -16368,10 +16526,10 @@
         "graveyarded": false
       },
       "name": "Warp",
-      "rationale": "Escrito en Rust, performance real",
+      "rationale": "UX pensada como app moderna, no como emulador retro",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Escrito en Rust, performance real",
+        "notes": "UX pensada como app moderna, no como emulador retro",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -16704,10 +16862,10 @@
         "graveyarded": false
       },
       "name": "yazi",
-      "rationale": "Async I/O real evita bloqueos en carpetas grandes",
+      "rationale": "Blazing fast terminal file manager, based on async I/O.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Async I/O real evita bloqueos en carpetas grandes",
+        "notes": "Blazing fast terminal file manager, based on async I/O.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -16870,10 +17028,10 @@
         "graveyarded": false
       },
       "name": "ZenML",
-      "rationale": "Metadata tracking y caching built-in reduce overhead",
+      "rationale": "ZenML is an extensible, open-source MLOps framework to create reproducible ML pipelines with a focus on automated metadata tracking, caching, and...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Metadata tracking y caching built-in reduce overhead",
+        "notes": "ZenML is an extensible, open-source MLOps framework to create reproducible ML pipelines with a focus on automated metadata tracking, caching, and...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -16994,10 +17152,10 @@
         "graveyarded": false
       },
       "name": "Bit",
-      "rationale": "Modelo de dependencias por componente: cada uno trackea sus propias deps",
+      "rationale": "Manage and reuse vue components between projects. Easily isolate and share components from any project without changing its , organize curated...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Modelo de dependencias por componente: cada uno trackea sus propias deps",
+        "notes": "Manage and reuse vue components between projects. Easily isolate and share components from any project without changing its , organize curated...",
         "reviewedAt": "2026-04-15",
         "status": "Needs Review"
       },
@@ -17224,10 +17382,10 @@
         "graveyarded": false
       },
       "name": "ESLint",
-      "rationale": "Ecosistema masivo de plugins y configs compartidas",
+      "rationale": "A fully pluggable tool for identifying and reporting on patterns in JavaScript.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Ecosistema masivo de plugins y configs compartidas",
+        "notes": "A fully pluggable tool for identifying and reporting on patterns in JavaScript.",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -17454,10 +17612,10 @@
         "graveyarded": false
       },
       "name": "Vitest",
-      "rationale": "Velocidad 10-20x comparado con Jest en watch mode",
+      "rationale": "Hot module reloading para tests",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Velocidad 10-20x comparado con Jest en watch mode",
+        "notes": "Hot module reloading para tests",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -17776,10 +17934,10 @@
         "graveyarded": false
       },
       "name": "GitLab CI",
-      "rationale": "Feature-complete sin dependencias externas",
+      "rationale": "Gitlab's built-in, full-featured CI/CD solution. MIT Ruby",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Feature-complete sin dependencias externas",
+        "notes": "Gitlab's built-in, full-featured CI/CD solution. MIT Ruby",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -17891,10 +18049,10 @@
         "graveyarded": false
       },
       "name": "Hasura GraphQL Engine",
-      "rationale": "Webhooks en eventos DB nativos, evita polling",
+      "rationale": "Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Webhooks en eventos DB nativos, evita polling",
+        "notes": "Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -17914,10 +18072,10 @@
         "graveyarded": false
       },
       "name": "IterTools TS",
-      "rationale": "Lazy evaluation evita materializar colecciones grandes",
+      "rationale": "Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Lazy evaluation evita materializar colecciones grandes",
+        "notes": "Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -18006,10 +18164,10 @@
         "graveyarded": false
       },
       "name": "libsodium",
-      "rationale": "API opinionada reduce errores de uso",
+      "rationale": "Ampliamente auditada y confiable",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "API opinionada reduce errores de uso",
+        "notes": "Ampliamente auditada y confiable",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -18305,10 +18463,10 @@
         "graveyarded": false
       },
       "name": "React",
-      "rationale": "Ecosistema masivo y tooling maduro",
+      "rationale": "Performance optimizado con Virtual DOM y fiber architecture",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Ecosistema masivo y tooling maduro",
+        "notes": "Performance optimizado con Virtual DOM y fiber architecture",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -19552,10 +19710,10 @@
         "graveyarded": false
       },
       "name": "PyCaret",
-      "rationale": "Reduce drasticamente tiempo de baseline a production",
+      "rationale": ") low-code library for training and deploying models (scikit-learn, XGBoost, LightGBM, spaCy)",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Reduce drasticamente tiempo de baseline a production",
+        "notes": ") low-code library for training and deploying models (scikit-learn, XGBoost, LightGBM, spaCy)",
         "reviewedAt": "2026-04-13",
         "status": "Context Resource"
       },
@@ -19697,10 +19855,10 @@
         "graveyarded": false
       },
       "name": "skorch",
-      "rationale": "Reduce boilerplate PyTorch manteniendo flexibilidad",
+      "rationale": "A scikit-learn compatible neural network library that wraps PyTorch.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Reduce boilerplate PyTorch manteniendo flexibilidad",
+        "notes": "A scikit-learn compatible neural network library that wraps PyTorch.",
         "reviewedAt": "2026-04-13",
         "status": "Context Resource"
       },
@@ -19797,7 +19955,7 @@
     "cmnwko7ig01ne1p4t32xoxe5p"
   ],
   "summary": {
-    "aiCandidates": 419,
+    "aiCandidates": 409,
     "graveyard": 0,
     "humanPicks": 5,
     "needsReview": 74,
@@ -19806,7 +19964,7 @@
     "sources": 20
   },
   "validation": {
-    "checkedAt": "2026-06-22T21:38:42.883Z",
+    "checkedAt": "2026-06-22T21:49:25.383Z",
     "status": "pass",
     "warnings": []
   }

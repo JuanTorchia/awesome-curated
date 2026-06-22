@@ -2,9 +2,27 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**0 Human-reviewed · 0 Popular standards · 45 AI candidates · 4 Needs review**
+**1 Human-reviewed · 0 Popular standards · 44 AI candidates · 4 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
+
+---
+
+## Human-reviewed picks
+
+Tools with a human review label and visible caveats.
+
+### 👤 [bandwhich](https://github.com/imsnif/bandwhich)
+
+![](https://img.shields.io/github/stars/imsnif/bandwhich?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
+
+**Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
+
+Track bandwidth utilization by process.
+
+**Why this is here:** Worth trying: process-level bandwidth visibility from a terminal UI; small, focused, and easy to evaluate.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#bandwhich-imsnif-bandwhich) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -23,7 +41,7 @@ Automated candidates with enough source signal; these are not human endorsements
 
 Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures.
 
-**Why this is here:** Reduce carga en registry central y costo de egress a internet
+**Why this is here:** Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard...
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#dragonfly-dragonflyoss-dragonfly2) · [data/latest.json](../data/latest.json)
 
@@ -37,7 +55,7 @@ Found in 2 active sources: akullpp/awesome-java, rust-unofficial/awesome-rust
 
 ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services. Apache-2.0 Java/C++
 
-**Why this is here:** Usado exitosamente en prod masivo (Netflix, Uber)
+**Why this is here:** ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group...
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#zookeeper-zookeeper) · [data/latest.json](../data/latest.json)
 
@@ -54,20 +72,6 @@ A simple IT automation platform
 **Why this is here:** A simple IT automation platform
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#ansible-ansible-ansible) · [data/latest.json](../data/latest.json)
-
----
-
-### [bandwhich](https://github.com/imsnif/bandwhich)
-
-![](https://img.shields.io/github/stars/imsnif/bandwhich?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Track bandwidth utilization by process.
-
-**Why this is here:** Interfaz TUI clara y responsiva
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#bandwhich-imsnif-bandwhich) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -191,7 +195,7 @@ Consul is a tool for service discovery, monitoring and configuration. MPL-2.0 Go
 
 interface (e.g. htop) for container metrics.
 
-**Why this is here:** interfaz intuitiva similar a htop
+**Why this is here:** monitoreo en vivo sin overhead
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#ctop-bcicen-ctop) · [data/latest.json](../data/latest.json)
 
@@ -295,7 +299,21 @@ Open-source, cross-platform real-time monitoring tool with CLI and web dashboard
 
 ---
 
-_Showing 20 of 45. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+### [HertzBeat](https://github.com/dromara/hertzbeat)
+
+![](https://img.shields.io/github/stars/dromara/hertzbeat?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, akullpp/awesome-java
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+An open-source real-time monitoring system with custom-monitor and agentless.
+
+**Why this is here:** Agentless reduces operational overhead
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#hertzbeat-dromara-hertzbeat) · [data/latest.json](../data/latest.json)
+
+---
+
+_Showing 20 of 44. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---
@@ -326,7 +344,7 @@ Found in 2 active sources
 
 Gitlab's built-in, full-featured CI/CD solution. MIT Ruby
 
-**Why this is here:** Feature-complete sin dependencias externas
+**Why this is here:** Gitlab's built-in, full-featured CI/CD solution. MIT Ruby
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#gitlab-ci-about-e3c4fb) · [data/latest.json](../data/latest.json)
 
