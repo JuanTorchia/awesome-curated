@@ -28,6 +28,7 @@ Dale star si querés una lista recurrente y de bajo ruido con herramientas dev, 
 - **Metodología**: [METHODOLOGY.md](METHODOLOGY.md)
 - **Resumen de cambios**: [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md)
 - **Evidence snapshot**: [data/latest.json](data/latest.json)
+- **Inspectable catalog**: [TOOLS.md](TOOLS.md)
 - **Popular standards**: 1
 - **Needs review**: 74
 - **Candidate catalog**: available in [data/latest.json](data/latest.json) and domain pages; candidates are not endorsements.
@@ -95,6 +96,14 @@ Picks revisados por humano con una razón concreta para mirarlos ahora.
 
 **Caveat:** Worth a focused trial before adopting broadly.
 <!-- staff-picks:end -->
+
+---
+
+## What changed this week
+
+No material public change detected for the latest generated window.
+
+See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
 
 ---
 

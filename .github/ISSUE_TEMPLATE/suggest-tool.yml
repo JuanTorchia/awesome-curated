@@ -1,0 +1,27 @@
+name: Suggest a missing tool
+description: Recommend a developer tool that should be tracked by Awesome Curated.
+title: "Tool suggestion: <name>"
+labels: [tool-suggestion]
+body:
+  - type: input
+    id: tool-url
+    attributes:
+      label: Tool URL
+      description: Prefer the canonical GitHub repo or official project URL.
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Why should it be considered?
+      description: Explain the concrete developer workflow it helps with.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Link to upstream awesome lists, docs, releases, benchmarks, or production usage notes.
+    validations:
+      required: true

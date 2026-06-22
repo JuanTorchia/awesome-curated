@@ -4,6 +4,8 @@
 
 **0 Human-reviewed · 0 Popular standards · 21 AI candidates · 4 Needs review**
 
+Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
+
 ---
 
 
@@ -21,9 +23,9 @@ Found in 1 active source: jaywcjlove/awesome-mac
 
 Next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, customizable and ready to use (alternative to Notion and Miro). (Demo, ) MIT/AGPL-3.0 Docker
 
-**Why this is here:** MIT/AGPL dual license permite hosting propio
+**Why this is here:** Interfaz moderna con Excalidraw integrado
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#affine-community-edition-affine) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -35,9 +37,9 @@ Next-gen knowledge base that brings planning, sorting and creating all together.
 
 A music library manager and MusicBrainz tagger.
 
-**Why this is here:** Integración MusicBrainz precisa, renombramiento batch inteligente
+**Why this is here:** Plugin ecosystem robusto, maneja formatos diversos (FLAC, MP3, AAC)
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#beets-beetbox-beets) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -51,7 +53,7 @@ Easily and securely send files or folders from one computer to another.
 
 **Why this is here:** Zero config, seguro por defecto
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#croc-schollz-croc-qmyj) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -65,7 +67,7 @@ Deluge is a lightweight, Free Software, cross-platform BitTorrent client. (https
 
 **Why this is here:** Web UI funcional y remoto
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#deluge-deluge-torrent) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -77,9 +79,9 @@ Deluge is a lightweight, Free Software, cross-platform BitTorrent client. (https
 
 Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files. GPL-3.0 Go/Docker
 
-**Why this is here:** control granular de expiración
+**Why this is here:** Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the...
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#gokapi-forceu-gokapi-osic) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -91,9 +93,9 @@ Found in 1 active source: jaywcjlove/awesome-mac
 
 Multimedia/Entertainment center, formerly known as XBMC. Runs on Android, BSD, Linux, macOS, iOS and Windows. GPL-2.0 C++/deb
 
-**Why this is here:** Soporte de codecs extensivo y hardware variado
+**Why this is here:** Comunidad active, skins/addons desarrollados
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#kodi-kodi) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -107,7 +109,7 @@ Lean Engine is an open-source fully managed C# algorithmic trading engine built 
 
 **Why this is here:** Engine enterprise-grade con historial probado
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#lean-quantconnect-lean) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -121,7 +123,7 @@ Free, open-source, and cross-platform media player. (https://github.com/mpv-play
 
 **Why this is here:** Altamente configurable, scripteable
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#mpv-mpv) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -133,9 +135,9 @@ Free, open-source, and cross-platform media player. (https://github.com/mpv-play
 
 Python Rust A high-performance algorithmic trading platform and event-driven backtester.
 
-**Why this is here:** Híbrido Python/Rust obtiene velocidad + flexibilidad
+**Why this is here:** Python Rust A high-performance algorithmic trading platform and event-driven backtester.
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#nautilustrader-nautechsystems-nautilus-trader) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -147,9 +149,9 @@ Found in 1 active source: jivoi/awesome-osint
 
 Personal news reader that brings people together to talk about the world. A new sound of an old instrument. MIT Python
 
-**Why this is here:** Soporte para feeds privados y compartidos con usuarios
+**Why this is here:** Personal news reader that brings people together to talk about the world. A new sound of an old instrument. MIT Python
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#newsblur-newsblur) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -161,9 +163,9 @@ Personal news reader that brings people together to talk about the world. A new 
 
 Music browsing and streaming application optimized for large music collections, ease of use and high performance. MIT Rust/Docker
 
-**Why this is here:** Performance superior en librerías grandes (Rust + diseño eficiente)
+**Why this is here:** Music browsing and streaming application optimized for large music collections, ease of use and high performance. MIT Rust/Docker
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#polaris-agersant-polaris) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -177,7 +179,7 @@ A project aims to provide an alternative to µTorrent. (https://github.com/qbitt
 
 **Why this is here:** Bajo overhead recursos vs clients propietarios
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#qbittorrent-qbittorrent) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -189,9 +191,9 @@ A project aims to provide an alternative to µTorrent. (https://github.com/qbitt
 
 The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance.
 
-**Why this is here:** Librería exhaustiva de modelos financieros y calibración probada
+**Why this is here:** Comunidad activa en finanzas cuantitativa
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#quantlib-lballabio-quantlib-kq89) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -203,9 +205,9 @@ Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac
 
 News reader for Feedbin, Feedly, Feed Wrangler and so on. (https://apps.apple.com/pl/app/reeder-5/id1529448980?platform=mac)
 
-**Why this is here:** Interfaz pulida y rápida para lectura RSS
+**Why this is here:** News reader for Feedbin, Feedly, Feed Wrangler and so on. (https://apps.apple.com/pl/app/reeder-5/id1529448980?platform=mac)
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#reeder-5-reederapp) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -219,7 +221,7 @@ CSharp Algorithmic trading and quantitative trading open source platform to deve
 
 **Why this is here:** Cobertura multi-asset amplia
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#stocksharp-stocksharp-stocksharp) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -233,7 +235,7 @@ Task manager with timeboxing and time tracking. (https://github.com/johannesjo/s
 
 **Why this is here:** Timeboxing forzado evita task-switching infinito
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#super-productivity-super-productivity-bhrk) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -245,9 +247,9 @@ Task manager with timeboxing and time tracking. (https://github.com/johannesjo/s
 
 The Go Language library for SVG generation.
 
-**Why this is here:** API limpia y Go-idiomática
+**Why this is here:** The Go Language library for SVG generation.
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#svgo-ajstarks-svgo) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -261,7 +263,7 @@ Syncthing is an open source peer-to-peer file synchronisation tool. MPL-2.0 Go/D
 
 **Why this is here:** Verdaderamente descentralizado, no depende cloud
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#syncthing-syncthing-t5xe) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -275,7 +277,7 @@ Collaborative cheatsheets for console commands.
 
 **Why this is here:** Contenido siempre actualizado por comunidad, formato simple y searcheable
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#tldr-pages-tldr-pages-tldr) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -287,25 +289,13 @@ Collaborative cheatsheets for console commands.
 
 Python Validate, format, and identify UK Companies House company numbers. Supports all 27 prefixes. PyPI
 
-**Why this is here:** Cobertura completa de prefijos UK
+**Why this is here:** Python Validate, format, and identify UK Companies House company numbers. Supports all 27 prefixes. PyPI
 
-**Evidence record:** [data/latest.json](../data/latest.json)
-
----
-
-### [uk-sic-codes](https://github.com/borschai/uk-sic-codes)
-
-![](https://img.shields.io/github/stars/borschai/uk-sic-codes?style=flat-square&label=⭐) · Found in 2 active sources: wilsonfreitas/awesome-quant, jivoi/awesome-osint
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Python UK SIC 2007 industry classification code lookup, search, and validation. 731 codes, 21 sections. PyPI
-
-**Why this is here:** Cobertura 100% de 731 códigos SIC 2007
-
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#uk-company-number-borschai-uk-company-number) · [data/latest.json](../data/latest.json)
 
 ---
+
+_Showing 20 of 21. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---
@@ -322,9 +312,9 @@ Found in 3 active sources
 
 JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas or trying out new libraries.
 
-**Why this is here:** Ejecución en tiempo real mientras escribís, sin botón de run ni fricción
+**Why this is here:** Acceso a Node.js real y posibilidad de importar paquetes npm directamente
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#runjs-runjs) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -338,7 +328,7 @@ JavaScript playground that evaluates your code as you type and gives instant fee
 
 **Why this is here:** Open-source puro, control total del engine
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#godot-engine-godotengine-godot) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -352,7 +342,7 @@ Newsletter and email marketing with advanced management of subscribers, bounces,
 
 **Why this is here:** Plugin ecosystem robusto y bien documentado
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#phplist-phplist) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -364,9 +354,9 @@ Found in 2 active sources
 
 Samba is the standard Windows interoperability suite of programs for Linux and Unix. It provides secure, stable and fast file and print services for all clients using the SMB/CIFS protocol. GPL-3.0 C
 
-**Why this is here:** Estándar industrial de 30+ años, probado en millones de deployments
+**Why this is here:** Samba is the standard Windows interoperability suite of programs for Linux and Unix. It provides secure, stable and fast file and print services...
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#samba-samba) · [data/latest.json](../data/latest.json)
 
 ---
 

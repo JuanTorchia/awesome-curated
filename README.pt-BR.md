@@ -28,6 +28,7 @@ Dê star se você quer uma shortlist recorrente e com pouco ruído de ferramenta
 - **Metodologia**: [METHODOLOGY.md](METHODOLOGY.md)
 - **Resumo de mudanças**: [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md)
 - **Evidence snapshot**: [data/latest.json](data/latest.json)
+- **Inspectable catalog**: [TOOLS.md](TOOLS.md)
 - **Popular standards**: 1
 - **Needs review**: 74
 - **Candidate catalog**: available in [data/latest.json](data/latest.json) and domain pages; candidates are not endorsements.
@@ -95,6 +96,14 @@ Escolhas revisadas por humano com um motivo concreto para olhar agora.
 
 **Caveat:** Worth a focused trial before adopting broadly.
 <!-- staff-picks:end -->
+
+---
+
+## What changed this week
+
+No material public change detected for the latest generated window.
+
+See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
 
 ---
 

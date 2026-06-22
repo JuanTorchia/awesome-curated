@@ -1,0 +1,24 @@
+name: Request human review
+description: Ask for an AI Candidate to be reviewed for possible promotion.
+title: "Review request: <tool>"
+labels: [review-request]
+body:
+  - type: input
+    id: tool-url
+    attributes:
+      label: Tool URL or TOOLS.md anchor
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+  - type: textarea
+    id: why-now
+    attributes:
+      label: Why review this now?
+      description: Explain the use case, adoption signal, or recent change that makes it worth reviewing.
+    validations:
+      required: true
+  - type: textarea
+    id: caveats
+    attributes:
+      label: Known caveats
+      description: Mention maintenance, security, maturity, licensing, or ecosystem concerns if any.

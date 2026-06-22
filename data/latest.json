@@ -9,8 +9,8 @@
       "url": "data/latest.json"
     }
   ],
-  "commitSha": "ed6943a4c609",
-  "generatedAt": "2026-06-22T21:24:29.470Z",
+  "commitSha": "72bee0b9dbe0",
+  "generatedAt": "2026-06-22T21:38:42.883Z",
   "recommendations": [
     {
       "caveat": "Best fit for teams with a matching ML or data workflow.",
@@ -297,10 +297,10 @@
         "graveyarded": false
       },
       "name": "Pytorch",
-      "rationale": "API pythónica e imperativa (define-by-run) que facilita debugging y experimentación frente a enfoques de grafo estático",
+      "rationale": "PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language...",
       "review": {
         "caveat": "Useful standard, but not a discovery or emerging pick.",
-        "notes": "API pythónica e imperativa (define-by-run) que facilita debugging y experimentación frente a enfoques de grafo estático",
+        "notes": "PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language...",
         "reviewedAt": "2026-04-16",
         "reviewedBy": "Juan",
         "status": "Popular Standard"
@@ -362,10 +362,10 @@
         "graveyarded": false
       },
       "name": "XGBoost",
-      "rationale": "Performance excepcional en datos tabulares: históricamente supera a otros algoritmos en benchmarks y competencias reales",
+      "rationale": "XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Performance excepcional en datos tabulares: históricamente supera a otros algoritmos en benchmarks y competencias reales",
+        "notes": "XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -426,10 +426,10 @@
         "graveyarded": false
       },
       "name": "Bokeh",
-      "rationale": "Genera visualizaciones interactivas autocontenidas en HTML/JS sin requerir conocimiento de JavaScript por parte del desarrollador",
+      "rationale": "Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation of data in modern web browsers.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Genera visualizaciones interactivas autocontenidas en HTML/JS sin requerir conocimiento de JavaScript por parte del desarrollador",
+        "notes": "Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation of data in modern web browsers.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -480,10 +480,10 @@
         "graveyarded": false
       },
       "name": "CatBoost",
-      "rationale": "Manejo nativo de variables categóricas sin preprocesamiento manual, reduciendo leakage y trabajo tedioso",
+      "rationale": "General purpose gradient boosting on decision trees library with categorical features support out of the box. It is easy to install, contains fast...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Manejo nativo de variables categóricas sin preprocesamiento manual, reduciendo leakage y trabajo tedioso",
+        "notes": "General purpose gradient boosting on decision trees library with categorical features support out of the box. It is easy to install, contains fast...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -534,10 +534,10 @@
         "graveyarded": false
       },
       "name": "Obsidian",
-      "rationale": "Graph de notas sin fricción, completamente local",
+      "rationale": "Plugin ecosystem robusto para extender funcionalidad",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Graph de notas sin fricción, completamente local",
+        "notes": "Plugin ecosystem robusto para extender funcionalidad",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -578,10 +578,10 @@
         "graveyarded": false
       },
       "name": "Apache Spark",
-      "rationale": "Abstracción limpia memory store",
+      "rationale": "Micro-batch processing for streams using the apache spark framework as a backend supporting stateful exactly-once semantics.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Abstracción limpia memory store",
+        "notes": "Micro-batch processing for streams using the apache spark framework as a backend supporting stateful exactly-once semantics.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -622,10 +622,10 @@
         "graveyarded": false
       },
       "name": "Bitwarden",
-      "rationale": "Código abierto auditado, E2E encryption",
+      "rationale": "Self-hosting option + cloud oficial",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Código abierto auditado, E2E encryption",
+        "notes": "Self-hosting option + cloud oficial",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -852,10 +852,10 @@
         "graveyarded": false
       },
       "name": "DVC",
-      "rationale": "Versionado de datasets y modelos sin duplicar en git",
+      "rationale": "Pipelines reproducibles con dag tracking",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Versionado de datasets y modelos sin duplicar en git",
+        "notes": "Pipelines reproducibles con dag tracking",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -906,10 +906,10 @@
         "graveyarded": false
       },
       "name": "Feature Engine",
-      "rationale": "Garantías exactly-once nativas",
+      "rationale": "Feature-engine is a Python library that contains several transformers to engineer features for use in machine learning models.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Garantías exactly-once nativas",
+        "notes": "Feature-engine is a Python library that contains several transformers to engineer features for use in machine learning models.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -1014,10 +1014,10 @@
         "graveyarded": false
       },
       "name": "grpc",
-      "rationale": "Code generation elimina boilerplate de serialización",
+      "rationale": "Performance superior a REST para cargas altas",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Code generation elimina boilerplate de serialización",
+        "notes": "Performance superior a REST para cargas altas",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -1102,10 +1102,10 @@
         "graveyarded": false
       },
       "name": "intelli-shell",
-      "rationale": "Escrito en Rust: binario rápido y sin dependencias runtime",
+      "rationale": "Bookmark commands with placeholders and search or autocomplete at any time",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Escrito en Rust: binario rápido y sin dependencias runtime",
+        "notes": "Bookmark commands with placeholders and search or autocomplete at any time",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -1146,10 +1146,10 @@
         "graveyarded": false
       },
       "name": "Jupyter Notebooks",
-      "rationale": "Excelente para documentación viva y sharing de análisis",
+      "rationale": "Web interface python sandbox environments for reproducible development",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Excelente para documentación viva y sharing de análisis",
+        "notes": "Web interface python sandbox environments for reproducible development",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -1190,10 +1190,10 @@
         "graveyarded": false
       },
       "name": "juspay/neurolink",
-      "rationale": "Abstracción multi-provider consolidada",
+      "rationale": "Middleware guardrails incluido",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Abstracción multi-provider consolidada",
+        "notes": "Middleware guardrails incluido",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -1234,10 +1234,10 @@
         "graveyarded": false
       },
       "name": "Kubernetes",
-      "rationale": "Standard de facto: madurez y ecosystem inmensamente mayor a alternativas",
+      "rationale": "Production-Grade Container Scheduling and Management System",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Standard de facto: madurez y ecosystem inmensamente mayor a alternativas",
+        "notes": "Production-Grade Container Scheduling and Management System",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -1508,10 +1508,10 @@
         "graveyarded": false
       },
       "name": "mkosir/react-parallax-tilt",
-      "rationale": "API declarativa que abstrae toda la matemática de mouse position + CSS 3D transforms",
+      "rationale": "Mantenido activamente con TypeScript support incluido",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "API declarativa que abstrae toda la matemática de mouse position + CSS 3D transforms",
+        "notes": "Mantenido activamente con TypeScript support incluido",
         "reviewedAt": "2026-04-15",
         "status": "AI Candidate"
       },
@@ -1542,10 +1542,10 @@
         "graveyarded": false
       },
       "name": "Moby",
-      "rationale": "Standard de facto en containerización moderna",
+      "rationale": "Comunidad masiva y mantenimiento activo de Docker Inc",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Standard de facto en containerización moderna",
+        "notes": "Comunidad masiva y mantenimiento activo de Docker Inc",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -1586,10 +1586,10 @@
         "graveyarded": false
       },
       "name": "OctoLinker",
-      "rationale": "Zero-config, activa automáticamente en GH",
+      "rationale": "Soporta monorepos y path mappings",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Zero-config, activa automáticamente en GH",
+        "notes": "Soporta monorepos y path mappings",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -1620,10 +1620,10 @@
         "graveyarded": false
       },
       "name": "PyMC",
-      "rationale": "API de alto nivel que abstrae la complejidad del muestreo MCMC sin sacrificar flexibilidad para usuarios avanzados",
+      "rationale": "A Python library for Bayesian statistical modeling and probabilistic machine learning. Beginner-friendly with 'good first issue' labels.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "API de alto nivel que abstrae la complejidad del muestreo MCMC sin sacrificar flexibilidad para usuarios avanzados",
+        "notes": "A Python library for Bayesian statistical modeling and probabilistic machine learning. Beginner-friendly with 'good first issue' labels.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -1698,10 +1698,10 @@
         "graveyarded": false
       },
       "name": "Rider",
-      "rationale": "Refactoring automático enterprise-grade",
+      "rationale": "Debugging y profiling integrados sin plugins",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Refactoring automático enterprise-grade",
+        "notes": "Debugging y profiling integrados sin plugins",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -1732,10 +1732,10 @@
         "graveyarded": false
       },
       "name": "RLlib",
-      "rationale": "Distribución automática sin boilerplate",
+      "rationale": "RL framework distributed basado en Ray. Para empresas que necesitan scale: Amazon/Microsoft lo usan. Resuelve: entrenar agentes complejos en...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Distribución automática sin boilerplate",
+        "notes": "RL framework distributed basado en Ray. Para empresas que necesitan scale: Amazon/Microsoft lo usan. Resuelve: entrenar agentes complejos en...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -1820,10 +1820,10 @@
         "graveyarded": false
       },
       "name": "SpaCy",
-      "rationale": "Performance alta en C (Cython), listo para producción",
+      "rationale": "Modelos pre-entrenados optimizados y muy documentados",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Performance alta en C (Cython), listo para producción",
+        "notes": "Modelos pre-entrenados optimizados y muy documentados",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -1982,10 +1982,10 @@
         "graveyarded": false
       },
       "name": "SymPy",
-      "rationale": "Matemática simbólica completa sin depender de software externo como Mathematica o Maple",
+      "rationale": "Capacidad de simplificar, derivar, integrar y resolver ecuaciones de forma exacta, no aproximada",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Matemática simbólica completa sin depender de software externo como Mathematica o Maple",
+        "notes": "Capacidad de simplificar, derivar, integrar y resolver ecuaciones de forma exacta, no aproximada",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -2080,10 +2080,10 @@
         "graveyarded": false
       },
       "name": "Vercel AI",
-      "rationale": "Abstracción consistente entre modelos",
+      "rationale": "Vercel AI is a TypeScript toolkit designed to help you build AI-powered applications using popular frameworks like Next.js, React, Svelte, Vue and...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Abstracción consistente entre modelos",
+        "notes": "Vercel AI is a TypeScript toolkit designed to help you build AI-powered applications using popular frameworks like Next.js, React, Svelte, Vue and...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -2280,10 +2280,10 @@
         "graveyarded": false
       },
       "name": "ZooKeeper",
-      "rationale": "Garantías ACID robustas en operaciones distribuidas",
+      "rationale": "Usado exitosamente en prod masivo (Netflix, Uber)",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Garantías ACID robustas en operaciones distribuidas",
+        "notes": "Usado exitosamente en prod masivo (Netflix, Uber)",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -2324,10 +2324,10 @@
         "graveyarded": false
       },
       "name": ".NET Interactive",
-      "rationale": "Integración nativa con C# type-safety en notebooks",
+      "rationale": ".NET Interactive takes the power of .NET and embeds it into your interactive experiences.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Integración nativa con C# type-safety en notebooks",
+        "notes": ".NET Interactive takes the power of .NET and embeds it into your interactive experiences.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -2358,10 +2358,10 @@
         "graveyarded": false
       },
       "name": "ActiveMQ",
-      "rationale": "Soporte completo AMQP/OpenWire/MQTT/STOMP",
+      "rationale": "Clustering y persistencia robusto",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Soporte completo AMQP/OpenWire/MQTT/STOMP",
+        "notes": "Clustering y persistencia robusto",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -2392,10 +2392,10 @@
         "graveyarded": false
       },
       "name": "ActivityWatch",
-      "rationale": "Completamente local, no envía datos a servidores",
+      "rationale": "Extensible via plugins y webhook",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Completamente local, no envía datos a servidores",
+        "notes": "Extensible via plugins y webhook",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -2426,10 +2426,10 @@
         "graveyarded": false
       },
       "name": "AFFiNE Community Edition",
-      "rationale": "MIT/AGPL dual license permite hosting propio",
+      "rationale": "Interfaz moderna con Excalidraw integrado",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "MIT/AGPL dual license permite hosting propio",
+        "notes": "Interfaz moderna con Excalidraw integrado",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -2460,10 +2460,10 @@
         "graveyarded": false
       },
       "name": "agent-of-empires",
-      "rationale": "Integración tmux+git worktrees es elegante",
+      "rationale": "A TUI/CLI for managing multiple AI coding agent sessions with tmux, git worktrees, and Docker sandboxing",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Integración tmux+git worktrees es elegante",
+        "notes": "A TUI/CLI for managing multiple AI coding agent sessions with tmux, git worktrees, and Docker sandboxing",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -2504,10 +2504,10 @@
         "graveyarded": false
       },
       "name": "Agentic Radar",
-      "rationale": "Soporte multi-framework, case de uso urgente (seguridad agentic)",
+      "rationale": "Output visualizable e insights accionables",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Soporte multi-framework, case de uso urgente (seguridad agentic)",
+        "notes": "Output visualizable e insights accionables",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -2538,10 +2538,10 @@
         "graveyarded": false
       },
       "name": "Agentify",
-      "rationale": "Soporte a 9 formatos en un comando",
+      "rationale": "Estrategias tiered para APIs chicas y grandes",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Soporte a 9 formatos en un comando",
+        "notes": "Estrategias tiered para APIs chicas y grandes",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -2606,10 +2606,10 @@
         "graveyarded": false
       },
       "name": "AI Job Displacement Tracker",
-      "rationale": "Datos verificados con URLs de origen",
+      "rationale": "Structured, source-backed dataset tracking 96 AI-attributed workforce reductions (457K workers affected, 13 countries, 13 sectors). Every entry...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Datos verificados con URLs de origen",
+        "notes": "Structured, source-backed dataset tracking 96 AI-attributed workforce reductions (457K workers affected, 13 countries, 13 sectors). Every entry...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -2694,10 +2694,10 @@
         "graveyarded": false
       },
       "name": "ajeetdsouza/zoxide",
-      "rationale": "Significativamente más rápido que alternativas tipo z",
+      "rationale": "A fast alternative to cd that learns your habits",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Significativamente más rápido que alternativas tipo z",
+        "notes": "A fast alternative to cd that learns your habits",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -2738,10 +2738,10 @@
         "graveyarded": false
       },
       "name": "ajitpratap0/GoSQLX",
-      "rationale": "7 funcionalidades SQL integrables vía HTTP, zero install en modo public",
+      "rationale": "🏎️ ☁️ 🏠 7 SQL tools (validate, format, parse, lint, security scan, metadata extraction, full analysis) over Streamable HTTP. Public remote...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "7 funcionalidades SQL integrables vía HTTP, zero install en modo public",
+        "notes": "🏎️ ☁️ 🏠 7 SQL tools (validate, format, parse, lint, security scan, metadata extraction, full analysis) over Streamable HTTP. Public remote...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -2850,10 +2850,10 @@
         "graveyarded": false
       },
       "name": "Ansible",
-      "rationale": "Agentless (solo SSH), learning curve suave, librerías built-in exhaustivas",
+      "rationale": "A simple IT automation platform",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Agentless (solo SSH), learning curve suave, librerías built-in exhaustivas",
+        "notes": "A simple IT automation platform",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -2884,10 +2884,10 @@
         "graveyarded": false
       },
       "name": "Apache Airflow",
-      "rationale": "Comunidad masiva, documentación exhaustiva y madurez probada en producción",
+      "rationale": "Data Pipeline framework built in Python, including scheduler, DAG definition and a UI for visualisation.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Comunidad masiva, documentación exhaustiva y madurez probada en producción",
+        "notes": "Data Pipeline framework built in Python, including scheduler, DAG definition and a UI for visualisation.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -2928,10 +2928,10 @@
         "graveyarded": false
       },
       "name": "Apache ECharts",
-      "rationale": "Ecosistema maduro con miles de ejemplos",
+      "rationale": "Rendering performante incluso con datasets grandes",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Ecosistema maduro con miles de ejemplos",
+        "notes": "Rendering performante incluso con datasets grandes",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -2962,10 +2962,10 @@
         "graveyarded": false
       },
       "name": "Apache Ignite",
-      "rationale": "Escalabilidad horizontal probada en producción empresarial",
+      "rationale": "SQL + compute colocado reducen network roundtrips",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Escalabilidad horizontal probada en producción empresarial",
+        "notes": "SQL + compute colocado reducen network roundtrips",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -2996,10 +2996,10 @@
         "graveyarded": false
       },
       "name": "Apache Maven",
-      "rationale": "Estándar de facto en Java, integración IDE perfecta",
+      "rationale": "Dependency management centralizado y reproducible",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Estándar de facto en Java, integración IDE perfecta",
+        "notes": "Dependency management centralizado y reproducible",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -3098,10 +3098,10 @@
         "graveyarded": false
       },
       "name": "AppFlowy",
-      "rationale": "Stack multiplataforma robusto (Rust backend)",
+      "rationale": "Build detailed lists of to-do’s for different projects while tracking the status of each one. Open Source Notion Alternative. AGPL-3.0...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Stack multiplataforma robusto (Rust backend)",
+        "notes": "Build detailed lists of to-do’s for different projects while tracking the status of each one. Open Source Notion Alternative. AGPL-3.0...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -3132,10 +3132,10 @@
         "graveyarded": false
       },
       "name": "ashvardanian/NumKong",
-      "rationale": "SIMD puro sin overhead de binding a C",
+      "rationale": "SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-512, and Arm NEON",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "SIMD puro sin overhead de binding a C",
+        "notes": "SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-512, and Arm NEON",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -3166,10 +3166,10 @@
         "graveyarded": false
       },
       "name": "ashvardanian/stringzilla",
-      "rationale": "Aceleración real en x86/ARM, benchmarks sólidos",
+      "rationale": "String search/sort SIMD-acelerado (AVX2/AVX-512/NEON). Performance muy buena para bulk string ops, pero nicho especializado.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Aceleración real en x86/ARM, benchmarks sólidos",
+        "notes": "String search/sort SIMD-acelerado (AVX2/AVX-512/NEON). Performance muy buena para bulk string ops, pero nicho especializado.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -3200,10 +3200,10 @@
         "graveyarded": false
       },
       "name": "askbudi/roundtable",
-      "rationale": "Auto-discovery de assistentes sin config",
+      "rationale": "📇 ☁️ 🏠 🍎 🪟 🐧 Meta-MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Auto-discovery de assistentes sin config",
+        "notes": "📇 ☁️ 🏠 🍎 🪟 🐧 Meta-MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -3366,10 +3366,10 @@
         "graveyarded": false
       },
       "name": "bandwhich",
-      "rationale": "Precisión en per-process bandwidth tracking",
+      "rationale": "Interfaz TUI clara y responsiva",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Precisión en per-process bandwidth tracking",
+        "notes": "Interfaz TUI clara y responsiva",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -3488,10 +3488,10 @@
         "graveyarded": false
       },
       "name": "beets",
-      "rationale": "Integración MusicBrainz precisa, renombramiento batch inteligente",
+      "rationale": "Plugin ecosystem robusto, maneja formatos diversos (FLAC, MP3, AAC)",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Integración MusicBrainz precisa, renombramiento batch inteligente",
+        "notes": "Plugin ecosystem robusto, maneja formatos diversos (FLAC, MP3, AAC)",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -3532,10 +3532,10 @@
         "graveyarded": false
       },
       "name": "biome",
-      "rationale": "Performance brutal (Rust), análisis instantáneo",
+      "rationale": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Performance brutal (Rust), análisis instantáneo",
+        "notes": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -3566,10 +3566,10 @@
         "graveyarded": false
       },
       "name": "boilr",
-      "rationale": "Escrito en Go, arranque instantáneo",
+      "rationale": "Simple y directo, sin dependencias pesadas",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Escrito en Go, arranque instantáneo",
+        "notes": "Simple y directo, sin dependencias pesadas",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -3610,10 +3610,10 @@
         "graveyarded": false
       },
       "name": "BorgBackup",
-      "rationale": "Deduplicación a nivel byte muy eficiente",
+      "rationale": "Deduplicating backup program with compression and authenticated encryption.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Deduplicación a nivel byte muy eficiente",
+        "notes": "Deduplicating backup program with compression and authenticated encryption.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -3644,10 +3644,10 @@
         "graveyarded": false
       },
       "name": "Bouncy Castle",
-      "rationale": "Cobertura criptográfica exhaustiva y bien auditada",
+      "rationale": "All-purpose cryptographic library and JCA provider offering a wide range of functions, from basic helpers to PGP/SMIME operations.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Cobertura criptográfica exhaustiva y bien auditada",
+        "notes": "All-purpose cryptographic library and JCA provider offering a wide range of functions, from basic helpers to PGP/SMIME operations.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -3722,10 +3722,10 @@
         "graveyarded": false
       },
       "name": "Bread Dataset Viewer",
-      "rationale": "Soluciona problema específico y molesto",
+      "rationale": "A VS Code extension for viewing and exploring large machine learning datasets (CSV, JSON, Parquet, etc.) directly within the editor without VS...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Soluciona problema específico y molesto",
+        "notes": "A VS Code extension for viewing and exploring large machine learning datasets (CSV, JSON, Parquet, etc.) directly within the editor without VS...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -3766,10 +3766,10 @@
         "graveyarded": false
       },
       "name": "Bread WandB Viewer",
-      "rationale": "Reduce context switching en iteración",
+      "rationale": "A VS Code extension to view Weights & Biases experiments, logs, and artifacts within the IDE, eliminating the need to switch to the web UI &...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Reduce context switching en iteración",
+        "notes": "A VS Code extension to view Weights & Biases experiments, logs, and artifacts within the IDE, eliminating the need to switch to the web UI &...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -3810,10 +3810,10 @@
         "graveyarded": false
       },
       "name": "briansmith/ring",
-      "rationale": "Safety guarantees de Rust + auditoría BoringSSL",
+      "rationale": "Performance sin sacrificar seguridad",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Safety guarantees de Rust + auditoría BoringSSL",
+        "notes": "Performance sin sacrificar seguridad",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -3844,10 +3844,10 @@
         "graveyarded": false
       },
       "name": "broot",
-      "rationale": "Rendimiento rápido en directorios grandes",
+      "rationale": "A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then cd to it; never lose track of...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Rendimiento rápido en directorios grandes",
+        "notes": "A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then cd to it; never lose track of...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -3888,10 +3888,10 @@
         "graveyarded": false
       },
       "name": "Buck2",
-      "rationale": "Incremental builds muy rápido",
+      "rationale": "Rust → mejor rendimiento memory/speed que alternatives JVM",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Incremental builds muy rápido",
+        "notes": "Rust → mejor rendimiento memory/speed que alternatives JVM",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -3932,10 +3932,10 @@
         "graveyarded": false
       },
       "name": "burn",
-      "rationale": "No depende de Python/PyTorch, control total desde Rust",
+      "rationale": "Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "No depende de Python/PyTorch, control total desde Rust",
+        "notes": "Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -3976,10 +3976,10 @@
         "graveyarded": false
       },
       "name": "C3.js",
-      "rationale": "Sintaxis mucho más legible que D3 raw",
+      "rationale": "Comunidad activa, muchos ejemplos",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Sintaxis mucho más legible que D3 raw",
+        "notes": "Comunidad activa, muchos ejemplos",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -4020,10 +4020,10 @@
         "graveyarded": false
       },
       "name": "cadvisor",
-      "rationale": "Integración nativa Kubernetes, es el estándar",
+      "rationale": "Analyzes resource usage de containers (CPU, RAM, I/O). Built by Google, standard en Kubernetes. Production-grade monitoring.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Integración nativa Kubernetes, es el estándar",
+        "notes": "Analyzes resource usage de containers (CPU, RAM, I/O). Built by Google, standard en Kubernetes. Production-grade monitoring.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -4176,10 +4176,10 @@
         "graveyarded": false
       },
       "name": "CCV",
-      "rationale": "Librería C de computer vision (BSD). Ligera, moderna, alternativa a OpenCV. Buena para embedidos/performance crítico.",
+      "rationale": "C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library. [BSD]",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Librería C de computer vision (BSD). Ligera, moderna, alternativa a OpenCV. Buena para embedidos/performance crítico.",
+        "notes": "C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library. [BSD]",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -4210,10 +4210,10 @@
         "graveyarded": false
       },
       "name": "Certificate Ripper",
-      "rationale": "Múltiples backends (Wayback, archive.today, IPFS, local)",
+      "rationale": "CLI tool and library for extracting and exporting server certificates from HTTPS endpoints.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Múltiples backends (Wayback, archive.today, IPFS, local)",
+        "notes": "CLI tool and library for extracting and exporting server certificates from HTTPS endpoints.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -4288,10 +4288,10 @@
         "graveyarded": false
       },
       "name": "Chart.js",
-      "rationale": "API sencilla, documentación excelente",
+      "rationale": "Rendimiento decente en browsers",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "API sencilla, documentación excelente",
+        "notes": "Rendimiento decente en browsers",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -4322,10 +4322,10 @@
         "graveyarded": false
       },
       "name": "chasquid",
-      "rationale": "Footprint mínimo, setup simple, sin configuración retorcida",
+      "rationale": "Seguridad como design principle (TLS requerido, validaciones estrictas)",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Footprint mínimo, setup simple, sin configuración retorcida",
+        "notes": "Seguridad como design principle (TLS requerido, validaciones estrictas)",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -4356,10 +4356,10 @@
         "graveyarded": false
       },
       "name": "Chroma",
-      "rationale": "Integración nativa con LangChain y frameworks de IA",
+      "rationale": "API simple y bien documentada para CRUD vectorial",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Integración nativa con LangChain y frameworks de IA",
+        "notes": "API simple y bien documentada para CRUD vectorial",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -4400,10 +4400,10 @@
         "graveyarded": false
       },
       "name": "CircleCI",
-      "rationale": "Soporte docker nativo, UI madura, buena para equipos sin infra",
+      "rationale": "Pricing por minutos, flexible",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Soporte docker nativo, UI madura, buena para equipos sin infra",
+        "notes": "Pricing por minutos, flexible",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -4434,10 +4434,10 @@
         "graveyarded": false
       },
       "name": "cleanlab",
-      "rationale": "Detecta errores de etiquetado automáticamente, ahorra revisión manual costosa",
+      "rationale": "Python library for data-centric AI. Can automatically: find mislabeled data, detect outliers, estimate consensus + annotator-quality for...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Detecta errores de etiquetado automáticamente, ahorra revisión manual costosa",
+        "notes": "Python library for data-centric AI. Can automatically: find mislabeled data, detect outliers, estimate consensus + annotator-quality for...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -4522,10 +4522,10 @@
         "graveyarded": false
       },
       "name": "CLion",
-      "rationale": "Análisis semántico muy preciso para C++",
+      "rationale": "Debugger integrado profesional",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Análisis semántico muy preciso para C++",
+        "notes": "Debugger integrado profesional",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -4600,10 +4600,10 @@
         "graveyarded": false
       },
       "name": "CML",
-      "rationale": "Integración nativa GitHub/GitLab sin overhead",
+      "rationale": "A library for doing continuous integration with ML projects. Use GitHub Actions & GitLab CI to train and evaluate models in production like...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Integración nativa GitHub/GitLab sin overhead",
+        "notes": "A library for doing continuous integration with ML projects. Use GitHub Actions & GitLab CI to train and evaluate models in production like...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -4644,10 +4644,10 @@
         "graveyarded": false
       },
       "name": "CodeFlash.AI",
-      "rationale": "Herramienta SaaS que promete optimizar código Python automáticamente. Útil para devs que buscan performance sin refactor manual. Pero: depende de...",
+      "rationale": "CodeFlash.AI – Ship Blazing-Fast Python Code, Every Time.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Herramienta SaaS que promete optimizar código Python automáticamente. Útil para devs que buscan performance sin refactor manual. Pero: depende de...",
+        "notes": "CodeFlash.AI – Ship Blazing-Fast Python Code, Every Time.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -4678,10 +4678,10 @@
         "graveyarded": false
       },
       "name": "Concourse",
-      "rationale": "Arquitetura limpia, pipelines reproducibles, excelente para microservicios",
+      "rationale": "Self-hosted, Apache 2.0, sin vendor lock-in",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Arquitetura limpia, pipelines reproducibles, excelente para microservicios",
+        "notes": "Self-hosted, Apache 2.0, sin vendor lock-in",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -4712,10 +4712,10 @@
         "graveyarded": false
       },
       "name": "config-file-validator",
-      "rationale": "Múltiples formatos soportados",
+      "rationale": "Mantenido por empresa seria (Boeing)",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Múltiples formatos soportados",
+        "notes": "Mantenido por empresa seria (Boeing)",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -4790,10 +4790,10 @@
         "graveyarded": false
       },
       "name": "cookiecutter",
-      "rationale": "Estándar de facto en Python para templates",
+      "rationale": "Extremadamente simple y flexible",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Estándar de facto en Python para templates",
+        "notes": "Extremadamente simple y flexible",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -4824,10 +4824,10 @@
         "graveyarded": false
       },
       "name": "CoreNLP",
-      "rationale": "Referencia académica impecable, APIs limpias",
+      "rationale": "Stanford CoreNLP provides a set of natural language analysis tools which can take raw English language text input and give the base forms of words.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Referencia académica impecable, APIs limpias",
+        "notes": "Stanford CoreNLP provides a set of natural language analysis tools which can take raw English language text input and give the base forms of words.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -4912,10 +4912,10 @@
         "graveyarded": false
       },
       "name": "Cryptomator",
-      "rationale": "Integración transparente con cloud providers",
+      "rationale": "Multi-platform transparent client-side encryption of your files in the cloud.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Integración transparente con cloud providers",
+        "notes": "Multi-platform transparent client-side encryption of your files in the cloud.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -5078,10 +5078,10 @@
         "graveyarded": false
       },
       "name": "CuML",
-      "rationale": "Aceleración GPU drop-in para algoritmos standard",
+      "rationale": "APIs familiares tipo scikit-learn",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Aceleración GPU drop-in para algoritmos standard",
+        "notes": "APIs familiares tipo scikit-learn",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -5122,10 +5122,10 @@
         "graveyarded": false
       },
       "name": "Cursor",
-      "rationale": "Chat nativo + edición en contexto fluida",
+      "rationale": "An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Uses OpenAI.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Chat nativo + edición en contexto fluida",
+        "notes": "An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Uses OpenAI.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -5156,10 +5156,10 @@
         "graveyarded": false
       },
       "name": "Cython",
-      "rationale": "Sintaxis casi idéntica a Python, curva de aprendizaje suave",
+      "rationale": "Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Sintaxis casi idéntica a Python, curva de aprendizaje suave",
+        "notes": "Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -5224,10 +5224,10 @@
         "graveyarded": false
       },
       "name": "Dagster",
-      "rationale": "Abstracción asset-driven más intuitiva que DAGs, testing nativo built-in",
+      "rationale": "Dagit UI moderna y debugging con linaje claro",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Abstracción asset-driven más intuitiva que DAGs, testing nativo built-in",
+        "notes": "Dagit UI moderna y debugging con linaje claro",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -5312,10 +5312,10 @@
         "graveyarded": false
       },
       "name": "Dash",
-      "rationale": "Búsqueda subsecond en 200+ docsets",
+      "rationale": "Offline API documentation browser for macOS with instant search access to Vue.js docs and 200+ other frameworks.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Búsqueda subsecond en 200+ docsets",
+        "notes": "Offline API documentation browser for macOS with instant search access to Vue.js docs and 200+ other frameworks.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -5346,10 +5346,10 @@
         "graveyarded": false
       },
       "name": "Dask",
-      "rationale": "API idéntica a Pandas, learning curve cero",
+      "rationale": "Distributed parallel processing framework for Pandas and NumPy computations.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "API idéntica a Pandas, learning curve cero",
+        "notes": "Distributed parallel processing framework for Pandas and NumPy computations.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -5390,10 +5390,10 @@
         "graveyarded": false
       },
       "name": "DataComPy",
-      "rationale": "Soporte multi-engine (Pandas, Polars, Spark) en una API uniforme",
+      "rationale": "A library to compare Pandas, Polars, and Spark data frames. It provides stats and lets users adjust for match accuracy.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Soporte multi-engine (Pandas, Polars, Spark) en una API uniforme",
+        "notes": "A library to compare Pandas, Polars, and Spark data frames. It provides stats and lets users adjust for match accuracy.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -5512,10 +5512,10 @@
         "graveyarded": false
       },
       "name": "dbt-labs/dbt-core",
-      "rationale": "Abstracción SQL elegante (Jinja), dependency resolution automático",
+      "rationale": "Project banner, super clear description (friendly to people brand new to the product), screenshot of the docs the tool generates, and concise...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Abstracción SQL elegante (Jinja), dependency resolution automático",
+        "notes": "Project banner, super clear description (friendly to people brand new to the product), screenshot of the docs the tool generates, and concise...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -5556,10 +5556,10 @@
         "graveyarded": false
       },
       "name": "DEAP",
-      "rationale": "Diseño limpio, estructuras de datos transparentes",
+      "rationale": "A novel evolutionary computation framework for rapid prototyping and testing of ideas. It seeks to make algorithms explicit and data structures...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Diseño limpio, estructuras de datos transparentes",
+        "notes": "A novel evolutionary computation framework for rapid prototyping and testing of ideas. It seeks to make algorithms explicit and data structures...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -5644,10 +5644,10 @@
         "graveyarded": false
       },
       "name": "Deepnote",
-      "rationale": "Colaboración real-time integrada nativa",
+      "rationale": "Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Colaboración real-time integrada nativa",
+        "notes": "Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -5766,10 +5766,10 @@
         "graveyarded": false
       },
       "name": "Determined",
-      "rationale": "Integración nativa TensorFlow+PyTorch con HPO sin boilerplate",
+      "rationale": "Model registry y experiment tracking built-in",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Integración nativa TensorFlow+PyTorch con HPO sin boilerplate",
+        "notes": "Model registry y experiment tracking built-in",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -5854,10 +5854,10 @@
         "graveyarded": false
       },
       "name": "dive",
-      "rationale": "UI interactiva clara, muy útil para analizar tamaño de layers",
+      "rationale": "A tool for exploring each layer in a docker image. By wagoodman.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "UI interactiva clara, muy útil para analizar tamaño de layers",
+        "notes": "A tool for exploring each layer in a docker image. By wagoodman.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -5898,10 +5898,10 @@
         "graveyarded": false
       },
       "name": "Dlib",
-      "rationale": "Composición funcional elegante, vectorization transparente",
+      "rationale": "Performance comparable a TensorFlow en operaciones complejas",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Composición funcional elegante, vectorization transparente",
+        "notes": "Performance comparable a TensorFlow en operaciones complejas",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -5932,10 +5932,10 @@
         "graveyarded": false
       },
       "name": "DNSDumpster",
-      "rationale": "Rápido para queries ocasionales",
+      "rationale": "is a that will help you discover hosts related to a specific domain.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Rápido para queries ocasionales",
+        "notes": "is a that will help you discover hosts related to a specific domain.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -5966,10 +5966,10 @@
         "graveyarded": false
       },
       "name": "docker-volume-backup",
-      "rationale": "Soporta múltiples destinos sin reimplementación",
+      "rationale": "Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Soporta múltiples destinos sin reimplementación",
+        "notes": "Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -6010,10 +6010,10 @@
         "graveyarded": false
       },
       "name": "Docker.DotNet",
-      "rationale": "Única librería oficial .NET para Docker API, mantenida por Microsoft",
+      "rationale": "C#/.NET HTTP client for the Docker remote API.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Única librería oficial .NET para Docker API, mantenida por Microsoft",
+        "notes": "C#/.NET HTTP client for the Docker remote API.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -6044,10 +6044,10 @@
         "graveyarded": false
       },
       "name": "dockly",
-      "rationale": "Interface visual sobre CLI crudo es más rápido para navegar",
+      "rationale": "An interactive shell UI for managing Docker containers.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Interface visual sobre CLI crudo es más rápido para navegar",
+        "notes": "An interactive shell UI for managing Docker containers.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -6088,10 +6088,10 @@
         "graveyarded": false
       },
       "name": "Dolt",
-      "rationale": "Paradigma único: git + SQL en uno",
+      "rationale": "Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Paradigma único: git + SQL en uno",
+        "notes": "Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -6176,10 +6176,10 @@
         "graveyarded": false
       },
       "name": "dotenv-linter",
-      "rationale": "Binario Rust: ultra rápido",
+      "rationale": "",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Binario Rust: ultra rápido",
+        "notes": "",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -6210,10 +6210,10 @@
         "graveyarded": false
       },
       "name": "Drone",
-      "rationale": "Binario único, deployment trivial",
+      "rationale": "YAML limpio vs XML verboso de Jenkins",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Binario único, deployment trivial",
+        "notes": "YAML limpio vs XML verboso de Jenkins",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -6254,10 +6254,10 @@
         "graveyarded": false
       },
       "name": "Druid",
-      "rationale": "Ingestión real-time a escala; agregaciones sub-segundo en datasets TBs",
+      "rationale": "Sql-like query layer, operacional probado",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Ingestión real-time a escala; agregaciones sub-segundo en datasets TBs",
+        "notes": "Sql-like query layer, operacional probado",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -6288,10 +6288,10 @@
         "graveyarded": false
       },
       "name": "dspy",
-      "rationale": "Composabilidad de componentes tipo módulos reutilizables",
+      "rationale": "A framework for programming with foundation models.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Composabilidad de componentes tipo módulos reutilizables",
+        "notes": "A framework for programming with foundation models.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -6332,10 +6332,10 @@
         "graveyarded": false
       },
       "name": "dust",
-      "rationale": "Output ordenado por tamaño por defecto, ahorra pipe a sort",
+      "rationale": "A more intuitive version of du in Rust.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Output ordenado por tamaño por defecto, ahorra pipe a sort",
+        "notes": "A more intuitive version of du in Rust.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -6376,10 +6376,10 @@
         "graveyarded": false
       },
       "name": "edgartools",
-      "rationale": "Coverage completo de forms SEC y XBRL parsing",
+      "rationale": "Python AI-native SEC EDGAR library with XBRL financials, clean text extraction, 17+ typed forms, and pandas DataFrames.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Coverage completo de forms SEC y XBRL parsing",
+        "notes": "Python AI-native SEC EDGAR library with XBRL financials, clean text extraction, 17+ typed forms, and pandas DataFrames.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -6620,10 +6620,10 @@
         "graveyarded": false
       },
       "name": "Faiss",
-      "rationale": "Performance SOTA en búsqueda de k-NN sobre millones de vectores",
+      "rationale": "Faiss is a library for efficient similarity search and clustering of dense vectors.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Performance SOTA en búsqueda de k-NN sobre millones de vectores",
+        "notes": "Faiss is a library for efficient similarity search and clustering of dense vectors.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -6698,10 +6698,10 @@
         "graveyarded": false
       },
       "name": "fkill",
-      "rationale": "Interfaz interactiva y confirmación clara",
+      "rationale": "Cross-platform sin inconsistencias",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Interfaz interactiva y confirmación clara",
+        "notes": "Cross-platform sin inconsistencias",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -6766,10 +6766,10 @@
         "graveyarded": false
       },
       "name": "FlatBuffers",
-      "rationale": "Acceso directo a datos sin deserialización completa",
+      "rationale": "Footprint menor que protobuf en algunos casos",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Acceso directo a datos sin deserialización completa",
+        "notes": "Footprint menor que protobuf en algunos casos",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -6844,10 +6844,10 @@
         "graveyarded": false
       },
       "name": "Focalboard",
-      "rationale": "Self-hosted y open-source con múltiples licencias",
+      "rationale": "Define, organize, track and manage work across individuals and teams (alternative to Trello, Notion and Asana). (, Clients)...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Self-hosted y open-source con múltiples licencias",
+        "notes": "Define, organize, track and manage work across individuals and teams (alternative to Trello, Notion and Asana). (, Clients)...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -6922,10 +6922,10 @@
         "graveyarded": false
       },
       "name": "fzf",
-      "rationale": "Prácticamente obligatorio para devs Unix, integración con toda herramienta imaginable",
+      "rationale": "A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Prácticamente obligatorio para devs Unix, integración con toda herramienta imaginable",
+        "notes": "A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -7044,10 +7044,10 @@
         "graveyarded": false
       },
       "name": "Gephi",
-      "rationale": "UI interactiva potente para exploración visual",
+      "rationale": "is an open-source graph and network visualization software.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "UI interactiva potente para exploración visual",
+        "notes": "is an open-source graph and network visualization software.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -7088,10 +7088,10 @@
         "graveyarded": false
       },
       "name": "ggc",
-      "rationale": "búsqueda incremental fluida",
+      "rationale": "keybindings customizables",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "búsqueda incremental fluida",
+        "notes": "keybindings customizables",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -7210,10 +7210,10 @@
         "graveyarded": false
       },
       "name": "GitKraken",
-      "rationale": "Visualización DAG Git impecable, UX fluida",
+      "rationale": "The most popular Git GUI for Windows, Mac and Linux.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Visualización DAG Git impecable, UX fluida",
+        "notes": "The most popular Git GUI for Windows, Mac and Linux.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -7244,10 +7244,10 @@
         "graveyarded": false
       },
       "name": "glances",
-      "rationale": "Instalación one-liner y sin dependencias pesadas",
+      "rationale": "Exporta a Prometheus, CSV, JSON",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Instalación one-liner y sin dependencias pesadas",
+        "notes": "Exporta a Prometheus, CSV, JSON",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -7278,10 +7278,10 @@
         "graveyarded": false
       },
       "name": "GNU Emacs",
-      "rationale": "Customización sin límites (lenguaje vivo)",
+      "rationale": "Comunidad zealot con recursos avanzados",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Customización sin límites (lenguaje vivo)",
+        "notes": "Comunidad zealot con recursos avanzados",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -7312,10 +7312,10 @@
         "graveyarded": false
       },
       "name": "GoCV",
-      "rationale": "Binding limpio y completo a OpenCV 4",
+      "rationale": "Performance cercano a C++ nativo sin overhead",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Binding limpio y completo a OpenCV 4",
+        "notes": "Performance cercano a C++ nativo sin overhead",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -7400,10 +7400,10 @@
         "graveyarded": false
       },
       "name": "Gokapi",
-      "rationale": "control granular de expiración",
+      "rationale": "Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "control granular de expiración",
+        "notes": "Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -7434,10 +7434,10 @@
         "graveyarded": false
       },
       "name": "GoLearn",
-      "rationale": "Diseño modular, soporte varios algoritmos, documentación presente",
+      "rationale": "General Machine Learning library for Go.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Diseño modular, soporte varios algoritmos, documentación presente",
+        "notes": "General Machine Learning library for Go.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -7478,10 +7478,10 @@
         "graveyarded": false
       },
       "name": "Google Hacking Database (GHDB)",
-      "rationale": "Cobertura exhaustiva de técnicas google search",
+      "rationale": "Gratuito y mantenido activamente",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Cobertura exhaustiva de técnicas google search",
+        "notes": "Gratuito y mantenido activamente",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -7512,10 +7512,10 @@
         "graveyarded": false
       },
       "name": "gorgonia",
-      "rationale": "Computación en grafos flexible, soporte para autodiff",
+      "rationale": "graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Computación en grafos flexible, soporte para autodiff",
+        "notes": "graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -7600,10 +7600,10 @@
         "graveyarded": false
       },
       "name": "Gradle",
-      "rationale": "Sintaxis Groovy más flexible y menos verbosa que Maven XML",
+      "rationale": "Incremental builds programmed via Groovy instead of declaring XML. Works well with Maven's dependency management.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Sintaxis Groovy más flexible y menos verbosa que Maven XML",
+        "notes": "Incremental builds programmed via Groovy instead of declaring XML. Works well with Maven's dependency management.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -7678,10 +7678,10 @@
         "graveyarded": false
       },
       "name": "GTK+",
-      "rationale": "Ecosistema maduro con librerías integradas y binding en múltiples lenguajes",
+      "rationale": "A multi-platform toolkit for creating graphical user interfaces. [LGPL]",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Ecosistema maduro con librerías integradas y binding en múltiples lenguajes",
+        "notes": "A multi-platform toolkit for creating graphical user interfaces. [LGPL]",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -7756,10 +7756,10 @@
         "graveyarded": false
       },
       "name": "Hamilton",
-      "rationale": "Filosofía: 'definition from code', no YAML hell",
+      "rationale": "Micro-orquestador para dataflows (feature eng, pipelines, LLM workflows). Python-first, corre en Jupyter/FastAPI/Spark/Ray. Resuelve problema:...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Filosofía: 'definition from code', no YAML hell",
+        "notes": "Micro-orquestador para dataflows (feature eng, pipelines, LLM workflows). Python-first, corre en Jupyter/FastAPI/Spark/Ray. Resuelve problema:...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -7800,10 +7800,10 @@
         "graveyarded": false
       },
       "name": "hashes",
-      "rationale": "Auditoría de seguridad profesional (RustCrypto)",
+      "rationale": "Collection of cryptographic hash functions written in pure Rust.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Auditoría de seguridad profesional (RustCrypto)",
+        "notes": "Collection of cryptographic hash functions written in pure Rust.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -7966,10 +7966,10 @@
         "graveyarded": false
       },
       "name": "Hex Fiend",
-      "rationale": "Maneja archivos binarios de varios GB con rendimiento excepcional sin cargar todo en memoria",
+      "rationale": "Fast and clever open source hex editor. (https://github.com/ridiculousfish/HexFiend/) (https://apps.apple.com/app/hex-fiend/id1342896380?platform=mac)",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Maneja archivos binarios de varios GB con rendimiento excepcional sin cargar todo en memoria",
+        "notes": "Fast and clever open source hex editor. (https://github.com/ridiculousfish/HexFiend/) (https://apps.apple.com/app/hex-fiend/id1342896380?platform=mac)",
         "reviewedAt": "2026-04-16",
         "status": "AI Candidate"
       },
@@ -8000,10 +8000,10 @@
         "graveyarded": false
       },
       "name": "Homebrew",
-      "rationale": "Estándar absoluto en macOS, ahorra horas en setup",
+      "rationale": "The missing package manager for macOS. (https://github.com/Homebrew/brew/)",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Estándar absoluto en macOS, ahorra horas en setup",
+        "notes": "The missing package manager for macOS. (https://github.com/Homebrew/brew/)",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -8166,10 +8166,10 @@
         "graveyarded": false
       },
       "name": "Hunter.io",
-      "rationale": "Precisión alta en email validation",
+      "rationale": "API y bulk processing disponibles",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Precisión alta en email validation",
+        "notes": "API y bulk processing disponibles",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -8438,10 +8438,10 @@
         "graveyarded": false
       },
       "name": "IntelliJ IDEA",
-      "rationale": "Refactoring y análisis estático superior",
+      "rationale": "IDE JetBrains flagship para JVM (Java, Kotlin, etc). Gold standard en desarrollo backend/Android. Poderoso pero costoso. Alternativas libres...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Refactoring y análisis estático superior",
+        "notes": "IDE JetBrains flagship para JVM (Java, Kotlin, etc). Gold standard en desarrollo backend/Android. Poderoso pero costoso. Alternativas libres...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -8526,10 +8526,10 @@
         "graveyarded": false
       },
       "name": "iredis",
-      "rationale": "Autocompletado y syntax highlighting genuinamente útiles para comandos Redis",
+      "rationale": "Redis client with autocompletion and syntax highlighting.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Autocompletado y syntax highlighting genuinamente útiles para comandos Redis",
+        "notes": "Redis client with autocompletion and syntax highlighting.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -8648,10 +8648,10 @@
         "graveyarded": false
       },
       "name": "Jieba-PHP",
-      "rationale": "Única opción nativa PHP para segmentación chino",
+      "rationale": "A PHP port of Python's jieba. Chinese text segmentation for natural language processing.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Única opción nativa PHP para segmentación chino",
+        "notes": "A PHP port of Python's jieba. Chinese text segmentation for natural language processing.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -8760,10 +8760,10 @@
         "graveyarded": false
       },
       "name": "k9s",
-      "rationale": "Interfaz intuitiva y rápida vs kubectl crudo",
+      "rationale": "Comunidad activa, mantenimiento constante",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Interfaz intuitiva y rápida vs kubectl crudo",
+        "notes": "Comunidad activa, mantenimiento constante",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -8804,10 +8804,10 @@
         "graveyarded": false
       },
       "name": "kagan-sh/kagan",
-      "rationale": "Integración profunda con git worktrees y ciclo de review",
+      "rationale": "🐍 🏠 🍎 🪟 🐧 AI-powered Kanban TUI and MCP server for autonomous development workflows. Orchestrates 14 coding agents across task tracking,...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Integración profunda con git worktrees y ciclo de review",
+        "notes": "🐍 🏠 🍎 🪟 🐧 AI-powered Kanban TUI and MCP server for autonomous development workflows. Orchestrates 14 coding agents across task tracking,...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -8838,10 +8838,10 @@
         "graveyarded": false
       },
       "name": "Kaldi",
-      "rationale": "Estándar en investigación ASR desde 2010+",
+      "rationale": "Componentes modulares y bien documentados para researchers",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Estándar en investigación ASR desde 2010+",
+        "notes": "Componentes modulares y bien documentados para researchers",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -8916,10 +8916,10 @@
         "graveyarded": false
       },
       "name": "Keybase",
-      "rationale": "Integración con verificación de identidad criptográfica",
+      "rationale": "Secure groups, files, and chat for everyone! (https://github.com/keybase)",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Integración con verificación de identidad criptográfica",
+        "notes": "Secure groups, files, and chat for everyone! (https://github.com/keybase)",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -8950,10 +8950,10 @@
         "graveyarded": false
       },
       "name": "KeyCloak",
-      "rationale": "Soporte multi-protocolo robusto (OIDC, SAML, LDAP)",
+      "rationale": "Cluster-ready y escalable horizontalmente",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Soporte multi-protocolo robusto (OIDC, SAML, LDAP)",
+        "notes": "Cluster-ready y escalable horizontalmente",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -8984,10 +8984,10 @@
         "graveyarded": false
       },
       "name": "Kodi",
-      "rationale": "Soporte de codecs extensivo y hardware variado",
+      "rationale": "Comunidad active, skins/addons desarrollados",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Soporte de codecs extensivo y hardware variado",
+        "notes": "Comunidad active, skins/addons desarrollados",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -9086,10 +9086,10 @@
         "graveyarded": false
       },
       "name": "kreuzberg",
-      "rationale": "Cobertura amplía de formatos en single library",
+      "rationale": "High-performance document extraction library with a Rust core, supporting 62+ formats including PDF, Office, images with OCR, HTML, email, and...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Cobertura amplía de formatos en single library",
+        "notes": "High-performance document extraction library with a Rust core, supporting 62+ formats including PDF, Office, images with OCR, HTML, email, and...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -9130,10 +9130,10 @@
         "graveyarded": false
       },
       "name": "Kubo",
-      "rationale": "Estándar industrial para redes P2P descentralizadas",
+      "rationale": "Implementation of IPFS, a global, versioned, peer-to-peer filesystem that seeks to connect all computing devices with the same system of files....",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Estándar industrial para redes P2P descentralizadas",
+        "notes": "Implementation of IPFS, a global, versioned, peer-to-peer filesystem that seeks to connect all computing devices with the same system of files....",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -9374,10 +9374,10 @@
         "graveyarded": false
       },
       "name": "LibreWolf",
-      "rationale": "Telemetría completamente removida",
+      "rationale": "A fork of Firefox, focused on privacy, security and freedom. (https://gitlab.com/librewolf-community)",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Telemetría completamente removida",
+        "notes": "A fork of Firefox, focused on privacy, security and freedom. (https://gitlab.com/librewolf-community)",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -9418,10 +9418,10 @@
         "graveyarded": false
       },
       "name": "LightlyTrain",
-      "rationale": "Preentrenamiento sin labels reduce tiempo de etiquetado significativamente",
+      "rationale": "Pretrain computer vision models on unlabeled data for industrial applications.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Preentrenamiento sin labels reduce tiempo de etiquetado significativamente",
+        "notes": "Pretrain computer vision models on unlabeled data for industrial applications.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -9506,10 +9506,10 @@
         "graveyarded": false
       },
       "name": "LINQPad",
-      "rationale": "Ejecución instant de C#, sin boilerplate",
+      "rationale": "LINQ queries directas contra DBs, debugging visual",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Ejecución instant de C#, sin boilerplate",
+        "notes": "LINQ queries directas contra DBs, debugging visual",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -9584,10 +9584,10 @@
         "graveyarded": false
       },
       "name": "LlamaIndex",
-      "rationale": "Integración completa con 50+ data sources y LLMs",
+      "rationale": "Abstracciones de retrieval robustas (query engines)",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Integración completa con 50+ data sources y LLMs",
+        "notes": "Abstracciones de retrieval robustas (query engines)",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -9618,10 +9618,10 @@
         "graveyarded": false
       },
       "name": "loadtest",
-      "rationale": "API JavaScript native para automatización",
+      "rationale": "Run load tests for your web application, with an API for automation.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "API JavaScript native para automatización",
+        "notes": "Run load tests for your web application, with an API for automation.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -9652,10 +9652,10 @@
         "graveyarded": false
       },
       "name": "LocalAI",
-      "rationale": "Compatible OpenAI, fácil switchear",
+      "rationale": "Support GPU y CPU, bajo overhead",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Compatible OpenAI, fácil switchear",
+        "notes": "Support GPU y CPU, bajo overhead",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -9696,10 +9696,10 @@
         "graveyarded": false
       },
       "name": "localtunnel",
-      "rationale": "Setup instantáneo, cero config",
+      "rationale": "Expose your localhost to the world.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Setup instantáneo, cero config",
+        "notes": "Expose your localhost to the world.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -9730,10 +9730,10 @@
         "graveyarded": false
       },
       "name": "Luigi",
-      "rationale": "Excelente para pipelines medianos sin overhead de infraestructura",
+      "rationale": "Luigi is a Python module that helps you build complex pipelines of batch jobs, handling dependency resolution, workflow management, visualisation,...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Excelente para pipelines medianos sin overhead de infraestructura",
+        "notes": "Luigi is a Python module that helps you build complex pipelines of batch jobs, handling dependency resolution, workflow management, visualisation,...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -9808,10 +9808,10 @@
         "graveyarded": false
       },
       "name": "Mailpit",
-      "rationale": "Binario único, cero dependencias",
+      "rationale": "Web UI limpia para inspeccionar mails",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Binario único, cero dependencias",
+        "notes": "Web UI limpia para inspeccionar mails",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -9842,10 +9842,10 @@
         "graveyarded": false
       },
       "name": "Mailspring",
-      "rationale": "Diseño moderno y UX pulido",
+      "rationale": "Desarrollo activo con releases regulares",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Diseño moderno y UX pulido",
+        "notes": "Desarrollo activo con releases regulares",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -9876,10 +9876,10 @@
         "graveyarded": false
       },
       "name": "Maltego",
-      "rationale": "Visualización excepcional de conexiones entre entidades",
+      "rationale": "Maltego is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Visualización excepcional de conexiones entre entidades",
+        "notes": "Maltego is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -9910,10 +9910,10 @@
         "graveyarded": false
       },
       "name": "Marimo",
-      "rationale": "Reactividad automática (no kernel async confuso)",
+      "rationale": "Notebook Python reactivo, ejecutable como script y deployable como web app. Versionable con git. Alternativa moderna a Jupyter.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Reactividad automática (no kernel async confuso)",
+        "notes": "Notebook Python reactivo, ejecutable como script y deployable como web app. Versionable con git. Alternativa moderna a Jupyter.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -9954,10 +9954,10 @@
         "graveyarded": false
       },
       "name": "mariocandela/beelzebub",
-      "rationale": "Enfoque novel: usar herramientas carnada como signal de compromiso en agentes",
+      "rationale": "☁️ Beelzebub is a honeypot framework that lets you build honeypot tools using MCP. Its purpose is to detect prompt injection or malicious agent...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Enfoque novel: usar herramientas carnada como signal de compromiso en agentes",
+        "notes": "☁️ Beelzebub is a honeypot framework that lets you build honeypot tools using MCP. Its purpose is to detect prompt injection or malicious agent...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -10032,10 +10032,10 @@
         "graveyarded": false
       },
       "name": "mavdol/capsule/mcp-server",
-      "rationale": "Isolación real via WASM, sin escape path obvio",
+      "rationale": "🦀 🏠 🍎 🪟 🐧 Run untrusted Python/JavaScript code in WebAssembly sandboxes.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Isolación real via WASM, sin escape path obvio",
+        "notes": "🦀 🏠 🍎 🪟 🐧 Run untrusted Python/JavaScript code in WebAssembly sandboxes.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -10076,10 +10076,10 @@
         "graveyarded": false
       },
       "name": "MCP Memory Service",
-      "rationale": "Consolidación autónoma de memoria sin manual",
+      "rationale": "Universal memory service with semantic search, autonomous consolidation, and multi-client support for AI applications.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Consolidación autónoma de memoria sin manual",
+        "notes": "Universal memory service with semantic search, autonomous consolidation, and multi-client support for AI applications.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -10120,10 +10120,10 @@
         "graveyarded": false
       },
       "name": "micro",
-      "rationale": "Setup zero-config, intuitivo para usuarios que vienen de VS Code",
+      "rationale": "Modern and intuitive terminal-based text editor. (https://github.com/ory/editor)",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Setup zero-config, intuitivo para usuarios que vienen de VS Code",
+        "notes": "Modern and intuitive terminal-based text editor. (https://github.com/ory/editor)",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -10154,10 +10154,10 @@
         "graveyarded": false
       },
       "name": "MicroPython",
-      "rationale": "Python real en hardware con recursos limitados, curva de aprendizaje mínima",
+      "rationale": "Aims to put an implementation of Python 3.x on a microcontroller. [MIT]",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Python real en hardware con recursos limitados, curva de aprendizaje mínima",
+        "notes": "Aims to put an implementation of Python 3.x on a microcontroller. [MIT]",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -10188,10 +10188,10 @@
         "graveyarded": false
       },
       "name": "microsoft/markitdown",
-      "rationale": "Conversión multi-formato (PDF, DOCX, Excel, images) a Markdown",
+      "rationale": "Microsoft backing, mantenimiento activo",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Conversión multi-formato (PDF, DOCX, Excel, images) a Markdown",
+        "notes": "Microsoft backing, mantenimiento activo",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -10276,10 +10276,10 @@
         "graveyarded": false
       },
       "name": "Mingo",
-      "rationale": "UI limpia diseñada para UX moderna",
+      "rationale": "Funciona con instancias locales y remotas",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "UI limpia diseñada para UX moderna",
+        "notes": "Funciona con instancias locales y remotas",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -10354,10 +10354,10 @@
         "graveyarded": false
       },
       "name": "mlxtend",
-      "rationale": "Colección robusta de algoritmos y evaluadores ML",
+      "rationale": "A library consisting of useful tools for data science and machine learning tasks.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Colección robusta de algoritmos y evaluadores ML",
+        "notes": "A library consisting of useful tools for data science and machine learning tasks.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -10520,10 +10520,10 @@
         "graveyarded": false
       },
       "name": "MyIP",
-      "rationale": "UI limpia agrupando tools dispersas, cero instalación (web)",
+      "rationale": "All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "UI limpia agrupando tools dispersas, cero instalación (web)",
+        "notes": "All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -10554,10 +10554,10 @@
         "graveyarded": false
       },
       "name": "mypy",
-      "rationale": "Estándar de facto para type checking en Python",
+      "rationale": "Optional static typing for Python.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Estándar de facto para type checking en Python",
+        "notes": "Optional static typing for Python.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -10588,10 +10588,10 @@
         "graveyarded": false
       },
       "name": "nautilustrader",
-      "rationale": "Híbrido Python/Rust obtiene velocidad + flexibilidad",
+      "rationale": "Python Rust A high-performance algorithmic trading platform and event-driven backtester.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Híbrido Python/Rust obtiene velocidad + flexibilidad",
+        "notes": "Python Rust A high-performance algorithmic trading platform and event-driven backtester.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -10710,10 +10710,10 @@
         "graveyarded": false
       },
       "name": "NewsBlur",
-      "rationale": "Soporte para feeds privados y compartidos con usuarios",
+      "rationale": "Personal news reader that brings people together to talk about the world. A new sound of an old instrument. MIT Python",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Soporte para feeds privados y compartidos con usuarios",
+        "notes": "Personal news reader that brings people together to talk about the world. A new sound of an old instrument. MIT Python",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -10812,10 +10812,10 @@
         "graveyarded": false
       },
       "name": "Notion",
-      "rationale": "Interfaz polida, adopción masiva",
+      "rationale": "Flexibilidad del data model (databases, relations)",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Interfaz polida, adopción masiva",
+        "notes": "Flexibilidad del data model (databases, relations)",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -10880,10 +10880,10 @@
         "graveyarded": false
       },
       "name": "nuklear",
-      "rationale": "Archivo único, sin dependencias externas",
+      "rationale": "A single-header ANSI C gui library. [PublicDomain]",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Archivo único, sin dependencias externas",
+        "notes": "A single-header ANSI C gui library. [PublicDomain]",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -10914,10 +10914,10 @@
         "graveyarded": false
       },
       "name": "Numba",
-      "rationale": "Aceleración dramática en código numérico tight loops",
+      "rationale": "A compiler for Python array and numerical functions.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Aceleración dramática en código numérico tight loops",
+        "notes": "A compiler for Python array and numerical functions.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -10958,10 +10958,10 @@
         "graveyarded": false
       },
       "name": "numpy",
-      "rationale": "Rendimiento C/Fortran subyacente, 100x más rápido que listas Python",
+      "rationale": "Python NumPy is the fundamental package for scientific computing with Python. GitHub",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Rendimiento C/Fortran subyacente, 100x más rápido que listas Python",
+        "notes": "Python NumPy is the fundamental package for scientific computing with Python. GitHub",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -11002,10 +11002,10 @@
         "graveyarded": false
       },
       "name": "nushell",
-      "rationale": "Piping de estructuras (JSON, tablas) nativo sin conversión",
+      "rationale": "Sintaxis limpia y debugging intuitivo vs bash arcano",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Piping de estructuras (JSON, tablas) nativo sin conversión",
+        "notes": "Sintaxis limpia y debugging intuitivo vs bash arcano",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -11080,10 +11080,10 @@
         "graveyarded": false
       },
       "name": "Ollama",
-      "rationale": "Setup one-liner, soporte para decenas de modelos (Llama, Mistral, etc.)",
+      "rationale": "Get up and running with large language models, locally.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Setup one-liner, soporte para decenas de modelos (Llama, Mistral, etc.)",
+        "notes": "Get up and running with large language models, locally.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -11114,10 +11114,10 @@
         "graveyarded": false
       },
       "name": "oneDNN",
-      "rationale": "Optimizaciones hardware-specific probadas en producción",
+      "rationale": "Performance library para DL, optimiza kernels CPU/GPU. Usada por PyTorch/TensorFlow internamente. Para production DL en hardware especializado, es...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Optimizaciones hardware-specific probadas en producción",
+        "notes": "Performance library para DL, optimiza kernels CPU/GPU. Usada por PyTorch/TensorFlow internamente. Para production DL en hardware especializado, es...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -11216,10 +11216,10 @@
         "graveyarded": false
       },
       "name": "OpenRefine",
-      "rationale": "UI intuitiva para operaciones complejas sin código",
+      "rationale": "Tool for working with messy data: cleaning, transforming, extending it with web services and linking it to databases.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "UI intuitiva para operaciones complejas sin código",
+        "notes": "Tool for working with messy data: cleaning, transforming, extending it with web services and linking it to databases.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -11338,10 +11338,10 @@
         "graveyarded": false
       },
       "name": "orhun/rustypaste",
-      "rationale": "Binario estático, deployment trivial",
+      "rationale": "Performance excelente incluso bajo carga",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Binario estático, deployment trivial",
+        "notes": "Performance excelente incluso bajo carga",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -11372,10 +11372,10 @@
         "graveyarded": false
       },
       "name": "orion-rs/orion",
-      "rationale": "API deliberadamente difícil de misusar, errores en compile-time",
+      "rationale": "This library aims to provide easy and usable crypto. 'Usable' meaning exposing high-level API's that are easy to use and hard to misuse.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "API deliberadamente difícil de misusar, errores en compile-time",
+        "notes": "This library aims to provide easy and usable crypto. 'Usable' meaning exposing high-level API's that are easy to use and hard to misuse.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -11406,10 +11406,10 @@
         "graveyarded": false
       },
       "name": "Oryx 2",
-      "rationale": "Integración nativa Spark + Kafka para pipelines reales",
+      "rationale": "Aplicaciones end-to-end listos para ajustar",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Integración nativa Spark + Kafka para pipelines reales",
+        "notes": "Aplicaciones end-to-end listos para ajustar",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -11562,10 +11562,10 @@
         "graveyarded": false
       },
       "name": "pandas",
-      "rationale": "Estándar de facto en data science global",
+      "rationale": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects,...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Estándar de facto en data science global",
+        "notes": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects,...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -11640,10 +11640,10 @@
         "graveyarded": false
       },
       "name": "PEFT",
-      "rationale": "Reduce parámetros entrenables en 90%+; compatible con cualquier modelo HF",
+      "rationale": "Comunidad masiva, docs exhaustivas",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Reduce parámetros entrenables en 90%+; compatible con cualquier modelo HF",
+        "notes": "Comunidad masiva, docs exhaustivas",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -11762,10 +11762,10 @@
         "graveyarded": false
       },
       "name": "pgmpy",
-      "rationale": "Única librería seria en Python para PGMs",
+      "rationale": "A Python library for probabilistic graphical models and Bayesian networks.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Única librería seria en Python para PGMs",
+        "notes": "A Python library for probabilistic graphical models and Bayesian networks.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -11806,10 +11806,10 @@
         "graveyarded": false
       },
       "name": "Plotly",
-      "rationale": "Gráficos interactivos vía web, exporta HTML/PNG sin servidor",
+      "rationale": "An interactive, open source, and browser-based graphing library for Python.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Gráficos interactivos vía web, exporta HTML/PNG sin servidor",
+        "notes": "An interactive, open source, and browser-based graphing library for Python.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -11850,10 +11850,10 @@
         "graveyarded": false
       },
       "name": "pm2",
-      "rationale": "Clustering automático multi-core",
+      "rationale": "Production Process Manager for Node.js.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Clustering automático multi-core",
+        "notes": "Production Process Manager for Node.js.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -11884,10 +11884,10 @@
         "graveyarded": false
       },
       "name": "pola-rs/polars",
-      "rationale": "10-100x más rápido que pandas en operaciones vectorizadas",
+      "rationale": "Lazy evaluation y query optimization integrados",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "10-100x más rápido que pandas en operaciones vectorizadas",
+        "notes": "Lazy evaluation y query optimization integrados",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -11928,10 +11928,10 @@
         "graveyarded": false
       },
       "name": "Polaris",
-      "rationale": "Performance superior en librerías grandes (Rust + diseño eficiente)",
+      "rationale": "Music browsing and streaming application optimized for large music collections, ease of use and high performance. MIT Rust/Docker",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Performance superior en librerías grandes (Rust + diseño eficiente)",
+        "notes": "Music browsing and streaming application optimized for large music collections, ease of use and high performance. MIT Rust/Docker",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -11996,10 +11996,10 @@
         "graveyarded": false
       },
       "name": "Prefect Core",
-      "rationale": "API Pythonica más limpia que Airflow, menos dependencias",
+      "rationale": "Async-first, mejor performance en workflows I/O bound",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "API Pythonica más limpia que Airflow, menos dependencias",
+        "notes": "Async-first, mejor performance en workflows I/O bound",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -12040,10 +12040,10 @@
         "graveyarded": false
       },
       "name": "Prometheus",
-      "rationale": "Estándar industry para metrics en containers/Kubernetes, simple e eficiente",
+      "rationale": "Pull-model, no requiere agentes, bajo overhead",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Estándar industry para metrics en containers/Kubernetes, simple e eficiente",
+        "notes": "Pull-model, no requiere agentes, bajo overhead",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -12074,10 +12074,10 @@
         "graveyarded": false
       },
       "name": "Promptfoo",
-      "rationale": "Cubre vectores de ataque específicos de LLMs",
+      "rationale": "CI/CD integration out-of-box",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Cubre vectores de ataque específicos de LLMs",
+        "notes": "CI/CD integration out-of-box",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -12118,10 +12118,10 @@
         "graveyarded": false
       },
       "name": "protobuf",
-      "rationale": "Adopción masiva en industria",
+      "rationale": "Protocol Buffers Google's data interchange format. [BSD]",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Adopción masiva en industria",
+        "notes": "Protocol Buffers Google's data interchange format. [BSD]",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -12196,10 +12196,10 @@
         "graveyarded": false
       },
       "name": "pydantic-ai",
-      "rationale": "Validación automática de respuestas LLM contra Pydantic models",
+      "rationale": "A Python agent framework for building generative AI applications with structured schemas.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Validación automática de respuestas LLM contra Pydantic models",
+        "notes": "A Python agent framework for building generative AI applications with structured schemas.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -12240,10 +12240,10 @@
         "graveyarded": false
       },
       "name": "pynacl",
-      "rationale": "API clara y segura por defecto, difícil hacerla mal",
+      "rationale": "Basada en NaCl auditada y battle-tested",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "API clara y segura por defecto, difícil hacerla mal",
+        "notes": "Basada en NaCl auditada y battle-tested",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -12362,10 +12362,10 @@
         "graveyarded": false
       },
       "name": "PySyft",
-      "rationale": "Único framework maduro para privacy-preserving ML en Python",
+      "rationale": "A Python library for secure, private Deep Learning. PySyft decouples private data from model training, using Multi-Party (MPC) within PyTorch.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Único framework maduro para privacy-preserving ML en Python",
+        "notes": "A Python library for secure, private Deep Learning. PySyft decouples private data from model training, using Multi-Party (MPC) within PyTorch.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -12406,10 +12406,10 @@
         "graveyarded": false
       },
       "name": "Pytest",
-      "rationale": "Sintaxis más limpia y menos boilerplate que unittest",
+      "rationale": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Sintaxis más limpia y menos boilerplate que unittest",
+        "notes": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -12440,10 +12440,10 @@
         "graveyarded": false
       },
       "name": "Python Babel",
-      "rationale": "Soporte para múltiples formatos de catálogos",
+      "rationale": "The Python Internationalization Library.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Soporte para múltiples formatos de catálogos",
+        "notes": "The Python Internationalization Library.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -12474,10 +12474,10 @@
         "graveyarded": false
       },
       "name": "PyTorch Lightning",
-      "rationale": "Reduce líneas de código boilerplate en 70%+ sin sacrificar control",
+      "rationale": "PyTorch Lightning pretrains, finetunes and deploys AI models on multiple GPUs, TPUs with zero code changes.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Reduce líneas de código boilerplate en 70%+ sin sacrificar control",
+        "notes": "PyTorch Lightning pretrains, finetunes and deploys AI models on multiple GPUs, TPUs with zero code changes.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -12630,10 +12630,10 @@
         "graveyarded": false
       },
       "name": "QuantLib",
-      "rationale": "Librería exhaustiva de modelos financieros y calibración probada",
+      "rationale": "Comunidad activa en finanzas cuantitativa",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Librería exhaustiva de modelos financieros y calibración probada",
+        "notes": "Comunidad activa en finanzas cuantitativa",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -12664,10 +12664,10 @@
         "graveyarded": false
       },
       "name": "QuestDB",
-      "rationale": "Ingesta ultra-rápida de datos (millones de puntos/segundo)",
+      "rationale": "High-performance SQL database for time series. Supports InfluxDB line protocol, PostgreSQL wire protocol, and REST.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Ingesta ultra-rápida de datos (millones de puntos/segundo)",
+        "notes": "High-performance SQL database for time series. Supports InfluxDB line protocol, PostgreSQL wire protocol, and REST.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -12698,10 +12698,10 @@
         "graveyarded": false
       },
       "name": "quick-look-plugins",
-      "rationale": "Mantenida por Sindre Sorhus (creíble), cubre use case específico bien",
+      "rationale": "List of useful Quick Look plugins for developers",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Mantenida por Sindre Sorhus (creíble), cubre use case específico bien",
+        "notes": "List of useful Quick Look plugins for developers",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -12766,10 +12766,10 @@
         "graveyarded": false
       },
       "name": "readme-md-generator",
-      "rationale": "Genera README completo en segundos, estructura coherente",
+      "rationale": "A CLI that generates beautiful README.md files",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Genera README completo en segundos, estructura coherente",
+        "notes": "A CLI that generates beautiful README.md files",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -12810,10 +12810,10 @@
         "graveyarded": false
       },
       "name": "Redash",
-      "rationale": "SQL como primera clase, queries explícitas",
+      "rationale": "Deploy muy liviano, bajo memory footprint",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "SQL como primera clase, queries explícitas",
+        "notes": "Deploy muy liviano, bajo memory footprint",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -12844,10 +12844,10 @@
         "graveyarded": false
       },
       "name": "Redis",
-      "rationale": "Velocidad extrema, sub-milisegundo en operaciones típicas",
+      "rationale": "Vector search integrado sin plugins externos, maduro y escalable",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Velocidad extrema, sub-milisegundo en operaciones típicas",
+        "notes": "Vector search integrado sin plugins externos, maduro y escalable",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -12922,10 +12922,10 @@
         "graveyarded": false
       },
       "name": "Reeder 5",
-      "rationale": "Interfaz pulida y rápida para lectura RSS",
+      "rationale": "News reader for Feedbin, Feedly, Feed Wrangler and so on. (https://apps.apple.com/pl/app/reeder-5/id1529448980?platform=mac)",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Interfaz pulida y rápida para lectura RSS",
+        "notes": "News reader for Feedbin, Feedly, Feed Wrangler and so on. (https://apps.apple.com/pl/app/reeder-5/id1529448980?platform=mac)",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -12966,10 +12966,10 @@
         "graveyarded": false
       },
       "name": "RepoFlow",
-      "rationale": "Soporte multi-formato (Docker, PyPI, Maven, npm, Helm) en una sola solución",
+      "rationale": "A simple and easy-to-use package management platform with Docker support alongside other formats like PyPI, Maven, npm, and Helm. Includes smart...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Soporte multi-formato (Docker, PyPI, Maven, npm, Helm) en una sola solución",
+        "notes": "A simple and easy-to-use package management platform with Docker support alongside other formats like PyPI, Maven, npm, and Helm. Includes smart...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -13010,10 +13010,10 @@
         "graveyarded": false
       },
       "name": "Rerun",
-      "rationale": "Visualización interactiva 3D/multimodal integrada, no requiere Jupyter",
+      "rationale": "Rerun is an open-source SDK for logging, storing, querying, and visualizing multimodal data, designed for robotics, computer vision, and spatial AI.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Visualización interactiva 3D/multimodal integrada, no requiere Jupyter",
+        "notes": "Rerun is an open-source SDK for logging, storing, querying, and visualizing multimodal data, designed for robotics, computer vision, and spatial AI.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -13088,10 +13088,10 @@
         "graveyarded": false
       },
       "name": "RisingWave",
-      "rationale": "Feature store + stream en una herramienta (elimina duplicación)",
+      "rationale": "PostgreSQL wire protocol, tooling existing",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Feature store + stream en una herramienta (elimina duplicación)",
+        "notes": "PostgreSQL wire protocol, tooling existing",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -13132,10 +13132,10 @@
         "graveyarded": false
       },
       "name": "ROOT",
-      "rationale": "Mantenimiento CERN = sólido y long-term",
+      "rationale": "A modular scientific software framework. It provides all the functionalities needed to deal with big data processing, statistical analysis,...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Mantenimiento CERN = sólido y long-term",
+        "notes": "A modular scientific software framework. It provides all the functionalities needed to deal with big data processing, statistical analysis,...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -13166,10 +13166,10 @@
         "graveyarded": false
       },
       "name": "rshijack",
-      "rationale": "Implementación limpia en Rust de técnica clásica",
+      "rationale": "Mantenimiento activo por kpcyrd",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Implementación limpia en Rust de técnica clásica",
+        "notes": "Mantenimiento activo por kpcyrd",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -13200,10 +13200,10 @@
         "graveyarded": false
       },
       "name": "RunAnywhere",
-      "rationale": "Cubre múltiples modalidades (LLM, speech, TTS)",
+      "rationale": "SDK multi-plataforma para correr modelos IA on-device (LLM, speech, TTS) en iOS/Android/React Native. Privacidad y offline garantizados. Resuelve...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Cubre múltiples modalidades (LLM, speech, TTS)",
+        "notes": "SDK multi-plataforma para correr modelos IA on-device (LLM, speech, TTS) en iOS/Android/React Native. Privacidad y offline garantizados. Resuelve...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -13288,10 +13288,10 @@
         "graveyarded": false
       },
       "name": "RustDesk",
-      "rationale": "Extremadamente ligero, bajo latency, código auditable",
+      "rationale": "Funciona sin servidores centrales, control total",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Extremadamente ligero, bajo latency, código auditable",
+        "notes": "Funciona sin servidores centrales, control total",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -13400,10 +13400,10 @@
         "graveyarded": false
       },
       "name": "s5cmd",
-      "rationale": "Ejecución paralela nativa, significativamente más rápido que aws-cli",
+      "rationale": "Blazing fast S3 and local filesystem execution tool.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Ejecución paralela nativa, significativamente más rápido que aws-cli",
+        "notes": "Blazing fast S3 and local filesystem execution tool.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -13444,10 +13444,10 @@
         "graveyarded": false
       },
       "name": "Sacred",
-      "rationale": "Estándar de facto en ML academia",
+      "rationale": "Ecosystem de add-ons maduro",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Estándar de facto en ML academia",
+        "notes": "Ecosystem de add-ons maduro",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -13678,10 +13678,10 @@
         "graveyarded": false
       },
       "name": "Scikit-Opt",
-      "rationale": "Cobertura amplia de algoritmos heurísticos",
+      "rationale": "API consistente entre implementaciones",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Cobertura amplia de algoritmos heurísticos",
+        "notes": "API consistente entre implementaciones",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -13722,10 +13722,10 @@
         "graveyarded": false
       },
       "name": "scipy",
-      "rationale": "Rendimiento optimizado en C/Fortran para operaciones numéricas",
+      "rationale": "API estable, documentation exhaustiva, comunidad gigante",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Rendimiento optimizado en C/Fortran para operaciones numéricas",
+        "notes": "API estable, documentation exhaustiva, comunidad gigante",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -13766,10 +13766,10 @@
         "graveyarded": false
       },
       "name": "scrapy",
-      "rationale": "Estándar de facto para scraping en Python",
+      "rationale": "A fast high-level web crawling & scraping framework for Python.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Estándar de facto para scraping en Python",
+        "notes": "A fast high-level web crawling & scraping framework for Python.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -13800,10 +13800,10 @@
         "graveyarded": false
       },
       "name": "script",
-      "rationale": "API limpia para tareas comunes de shell",
+      "rationale": "Comunidad receptiva con code review detallado",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "API limpia para tareas comunes de shell",
+        "notes": "Comunidad receptiva con code review detallado",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -14034,10 +14034,10 @@
         "graveyarded": false
       },
       "name": "sharkdp/bat",
-      "rationale": "Highlighting automático sin configuración",
+      "rationale": "A cat(1) clone with wings.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Highlighting automático sin configuración",
+        "notes": "A cat(1) clone with wings.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -14122,10 +14122,10 @@
         "graveyarded": false
       },
       "name": "sherlock",
-      "rationale": "Setup trivial, útil para auditorías rápidas de availability de usernames",
+      "rationale": "Soporta muchas plataformas",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Setup trivial, útil para auditorías rápidas de availability de usernames",
+        "notes": "Soporta muchas plataformas",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -14166,10 +14166,10 @@
         "graveyarded": false
       },
       "name": "Shodan",
-      "rationale": "Base de datos masiva de dispositivos indexados",
+      "rationale": "Shodan is a search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Base de datos masiva de dispositivos indexados",
+        "notes": "Shodan is a search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -14200,10 +14200,10 @@
         "graveyarded": false
       },
       "name": "SHOGUN",
-      "rationale": "Soporte exhaustivo de algoritmos clásicos ML",
+      "rationale": "Performance nativa C++, productizable",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Soporte exhaustivo de algoritmos clásicos ML",
+        "notes": "Performance nativa C++, productizable",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -14234,10 +14234,10 @@
         "graveyarded": false
       },
       "name": "SinTan1729/Chhoto URL",
-      "rationale": "Binario compilado ultra-ligero, fácil deployment",
+      "rationale": "A simple, blazingly fast, selfhosted URL shortener with no unnecessary features.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Binario compilado ultra-ligero, fácil deployment",
+        "notes": "A simple, blazingly fast, selfhosted URL shortener with no unnecessary features.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -14302,10 +14302,10 @@
         "graveyarded": false
       },
       "name": "slint-ui/slint",
-      "rationale": "Performance nativa y compilación anticipada sin runtime pesado",
+      "rationale": "Slint is a toolkit to efficiently develop fluid graphical user interfaces for embedded devices and desktop applications.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Performance nativa y compilación anticipada sin runtime pesado",
+        "notes": "Slint is a toolkit to efficiently develop fluid graphical user interfaces for embedded devices and desktop applications.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -14380,10 +14380,10 @@
         "graveyarded": false
       },
       "name": "spfunctions/simplefunctions-cli",
-      "rationale": "Datos de 9700+ mercados, sin autenticación requerida",
+      "rationale": "Output estructurado y calibrado para LLMs",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Datos de 9700+ mercados, sin autenticación requerida",
+        "notes": "Output estructurado y calibrado para LLMs",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -14424,10 +14424,10 @@
         "graveyarded": false
       },
       "name": "Sphinx",
-      "rationale": "Integración automática de docstrings Python",
+      "rationale": "Sphinx makes it easy to create intelligent and beautiful documentation. [BSD-2-Clause]",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Integración automática de docstrings Python",
+        "notes": "Sphinx makes it easy to create intelligent and beautiful documentation. [BSD-2-Clause]",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -14458,10 +14458,10 @@
         "graveyarded": false
       },
       "name": "SpiderFoot",
-      "rationale": "Automatización masiva reduce manual work 70%+",
+      "rationale": "Modular y extensible, open source",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Automatización masiva reduce manual work 70%+",
+        "notes": "Modular y extensible, open source",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -14492,10 +14492,10 @@
         "graveyarded": false
       },
       "name": "SQLMap",
-      "rationale": "Automatización extremadamente efectiva, soporta casi todos los tipos de BD",
+      "rationale": "An automatic SQL injection and database takeover tool.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Automatización extremadamente efectiva, soporta casi todos los tipos de BD",
+        "notes": "An automatic SQL injection and database takeover tool.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -14604,10 +14604,10 @@
         "graveyarded": false
       },
       "name": "statsmodels",
-      "rationale": "API exhaustiva para modelos econométricos",
+      "rationale": "Statistical modelling and econometrics in Python.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "API exhaustiva para modelos econométricos",
+        "notes": "Statistical modelling and econometrics in Python.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -14784,10 +14784,10 @@
         "graveyarded": false
       },
       "name": "SVGo",
-      "rationale": "API limpia y Go-idiomática",
+      "rationale": "The Go Language library for SVG generation.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "API limpia y Go-idiomática",
+        "notes": "The Go Language library for SVG generation.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -14940,10 +14940,10 @@
         "graveyarded": false
       },
       "name": "TabGAN",
-      "rationale": "Múltiples backends (GAN, diffusion, LLM)",
+      "rationale": "Synthetic tabular data generation using GANs (CTGAN), Diffusion Models, and LLMs with adversarial filtering, privacy metrics, and sklearn integration.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Múltiples backends (GAN, diffusion, LLM)",
+        "notes": "Synthetic tabular data generation using GANs (CTGAN), Diffusion Models, and LLMs with adversarial filtering, privacy metrics, and sklearn integration.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -14984,10 +14984,10 @@
         "graveyarded": false
       },
       "name": "Tails",
-      "rationale": "Integración transparente de Tor en toda la stack",
+      "rationale": "Amnesia forzada, no hay persistencia accidental",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Integración transparente de Tor en toda la stack",
+        "notes": "Amnesia forzada, no hay persistencia accidental",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -15018,10 +15018,10 @@
         "graveyarded": false
       },
       "name": "Taskwarrior",
-      "rationale": "Extremadamente liviano y rápido",
+      "rationale": "Taskwarrior is Free and Open Source Software that manages your TODO list from your command line. It is flexible, fast, efficient, and unobtrusive....",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Extremadamente liviano y rápido",
+        "notes": "Taskwarrior is Free and Open Source Software that manages your TODO list from your command line. It is flexible, fast, efficient, and unobtrusive....",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -15286,10 +15286,10 @@
         "graveyarded": false
       },
       "name": "TF-Agents",
-      "rationale": "APIs consistentes y documentación corporate-grade",
+      "rationale": "Algoritmos RL comprobados (DQN, PPO, DDPG)",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "APIs consistentes y documentación corporate-grade",
+        "notes": "Algoritmos RL comprobados (DQN, PPO, DDPG)",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -15330,10 +15330,10 @@
         "graveyarded": false
       },
       "name": "The Harvester",
-      "rationale": "Agregador maduro de múltiples fuentes públicas",
+      "rationale": "Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Agregador maduro de múltiples fuentes públicas",
+        "notes": "Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -15364,10 +15364,10 @@
         "graveyarded": false
       },
       "name": "ticker",
-      "rationale": "Suite completa TA (50+ indicadores, estrategias prebuilt)",
+      "rationale": "Backtesting framework integrado, performance Go nativo",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Suite completa TA (50+ indicadores, estrategias prebuilt)",
+        "notes": "Backtesting framework integrado, performance Go nativo",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -15476,10 +15476,10 @@
         "graveyarded": false
       },
       "name": "Tink",
-      "rationale": "APIs imposibles de misuser por diseño",
+      "rationale": "A multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse. [Apache-2.0]",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "APIs imposibles de misuser por diseño",
+        "notes": "A multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse. [Apache-2.0]",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -15544,10 +15544,10 @@
         "graveyarded": false
       },
       "name": "Tor",
-      "rationale": "Red más grande y auditada en privacidad",
+      "rationale": "Free software and onion routed overlay network that helps you defend against traffic analysis.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Red más grande y auditada en privacidad",
+        "notes": "Free software and onion routed overlay network that helps you defend against traffic analysis.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -15578,10 +15578,10 @@
         "graveyarded": false
       },
       "name": "TPOT",
-      "rationale": "Automatiza feature engineering y selección de algoritmos",
+      "rationale": "Tool that automatically creates and optimizes machine learning pipelines using genetic programming. Consider it your personal data science...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Automatiza feature engineering y selección de algoritmos",
+        "notes": "Tool that automatically creates and optimizes machine learning pipelines using genetic programming. Consider it your personal data science...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -15622,10 +15622,10 @@
         "graveyarded": false
       },
       "name": "Træfɪk",
-      "rationale": "Service discovery automático, no recargas nginx",
+      "rationale": "HTTPS/Let's Encrypt integrado, SSL sin drama",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Service discovery automático, no recargas nginx",
+        "notes": "HTTPS/Let's Encrypt integrado, SSL sin drama",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -15690,10 +15690,10 @@
         "graveyarded": false
       },
       "name": "tsfresh",
-      "rationale": "Automatización de feature engineering compleja",
+      "rationale": "Automatic extraction of relevant features from time series.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Automatización de feature engineering compleja",
+        "notes": "Automatic extraction of relevant features from time series.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -15812,10 +15812,10 @@
         "graveyarded": false
       },
       "name": "uk-company-number",
-      "rationale": "Cobertura completa de prefijos UK",
+      "rationale": "Python Validate, format, and identify UK Companies House company numbers. Supports all 27 prefixes. PyPI",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Cobertura completa de prefijos UK",
+        "notes": "Python Validate, format, and identify UK Companies House company numbers. Supports all 27 prefixes. PyPI",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -15856,10 +15856,10 @@
         "graveyarded": false
       },
       "name": "uk-sic-codes",
-      "rationale": "Cobertura 100% de 731 códigos SIC 2007",
+      "rationale": "Python UK SIC 2007 industry classification code lookup, search, and validation. 731 codes, 21 sections. PyPI",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Cobertura 100% de 731 códigos SIC 2007",
+        "notes": "Python UK SIC 2007 industry classification code lookup, search, and validation. 731 codes, 21 sections. PyPI",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -15900,10 +15900,10 @@
         "graveyarded": false
       },
       "name": "unsloth",
-      "rationale": "Realmente reduce VRAM 60-70% con optimizaciones de kernel personalizadas",
+      "rationale": "Activamente mantenido, comunidad creciente en Hugging Face",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Realmente reduce VRAM 60-70% con optimizaciones de kernel personalizadas",
+        "notes": "Activamente mantenido, comunidad creciente en Hugging Face",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -15944,10 +15944,10 @@
         "graveyarded": false
       },
       "name": "USearch",
-      "rationale": "Soporte nativo para strings y vectores en mismo engine",
+      "rationale": "Similarity Search Engine for Vectors and Strings",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Soporte nativo para strings y vectores en mismo engine",
+        "notes": "Similarity Search Engine for Vectors and Strings",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -15978,10 +15978,10 @@
         "graveyarded": false
       },
       "name": "Vaex",
-      "rationale": "Memory mapping inteligente, cero copia de datos",
+      "rationale": "API similar a Pandas, curva de aprendizaje chica",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Memory mapping inteligente, cero copia de datos",
+        "notes": "API similar a Pandas, curva de aprendizaje chica",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -16022,10 +16022,10 @@
         "graveyarded": false
       },
       "name": "vaultwarden",
-      "rationale": "Consumo RAM/CPU mínimo comparado a versión oficial",
+      "rationale": "Deployable en VPS barato sin overhead",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Consumo RAM/CPU mínimo comparado a versión oficial",
+        "notes": "Deployable en VPS barato sin overhead",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -16134,10 +16134,10 @@
         "graveyarded": false
       },
       "name": "Virus Total",
-      "rationale": "Base de datos masiva de firmas de 90+ motores",
+      "rationale": "Free service that analyzes suspicious files and URLs and facilitates the quick detection of viruses, worms, trojans, and all kinds of malware.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Base de datos masiva de firmas de 90+ motores",
+        "notes": "Free service that analyzes suspicious files and URLs and facilitates the quick detection of viruses, worms, trojans, and all kinds of malware.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -16212,10 +16212,10 @@
         "graveyarded": false
       },
       "name": "vizzu",
-      "rationale": "Animaciones smooth entre estados de datos",
+      "rationale": "API pensada para narrativa (data stories)",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Animaciones smooth entre estados de datos",
+        "notes": "API pensada para narrativa (data stories)",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -16246,10 +16246,10 @@
         "graveyarded": false
       },
       "name": "vLLM",
-      "rationale": "PagedAttention revolucionó memory efficiency",
+      "rationale": "vLLM is a high-throughput and memory-efficient inference and serving engine for LLMs.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "PagedAttention revolucionó memory efficiency",
+        "notes": "vLLM is a high-throughput and memory-efficient inference and serving engine for LLMs.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -16480,10 +16480,10 @@
         "graveyarded": false
       },
       "name": "webpki",
-      "rationale": "Validación correcta de certificados sin C deps",
+      "rationale": "Web PKI TLS X.509 certificate validation in Rust.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Validación correcta de certificados sin C deps",
+        "notes": "Web PKI TLS X.509 certificate validation in Rust.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -16548,10 +16548,10 @@
         "graveyarded": false
       },
       "name": "Windsurf",
-      "rationale": "Interfaz VSCode hace rampa de entrada baja para usuarios existentes",
+      "rationale": "AI chat decente para sugerencias inline",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Interfaz VSCode hace rampa de entrada baja para usuarios existentes",
+        "notes": "AI chat decente para sugerencias inline",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -16582,10 +16582,10 @@
         "graveyarded": false
       },
       "name": "Xcode",
-      "rationale": "Integración perfecta con Xcode Server y Apple frameworks",
+      "rationale": "Debugger y profiler nativos sin rival en el ecosistema",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Integración perfecta con Xcode Server y Apple frameworks",
+        "notes": "Debugger y profiler nativos sin rival en el ecosistema",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -16616,10 +16616,10 @@
         "graveyarded": false
       },
       "name": "xLearn",
-      "rationale": "Excelente rendimiento en datasets sparse de alta dimensión",
+      "rationale": "A high performance, easy-to-use, and scalable machine learning package, which can be used to solve large-scale machine learning problems. xLearn...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Excelente rendimiento en datasets sparse de alta dimensión",
+        "notes": "A high performance, easy-to-use, and scalable machine learning package, which can be used to solve large-scale machine learning problems. xLearn...",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -16660,10 +16660,10 @@
         "graveyarded": false
       },
       "name": "xplr",
-      "rationale": "Arquitectura modular permite extensiones vía Lua",
+      "rationale": "A hackable, minimal, fast TUI file explorer.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Arquitectura modular permite extensiones vía Lua",
+        "notes": "A hackable, minimal, fast TUI file explorer.",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -16914,10 +16914,10 @@
         "graveyarded": false
       },
       "name": "ZXing",
-      "rationale": "Soporte amplio de formatos (QR, EAN, Code128, etc)",
+      "rationale": "An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages. [Apache]",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Soporte amplio de formatos (QR, EAN, Code128, etc)",
+        "notes": "An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages. [Apache]",
         "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
@@ -16948,10 +16948,10 @@
         "graveyarded": false
       },
       "name": "Jest",
-      "rationale": "Setup casi inmediato con zero-config en proyectos Create React App y Next.js, sin perder tiempo en configuración inicial",
+      "rationale": "Watch mode inteligente que solo re-ejecuta tests afectados por cambios, acelerando el ciclo de desarrollo",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Setup casi inmediato con zero-config en proyectos Create React App y Next.js, sin perder tiempo en configuración inicial",
+        "notes": "Watch mode inteligente que solo re-ejecuta tests afectados por cambios, acelerando el ciclo de desarrollo",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -16971,10 +16971,10 @@
         "graveyarded": false
       },
       "name": "Next.js",
-      "rationale": "Abstrae complejidad de configuración de build/bundling con defaults que funcionan en producción desde el día uno",
+      "rationale": "A minimalistic framework for universal server-rendered React applications",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Abstrae complejidad de configuración de build/bundling con defaults que funcionan en producción desde el día uno",
+        "notes": "A minimalistic framework for universal server-rendered React applications",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -16994,10 +16994,10 @@
         "graveyarded": false
       },
       "name": "Bit",
-      "rationale": "Permite aislar y versionar componentes individuales sin reestructurar el proyecto fuente",
+      "rationale": "Modelo de dependencias por componente: cada uno trackea sus propias deps",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Permite aislar y versionar componentes individuales sin reestructurar el proyecto fuente",
+        "notes": "Modelo de dependencias por componente: cada uno trackea sus propias deps",
         "reviewedAt": "2026-04-15",
         "status": "Needs Review"
       },
@@ -17017,10 +17017,10 @@
         "graveyarded": false
       },
       "name": "Gatsby.js",
-      "rationale": "Optimización automática de imágenes y bundle",
+      "rationale": "Plugins ecosystem robusto para extensibilidad",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Optimización automática de imágenes y bundle",
+        "notes": "Plugins ecosystem robusto para extensibilidad",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -17040,10 +17040,10 @@
         "graveyarded": false
       },
       "name": "Playwright",
-      "rationale": "Soporte nativo para Chromium, Firefox y WebKit con una sola API coherente, sin parches ni wrappers",
+      "rationale": "Node.js library to automate Chromium, Firefox and WebKit with a single API.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Soporte nativo para Chromium, Firefox y WebKit con una sola API coherente, sin parches ni wrappers",
+        "notes": "Node.js library to automate Chromium, Firefox and WebKit with a single API.",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -17063,10 +17063,10 @@
         "graveyarded": false
       },
       "name": "swiper",
-      "rationale": "Soporte nativo para los frameworks más populares (React, Vue, Angular) con wrappers oficiales bien mantenidos",
+      "rationale": "docs The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Soporte nativo para los frameworks más populares (React, Vue, Angular) con wrappers oficiales bien mantenidos",
+        "notes": "docs The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.",
         "reviewedAt": "2026-04-15",
         "status": "Needs Review"
       },
@@ -17086,10 +17086,10 @@
         "graveyarded": false
       },
       "name": "tsParticles",
-      "rationale": "Altamente configurable con decenas de efectos out-of-the-box (confeti, fuegos, nieve, etc.)",
+      "rationale": "A lightweight Javascript library to easily create highly configurable and interactive particle animations",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Altamente configurable con decenas de efectos out-of-the-box (confeti, fuegos, nieve, etc.)",
+        "notes": "A lightweight Javascript library to easily create highly configurable and interactive particle animations",
         "reviewedAt": "2026-04-15",
         "status": "Needs Review"
       },
@@ -17109,10 +17109,10 @@
         "graveyarded": false
       },
       "name": "Visual Studio Code",
-      "rationale": "Ecosistema de extensiones masivo que cubre prácticamente cualquier lenguaje, framework o flujo de trabajo imaginable",
+      "rationale": "New type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. Code provides...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Ecosistema de extensiones masivo que cubre prácticamente cualquier lenguaje, framework o flujo de trabajo imaginable",
+        "notes": "New type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. Code provides...",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -17132,10 +17132,10 @@
         "graveyarded": false
       },
       "name": "Vite",
-      "rationale": "HMR instantáneo gracias a ES modules nativos, el servidor de dev levanta en milisegundos sin importar el tamaño del proyecto",
+      "rationale": "Next generation frontend tooling. It's fast! Alternative to Create React App",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "HMR instantáneo gracias a ES modules nativos, el servidor de dev levanta en milisegundos sin importar el tamaño del proyecto",
+        "notes": "Next generation frontend tooling. It's fast! Alternative to Create React App",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -17178,10 +17178,10 @@
         "graveyarded": false
       },
       "name": "bun",
-      "rationale": "Velocidad de instalación de dependencias notablemente superior a npm/yarn/pnpm en benchmarks reales",
+      "rationale": "Bun is a fast JavaScript runtime, package manager, bundler, test runner",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Velocidad de instalación de dependencias notablemente superior a npm/yarn/pnpm en benchmarks reales",
+        "notes": "Bun is a fast JavaScript runtime, package manager, bundler, test runner",
         "reviewedAt": "2026-04-15",
         "status": "Needs Review"
       },
@@ -17201,10 +17201,10 @@
         "graveyarded": false
       },
       "name": "Cake",
-      "rationale": "DSL en C# permite reutilizar logica de compilación sin shell script, más type-safe",
+      "rationale": "Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "DSL en C# permite reutilizar logica de compilación sin shell script, más type-safe",
+        "notes": "Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and...",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -17270,10 +17270,10 @@
         "graveyarded": false
       },
       "name": "Mocha",
-      "rationale": "Sintaxis clara, fácil de leer para no-especialistas",
+      "rationale": "Javascript test framework for Node.js and the browser.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Sintaxis clara, fácil de leer para no-especialistas",
+        "notes": "Javascript test framework for Node.js and the browser.",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -17293,10 +17293,10 @@
         "graveyarded": false
       },
       "name": "PeachPie",
-      "rationale": "Permite ejecutar código PHP existente en .NET sin reescritura, reduciendo drásticamente el costo de migración",
+      "rationale": "PeachPie is a PHP compiler and runtime for .NET and .NET Core, which allows entire PHP applications to run on the modern, secure and performant...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Permite ejecutar código PHP existente en .NET sin reescritura, reduciendo drásticamente el costo de migración",
+        "notes": "PeachPie is a PHP compiler and runtime for .NET and .NET Core, which allows entire PHP applications to run on the modern, secure and performant...",
         "reviewedAt": "2026-04-15",
         "status": "Needs Review"
       },
@@ -17316,10 +17316,10 @@
         "graveyarded": false
       },
       "name": "query",
-      "rationale": "Elimina casi todo el boilerplate de fetching/caching/sincronización que antes requería soluciones caseras o Redux Toolkit Query",
+      "rationale": "Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Elimina casi todo el boilerplate de fetching/caching/sincronización que antes requería soluciones caseras o Redux Toolkit Query",
+        "notes": "Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.",
         "reviewedAt": "2026-04-15",
         "status": "Needs Review"
       },
@@ -17339,10 +17339,10 @@
         "graveyarded": false
       },
       "name": "React Native",
-      "rationale": "Reutilización masiva de JS/React knowledge",
+      "rationale": "A framework for building native apps with React.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Reutilización masiva de JS/React knowledge",
+        "notes": "A framework for building native apps with React.",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -17362,10 +17362,10 @@
         "graveyarded": false
       },
       "name": "recharts",
-      "rationale": "API declarativa y composable que hace que armar gráficos complejos sea intuitivo sin tocar D3 directamente",
+      "rationale": "Redefined chart library built with React and D3.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "API declarativa y composable que hace que armar gráficos complejos sea intuitivo sin tocar D3 directamente",
+        "notes": "Redefined chart library built with React and D3.",
         "reviewedAt": "2026-04-15",
         "status": "Needs Review"
       },
@@ -17385,10 +17385,10 @@
         "graveyarded": false
       },
       "name": "RunJS",
-      "rationale": "Ejecución en tiempo real mientras escribís, sin botón de run ni fricción",
+      "rationale": "Acceso a Node.js real y posibilidad de importar paquetes npm directamente",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Ejecución en tiempo real mientras escribís, sin botón de run ni fricción",
+        "notes": "Acceso a Node.js real y posibilidad de importar paquetes npm directamente",
         "reviewedAt": "2026-04-15",
         "status": "Needs Review"
       },
@@ -17408,10 +17408,10 @@
         "graveyarded": false
       },
       "name": "schedule-x",
-      "rationale": "Soporte multi-framework (React, Vue, Angular) con una API consistente",
+      "rationale": "UI de calidad material design que ahorra semanas de trabajo visual en scheduling apps",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Soporte multi-framework (React, Vue, Angular) con una API consistente",
+        "notes": "UI de calidad material design que ahorra semanas de trabajo visual en scheduling apps",
         "reviewedAt": "2026-04-15",
         "status": "Needs Review"
       },
@@ -17477,10 +17477,10 @@
         "graveyarded": false
       },
       "name": "Vue.js",
-      "rationale": "Sintaxis declarativa más legible que React JSX",
+      "rationale": "The Progressive JavaScript Framework.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Sintaxis declarativa más legible que React JSX",
+        "notes": "The Progressive JavaScript Framework.",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -17500,10 +17500,10 @@
         "graveyarded": false
       },
       "name": "webdriver.io",
-      "rationale": "Soporte nativo de mobile + web en mismo código",
+      "rationale": "Next-gen browser and mobile automation test framework for Node.js",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Soporte nativo de mobile + web en mismo código",
+        "notes": "Next-gen browser and mobile automation test framework for Node.js",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -17546,10 +17546,10 @@
         "graveyarded": false
       },
       "name": "Context Engineering Kit",
-      "rationale": "Enfoque explícito en eficiencia de tokens",
+      "rationale": "by Vlad Goncharov Hand-crafted collection of advanced context engineering techniques and patterns with minimal token footprint focused on...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Enfoque explícito en eficiencia de tokens",
+        "notes": "by Vlad Goncharov Hand-crafted collection of advanced context engineering techniques and patterns with minimal token footprint focused on...",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -17569,10 +17569,10 @@
         "graveyarded": false
       },
       "name": "Cppcheck",
-      "rationale": "Bajo rate de falsos positivos, basado en análisis real de código",
+      "rationale": "A tool for static C/C++ code analysis. source",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Bajo rate de falsos positivos, basado en análisis real de código",
+        "notes": "A tool for static C/C++ code analysis. source",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -17592,10 +17592,10 @@
         "graveyarded": false
       },
       "name": "CppSharp",
-      "rationale": "Automatiza generación de bindings reduciendo boilerplate",
+      "rationale": "Tools and libraries to glue C/C++ APIs to high-level languages. [MIT]",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Automatiza generación de bindings reduciendo boilerplate",
+        "notes": "Tools and libraries to glue C/C++ APIs to high-level languages. [MIT]",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -17615,10 +17615,10 @@
         "graveyarded": false
       },
       "name": "Crypto++",
-      "rationale": "Amplia cobertura de esquemas criptográficos",
+      "rationale": "A free C++ class library of cryptographic schemes. [Boost]",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Amplia cobertura de esquemas criptográficos",
+        "notes": "A free C++ class library of cryptographic schemes. [Boost]",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -17730,10 +17730,10 @@
         "graveyarded": false
       },
       "name": "Formily",
-      "rationale": "Modelo reactivo basado en JSON Schema que permite formularios dinámicos complejos sin lógica custom",
+      "rationale": "High performance, extensible, and Typescript friendly",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Modelo reactivo basado en JSON Schema que permite formularios dinámicos complejos sin lógica custom",
+        "notes": "High performance, extensible, and Typescript friendly",
         "reviewedAt": "2026-04-16",
         "status": "Needs Review"
       },
@@ -17776,10 +17776,10 @@
         "graveyarded": false
       },
       "name": "GitLab CI",
-      "rationale": "Integración perfecta con GitLab (webhooks, auth, repos)",
+      "rationale": "Feature-complete sin dependencias externas",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Integración perfecta con GitLab (webhooks, auth, repos)",
+        "notes": "Feature-complete sin dependencias externas",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -17845,10 +17845,10 @@
         "graveyarded": false
       },
       "name": "gpg",
-      "rationale": "Estándar industria de 25+ años",
+      "rationale": "Zero-dependency, CLI portable y ubiquo",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Estándar industria de 25+ años",
+        "notes": "Zero-dependency, CLI portable y ubiquo",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -17891,10 +17891,10 @@
         "graveyarded": false
       },
       "name": "Hasura GraphQL Engine",
-      "rationale": "Genera schema GraphQL automático desde DB",
+      "rationale": "Webhooks en eventos DB nativos, evita polling",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Genera schema GraphQL automático desde DB",
+        "notes": "Webhooks en eventos DB nativos, evita polling",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -17914,10 +17914,10 @@
         "graveyarded": false
       },
       "name": "IterTools TS",
-      "rationale": "Soporte nativo de async iterables, raro en ecosistema JS",
+      "rationale": "Lazy evaluation evita materializar colecciones grandes",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Soporte nativo de async iterables, raro en ecosistema JS",
+        "notes": "Lazy evaluation evita materializar colecciones grandes",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -17937,10 +17937,10 @@
         "graveyarded": false
       },
       "name": "Kaitai Struct",
-      "rationale": "Generación automática de parsers multiplataforma desde spec única",
+      "rationale": "Web IDE integrada para testing interactivo",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Generación automática de parsers multiplataforma desde spec única",
+        "notes": "Web IDE integrada para testing interactivo",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -17960,10 +17960,10 @@
         "graveyarded": false
       },
       "name": "KDevelop",
-      "rationale": "Integración perfecta con Qt",
+      "rationale": "Debugger robusto, refactoring avanzado",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Integración perfecta con Qt",
+        "notes": "Debugger robusto, refactoring avanzado",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -17983,10 +17983,10 @@
         "graveyarded": false
       },
       "name": "Leaflet",
-      "rationale": "Tamaño mínimo y rendimiento en móviles",
+      "rationale": "JavaScript library for mobile-friendly interactive maps.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Tamaño mínimo y rendimiento en móviles",
+        "notes": "JavaScript library for mobile-friendly interactive maps.",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -18075,10 +18075,10 @@
         "graveyarded": false
       },
       "name": "NativeScript",
-      "rationale": "Integración real con ecosistemas web modernos",
+      "rationale": "Comunidad activa y ejemplos abundantes",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Integración real con ecosistemas web modernos",
+        "notes": "Comunidad activa y ejemplos abundantes",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -18098,10 +18098,10 @@
         "graveyarded": false
       },
       "name": "Node.js core",
-      "rationale": "Estándar absoluto, mantenimiento empresarial activo",
+      "rationale": "JavaScript runtime built on Chrome's V8 JavaScript engine",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Estándar absoluto, mantenimiento empresarial activo",
+        "notes": "JavaScript runtime built on Chrome's V8 JavaScript engine",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -18121,10 +18121,10 @@
         "graveyarded": false
       },
       "name": "Nuxt.js",
-      "rationale": "File-based routing automático y convenciones de proyecto que eliminan configuración boilerplate desde el día uno",
+      "rationale": "Minimalistic framework for server-rendered Vue.js apps.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "File-based routing automático y convenciones de proyecto que eliminan configuración boilerplate desde el día uno",
+        "notes": "Minimalistic framework for server-rendered Vue.js apps.",
         "reviewedAt": "2026-04-16",
         "status": "Needs Review"
       },
@@ -18167,10 +18167,10 @@
         "graveyarded": false
       },
       "name": "OneCompiler",
-      "rationale": "Compartir código via link directo",
+      "rationale": "A free AI Powered online compiler supporting over 70 languages, including Java, Python, MySQL, C++, and HTML, for writing, running, and sharing code.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Compartir código via link directo",
+        "notes": "A free AI Powered online compiler supporting over 70 languages, including Java, Python, MySQL, C++, and HTML, for writing, running, and sharing code.",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -18190,10 +18190,10 @@
         "graveyarded": false
       },
       "name": "OpenSSL",
-      "rationale": "Estándar de facto en todas partes (sistemas, apps, servicios)",
+      "rationale": "A robust, commercial-grade, full-featured, and Open Source cryptography library. [Apache]",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Estándar de facto en todas partes (sistemas, apps, servicios)",
+        "notes": "A robust, commercial-grade, full-featured, and Open Source cryptography library. [Apache]",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -18213,10 +18213,10 @@
         "graveyarded": false
       },
       "name": "OpenStreetMap",
-      "rationale": "Cobertura global con datos actualizados comunitariamente",
+      "rationale": "Collaborative project to create a free editable map of the world. (, Clients) GPL-2.0 Ruby",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Cobertura global con datos actualizados comunitariamente",
+        "notes": "Collaborative project to create a free editable map of the world. (, Clients) GPL-2.0 Ruby",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -18259,10 +18259,10 @@
         "graveyarded": false
       },
       "name": "Pomerium",
-      "rationale": "Solución completa (auth + routing + TLS)",
+      "rationale": "Identity-aware reverse proxy, successor to now obsolete oauthproxy. It inserts an OAuth step before proxying your request to the backend, so that...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Solución completa (auth + routing + TLS)",
+        "notes": "Identity-aware reverse proxy, successor to now obsolete oauthproxy. It inserts an OAuth step before proxying your request to the backend, so that...",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -18282,10 +18282,10 @@
         "graveyarded": false
       },
       "name": "pouchdb",
-      "rationale": "Sincronización bidireccional robusta, manejo elegante de conflictos",
+      "rationale": "Javascript db inspired by Apache CouchDB to run well within the browser.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Sincronización bidireccional robusta, manejo elegante de conflictos",
+        "notes": "Javascript db inspired by Apache CouchDB to run well within the browser.",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -18328,10 +18328,10 @@
         "graveyarded": false
       },
       "name": "react-relay",
-      "rationale": "Compilador estático que valida queries contra el schema en build time, eliminando errores en runtime",
+      "rationale": "Relay is a JavaScript framework for building data-driven React applications.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Compilador estático que valida queries contra el schema en build time, eliminando errores en runtime",
+        "notes": "Relay is a JavaScript framework for building data-driven React applications.",
         "reviewedAt": "2026-04-16",
         "status": "Needs Review"
       },
@@ -18351,10 +18351,10 @@
         "graveyarded": false
       },
       "name": "ReactiveSearch",
-      "rationale": "Integración nativa con Elasticsearch queries",
+      "rationale": "Componentes ready-to-use para filtros y resultados",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Integración nativa con Elasticsearch queries",
+        "notes": "Componentes ready-to-use para filtros y resultados",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -18374,10 +18374,10 @@
         "graveyarded": false
       },
       "name": "s2n",
-      "rationale": "Auditorías de seguridad regulares y mantenimiento activo",
+      "rationale": "An implementation of the TLS/SSL protocols. [Apache]",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Auditorías de seguridad regulares y mantenimiento activo",
+        "notes": "An implementation of the TLS/SSL protocols. [Apache]",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -18397,10 +18397,10 @@
         "graveyarded": false
       },
       "name": "Samba",
-      "rationale": "Estándar industrial de 30+ años, probado en millones de deployments",
+      "rationale": "Samba is the standard Windows interoperability suite of programs for Linux and Unix. It provides secure, stable and fast file and print services...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Estándar industrial de 30+ años, probado en millones de deployments",
+        "notes": "Samba is the standard Windows interoperability suite of programs for Linux and Unix. It provides secure, stable and fast file and print services...",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -18466,10 +18466,10 @@
         "graveyarded": false
       },
       "name": "Spack",
-      "rationale": "Soporte nativo de múltiples versiones y compiladores en paralelo",
+      "rationale": "Reproducibilidad garantizada en clusters",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Soporte nativo de múltiples versiones y compiladores en paralelo",
+        "notes": "Reproducibilidad garantizada en clusters",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -18489,10 +18489,10 @@
         "graveyarded": false
       },
       "name": "Superpowers",
-      "rationale": "Cobertura amplia del ciclo de vida completo",
+      "rationale": "by Jesse Vincent A strong bundle of core competencies for software engineering, with good coverage of a large portion of the SDLC from planning,...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Cobertura amplia del ciclo de vida completo",
+        "notes": "by Jesse Vincent A strong bundle of core competencies for software engineering, with good coverage of a large portion of the SDLC from planning,...",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -18581,10 +18581,10 @@
         "graveyarded": false
       },
       "name": "virtua",
-      "rationale": "Zero-config real: funciona out of the box sin necesidad de especificar alturas fijas ni configuración compleja",
+      "rationale": "Bundle diminuto (~3kB) que no penaliza proyectos donde el performance importa",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Zero-config real: funciona out of the box sin necesidad de especificar alturas fijas ni configuración compleja",
+        "notes": "Bundle diminuto (~3kB) que no penaliza proyectos donde el performance importa",
         "reviewedAt": "2026-04-16",
         "status": "Needs Review"
       },
@@ -18627,10 +18627,10 @@
         "graveyarded": false
       },
       "name": "xxHash",
-      "rationale": "Velocidad excepcional (4-5x más rápido que MurmurHash)",
+      "rationale": "Ampliamente adoptado en Redis, Memcached, ClickHouse",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Velocidad excepcional (4-5x más rápido que MurmurHash)",
+        "notes": "Ampliamente adoptado en Redis, Memcached, ClickHouse",
         "reviewedAt": "2026-04-13",
         "status": "Needs Review"
       },
@@ -18650,10 +18650,10 @@
         "graveyarded": false
       },
       "name": "Docker for novices",
-      "rationale": "Cubre Docker desde cero, ideal para devs o testers sin ningún contacto previo con contenedores",
+      "rationale": "An introduction to Docker for developers and testers who have never used it. (Video 1h40, recorded linux.conf.au 2019 — Christchurch, New Zealand)...",
       "review": {
         "caveat": "Useful standard, but not a discovery or emerging pick.",
-        "notes": "Cubre Docker desde cero, ideal para devs o testers sin ningún contacto previo con contenedores",
+        "notes": "An introduction to Docker for developers and testers who have never used it. (Video 1h40, recorded linux.conf.au 2019 — Christchurch, New Zealand)...",
         "reviewedAt": "2026-04-16",
         "reviewedBy": "Juan",
         "status": "Context Resource"
@@ -18674,10 +18674,10 @@
         "graveyarded": false
       },
       "name": "Functional Programming with TypeScript",
-      "rationale": "Enfoque hands-on de construir la librería desde cero, lo que fuerza comprensión real de las abstracciones funcionales",
+      "rationale": "Discover functional programming with Typescript and create a library like fp-ts alongside Sahand Javid in this beginner-friendly YouTube playlist.",
       "review": {
         "caveat": "Learning/context resource, not a primary tool recommendation.",
-        "notes": "Enfoque hands-on de construir la librería desde cero, lo que fuerza comprensión real de las abstracciones funcionales",
+        "notes": "Discover functional programming with Typescript and create a library like fp-ts alongside Sahand Javid in this beginner-friendly YouTube playlist.",
         "reviewedAt": "2026-04-16",
         "reviewedBy": "Juan",
         "status": "Context Resource"
@@ -18698,10 +18698,10 @@
         "graveyarded": false
       },
       "name": "Cline",
-      "rationale": "Soporte real de múltiples providers (Anthropic, OpenAI, Gemini, Bedrock, etc.) sin vendor lock-in",
+      "rationale": "Autonomous coding agent for VS Code that can create/edit files, execute commands, and use the browser with user permission. Supports multiple AI...",
       "review": {
         "caveat": "Worth a focused trial before adopting broadly.",
-        "notes": "Soporte real de múltiples providers (Anthropic, OpenAI, Gemini, Bedrock, etc.) sin vendor lock-in",
+        "notes": "Autonomous coding agent for VS Code that can create/edit files, execute commands, and use the browser with user permission. Supports multiple AI...",
         "reviewedAt": "2026-04-16",
         "reviewedBy": "Juan",
         "status": "Context Resource"
@@ -18722,10 +18722,10 @@
         "graveyarded": false
       },
       "name": "awesome",
-      "rationale": "Punto de entrada para explorar nichos tecnológicos",
+      "rationale": "Comunidad activa mantiene calidad",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Punto de entrada para explorar nichos tecnológicos",
+        "notes": "Comunidad activa mantiene calidad",
         "reviewedAt": "2026-04-13",
         "status": "Context Resource"
       },
@@ -18812,10 +18812,10 @@
         "graveyarded": false
       },
       "name": "Awesome Core ML Models",
-      "rationale": "Fácil encontrar modelos compatibles iOS",
+      "rationale": "A curated list of machine learning models in CoreML format.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Fácil encontrar modelos compatibles iOS",
+        "notes": "A curated list of machine learning models in CoreML format.",
         "reviewedAt": "2026-04-13",
         "status": "Context Resource"
       },
@@ -18846,10 +18846,10 @@
         "graveyarded": false
       },
       "name": "Awesome Machine Learning",
-      "rationale": "Cobertura exhaustiva organizada por lenguaje de programación, útil tanto para pythonistas como para devs de R, Julia o Go",
+      "rationale": "",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Cobertura exhaustiva organizada por lenguaje de programación, útil tanto para pythonistas como para devs de R, Julia o Go",
+        "notes": "",
         "reviewedAt": "2026-04-15",
         "status": "Context Resource"
       },
@@ -18880,10 +18880,10 @@
         "graveyarded": false
       },
       "name": "CTFs",
-      "rationale": "No aplica: es compilación curatorial",
+      "rationale": "Capture The Flag frameworks, libraries, etc.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "No aplica: es compilación curatorial",
+        "notes": "Capture The Flag frameworks, libraries, etc.",
         "reviewedAt": "2026-04-13",
         "status": "Context Resource"
       },
@@ -18914,10 +18914,10 @@
         "graveyarded": false
       },
       "name": "Honeypots",
-      "rationale": "Cobertura completa de tipos honeypot",
+      "rationale": "Facilita deployment defensivo",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Cobertura completa de tipos honeypot",
+        "notes": "Facilita deployment defensivo",
         "reviewedAt": "2026-04-13",
         "status": "Context Resource"
       },
@@ -18948,10 +18948,10 @@
         "graveyarded": false
       },
       "name": "Polyaxon",
-      "rationale": "Integración nativa con Kubernetes sin overhead",
+      "rationale": "Tracking de experimentos y versionado de modelos",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Integración nativa con Kubernetes sin overhead",
+        "notes": "Tracking de experimentos y versionado de modelos",
         "reviewedAt": "2026-04-13",
         "status": "Context Resource"
       },
@@ -19046,10 +19046,10 @@
         "graveyarded": false
       },
       "name": "AgentsKB",
-      "rationale": "Integración nativa con ecosistema de IDEs moderno",
+      "rationale": "Knowledge base with 39K+ researched technical Q&As accessible via MCP server, REST API, or web search. Integrates with Claude Code, Cursor, and Cline.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Integración nativa con ecosistema de IDEs moderno",
+        "notes": "Knowledge base with 39K+ researched technical Q&As accessible via MCP server, REST API, or web search. Integrates with Claude Code, Cursor, and Cline.",
         "reviewedAt": "2026-04-13",
         "status": "Context Resource"
       },
@@ -19113,10 +19113,10 @@
         "graveyarded": false
       },
       "name": "awesome-talks",
-      "rationale": "Amplio catálogo de screencasts y conferencias agrupadas",
+      "rationale": "A lot of screencasts, recordings of user group gatherings and conference talks.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Amplio catálogo de screencasts y conferencias agrupadas",
+        "notes": "A lot of screencasts, recordings of user group gatherings and conference talks.",
         "reviewedAt": "2026-04-13",
         "status": "Context Resource"
       },
@@ -19136,10 +19136,10 @@
         "graveyarded": false
       },
       "name": "awesome-zsh-plugins",
-      "rationale": "Buena organización y clasificación",
+      "rationale": "Actualizado regularmente con nuevos plugins",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Buena organización y clasificación",
+        "notes": "Actualizado regularmente con nuevos plugins",
         "reviewedAt": "2026-04-13",
         "status": "Context Resource"
       },
@@ -19170,10 +19170,10 @@
         "graveyarded": false
       },
       "name": "Calibre",
-      "rationale": "Conversión EPUB↔MOBI↔PDF sólida, servidor web para acceso remoto",
+      "rationale": "E-book library manager that can view, convert, and catalog e-books in most of the major e-book formats and provides a built-in Web server for...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Conversión EPUB↔MOBI↔PDF sólida, servidor web para acceso remoto",
+        "notes": "E-book library manager that can view, convert, and catalog e-books in most of the major e-book formats and provides a built-in Web server for...",
         "reviewedAt": "2026-04-13",
         "status": "Context Resource"
       },
@@ -19227,10 +19227,10 @@
         "graveyarded": false
       },
       "name": "create-go-app/cli",
-      "rationale": "Documentación excepcional con demos video integradas",
+      "rationale": "Clean project logo. Useful badges (version, code style, test cover, docs). Clear readme with quickstart, understandable installation and usage...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Documentación excepcional con demos video integradas",
+        "notes": "Clean project logo. Useful badges (version, code style, test cover, docs). Clear readme with quickstart, understandable installation and usage...",
         "reviewedAt": "2026-04-13",
         "status": "Context Resource"
       },
@@ -19271,10 +19271,10 @@
         "graveyarded": false
       },
       "name": "crypto-algorithms",
-      "rationale": "Código limpio y legible para aprender criptografía",
+      "rationale": "Basic implementations of standard cryptography algorithms (AES, SHA, etc.) in C. [PublicDomain]",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Código limpio y legible para aprender criptografía",
+        "notes": "Basic implementations of standard cryptography algorithms (AES, SHA, etc.) in C. [PublicDomain]",
         "reviewedAt": "2026-04-13",
         "status": "Context Resource"
       },
@@ -19338,10 +19338,10 @@
         "graveyarded": false
       },
       "name": "editly",
-      "rationale": "Abstracción declarativa sobre FFmpeg",
+      "rationale": "Declarative video editing API.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Abstracción declarativa sobre FFmpeg",
+        "notes": "Declarative video editing API.",
         "reviewedAt": "2026-04-13",
         "status": "Context Resource"
       },
@@ -19372,10 +19372,10 @@
         "graveyarded": false
       },
       "name": "Forensics",
-      "rationale": "Centraliza referencias dispersas de análisis forense",
+      "rationale": "Free (mostly open source) forensic analysis tools and resources.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Centraliza referencias dispersas de análisis forense",
+        "notes": "Free (mostly open source) forensic analysis tools and resources.",
         "reviewedAt": "2026-04-13",
         "status": "Context Resource"
       },
@@ -19406,10 +19406,10 @@
         "graveyarded": false
       },
       "name": "Jupyter",
-      "rationale": "Flexibilidad narrativa + código vivo",
+      "rationale": "Create and share documents that contain code, equations, visualizations and narrative text.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Flexibilidad narrativa + código vivo",
+        "notes": "Create and share documents that contain code, equations, visualizations and narrative text.",
         "reviewedAt": "2026-04-13",
         "status": "Context Resource"
       },
@@ -19474,10 +19474,10 @@
         "graveyarded": false
       },
       "name": "Metabase",
-      "rationale": "UI intuitiva, consultas sin código",
+      "rationale": "Comunidad activa, deployment simple en Docker",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "UI intuitiva, consultas sin código",
+        "notes": "Comunidad activa, deployment simple en Docker",
         "reviewedAt": "2026-04-13",
         "status": "Context Resource"
       },
@@ -19508,10 +19508,10 @@
         "graveyarded": false
       },
       "name": "modAL",
-      "rationale": "Integración nativa con scikit-learn",
+      "rationale": "A modular active learning framework for Python, built on top of scikit-learn.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Integración nativa con scikit-learn",
+        "notes": "A modular active learning framework for Python, built on top of scikit-learn.",
         "reviewedAt": "2026-04-13",
         "status": "Context Resource"
       },
@@ -19663,10 +19663,10 @@
         "graveyarded": false
       },
       "name": "Selenium",
-      "rationale": "Soporte oficial WebDriver, múltiples lenguajes",
+      "rationale": "Open-source browser automation framework and ecosystem.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Soporte oficial WebDriver, múltiples lenguajes",
+        "notes": "Open-source browser automation framework and ecosystem.",
         "reviewedAt": "2026-04-13",
         "status": "Context Resource"
       },
@@ -19697,10 +19697,10 @@
         "graveyarded": false
       },
       "name": "skorch",
-      "rationale": "Compatibilidad directa con sklearn pipelines/validación cruzada",
+      "rationale": "Reduce boilerplate PyTorch manteniendo flexibilidad",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Compatibilidad directa con sklearn pipelines/validación cruzada",
+        "notes": "Reduce boilerplate PyTorch manteniendo flexibilidad",
         "reviewedAt": "2026-04-13",
         "status": "Context Resource"
       },
@@ -19741,10 +19741,10 @@
         "graveyarded": false
       },
       "name": "Storybook JS",
-      "rationale": "Ecosistema maduro con addons para testing visual, accesibilidad y performance",
+      "rationale": "Storybook is a frontend workshop for building UI components and pages in isolation.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Ecosistema maduro con addons para testing visual, accesibilidad y performance",
+        "notes": "Storybook is a frontend workshop for building UI components and pages in isolation.",
         "reviewedAt": "2026-04-13",
         "status": "Context Resource"
       },
@@ -19806,7 +19806,7 @@
     "sources": 20
   },
   "validation": {
-    "checkedAt": "2026-06-22T21:24:29.470Z",
+    "checkedAt": "2026-06-22T21:38:42.883Z",
     "status": "pass",
     "warnings": []
   }

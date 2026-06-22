@@ -4,6 +4,8 @@
 
 **1 Human-reviewed · 0 Popular standards · 5 AI candidates · 3 Needs review**
 
+Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
+
 ---
 
 ## Human-reviewed picks
@@ -20,7 +22,7 @@ Suite of continuous benchmarking tools designed to catch performance regressions
 
 **Why this is here:** Adds continuous benchmarking to CI so performance regressions can be caught before release.
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#bencher-bencher) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -39,9 +41,9 @@ Found in 1 active source: josephmisiti/awesome-machine-learning
 
 CodeFlash.AI – Ship Blazing-Fast Python Code, Every Time.
 
-**Why this is here:** Herramienta SaaS que promete optimizar código Python automáticamente. Útil para devs que buscan performance sin refactor manual. Pero: depende de...
+**Why this is here:** CodeFlash.AI – Ship Blazing-Fast Python Code, Every Time.
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#codeflash-ai-codeflash-wcjx) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -53,9 +55,9 @@ CodeFlash.AI – Ship Blazing-Fast Python Code, Every Time.
 
 Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It makes writing C extensions for Python as easy as Python itself. [Apache]
 
-**Why this is here:** Sintaxis casi idéntica a Python, curva de aprendizaje suave
+**Why this is here:** Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It...
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#cython-cython-cython) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -69,7 +71,7 @@ Multi-platform genetic algorithm library for .NET Core and .NET Framework. The l
 
 **Why this is here:** Variedad de operadores GA preimplementados
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#geneticsharp-giacomelli-geneticsharp-kwpn) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -81,9 +83,9 @@ Multi-platform genetic algorithm library for .NET Core and .NET Framework. The l
 
 Run load tests for your web application, with an API for automation.
 
-**Why this is here:** API JavaScript native para automatización
+**Why this is here:** Run load tests for your web application, with an API for automation.
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#loadtest-alexfernandez-loadtest) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -95,9 +97,9 @@ Run load tests for your web application, with an API for automation.
 
 A compiler for Python array and numerical functions.
 
-**Why this is here:** Aceleración dramática en código numérico tight loops
+**Why this is here:** A compiler for Python array and numerical functions.
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#numba-numba-numba) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -118,7 +120,7 @@ encoding and decoding application messages in binary format for low-latency appl
 
 **Why this is here:** Performance predecible para arquitecturas reales-time
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#simplebinaryencoding-real-logic-simple-binary-encoding-5u8q) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -132,7 +134,7 @@ encoding and decoding application messages in binary format for low-latency appl
 
 **Why this is here:** Throughput y latencia excepcionales para WebSockets
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#uwebsockets-unetworking-uwebsockets-lsm7) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -144,9 +146,9 @@ encoding and decoding application messages in binary format for low-latency appl
 
 Extremely fast non-cryptographic hash algorithm. [BSD-2-Clause]
 
-**Why this is here:** Velocidad excepcional (4-5x más rápido que MurmurHash)
+**Why this is here:** Ampliamente adoptado en Redis, Memcached, ClickHouse
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#xxhash-cyan4973-xxhash) · [data/latest.json](../data/latest.json)
 
 ---
 

@@ -28,6 +28,7 @@ Star it if you want fewer tool-hunt tabs: source traces, dedupe, caveats, and a 
 - **Methodology**: [METHODOLOGY.md](METHODOLOGY.md)
 - **Update summary**: [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md)
 - **Evidence snapshot**: [data/latest.json](data/latest.json)
+- **Inspectable catalog**: [TOOLS.md](TOOLS.md)
 - **Popular standards**: 1
 - **Needs review**: 74
 - **Candidate catalog**: available in [data/latest.json](data/latest.json) and domain pages; candidates are not endorsements.
@@ -98,6 +99,14 @@ Human-reviewed picks with a concrete reason to look now.
 
 ---
 
+## What changed this week
+
+No material public change detected for the latest generated window.
+
+See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
+
+---
+
 ## ⭐ Reviewed picks and candidates by domain
 
 ### 🌐 Web
@@ -108,7 +117,7 @@ Human-reviewed picks with a concrete reason to look now.
 | [**grpc**](https://github.com/grpc/grpc) | Remote Procedure Calls (RPCs) provide a useful abstraction for building distributed applications and services. The... | Found in 1 active source: vinta/awesome-python · AI Candidate |
 | [**juspay/neurolink**](https://github.com/juspay/neurolink) | 📇 ☁️ 🏠 🍎 🪟 🐧 Making enterprise AI infrastructure universally accessible. Edge-first platform unifying 12... | Found in 2 active sources: josephmisiti/awesome-machine-learning, punkpeye/awesome-mcp-servers · AI Candidate |
 
-📖 45 more in [detail page →](domains/web.md)
+📖 45 more in [detail page →](domains/web.md) · Full evidence in [TOOLS.md](TOOLS.md)
 
 ### 🤖 AI & ML
 
@@ -118,7 +127,7 @@ Human-reviewed picks with a concrete reason to look now.
 | 👤 [**Netron**](https://github.com/lutzroeder/netron) | Netron is a viewer for neural network, deep learning and machine learning models. | Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning · Human Pick |
 | [**XGBoost**](https://github.com/dmlc/xgboost) | XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. | Found in 4 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning +1 more · AI Candidate |
 
-📖 97 more in [detail page →](domains/ai-ml.md)
+📖 97 more in [detail page →](domains/ai-ml.md) · Full evidence in [TOOLS.md](TOOLS.md)
 
 ### 🛠️ DevOps
 
@@ -128,7 +137,7 @@ Human-reviewed picks with a concrete reason to look now.
 | [**ZooKeeper**](https://zookeeper.apache.org) | ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed... | Found in 2 active sources: akullpp/awesome-java, rust-unofficial/awesome-rust · AI Candidate |
 | [**bandwhich**](https://github.com/imsnif/bandwhich) | Track bandwidth utilization by process. | Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust · AI Candidate |
 
-📖 46 more in [detail page →](domains/devops.md)
+📖 46 more in [detail page →](domains/devops.md) · Full evidence in [TOOLS.md](TOOLS.md)
 
 ### 📱 Mobile
 
@@ -137,7 +146,7 @@ Human-reviewed picks with a concrete reason to look now.
 | [**RunAnywhere**](https://github.com/runanywhereai/runanywhere-sdks) | RunAnywhere is a production-ready SDK for running AI models (LLMs, speech-to-text, text-to-speech) on-device for... | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning · AI Candidate |
 | [**ZXing**](https://github.com/zxing/zxing) | An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other... | Found in 1 active source: akullpp/awesome-java · AI Candidate |
 
-📖 1 more in [detail page →](domains/mobile.md)
+📖 1 more in [detail page →](domains/mobile.md) · Full evidence in [TOOLS.md](TOOLS.md)
 
 ### 💾 Data & Databases
 
@@ -147,7 +156,7 @@ Human-reviewed picks with a concrete reason to look now.
 | [**matplotlib**](https://github.com/matplotlib/matplotlib) | A Python 2D plotting library which produces publication-quality figures in a variety of hardcopy formats and... | Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python · AI Candidate |
 | [**Streamlit**](https://github.com/streamlit/streamlit) | Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts. It... | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python · AI Candidate |
 
-📖 70 more in [detail page →](domains/data.md)
+📖 70 more in [detail page →](domains/data.md) · Full evidence in [TOOLS.md](TOOLS.md)
 
 ### 🔐 Security & Crypto
 
@@ -157,7 +166,7 @@ Human-reviewed picks with a concrete reason to look now.
 | [**Agentic Radar**](https://github.com/splx-ai/agentic-radar) | Open-source CLI security scanner for agentic workflows. Scans your workflow’s , detects vulnerabilities, and... | Found in 1 active source: josephmisiti/awesome-machine-learning · AI Candidate |
 | [**Apache Shiro**](https://shiro.apache.org) | Performs authentication, authorization, cryptography and session management. | Found in 1 active source: akullpp/awesome-java · AI Candidate |
 
-📖 55 more in [detail page →](domains/security.md)
+📖 55 more in [detail page →](domains/security.md) · Full evidence in [TOOLS.md](TOOLS.md)
 
 ### ⚡ Performance
 
@@ -167,7 +176,7 @@ Human-reviewed picks with a concrete reason to look now.
 | [**CodeFlash.AI**](https://codeflash.ai) | CodeFlash.AI – Ship Blazing-Fast Python Code, Every Time. | Found in 1 active source: josephmisiti/awesome-machine-learning · AI Candidate |
 | [**Cython**](https://github.com/cython/cython) | Cython is an optimising static compiler for both the Python programming language and the extended Cython programming... | Found in 1 active source: vinta/awesome-python · AI Candidate |
 
-📖 6 more in [detail page →](domains/performance.md)
+📖 6 more in [detail page →](domains/performance.md) · Full evidence in [TOOLS.md](TOOLS.md)
 
 ### 🧰 Dev Tooling
 
@@ -177,7 +186,7 @@ Human-reviewed picks with a concrete reason to look now.
 | [**Pytorch**](https://github.com/pytorch/pytorch) | PyTorch is an open source machine learning library based on the Torch library, used for applications such as... | Found in 4 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning +1 more · Popular Standard |
 | [**Bokeh**](https://github.com/bokeh/bokeh) | Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation... | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python · AI Candidate |
 
-📖 131 more in [detail page →](domains/tooling.md)
+📖 131 more in [detail page →](domains/tooling.md) · Full evidence in [TOOLS.md](TOOLS.md)
 
 ### 🎨 Other
 
@@ -187,7 +196,7 @@ Human-reviewed picks with a concrete reason to look now.
 | [**beets**](https://github.com/beetbox/beets) | A music library manager and MusicBrainz tagger. | Found in 2 active sources: agarrharr/awesome-cli-apps, vinta/awesome-python · AI Candidate |
 | [**croc**](https://github.com/schollz/croc) | Easily and securely send files or folders from one computer to another. | Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go · AI Candidate |
 
-📖 22 more in [detail page →](domains/other.md)
+📖 22 more in [detail page →](domains/other.md) · Full evidence in [TOOLS.md](TOOLS.md)
 
 ---
 

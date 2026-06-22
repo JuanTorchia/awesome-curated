@@ -4,6 +4,8 @@
 
 **0 Human-reviewed · 0 Popular standards · 2 AI candidates · 1 Needs review**
 
+Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
+
 ---
 
 
@@ -21,9 +23,9 @@ Automated candidates with enough source signal; these are not human endorsements
 
 RunAnywhere is a production-ready SDK for running AI models (LLMs, speech-to-text, text-to-speech) on-device for iOS, Android, React Native, and Flutter enabling private, offline, and fast mobile AI applications.
 
-**Why this is here:** Cubre múltiples modalidades (LLM, speech, TTS)
+**Why this is here:** SDK multi-plataforma para correr modelos IA on-device (LLM, speech, TTS) en iOS/Android/React Native. Privacidad y offline garantizados. Resuelve...
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#runanywhere-runanywhereai-runanywhere-sdks-tta3) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -35,9 +37,9 @@ RunAnywhere is a production-ready SDK for running AI models (LLMs, speech-to-tex
 
 An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages. [Apache]
 
-**Why this is here:** Soporte amplio de formatos (QR, EAN, Code128, etc)
+**Why this is here:** An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages. [Apache]
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#zxing-zxing-zxing) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -56,9 +58,9 @@ Entries with weak or inconsistent trace evidence. They stay visible for auditabi
 
 NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.
 
-**Why this is here:** Integración real con ecosistemas web modernos
+**Why this is here:** Comunidad activa y ejemplos abundantes
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#nativescript-nativescript-nativescript-8toc) · [data/latest.json](../data/latest.json)
 
 ---
 

@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Read the methodology
+    url: https://github.com/JuanTorchia/awesome-curated/blob/main/METHODOLOGY.md
+    about: Check how tools are selected before opening an issue.

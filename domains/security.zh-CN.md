@@ -4,6 +4,8 @@
 
 **1 Human-reviewed · 0 Popular standards · 46 AI candidates · 11 Needs review**
 
+Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
+
 ---
 
 ## Human-reviewed picks
@@ -20,7 +22,7 @@ High level crypto library for storing data (AES), secure messaging (ECC + ECDSA 
 
 **Why this is here:** Gives teams a higher-level API over cryptographic primitives without starting from raw building blocks.
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#themis-cossacklabs-themis) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -39,9 +41,9 @@ Automated candidates with enough source signal; these are not human endorsements
 
 Open-source CLI security scanner for agentic workflows. Scans your workflow’s , detects vulnerabilities, and generates an interactive visualization along with a detailed security report. Supports LangGraph, CrewAI,...
 
-**Why this is here:** Soporte multi-framework, case de uso urgente (seguridad agentic)
+**Why this is here:** Output visualizable e insights accionables
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#agentic-radar-splx-ai-agentic-radar-jbuh) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -55,7 +57,7 @@ Performs authentication, authorization, cryptography and session management.
 
 **Why this is here:** Feature-complete, soporta realm-based auth
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#apache-shiro-shiro) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -67,9 +69,9 @@ Found in 1 active source: akullpp/awesome-java
 
 All-purpose cryptographic library and JCA provider offering a wide range of functions, from basic helpers to PGP/SMIME operations.
 
-**Why this is here:** Cobertura criptográfica exhaustiva y bien auditada
+**Why this is here:** All-purpose cryptographic library and JCA provider offering a wide range of functions, from basic helpers to PGP/SMIME operations.
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#bouncy-castle-bouncycastle) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -83,7 +85,7 @@ Web browser with an emphasis on privacy and speed. (https://github.com/brave/bra
 
 **Why this is here:** Built-in ad/tracker blocking
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#brave-brave) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -95,9 +97,9 @@ Web browser with an emphasis on privacy and speed. (https://github.com/brave/bra
 
 Safe, fast, small crypto using Rust and BoringSSL's cryptography primitives.
 
-**Why this is here:** Safety guarantees de Rust + auditoría BoringSSL
+**Why this is here:** Performance sin sacrificar seguridad
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#briansmith-ring-briansmith-ring) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -109,9 +111,9 @@ Found in 2 active sources: akullpp/awesome-java, jaywcjlove/awesome-mac
 
 Multi-platform transparent client-side encryption of your files in the cloud.
 
-**Why this is here:** Integración transparente con cloud providers
+**Why this is here:** Multi-platform transparent client-side encryption of your files in the cloud.
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#cryptomator-cryptomator) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -125,7 +127,7 @@ Crypto related functions and helpers for Swift implemented in Swift programming 
 
 **Why this is here:** Pure Swift, portable entre plataformas
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#cryptoswift-krzyzanowskim-cryptoswift) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -137,9 +139,9 @@ Found in 1 active source: jivoi/awesome-osint
 
 is a that will help you discover hosts related to a specific domain.
 
-**Why this is here:** Rápido para queries ocasionales
+**Why this is here:** is a that will help you discover hosts related to a specific domain.
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#dnsdumpster-dnsdumpster) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -153,7 +155,7 @@ Create, share communicate. Chat and call securely.
 
 **Why this is here:** Protocolo abierto federated, no lock-in
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#element-element) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -165,9 +167,9 @@ Found in 1 active source: jivoi/awesome-osint
 
 The GHDB is an index of search queries (we call them dorks) used to find publicly available information, intended for pentesters and security researchers.
 
-**Why this is here:** Cobertura exhaustiva de técnicas google search
+**Why this is here:** Gratuito y mantenido activamente
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#google-hacking-database-ghdb-exploit-db) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -179,9 +181,9 @@ The GHDB is an index of search queries (we call them dorks) used to find publicl
 
 Collection of cryptographic hash functions written in pure Rust.
 
-**Why this is here:** Auditoría de seguridad profesional (RustCrypto)
+**Why this is here:** Collection of cryptographic hash functions written in pure Rust.
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#hashes-rustcrypto-hashes) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -193,9 +195,9 @@ Found in 1 active source: jivoi/awesome-osint
 
 Data broker providing a Web search interface for discovering the email addresses and other organizational details of a company.
 
-**Why this is here:** Precisión alta en email validation
+**Why this is here:** API y bulk processing disponibles
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#hunter-io-hunter) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -209,7 +211,7 @@ The Invisible Internet Project.
 
 **Why this is here:** Arquitectura totalmente descentralizada sin directory servers
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#i2p-geti2p) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -221,9 +223,9 @@ Found in 1 active source: jaywcjlove/awesome-mac
 
 Secure groups, files, and chat for everyone! (https://github.com/keybase)
 
-**Why this is here:** Integración con verificación de identidad criptográfica
+**Why this is here:** Secure groups, files, and chat for everyone! (https://github.com/keybase)
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#keybase-keybase-on7s) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -235,9 +237,9 @@ Found in 1 active source: akullpp/awesome-java
 
 Open Source Identity and Access Management. Apache-2.0 Java
 
-**Why this is here:** Soporte multi-protocolo robusto (OIDC, SAML, LDAP)
+**Why this is here:** Cluster-ready y escalable horizontalmente
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#keycloak-keycloak) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -251,7 +253,7 @@ A scriptable network authentication cracker
 
 **Why this is here:** Escritura en Rust garantiza seguridad de memoria
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#kpcyrd-authoscope-kpcyrd-authoscope) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -265,7 +267,7 @@ A secure multithreaded packet sniffer
 
 **Why this is here:** Seguridad de memoria garantizada por Rust
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#kpcyrd-sniffglue-kpcyrd-sniffglue) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -277,9 +279,9 @@ Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac
 
 A fork of Firefox, focused on privacy, security and freedom. (https://gitlab.com/librewolf-community)
 
-**Why this is here:** Telemetría completamente removida
+**Why this is here:** A fork of Firefox, focused on privacy, security and freedom. (https://gitlab.com/librewolf-community)
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#librewolf-librewolf) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -293,7 +295,7 @@ Auditing tool for UNIX-based systems.
 
 **Why this is here:** Amplio coverage de checks de seguridad
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#lynis-cisofy) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -305,375 +307,13 @@ Found in 1 active source: jivoi/awesome-osint
 
 Maltego is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
 
-**Why this is here:** Visualización excepcional de conexiones entre entidades
+**Why this is here:** Maltego is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
 
-**Evidence record:** [data/latest.json](../data/latest.json)
-
----
-
-### [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub)
-
-![](https://img.shields.io/github/stars/mariocandela/beelzebub?style=flat-square&label=⭐) · Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-☁️ Beelzebub is a honeypot framework that lets you build honeypot tools using MCP. Its purpose is to detect prompt injection or malicious agent behavior. The underlying idea is to provide the agent with tools it...
-
-**Why this is here:** Enfoque novel: usar herramientas carnada como signal de compromiso en agentes
-
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#maltego-maltego) · [data/latest.json](../data/latest.json)
 
 ---
 
-### [mavdol/capsule/mcp-server](https://github.com/mavdol/capsule)
-
-![](https://img.shields.io/github/stars/mavdol/capsule?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, punkpeye/awesome-mcp-servers
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-🦀 🏠 🍎 🪟 🐧 Run untrusted Python/JavaScript code in WebAssembly sandboxes.
-
-**Why this is here:** Isolación real via WASM, sin escape path obvio
-
-**Evidence record:** [data/latest.json](../data/latest.json)
-
----
-
-### [orion-rs/orion](https://github.com/orion-rs/orion)
-
-![](https://img.shields.io/github/stars/orion-rs/orion?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-This library aims to provide easy and usable crypto. 'Usable' meaning exposing high-level API's that are easy to use and hard to misuse.
-
-**Why this is here:** API deliberadamente difícil de misusar, errores en compile-time
-
-**Evidence record:** [data/latest.json](../data/latest.json)
-
----
-
-### [paaster](https://paaster.io)
-
-Found in 1 active source: jivoi/awesome-osint
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Paaster is a secure and user-friendly pastebin application that prioritizes privacy and simplicity. With end-to-end encryption and paste history, Paaster ensures that your pasted code remains confidential and accessible.
-
-**Why this is here:** Pastebin con cifrado end-to-end y historial. Resuelve problema real (privacidad en compartir snippets). Alternativa directa a servicios...
-
-**Evidence record:** [data/latest.json](../data/latest.json)
-
----
-
-### [Promptfoo](https://github.com/promptfoo/promptfoo)
-
-![](https://img.shields.io/github/stars/promptfoo/promptfoo?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-LLM red teaming and evaluation framework for testing jailbreaks, prompt injection, and other vulnerabilities with CI/CD integration.
-
-**Why this is here:** Cubre vectores de ataque específicos de LLMs
-
-**Evidence record:** [data/latest.json](../data/latest.json)
-
----
-
-### [pynacl](https://github.com/pyca/pynacl)
-
-![](https://img.shields.io/github/stars/pyca/pynacl?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Python binding to the Networking and Cryptography (NaCl) library.
-
-**Why this is here:** API clara y segura por defecto, difícil hacerla mal
-
-**Evidence record:** [data/latest.json](../data/latest.json)
-
----
-
-### [rage](https://github.com/str4d/rage)
-
-![](https://img.shields.io/github/stars/str4d/rage?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-is a simple, modern, and secure file encryption tool, using the age format.
-
-**Why this is here:** Interfaz minimalista, sin opciones inseguras
-
-**Evidence record:** [data/latest.json](../data/latest.json)
-
----
-
-### [Redlib](https://github.com/redlib-org/redlib)
-
-![](https://img.shields.io/github/stars/redlib-org/redlib?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-An alternative private front-end to Reddit, with its origins in Libreddit
-
-**Why this is here:** Zero JavaScript, performance
-
-**Evidence record:** [data/latest.json](../data/latest.json)
-
----
-
-### [rshijack](https://github.com/kpcyrd/rshijack)
-
-![](https://img.shields.io/github/stars/kpcyrd/rshijack?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-TCP connection hijacker, Rust rewrite of shijack.
-
-**Why this is here:** Implementación limpia en Rust de técnica clásica
-
-**Evidence record:** [data/latest.json](../data/latest.json)
-
----
-
-### [safedep/vet](https://github.com/safedep/vet)
-
-![](https://img.shields.io/github/stars/safedep/vet?style=flat-square&label=⭐) · Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-🎖️ 🏎️ ☁️ 🍎 🪟 🐧 vet-mcp checks open source packages—like those suggested by AI coding tools—for vulnerabilities and malicious code. It supports npm and PyPI, and runs locally via Docker or as a standalone binary...
-
-**Why this is here:** Local execution sin cloud dependency
-
-**Evidence record:** [data/latest.json](../data/latest.json)
-
----
-
-### [SecLists](https://github.com/danielmiessler/seclists)
-
-![](https://img.shields.io/github/stars/danielmiessler/seclists?style=flat-square&label=⭐) · Found in 1 active source: jivoi/awesome-osint
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Collection of multiple types of lists used during security assessments.
-
-**Why this is here:** Cobertura exhaustiva: fuzzing, credenciales, patrones
-
-**Evidence record:** [data/latest.json](../data/latest.json)
-
----
-
-### [sherlock](https://github.com/sherlock-project/sherlock)
-
-![](https://img.shields.io/github/stars/sherlock-project/sherlock?style=flat-square&label=⭐) · Found in 2 active sources: jivoi/awesome-osint, vinta/awesome-python
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Hunt down social media accounts by username across social networks.
-
-**Why this is here:** Setup trivial, útil para auditorías rápidas de availability de usernames
-
-**Evidence record:** [data/latest.json](../data/latest.json)
-
----
-
-### [Shodan](https://shodan.io)
-
-Found in 1 active source: jivoi/awesome-osint
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Shodan is a search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using various searching filters.
-
-**Why this is here:** Base de datos masiva de dispositivos indexados
-
-**Evidence record:** [data/latest.json](../data/latest.json)
-
----
-
-### [SpiderFoot](https://spiderfoot.net)
-
-Found in 1 active source: jivoi/awesome-osint
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-SpiderFoot is an open source intelligence (OSINT) automation platform with over 200 modules for threat intelligence, attack surface monitoring, security assessments and asset discovery.
-
-**Why this is here:** Automatización masiva reduce manual work 70%+
-
-**Evidence record:** [data/latest.json](../data/latest.json)
-
----
-
-### [SQLMap](https://github.com/sqlmapproject/sqlmap)
-
-![](https://img.shields.io/github/stars/sqlmapproject/sqlmap?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-An automatic SQL injection and database takeover tool.
-
-**Why this is here:** Automatización extremadamente efectiva, soporta casi todos los tipos de BD
-
-**Evidence record:** [data/latest.json](../data/latest.json)
-
----
-
-### [ssh-vault](https://github.com/ssh-vault/ssh-vault)
-
-![](https://img.shields.io/github/stars/ssh-vault/ssh-vault?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, avelino/awesome-go
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-A simple tool to manage secrets using ssh keys for encryption and decryption.
-
-**Why this is here:** Cero dependencias externas, aprovecha claves SSH existentes
-
-**Evidence record:** [data/latest.json](../data/latest.json)
-
----
-
-### [Swift-Sodium](https://github.com/jedisct1/swift-sodium)
-
-![](https://img.shields.io/github/stars/jedisct1/swift-sodium?style=flat-square&label=⭐) · Found in 1 active source: matteocrippa/awesome-swift
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Swift interface to the Sodium library for common crypto operations for iOS and macOS.
-
-**Why this is here:** Acceso a libsodium battle-tested; AEAD + key derivation
-
-**Evidence record:** [data/latest.json](../data/latest.json)
-
----
-
-### [Syft](https://github.com/anchore/syft)
-
-![](https://img.shields.io/github/stars/anchore/syft?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-CLI tool and library for generating a Software Bill of Materials (SBOM) from container images and filesystems. By Anchore.
-
-**Why this is here:** Herramienta en ecosistema maduro (supply-chain security), requisito creciente en enterprise
-
-**Evidence record:** [data/latest.json](../data/latest.json)
-
----
-
-### [Tails](https://tails.boum.org)
-
-Found in 1 active source: jivoi/awesome-osint
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Live operating system aiming to preserve your privacy and anonymity.
-
-**Why this is here:** Integración transparente de Tor en toda la stack
-
-**Evidence record:** [data/latest.json](../data/latest.json)
-
----
-
-### [The Harvester](https://github.com/laramies/theharvester)
-
-![](https://img.shields.io/github/stars/laramies/theharvester?style=flat-square&label=⭐) · Found in 1 active source: jivoi/awesome-osint
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.
-
-**Why this is here:** Agregador maduro de múltiples fuentes públicas
-
-**Evidence record:** [data/latest.json](../data/latest.json)
-
----
-
-### [Tink](https://github.com/google/tink)
-
-![](https://img.shields.io/github/stars/google/tink?style=flat-square&label=⭐) · Found in 1 active source: akullpp/awesome-java
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-A multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse. [Apache-2.0]
-
-**Why this is here:** APIs imposibles de misuser por diseño
-
-**Evidence record:** [data/latest.json](../data/latest.json)
-
----
-
-### [Tor](https://torproject.org)
-
-Found in 1 active source: jivoi/awesome-osint
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Free software and onion routed overlay network that helps you defend against traffic analysis.
-
-**Why this is here:** Red más grande y auditada en privacidad
-
-**Evidence record:** [data/latest.json](../data/latest.json)
-
----
-
-### [vaultwarden](https://github.com/dani-garcia/vaultwarden)
-
-![](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Alternative implementation of the Bitwarden server API written in Rust
-
-**Why this is here:** Consumo RAM/CPU mínimo comparado a versión oficial
-
-**Evidence record:** [data/latest.json](../data/latest.json)
-
----
-
-### [Virus Total](https://virustotal.com)
-
-Found in 1 active source: jivoi/awesome-osint
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Free service that analyzes suspicious files and URLs and facilitates the quick detection of viruses, worms, trojans, and all kinds of malware.
-
-**Why this is here:** Base de datos masiva de firmas de 90+ motores
-
-**Evidence record:** [data/latest.json](../data/latest.json)
-
----
-
-### [webpki](https://github.com/briansmith/webpki)
-
-![](https://img.shields.io/github/stars/briansmith/webpki?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Web PKI TLS X.509 certificate validation in Rust.
-
-**Why this is here:** Validación correcta de certificados sin C deps
-
-**Evidence record:** [data/latest.json](../data/latest.json)
-
----
-
-### [WiGLE](https://wigle.net)
-
-Found in 1 active source: jivoi/awesome-osint
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Wi-fi "wardriving" database. Contains a global map containing crowdsourced information on the location, name, and other properties of wi-fi networks. Software available to download to contribute data to the public...
-
-**Why this is here:** Cobertura global con aporte comunitario
-
-**Evidence record:** [data/latest.json](../data/latest.json)
-
----
+_Showing 20 of 46. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---
@@ -692,7 +332,7 @@ Cryptography library written in C++20.
 
 **Why this is here:** C++20 native, code moderno
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#botan-botan-kyae) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -704,9 +344,9 @@ Cryptography library written in C++20.
 
 A free C++ class library of cryptographic schemes. [Boost]
 
-**Why this is here:** Amplia cobertura de esquemas criptográficos
+**Why this is here:** A free C++ class library of cryptographic schemes. [Boost]
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#crypto-weidai11-cryptopp-ux0k) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -720,7 +360,7 @@ Secure remote access gateway that supports the WireGuard protocol. It offers a W
 
 **Why this is here:** 1-line install, setup trivial vs OpenVPN, GUI intuitiva
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#firezone-firezone) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -732,9 +372,9 @@ Found in 2 active sources
 
 Complete and free implementation of the OpenPGP standard. It allows to encrypt and sign your data and communication, features a versatile key management system. GnuPG is a command line tool with features for easy...
 
-**Why this is here:** Estándar industria de 25+ años
+**Why this is here:** Zero-dependency, CLI portable y ubiquo
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#gpg-gnupg-ph96) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -748,7 +388,7 @@ P(ortable ackageable) NaCl-based crypto library, opinionated and easy to use. [I
 
 **Why this is here:** API opinionada reduce errores de uso
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#libsodium-jedisct1-libsodium-uwf5) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -762,7 +402,7 @@ End-to-end encryption and mutual authentication for distributed applications.
 
 **Why this is here:** Abstracciones portables para transporte (TCP, UDP, Bluetooth)
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#ockam-ockam-network-ockam) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -774,9 +414,9 @@ End-to-end encryption and mutual authentication for distributed applications.
 
 A robust, commercial-grade, full-featured, and Open Source cryptography library. [Apache]
 
-**Why this is here:** Estándar de facto en todas partes (sistemas, apps, servicios)
+**Why this is here:** A robust, commercial-grade, full-featured, and Open Source cryptography library. [Apache]
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#openssl-openssl-openssl-8zuw) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -788,9 +428,9 @@ A robust, commercial-grade, full-featured, and Open Source cryptography library.
 
 An implementation of the TLS/SSL protocols. [Apache]
 
-**Why this is here:** Auditorías de seguridad regulares y mantenimiento activo
+**Why this is here:** An implementation of the TLS/SSL protocols. [Apache]
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#s2n-awslabs-s2n-3upv) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -804,7 +444,7 @@ Open source pentesting framework designed for social engineering featuring a num
 
 **Why this is here:** Ataques preseteados realistas y probados
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#social-engineer-toolkit-set-trustedsec-social-engineer-toolkit) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -818,23 +458,11 @@ by Trail of Bits A very professional collection of over a dozen security-focused
 
 **Why this is here:** Creado por referentes en security (Trail of Bits)
 
-**Evidence record:** [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#trail-of-bits-security-skills-trailofbits-skills) · [data/latest.json](../data/latest.json)
 
 ---
 
-### [x64dbg](https://x64dbg.com)
-
-Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-An open-source x64/x32 debugger for windows.
-
-**Why this is here:** UI moderna vs OllyDbg antiguo
-
-**Evidence record:** [data/latest.json](../data/latest.json)
-
----
+_Showing 10 of 11. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

@@ -1,0 +1,31 @@
+name: Challenge a classification
+description: Report a wrong domain, review label, duplicate, or non-tool entry.
+title: "Classification challenge: <tool>"
+labels: [classification]
+body:
+  - type: input
+    id: tool-url
+    attributes:
+      label: Tool URL or TOOLS.md anchor
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: What looks wrong?
+      options:
+        - Wrong domain
+        - Wrong review label
+        - Duplicate entry
+        - Not a developer tool
+        - Weak or stale evidence
+    validations:
+      required: true
+  - type: textarea
+    id: reasoning
+    attributes:
+      label: Reasoning
+      description: Include links or examples that support the correction.
+    validations:
+      required: true
