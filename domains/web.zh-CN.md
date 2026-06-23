@@ -2,9 +2,195 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**0 Human-reviewed · 0 Popular standards · 17 AI candidates · 31 Needs review**
+**13 Human-reviewed · 0 Popular standards · 17 AI candidates · 0 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
+
+---
+
+## Human-reviewed picks
+
+Tools with a human review label and visible caveats.
+
+### 👤 [swiper](https://github.com/nolimits4web/swiper)
+
+![](https://img.shields.io/github/stars/nolimits4web/swiper?style=flat-square&label=⭐) · Found in 4 active sources
+
+**Review label:** Human Pick · **Caveat:** Worth a focused trial before adopting broadly.
+
+docs The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
+
+**Why this is here:** docs The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#swiper-nolimits4web-swiper) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [query](https://github.com/tanstack/query)
+
+![](https://img.shields.io/github/stars/tanstack/query?style=flat-square&label=⭐) · Found in 3 active sources
+
+**Review label:** Human Pick · **Caveat:** Worth a focused trial before adopting broadly.
+
+Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
+
+**Why this is here:** Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#query-tanstack-query) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [GoAccess](https://goaccess.io)
+
+Found in 2 active sources
+
+**Review label:** Human Pick · **Caveat:** Promising signal, but source consensus is still narrow.
+
+Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. MIT C
+
+**Why this is here:** Blazing-fast C implementation; zero dependencies
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#goaccess-goaccess) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)
+
+![](https://img.shields.io/github/stars/hasura/graphql-engine?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Human Pick · **Caveat:** Promising signal, but source consensus is still narrow.
+
+Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+
+**Why this is here:** Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#hasura-graphql-engine-hasura-graphql-engine) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [Bit](https://github.com/teambit/bit)
+
+![](https://img.shields.io/github/stars/teambit/bit?style=flat-square&label=⭐) · Found in 4 active sources
+
+**Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
+
+Manage and reuse vue components between projects. Easily isolate and share components from any project without changing its , organize curated collections and install in different projects.
+
+**Why this is here:** Manage and reuse vue components between projects. Easily isolate and share components from any project without changing its , organize curated...
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#bit-teambit-bit) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [tsParticles](https://github.com/matteobruni/tsparticles)
+
+![](https://img.shields.io/github/stars/matteobruni/tsparticles?style=flat-square&label=⭐) · Found in 4 active sources
+
+**Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
+
+A lightweight Javascript library to easily create highly configurable and interactive particle animations
+
+**Why this is here:** A lightweight Javascript library to easily create highly configurable and interactive particle animations
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#tsparticles-matteobruni-tsparticles) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [Ghost](https://github.com/tryghost/ghost)
+
+![](https://img.shields.io/github/stars/tryghost/ghost?style=flat-square&label=⭐) · Found in 3 active sources
+
+**Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
+
+Just a blogging platform
+
+**Why this is here:** Editor intuitivo con preview real-time
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#ghost-tryghost-ghost) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [schedule-x](https://github.com/schedule-x/schedule-x)
+
+![](https://img.shields.io/github/stars/schedule-x/schedule-x?style=flat-square&label=⭐) · Found in 3 active sources
+
+**Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
+
+Material design event calendar and date picker components. Demo site: https://schedule-x.dev/
+
+**Why this is here:** UI de calidad material design que ahorra semanas de trabajo visual en scheduling apps
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#schedule-x-schedule-x-schedule-x) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [Vest](https://github.com/ealush/vest)
+
+![](https://img.shields.io/github/stars/ealush/vest?style=flat-square&label=⭐) · Found in 3 active sources
+
+**Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
+
+Validations framework inspired by unit testing frameworks.
+
+**Why this is here:** Sintaxis intuitiva para validaciones complejas
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#vest-ealush-vest) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [webdriver.io](https://github.com/webdriverio/webdriverio)
+
+![](https://img.shields.io/github/stars/webdriverio/webdriverio?style=flat-square&label=⭐) · Found in 3 active sources
+
+**Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
+
+Next-gen browser and mobile automation test framework for Node.js
+
+**Why this is here:** Next-gen browser and mobile automation test framework for Node.js
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#webdriver-io-webdriverio-webdriverio) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [Formily](https://github.com/alibaba/formily)
+
+![](https://img.shields.io/github/stars/alibaba/formily?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
+
+High performance, extensible, and Typescript friendly
+
+**Why this is here:** High performance, extensible, and Typescript friendly
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#formily-alibaba-formily) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [grommet](https://github.com/grommet/grommet)
+
+![](https://img.shields.io/github/stars/grommet/grommet?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
+
+a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
+
+**Why this is here:** Accesibilidad integrada (WCAG compliance)
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#grommet-grommet-grommet) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [virtua](https://github.com/inokawa/virtua)
+
+![](https://img.shields.io/github/stars/inokawa/virtua?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
+
+A zero-config, fast and small (~3kB) virtual list component for React, Vue and Solid.
+
+**Why this is here:** Bundle diminuto (~3kB) que no penaliza proyectos donde el performance importa
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#virtua-inokawa-virtua) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -25,7 +211,7 @@ is a powerful data visualization javascript library.
 
 **Why this is here:** is a powerful data visualization javascript library.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#d3js-d3js-uj5s) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#d3js-d3js) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -221,7 +407,7 @@ A high-performance, lightweight, and cross-platform QUIC library
 
 **Why this is here:** Performance benchmarks competitivos vs quinn
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#tencent-tquic-tencent-tquic-ab3i) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#tencent-tquic-tencent-tquic) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -252,155 +438,6 @@ Open, sub-millisecond, single-executable FireBase alternative with type-safe RES
 **Evidence record:** [TOOLS.md](../TOOLS.md#txn2-kubefwd-txn2-kubefwd) · [data/latest.json](../data/latest.json)
 
 ---
-
-
----
-
-## Needs review
-
-Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
-
-### [Jest](https://github.com/facebook/jest)
-
-![](https://img.shields.io/github/stars/facebook/jest?style=flat-square&label=⭐) · Found in 5 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-A complete and easy to set up JavaScript testing solution.
-
-**Why this is here:** Watch mode inteligente que solo re-ejecuta tests afectados por cambios, acelerando el ciclo de desarrollo
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#jest-facebook-jest) · [data/latest.json](../data/latest.json)
-
----
-
-### [Next.js](https://github.com/vercel/next.js)
-
-![](https://img.shields.io/github/stars/vercel/next.js?style=flat-square&label=⭐) · Found in 5 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-A minimalistic framework for universal server-rendered React applications
-
-**Why this is here:** A minimalistic framework for universal server-rendered React applications
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#next-js-vercel-next-js) · [data/latest.json](../data/latest.json)
-
----
-
-### [Bit](https://github.com/teambit/bit)
-
-![](https://img.shields.io/github/stars/teambit/bit?style=flat-square&label=⭐) · Found in 4 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Manage and reuse vue components between projects. Easily isolate and share components from any project without changing its , organize curated collections and install in different projects.
-
-**Why this is here:** Manage and reuse vue components between projects. Easily isolate and share components from any project without changing its , organize curated...
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#bit-teambit-bit) · [data/latest.json](../data/latest.json)
-
----
-
-### [Gatsby.js](https://github.com/gatsbyjs/gatsby)
-
-![](https://img.shields.io/github/stars/gatsbyjs/gatsby?style=flat-square&label=⭐) · Found in 4 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Build blazing fast, modern apps and websites with React.
-
-**Why this is here:** Plugins ecosystem robusto para extensibilidad
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#gatsby-js-gatsbyjs-gatsby) · [data/latest.json](../data/latest.json)
-
----
-
-### [swiper](https://github.com/nolimits4web/swiper)
-
-![](https://img.shields.io/github/stars/nolimits4web/swiper?style=flat-square&label=⭐) · Found in 4 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-docs The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
-
-**Why this is here:** docs The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#swiper-nolimits4web-swiper) · [data/latest.json](../data/latest.json)
-
----
-
-### [tsParticles](https://github.com/matteobruni/tsparticles)
-
-![](https://img.shields.io/github/stars/matteobruni/tsparticles?style=flat-square&label=⭐) · Found in 4 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-A lightweight Javascript library to easily create highly configurable and interactive particle animations
-
-**Why this is here:** A lightweight Javascript library to easily create highly configurable and interactive particle animations
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#tsparticles-matteobruni-tsparticles) · [data/latest.json](../data/latest.json)
-
----
-
-### [Visual Studio Code](https://github.com/microsoft/vscode)
-
-![](https://img.shields.io/github/stars/microsoft/vscode?style=flat-square&label=⭐) · Found in 4 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-New type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. Code provides comprehensive editing and debugging support, an extensibility model, and...
-
-**Why this is here:** New type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. Code provides...
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#visual-studio-code-microsoft-vscode) · [data/latest.json](../data/latest.json)
-
----
-
-### [Vite](https://github.com/vitejs/vite)
-
-![](https://img.shields.io/github/stars/vitejs/vite?style=flat-square&label=⭐) · Found in 4 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Next generation frontend tooling. It's fast! Alternative to Create React App
-
-**Why this is here:** Next generation frontend tooling. It's fast! Alternative to Create React App
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#vite-vitejs-vite) · [data/latest.json](../data/latest.json)
-
----
-
-### [Babel](https://github.com/babel/babel)
-
-![](https://img.shields.io/github/stars/babel/babel?style=flat-square&label=⭐) · Found in 3 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-A compiler for writing next generation JavaScript.
-
-**Why this is here:** Plugin system extremadamente flexible
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#babel-babel-babel) · [data/latest.json](../data/latest.json)
-
----
-
-### [ESLint](https://github.com/eslint/eslint)
-
-![](https://img.shields.io/github/stars/eslint/eslint?style=flat-square&label=⭐) · Found in 3 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-A fully pluggable tool for identifying and reporting on patterns in JavaScript.
-
-**Why this is here:** A fully pluggable tool for identifying and reporting on patterns in JavaScript.
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#eslint-eslint-eslint) · [data/latest.json](../data/latest.json)
-
----
-
-_Showing 10 of 31. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

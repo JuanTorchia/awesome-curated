@@ -2,9 +2,55 @@
 
 <p><sub>← [Back to main](../README.md)</sub></p>
 
-**0 Human-reviewed · 0 Popular standards · 69 AI candidates · 4 Needs review**
+**3 Human-reviewed · 0 Popular standards · 65 AI candidates · 0 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
+
+---
+
+## Human-reviewed picks
+
+Tools with a human review label and visible caveats.
+
+### 👤 [recharts](https://github.com/recharts/recharts)
+
+![](https://img.shields.io/github/stars/recharts/recharts?style=flat-square&label=⭐) · Found in 3 active sources
+
+**Review label:** Human Pick · **Caveat:** Worth a focused trial before adopting broadly.
+
+Redefined chart library built with React and D3.
+
+**Why this is here:** Redefined chart library built with React and D3.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#recharts-recharts-recharts) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [OpenStreetMap](https://openstreetmap.org)
+
+Found in 2 active sources
+
+**Review label:** Human Pick · **Caveat:** Promising signal, but source consensus is still narrow.
+
+Collaborative project to create a free editable map of the world. (, Clients) GPL-2.0 Ruby
+
+**Why this is here:** Collaborative project to create a free editable map of the world. (, Clients) GPL-2.0 Ruby
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#openstreetmap-openstreetmap) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [pouchdb](https://github.com/pouchdb/pouchdb)
+
+![](https://img.shields.io/github/stars/pouchdb/pouchdb?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
+
+Javascript db inspired by Apache CouchDB to run well within the browser.
+
+**Why this is here:** Javascript db inspired by Apache CouchDB to run well within the browser.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#pouchdb-pouchdb-pouchdb) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -68,20 +114,6 @@ Java message broker. Apache-2.0 Java
 **Why this is here:** Clustering y persistencia robusto
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#activemq-activemq) · [data/latest.json](../data/latest.json)
-
----
-
-### [AI Job Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker)
-
-![](https://img.shields.io/github/stars/noahaust2/ai-displacement-tracker?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Structured, source-backed dataset tracking 96 AI-attributed workforce reductions (457K workers affected, 13 countries, 13 sectors). Every entry includes source URLs, attribution tier, and job functions.
-
-**Why this is here:** Structured, source-backed dataset tracking 96 AI-attributed workforce reductions (457K workers affected, 13 countries, 13 sectors). Every entry...
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#ai-job-displacement-tracker-noahaust2-ai-displacement-tracker) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -193,7 +225,7 @@ A VS Code extension for viewing and exploring large machine learning datasets (C
 
 **Why this is here:** A VS Code extension for viewing and exploring large machine learning datasets (CSV, JSON, Parquet, etc.) directly within the editor without VS...
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#bread-dataset-viewer-bread-technologies-mle-vscode-extension-fn7z) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#bread-dataset-viewer-bread-technologies-mle-vscode-extension) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -207,7 +239,7 @@ customizable library based on D3.js for easy chart drawing.
 
 **Why this is here:** Comunidad activa, muchos ejemplos
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#c3-js-c3js-iq9o) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#c3-js-c3js) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -221,7 +253,7 @@ a javascript library that allows you to create charts easly
 
 **Why this is here:** Rendimiento decente en browsers
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#chart-js-chartjs-lcdz) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#chart-js-chartjs) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -235,7 +267,7 @@ Python library for data-centric AI. Can automatically: find mislabeled data, det
 
 **Why this is here:** Python library for data-centric AI. Can automatically: find mislabeled data, detect outliers, estimate consensus + annotator-quality for...
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#cleanlab-cleanlab-cleanlab-8j0x) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#cleanlab-cleanlab-cleanlab) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -250,6 +282,20 @@ Utilities for converting to and working with CSV.
 **Why this is here:** Utilidades CLI especializadas que evitan escribir scripts Python
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#csvkit-wireservice-csvkit) · [data/latest.json](../data/latest.json)
+
+---
+
+### [CuML](https://github.com/rapidsai/cuml)
+
+![](https://img.shields.io/github/stars/rapidsai/cuml?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+cuML is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects.
+
+**Why this is here:** APIs familiares tipo scikit-learn
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#cuml-rapidsai-cuml) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -295,70 +341,7 @@ Distributed parallel processing framework for Pandas and NumPy computations.
 
 ---
 
-_Showing 20 of 69. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
-
-
----
-
-## Needs review
-
-Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
-
-### [recharts](https://github.com/recharts/recharts)
-
-![](https://img.shields.io/github/stars/recharts/recharts?style=flat-square&label=⭐) · Found in 3 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Redefined chart library built with React and D3.
-
-**Why this is here:** Redefined chart library built with React and D3.
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#recharts-recharts-recharts) · [data/latest.json](../data/latest.json)
-
----
-
-### [OpenStreetMap](https://openstreetmap.org)
-
-Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Collaborative project to create a free editable map of the world. (, Clients) GPL-2.0 Ruby
-
-**Why this is here:** Collaborative project to create a free editable map of the world. (, Clients) GPL-2.0 Ruby
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#openstreetmap-openstreetmap) · [data/latest.json](../data/latest.json)
-
----
-
-### [pouchdb](https://github.com/pouchdb/pouchdb)
-
-![](https://img.shields.io/github/stars/pouchdb/pouchdb?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Javascript db inspired by Apache CouchDB to run well within the browser.
-
-**Why this is here:** Javascript db inspired by Apache CouchDB to run well within the browser.
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#pouchdb-pouchdb-pouchdb) · [data/latest.json](../data/latest.json)
-
----
-
-### [ReactiveSearch](https://github.com/appbaseio/reactivesearch)
-
-![](https://img.shields.io/github/stars/appbaseio/reactivesearch?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-A UI components library for Elasticsearch: Available for React, Vue and React Native.
-
-**Why this is here:** Componentes ready-to-use para filtros y resultados
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#reactivesearch-appbaseio-reactivesearch) · [data/latest.json](../data/latest.json)
-
----
+_Showing 20 of 65. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

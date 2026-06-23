@@ -8,8 +8,8 @@ The input layer tracks upstream `awesome-*` repositories as sources. Sources can
 
 - Active sources in current snapshot: 20
 - Raw items scraped: 33328
-- Curated entries at current threshold: 1479
-- Approximate duplicate/raw noise removed: 31849
+- Curated entries at current threshold: 1182
+- Approximate duplicate/raw noise removed: 32146
 
 ## Discovery and Scoring
 

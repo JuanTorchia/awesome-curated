@@ -2,7 +2,7 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**1 Human-reviewed · 0 Popular standards · 44 AI candidates · 4 Needs review**
+**4 Human-reviewed · 0 Popular standards · 43 AI candidates · 0 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -23,6 +23,48 @@ Track bandwidth utilization by process.
 **Why this is here:** Worth trying: process-level bandwidth visibility from a terminal UI; small, focused, and easy to evaluate.
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#bandwhich-imsnif-bandwhich) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [Deployer](https://github.com/deployphp/deployer)
+
+![](https://img.shields.io/github/stars/deployphp/deployer?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
+
+A deployment tool written in PHP with support for popular frameworks out of the box.
+
+**Why this is here:** Maduro y estable, comunidad PHP lo usa
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#deployer-deployphp-deployer) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [MeshCentral](https://meshcentral.com)
+
+Found in 2 active sources
+
+**Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
+
+Run your own web server to remotely manage and control computers on a local network or anywhere on the internet. Apache-2.0 Nodejs
+
+**Why this is here:** UI web pulida, terminal remota + file manager integrados
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#meshcentral-meshcentral) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [Pomerium](https://pomerium.io)
+
+Found in 2 active sources
+
+**Review label:** Worth Trying · **Caveat:** Security-sensitive tool; evaluate fit and maintenance posture before production use.
+
+Identity-aware reverse proxy, successor to now obsolete oauthproxy. It inserts an OAuth step before proxying your request to the backend, so that you can safely expose your self-hosted websites to public Internet....
+
+**Why this is here:** Identity-aware reverse proxy, successor to now obsolete oauthproxy. It inserts an OAuth step before proxying your request to the backend, so that...
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#pomerium-pomerium) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -155,7 +197,7 @@ A library for doing continuous integration with ML projects. Use GitHub Actions 
 
 **Why this is here:** A library for doing continuous integration with ML projects. Use GitHub Actions & GitLab CI to train and evaluate models in production like...
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#cml-iterative-cml-ktba) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#cml-iterative-cml) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -215,6 +257,20 @@ A tool for exploring each layer in a docker image. By wagoodman.
 
 ---
 
+### [DNSDumpster](https://dnsdumpster.com)
+
+Found in 1 active source: jivoi/awesome-osint
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+is a that will help you discover hosts related to a specific domain.
+
+**Why this is here:** is a that will help you discover hosts related to a specific domain.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#dnsdumpster-dnsdumpster) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [docker-volume-backup](https://github.com/offen/docker-volume-backup)
 
 ![](https://img.shields.io/github/stars/offen/docker-volume-backup?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go
@@ -225,7 +281,7 @@ Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox 
 
 **Why this is here:** Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#docker-volume-backup-offen-docker-volume-backup-3ltd) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#docker-volume-backup-offen-docker-volume-backup) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -285,20 +341,6 @@ Continuous integration server built on Docker and configured using YAML files.
 
 ---
 
-### [glances](https://nicolargo.github.io/glances)
-
-Found in 1 active source: agarrharr/awesome-cli-apps
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Open-source, cross-platform real-time monitoring tool with CLI and web dashboard interfaces and many exporting options. GPL-3.0 Python
-
-**Why this is here:** Exporta a Prometheus, CSV, JSON
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#glances-nicolargo) · [data/latest.json](../data/latest.json)
-
----
-
 ### [HertzBeat](https://github.com/dromara/hertzbeat)
 
 ![](https://img.shields.io/github/stars/dromara/hertzbeat?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, akullpp/awesome-java
@@ -313,70 +355,7 @@ An open-source real-time monitoring system with custom-monitor and agentless.
 
 ---
 
-_Showing 20 of 44. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
-
-
----
-
-## Needs review
-
-Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
-
-### [Deployer](https://github.com/deployphp/deployer)
-
-![](https://img.shields.io/github/stars/deployphp/deployer?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-A deployment tool written in PHP with support for popular frameworks out of the box.
-
-**Why this is here:** Maduro y estable, comunidad PHP lo usa
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#deployer-deployphp-deployer) · [data/latest.json](../data/latest.json)
-
----
-
-### [GitLab CI](https://about.gitlab.com/solutions/continuous-integration)
-
-Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Gitlab's built-in, full-featured CI/CD solution. MIT Ruby
-
-**Why this is here:** Gitlab's built-in, full-featured CI/CD solution. MIT Ruby
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#gitlab-ci-about-e3c4fb) · [data/latest.json](../data/latest.json)
-
----
-
-### [MeshCentral](https://meshcentral.com)
-
-Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Run your own web server to remotely manage and control computers on a local network or anywhere on the internet. Apache-2.0 Nodejs
-
-**Why this is here:** UI web pulida, terminal remota + file manager integrados
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#meshcentral-meshcentral) · [data/latest.json](../data/latest.json)
-
----
-
-### [Pomerium](https://pomerium.io)
-
-Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Identity-aware reverse proxy, successor to now obsolete oauthproxy. It inserts an OAuth step before proxying your request to the backend, so that you can safely expose your self-hosted websites to public Internet....
-
-**Why this is here:** Identity-aware reverse proxy, successor to now obsolete oauthproxy. It inserts an OAuth step before proxying your request to the backend, so that...
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#pomerium-pomerium) · [data/latest.json](../data/latest.json)
-
----
+_Showing 20 of 43. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

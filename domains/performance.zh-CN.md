@@ -2,7 +2,7 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**1 Human-reviewed · 0 Popular standards · 5 AI candidates · 3 Needs review**
+**4 Human-reviewed · 0 Popular standards · 5 AI candidates · 0 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -26,6 +26,48 @@ Suite of continuous benchmarking tools designed to catch performance regressions
 
 ---
 
+### 👤 [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding)
+
+![](https://img.shields.io/github/stars/real-logic/simple-binary-encoding?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Human Pick · **Caveat:** Promising signal, but source consensus is still narrow.
+
+encoding and decoding application messages in binary format for low-latency applications. [Apache2]
+
+**Why this is here:** Curado tras research: herramienta destacada, candidata a la serie.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#simplebinaryencoding-real-logic-simple-binary-encoding) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [uWebSockets](https://github.com/unetworking/uwebsockets)
+
+![](https://img.shields.io/github/stars/unetworking/uwebsockets?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Human Pick · **Caveat:** Promising signal, but source consensus is still narrow.
+
+µWS is one of the most lightweight, efficient & scalable WebSocket & HTTP server implementations available. [Zlib]
+
+**Why this is here:** Curado tras research: herramienta destacada, candidata a la serie.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#uwebsockets-unetworking-uwebsockets) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [xxHash](https://github.com/cyan4973/xxhash)
+
+![](https://img.shields.io/github/stars/cyan4973/xxhash?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Human Pick · **Caveat:** Security-sensitive tool; evaluate fit and maintenance posture before production use.
+
+Extremely fast non-cryptographic hash algorithm. [BSD-2-Clause]
+
+**Why this is here:** Curado tras research: herramienta destacada, candidata a la serie.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#xxhash-cyan4973-xxhash) · [data/latest.json](../data/latest.json)
+
+---
+
 
 ---
 
@@ -43,7 +85,7 @@ CodeFlash.AI – Ship Blazing-Fast Python Code, Every Time.
 
 **Why this is here:** CodeFlash.AI – Ship Blazing-Fast Python Code, Every Time.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#codeflash-ai-codeflash-wcjx) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#codeflash-ai-codeflash) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -71,7 +113,7 @@ Multi-platform genetic algorithm library for .NET Core and .NET Framework. The l
 
 **Why this is here:** Variedad de operadores GA preimplementados
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#geneticsharp-giacomelli-geneticsharp-kwpn) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#geneticsharp-giacomelli-geneticsharp) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -100,55 +142,6 @@ A compiler for Python array and numerical functions.
 **Why this is here:** A compiler for Python array and numerical functions.
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#numba-numba-numba) · [data/latest.json](../data/latest.json)
-
----
-
-
----
-
-## Needs review
-
-Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
-
-### [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding)
-
-![](https://img.shields.io/github/stars/real-logic/simple-binary-encoding?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-encoding and decoding application messages in binary format for low-latency applications. [Apache2]
-
-**Why this is here:** Performance predecible para arquitecturas reales-time
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#simplebinaryencoding-real-logic-simple-binary-encoding-5u8q) · [data/latest.json](../data/latest.json)
-
----
-
-### [uWebSockets](https://github.com/unetworking/uwebsockets)
-
-![](https://img.shields.io/github/stars/unetworking/uwebsockets?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-µWS is one of the most lightweight, efficient & scalable WebSocket & HTTP server implementations available. [Zlib]
-
-**Why this is here:** Throughput y latencia excepcionales para WebSockets
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#uwebsockets-unetworking-uwebsockets-lsm7) · [data/latest.json](../data/latest.json)
-
----
-
-### [xxHash](https://github.com/cyan4973/xxhash)
-
-![](https://img.shields.io/github/stars/cyan4973/xxhash?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Extremely fast non-cryptographic hash algorithm. [BSD-2-Clause]
-
-**Why this is here:** Ampliamente adoptado en Redis, Memcached, ClickHouse
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#xxhash-cyan4973-xxhash) · [data/latest.json](../data/latest.json)
 
 ---
 

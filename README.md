@@ -6,7 +6,7 @@ Read in other languages: **🇬🇧 English** · [🇪🇸 Español](README.es.m
 
 ### A **weekly radar** that turns active `awesome-*` repos into a small set of human-reviewed developer tools worth opening now.
 
-[![Human Picks](https://img.shields.io/badge/Human_Picks-5-gold?style=for-the-badge)](#)
+[![Human Picks](https://img.shields.io/badge/Human_Picks-17-gold?style=for-the-badge)](#)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](#)
 [![Updated](https://img.shields.io/badge/Updated-2026-06-22-green?style=for-the-badge)](#)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
@@ -24,20 +24,20 @@ Star it if you want fewer tool-hunt tabs: source traces, dedupe, caveats, and a 
 
 - **Latest generated update**: 2026-06-22
 - **active sources**: 20
-- **human-reviewed tools**: 5
+- **human-reviewed tools**: 17
 - **Methodology**: [METHODOLOGY.md](METHODOLOGY.md)
 - **Update summary**: [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md)
 - **Evidence snapshot**: [data/latest.json](data/latest.json)
 - **Inspectable catalog**: [TOOLS.md](TOOLS.md)
 - **Popular standards**: 1
-- **Needs review**: 74
+- **Needs review**: 0
 - **Candidate catalog**: available in [data/latest.json](data/latest.json) and domain pages; candidates are not endorsements.
 
 ---
 
 ## 🗺️ Find your stack
 
-[🌐 **Web** · 48](domains/web.md) · [🤖 **AI & ML** · 100](domains/ai-ml.md) · [🛠️ **DevOps** · 49](domains/devops.md) · [📱 **Mobile** · 3](domains/mobile.md) · [💾 **Data & Databases** · 73](domains/data.md) · [🔐 **Security & Crypto** · 58](domains/security.md) · [⚡ **Performance** · 9](domains/performance.md) · [🧰 **Dev Tooling** · 134](domains/tooling.md) · [🎨 **Other** · 25](domains/other.md)
+[🌐 **Web** · 30](domains/web.md) · [🤖 **AI & ML** · 92](domains/ai-ml.md) · [🛠️ **DevOps** · 47](domains/devops.md) · [📱 **Mobile** · 3](domains/mobile.md) · [💾 **Data & Databases** · 68](domains/data.md) · [🔐 **Security & Crypto** · 49](domains/security.md) · [⚡ **Performance** · 9](domains/performance.md) · [🧰 **Dev Tooling** · 135](domains/tooling.md) · [🎨 **Other** · 26](domains/other.md)
 
 ---
 
@@ -99,15 +99,15 @@ Human-reviewed picks with a concrete reason to look now.
 
 ---
 
-## Review queue
+## What changed this week
 
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, jivoi/awesome-osint, vinta/awesome-python
-- [Deepchecks](https://github.com/deepchecks/deepchecks) — Dev Tooling · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
-- [Feature Engine](https://github.com/feature-engine/feature_engine) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
-- [lstags](https://github.com/ivanilves/lstags) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, veggiemonk/awesome-docker, avelino/awesome-go
-- [DEAP](https://github.com/deap/deap) — AI & ML · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+- [Netron](https://github.com/lutzroeder/netron) — promoted · Human Pick: Makes model inspection practical across ONNX, TensorFlow, PyTorch, and related ML formats.
+- [swiper](https://github.com/nolimits4web/swiper) — label changed · Human Pick: Label changed from Needs Review to Human Pick.
+- [query](https://github.com/tanstack/query) — label changed · Human Pick: Label changed from Needs Review to Human Pick.
+- [recharts](https://github.com/recharts/recharts) — label changed · Human Pick: Label changed from Needs Review to Human Pick.
+- [GoAccess](https://goaccess.io) — label changed · Human Pick: Label changed from Needs Review to Human Pick.
 
-Candidates are not endorsements. Ask for review via [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) or inspect the full queue in [TOOLS.md](TOOLS.md).
+See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
 
 ---
 
@@ -117,11 +117,11 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 
 | Tool | What it does | Signal |
 |---|---|---|
-| [**D3js**](https://d3js.org) | is a powerful data visualization javascript library. | Found in 2 active sources: jivoi/awesome-osint, academic/awesome-datascience · AI Candidate |
-| [**grpc**](https://github.com/grpc/grpc) | Remote Procedure Calls (RPCs) provide a useful abstraction for building distributed applications and services. The... | Found in 1 active source: vinta/awesome-python · AI Candidate |
-| [**juspay/neurolink**](https://github.com/juspay/neurolink) | 📇 ☁️ 🏠 🍎 🪟 🐧 Making enterprise AI infrastructure universally accessible. Edge-first platform unifying 12... | Found in 2 active sources: josephmisiti/awesome-machine-learning, punkpeye/awesome-mcp-servers · AI Candidate |
+| 👤 [**swiper**](https://github.com/nolimits4web/swiper) | docs The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior. | Found in 4 active sources · Human Pick |
+| 👤 [**query**](https://github.com/tanstack/query) | Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and... | Found in 3 active sources · Human Pick |
+| 👤 [**GoAccess**](https://goaccess.io) | Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. MIT C | Found in 2 active sources · Human Pick |
 
-📖 45 more in [detail page →](domains/web.md) · Full evidence in [TOOLS.md](TOOLS.md)
+📖 27 more in [detail page →](domains/web.md) · Full evidence in [TOOLS.md](TOOLS.md)
 
 ### 🤖 AI & ML
 
@@ -131,54 +131,55 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 | 👤 [**Netron**](https://github.com/lutzroeder/netron) | Netron is a viewer for neural network, deep learning and machine learning models. | Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning · Human Pick |
 | 👤 [**Mem0**](https://github.com/mem0ai/mem0) | Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions. | Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python · Worth Trying |
 
-📖 97 more in [detail page →](domains/ai-ml.md) · Full evidence in [TOOLS.md](TOOLS.md)
+📖 89 more in [detail page →](domains/ai-ml.md) · Full evidence in [TOOLS.md](TOOLS.md)
 
 ### 🛠️ DevOps
 
 | Tool | What it does | Signal |
 |---|---|---|
 | 👤 [**bandwhich**](https://github.com/imsnif/bandwhich) | Track bandwidth utilization by process. | Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust · Worth Trying |
-| [**Dragonfly**](https://github.com/dragonflyoss/dragonfly2) | Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best... | Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go · AI Candidate |
-| [**ZooKeeper**](https://zookeeper.apache.org) | ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed... | Found in 2 active sources: akullpp/awesome-java, rust-unofficial/awesome-rust · AI Candidate |
+| 👤 [**Deployer**](https://github.com/deployphp/deployer) | A deployment tool written in PHP with support for popular frameworks out of the box. | Found in 2 active sources · Worth Trying |
+| 👤 [**MeshCentral**](https://meshcentral.com) | Run your own web server to remotely manage and control computers on a local network or anywhere on the internet.... | Found in 2 active sources · Worth Trying |
 
-📖 46 more in [detail page →](domains/devops.md) · Full evidence in [TOOLS.md](TOOLS.md)
+📖 44 more in [detail page →](domains/devops.md) · Full evidence in [TOOLS.md](TOOLS.md)
 
 ### 📱 Mobile
 
 | Tool | What it does | Signal |
 |---|---|---|
+| 👤 [**NativeScript**](https://github.com/nativescript/nativescript) | NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like... | Found in 2 active sources · Worth Trying |
 | [**RunAnywhere**](https://github.com/runanywhereai/runanywhere-sdks) | RunAnywhere is a production-ready SDK for running AI models (LLMs, speech-to-text, text-to-speech) on-device for... | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning · AI Candidate |
 | [**ZXing**](https://github.com/zxing/zxing) | An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other... | Found in 1 active source: akullpp/awesome-java · AI Candidate |
 
-📖 1 more in [detail page →](domains/mobile.md) · Full evidence in [TOOLS.md](TOOLS.md)
+📖 [Full domain page →](domains/mobile.md)
 
 ### 💾 Data & Databases
 
 | Tool | What it does | Signal |
 |---|---|---|
-| [**gradio**](https://github.com/gradio-app/gradio) | Quickly create and share demos of models by only writing Python. Debug models interactively in your browser, get... | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python · AI Candidate |
-| [**matplotlib**](https://github.com/matplotlib/matplotlib) | A Python 2D plotting library which produces publication-quality figures in a variety of hardcopy formats and... | Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python · AI Candidate |
-| [**Streamlit**](https://github.com/streamlit/streamlit) | Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts. It... | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python · AI Candidate |
+| 👤 [**recharts**](https://github.com/recharts/recharts) | Redefined chart library built with React and D3. | Found in 3 active sources · Human Pick |
+| 👤 [**OpenStreetMap**](https://openstreetmap.org) | Collaborative project to create a free editable map of the world. (, Clients) GPL-2.0 Ruby | Found in 2 active sources · Human Pick |
+| 👤 [**pouchdb**](https://github.com/pouchdb/pouchdb) | Javascript db inspired by Apache CouchDB to run well within the browser. | Found in 2 active sources · Worth Trying |
 
-📖 70 more in [detail page →](domains/data.md) · Full evidence in [TOOLS.md](TOOLS.md)
+📖 65 more in [detail page →](domains/data.md) · Full evidence in [TOOLS.md](TOOLS.md)
 
 ### 🔐 Security & Crypto
 
 | Tool | What it does | Signal |
 |---|---|---|
 | 👤 [**themis**](https://github.com/cossacklabs/themis) | High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and... | Found in 4 active sources: matteocrippa/awesome-swift, akullpp/awesome-java, rust-unofficial/awesome-rust +1 more · Human Pick |
-| [**Agentic Radar**](https://github.com/splx-ai/agentic-radar) | Open-source CLI security scanner for agentic workflows. Scans your workflow’s , detects vulnerabilities, and... | Found in 1 active source: josephmisiti/awesome-machine-learning · AI Candidate |
-| [**Apache Shiro**](https://shiro.apache.org) | Performs authentication, authorization, cryptography and session management. | Found in 1 active source: akullpp/awesome-java · AI Candidate |
+| 👤 [**Social Engineer Toolkit (SET)**](https://github.com/trustedsec/social-engineer-toolkit) | Open source pentesting framework designed for social engineering featuring a number of custom attack vectors to make... | Found in 2 active sources · Human Pick |
+| 👤 [**x64dbg**](https://x64dbg.com) | An open-source x64/x32 debugger for windows. | Found in 2 active sources · Human Pick |
 
-📖 55 more in [detail page →](domains/security.md) · Full evidence in [TOOLS.md](TOOLS.md)
+📖 46 more in [detail page →](domains/security.md) · Full evidence in [TOOLS.md](TOOLS.md)
 
 ### ⚡ Performance
 
 | Tool | What it does | Signal |
 |---|---|---|
 | 👤 [**Bencher**](https://bencher.dev) | Suite of continuous benchmarking tools designed to catch performance regressions in CI. MIT/Apache-2.0 Rust | Found in 1 active source: avelino/awesome-go · Human Pick |
-| [**CodeFlash.AI**](https://codeflash.ai) | CodeFlash.AI – Ship Blazing-Fast Python Code, Every Time. | Found in 1 active source: josephmisiti/awesome-machine-learning · AI Candidate |
-| [**Cython**](https://github.com/cython/cython) | Cython is an optimising static compiler for both the Python programming language and the extended Cython programming... | Found in 1 active source: vinta/awesome-python · AI Candidate |
+| 👤 [**SimpleBinaryEncoding**](https://github.com/real-logic/simple-binary-encoding) | encoding and decoding application messages in binary format for low-latency applications. [Apache2] | Found in 2 active sources · Human Pick |
+| 👤 [**uWebSockets**](https://github.com/unetworking/uwebsockets) | µWS is one of the most lightweight, efficient & scalable WebSocket & HTTP server implementations available. [Zlib] | Found in 2 active sources · Human Pick |
 
 📖 6 more in [detail page →](domains/performance.md) · Full evidence in [TOOLS.md](TOOLS.md)
 
@@ -187,20 +188,20 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 | Tool | What it does | Signal |
 |---|---|---|
 | 👤 [**Sniffnet**](https://github.com/gyulyvgc/sniffnet) | Cross-platform application to monitor your network traffic with ease | Found in 3 active sources: matiassingers/awesome-readme, rust-unofficial/awesome-rust, jaywcjlove/awesome-mac · Human Pick |
-| 👤 [**intelli-shell**](https://github.com/lasantosr/intelli-shell) | Bookmark commands with placeholders and search or autocomplete at any time | Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust · Worth Trying |
-| 👤 [**ast-grep**](https://github.com/ast-grep/ast-grep) | A CLI tool for code structural search, lint and rewriting. | Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust · Worth Trying |
+| 👤 [**Kaitai Struct**](https://kaitai.io) | File formats and network protocols dissection language and web IDE, generating parsers in C++, C#, Java, JavaScript,... | Found in 2 active sources · Human Pick |
+| 👤 [**Cake**](https://github.com/cake-build/cake) | Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as... | Found in 3 active sources · Worth Trying |
 
-📖 131 more in [detail page →](domains/tooling.md) · Full evidence in [TOOLS.md](TOOLS.md)
+📖 132 more in [detail page →](domains/tooling.md) · Full evidence in [TOOLS.md](TOOLS.md)
 
 ### 🎨 Other
 
 | Tool | What it does | Signal |
 |---|---|---|
+| 👤 [**RunJS**](https://runjs.app) | JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas... | Found in 3 active sources · Worth Trying |
+| 👤 [**phpList**](https://phplist.org) | Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. AGPL-3.0 PHP | Found in 2 active sources · Worth Trying |
 | [**AFFiNE Community Edition**](https://affine.pro) | Next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, customizable and... | Found in 1 active source: jaywcjlove/awesome-mac · AI Candidate |
-| [**beets**](https://github.com/beetbox/beets) | A music library manager and MusicBrainz tagger. | Found in 2 active sources: agarrharr/awesome-cli-apps, vinta/awesome-python · AI Candidate |
-| [**croc**](https://github.com/schollz/croc) | Easily and securely send files or folders from one computer to another. | Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go · AI Candidate |
 
-📖 22 more in [detail page →](domains/other.md) · Full evidence in [TOOLS.md](TOOLS.md)
+📖 23 more in [detail page →](domains/other.md) · Full evidence in [TOOLS.md](TOOLS.md)
 
 ---
 

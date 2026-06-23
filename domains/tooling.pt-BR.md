@@ -2,7 +2,7 @@
 
 <p><sub>← [Voltar ao main](../README.pt-BR.md)</sub></p>
 
-**5 Human-reviewed · 1 Popular standards · 114 AI candidates · 14 Needs review**
+**10 Human-reviewed · 1 Popular standards · 124 AI candidates · 0 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -23,6 +23,34 @@ Cross-platform application to monitor your network traffic with ease
 **Why this is here:** Provides a low-friction network traffic monitor for debugging and security checks.
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#sniffnet-gyulyvgc-sniffnet) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [Kaitai Struct](https://kaitai.io)
+
+Found in 2 active sources
+
+**Review label:** Human Pick · **Caveat:** Promising signal, but source consensus is still narrow.
+
+File formats and network protocols dissection language and web IDE, generating parsers in C++, C#, Java, JavaScript, Perl, PHP, Python, Ruby.
+
+**Why this is here:** Curado tras research: herramienta destacada, candidata a la serie.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#kaitai-struct-kaitai) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [Cake](https://github.com/cake-build/cake)
+
+![](https://img.shields.io/github/stars/cake-build/cake?style=flat-square&label=⭐) · Found in 3 active sources
+
+**Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
+
+Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and folders, running unit tests, compressing files and building NuGet...
+
+**Why this is here:** Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and...
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#cake-cake-build-cake) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -79,6 +107,48 @@ A new way to see and navigate directory trees (get an overview of a directory, e
 **Why this is here:** Worth trying: fast terminal navigation for large directory trees, with a workflow meaningfully different from plain cd/find.
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#broot-canop-broot) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [Cppcheck](https://cppcheck.sourceforge.net)
+
+Found in 2 active sources
+
+**Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
+
+A tool for static C/C++ code analysis. source
+
+**Why this is here:** Curado tras research: solido pero tangencial al foco backend/Java.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#cppcheck-cppcheck) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [IterTools TS](https://github.com/smoren/itertools-ts)
+
+![](https://img.shields.io/github/stars/smoren/itertools-ts?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
+
+Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
+
+**Why this is here:** Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#itertools-ts-smoren-itertools-ts) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [Spack](https://spack.io)
+
+Found in 2 active sources
+
+**Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
+
+A flexible package manager that supports multiple versions, configurations, platforms, and compilers. MIT/Apache-2.0 Python
+
+**Why this is here:** Curado tras research: solido pero tangencial al foco backend/Java.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#spack-spack) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -176,7 +246,7 @@ Deepchecks is a holistic open-source solution for all of your AI & ML validation
 
 **Why this is here:** Cobertura integral: data checks, model validation, drift detection en un solo lugar
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#deepchecks-deepchecks-deepchecks-b4fx) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#deepchecks-deepchecks-deepchecks) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -190,7 +260,7 @@ Data Science Version Control is an open-source version control system for machin
 
 **Why this is here:** Pipelines reproducibles con dag tracking
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#dvc-iterative-dvc-l7ba) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#dvc-iterative-dvc) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -232,7 +302,7 @@ Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, G
 
 **Why this is here:** Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for...
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#lightgbm-microsoft-lightgbm-qsy0) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#lightgbm-microsoft-lightgbm) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -246,7 +316,7 @@ Tool and API to sync Docker images across different registries.
 
 **Why this is here:** Simple, hace una cosa bien
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#lstags-ivanilves-lstags-3nkm) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#lstags-ivanilves-lstags) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -288,7 +358,7 @@ Navigate through projects.json files efficiently with the OctoLinker browser ext
 
 **Why this is here:** Soporta monorepos y path mappings
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#octolinker-octolinker-browser-extension-o1ra) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#octolinker-octolinker-browser-extension) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -358,7 +428,7 @@ Huggingface's library of state-of-the-art pretrained models for Natural Language
 
 **Why this is here:** Modelos preentrenados para 100+ tareas
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#transformers-huggingface-transformers-ayvf) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#transformers-huggingface-transformers) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -390,156 +460,7 @@ The world’s foremost and widely-used network protocol analyzer. (https://githu
 
 ---
 
-_Showing 20 of 114. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
-
-
----
-
-## Needs review
-
-Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
-
-### [Playwright](https://github.com/microsoft/playwright)
-
-![](https://img.shields.io/github/stars/microsoft/playwright?style=flat-square&label=⭐) · Found in 4 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Node.js library to automate Chromium, Firefox and WebKit with a single API.
-
-**Why this is here:** Node.js library to automate Chromium, Firefox and WebKit with a single API.
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#playwright-microsoft-playwright) · [data/latest.json](../data/latest.json)
-
----
-
-### [bun](https://bun.sh)
-
-Found in 3 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Bun is a fast JavaScript runtime, package manager, bundler, test runner
-
-**Why this is here:** Bun is a fast JavaScript runtime, package manager, bundler, test runner
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#bun-bun) · [data/latest.json](../data/latest.json)
-
----
-
-### [Cake](https://github.com/cake-build/cake)
-
-![](https://img.shields.io/github/stars/cake-build/cake?style=flat-square&label=⭐) · Found in 3 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and folders, running unit tests, compressing files and building NuGet...
-
-**Why this is here:** Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and...
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#cake-cake-build-cake) · [data/latest.json](../data/latest.json)
-
----
-
-### [Mocha](https://github.com/mochajs/mocha)
-
-![](https://img.shields.io/github/stars/mochajs/mocha?style=flat-square&label=⭐) · Found in 3 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Javascript test framework for Node.js and the browser.
-
-**Why this is here:** Javascript test framework for Node.js and the browser.
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#mocha-mochajs-mocha) · [data/latest.json](../data/latest.json)
-
----
-
-### [PeachPie](https://github.com/peachpiecompiler/peachpie)
-
-![](https://img.shields.io/github/stars/peachpiecompiler/peachpie?style=flat-square&label=⭐) · Found in 3 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-PeachPie is a PHP compiler and runtime for .NET and .NET Core, which allows entire PHP applications to run on the modern, secure and performant .NET and .NET Core platforms.
-
-**Why this is here:** PeachPie is a PHP compiler and runtime for .NET and .NET Core, which allows entire PHP applications to run on the modern, secure and performant...
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#peachpie-peachpiecompiler-peachpie) · [data/latest.json](../data/latest.json)
-
----
-
-### [Cppcheck](https://cppcheck.sourceforge.net)
-
-Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-A tool for static C/C++ code analysis. source
-
-**Why this is here:** A tool for static C/C++ code analysis. source
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#cppcheck-cppcheck-ocd9) · [data/latest.json](../data/latest.json)
-
----
-
-### [CppSharp](https://github.com/mono/cppsharp)
-
-![](https://img.shields.io/github/stars/mono/cppsharp?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Tools and libraries to glue C/C++ APIs to high-level languages. [MIT]
-
-**Why this is here:** Tools and libraries to glue C/C++ APIs to high-level languages. [MIT]
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#cppsharp-mono-cppsharp-3sfl) · [data/latest.json](../data/latest.json)
-
----
-
-### [cypress](https://github.com/cypress-io/cypress)
-
-![](https://img.shields.io/github/stars/cypress-io/cypress?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Fast, easy and reliable testing for anything that runs in a browser.
-
-**Why this is here:** Experiencia de desarrollo superior a Selenium
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#cypress-cypress-io-cypress) · [data/latest.json](../data/latest.json)
-
----
-
-### [IterTools TS](https://github.com/smoren/itertools-ts)
-
-![](https://img.shields.io/github/stars/smoren/itertools-ts?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
-
-**Why this is here:** Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#itertools-ts-smoren-itertools-ts) · [data/latest.json](../data/latest.json)
-
----
-
-### [Kaitai Struct](https://kaitai.io)
-
-Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-File formats and network protocols dissection language and web IDE, generating parsers in C++, C#, Java, JavaScript, Perl, PHP, Python, Ruby.
-
-**Why this is here:** Web IDE integrada para testing interactivo
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#kaitai-struct-kaitai-cm7a) · [data/latest.json](../data/latest.json)
-
----
-
-_Showing 10 of 14. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+_Showing 20 of 124. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

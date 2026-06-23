@@ -2,9 +2,27 @@
 
 <p><sub>← [Voltar ao main](../README.pt-BR.md)</sub></p>
 
-**0 Human-reviewed · 0 Popular standards · 2 AI candidates · 1 Needs review**
+**1 Human-reviewed · 0 Popular standards · 2 AI candidates · 0 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
+
+---
+
+## Human-reviewed picks
+
+Tools with a human review label and visible caveats.
+
+### 👤 [NativeScript](https://github.com/nativescript/nativescript)
+
+![](https://img.shields.io/github/stars/nativescript/nativescript?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
+
+NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.
+
+**Why this is here:** Curado tras research: solido pero tangencial al foco backend/Java.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#nativescript-nativescript-nativescript) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -25,7 +43,7 @@ RunAnywhere is a production-ready SDK for running AI models (LLMs, speech-to-tex
 
 **Why this is here:** SDK multi-plataforma para correr modelos IA on-device (LLM, speech, TTS) en iOS/Android/React Native. Privacidad y offline garantizados. Resuelve...
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#runanywhere-runanywhereai-runanywhere-sdks-tta3) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#runanywhere-runanywhereai-runanywhere-sdks) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -40,27 +58,6 @@ An open-source, multi-format 1D/2D barcode image processing library implemented 
 **Why this is here:** An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages. [Apache]
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#zxing-zxing-zxing) · [data/latest.json](../data/latest.json)
-
----
-
-
----
-
-## Needs review
-
-Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
-
-### [NativeScript](https://github.com/nativescript/nativescript)
-
-![](https://img.shields.io/github/stars/nativescript/nativescript?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.
-
-**Why this is here:** Comunidad activa y ejemplos abundantes
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#nativescript-nativescript-nativescript-8toc) · [data/latest.json](../data/latest.json)
 
 ---
 

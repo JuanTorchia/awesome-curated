@@ -2,7 +2,7 @@
 
 <p><sub>← [Voltar ao main](../README.pt-BR.md)</sub></p>
 
-**1 Human-reviewed · 0 Popular standards · 46 AI candidates · 11 Needs review**
+**7 Human-reviewed · 0 Popular standards · 42 AI candidates · 0 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -26,6 +26,90 @@ High level crypto library for storing data (AES), secure messaging (ECC + ECDSA 
 
 ---
 
+### 👤 [Social Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit)
+
+![](https://img.shields.io/github/stars/trustedsec/social-engineer-toolkit?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Human Pick · **Caveat:** Promising signal, but source consensus is still narrow.
+
+Open source pentesting framework designed for social engineering featuring a number of custom attack vectors to make believable attacks quickly.
+
+**Why this is here:** Ataques preseteados realistas y probados
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#social-engineer-toolkit-set-trustedsec-social-engineer-toolkit) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [x64dbg](https://x64dbg.com)
+
+Found in 2 active sources
+
+**Review label:** Human Pick · **Caveat:** Promising signal, but source consensus is still narrow.
+
+An open-source x64/x32 debugger for windows.
+
+**Why this is here:** Curado tras research: herramienta destacada, candidata a la serie.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#x64dbg-x64dbg) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [Firezone](https://firezone.dev)
+
+Found in 2 active sources
+
+**Review label:** Worth Trying · **Caveat:** Security-sensitive tool; evaluate fit and maintenance posture before production use.
+
+Secure remote access gateway that supports the WireGuard protocol. It offers a Web GUI, 1-line install script, multi-factor auth (MFA), and SSO. Apache-2.0 Elixir/Docker
+
+**Why this is here:** 1-line install, setup trivial vs OpenVPN, GUI intuitiva
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#firezone-firezone) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [Ockam](https://github.com/ockam-network/ockam)
+
+![](https://img.shields.io/github/stars/ockam-network/ockam?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Worth Trying · **Caveat:** Security-sensitive tool; evaluate fit and maintenance posture before production use.
+
+End-to-end encryption and mutual authentication for distributed applications.
+
+**Why this is here:** Abstracciones portables para transporte (TCP, UDP, Bluetooth)
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#ockam-ockam-network-ockam) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [s2n](https://github.com/awslabs/s2n)
+
+![](https://img.shields.io/github/stars/awslabs/s2n?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Worth Trying · **Caveat:** Security-sensitive tool; evaluate fit and maintenance posture before production use.
+
+An implementation of the TLS/SSL protocols. [Apache]
+
+**Why this is here:** Curado tras research: solido pero tangencial al foco backend/Java.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#s2n-awslabs-s2n) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [Trail of Bits Security Skills](https://github.com/trailofbits/skills)
+
+![](https://img.shields.io/github/stars/trailofbits/skills?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Worth Trying · **Caveat:** Security-sensitive tool; evaluate fit and maintenance posture before production use.
+
+by Trail of Bits A very professional collection of over a dozen security-focused skills for code auditing and vulnerability detection. Includes skills for static analysis with CodeQL and Semgrep, variant analysis...
+
+**Why this is here:** Creado por referentes en security (Trail of Bits)
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#trail-of-bits-security-skills-trailofbits-skills) · [data/latest.json](../data/latest.json)
+
+---
+
 
 ---
 
@@ -43,7 +127,7 @@ Open-source CLI security scanner for agentic workflows. Scans your workflow’s 
 
 **Why this is here:** Output visualizable e insights accionables
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#agentic-radar-splx-ai-agentic-radar-jbuh) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#agentic-radar-splx-ai-agentic-radar) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -114,34 +198,6 @@ Multi-platform transparent client-side encryption of your files in the cloud.
 **Why this is here:** Multi-platform transparent client-side encryption of your files in the cloud.
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#cryptomator-cryptomator) · [data/latest.json](../data/latest.json)
-
----
-
-### [CryptoSwift](https://github.com/krzyzanowskim/cryptoswift)
-
-![](https://img.shields.io/github/stars/krzyzanowskim/cryptoswift?style=flat-square&label=⭐) · Found in 1 active source: matteocrippa/awesome-swift
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Crypto related functions and helpers for Swift implemented in Swift programming language.
-
-**Why this is here:** Pure Swift, portable entre plataformas
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#cryptoswift-krzyzanowskim-cryptoswift) · [data/latest.json](../data/latest.json)
-
----
-
-### [DNSDumpster](https://dnsdumpster.com)
-
-Found in 1 active source: jivoi/awesome-osint
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-is a that will help you discover hosts related to a specific domain.
-
-**Why this is here:** is a that will help you discover hosts related to a specific domain.
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#dnsdumpster-dnsdumpster) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -225,7 +281,7 @@ Secure groups, files, and chat for everyone! (https://github.com/keybase)
 
 **Why this is here:** Secure groups, files, and chat for everyone! (https://github.com/keybase)
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#keybase-keybase-on7s) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#keybase-keybase) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -313,156 +369,35 @@ Maltego is an open source intelligence (OSINT) and graphical link analysis tool 
 
 ---
 
-_Showing 20 of 46. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+### [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub)
 
+![](https://img.shields.io/github/stars/mariocandela/beelzebub?style=flat-square&label=⭐) · Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers
 
----
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-## Needs review
+☁️ Beelzebub is a honeypot framework that lets you build honeypot tools using MCP. Its purpose is to detect prompt injection or malicious agent behavior. The underlying idea is to provide the agent with tools it...
 
-Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
+**Why this is here:** ☁️ Beelzebub is a honeypot framework that lets you build honeypot tools using MCP. Its purpose is to detect prompt injection or malicious agent...
 
-### [Botan](https://botan.randombit.net)
-
-Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Cryptography library written in C++20.
-
-**Why this is here:** C++20 native, code moderno
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#botan-botan-kyae) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#mariocandela-beelzebub-mariocandela-beelzebub) · [data/latest.json](../data/latest.json)
 
 ---
 
-### [Crypto++](https://github.com/weidai11/cryptopp)
+### [mavdol/capsule/mcp-server](https://github.com/mavdol/capsule)
 
-![](https://img.shields.io/github/stars/weidai11/cryptopp?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/mavdol/capsule?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, punkpeye/awesome-mcp-servers
 
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-A free C++ class library of cryptographic schemes. [Boost]
+🦀 🏠 🍎 🪟 🐧 Run untrusted Python/JavaScript code in WebAssembly sandboxes.
 
-**Why this is here:** A free C++ class library of cryptographic schemes. [Boost]
+**Why this is here:** 🦀 🏠 🍎 🪟 🐧 Run untrusted Python/JavaScript code in WebAssembly sandboxes.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#crypto-weidai11-cryptopp-ux0k) · [data/latest.json](../data/latest.json)
-
----
-
-### [Firezone](https://firezone.dev)
-
-Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Secure remote access gateway that supports the WireGuard protocol. It offers a Web GUI, 1-line install script, multi-factor auth (MFA), and SSO. Apache-2.0 Elixir/Docker
-
-**Why this is here:** 1-line install, setup trivial vs OpenVPN, GUI intuitiva
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#firezone-firezone) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#mavdol-capsule-mcp-server-mavdol-capsule) · [data/latest.json](../data/latest.json)
 
 ---
 
-### [gpg](https://gnupg.org)
-
-Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Complete and free implementation of the OpenPGP standard. It allows to encrypt and sign your data and communication, features a versatile key management system. GnuPG is a command line tool with features for easy...
-
-**Why this is here:** Zero-dependency, CLI portable y ubiquo
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#gpg-gnupg-ph96) · [data/latest.json](../data/latest.json)
-
----
-
-### [libsodium](https://github.com/jedisct1/libsodium)
-
-![](https://img.shields.io/github/stars/jedisct1/libsodium?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-P(ortable ackageable) NaCl-based crypto library, opinionated and easy to use. [ISC]
-
-**Why this is here:** Ampliamente auditada y confiable
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#libsodium-jedisct1-libsodium-uwf5) · [data/latest.json](../data/latest.json)
-
----
-
-### [Ockam](https://github.com/ockam-network/ockam)
-
-![](https://img.shields.io/github/stars/ockam-network/ockam?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-End-to-end encryption and mutual authentication for distributed applications.
-
-**Why this is here:** Abstracciones portables para transporte (TCP, UDP, Bluetooth)
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#ockam-ockam-network-ockam) · [data/latest.json](../data/latest.json)
-
----
-
-### [OpenSSL](https://github.com/openssl/openssl)
-
-![](https://img.shields.io/github/stars/openssl/openssl?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-A robust, commercial-grade, full-featured, and Open Source cryptography library. [Apache]
-
-**Why this is here:** A robust, commercial-grade, full-featured, and Open Source cryptography library. [Apache]
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#openssl-openssl-openssl-8zuw) · [data/latest.json](../data/latest.json)
-
----
-
-### [s2n](https://github.com/awslabs/s2n)
-
-![](https://img.shields.io/github/stars/awslabs/s2n?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-An implementation of the TLS/SSL protocols. [Apache]
-
-**Why this is here:** An implementation of the TLS/SSL protocols. [Apache]
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#s2n-awslabs-s2n-3upv) · [data/latest.json](../data/latest.json)
-
----
-
-### [Social Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit)
-
-![](https://img.shields.io/github/stars/trustedsec/social-engineer-toolkit?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Open source pentesting framework designed for social engineering featuring a number of custom attack vectors to make believable attacks quickly.
-
-**Why this is here:** Ataques preseteados realistas y probados
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#social-engineer-toolkit-set-trustedsec-social-engineer-toolkit) · [data/latest.json](../data/latest.json)
-
----
-
-### [Trail of Bits Security Skills](https://github.com/trailofbits/skills)
-
-![](https://img.shields.io/github/stars/trailofbits/skills?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-by Trail of Bits A very professional collection of over a dozen security-focused skills for code auditing and vulnerability detection. Includes skills for static analysis with CodeQL and Semgrep, variant analysis...
-
-**Why this is here:** Creado por referentes en security (Trail of Bits)
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#trail-of-bits-security-skills-trailofbits-skills) · [data/latest.json](../data/latest.json)
-
----
-
-_Showing 10 of 11. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+_Showing 20 of 42. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

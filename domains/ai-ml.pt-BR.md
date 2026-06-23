@@ -2,7 +2,7 @@
 
 <p><sub>← [Voltar ao main](../README.pt-BR.md)</sub></p>
 
-**7 Human-reviewed · 0 Popular standards · 91 AI candidates · 2 Needs review**
+**9 Human-reviewed · 0 Popular standards · 83 AI candidates · 0 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -36,7 +36,7 @@ Netron is a viewer for neural network, deep learning and machine learning models
 
 **Why this is here:** Makes model inspection practical across ONNX, TensorFlow, PyTorch, and related ML formats.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#netron-lutzroeder-netron-pms6) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#netron-lutzroeder-netron) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -78,7 +78,7 @@ A super-easy way to record, search and compare AI experiments.
 
 **Why this is here:** Worth trying: open-source experiment tracking for AI work, especially if a team wants a lighter alternative to hosted-first tools.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#aim-aimhubio-aim-2zw8) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#aim-aimhubio-aim) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -107,6 +107,34 @@ Chroma is an open-source embedding database.
 **Why this is here:** Worth trying: approachable open-source embedding database for prototyping retrieval and agent memory workflows.
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#chroma-chroma-core-chroma) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [Context Engineering Kit](https://github.com/neolabhq/context-engineering-kit)
+
+![](https://img.shields.io/github/stars/neolabhq/context-engineering-kit?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
+
+by Vlad Goncharov Hand-crafted collection of advanced context engineering techniques and patterns with minimal token footprint focused on improving agent result quality.
+
+**Why this is here:** by Vlad Goncharov Hand-crafted collection of advanced context engineering techniques and patterns with minimal token footprint focused on...
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#context-engineering-kit-neolabhq-context-engineering-kit) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [Superpowers](https://github.com/obra/superpowers)
+
+![](https://img.shields.io/github/stars/obra/superpowers?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
+
+by Jesse Vincent A strong bundle of core competencies for software engineering, with good coverage of a large portion of the SDLC from planning, reviewing, testing, debugging... Well written, well organized, and...
+
+**Why this is here:** by Jesse Vincent A strong bundle of core competencies for software engineering, with good coverage of a large portion of the SDLC from planning,...
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#superpowers-obra-superpowers) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -197,7 +225,7 @@ RLlib is an industry level, highly scalable RL library for tf and torch, based o
 
 **Why this is here:** RL framework distributed basado en Ray. Para empresas que necesitan scale: Amazon/Microsoft lo usan. Resuelve: entrenar agentes complejos en...
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#rllib-ray-project-ray-ujyw) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#rllib-ray-project-ray) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -257,6 +285,20 @@ Vercel AI is a TypeScript toolkit designed to help you build AI-powered applicat
 
 ---
 
+### [Agentify](https://github.com/koriyoshi2041/agentify)
+
+![](https://img.shields.io/github/stars/koriyoshi2041/agentify?style=flat-square&label=⭐) · Found in 1 active source: agarrharr/awesome-cli-apps
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+CLI tool that transforms any OpenAPI spec into 9 agent interface formats (MCP server, AGENTS.md, CLAUDE.md, .cursorrules, Skills, llms.txt, GEMINI.md, A2A Card, CLI) with a single command. Tiered generation...
+
+**Why this is here:** Estrategias tiered para APIs chicas y grandes
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#agentify-koriyoshi2041-agentify) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [ashvardanian/NumKong](https://github.com/ashvardanian/numkong)
 
 ![](https://img.shields.io/github/stars/ashvardanian/numkong?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
@@ -267,7 +309,7 @@ SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-51
 
 **Why this is here:** SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-512, and Arm NEON
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#ashvardanian-numkong-ashvardanian-numkong-5ut2) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#ashvardanian-numkong-ashvardanian-numkong) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -295,7 +337,7 @@ A VS Code extension to view Weights & Biases experiments, logs, and artifacts wi
 
 **Why this is here:** A VS Code extension to view Weights & Biases experiments, logs, and artifacts within the IDE, eliminating the need to switch to the web UI &...
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#bread-wandb-viewer-bread-technologies-bread-wandb-viewer-extension-3rl5) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#bread-wandb-viewer-bread-technologies-bread-wandb-viewer-extension) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -323,21 +365,7 @@ High-level utils for PyTorch DL & RL research. It was developed with a focus on 
 
 **Why this is here:** Callbacks y logging robustos para experimentos
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#catalyst-catalyst-team-catalyst-4f6p) · [data/latest.json](../data/latest.json)
-
----
-
-### [CCV](https://github.com/liuliu/ccv)
-
-![](https://img.shields.io/github/stars/liuliu/ccv?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library. [BSD]
-
-**Why this is here:** C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library. [BSD]
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#ccv-liuliu-ccv-aweo) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#catalyst-catalyst-team-catalyst) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -351,7 +379,7 @@ Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data M
 
 **Why this is here:** Cobertura end-to-end impresionante (raro en una tool)
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#clearml-clearml-clearml-vffz) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#clearml-clearml-clearml) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -379,60 +407,25 @@ Stanford CoreNLP provides a set of natural language analysis tools which can tak
 
 **Why this is here:** Stanford CoreNLP provides a set of natural language analysis tools which can take raw English language text input and give the base forms of words.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#corenlp-nlp-53oh) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#corenlp-nlp) · [data/latest.json](../data/latest.json)
 
 ---
 
-### [CuML](https://github.com/rapidsai/cuml)
+### [Cursor](https://cursor.com)
 
-![](https://img.shields.io/github/stars/rapidsai/cuml?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-cuML is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects.
+An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Uses OpenAI.
 
-**Why this is here:** APIs familiares tipo scikit-learn
+**Why this is here:** An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Uses OpenAI.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#cuml-rapidsai-cuml) · [data/latest.json](../data/latest.json)
-
----
-
-_Showing 20 of 91. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
-
+**Evidence record:** [TOOLS.md](../TOOLS.md#cursor-cursor) · [data/latest.json](../data/latest.json)
 
 ---
 
-## Needs review
-
-Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
-
-### [Context Engineering Kit](https://github.com/neolabhq/context-engineering-kit)
-
-![](https://img.shields.io/github/stars/neolabhq/context-engineering-kit?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-by Vlad Goncharov Hand-crafted collection of advanced context engineering techniques and patterns with minimal token footprint focused on improving agent result quality.
-
-**Why this is here:** by Vlad Goncharov Hand-crafted collection of advanced context engineering techniques and patterns with minimal token footprint focused on...
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#context-engineering-kit-neolabhq-context-engineering-kit) · [data/latest.json](../data/latest.json)
-
----
-
-### [Superpowers](https://github.com/obra/superpowers)
-
-![](https://img.shields.io/github/stars/obra/superpowers?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-by Jesse Vincent A strong bundle of core competencies for software engineering, with good coverage of a large portion of the SDLC from planning, reviewing, testing, debugging... Well written, well organized, and...
-
-**Why this is here:** by Jesse Vincent A strong bundle of core competencies for software engineering, with good coverage of a large portion of the SDLC from planning,...
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#superpowers-obra-superpowers) · [data/latest.json](../data/latest.json)
-
----
+_Showing 20 of 83. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

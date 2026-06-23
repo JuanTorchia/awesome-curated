@@ -2,9 +2,41 @@
 
 <p><sub>← [Voltar ao main](../README.pt-BR.md)</sub></p>
 
-**0 Human-reviewed · 0 Popular standards · 21 AI candidates · 4 Needs review**
+**2 Human-reviewed · 0 Popular standards · 24 AI candidates · 0 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
+
+---
+
+## Human-reviewed picks
+
+Tools with a human review label and visible caveats.
+
+### 👤 [RunJS](https://runjs.app)
+
+Found in 3 active sources
+
+**Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
+
+JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas or trying out new libraries.
+
+**Why this is here:** Acceso a Node.js real y posibilidad de importar paquetes npm directamente
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#runjs-runjs) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [phpList](https://phplist.org)
+
+Found in 2 active sources
+
+**Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
+
+Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. AGPL-3.0 PHP
+
+**Why this is here:** Plugin ecosystem robusto y bien documentado
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#phplist-phplist) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -26,6 +58,20 @@ Next-gen knowledge base that brings planning, sorting and creating all together.
 **Why this is here:** Next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, customizable and ready to use (alternative to...
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#affine-community-edition-affine) · [data/latest.json](../data/latest.json)
+
+---
+
+### [AI Job Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker)
+
+![](https://img.shields.io/github/stars/noahaust2/ai-displacement-tracker?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Structured, source-backed dataset tracking 96 AI-attributed workforce reductions (457K workers affected, 13 countries, 13 sectors). Every entry includes source URLs, attribution tier, and job functions.
+
+**Why this is here:** Structured, source-backed dataset tracking 96 AI-attributed workforce reductions (457K workers affected, 13 countries, 13 sectors). Every entry...
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#ai-job-displacement-tracker-noahaust2-ai-displacement-tracker) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -53,7 +99,7 @@ Easily and securely send files or folders from one computer to another.
 
 **Why this is here:** Zero config, seguro por defecto
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#croc-schollz-croc-qmyj) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#croc-schollz-croc) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -81,7 +127,7 @@ Lightweight server to share files, which expire after a set amount of downloads 
 
 **Why this is here:** Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the...
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#gokapi-forceu-gokapi-osic) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#gokapi-forceu-gokapi) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -155,6 +201,20 @@ Personal news reader that brings people together to talk about the world. A new 
 
 ---
 
+### [OpenLayers3](https://openlayers.org)
+
+Found in 1 active source: jivoi/awesome-osint
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+A high-performance, feature-packed library for all your mapping needs.
+
+**Why this is here:** Performance en datasets geoespaciales grandes
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#openlayers3-openlayers) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [Polaris](https://github.com/agersant/polaris)
 
 ![](https://img.shields.io/github/stars/agersant/polaris?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
@@ -193,7 +253,21 @@ The QuantLib project is aimed at providing a comprehensive software framework fo
 
 **Why this is here:** Comunidad activa en finanzas cuantitativa
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#quantlib-lballabio-quantlib-kq89) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#quantlib-lballabio-quantlib) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Redis](https://github.com/redis/redis)
+
+![](https://img.shields.io/github/stars/redis/redis?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, matiassingers/awesome-readme
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Redis is an open-source, in-memory data store that supports vector similarity search, making it suitable for AI/ML applications such as semantic search and recommendation systems.
+
+**Why this is here:** Vector search integrado sin plugins externos, maduro y escalable
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#redis-redis-redis) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -235,7 +309,7 @@ Task manager with timeboxing and time tracking. (https://github.com/johannesjo/s
 
 **Why this is here:** Task manager with timeboxing and time tracking. (https://github.com/johannesjo/super-productivity)...
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#super-productivity-super-productivity-bhrk) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#super-productivity-super-productivity) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -253,112 +327,7 @@ The Go Language library for SVG generation.
 
 ---
 
-### [Syncthing](https://syncthing.net)
-
-Found in 1 active source: avelino/awesome-go
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Syncthing is an open source peer-to-peer file synchronisation tool. MPL-2.0 Go/Docker/deb
-
-**Why this is here:** Verdaderamente descentralizado, no depende cloud
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#syncthing-syncthing-t5xe) · [data/latest.json](../data/latest.json)
-
----
-
-### [tldr-pages](https://github.com/tldr-pages/tldr)
-
-![](https://img.shields.io/github/stars/tldr-pages/tldr?style=flat-square&label=⭐) · Found in 1 active source: agarrharr/awesome-cli-apps
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Collaborative cheatsheets for console commands.
-
-**Why this is here:** Contenido siempre actualizado por comunidad, formato simple y searcheable
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#tldr-pages-tldr-pages-tldr) · [data/latest.json](../data/latest.json)
-
----
-
-### [uk-company-number](https://github.com/borschai/uk-company-number)
-
-![](https://img.shields.io/github/stars/borschai/uk-company-number?style=flat-square&label=⭐) · Found in 2 active sources: wilsonfreitas/awesome-quant, jivoi/awesome-osint
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Python Validate, format, and identify UK Companies House company numbers. Supports all 27 prefixes. PyPI
-
-**Why this is here:** Python Validate, format, and identify UK Companies House company numbers. Supports all 27 prefixes. PyPI
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#uk-company-number-borschai-uk-company-number) · [data/latest.json](../data/latest.json)
-
----
-
-_Showing 20 of 21. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
-
-
----
-
-## Needs review
-
-Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
-
-### [RunJS](https://runjs.app)
-
-Found in 3 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas or trying out new libraries.
-
-**Why this is here:** Acceso a Node.js real y posibilidad de importar paquetes npm directamente
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#runjs-runjs) · [data/latest.json](../data/latest.json)
-
----
-
-### [Godot Engine](https://github.com/godotengine/godot)
-
-![](https://img.shields.io/github/stars/godotengine/godot?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-2D and 3D cross-platform game engine. Also has C# and Python code.
-
-**Why this is here:** Open-source puro, control total del engine
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#godot-engine-godotengine-godot) · [data/latest.json](../data/latest.json)
-
----
-
-### [phpList](https://phplist.org)
-
-Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. AGPL-3.0 PHP
-
-**Why this is here:** Plugin ecosystem robusto y bien documentado
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#phplist-phplist) · [data/latest.json](../data/latest.json)
-
----
-
-### [Samba](https://samba.org)
-
-Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Samba is the standard Windows interoperability suite of programs for Linux and Unix. It provides secure, stable and fast file and print services for all clients using the SMB/CIFS protocol. GPL-3.0 C
-
-**Why this is here:** Samba is the standard Windows interoperability suite of programs for Linux and Unix. It provides secure, stable and fast file and print services...
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#samba-samba) · [data/latest.json](../data/latest.json)
-
----
+_Showing 20 of 24. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---
