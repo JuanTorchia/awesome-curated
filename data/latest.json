@@ -1,251 +1,44 @@
 {
   "changes": [
     {
-      "changedAt": "2026-06-22",
-      "currentLabel": "Human Pick",
-      "name": "Netron",
-      "reason": "Makes model inspection practical across ONNX, TensorFlow, PyTorch, and related ML formats.",
-      "toolId": "cmnwku9rt04cw1p4tav6avjx3",
-      "type": "promoted",
-      "url": "https://github.com/lutzroeder/netron"
-    },
-    {
-      "changedAt": "2026-06-22",
-      "currentLabel": "Human Pick",
-      "name": "swiper",
-      "previousLabel": "Needs Review",
-      "reason": "Label changed from Needs Review to Human Pick.",
-      "toolId": "cmnwm25610313vn4dbca3wvvp",
-      "type": "label changed",
-      "url": "https://github.com/nolimits4web/swiper"
-    },
-    {
-      "changedAt": "2026-06-22",
-      "currentLabel": "Human Pick",
-      "name": "query",
-      "previousLabel": "Needs Review",
-      "reason": "Label changed from Needs Review to Human Pick.",
-      "toolId": "cmnwm2iee0370vn4djbd5e6c4",
-      "type": "label changed",
-      "url": "https://github.com/tanstack/query"
-    },
-    {
-      "changedAt": "2026-06-22",
-      "currentLabel": "Human Pick",
-      "name": "recharts",
-      "previousLabel": "Needs Review",
-      "reason": "Label changed from Needs Review to Human Pick.",
-      "toolId": "cmnwm2smp03bnvn4dn5tf58a2",
-      "type": "label changed",
-      "url": "https://github.com/recharts/recharts"
-    },
-    {
-      "changedAt": "2026-06-22",
-      "currentLabel": "Human Pick",
-      "name": "GoAccess",
-      "previousLabel": "Needs Review",
-      "reason": "Label changed from Needs Review to Human Pick.",
-      "toolId": "cmnwlyx8j01lfvn4df9wyzzsx",
-      "type": "label changed",
-      "url": "https://goaccess.io"
-    },
-    {
-      "changedAt": "2026-06-22",
-      "currentLabel": "Human Pick",
-      "name": "Hasura GraphQL Engine",
-      "previousLabel": "Needs Review",
-      "reason": "Label changed from Needs Review to Human Pick.",
-      "toolId": "cmnwkncjg019k1p4t7xyojso8",
-      "type": "label changed",
-      "url": "https://github.com/hasura/graphql-engine"
-    },
-    {
-      "changedAt": "2026-06-22",
-      "currentLabel": "Human Pick",
-      "name": "Kaitai Struct",
-      "reason": "Curado tras research: herramienta destacada, candidata a la serie.",
-      "toolId": "cmnwkx28e05ly1p4tb6zqpyfn",
-      "type": "promoted",
-      "url": "https://kaitai.io"
-    },
-    {
-      "changedAt": "2026-06-22",
-      "currentLabel": "Human Pick",
-      "name": "OpenStreetMap",
-      "previousLabel": "Needs Review",
-      "reason": "Label changed from Needs Review to Human Pick.",
-      "toolId": "cmnwm00wz0238vn4dvog150yp",
-      "type": "label changed",
-      "url": "https://openstreetmap.org"
-    },
-    {
-      "changedAt": "2026-06-22",
-      "currentLabel": "Human Pick",
-      "name": "SimpleBinaryEncoding",
-      "reason": "Curado tras research: herramienta destacada, candidata a la serie.",
-      "toolId": "cmnwkx2tv05m81p4tml2qs7dk",
-      "type": "promoted",
-      "url": "https://github.com/real-logic/simple-binary-encoding"
-    },
-    {
-      "changedAt": "2026-06-22",
-      "currentLabel": "Human Pick",
-      "name": "Social Engineer Toolkit (SET)",
-      "previousLabel": "Needs Review",
-      "reason": "Label changed from Needs Review to Human Pick.",
-      "toolId": "cmnwkpejs026t1p4t9qz64udz",
-      "type": "label changed",
-      "url": "https://github.com/trustedsec/social-engineer-toolkit"
-    },
-    {
-      "changedAt": "2026-06-22",
-      "currentLabel": "Human Pick",
-      "name": "uWebSockets",
-      "reason": "Curado tras research: herramienta destacada, candidata a la serie.",
-      "toolId": "cmnwkwt9h05i11p4tj45bdpmi",
-      "type": "promoted",
-      "url": "https://github.com/unetworking/uwebsockets"
-    },
-    {
-      "changedAt": "2026-06-22",
-      "currentLabel": "Human Pick",
-      "name": "x64dbg",
-      "reason": "Curado tras research: herramienta destacada, candidata a la serie.",
-      "toolId": "cmnwkxgg805ro1p4tb76w0sxr",
-      "type": "promoted",
-      "url": "https://x64dbg.com"
-    },
-    {
-      "changedAt": "2026-06-22",
-      "currentLabel": "Human Pick",
-      "name": "xxHash",
-      "previousLabel": "Needs Review",
-      "reason": "Label changed from Needs Review to Human Pick.",
-      "toolId": "cmnwkxcgb05qh1p4t8dbk0t1v",
-      "type": "label changed",
-      "url": "https://github.com/cyan4973/xxhash"
-    },
-    {
-      "changedAt": "2026-06-22",
-      "currentLabel": "Worth Trying",
-      "name": "Bit",
-      "previousLabel": "Needs Review",
-      "reason": "Label changed from Needs Review to Worth Trying.",
-      "toolId": "cmnwm2lwh038nvn4dexrj3he3",
-      "type": "label changed",
-      "url": "https://github.com/teambit/bit"
-    },
-    {
-      "changedAt": "2026-06-22",
-      "currentLabel": "Worth Trying",
-      "name": "tsParticles",
-      "previousLabel": "Needs Review",
-      "reason": "Label changed from Needs Review to Worth Trying.",
-      "toolId": "cmnwm2931032vvn4d9n5knlw6",
-      "type": "label changed",
-      "url": "https://github.com/matteobruni/tsparticles"
-    },
-    {
-      "changedAt": "2026-06-22",
-      "currentLabel": "Worth Trying",
-      "name": "Cake",
-      "previousLabel": "Needs Review",
-      "reason": "Label changed from Needs Review to Worth Trying.",
-      "toolId": "cmnwkmtko01101p4tx63y6e8y",
-      "type": "label changed",
-      "url": "https://github.com/cake-build/cake"
-    },
-    {
-      "changedAt": "2026-06-22",
-      "currentLabel": "Worth Trying",
-      "name": "Ghost",
-      "previousLabel": "Needs Review",
-      "reason": "Label changed from Needs Review to Worth Trying.",
-      "toolId": "cmnwkne3y01aa1p4t4j9ed0j9",
-      "type": "label changed",
-      "url": "https://github.com/tryghost/ghost"
-    },
-    {
-      "changedAt": "2026-06-22",
-      "currentLabel": "Worth Trying",
-      "name": "RunJS",
-      "previousLabel": "Needs Review",
-      "reason": "Label changed from Needs Review to Worth Trying.",
-      "toolId": "cmnwm1j8802rtvn4dmh0kfr8o",
-      "type": "label changed",
-      "url": "https://runjs.app"
-    },
-    {
-      "changedAt": "2026-06-22",
-      "currentLabel": "Worth Trying",
-      "name": "schedule-x",
-      "previousLabel": "Needs Review",
-      "reason": "Label changed from Needs Review to Worth Trying.",
-      "toolId": "cmnwm26jb031ovn4dqwkn6frh",
-      "type": "label changed",
-      "url": "https://github.com/schedule-x/schedule-x"
-    },
-    {
-      "changedAt": "2026-06-22",
-      "currentLabel": "Worth Trying",
-      "name": "Vest",
-      "previousLabel": "Needs Review",
-      "reason": "Label changed from Needs Review to Worth Trying.",
-      "toolId": "cmnwknh9h01bn1p4tq05njnh3",
-      "type": "label changed",
-      "url": "https://github.com/ealush/vest"
-    },
-    {
-      "changedAt": "2026-06-22",
-      "currentLabel": "Worth Trying",
-      "name": "webdriver.io",
-      "previousLabel": "Needs Review",
-      "reason": "Label changed from Needs Review to Worth Trying.",
-      "toolId": "cmnwkngj501ba1p4tylokwxde",
-      "type": "label changed",
-      "url": "https://github.com/webdriverio/webdriverio"
-    },
-    {
-      "changedAt": "2026-06-22",
-      "currentLabel": "Worth Trying",
-      "name": "Aim",
-      "reason": "Worth trying: open-source experiment tracking for AI work, especially if a team wants a lighter alternative to hosted-first tools.",
-      "toolId": "cmnwkuocq04jh1p4thdvusset",
+      "changedAt": "2026-06-23",
+      "currentLabel": "AI Candidate",
+      "name": "Opik",
+      "reason": "Opik is an open-source platform for evaluating, testing and monitoring LLM applications.",
+      "toolId": "cmnwkuw8004mz1p4tkqpht8sa",
       "type": "newly reviewed",
-      "url": "https://github.com/aimhubio/aim"
+      "url": "https://github.com/comet-ml/opik"
     },
     {
-      "changedAt": "2026-06-22",
-      "currentLabel": "Worth Trying",
-      "name": "Context Engineering Kit",
-      "previousLabel": "Needs Review",
-      "reason": "Label changed from Needs Review to Worth Trying.",
-      "toolId": "cmnwm52uq04cnvn4d1utzmbco",
-      "type": "label changed",
-      "url": "https://github.com/neolabhq/context-engineering-kit"
-    },
-    {
-      "changedAt": "2026-06-22",
-      "currentLabel": "Worth Trying",
-      "name": "Cppcheck",
-      "reason": "Curado tras research: solido pero tangencial al foco backend/Java.",
-      "toolId": "cmnwkxjd305sz1p4tlf063qu3",
+      "changedAt": "2026-06-23",
+      "currentLabel": "AI Candidate",
+      "name": "pandas",
+      "reason": "API intuitiva, comunidad gigante",
+      "toolId": "cmnwkyr3706cm1p4t03nb04ny",
       "type": "newly reviewed",
-      "url": "https://cppcheck.sourceforge.net"
+      "url": "https://pandas.pydata.org"
     },
     {
-      "changedAt": "2026-06-22",
-      "currentLabel": "Worth Trying",
-      "name": "Deployer",
-      "previousLabel": "Needs Review",
-      "reason": "Label changed from Needs Review to Worth Trying.",
-      "toolId": "cmnwknhi001br1p4t5g6afke9",
-      "type": "label changed",
-      "url": "https://github.com/deployphp/deployer"
+      "changedAt": "2026-06-23",
+      "name": "Opik",
+      "previousLabel": "AI Candidate",
+      "reason": "No longer present in the current public recommendation set.",
+      "toolId": "cmnwkyi0q068j1p4t87oaweyc",
+      "type": "removed",
+      "url": "https://comet.com/site/products/opik"
+    },
+    {
+      "changedAt": "2026-06-23",
+      "name": "pandas",
+      "previousLabel": "AI Candidate",
+      "reason": "No longer present in the current public recommendation set.",
+      "toolId": "cmnwknkai01d01p4tiaff2tii",
+      "type": "removed",
+      "url": "https://github.com/pandas-dev/pandas"
     }
   ],
-  "commitSha": "071603e562d0",
-  "generatedAt": "2026-06-22T22:50:51.944Z",
+  "commitSha": "cce2dad5863a",
+  "generatedAt": "2026-06-23T10:03:42.378Z",
   "recommendations": [
     {
       "caveat": "Best fit for teams with a matching ML or data workflow.",
@@ -12322,25 +12115,35 @@
     {
       "caveat": "Candidate still needs human review before endorsement.",
       "domain": "ai-ml",
-      "id": "cmnwkyi0q068j1p4t87oaweyc",
+      "id": "cmnwkuw8004mz1p4tkqpht8sa",
       "label": "AI Candidate",
       "maintenance": {
         "archived": false,
         "graveyarded": false
       },
       "name": "Opik",
-      "rationale": "Evals automatizadas para reproducibility",
+      "rationale": "Opik is an open-source platform for evaluating, testing and monitoring LLM applications.",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Evals automatizadas para reproducibility",
+        "notes": "Opik is an open-source platform for evaluating, testing and monitoring LLM applications.",
         "reviewedAt": "2026-06-23",
         "status": "AI Candidate"
       },
-      "slug": "comet-2",
-      "sourceSignal": "Found in 1 active source: josephmisiti/awesome-machine-learning",
+      "slug": "comet-ml-opik",
+      "sourceSignal": "Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning",
       "sourceTraces": [
         {
-          "itemCategory": "C++",
+          "itemCategory": "Evaluation and Monitoring",
+          "itemName": "Opik",
+          "observedAt": "2026-06-22",
+          "sourceQuality": 92,
+          "sourceRepo": "EthicalML/awesome-production-machine-learning",
+          "sourceStatus": "ROSTER",
+          "sourceTitle": "awesome-production-machine-learning",
+          "sourceUrl": "https://github.com/EthicalML/awesome-production-machine-learning"
+        },
+        {
+          "itemCategory": "Python",
           "itemName": "Opik",
           "observedAt": "2026-06-22",
           "sourceQuality": 84,
@@ -12350,8 +12153,8 @@
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
       ],
-      "summary": "Open source engineering platform to debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
-      "url": "https://comet.com/site/products/opik"
+      "summary": "Opik is an open-source platform for evaluating, testing and monitoring LLM applications.",
+      "url": "https://github.com/comet-ml/opik"
     },
     {
       "caveat": "Candidate still needs human review before endorsement.",
@@ -12624,36 +12427,46 @@
     {
       "caveat": "Candidate still needs human review before endorsement.",
       "domain": "data",
-      "id": "cmnwknkai01d01p4tiaff2tii",
+      "id": "cmnwkyr3706cm1p4t03nb04ny",
       "label": "AI Candidate",
       "maintenance": {
         "archived": false,
         "graveyarded": false
       },
       "name": "pandas",
-      "rationale": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects,...",
+      "rationale": "API intuitiva, comunidad gigante",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects,...",
-        "reviewedAt": "2026-04-13",
+        "notes": "API intuitiva, comunidad gigante",
+        "reviewedAt": "2026-06-23",
         "status": "AI Candidate"
       },
-      "slug": "pandas-dev-pandas",
-      "sourceSignal": "Found in 1 active source: vinta/awesome-python",
+      "slug": "pandas",
+      "sourceSignal": "Found in 2 active sources: wilsonfreitas/awesome-quant, josephmisiti/awesome-machine-learning",
       "sourceTraces": [
         {
-          "itemCategory": "Projects",
+          "itemCategory": "Numerical Libraries & Data Structures",
           "itemName": "pandas",
-          "observedAt": "2026-06-15",
-          "sourceQuality": 91,
-          "sourceRepo": "vinta/awesome-python",
+          "observedAt": "2026-06-22",
+          "sourceQuality": 100,
+          "sourceRepo": "wilsonfreitas/awesome-quant",
           "sourceStatus": "ROSTER",
-          "sourceTitle": "awesome-python",
-          "sourceUrl": "https://github.com/vinta/awesome-python"
+          "sourceTitle": "awesome-quant",
+          "sourceUrl": "https://github.com/wilsonfreitas/awesome-quant"
+        },
+        {
+          "itemCategory": "Python",
+          "itemName": "Pandas",
+          "observedAt": "2026-06-22",
+          "sourceQuality": 84,
+          "sourceRepo": "josephmisiti/awesome-machine-learning",
+          "sourceStatus": "ROSTER",
+          "sourceTitle": "awesome-machine-learning",
+          "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
       ],
-      "summary": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
-      "url": "https://github.com/pandas-dev/pandas"
+      "summary": "Python pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language. GitHub",
+      "url": "https://pandas.pydata.org"
     },
     {
       "caveat": "Candidate still needs human review before endorsement.",
@@ -19305,7 +19118,7 @@
     "sources": 20
   },
   "validation": {
-    "checkedAt": "2026-06-22T22:50:51.944Z",
+    "checkedAt": "2026-06-23T10:03:42.378Z",
     "status": "pass",
     "warnings": []
   }

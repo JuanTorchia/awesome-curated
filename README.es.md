@@ -8,7 +8,7 @@ Leer en otros idiomas: [🇬🇧 English](README.md) · **🇪🇸 Español** ·
 
 [![Human Picks](https://img.shields.io/badge/Human_Picks-17-gold?style=for-the-badge)](#)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](#)
-[![Updated](https://img.shields.io/badge/Updated-2026-06-22-green?style=for-the-badge)](#)
+[![Updated](https://img.shields.io/badge/Updated-2026-06-23-green?style=for-the-badge)](#)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -22,7 +22,7 @@ Dale star si querés una lista recurrente y de bajo ruido con herramientas dev, 
 
 ### Snapshot de confianza
 
-- **Última actualización generada**: 2026-06-22
+- **Última actualización generada**: 2026-06-23
 - **fuentes activas**: 20
 - **tools revisadas por humano**: 17
 - **Metodología**: [METHODOLOGY.md](METHODOLOGY.md)
@@ -101,11 +101,10 @@ Picks revisados por humano con una razón concreta para mirarlos ahora.
 
 ## What changed this week
 
-- [Netron](https://github.com/lutzroeder/netron) — promoted · Human Pick: Makes model inspection practical across ONNX, TensorFlow, PyTorch, and related ML formats.
-- [swiper](https://github.com/nolimits4web/swiper) — label changed · Human Pick: Label changed from Needs Review to Human Pick.
-- [query](https://github.com/tanstack/query) — label changed · Human Pick: Label changed from Needs Review to Human Pick.
-- [recharts](https://github.com/recharts/recharts) — label changed · Human Pick: Label changed from Needs Review to Human Pick.
-- [GoAccess](https://goaccess.io) — label changed · Human Pick: Label changed from Needs Review to Human Pick.
+- [Opik](https://github.com/comet-ml/opik) — newly reviewed · AI Candidate: Opik is an open-source platform for evaluating, testing and monitoring LLM applications.
+- [pandas](https://pandas.pydata.org) — newly reviewed · AI Candidate: API intuitiva, comunidad gigante
+- [Opik](https://comet.com/site/products/opik) — removed: No longer present in the current public recommendation set.
+- [pandas](https://github.com/pandas-dev/pandas) — removed: No longer present in the current public recommendation set.
 
 See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
 
