@@ -53,4 +53,4 @@ Classification can be imperfect because upstream awesome lists mix tools, articl
 
 ## Latest Generation
 
-Generated on 2026-06-23 from the juanchi.dev Awesome Curated pipeline. Evidence snapshot: [data/latest.json](data/latest.json).
+Generated on 2026-06-24 from the juanchi.dev Awesome Curated pipeline. Evidence snapshot: [data/latest.json](data/latest.json).

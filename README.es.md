@@ -8,7 +8,7 @@ Leer en otros idiomas: [🇬🇧 English](README.md) · **🇪🇸 Español** ·
 
 [![Human Picks](https://img.shields.io/badge/Human_Picks-17-gold?style=for-the-badge)](#)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](#)
-[![Updated](https://img.shields.io/badge/Updated-2026-06-23-green?style=for-the-badge)](#)
+[![Updated](https://img.shields.io/badge/Updated-2026-06-24-green?style=for-the-badge)](#)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -22,7 +22,7 @@ Dale star si querés una lista recurrente y de bajo ruido con herramientas dev, 
 
 ### Snapshot de confianza
 
-- **Última actualización generada**: 2026-06-23
+- **Última actualización generada**: 2026-06-24
 - **fuentes activas**: 20
 - **tools revisadas por humano**: 17
 - **Metodología**: [METHODOLOGY.md](METHODOLOGY.md)
@@ -99,14 +99,15 @@ Picks revisados por humano con una razón concreta para mirarlos ahora.
 
 ---
 
-## What changed this week
+## Review queue
 
-- [Opik](https://github.com/comet-ml/opik) — newly reviewed · AI Candidate: Opik is an open-source platform for evaluating, testing and monitoring LLM applications.
-- [pandas](https://pandas.pydata.org) — newly reviewed · AI Candidate: API intuitiva, comunidad gigante
-- [Opik](https://comet.com/site/products/opik) — removed: No longer present in the current public recommendation set.
-- [pandas](https://github.com/pandas-dev/pandas) — removed: No longer present in the current public recommendation set.
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, jivoi/awesome-osint, vinta/awesome-python
+- [Deepchecks](https://github.com/deepchecks/deepchecks) — Dev Tooling · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
+- [Feature Engine](https://github.com/feature-engine/feature_engine) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
+- [lstags](https://github.com/ivanilves/lstags) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, veggiemonk/awesome-docker, avelino/awesome-go
+- [DEAP](https://github.com/deap/deap) — AI & ML · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
-See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
+Candidates are not endorsements. Ask for review via [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) or inspect the full queue in [TOOLS.md](TOOLS.md).
 
 ---
 

@@ -1,44 +1,16 @@
 {
   "changes": [
     {
-      "changedAt": "2026-06-23",
-      "currentLabel": "AI Candidate",
-      "name": "Opik",
-      "reason": "Opik is an open-source platform for evaluating, testing and monitoring LLM applications.",
-      "toolId": "cmnwkuw8004mz1p4tkqpht8sa",
-      "type": "newly reviewed",
-      "url": "https://github.com/comet-ml/opik"
-    },
-    {
-      "changedAt": "2026-06-23",
-      "currentLabel": "AI Candidate",
-      "name": "pandas",
-      "reason": "API intuitiva, comunidad gigante",
-      "toolId": "cmnwkyr3706cm1p4t03nb04ny",
-      "type": "newly reviewed",
-      "url": "https://pandas.pydata.org"
-    },
-    {
-      "changedAt": "2026-06-23",
-      "name": "Opik",
-      "previousLabel": "AI Candidate",
-      "reason": "No longer present in the current public recommendation set.",
-      "toolId": "cmnwkyi0q068j1p4t87oaweyc",
-      "type": "removed",
-      "url": "https://comet.com/site/products/opik"
-    },
-    {
-      "changedAt": "2026-06-23",
-      "name": "pandas",
-      "previousLabel": "AI Candidate",
-      "reason": "No longer present in the current public recommendation set.",
-      "toolId": "cmnwknkai01d01p4tiaff2tii",
-      "type": "removed",
-      "url": "https://github.com/pandas-dev/pandas"
+      "changedAt": "2026-06-24",
+      "name": "Public recommendation set",
+      "reason": "No material public change detected.",
+      "toolId": "snapshot",
+      "type": "unchanged",
+      "url": "data/latest.json"
     }
   ],
-  "commitSha": "cce2dad5863a",
-  "generatedAt": "2026-06-23T10:03:42.378Z",
+  "commitSha": "af57244e0b18",
+  "generatedAt": "2026-06-24T10:02:11.525Z",
   "recommendations": [
     {
       "caveat": "Best fit for teams with a matching ML or data workflow.",
@@ -19118,7 +19090,7 @@
     "sources": 20
   },
   "validation": {
-    "checkedAt": "2026-06-23T10:03:42.378Z",
+    "checkedAt": "2026-06-24T10:02:11.525Z",
     "status": "pass",
     "warnings": []
   }
