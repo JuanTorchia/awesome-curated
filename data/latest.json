@@ -1,7 +1,7 @@
 {
   "changes": [
     {
-      "changedAt": "2026-06-25",
+      "changedAt": "2026-06-26",
       "name": "Public recommendation set",
       "reason": "No material public change detected.",
       "toolId": "snapshot",
@@ -9,8 +9,8 @@
       "url": "data/latest.json"
     }
   ],
-  "commitSha": "96210ade8389",
-  "generatedAt": "2026-06-25T10:02:05.863Z",
+  "commitSha": "8cd5ee709355",
+  "generatedAt": "2026-06-26T10:04:09.552Z",
   "recommendations": [
     {
       "caveat": "Best fit for teams with a matching ML or data workflow.",
@@ -1663,7 +1663,7 @@
       "review": {
         "caveat": "Useful standard, but not a discovery or emerging pick.",
         "notes": "PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language...",
-        "reviewedAt": "2026-04-16",
+        "reviewedAt": "2026-06-26",
         "reviewedBy": "Juan",
         "status": "Popular Standard"
       },
@@ -19090,7 +19090,7 @@
     "sources": 20
   },
   "validation": {
-    "checkedAt": "2026-06-25T10:02:05.863Z",
+    "checkedAt": "2026-06-26T10:04:09.552Z",
     "status": "pass",
     "warnings": []
   }
