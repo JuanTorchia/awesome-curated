@@ -14,7 +14,7 @@ Tools with a human review label and visible caveats.
 
 ### 👤 [themis](https://github.com/cossacklabs/themis)
 
-![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · Found in 4 active sources: matteocrippa/awesome-swift, akullpp/awesome-java, rust-unofficial/awesome-rust +1 more
+![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · Found in 4 active sources: sobolevn/awesome-cryptography, akullpp/awesome-java, rust-unofficial/awesome-rust +1 more
 
 **Review label:** Human Pick · **Caveat:** Security-sensitive tool; evaluate fit and maintenance posture before production use.
 
@@ -70,7 +70,7 @@ Secure remote access gateway that supports the WireGuard protocol. It offers a W
 
 ### 👤 [Ockam](https://github.com/ockam-network/ockam)
 
-![](https://img.shields.io/github/stars/ockam-network/ockam?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/ockam-network/ockam?style=flat-square&label=⭐) · Found in 1 active source: sobolevn/awesome-cryptography
 
 **Review label:** Worth Trying · **Caveat:** Security-sensitive tool; evaluate fit and maintenance posture before production use.
 
@@ -84,7 +84,7 @@ End-to-end encryption and mutual authentication for distributed applications.
 
 ### 👤 [s2n](https://github.com/awslabs/s2n)
 
-![](https://img.shields.io/github/stars/awslabs/s2n?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/awslabs/s2n?style=flat-square&label=⭐) · Found in 1 active source: sobolevn/awesome-cryptography
 
 **Review label:** Worth Trying · **Caveat:** Security-sensitive tool; evaluate fit and maintenance posture before production use.
 
@@ -133,7 +133,7 @@ Open-source CLI security scanner for agentic workflows. Scans your workflow’s 
 
 ### [Apache Shiro](https://shiro.apache.org)
 
-Found in 1 active source: akullpp/awesome-java
+Found in 2 active sources: sobolevn/awesome-cryptography, akullpp/awesome-java
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -147,7 +147,7 @@ Performs authentication, authorization, cryptography and session management.
 
 ### [Bouncy Castle](https://bouncycastle.org/java.html)
 
-Found in 1 active source: akullpp/awesome-java
+Found in 2 active sources: sobolevn/awesome-cryptography, akullpp/awesome-java
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -175,7 +175,7 @@ Web browser with an emphasis on privacy and speed. (https://github.com/brave/bra
 
 ### [briansmith/ring](https://github.com/briansmith/ring)
 
-![](https://img.shields.io/github/stars/briansmith/ring?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
+![](https://img.shields.io/github/stars/briansmith/ring?style=flat-square&label=⭐) · Found in 2 active sources: sobolevn/awesome-cryptography, rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -231,7 +231,7 @@ The GHDB is an index of search queries (we call them dorks) used to find publicl
 
 ### [hashes](https://github.com/rustcrypto/hashes)
 
-![](https://img.shields.io/github/stars/rustcrypto/hashes?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
+![](https://img.shields.io/github/stars/rustcrypto/hashes?style=flat-square&label=⭐) · Found in 2 active sources: sobolevn/awesome-cryptography, rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -273,7 +273,7 @@ The Invisible Internet Project.
 
 ### [Keybase](https://keybase.io)
 
-Found in 1 active source: jaywcjlove/awesome-mac
+Found in 2 active sources: sobolevn/awesome-cryptography, jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 

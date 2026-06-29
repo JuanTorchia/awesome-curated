@@ -8,7 +8,7 @@ Read in other languages: **🇬🇧 English** · [🇪🇸 Español](README.es.m
 
 [![Human Picks](https://img.shields.io/badge/Human_Picks-17-gold?style=for-the-badge)](#)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](#)
-[![Updated](https://img.shields.io/badge/Updated-2026-06-27-green?style=for-the-badge)](#)
+[![Updated](https://img.shields.io/badge/Updated-2026-06-28-green?style=for-the-badge)](#)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -22,7 +22,7 @@ Star it if you want fewer tool-hunt tabs: source traces, dedupe, caveats, and a 
 
 ### Trust snapshot
 
-- **Latest generated update**: 2026-06-27
+- **Latest generated update**: 2026-06-28
 - **active sources**: 20
 - **human-reviewed tools**: 17
 - **Methodology**: [METHODOLOGY.md](METHODOLOGY.md)
@@ -30,7 +30,7 @@ Star it if you want fewer tool-hunt tabs: source traces, dedupe, caveats, and a 
 - **Evidence snapshot**: [data/latest.json](data/latest.json)
 - **Inspectable catalog**: [TOOLS.md](TOOLS.md)
 - **Popular standards**: 1
-- **Needs review**: 0
+- **Needs review**: 1
 - **Candidate catalog**: available in [data/latest.json](data/latest.json) and domain pages; candidates are not endorsements.
 
 ---
@@ -60,7 +60,7 @@ Human-reviewed picks with a concrete reason to look now.
 
 **Why now:** Gives teams a higher-level API over cryptographic primitives without starting from raw building blocks.
 
-**Evidence:** Found in 4 active sources: matteocrippa/awesome-swift, akullpp/awesome-java, rust-unofficial/awesome-rust +1 more · [traces](data/latest.json)
+**Evidence:** Found in 4 active sources: sobolevn/awesome-cryptography, akullpp/awesome-java, rust-unofficial/awesome-rust +1 more · [traces](data/latest.json)
 
 **Review:** Human Pick
 
@@ -80,7 +80,7 @@ Human-reviewed picks with a concrete reason to look now.
 
 **Why now:** Provides a low-friction network traffic monitor for debugging and security checks.
 
-**Evidence:** Found in 3 active sources: matiassingers/awesome-readme, rust-unofficial/awesome-rust, jaywcjlove/awesome-mac · [traces](data/latest.json)
+**Evidence:** Found in 2 active sources: rust-unofficial/awesome-rust, jaywcjlove/awesome-mac · [traces](data/latest.json)
 
 **Review:** Human Pick
 
@@ -99,15 +99,11 @@ Human-reviewed picks with a concrete reason to look now.
 
 ---
 
-## Review queue
+## What changed this week
 
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, jivoi/awesome-osint, vinta/awesome-python
-- [Deepchecks](https://github.com/deepchecks/deepchecks) — Dev Tooling · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
-- [Feature Engine](https://github.com/feature-engine/feature_engine) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
-- [lstags](https://github.com/ivanilves/lstags) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, veggiemonk/awesome-docker, avelino/awesome-go
-- [DEAP](https://github.com/deap/deap) — AI & ML · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+- [mkosir/react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) — label changed · Needs Review: Moved from AI Candidate to Needs Review after stricter trace-quality checks.
 
-Candidates are not endorsements. Ask for review via [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) or inspect the full queue in [TOOLS.md](TOOLS.md).
+See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
 
 ---
 
@@ -117,8 +113,8 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 
 | Tool | What it does | Signal |
 |---|---|---|
-| 👤 [**swiper**](https://github.com/nolimits4web/swiper) | docs The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior. | Found in 4 active sources · Human Pick |
-| 👤 [**query**](https://github.com/tanstack/query) | Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and... | Found in 3 active sources · Human Pick |
+| 👤 [**swiper**](https://github.com/nolimits4web/swiper) | docs The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior. | Found in 1 active source: vuejs/awesome-vue · Human Pick |
+| 👤 [**query**](https://github.com/tanstack/query) | Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and... | Found in 1 active source: vuejs/awesome-vue · Human Pick |
 | 👤 [**GoAccess**](https://goaccess.io) | Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. MIT C | Found in 2 active sources · Human Pick |
 
 📖 27 more in [detail page →](domains/web.md) · Full evidence in [TOOLS.md](TOOLS.md)
@@ -167,7 +163,7 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 
 | Tool | What it does | Signal |
 |---|---|---|
-| 👤 [**themis**](https://github.com/cossacklabs/themis) | High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and... | Found in 4 active sources: matteocrippa/awesome-swift, akullpp/awesome-java, rust-unofficial/awesome-rust +1 more · Human Pick |
+| 👤 [**themis**](https://github.com/cossacklabs/themis) | High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and... | Found in 4 active sources: sobolevn/awesome-cryptography, akullpp/awesome-java, rust-unofficial/awesome-rust +1 more · Human Pick |
 | 👤 [**Social Engineer Toolkit (SET)**](https://github.com/trustedsec/social-engineer-toolkit) | Open source pentesting framework designed for social engineering featuring a number of custom attack vectors to make... | Found in 2 active sources · Human Pick |
 | 👤 [**x64dbg**](https://x64dbg.com) | An open-source x64/x32 debugger for windows. | Found in 2 active sources · Human Pick |
 
@@ -187,7 +183,7 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 
 | Tool | What it does | Signal |
 |---|---|---|
-| 👤 [**Sniffnet**](https://github.com/gyulyvgc/sniffnet) | Cross-platform application to monitor your network traffic with ease | Found in 3 active sources: matiassingers/awesome-readme, rust-unofficial/awesome-rust, jaywcjlove/awesome-mac · Human Pick |
+| 👤 [**Sniffnet**](https://github.com/gyulyvgc/sniffnet) | Cross-platform application to monitor your network traffic with ease | Found in 2 active sources: rust-unofficial/awesome-rust, jaywcjlove/awesome-mac · Human Pick |
 | 👤 [**Kaitai Struct**](https://kaitai.io) | File formats and network protocols dissection language and web IDE, generating parsers in C++, C#, Java, JavaScript,... | Found in 2 active sources · Human Pick |
 | 👤 [**Cake**](https://github.com/cake-build/cake) | Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as... | Found in 3 active sources · Worth Trying |
 
@@ -197,7 +193,7 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 
 | Tool | What it does | Signal |
 |---|---|---|
-| 👤 [**RunJS**](https://runjs.app) | JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas... | Found in 3 active sources · Worth Trying |
+| 👤 [**RunJS**](https://runjs.app) | JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas... | Found in 1 active source: vuejs/awesome-vue · Worth Trying |
 | 👤 [**phpList**](https://phplist.org) | Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. AGPL-3.0 PHP | Found in 2 active sources · Worth Trying |
 | [**AFFiNE Community Edition**](https://affine.pro) | Next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, customizable and... | Found in 1 active source: jaywcjlove/awesome-mac · AI Candidate |
 

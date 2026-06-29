@@ -56,7 +56,7 @@ encoding and decoding application messages in binary format for low-latency appl
 
 ### 👤 [xxHash](https://github.com/cyan4973/xxhash)
 
-![](https://img.shields.io/github/stars/cyan4973/xxhash?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/cyan4973/xxhash?style=flat-square&label=⭐) · Found in 1 active source: sobolevn/awesome-cryptography
 
 **Review label:** Human Pick · **Caveat:** Security-sensitive tool; evaluate fit and maintenance posture before production use.
 

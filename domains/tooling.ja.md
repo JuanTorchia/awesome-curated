@@ -14,7 +14,7 @@ Tools with a human review label and visible caveats.
 
 ### 👤 [Sniffnet](https://github.com/gyulyvgc/sniffnet)
 
-![](https://img.shields.io/github/stars/gyulyvgc/sniffnet?style=flat-square&label=⭐) · Found in 3 active sources: matiassingers/awesome-readme, rust-unofficial/awesome-rust, jaywcjlove/awesome-mac
+![](https://img.shields.io/github/stars/gyulyvgc/sniffnet?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, jaywcjlove/awesome-mac
 
 **Review label:** Human Pick · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -252,7 +252,7 @@ Deepchecks is a holistic open-source solution for all of your AI & ML validation
 
 ### [DVC](https://github.com/iterative/dvc)
 
-![](https://img.shields.io/github/stars/iterative/dvc?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, matiassingers/awesome-readme, josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/iterative/dvc?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 

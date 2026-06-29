@@ -2,16 +2,16 @@
 
 ## Latest Sync
 
-- Date: 2026-06-27
-- Previous public commit: e38a735e9de6
+- Date: 2026-06-28
+- Previous public commit: 79a9956d81e1
 - Evidence: [data/latest.json](data/latest.json)
 
 ## Current Snapshot
 
 - Human Picks: 17
-- AI Candidates: 405
+- AI Candidates: 404
 - Popular Standards: 1
-- Needs Review: 0
+- Needs Review: 1
 - Active Sources: 20
 - Public Recommendations: 498
 - Graveyard tools: 0
@@ -19,9 +19,9 @@
 
 ## Recent Changes
 
-### No Material Public Change
+### Label Changed
 
-No material public change detected for the latest generated window.
+- [mkosir/react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) (AI Candidate → Needs Review) — Moved from AI Candidate to Needs Review after stricter trace-quality checks. (2026-06-28)
 
 ## Review Note
 

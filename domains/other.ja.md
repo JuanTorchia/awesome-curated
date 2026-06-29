@@ -14,7 +14,7 @@ Tools with a human review label and visible caveats.
 
 ### 👤 [RunJS](https://runjs.app)
 
-Found in 3 active sources
+Found in 1 active source: vuejs/awesome-vue
 
 **Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -259,7 +259,7 @@ The QuantLib project is aimed at providing a comprehensive software framework fo
 
 ### [Redis](https://github.com/redis/redis)
 
-![](https://img.shields.io/github/stars/redis/redis?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, matiassingers/awesome-readme
+![](https://img.shields.io/github/stars/redis/redis?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 

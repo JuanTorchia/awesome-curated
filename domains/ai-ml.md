@@ -315,7 +315,7 @@ SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-51
 
 ### [askbudi/roundtable](https://github.com/askbudi/roundtable)
 
-![](https://img.shields.io/github/stars/askbudi/roundtable?style=flat-square&label=⭐) · Found in 1 active source: punkpeye/awesome-mcp-servers
+![](https://img.shields.io/github/stars/askbudi/roundtable?style=flat-square&label=⭐) · Found in 2 active sources: vuejs/awesome-vue, punkpeye/awesome-mcp-servers
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
