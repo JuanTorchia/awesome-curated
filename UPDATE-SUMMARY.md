@@ -2,8 +2,8 @@
 
 ## Latest Sync
 
-- Date: 2026-06-28
-- Previous public commit: 79a9956d81e1
+- Date: 2026-06-29
+- Previous public commit: 26d2e9f60a16
 - Evidence: [data/latest.json](data/latest.json)
 
 ## Current Snapshot
@@ -19,9 +19,9 @@
 
 ## Recent Changes
 
-### Label Changed
+### No Material Public Change
 
-- [mkosir/react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) (AI Candidate → Needs Review) — Moved from AI Candidate to Needs Review after stricter trace-quality checks. (2026-06-28)
+No material public change detected for the latest generated window.
 
 ## Review Note
 

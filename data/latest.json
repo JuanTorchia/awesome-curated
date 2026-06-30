@@ -1,18 +1,16 @@
 {
   "changes": [
     {
-      "changedAt": "2026-06-28",
-      "currentLabel": "Needs Review",
-      "name": "mkosir/react-parallax-tilt",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwm2tlq03c3vn4dkh5c7hdc",
-      "type": "label changed",
-      "url": "https://github.com/mkosir/react-parallax-tilt"
+      "changedAt": "2026-06-29",
+      "name": "Public recommendation set",
+      "reason": "No material public change detected.",
+      "toolId": "snapshot",
+      "type": "unchanged",
+      "url": "data/latest.json"
     }
   ],
-  "commitSha": "79a9956d81e1",
-  "generatedAt": "2026-06-28T10:04:56.494Z",
+  "commitSha": "26d2e9f60a16",
+  "generatedAt": "2026-06-29T10:01:06.994Z",
   "recommendations": [
     {
       "caveat": "Best fit for teams with a matching ML or data workflow.",
@@ -1841,7 +1839,7 @@
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
         "notes": "XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable.",
-        "reviewedAt": "2026-04-13",
+        "reviewedAt": "2026-06-29",
         "status": "AI Candidate"
       },
       "slug": "dmlc-xgboost",
@@ -19335,7 +19333,7 @@
     "sources": 20
   },
   "validation": {
-    "checkedAt": "2026-06-28T10:04:56.494Z",
+    "checkedAt": "2026-06-29T10:01:06.994Z",
     "status": "pass",
     "warnings": []
   }
