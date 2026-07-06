@@ -8,7 +8,7 @@
 
 [![Human Picks](https://img.shields.io/badge/Human_Picks-17-gold?style=for-the-badge)](#)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](#)
-[![Updated](https://img.shields.io/badge/Updated-2026-07-04-green?style=for-the-badge)](#)
+[![Updated](https://img.shields.io/badge/Updated-2026-07-05-green?style=for-the-badge)](#)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -22,7 +22,7 @@
 
 ### 信任快照
 
-- **最新生成更新**: 2026-07-04
+- **最新生成更新**: 2026-07-05
 - **活跃来源**: 20
 - **人工审核工具**: 17
 - **方法论**: [METHODOLOGY.md](METHODOLOGY.md)
@@ -30,7 +30,7 @@
 - **Evidence snapshot**: [data/latest.json](data/latest.json)
 - **Inspectable catalog**: [TOOLS.md](TOOLS.md)
 - **Popular standards**: 1
-- **Needs review**: 1
+- **Needs review**: 20
 - **Candidate catalog**: available in [data/latest.json](data/latest.json) and domain pages; candidates are not endorsements.
 
 ---
@@ -50,7 +50,7 @@
 
 **Why now:** Turns trained ML models into native code, reducing production runtime dependencies.
 
-**Evidence:** Found in 4 active sources: akullpp/awesome-java, rust-unofficial/awesome-rust, josephmisiti/awesome-machine-learning +1 more · [traces](data/latest.json)
+**Evidence:** Found in 4 active sources: akullpp/awesome-java, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +1 more · [traces](data/latest.json)
 
 **Review:** Human Pick
 
@@ -60,21 +60,21 @@
 
 **Why now:** Gives teams a higher-level API over cryptographic primitives without starting from raw building blocks.
 
-**Evidence:** Found in 4 active sources: sobolevn/awesome-cryptography, akullpp/awesome-java, rust-unofficial/awesome-rust +1 more · [traces](data/latest.json)
+**Evidence:** Found in 4 active sources: akullpp/awesome-java, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +1 more · [traces](data/latest.json)
 
 **Review:** Human Pick
 
 **Caveat:** Security-sensitive tool; evaluate fit and maintenance posture before production use.
 
-### 👤 [Netron](https://github.com/lutzroeder/netron)
+### 👤 [Bencher](https://bencher.dev)
 
-**Why now:** Makes model inspection practical across ONNX, TensorFlow, PyTorch, and related ML formats.
+**Why now:** Adds continuous benchmarking to CI so performance regressions can be caught before release.
 
-**Evidence:** Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning · [traces](data/latest.json)
+**Evidence:** Found in 2 active sources: fffaraz/awesome-cpp, avelino/awesome-go · [traces](data/latest.json)
 
 **Review:** Human Pick
 
-**Caveat:** Best fit for teams with a matching ML or data workflow.
+**Caveat:** Worth a focused trial before adopting broadly.
 
 ### 👤 [Sniffnet](https://github.com/gyulyvgc/sniffnet)
 
@@ -86,28 +86,28 @@
 
 **Caveat:** Worth a focused trial before adopting broadly.
 
-### 👤 [Bencher](https://bencher.dev)
+### 👤 [Netron](https://github.com/lutzroeder/netron)
 
-**Why now:** Adds continuous benchmarking to CI so performance regressions can be caught before release.
+**Why now:** Makes model inspection practical across ONNX, TensorFlow, PyTorch, and related ML formats.
 
-**Evidence:** Found in 1 active source: avelino/awesome-go · [traces](data/latest.json)
+**Evidence:** Found in 1 active source: EthicalML/awesome-production-machine-learning · [traces](data/latest.json)
 
 **Review:** Human Pick
 
-**Caveat:** Worth a focused trial before adopting broadly.
+**Caveat:** Best fit for teams with a matching ML or data workflow.
 <!-- staff-picks:end -->
 
 ---
 
-## Review queue
+## What changed this week
 
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, jivoi/awesome-osint, vinta/awesome-python
-- [Deepchecks](https://github.com/deepchecks/deepchecks) — Dev Tooling · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
-- [Feature Engine](https://github.com/feature-engine/feature_engine) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
-- [lstags](https://github.com/ivanilves/lstags) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, veggiemonk/awesome-docker, avelino/awesome-go
-- [askbudi/roundtable](https://github.com/askbudi/roundtable) — AI & ML · Found in 2 active sources: vuejs/awesome-vue, punkpeye/awesome-mcp-servers
+- [RLlib](https://github.com/ray-project/ray) — label changed · Needs Review: Moved from AI Candidate to Needs Review after stricter trace-quality checks.
+- [Agentic Radar](https://github.com/splx-ai/agentic-radar) — label changed · Needs Review: Moved from AI Candidate to Needs Review after stricter trace-quality checks.
+- [C3.js](https://c3js.org) — label changed · Needs Review: Moved from AI Candidate to Needs Review after stricter trace-quality checks.
+- [Catalyst](https://github.com/catalyst-team/catalyst) — label changed · Needs Review: Moved from AI Candidate to Needs Review after stricter trace-quality checks.
+- [CodeFlash.AI](https://codeflash.ai) — label changed · Needs Review: Moved from AI Candidate to Needs Review after stricter trace-quality checks.
 
-Candidates are not endorsements. Ask for review via [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) or inspect the full queue in [TOOLS.md](TOOLS.md).
+See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
 
 ---
 
@@ -127,8 +127,8 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 
 | 工具 | 作用 | 信号 |
 |---|---|---|
-| 👤 [**BayesWitnesses/m2cgen**](https://github.com/bayeswitnesses/m2cgen) | A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies. | Found in 4 active sources: akullpp/awesome-java, rust-unofficial/awesome-rust, josephmisiti/awesome-machine-learning +1 more · Human Pick |
-| 👤 [**Netron**](https://github.com/lutzroeder/netron) | Netron is a viewer for neural network, deep learning and machine learning models. | Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning · Human Pick |
+| 👤 [**BayesWitnesses/m2cgen**](https://github.com/bayeswitnesses/m2cgen) | A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies. | Found in 4 active sources: akullpp/awesome-java, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +1 more · Human Pick |
+| 👤 [**Netron**](https://github.com/lutzroeder/netron) | Netron is a viewer for neural network, deep learning and machine learning models. | Found in 1 active source: EthicalML/awesome-production-machine-learning · Human Pick |
 | 👤 [**Mem0**](https://github.com/mem0ai/mem0) | Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions. | Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python · Worth Trying |
 
 📖 更多 89 个见[详细页面 →](domains/ai-ml.zh-CN.md)
@@ -148,8 +148,8 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 | 工具 | 作用 | 信号 |
 |---|---|---|
 | 👤 [**NativeScript**](https://github.com/nativescript/nativescript) | NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like... | Found in 2 active sources · Worth Trying |
-| [**RunAnywhere**](https://github.com/runanywhereai/runanywhere-sdks) | RunAnywhere is a production-ready SDK for running AI models (LLMs, speech-to-text, text-to-speech) on-device for... | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning · AI Candidate |
-| [**ZXing**](https://github.com/zxing/zxing) | An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other... | Found in 1 active source: akullpp/awesome-java · AI Candidate |
+| [**RunAnywhere**](https://github.com/runanywhereai/runanywhere-sdks) | RunAnywhere is a production-ready SDK for running AI models (LLMs, speech-to-text, text-to-speech) on-device for... | Found in 1 active source: EthicalML/awesome-production-machine-learning · AI Candidate |
+| [**ZXing**](https://github.com/zxing/zxing) | An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other... | Found in 2 active sources: akullpp/awesome-java, fffaraz/awesome-cpp · AI Candidate |
 
 📖 [完整领域页面 →](domains/mobile.zh-CN.md)
 
@@ -167,9 +167,9 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 
 | 工具 | 作用 | 信号 |
 |---|---|---|
-| 👤 [**themis**](https://github.com/cossacklabs/themis) | High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and... | Found in 4 active sources: sobolevn/awesome-cryptography, akullpp/awesome-java, rust-unofficial/awesome-rust +1 more · Human Pick |
+| 👤 [**themis**](https://github.com/cossacklabs/themis) | High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and... | Found in 4 active sources: akullpp/awesome-java, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +1 more · Human Pick |
 | 👤 [**Social Engineer Toolkit (SET)**](https://github.com/trustedsec/social-engineer-toolkit) | Open source pentesting framework designed for social engineering featuring a number of custom attack vectors to make... | Found in 2 active sources · Human Pick |
-| 👤 [**x64dbg**](https://x64dbg.com) | An open-source x64/x32 debugger for windows. | Found in 2 active sources · Human Pick |
+| 👤 [**x64dbg**](https://x64dbg.com) | An open-source x64/x32 debugger for windows. | Found in 1 active source: fffaraz/awesome-cpp · Human Pick |
 
 📖 更多 46 个见[详细页面 →](domains/security.zh-CN.md)
 
@@ -177,9 +177,9 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 
 | 工具 | 作用 | 信号 |
 |---|---|---|
-| 👤 [**Bencher**](https://bencher.dev) | Suite of continuous benchmarking tools designed to catch performance regressions in CI. MIT/Apache-2.0 Rust | Found in 1 active source: avelino/awesome-go · Human Pick |
-| 👤 [**SimpleBinaryEncoding**](https://github.com/real-logic/simple-binary-encoding) | encoding and decoding application messages in binary format for low-latency applications. [Apache2] | Found in 2 active sources · Human Pick |
-| 👤 [**uWebSockets**](https://github.com/unetworking/uwebsockets) | µWS is one of the most lightweight, efficient & scalable WebSocket & HTTP server implementations available. [Zlib] | Found in 2 active sources · Human Pick |
+| 👤 [**Bencher**](https://bencher.dev) | Suite of continuous benchmarking tools designed to catch performance regressions in CI. MIT/Apache-2.0 Rust | Found in 2 active sources: fffaraz/awesome-cpp, avelino/awesome-go · Human Pick |
+| 👤 [**SimpleBinaryEncoding**](https://github.com/real-logic/simple-binary-encoding) | encoding and decoding application messages in binary format for low-latency applications. [Apache2] | Found in 1 active source: fffaraz/awesome-cpp · Human Pick |
+| 👤 [**uWebSockets**](https://github.com/unetworking/uwebsockets) | µWS is one of the most lightweight, efficient & scalable WebSocket & HTTP server implementations available. [Zlib] | Found in 1 active source: fffaraz/awesome-cpp · Human Pick |
 
 📖 更多 6 个见[详细页面 →](domains/performance.zh-CN.md)
 
@@ -188,7 +188,7 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 | 工具 | 作用 | 信号 |
 |---|---|---|
 | 👤 [**Sniffnet**](https://github.com/gyulyvgc/sniffnet) | Cross-platform application to monitor your network traffic with ease | Found in 2 active sources: rust-unofficial/awesome-rust, jaywcjlove/awesome-mac · Human Pick |
-| 👤 [**Kaitai Struct**](https://kaitai.io) | File formats and network protocols dissection language and web IDE, generating parsers in C++, C#, Java, JavaScript,... | Found in 2 active sources · Human Pick |
+| 👤 [**Kaitai Struct**](https://kaitai.io) | File formats and network protocols dissection language and web IDE, generating parsers in C++, C#, Java, JavaScript,... | Found in 1 active source: fffaraz/awesome-cpp · Human Pick |
 | 👤 [**Cake**](https://github.com/cake-build/cake) | Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as... | Found in 3 active sources · Worth Trying |
 
 📖 更多 132 个见[详细页面 →](domains/tooling.zh-CN.md)

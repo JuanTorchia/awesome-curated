@@ -35,7 +35,7 @@ Automated candidates with enough source signal; these are not human endorsements
 
 ### [RunAnywhere](https://github.com/runanywhereai/runanywhere-sdks)
 
-![](https://img.shields.io/github/stars/runanywhereai/runanywhere-sdks?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/runanywhereai/runanywhere-sdks?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -49,7 +49,7 @@ RunAnywhere is a production-ready SDK for running AI models (LLMs, speech-to-tex
 
 ### [ZXing](https://github.com/zxing/zxing)
 
-![](https://img.shields.io/github/stars/zxing/zxing?style=flat-square&label=⭐) · Found in 1 active source: akullpp/awesome-java
+![](https://img.shields.io/github/stars/zxing/zxing?style=flat-square&label=⭐) · Found in 2 active sources: akullpp/awesome-java, fffaraz/awesome-cpp
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 

@@ -2,7 +2,7 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**7 Human-reviewed · 0 Popular standards · 42 AI candidates · 0 Needs review**
+**7 Human-reviewed · 0 Popular standards · 41 AI candidates · 1 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -14,7 +14,7 @@ Tools with a human review label and visible caveats.
 
 ### 👤 [themis](https://github.com/cossacklabs/themis)
 
-![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · Found in 4 active sources: sobolevn/awesome-cryptography, akullpp/awesome-java, rust-unofficial/awesome-rust +1 more
+![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · Found in 4 active sources: akullpp/awesome-java, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +1 more
 
 **Review label:** Human Pick · **Caveat:** Security-sensitive tool; evaluate fit and maintenance posture before production use.
 
@@ -42,7 +42,7 @@ Open source pentesting framework designed for social engineering featuring a num
 
 ### 👤 [x64dbg](https://x64dbg.com)
 
-Found in 2 active sources
+Found in 1 active source: fffaraz/awesome-cpp
 
 **Review label:** Human Pick · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -70,7 +70,7 @@ Secure remote access gateway that supports the WireGuard protocol. It offers a W
 
 ### 👤 [Ockam](https://github.com/ockam-network/ockam)
 
-![](https://img.shields.io/github/stars/ockam-network/ockam?style=flat-square&label=⭐) · Found in 1 active source: sobolevn/awesome-cryptography
+![](https://img.shields.io/github/stars/ockam-network/ockam?style=flat-square&label=⭐) · Found in 2 active sources
 
 **Review label:** Worth Trying · **Caveat:** Security-sensitive tool; evaluate fit and maintenance posture before production use.
 
@@ -84,7 +84,7 @@ End-to-end encryption and mutual authentication for distributed applications.
 
 ### 👤 [s2n](https://github.com/awslabs/s2n)
 
-![](https://img.shields.io/github/stars/awslabs/s2n?style=flat-square&label=⭐) · Found in 1 active source: sobolevn/awesome-cryptography
+![](https://img.shields.io/github/stars/awslabs/s2n?style=flat-square&label=⭐) · Found in 1 active source: fffaraz/awesome-cpp
 
 **Review label:** Worth Trying · **Caveat:** Security-sensitive tool; evaluate fit and maintenance posture before production use.
 
@@ -117,23 +117,9 @@ by Trail of Bits A very professional collection of over a dozen security-focused
 
 Automated candidates with enough source signal; these are not human endorsements yet.
 
-### [Agentic Radar](https://github.com/splx-ai/agentic-radar)
-
-![](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Open-source CLI security scanner for agentic workflows. Scans your workflow’s , detects vulnerabilities, and generates an interactive visualization along with a detailed security report. Supports LangGraph, CrewAI,...
-
-**Why this is here:** Output visualizable e insights accionables
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#agentic-radar-splx-ai-agentic-radar) · [data/latest.json](../data/latest.json)
-
----
-
 ### [Apache Shiro](https://shiro.apache.org)
 
-Found in 2 active sources: sobolevn/awesome-cryptography, akullpp/awesome-java
+Found in 1 active source: akullpp/awesome-java
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -147,7 +133,7 @@ Performs authentication, authorization, cryptography and session management.
 
 ### [Bouncy Castle](https://bouncycastle.org/java.html)
 
-Found in 2 active sources: sobolevn/awesome-cryptography, akullpp/awesome-java
+Found in 1 active source: akullpp/awesome-java
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -175,7 +161,7 @@ Web browser with an emphasis on privacy and speed. (https://github.com/brave/bra
 
 ### [briansmith/ring](https://github.com/briansmith/ring)
 
-![](https://img.shields.io/github/stars/briansmith/ring?style=flat-square&label=⭐) · Found in 2 active sources: sobolevn/awesome-cryptography, rust-unofficial/awesome-rust
+![](https://img.shields.io/github/stars/briansmith/ring?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -231,7 +217,7 @@ The GHDB is an index of search queries (we call them dorks) used to find publicl
 
 ### [hashes](https://github.com/rustcrypto/hashes)
 
-![](https://img.shields.io/github/stars/rustcrypto/hashes?style=flat-square&label=⭐) · Found in 2 active sources: sobolevn/awesome-cryptography, rust-unofficial/awesome-rust
+![](https://img.shields.io/github/stars/rustcrypto/hashes?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -273,7 +259,7 @@ The Invisible Internet Project.
 
 ### [Keybase](https://keybase.io)
 
-Found in 2 active sources: sobolevn/awesome-cryptography, jaywcjlove/awesome-mac
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -397,7 +383,42 @@ Maltego is an open source intelligence (OSINT) and graphical link analysis tool 
 
 ---
 
-_Showing 20 of 42. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+### [orion-rs/orion](https://github.com/orion-rs/orion)
+
+![](https://img.shields.io/github/stars/orion-rs/orion?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+This library aims to provide easy and usable crypto. 'Usable' meaning exposing high-level API's that are easy to use and hard to misuse.
+
+**Why this is here:** This library aims to provide easy and usable crypto. 'Usable' meaning exposing high-level API's that are easy to use and hard to misuse.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#orion-rs-orion-orion-rs-orion) · [data/latest.json](../data/latest.json)
+
+---
+
+_Showing 20 of 41. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+
+
+---
+
+## Needs review
+
+Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
+
+### [Agentic Radar](https://github.com/splx-ai/agentic-radar)
+
+![](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Open-source CLI security scanner for agentic workflows. Scans your workflow’s , detects vulnerabilities, and generates an interactive visualization along with a detailed security report. Supports LangGraph, CrewAI,...
+
+**Why this is here:** Output visualizable e insights accionables
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#agentic-radar-splx-ai-agentic-radar) · [data/latest.json](../data/latest.json)
+
+---
 
 
 ---

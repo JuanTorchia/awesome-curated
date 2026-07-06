@@ -2,7 +2,7 @@
 
 <p><sub>← [Back to main](../README.md)</sub></p>
 
-**10 Human-reviewed · 1 Popular standards · 124 AI candidates · 0 Needs review**
+**10 Human-reviewed · 1 Popular standards · 121 AI candidates · 3 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -28,7 +28,7 @@ Cross-platform application to monitor your network traffic with ease
 
 ### 👤 [Kaitai Struct](https://kaitai.io)
 
-Found in 2 active sources
+Found in 1 active source: fffaraz/awesome-cpp
 
 **Review label:** Human Pick · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -112,7 +112,7 @@ A new way to see and navigate directory trees (get an overview of a directory, e
 
 ### 👤 [Cppcheck](https://cppcheck.sourceforge.net)
 
-Found in 2 active sources
+Found in 1 active source: fffaraz/awesome-cpp
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -140,7 +140,7 @@ Extended itertools port for TypeScript and JavaScript. Provides a huge set of fu
 
 ### 👤 [Spack](https://spack.io)
 
-Found in 2 active sources
+Found in 1 active source: fffaraz/awesome-cpp
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -161,7 +161,7 @@ Useful standards included as reference, not necessarily emerging discoveries.
 
 ### [Pytorch](https://github.com/pytorch/pytorch)
 
-![](https://img.shields.io/github/stars/pytorch/pytorch?style=flat-square&label=⭐) · Found in 4 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning +1 more
+![](https://img.shields.io/github/stars/pytorch/pytorch?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, fffaraz/awesome-cpp, vinta/awesome-python
 
 **Review label:** Popular Standard · **Caveat:** Useful standard, but not a discovery or emerging pick.
 
@@ -182,7 +182,7 @@ Automated candidates with enough source signal; these are not human endorsements
 
 ### [Bokeh](https://github.com/bokeh/bokeh)
 
-![](https://img.shields.io/github/stars/bokeh/bokeh?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/bokeh/bokeh?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -224,7 +224,7 @@ Open source password management tool for Mac OS, iOS and browsers. (https://gith
 
 ### [Colossal-AI](https://github.com/hpcaitech/colossalai)
 
-![](https://img.shields.io/github/stars/hpcaitech/colossalai?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/hpcaitech/colossalai?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -238,7 +238,7 @@ A unified deep learning system for big model era, which helps users to efficient
 
 ### [Deepchecks](https://github.com/deepchecks/deepchecks)
 
-![](https://img.shields.io/github/stars/deepchecks/deepchecks?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/deepchecks/deepchecks?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -252,7 +252,7 @@ Deepchecks is a holistic open-source solution for all of your AI & ML validation
 
 ### [DVC](https://github.com/iterative/dvc)
 
-![](https://img.shields.io/github/stars/iterative/dvc?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/iterative/dvc?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -294,7 +294,7 @@ Production-Grade Container Scheduling and Management System
 
 ### [LightGBM](https://github.com/microsoft/lightgbm)
 
-![](https://img.shields.io/github/stars/microsoft/lightgbm?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/microsoft/lightgbm?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -364,7 +364,7 @@ Navigate through projects.json files efficiently with the OctoLinker browser ext
 
 ### [PyMC](https://github.com/pymc-devs/pymc)
 
-![](https://img.shields.io/github/stars/pymc-devs/pymc?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/pymc-devs/pymc?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -406,7 +406,7 @@ A cross-platform C# IDE based on the IntelliJ platform and ReSharper
 
 ### [SymPy](https://github.com/sympy/sympy)
 
-![](https://img.shields.io/github/stars/sympy/sympy?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/sympy/sympy?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -420,7 +420,7 @@ A Python library for symbolic mathematics.
 
 ### [Transformers](https://github.com/huggingface/transformers)
 
-![](https://img.shields.io/github/stars/huggingface/transformers?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/huggingface/transformers?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -460,7 +460,56 @@ The world’s foremost and widely-used network protocol analyzer. (https://githu
 
 ---
 
-_Showing 20 of 124. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+_Showing 20 of 121. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+
+
+---
+
+## Needs review
+
+Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
+
+### [CryptoSwift](https://github.com/krzyzanowskim/cryptoswift)
+
+![](https://img.shields.io/github/stars/krzyzanowskim/cryptoswift?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Crypto related functions and helpers for Swift implemented in Swift programming language.
+
+**Why this is here:** Pure Swift, portable entre plataformas
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#cryptoswift-krzyzanowskim-cryptoswift) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Retext](https://github.com/retextjs/retext)
+
+![](https://img.shields.io/github/stars/retextjs/retext?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Extensible system for analyzing and manipulating natural language.
+
+**Why this is here:** Arquitectura extensible con plugins, muy modular
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#retext-retextjs-retext) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Swift-Sodium](https://github.com/jedisct1/swift-sodium)
+
+![](https://img.shields.io/github/stars/jedisct1/swift-sodium?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Swift interface to the Sodium library for common crypto operations for iOS and macOS.
+
+**Why this is here:** Acceso a libsodium battle-tested; AEAD + key derivation
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#swift-sodium-jedisct1-swift-sodium) · [data/latest.json](../data/latest.json)
+
+---
 
 
 ---

@@ -63,7 +63,7 @@ Next-gen knowledge base that brings planning, sorting and creating all together.
 
 ### [AI Job Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker)
 
-![](https://img.shields.io/github/stars/noahaust2/ai-displacement-tracker?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience
+![](https://img.shields.io/github/stars/noahaust2/ai-displacement-tracker?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -245,7 +245,7 @@ A project aims to provide an alternative to µTorrent. (https://github.com/qbitt
 
 ### [QuantLib](https://github.com/lballabio/quantlib)
 
-![](https://img.shields.io/github/stars/lballabio/quantlib?style=flat-square&label=⭐) · Found in 1 active source: wilsonfreitas/awesome-quant
+![](https://img.shields.io/github/stars/lballabio/quantlib?style=flat-square&label=⭐) · Found in 2 active sources: wilsonfreitas/awesome-quant, fffaraz/awesome-cpp
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -315,7 +315,7 @@ Task manager with timeboxing and time tracking. (https://github.com/johannesjo/s
 
 ### [SVGo](https://github.com/ajstarks/svgo)
 
-![](https://img.shields.io/github/stars/ajstarks/svgo?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, avelino/awesome-go
+![](https://img.shields.io/github/stars/ajstarks/svgo?style=flat-square&label=⭐) · Found in 1 active source: avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
