@@ -1,198 +1,16 @@
 {
   "changes": [
     {
-      "changedAt": "2026-07-05",
-      "currentLabel": "Needs Review",
-      "name": "RLlib",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwkyeva06751p4t136b0a15",
-      "type": "label changed",
-      "url": "https://github.com/ray-project/ray"
-    },
-    {
-      "changedAt": "2026-07-05",
-      "currentLabel": "Needs Review",
-      "name": "Agentic Radar",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwkvhwc04wt1p4tfx2cavpe",
-      "type": "label changed",
-      "url": "https://github.com/splx-ai/agentic-radar"
-    },
-    {
-      "changedAt": "2026-07-05",
-      "currentLabel": "Needs Review",
-      "name": "C3.js",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwku7hy04by1p4tfyqzttyo",
-      "type": "label changed",
-      "url": "https://c3js.org"
-    },
-    {
-      "changedAt": "2026-07-05",
-      "currentLabel": "Needs Review",
-      "name": "Catalyst",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwkuuek04m81p4tdlm2nik4",
-      "type": "label changed",
-      "url": "https://github.com/catalyst-team/catalyst"
-    },
-    {
-      "changedAt": "2026-07-05",
-      "currentLabel": "Needs Review",
-      "name": "CodeFlash.AI",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwkv59p04r51p4ta72knzq1",
-      "type": "label changed",
-      "url": "https://codeflash.ai"
-    },
-    {
-      "changedAt": "2026-07-05",
-      "currentLabel": "Needs Review",
-      "name": "CryptoSwift",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "64454cb9-8be9-4607-b75c-aeaaa83ec905",
-      "type": "label changed",
-      "url": "https://github.com/krzyzanowskim/cryptoswift"
-    },
-    {
-      "changedAt": "2026-07-05",
-      "currentLabel": "Needs Review",
-      "name": "DataComPy",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwkuwl304n61p4tm4n23b1d",
-      "type": "label changed",
-      "url": "https://github.com/capitalone/datacompy"
-    },
-    {
-      "changedAt": "2026-07-05",
-      "currentLabel": "Needs Review",
-      "name": "GeneticSharp",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwkuhue04gl1p4tnrwg8ni6",
-      "type": "label changed",
-      "url": "https://github.com/giacomelli/geneticsharp"
-    },
-    {
-      "changedAt": "2026-07-05",
-      "currentLabel": "Needs Review",
-      "name": "ggplot2",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwkvcfn04ua1p4tt6hv8ym9",
-      "type": "label changed",
-      "url": "https://ggplot2.tidyverse.org"
-    },
-    {
-      "changedAt": "2026-07-05",
-      "currentLabel": "Needs Review",
-      "name": "Infer.NET",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwkuhyn04gm1p4thin1ujd2",
-      "type": "label changed",
-      "url": "https://dotnet.github.io/infer"
-    },
-    {
-      "changedAt": "2026-07-05",
-      "currentLabel": "Needs Review",
-      "name": "Jieba-PHP",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwkujew04ha1p4ts1iz0km7",
-      "type": "label changed",
-      "url": "https://github.com/fukuball/jieba-php"
-    },
-    {
-      "changedAt": "2026-07-05",
-      "currentLabel": "Needs Review",
-      "name": "mlxtend",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwkuspx04lh1p4ta5f582gx",
-      "type": "label changed",
-      "url": "https://github.com/rasbt/mlxtend"
-    },
-    {
-      "changedAt": "2026-07-05",
-      "currentLabel": "Needs Review",
-      "name": "Redash",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwlyxpu01lnvn4dd99tdeig",
-      "type": "label changed",
-      "url": "https://redash.io"
-    },
-    {
-      "changedAt": "2026-07-05",
-      "currentLabel": "Needs Review",
-      "name": "Retext",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwku74z04bt1p4tzcxrm5zh",
-      "type": "label changed",
-      "url": "https://github.com/retextjs/retext"
-    },
-    {
-      "changedAt": "2026-07-05",
-      "currentLabel": "Needs Review",
-      "name": "Scikit-Opt",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwkyntc06b81p4ty8mc1hdv",
-      "type": "label changed",
-      "url": "https://github.com/guofei9987/scikit-opt"
-    },
-    {
-      "changedAt": "2026-07-05",
-      "currentLabel": "Needs Review",
-      "name": "Swift-Sodium",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "81dbd4ff-51e2-41bc-a2dd-c65686e701c6",
-      "type": "label changed",
-      "url": "https://github.com/jedisct1/swift-sodium"
-    },
-    {
-      "changedAt": "2026-07-05",
-      "currentLabel": "Needs Review",
-      "name": "vizzu",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "8e3c8c28-1075-4311-81b1-5de9bc0c456c",
-      "type": "label changed",
-      "url": "https://github.com/vizzuhq/vizzu-lib"
-    },
-    {
-      "changedAt": "2026-07-05",
-      "currentLabel": "Needs Review",
-      "name": "xLearn",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwkyiia068s1p4tj0bfzcho",
-      "type": "label changed",
-      "url": "https://github.com/aksnzhy/xlearn"
-    },
-    {
-      "changedAt": "2026-07-05",
-      "currentLabel": "Needs Review",
-      "name": "YOLOv8",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwktu5g045y1p4tjm834m9d",
-      "type": "label changed",
-      "url": "https://github.com/ultralytics/ultralytics"
+      "changedAt": "2026-07-06",
+      "name": "Public recommendation set",
+      "reason": "No material public change detected.",
+      "toolId": "snapshot",
+      "type": "unchanged",
+      "url": "data/latest.json"
     }
   ],
-  "commitSha": "d671f1abb730",
-  "generatedAt": "2026-07-05T10:00:25.950Z",
+  "commitSha": "eeeecd93b4da",
+  "generatedAt": "2026-07-06T10:01:21.354Z",
   "recommendations": [
     {
       "caveat": "Best fit for teams with a matching ML or data workflow.",
@@ -18447,7 +18265,7 @@
     "sources": 20
   },
   "validation": {
-    "checkedAt": "2026-07-05T10:00:25.950Z",
+    "checkedAt": "2026-07-06T10:01:21.354Z",
     "status": "pass",
     "warnings": []
   }
