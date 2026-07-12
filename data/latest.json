@@ -1,7 +1,7 @@
 {
   "changes": [
     {
-      "changedAt": "2026-07-10",
+      "changedAt": "2026-07-11",
       "name": "Public recommendation set",
       "reason": "No material public change detected.",
       "toolId": "snapshot",
@@ -9,8 +9,8 @@
       "url": "data/latest.json"
     }
   ],
-  "commitSha": "ab2cf5ff9a32",
-  "generatedAt": "2026-07-10T10:02:09.103Z",
+  "commitSha": "787ceac2f834",
+  "generatedAt": "2026-07-11T10:00:13.450Z",
   "recommendations": [
     {
       "caveat": "Best fit for teams with a matching ML or data workflow.",
@@ -281,7 +281,7 @@
       "review": {
         "caveat": "Worth a focused trial before adopting broadly.",
         "notes": "docs The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.",
-        "reviewedAt": "2026-06-23",
+        "reviewedAt": "2026-07-11",
         "reviewedBy": "Juan",
         "status": "Human Pick"
       },
@@ -18265,7 +18265,7 @@
     "sources": 20
   },
   "validation": {
-    "checkedAt": "2026-07-10T10:02:09.103Z",
+    "checkedAt": "2026-07-11T10:00:13.450Z",
     "status": "pass",
     "warnings": []
   }
