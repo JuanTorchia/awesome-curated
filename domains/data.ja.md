@@ -2,7 +2,7 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**3 Human-reviewed · 0 Popular standards · 60 AI candidates · 5 Needs review**
+**3 Human-reviewed · 0 Popular standards · 63 AI candidates · 2 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -63,7 +63,7 @@ Automated candidates with enough source signal; these are not human endorsements
 
 ### [gradio](https://github.com/gradio-app/gradio)
 
-![](https://img.shields.io/github/stars/gradio-app/gradio?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/gradio-app/gradio?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -77,7 +77,7 @@ Quickly create and share demos of models by only writing Python. Debug models in
 
 ### [matplotlib](https://github.com/matplotlib/matplotlib)
 
-![](https://img.shields.io/github/stars/matplotlib/matplotlib?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/matplotlib/matplotlib?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -91,7 +91,7 @@ A Python 2D plotting library which produces publication-quality figures in a var
 
 ### [Streamlit](https://github.com/streamlit/streamlit)
 
-![](https://img.shields.io/github/stars/streamlit/streamlit?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/streamlit/streamlit?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -161,7 +161,7 @@ A faster, better and more stable redis desktop manager [GUI client], compatible 
 
 ### [Apache Airflow](https://github.com/apache/airflow)
 
-![](https://img.shields.io/github/stars/apache/airflow?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/apache/airflow?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -170,34 +170,6 @@ Data Pipeline framework built in Python, including scheduler, DAG definition and
 **Why this is here:** Data Pipeline framework built in Python, including scheduler, DAG definition and a UI for visualisation.
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#apache-airflow-apache-airflow) · [data/latest.json](../data/latest.json)
-
----
-
-### [Apache ECharts](https://github.com/apache/echarts)
-
-![](https://img.shields.io/github/stars/apache/echarts?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Apache ECharts is a powerful, interactive charting and data visualization library for browser.
-
-**Why this is here:** Rendering performante incluso con datasets grandes
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#apache-echarts-apache-echarts) · [data/latest.json](../data/latest.json)
-
----
-
-### [Apache Ignite](https://github.com/apache/ignite)
-
-![](https://img.shields.io/github/stars/apache/ignite?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-A memory-centric distributed database, caching, and processing platform for transactional, analytical, and streaming workloads delivering in-memory speeds at petabyte scale Demo.
-
-**Why this is here:** SQL + compute colocado reducen network roundtrips
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#apache-ignite-apache-ignite) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -217,7 +189,7 @@ Enterprise search platform featuring full-text search, hit highlighting, faceted
 
 ### [Bread Dataset Viewer](https://github.com/bread-technologies/mle_vscode_extension)
 
-![](https://img.shields.io/github/stars/bread-technologies/mle_vscode_extension?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
+![](https://img.shields.io/github/stars/bread-technologies/mle_vscode_extension?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -226,6 +198,20 @@ A VS Code extension for viewing and exploring large machine learning datasets (C
 **Why this is here:** A VS Code extension for viewing and exploring large machine learning datasets (CSV, JSON, Parquet, etc.) directly within the editor without VS...
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#bread-dataset-viewer-bread-technologies-mle-vscode-extension) · [data/latest.json](../data/latest.json)
+
+---
+
+### [C3.js](https://c3js.org)
+
+Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+customizable library based on D3.js for easy chart drawing.
+
+**Why this is here:** Comunidad activa, muchos ejemplos
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#c3-js-c3js) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -245,7 +231,7 @@ a javascript library that allows you to create charts easly
 
 ### [cleanlab](https://github.com/cleanlab/cleanlab)
 
-![](https://img.shields.io/github/stars/cleanlab/cleanlab?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
+![](https://img.shields.io/github/stars/cleanlab/cleanlab?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -273,7 +259,7 @@ Utilities for converting to and working with CSV.
 
 ### [CuML](https://github.com/rapidsai/cuml)
 
-![](https://img.shields.io/github/stars/rapidsai/cuml?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
+![](https://img.shields.io/github/stars/rapidsai/cuml?style=flat-square&label=⭐) · Found in 1 active source: academic/awesome-datascience
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -287,7 +273,7 @@ cuML is a suite of libraries that implement machine learning algorithms and math
 
 ### [Dagster](https://github.com/dagster-io/dagster)
 
-![](https://img.shields.io/github/stars/dagster-io/dagster?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/dagster-io/dagster?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -315,7 +301,7 @@ Query and update data structures using selectors from the command line. Comparab
 
 ### [Dask](https://github.com/dask/dask)
 
-![](https://img.shields.io/github/stars/dask/dask?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/dask/dask?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -327,9 +313,23 @@ Distributed parallel processing framework for Pandas and NumPy computations.
 
 ---
 
+### [DataComPy](https://github.com/capitalone/datacompy)
+
+![](https://img.shields.io/github/stars/capitalone/datacompy?style=flat-square&label=⭐) · Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+A library to compare Pandas, Polars, and Spark data frames. It provides stats and lets users adjust for match accuracy.
+
+**Why this is here:** A library to compare Pandas, Polars, and Spark data frames. It provides stats and lets users adjust for match accuracy.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#datacompy-capitalone-datacompy) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [DataFrames](https://github.com/juliadata/dataframes.jl)
 
-![](https://img.shields.io/github/stars/juliadata/dataframes.jl?style=flat-square&label=⭐) · Found in 1 active source: wilsonfreitas/awesome-quant
+![](https://img.shields.io/github/stars/juliadata/dataframes.jl?style=flat-square&label=⭐) · Found in 2 active sources: wilsonfreitas/awesome-quant, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -341,7 +341,7 @@ library for working with tabular data in Julia.
 
 ---
 
-_Showing 20 of 60. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+_Showing 20 of 63. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---
@@ -350,73 +350,31 @@ _Showing 20 of 60. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.js
 
 Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
 
-### [C3.js](https://c3js.org)
+### [Apache ECharts](https://github.com/apache/echarts)
 
-Found in 2 active sources
+![](https://img.shields.io/github/stars/apache/echarts?style=flat-square&label=⭐) · Found in 2 active sources
 
 **Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
-customizable library based on D3.js for easy chart drawing.
+Apache ECharts is a powerful, interactive charting and data visualization library for browser.
 
-**Why this is here:** Comunidad activa, muchos ejemplos
+**Why this is here:** Rendering performante incluso con datasets grandes
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#c3-js-c3js) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#apache-echarts-apache-echarts) · [data/latest.json](../data/latest.json)
 
 ---
 
-### [DataComPy](https://github.com/capitalone/datacompy)
+### [Apache Ignite](https://github.com/apache/ignite)
 
-![](https://img.shields.io/github/stars/capitalone/datacompy?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-A library to compare Pandas, Polars, and Spark data frames. It provides stats and lets users adjust for match accuracy.
-
-**Why this is here:** A library to compare Pandas, Polars, and Spark data frames. It provides stats and lets users adjust for match accuracy.
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#datacompy-capitalone-datacompy) · [data/latest.json](../data/latest.json)
-
----
-
-### [ggplot2](https://ggplot2.tidyverse.org)
-
-Found in 2 active sources
+![](https://img.shields.io/github/stars/apache/ignite?style=flat-square&label=⭐) · Found in 2 active sources
 
 **Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
-A data visualization package based on the grammar of graphics.
+A memory-centric distributed database, caching, and processing platform for transactional, analytical, and streaming workloads delivering in-memory speeds at petabyte scale Demo.
 
-**Why this is here:** Sintaxis declarativa intuitiva, output publication-ready
+**Why this is here:** SQL + compute colocado reducen network roundtrips
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#ggplot2-ggplot2) · [data/latest.json](../data/latest.json)
-
----
-
-### [Redash](https://redash.io)
-
-Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Connect and query your data sources, build dashboards to visualize data and share them with your company. BSD-2-Clause Docker
-
-**Why this is here:** Deploy muy liviano, bajo memory footprint
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#redash-redash) · [data/latest.json](../data/latest.json)
-
----
-
-### [vizzu](https://github.com/vizzuhq/vizzu-lib)
-
-![](https://img.shields.io/github/stars/vizzuhq/vizzu-lib?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Library for animated data visualizations and data stories.
-
-**Why this is here:** API pensada para narrativa (data stories)
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#vizzu-vizzuhq-vizzu-lib) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#apache-ignite-apache-ignite) · [data/latest.json](../data/latest.json)
 
 ---
 

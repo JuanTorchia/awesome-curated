@@ -2,7 +2,7 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**7 Human-reviewed · 0 Popular standards · 41 AI candidates · 1 Needs review**
+**7 Human-reviewed · 0 Popular standards · 42 AI candidates · 0 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -116,6 +116,20 @@ by Trail of Bits A very professional collection of over a dozen security-focused
 ## AI candidates
 
 Automated candidates with enough source signal; these are not human endorsements yet.
+
+### [Agentic Radar](https://github.com/splx-ai/agentic-radar)
+
+![](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Open-source CLI security scanner for agentic workflows. Scans your workflow’s , detects vulnerabilities, and generates an interactive visualization along with a detailed security report. Supports LangGraph, CrewAI,...
+
+**Why this is here:** Output visualizable e insights accionables
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#agentic-radar-splx-ai-agentic-radar) · [data/latest.json](../data/latest.json)
+
+---
 
 ### [Apache Shiro](https://shiro.apache.org)
 
@@ -383,42 +397,7 @@ Maltego is an open source intelligence (OSINT) and graphical link analysis tool 
 
 ---
 
-### [orion-rs/orion](https://github.com/orion-rs/orion)
-
-![](https://img.shields.io/github/stars/orion-rs/orion?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-This library aims to provide easy and usable crypto. 'Usable' meaning exposing high-level API's that are easy to use and hard to misuse.
-
-**Why this is here:** This library aims to provide easy and usable crypto. 'Usable' meaning exposing high-level API's that are easy to use and hard to misuse.
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#orion-rs-orion-orion-rs-orion) · [data/latest.json](../data/latest.json)
-
----
-
-_Showing 20 of 41. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
-
-
----
-
-## Needs review
-
-Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
-
-### [Agentic Radar](https://github.com/splx-ai/agentic-radar)
-
-![](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Open-source CLI security scanner for agentic workflows. Scans your workflow’s , detects vulnerabilities, and generates an interactive visualization along with a detailed security report. Supports LangGraph, CrewAI,...
-
-**Why this is here:** Output visualizable e insights accionables
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#agentic-radar-splx-ai-agentic-radar) · [data/latest.json](../data/latest.json)
-
----
+_Showing 20 of 42. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

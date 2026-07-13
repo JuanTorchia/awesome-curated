@@ -2,7 +2,7 @@
 
 <p><sub>← [Volver al main](../README.es.md)</sub></p>
 
-**9 Human-reviewed · 0 Popular standards · 75 AI candidates · 8 Needs review**
+**9 Human-reviewed · 0 Popular standards · 81 AI candidates · 2 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -14,7 +14,7 @@ Tools with a human review label and visible caveats.
 
 ### 👤 [BayesWitnesses/m2cgen](https://github.com/bayeswitnesses/m2cgen)
 
-![](https://img.shields.io/github/stars/bayeswitnesses/m2cgen?style=flat-square&label=⭐) · Found in 4 active sources: akullpp/awesome-java, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +1 more
+![](https://img.shields.io/github/stars/bayeswitnesses/m2cgen?style=flat-square&label=⭐) · 🔥 **Found in 5 active sources: akullpp/awesome-java, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +2 more**
 
 **Review label:** Human Pick · **Caveat:** Best fit for teams with a matching ML or data workflow.
 
@@ -28,7 +28,7 @@ A CLI tool to transpile trained classic machine learning models into a native Ru
 
 ### 👤 [Netron](https://github.com/lutzroeder/netron)
 
-![](https://img.shields.io/github/stars/lutzroeder/netron?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
+![](https://img.shields.io/github/stars/lutzroeder/netron?style=flat-square&label=⭐) · Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning
 
 **Review label:** Human Pick · **Caveat:** Best fit for teams with a matching ML or data workflow.
 
@@ -42,7 +42,7 @@ Netron is a viewer for neural network, deep learning and machine learning models
 
 ### 👤 [Mem0](https://github.com/mem0ai/mem0)
 
-![](https://img.shields.io/github/stars/mem0ai/mem0?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/mem0ai/mem0?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
 
 **Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -70,7 +70,7 @@ A TUI/CLI for managing multiple AI coding agent sessions with tmux, git worktree
 
 ### 👤 [Aim](https://github.com/aimhubio/aim)
 
-![](https://img.shields.io/github/stars/aimhubio/aim?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
+![](https://img.shields.io/github/stars/aimhubio/aim?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -84,7 +84,7 @@ A super-easy way to record, search and compare AI experiments.
 
 ### 👤 [candle](https://github.com/huggingface/candle)
 
-![](https://img.shields.io/github/stars/huggingface/candle?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
+![](https://img.shields.io/github/stars/huggingface/candle?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, josephmisiti/awesome-machine-learning
 
 **Review label:** Worth Trying · **Caveat:** Best fit for teams with a matching ML or data workflow.
 
@@ -98,7 +98,7 @@ Candle is a minimalist ML framework for Rust with a focus on performance (includ
 
 ### 👤 [Chroma](https://github.com/chroma-core/chroma)
 
-![](https://img.shields.io/github/stars/chroma-core/chroma?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/chroma-core/chroma?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -147,7 +147,7 @@ Automated candidates with enough source signal; these are not human endorsements
 
 ### [XGBoost](https://github.com/dmlc/xgboost)
 
-![](https://img.shields.io/github/stars/dmlc/xgboost?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, fffaraz/awesome-cpp, vinta/awesome-python
+![](https://img.shields.io/github/stars/dmlc/xgboost?style=flat-square&label=⭐) · Found in 4 active sources: academic/awesome-datascience, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -161,7 +161,7 @@ XGBoost is an optimized distributed gradient boosting library designed to be hig
 
 ### [CatBoost](https://github.com/catboost/catboost)
 
-![](https://img.shields.io/github/stars/catboost/catboost?style=flat-square&label=⭐) · Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python
+![](https://img.shields.io/github/stars/catboost/catboost?style=flat-square&label=⭐) · Found in 4 active sources: academic/awesome-datascience, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -175,7 +175,7 @@ General purpose gradient boosting on decision trees library with categorical fea
 
 ### [Apache Spark](https://github.com/apache/spark)
 
-![](https://img.shields.io/github/stars/apache/spark?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
+![](https://img.shields.io/github/stars/apache/spark?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -189,7 +189,7 @@ Micro-batch processing for streams using the apache spark framework as a backend
 
 ### [Feature Engine](https://github.com/feature-engine/feature_engine)
 
-![](https://img.shields.io/github/stars/feature-engine/feature_engine?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/feature-engine/feature_engine?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -203,7 +203,7 @@ Feature-engine is a Python library that contains several transformers to enginee
 
 ### [H2O-3](https://github.com/h2oai/h2o-3)
 
-![](https://img.shields.io/github/stars/h2oai/h2o-3?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/h2oai/h2o-3?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -215,9 +215,23 @@ Fast scalable Machine Learning platform for smarter applications: Deep Learning,
 
 ---
 
+### [RLlib](https://github.com/ray-project/ray)
+
+![](https://img.shields.io/github/stars/ray-project/ray?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+RLlib is an industry level, highly scalable RL library for tf and torch, based on Ray. It's used by companies like Amazon and Microsoft to solve real-world decision making problems at scale.
+
+**Why this is here:** RL framework distributed basado en Ray. Para empresas que necesitan scale: Amazon/Microsoft lo usan. Resuelve: entrenar agentes complejos en...
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#rllib-ray-project-ray) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [Scikit-Image](https://github.com/scikit-image/scikit-image)
 
-![](https://img.shields.io/github/stars/scikit-image/scikit-image?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
+![](https://img.shields.io/github/stars/scikit-image/scikit-image?style=flat-square&label=⭐) · Found in 3 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -231,7 +245,7 @@ A collection of algorithms for image processing in Python.
 
 ### [SpaCy](https://github.com/explosion/spacy)
 
-![](https://img.shields.io/github/stars/explosion/spacy?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/explosion/spacy?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -245,7 +259,7 @@ spaCy is a library for advanced Natural Language Processing in Python and Cython
 
 ### [Stable Baselines](https://github.com/dlr-rm/stable-baselines3)
 
-![](https://img.shields.io/github/stars/dlr-rm/stable-baselines3?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/dlr-rm/stable-baselines3?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -254,20 +268,6 @@ A fork of OpenAI Baselines, implementations of reinforcement learning algorithms
 **Why this is here:** APIs consistentes y bien testeadas
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#stable-baselines-dlr-rm-stable-baselines3) · [data/latest.json](../data/latest.json)
-
----
-
-### [Vercel AI](https://github.com/vercel/ai)
-
-![](https://img.shields.io/github/stars/vercel/ai?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Vercel AI is a TypeScript toolkit designed to help you build AI-powered applications using popular frameworks like Next.js, React, Svelte, Vue and runtimes like Node.js.
-
-**Why this is here:** Vercel AI is a TypeScript toolkit designed to help you build AI-powered applications using popular frameworks like Next.js, React, Svelte, Vue and...
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#vercel-ai-vercel-ai) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -315,7 +315,7 @@ SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-51
 
 ### [Bread WandB Viewer](https://github.com/bread-technologies/bread_wandb_viewer_extension)
 
-![](https://img.shields.io/github/stars/bread-technologies/bread_wandb_viewer_extension?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
+![](https://img.shields.io/github/stars/bread-technologies/bread_wandb_viewer_extension?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -329,7 +329,7 @@ A VS Code extension to view Weights & Biases experiments, logs, and artifacts wi
 
 ### [burn](https://github.com/tracel-ai/burn)
 
-![](https://img.shields.io/github/stars/tracel-ai/burn?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
+![](https://img.shields.io/github/stars/tracel-ai/burn?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -341,9 +341,23 @@ Burn is a new comprehensive dynamic Deep Learning Framework built using Rust wit
 
 ---
 
+### [Catalyst](https://github.com/catalyst-team/catalyst)
+
+![](https://img.shields.io/github/stars/catalyst-team/catalyst?style=flat-square&label=⭐) · Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+High-level utils for PyTorch DL & RL research. It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing. Being able to research/develop something new, rather than write another...
+
+**Why this is here:** Callbacks y logging robustos para experimentos
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#catalyst-catalyst-team-catalyst) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [ClearML](https://github.com/clearml/clearml)
 
-![](https://img.shields.io/github/stars/clearml/clearml?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
+![](https://img.shields.io/github/stars/clearml/clearml?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -357,7 +371,7 @@ Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data M
 
 ### [CloudForest](https://github.com/ryanbressler/cloudforest)
 
-![](https://img.shields.io/github/stars/ryanbressler/cloudforest?style=flat-square&label=⭐) · Found in 1 active source: avelino/awesome-go
+![](https://img.shields.io/github/stars/ryanbressler/cloudforest?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -371,7 +385,7 @@ Fast, flexible, multi-threaded ensembles of decision trees for machine learning 
 
 ### [CoreNLP](https://nlp.stanford.edu/software/corenlp.shtml)
 
-Found in 1 active source: akullpp/awesome-java
+Found in 2 active sources: akullpp/awesome-java, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -411,21 +425,7 @@ An IDE with chat, edit, generate and debug features. Forked from VSCodium, so th
 
 ---
 
-### [DEAP](https://github.com/deap/deap)
-
-![](https://img.shields.io/github/stars/deap/deap?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-A novel evolutionary computation framework for rapid prototyping and testing of ideas. It seeks to make algorithms explicit and data structures transparent. It works in perfect harmony with parallelisation mechanisms...
-
-**Why this is here:** A novel evolutionary computation framework for rapid prototyping and testing of ideas. It seeks to make algorithms explicit and data structures...
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#deap-deap-deap) · [data/latest.json](../data/latest.json)
-
----
-
-_Showing 20 of 75. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+_Showing 20 of 81. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---
@@ -434,115 +434,31 @@ _Showing 20 of 75. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.js
 
 Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
 
-### [RLlib](https://github.com/ray-project/ray)
+### [Vercel AI](https://github.com/vercel/ai)
 
-![](https://img.shields.io/github/stars/ray-project/ray?style=flat-square&label=⭐) · Found in 3 active sources
+![](https://img.shields.io/github/stars/vercel/ai?style=flat-square&label=⭐) · Found in 3 active sources
 
 **Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
-RLlib is an industry level, highly scalable RL library for tf and torch, based on Ray. It's used by companies like Amazon and Microsoft to solve real-world decision making problems at scale.
+Vercel AI is a TypeScript toolkit designed to help you build AI-powered applications using popular frameworks like Next.js, React, Svelte, Vue and runtimes like Node.js.
 
-**Why this is here:** RL framework distributed basado en Ray. Para empresas que necesitan scale: Amazon/Microsoft lo usan. Resuelve: entrenar agentes complejos en...
+**Why this is here:** Vercel AI is a TypeScript toolkit designed to help you build AI-powered applications using popular frameworks like Next.js, React, Svelte, Vue and...
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#rllib-ray-project-ray) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#vercel-ai-vercel-ai) · [data/latest.json](../data/latest.json)
 
 ---
 
-### [Catalyst](https://github.com/catalyst-team/catalyst)
+### [LlamaIndex](https://github.com/run-llama/llama_index)
 
-![](https://img.shields.io/github/stars/catalyst-team/catalyst?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-High-level utils for PyTorch DL & RL research. It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing. Being able to research/develop something new, rather than write another...
-
-**Why this is here:** Callbacks y logging robustos para experimentos
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#catalyst-catalyst-team-catalyst) · [data/latest.json](../data/latest.json)
-
----
-
-### [Infer.NET](https://dotnet.github.io/infer)
-
-Found in 2 active sources
+![](https://img.shields.io/github/stars/run-llama/llama_index?style=flat-square&label=⭐) · Found in 2 active sources
 
 **Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
-Infer.NET is a framework for running Bayesian inference in graphical models. One can use Infer.NET to solve many different kinds of machine learning problems, from standard problems like classification,...
+LlamaIndex (GPT Index) is a data framework for your LLM application.
 
-**Why this is here:** Framework Bayesian especializado con APIs claras
+**Why this is here:** Abstracciones de retrieval robustas (query engines)
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#infer-net-dotnet) · [data/latest.json](../data/latest.json)
-
----
-
-### [Jieba-PHP](https://github.com/fukuball/jieba-php)
-
-![](https://img.shields.io/github/stars/fukuball/jieba-php?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-A PHP port of Python's jieba. Chinese text segmentation for natural language processing.
-
-**Why this is here:** A PHP port of Python's jieba. Chinese text segmentation for natural language processing.
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#jieba-php-fukuball-jieba-php) · [data/latest.json](../data/latest.json)
-
----
-
-### [mlxtend](https://github.com/rasbt/mlxtend)
-
-![](https://img.shields.io/github/stars/rasbt/mlxtend?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-A library consisting of useful tools for data science and machine learning tasks.
-
-**Why this is here:** A library consisting of useful tools for data science and machine learning tasks.
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#mlxtend-rasbt-mlxtend) · [data/latest.json](../data/latest.json)
-
----
-
-### [Scikit-Opt](https://github.com/guofei9987/scikit-opt)
-
-![](https://img.shields.io/github/stars/guofei9987/scikit-opt?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Swarm Intelligence in Python (Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Algorithm, Immune Algorithm, Artificial Fish Swarm Algorithm in Python)
-
-**Why this is here:** API consistente entre implementaciones
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#scikit-opt-guofei9987-scikit-opt) · [data/latest.json](../data/latest.json)
-
----
-
-### [xLearn](https://github.com/aksnzhy/xlearn)
-
-![](https://img.shields.io/github/stars/aksnzhy/xlearn?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-A high performance, easy-to-use, and scalable machine learning package, which can be used to solve large-scale machine learning problems. xLearn is especially useful for solving machine learning problems on...
-
-**Why this is here:** A high performance, easy-to-use, and scalable machine learning package, which can be used to solve large-scale machine learning problems. xLearn...
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#xlearn-aksnzhy-xlearn) · [data/latest.json](../data/latest.json)
-
----
-
-### [YOLOv8](https://github.com/ultralytics/ultralytics)
-
-![](https://img.shields.io/github/stars/ultralytics/ultralytics?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Ultralytics' YOLOv8 implementation with C++ support for real-time object detection and tracking, optimized for edge devices.
-
-**Why this is here:** Accuracy/speed tradeoff superior a competencia, muy usado en industry
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#yolov8-ultralytics-ultralytics) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#llamaindex-run-llama-llama-index) · [data/latest.json](../data/latest.json)
 
 ---
 

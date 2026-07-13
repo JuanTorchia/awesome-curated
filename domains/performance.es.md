@@ -2,7 +2,7 @@
 
 <p><sub>← [Volver al main](../README.es.md)</sub></p>
 
-**4 Human-reviewed · 0 Popular standards · 3 AI candidates · 2 Needs review**
+**4 Human-reviewed · 0 Popular standards · 5 AI candidates · 0 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -75,6 +75,20 @@ Extremely fast non-cryptographic hash algorithm. [BSD-2-Clause]
 
 Automated candidates with enough source signal; these are not human endorsements yet.
 
+### [CodeFlash.AI](https://codeflash.ai)
+
+Found in 1 active source: josephmisiti/awesome-machine-learning
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+CodeFlash.AI – Ship Blazing-Fast Python Code, Every Time.
+
+**Why this is here:** CodeFlash.AI – Ship Blazing-Fast Python Code, Every Time.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#codeflash-ai-codeflash) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [Cython](https://github.com/cython/cython)
 
 ![](https://img.shields.io/github/stars/cython/cython?style=flat-square&label=⭐) · Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python
@@ -86,6 +100,20 @@ Cython is an optimising static compiler for both the Python programming language
 **Why this is here:** Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It...
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#cython-cython-cython) · [data/latest.json](../data/latest.json)
+
+---
+
+### [GeneticSharp](https://github.com/giacomelli/geneticsharp)
+
+![](https://img.shields.io/github/stars/giacomelli/geneticsharp?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Multi-platform genetic algorithm library for .NET Core and .NET Framework. The library has several implementations of GA operators, like: selection, crossover, mutation, reinsertion and termination.
+
+**Why this is here:** Variedad de operadores GA preimplementados
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#geneticsharp-giacomelli-geneticsharp) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -105,7 +133,7 @@ Run load tests for your web application, with an API for automation.
 
 ### [Numba](https://github.com/numba/numba)
 
-![](https://img.shields.io/github/stars/numba/numba?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/numba/numba?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -114,41 +142,6 @@ A compiler for Python array and numerical functions.
 **Why this is here:** A compiler for Python array and numerical functions.
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#numba-numba-numba) · [data/latest.json](../data/latest.json)
-
----
-
-
----
-
-## Needs review
-
-Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
-
-### [CodeFlash.AI](https://codeflash.ai)
-
-Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-CodeFlash.AI – Ship Blazing-Fast Python Code, Every Time.
-
-**Why this is here:** CodeFlash.AI – Ship Blazing-Fast Python Code, Every Time.
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#codeflash-ai-codeflash) · [data/latest.json](../data/latest.json)
-
----
-
-### [GeneticSharp](https://github.com/giacomelli/geneticsharp)
-
-![](https://img.shields.io/github/stars/giacomelli/geneticsharp?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Multi-platform genetic algorithm library for .NET Core and .NET Framework. The library has several implementations of GA operators, like: selection, crossover, mutation, reinsertion and termination.
-
-**Why this is here:** Variedad de operadores GA preimplementados
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#geneticsharp-giacomelli-geneticsharp) · [data/latest.json](../data/latest.json)
 
 ---
 

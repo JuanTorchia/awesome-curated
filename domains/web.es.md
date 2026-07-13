@@ -203,7 +203,7 @@ Automated candidates with enough source signal; these are not human endorsements
 
 ### [D3js](https://d3js.org)
 
-Found in 1 active source: jivoi/awesome-osint
+Found in 2 active sources: jivoi/awesome-osint, academic/awesome-datascience
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -231,7 +231,7 @@ Remote Procedure Calls (RPCs) provide a useful abstraction for building distribu
 
 ### [juspay/neurolink](https://github.com/juspay/neurolink)
 
-![](https://img.shields.io/github/stars/juspay/neurolink?style=flat-square&label=⭐) · Found in 1 active source: punkpeye/awesome-mcp-servers
+![](https://img.shields.io/github/stars/juspay/neurolink?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, punkpeye/awesome-mcp-servers
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 

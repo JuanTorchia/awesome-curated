@@ -2,7 +2,7 @@
 
 <p><sub>← [Volver al main](../README.es.md)</sub></p>
 
-**2 Human-reviewed · 0 Popular standards · 24 AI candidates · 0 Needs review**
+**2 Human-reviewed · 0 Popular standards · 23 AI candidates · 1 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -63,7 +63,7 @@ Next-gen knowledge base that brings planning, sorting and creating all together.
 
 ### [AI Job Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker)
 
-![](https://img.shields.io/github/stars/noahaust2/ai-displacement-tracker?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
+![](https://img.shields.io/github/stars/noahaust2/ai-displacement-tracker?style=flat-square&label=⭐) · Found in 1 active source: academic/awesome-datascience
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -257,20 +257,6 @@ The QuantLib project is aimed at providing a comprehensive software framework fo
 
 ---
 
-### [Redis](https://github.com/redis/redis)
-
-![](https://img.shields.io/github/stars/redis/redis?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Redis is an open-source, in-memory data store that supports vector similarity search, making it suitable for AI/ML applications such as semantic search and recommendation systems.
-
-**Why this is here:** Vector search integrado sin plugins externos, maduro y escalable
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#redis-redis-redis) · [data/latest.json](../data/latest.json)
-
----
-
 ### [Reeder 5](https://reederapp.com)
 
 Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac
@@ -315,7 +301,7 @@ Task manager with timeboxing and time tracking. (https://github.com/johannesjo/s
 
 ### [SVGo](https://github.com/ajstarks/svgo)
 
-![](https://img.shields.io/github/stars/ajstarks/svgo?style=flat-square&label=⭐) · Found in 1 active source: avelino/awesome-go
+![](https://img.shields.io/github/stars/ajstarks/svgo?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -327,7 +313,42 @@ The Go Language library for SVG generation.
 
 ---
 
-_Showing 20 of 24. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+### [Syncthing](https://syncthing.net)
+
+Found in 1 active source: avelino/awesome-go
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Syncthing is an open source peer-to-peer file synchronisation tool. MPL-2.0 Go/Docker/deb
+
+**Why this is here:** Verdaderamente descentralizado, no depende cloud
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#syncthing-syncthing) · [data/latest.json](../data/latest.json)
+
+---
+
+_Showing 20 of 23. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+
+
+---
+
+## Needs review
+
+Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
+
+### [Redis](https://github.com/redis/redis)
+
+![](https://img.shields.io/github/stars/redis/redis?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Redis is an open-source, in-memory data store that supports vector similarity search, making it suitable for AI/ML applications such as semantic search and recommendation systems.
+
+**Why this is here:** Vector search integrado sin plugins externos, maduro y escalable
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#redis-redis-redis) · [data/latest.json](../data/latest.json)
+
+---
 
 
 ---
