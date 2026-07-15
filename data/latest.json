@@ -1,7 +1,7 @@
 {
   "changes": [
     {
-      "changedAt": "2026-07-13",
+      "changedAt": "2026-07-14",
       "name": "Public recommendation set",
       "reason": "No material public change detected.",
       "toolId": "snapshot",
@@ -9,8 +9,8 @@
       "url": "data/latest.json"
     }
   ],
-  "commitSha": "23aa5b912cba",
-  "generatedAt": "2026-07-13T10:02:56.096Z",
+  "commitSha": "7bf6470f82c1",
+  "generatedAt": "2026-07-14T10:04:52.985Z",
   "recommendations": [
     {
       "caveat": "Best fit for teams with a matching ML or data workflow.",
@@ -2622,7 +2622,7 @@
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
         "notes": "Production-Grade Container Scheduling and Management System",
-        "reviewedAt": "2026-04-13",
+        "reviewedAt": "2026-07-14",
         "status": "AI Candidate"
       },
       "slug": "kubernetes-kubernetes",
@@ -18595,7 +18595,7 @@
     "sources": 20
   },
   "validation": {
-    "checkedAt": "2026-07-13T10:02:56.096Z",
+    "checkedAt": "2026-07-14T10:04:52.985Z",
     "status": "pass",
     "warnings": []
   }
