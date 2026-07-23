@@ -2,8 +2,8 @@
 
 ## Latest Sync
 
-- Date: 2026-07-21
-- Previous public commit: 61b7b51f72f5
+- Date: 2026-07-22
+- Previous public commit: f6da892083d9
 - Evidence: [data/latest.json](data/latest.json)
 
 ## Current Snapshot
@@ -15,7 +15,7 @@
 - Active Sources: 20
 - Public Recommendations: 498
 - Graveyard tools: 0
-- Open issues: 4
+- Open issues: 5
 
 ## Recent Changes
 
