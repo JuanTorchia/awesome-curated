@@ -2,7 +2,7 @@
 
 This is the human-readable evidence catalog for the current public snapshot. It mirrors [data/latest.json](data/latest.json), but keeps each visible recommendation inspectable without reading JSON.
 
-Generated: 2026-07-22 · Public recommendations: 498 · Validation: pass
+Generated: 2026-07-23 · Public recommendations: 498 · Validation: pass
 
 ## Review Shortlist
 
@@ -3296,20 +3296,19 @@ These are strong automated candidates worth human review next. They are not endo
 - [akullpp/awesome-java](https://github.com/akullpp/awesome-java) · ROSTER · quality 95 · observed 2026-07-13
 
 ---
-### <a id="pandas-pandas"></a>[pandas](https://pandas.pydata.org)
+### <a id="pandas-pandas-dev-pandas"></a>[pandas](https://github.com/pandas-dev/pandas)
 
-**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 2 active sources: wilsonfreitas/awesome-quant, josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 1 active source: vinta/awesome-python
 
-**Summary:** Python pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language. GitHub
+**Summary:** Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 
-**Why it is here:** API intuitiva, comunidad gigante
+**Why it is here:** Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects,...
 
 **Caveat:** Candidate still needs human review before endorsement.
 
 **Source traces:**
 
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-07-13
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · ROSTER · quality 88 · observed 2026-07-13
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-13
 
 ---
 ### <a id="pathwaycom-pathway-pathwaycom-pathway"></a>[pathwaycom/pathway](https://github.com/pathwaycom/pathway)

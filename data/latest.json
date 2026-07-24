@@ -1,16 +1,26 @@
 {
   "changes": [
     {
-      "changedAt": "2026-07-22",
-      "name": "Public recommendation set",
-      "reason": "No material public change detected.",
-      "toolId": "snapshot",
-      "type": "unchanged",
-      "url": "data/latest.json"
+      "changedAt": "2026-07-23",
+      "currentLabel": "AI Candidate",
+      "name": "pandas",
+      "reason": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects,...",
+      "toolId": "cmnwknkai01d01p4tiaff2tii",
+      "type": "newly reviewed",
+      "url": "https://github.com/pandas-dev/pandas"
+    },
+    {
+      "changedAt": "2026-07-23",
+      "name": "pandas",
+      "previousLabel": "AI Candidate",
+      "reason": "No longer present in the current public recommendation set.",
+      "toolId": "cmnwkyr3706cm1p4t03nb04ny",
+      "type": "removed",
+      "url": "https://pandas.pydata.org"
     }
   ],
-  "commitSha": "f6da892083d9",
-  "generatedAt": "2026-07-22T10:03:27.430Z",
+  "commitSha": "6eda44294a13",
+  "generatedAt": "2026-07-23T10:00:51.475Z",
   "recommendations": [
     {
       "caveat": "Best fit for teams with a matching ML or data workflow.",
@@ -11973,46 +11983,36 @@
     {
       "caveat": "Candidate still needs human review before endorsement.",
       "domain": "data",
-      "id": "cmnwkyr3706cm1p4t03nb04ny",
+      "id": "cmnwknkai01d01p4tiaff2tii",
       "label": "AI Candidate",
       "maintenance": {
         "archived": false,
         "graveyarded": false
       },
       "name": "pandas",
-      "rationale": "API intuitiva, comunidad gigante",
+      "rationale": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects,...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "API intuitiva, comunidad gigante",
-        "reviewedAt": "2026-06-23",
+        "notes": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects,...",
+        "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
-      "slug": "pandas",
-      "sourceSignal": "Found in 2 active sources: wilsonfreitas/awesome-quant, josephmisiti/awesome-machine-learning",
+      "slug": "pandas-dev-pandas",
+      "sourceSignal": "Found in 1 active source: vinta/awesome-python",
       "sourceTraces": [
         {
-          "itemCategory": "Numerical Libraries & Data Structures",
+          "itemCategory": "Projects",
           "itemName": "pandas",
           "observedAt": "2026-07-13",
-          "sourceQuality": 100,
-          "sourceRepo": "wilsonfreitas/awesome-quant",
+          "sourceQuality": 92,
+          "sourceRepo": "vinta/awesome-python",
           "sourceStatus": "ROSTER",
-          "sourceTitle": "awesome-quant",
-          "sourceUrl": "https://github.com/wilsonfreitas/awesome-quant"
-        },
-        {
-          "itemCategory": "Python",
-          "itemName": "Pandas",
-          "observedAt": "2026-07-13",
-          "sourceQuality": 88,
-          "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
-          "sourceTitle": "awesome-machine-learning",
-          "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
+          "sourceTitle": "awesome-python",
+          "sourceUrl": "https://github.com/vinta/awesome-python"
         }
       ],
-      "summary": "Python pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language. GitHub",
-      "url": "https://pandas.pydata.org"
+      "summary": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+      "url": "https://github.com/pandas-dev/pandas"
     },
     {
       "caveat": "Candidate still needs human review before endorsement.",
@@ -18595,7 +18595,7 @@
     "sources": 20
   },
   "validation": {
-    "checkedAt": "2026-07-22T10:03:27.430Z",
+    "checkedAt": "2026-07-23T10:00:51.475Z",
     "status": "pass",
     "warnings": []
   }
