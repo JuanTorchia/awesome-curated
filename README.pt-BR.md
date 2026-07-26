@@ -8,7 +8,7 @@ Ler em outros idiomas: [🇬🇧 English](README.md) · [🇪🇸 Español](READ
 
 [![Human Picks](https://img.shields.io/badge/Human_Picks-17-gold?style=for-the-badge)](#)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](#)
-[![Updated](https://img.shields.io/badge/Updated-2026-07-24-green?style=for-the-badge)](#)
+[![Updated](https://img.shields.io/badge/Updated-2026-07-25-green?style=for-the-badge)](#)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -22,7 +22,7 @@ Dê star se você quer uma shortlist recorrente e com pouco ruído de ferramenta
 
 ### Snapshot de confiança
 
-- **Última atualização gerada**: 2026-07-24
+- **Última atualização gerada**: 2026-07-25
 - **fontes ativas**: 20
 - **ferramentas revisadas por humano**: 17
 - **Metodologia**: [METHODOLOGY.md](METHODOLOGY.md)
