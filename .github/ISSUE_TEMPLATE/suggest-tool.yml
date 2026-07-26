@@ -3,6 +3,25 @@ description: Recommend a developer tool that should be tracked by Awesome Curate
 title: "Tool suggestion: <name>"
 labels: [tool-suggestion]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        **Read this first — it changes what is useful to send.**
+
+        Tools are never added directly, not by issue and not by pull request.
+        They are discovered by scraping the `awesome-*` lists this project
+        tracks, deduplicated, then triaged and human-reviewed. The public
+        "Found in N active sources" signal is the whole point, so an entry with
+        no upstream trace has nothing to show.
+
+        The fastest path for a tool is usually **getting it listed in a source
+        already tracked here**, not opening this issue. Once it lands upstream,
+        the radar picks it up on the next weekly run.
+
+        A suggestion is still useful — it can surface a gap in source coverage.
+        If the tool is yours, please say so. And if you know a good `awesome-*`
+        list that is missing, nominating it as a source helps this project more
+        than any single tool.
   - type: input
     id: tool-url
     attributes:

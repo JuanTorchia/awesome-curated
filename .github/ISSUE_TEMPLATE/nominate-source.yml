@@ -1,0 +1,48 @@
+name: Nominate a source list
+description: Suggest an awesome-* list that Awesome Curated should track as a source.
+title: "Source nomination: <owner/repo>"
+labels: [source-nomination]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Source coverage is the real bottleneck of this project. The radar can only
+        see tools that appear in the `awesome-*` lists it tracks, so nominating a
+        good list helps more than suggesting any single tool.
+
+        Sources are judged on freshness, activity, depth and community health.
+        A list with thousands of stars but no commits in two years will be
+        declined: stale sources quietly poison the low-noise promise.
+  - type: input
+    id: list-url
+    attributes:
+      label: List URL
+      description: The canonical GitHub repo of the awesome list.
+      placeholder: https://github.com/owner/awesome-something
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: What does it cover?
+      description: The domain or niche, and why it is not already covered by the tracked sources.
+    validations:
+      required: true
+  - type: textarea
+    id: maintenance
+    attributes:
+      label: Maintenance evidence
+      description: |
+        Date of the last commit, release cadence, how PRs are reviewed, and whether
+        it has an active maintainer. Be honest about weak points.
+    validations:
+      required: true
+  - type: checkboxes
+    id: disclosure
+    attributes:
+      label: Disclosure
+      options:
+        - label: I maintain or contribute to this list, or have a tool listed in it.
+          required: false
+    validations:
+      required: false
