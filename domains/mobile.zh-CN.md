@@ -14,7 +14,7 @@ Tools with a human review label and visible caveats.
 
 ### 👤 [NativeScript](https://github.com/nativescript/nativescript)
 
-![](https://img.shields.io/github/stars/nativescript/nativescript?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/nativescript/nativescript?style=flat-square&label=⭐) · Found in 1 active source: MunGell/awesome-for-beginners
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -49,7 +49,7 @@ RunAnywhere is a production-ready SDK for running AI models (LLMs, speech-to-tex
 
 ### [ZXing](https://github.com/zxing/zxing)
 
-![](https://img.shields.io/github/stars/zxing/zxing?style=flat-square&label=⭐) · Found in 2 active sources: akullpp/awesome-java, fffaraz/awesome-cpp
+![](https://img.shields.io/github/stars/zxing/zxing?style=flat-square&label=⭐) · Found in 1 active source: fffaraz/awesome-cpp
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 

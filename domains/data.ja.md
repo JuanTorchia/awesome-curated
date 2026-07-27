@@ -2,7 +2,7 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**3 Human-reviewed · 0 Popular standards · 63 AI candidates · 2 Needs review**
+**3 Human-reviewed · 0 Popular standards · 60 AI candidates · 5 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -42,7 +42,7 @@ Collaborative project to create a free editable map of the world. (, Clients) GP
 
 ### 👤 [pouchdb](https://github.com/pouchdb/pouchdb)
 
-![](https://img.shields.io/github/stars/pouchdb/pouchdb?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/pouchdb/pouchdb?style=flat-square&label=⭐) · Found in 1 active source: MunGell/awesome-for-beginners
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -77,7 +77,7 @@ Quickly create and share demos of models by only writing Python. Debug models in
 
 ### [matplotlib](https://github.com/matplotlib/matplotlib)
 
-![](https://img.shields.io/github/stars/matplotlib/matplotlib?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
+![](https://img.shields.io/github/stars/matplotlib/matplotlib?style=flat-square&label=⭐) · Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -100,20 +100,6 @@ Streamlit lets you create apps for your machine learning projects with deceptive
 **Why this is here:** Deployable en minutos, zero JavaScript requerido
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#streamlit-streamlit-streamlit) · [data/latest.json](../data/latest.json)
-
----
-
-### [ActiveMQ](https://activemq.apache.org)
-
-Found in 1 active source: akullpp/awesome-java
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Java message broker. Apache-2.0 Java
-
-**Why this is here:** Clustering y persistencia robusto
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#activemq-activemq) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -170,20 +156,6 @@ Data Pipeline framework built in Python, including scheduler, DAG definition and
 **Why this is here:** Data Pipeline framework built in Python, including scheduler, DAG definition and a UI for visualisation.
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#apache-airflow-apache-airflow) · [data/latest.json](../data/latest.json)
-
----
-
-### [Apache Solr](https://lucene.apache.org/solr)
-
-Found in 1 active source: akullpp/awesome-java
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Enterprise search platform featuring full-text search, hit highlighting, faceted search, real-time indexing, dynamic clustering, and rich document (e.g., Word, PDF) handling. Apache-2.0 Java/Docker/K8S
-
-**Why this is here:** Texto rico (PDF, Word) indexado nativamente
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#apache-solr-lucene) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -341,7 +313,35 @@ library for working with tabular data in Julia.
 
 ---
 
-_Showing 20 of 63. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+### [DataGrip](https://jetbrains.com/datagrip)
+
+Found in 1 active source: jaywcjlove/awesome-mac
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+DataGrip is a cross-platform IDE that is aimed at DBAs and developers working with SQL databases. It has built-in drivers that support DB2, Derby, H2, HSQLDB, MySQL, Oracle, PostgreSQL, SQL Server, Sqlite and Sybase.
+
+**Why this is here:** Autocomplete contextual y refactoring SQL sin rival
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#datagrip-jetbrains-12) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Deepnote](https://github.com/deepnote/deepnote)
+
+![](https://img.shields.io/github/stars/deepnote/deepnote?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for...
+
+**Why this is here:** Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL...
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#deepnote-deepnote-deepnote) · [data/latest.json](../data/latest.json)
+
+---
+
+_Showing 20 of 60. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---
@@ -349,6 +349,20 @@ _Showing 20 of 63. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.js
 ## Needs review
 
 Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
+
+### [ActiveMQ](https://activemq.apache.org)
+
+Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Java message broker. Apache-2.0 Java
+
+**Why this is here:** Clustering y persistencia robusto
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#activemq-activemq) · [data/latest.json](../data/latest.json)
+
+---
 
 ### [Apache ECharts](https://github.com/apache/echarts)
 
@@ -375,6 +389,34 @@ A memory-centric distributed database, caching, and processing platform for tran
 **Why this is here:** SQL + compute colocado reducen network roundtrips
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#apache-ignite-apache-ignite) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Apache Solr](https://lucene.apache.org/solr)
+
+Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Enterprise search platform featuring full-text search, hit highlighting, faceted search, real-time indexing, dynamic clustering, and rich document (e.g., Word, PDF) handling. Apache-2.0 Java/Docker/K8S
+
+**Why this is here:** Texto rico (PDF, Word) indexado nativamente
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#apache-solr-lucene) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Druid](https://druid.apache.org)
+
+Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Distributed, column-oriented, real-time analytics data store. Apache-2.0 Java/Docker
+
+**Why this is here:** Sql-like query layer, operacional probado
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#druid-druid) · [data/latest.json](../data/latest.json)
 
 ---
 

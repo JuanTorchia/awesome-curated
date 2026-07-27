@@ -2,7 +2,7 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**7 Human-reviewed · 0 Popular standards · 42 AI candidates · 0 Needs review**
+**7 Human-reviewed · 0 Popular standards · 39 AI candidates · 3 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -14,7 +14,7 @@ Tools with a human review label and visible caveats.
 
 ### 👤 [themis](https://github.com/cossacklabs/themis)
 
-![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · Found in 4 active sources: akullpp/awesome-java, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +1 more
+![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · Found in 3 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go
 
 **Review label:** Human Pick · **Caveat:** Security-sensitive tool; evaluate fit and maintenance posture before production use.
 
@@ -28,7 +28,7 @@ High level crypto library for storing data (AES), secure messaging (ECC + ECDSA 
 
 ### 👤 [Social Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit)
 
-![](https://img.shields.io/github/stars/trustedsec/social-engineer-toolkit?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/trustedsec/social-engineer-toolkit?style=flat-square&label=⭐) · Found in 1 active source: enaqx/awesome-pentest
 
 **Review label:** Human Pick · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -42,7 +42,7 @@ Open source pentesting framework designed for social engineering featuring a num
 
 ### 👤 [x64dbg](https://x64dbg.com)
 
-Found in 1 active source: fffaraz/awesome-cpp
+Found in 2 active sources: enaqx/awesome-pentest, fffaraz/awesome-cpp
 
 **Review label:** Human Pick · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -70,7 +70,7 @@ Secure remote access gateway that supports the WireGuard protocol. It offers a W
 
 ### 👤 [Ockam](https://github.com/ockam-network/ockam)
 
-![](https://img.shields.io/github/stars/ockam-network/ockam?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/ockam-network/ockam?style=flat-square&label=⭐) · Found in 1 active source: MunGell/awesome-for-beginners
 
 **Review label:** Worth Trying · **Caveat:** Security-sensitive tool; evaluate fit and maintenance posture before production use.
 
@@ -119,7 +119,7 @@ Automated candidates with enough source signal; these are not human endorsements
 
 ### [Agentic Radar](https://github.com/splx-ai/agentic-radar)
 
-![](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=flat-square&label=⭐) · Found in 2 active sources: enaqx/awesome-pentest, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -128,34 +128,6 @@ Open-source CLI security scanner for agentic workflows. Scans your workflow’s 
 **Why this is here:** Output visualizable e insights accionables
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#agentic-radar-splx-ai-agentic-radar) · [data/latest.json](../data/latest.json)
-
----
-
-### [Apache Shiro](https://shiro.apache.org)
-
-Found in 1 active source: akullpp/awesome-java
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Performs authentication, authorization, cryptography and session management.
-
-**Why this is here:** Feature-complete, soporta realm-based auth
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#apache-shiro-shiro) · [data/latest.json](../data/latest.json)
-
----
-
-### [Bouncy Castle](https://bouncycastle.org/java.html)
-
-Found in 1 active source: akullpp/awesome-java
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-All-purpose cryptographic library and JCA provider offering a wide range of functions, from basic helpers to PGP/SMIME operations.
-
-**Why this is here:** All-purpose cryptographic library and JCA provider offering a wide range of functions, from basic helpers to PGP/SMIME operations.
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#bouncy-castle-bouncycastle) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -189,7 +161,7 @@ Safe, fast, small crypto using Rust and BoringSSL's cryptography primitives.
 
 ### [Cryptomator](https://cryptomator.org)
 
-Found in 2 active sources: akullpp/awesome-java, jaywcjlove/awesome-mac
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -217,7 +189,7 @@ Create, share communicate. Chat and call securely.
 
 ### [Google Hacking Database (GHDB)](https://exploit-db.com/google-hacking-database)
 
-Found in 1 active source: jivoi/awesome-osint
+Found in 2 active sources: jivoi/awesome-osint, enaqx/awesome-pentest
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -245,7 +217,7 @@ Collection of cryptographic hash functions written in pure Rust.
 
 ### [Hunter.io](https://hunter.io)
 
-Found in 1 active source: jivoi/awesome-osint
+Found in 2 active sources: jivoi/awesome-osint, enaqx/awesome-pentest
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -259,7 +231,7 @@ Data broker providing a Web search interface for discovering the email addresses
 
 ### [I2P](https://geti2p.net)
 
-Found in 1 active source: jivoi/awesome-osint
+Found in 2 active sources: jivoi/awesome-osint, enaqx/awesome-pentest
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -285,23 +257,9 @@ Secure groups, files, and chat for everyone! (https://github.com/keybase)
 
 ---
 
-### [KeyCloak](https://keycloak.org)
-
-Found in 1 active source: akullpp/awesome-java
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Open Source Identity and Access Management. Apache-2.0 Java
-
-**Why this is here:** Cluster-ready y escalable horizontalmente
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#keycloak-keycloak) · [data/latest.json](../data/latest.json)
-
----
-
 ### [kpcyrd/authoscope](https://github.com/kpcyrd/authoscope)
 
-![](https://img.shields.io/github/stars/kpcyrd/authoscope?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
+![](https://img.shields.io/github/stars/kpcyrd/authoscope?style=flat-square&label=⭐) · Found in 2 active sources: enaqx/awesome-pentest, rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -315,7 +273,7 @@ A scriptable network authentication cracker
 
 ### [kpcyrd/sniffglue](https://github.com/kpcyrd/sniffglue)
 
-![](https://img.shields.io/github/stars/kpcyrd/sniffglue?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
+![](https://img.shields.io/github/stars/kpcyrd/sniffglue?style=flat-square&label=⭐) · Found in 2 active sources: enaqx/awesome-pentest, rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -343,7 +301,7 @@ A fork of Firefox, focused on privacy, security and freedom. (https://gitlab.com
 
 ### [Lynis](https://cisofy.com/lynis)
 
-Found in 1 active source: veggiemonk/awesome-docker
+Found in 2 active sources: enaqx/awesome-pentest, veggiemonk/awesome-docker
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -357,7 +315,7 @@ Auditing tool for UNIX-based systems.
 
 ### [Maltego](https://maltego.com)
 
-Found in 1 active source: jivoi/awesome-osint
+Found in 2 active sources: jivoi/awesome-osint, enaqx/awesome-pentest
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -397,7 +355,98 @@ Maltego is an open source intelligence (OSINT) and graphical link analysis tool 
 
 ---
 
-_Showing 20 of 42. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+### [orion-rs/orion](https://github.com/orion-rs/orion)
+
+![](https://img.shields.io/github/stars/orion-rs/orion?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+This library aims to provide easy and usable crypto. 'Usable' meaning exposing high-level API's that are easy to use and hard to misuse.
+
+**Why this is here:** This library aims to provide easy and usable crypto. 'Usable' meaning exposing high-level API's that are easy to use and hard to misuse.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#orion-rs-orion-orion-rs-orion) · [data/latest.json](../data/latest.json)
+
+---
+
+### [paaster](https://paaster.io)
+
+Found in 1 active source: jivoi/awesome-osint
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Paaster is a secure and user-friendly pastebin application that prioritizes privacy and simplicity. With end-to-end encryption and paste history, Paaster ensures that your pasted code remains confidential and accessible.
+
+**Why this is here:** Pastebin con cifrado end-to-end y historial. Resuelve problema real (privacidad en compartir snippets). Alternativa directa a servicios...
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#paaster-paaster) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Promptfoo](https://github.com/promptfoo/promptfoo)
+
+![](https://img.shields.io/github/stars/promptfoo/promptfoo?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+LLM red teaming and evaluation framework for testing jailbreaks, prompt injection, and other vulnerabilities with CI/CD integration.
+
+**Why this is here:** CI/CD integration out-of-box
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#promptfoo-promptfoo-promptfoo) · [data/latest.json](../data/latest.json)
+
+---
+
+_Showing 20 of 39. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+
+
+---
+
+## Needs review
+
+Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
+
+### [Apache Shiro](https://shiro.apache.org)
+
+Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Performs authentication, authorization, cryptography and session management.
+
+**Why this is here:** Feature-complete, soporta realm-based auth
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#apache-shiro-shiro) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Bouncy Castle](https://bouncycastle.org/java.html)
+
+Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+All-purpose cryptographic library and JCA provider offering a wide range of functions, from basic helpers to PGP/SMIME operations.
+
+**Why this is here:** All-purpose cryptographic library and JCA provider offering a wide range of functions, from basic helpers to PGP/SMIME operations.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#bouncy-castle-bouncycastle) · [data/latest.json](../data/latest.json)
+
+---
+
+### [KeyCloak](https://keycloak.org)
+
+Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Open Source Identity and Access Management. Apache-2.0 Java
+
+**Why this is here:** Cluster-ready y escalable horizontalmente
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#keycloak-keycloak) · [data/latest.json](../data/latest.json)
+
+---
 
 
 ---

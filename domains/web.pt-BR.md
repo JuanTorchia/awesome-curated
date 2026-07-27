@@ -56,7 +56,7 @@ Real-time web log analyzer and interactive viewer that runs in a terminal or thr
 
 ### 👤 [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)
 
-![](https://img.shields.io/github/stars/hasura/graphql-engine?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/hasura/graphql-engine?style=flat-square&label=⭐) · Found in 1 active source: MunGell/awesome-for-beginners
 
 **Review label:** Human Pick · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -98,7 +98,7 @@ A lightweight Javascript library to easily create highly configurable and intera
 
 ### 👤 [Ghost](https://github.com/tryghost/ghost)
 
-![](https://img.shields.io/github/stars/tryghost/ghost?style=flat-square&label=⭐) · Found in 3 active sources
+![](https://img.shields.io/github/stars/tryghost/ghost?style=flat-square&label=⭐) · Found in 1 active source: MunGell/awesome-for-beginners
 
 **Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -126,7 +126,7 @@ Material design event calendar and date picker components. Demo site: https://sc
 
 ### 👤 [Vest](https://github.com/ealush/vest)
 
-![](https://img.shields.io/github/stars/ealush/vest?style=flat-square&label=⭐) · Found in 1 active source: vuejs/awesome-vue
+![](https://img.shields.io/github/stars/ealush/vest?style=flat-square&label=⭐) · Found in 2 active sources: vuejs/awesome-vue, MunGell/awesome-for-beginners
 
 **Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -140,7 +140,7 @@ Validations framework inspired by unit testing frameworks.
 
 ### 👤 [webdriver.io](https://github.com/webdriverio/webdriverio)
 
-![](https://img.shields.io/github/stars/webdriverio/webdriverio?style=flat-square&label=⭐) · Found in 3 active sources
+![](https://img.shields.io/github/stars/webdriverio/webdriverio?style=flat-square&label=⭐) · Found in 1 active source: MunGell/awesome-for-beginners
 
 **Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -168,7 +168,7 @@ High performance, extensible, and Typescript friendly
 
 ### 👤 [grommet](https://github.com/grommet/grommet)
 
-![](https://img.shields.io/github/stars/grommet/grommet?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/grommet/grommet?style=flat-square&label=⭐) · Found in 1 active source: MunGell/awesome-for-beginners
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -273,7 +273,7 @@ A toolchain for web projects, aimed to provide functionalities to maintain them.
 
 ### [Certificate Ripper](https://github.com/hakky54/certificate-ripper)
 
-![](https://img.shields.io/github/stars/hakky54/certificate-ripper?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, akullpp/awesome-java
+![](https://img.shields.io/github/stars/hakky54/certificate-ripper?style=flat-square&label=⭐) · Found in 1 active source: agarrharr/awesome-cli-apps
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -301,7 +301,7 @@ Clean project logo. Useful badges and links (languages switcher, code style, tes
 
 ### [hyperium/hyper](https://github.com/hyperium/hyper)
 
-![](https://img.shields.io/github/stars/hyperium/hyper?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
+![](https://img.shields.io/github/stars/hyperium/hyper?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, MunGell/awesome-for-beginners
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -329,7 +329,7 @@ A Python agent framework for building generative AI applications with structured
 
 ### [Python Babel](https://github.com/python-babel/babel)
 
-![](https://img.shields.io/github/stars/python-babel/babel?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
+![](https://img.shields.io/github/stars/python-babel/babel?style=flat-square&label=⭐) · Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -343,7 +343,7 @@ The Python Internationalization Library.
 
 ### [scrapy](https://github.com/scrapy/scrapy)
 
-![](https://img.shields.io/github/stars/scrapy/scrapy?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
+![](https://img.shields.io/github/stars/scrapy/scrapy?style=flat-square&label=⭐) · Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 

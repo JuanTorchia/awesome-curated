@@ -14,7 +14,7 @@ Tools with a human review label and visible caveats.
 
 ### 👤 [BayesWitnesses/m2cgen](https://github.com/bayeswitnesses/m2cgen)
 
-![](https://img.shields.io/github/stars/bayeswitnesses/m2cgen?style=flat-square&label=⭐) · 🔥 **Found in 5 active sources: akullpp/awesome-java, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +2 more**
+![](https://img.shields.io/github/stars/bayeswitnesses/m2cgen?style=flat-square&label=⭐) · Found in 4 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more
 
 **Review label:** Human Pick · **Caveat:** Best fit for teams with a matching ML or data workflow.
 
@@ -42,7 +42,7 @@ Netron is a viewer for neural network, deep learning and machine learning models
 
 ### 👤 [Mem0](https://github.com/mem0ai/mem0)
 
-![](https://img.shields.io/github/stars/mem0ai/mem0?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
+![](https://img.shields.io/github/stars/mem0ai/mem0?style=flat-square&label=⭐) · Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
 
 **Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -385,7 +385,7 @@ Fast, flexible, multi-threaded ensembles of decision trees for machine learning 
 
 ### [CoreNLP](https://nlp.stanford.edu/software/corenlp.shtml)
 
-Found in 2 active sources: akullpp/awesome-java, josephmisiti/awesome-machine-learning
+Found in 1 active source: josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 

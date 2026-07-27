@@ -2,7 +2,7 @@
 
 <p><sub>← [Back to main](../README.md)</sub></p>
 
-**10 Human-reviewed · 1 Popular standards · 119 AI candidates · 5 Needs review**
+**10 Human-reviewed · 1 Popular standards · 116 AI candidates · 8 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -14,7 +14,7 @@ Tools with a human review label and visible caveats.
 
 ### 👤 [Sniffnet](https://github.com/gyulyvgc/sniffnet)
 
-![](https://img.shields.io/github/stars/gyulyvgc/sniffnet?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, jaywcjlove/awesome-mac
+![](https://img.shields.io/github/stars/gyulyvgc/sniffnet?style=flat-square&label=⭐) · Found in 3 active sources: rust-unofficial/awesome-rust, jaywcjlove/awesome-mac, MunGell/awesome-for-beginners
 
 **Review label:** Human Pick · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -28,7 +28,7 @@ Cross-platform application to monitor your network traffic with ease
 
 ### 👤 [Kaitai Struct](https://kaitai.io)
 
-Found in 1 active source: fffaraz/awesome-cpp
+Found in 2 active sources: enaqx/awesome-pentest, fffaraz/awesome-cpp
 
 **Review label:** Human Pick · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -42,7 +42,7 @@ File formats and network protocols dissection language and web IDE, generating p
 
 ### 👤 [Cake](https://github.com/cake-build/cake)
 
-![](https://img.shields.io/github/stars/cake-build/cake?style=flat-square&label=⭐) · Found in 3 active sources
+![](https://img.shields.io/github/stars/cake-build/cake?style=flat-square&label=⭐) · Found in 1 active source: MunGell/awesome-for-beginners
 
 **Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -112,7 +112,7 @@ A new way to see and navigate directory trees (get an overview of a directory, e
 
 ### 👤 [Cppcheck](https://cppcheck.sourceforge.net)
 
-Found in 1 active source: fffaraz/awesome-cpp
+Found in 2 active sources: enaqx/awesome-pentest, fffaraz/awesome-cpp
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -126,7 +126,7 @@ A tool for static C/C++ code analysis. source
 
 ### 👤 [IterTools TS](https://github.com/smoren/itertools-ts)
 
-![](https://img.shields.io/github/stars/smoren/itertools-ts?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/smoren/itertools-ts?style=flat-square&label=⭐) · Found in 1 active source: MunGell/awesome-for-beginners
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -161,7 +161,7 @@ Useful standards included as reference, not necessarily emerging discoveries.
 
 ### [Pytorch](https://github.com/pytorch/pytorch)
 
-![](https://img.shields.io/github/stars/pytorch/pytorch?style=flat-square&label=⭐) · Found in 4 active sources: academic/awesome-datascience, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more
+![](https://img.shields.io/github/stars/pytorch/pytorch?style=flat-square&label=⭐) · 🔥 **Found in 5 active sources: academic/awesome-datascience, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +2 more**
 
 **Review label:** Popular Standard · **Caveat:** Useful standard, but not a discovery or emerging pick.
 
@@ -182,7 +182,7 @@ Automated candidates with enough source signal; these are not human endorsements
 
 ### [Bokeh](https://github.com/bokeh/bokeh)
 
-![](https://img.shields.io/github/stars/bokeh/bokeh?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/bokeh/bokeh?style=flat-square&label=⭐) · Found in 3 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python, MunGell/awesome-for-beginners
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -224,7 +224,7 @@ Open source password management tool for Mac OS, iOS and browsers. (https://gith
 
 ### [Colossal-AI](https://github.com/hpcaitech/colossalai)
 
-![](https://img.shields.io/github/stars/hpcaitech/colossalai?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/hpcaitech/colossalai?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, MunGell/awesome-for-beginners
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -266,7 +266,7 @@ Data Science Version Control is an open-source version control system for machin
 
 ### [Jupyter Notebooks](https://github.com/jupyter/notebook)
 
-![](https://img.shields.io/github/stars/jupyter/notebook?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
+![](https://img.shields.io/github/stars/jupyter/notebook?style=flat-square&label=⭐) · Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -280,7 +280,7 @@ Web interface python sandbox environments for reproducible development
 
 ### [Kubernetes](https://github.com/kubernetes/kubernetes)
 
-![](https://img.shields.io/github/stars/kubernetes/kubernetes?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go
+![](https://img.shields.io/github/stars/kubernetes/kubernetes?style=flat-square&label=⭐) · Found in 3 active sources: veggiemonk/awesome-docker, avelino/awesome-go, MunGell/awesome-for-beginners
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -322,7 +322,7 @@ Tool and API to sync Docker images across different registries.
 
 ### [mitmproxy](https://mitmproxy.org)
 
-Found in 1 active source: jaywcjlove/awesome-mac
+Found in 2 active sources: enaqx/awesome-pentest, jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -336,7 +336,7 @@ A Python tool used for intercepting, viewing and modifying network traffic. Inva
 
 ### [Moby](https://github.com/moby/moby)
 
-![](https://img.shields.io/github/stars/moby/moby?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go
+![](https://img.shields.io/github/stars/moby/moby?style=flat-square&label=⭐) · Found in 3 active sources: veggiemonk/awesome-docker, avelino/awesome-go, MunGell/awesome-for-beginners
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -364,7 +364,7 @@ Navigate through projects.json files efficiently with the OctoLinker browser ext
 
 ### [PyMC](https://github.com/pymc-devs/pymc)
 
-![](https://img.shields.io/github/stars/pymc-devs/pymc?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/pymc-devs/pymc?style=flat-square&label=⭐) · Found in 3 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python, MunGell/awesome-for-beginners
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -378,7 +378,7 @@ A Python library for Bayesian statistical modeling and probabilistic machine lea
 
 ### [Readest](https://github.com/readest/readest)
 
-![](https://img.shields.io/github/stars/readest/readest?style=flat-square&label=⭐) · Found in 1 active source: jaywcjlove/awesome-mac
+![](https://img.shields.io/github/stars/readest/readest?style=flat-square&label=⭐) · Found in 2 active sources: jaywcjlove/awesome-mac, MunGell/awesome-for-beginners
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -406,7 +406,7 @@ A cross-platform C# IDE based on the IntelliJ platform and ReSharper
 
 ### [SymPy](https://github.com/sympy/sympy)
 
-![](https://img.shields.io/github/stars/sympy/sympy?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/sympy/sympy?style=flat-square&label=⭐) · Found in 3 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python, MunGell/awesome-for-beginners
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -448,7 +448,7 @@ Open-source terminal with built-in file previews, web browsing, and AI tools. (h
 
 ### [Wireshark](https://wireshark.org)
 
-Found in 1 active source: jaywcjlove/awesome-mac
+Found in 2 active sources: enaqx/awesome-pentest, jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -460,7 +460,7 @@ The world’s foremost and widely-used network protocol analyzer. (https://githu
 
 ---
 
-_Showing 20 of 119. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+_Showing 20 of 116. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---
@@ -483,6 +483,20 @@ Entries with weak or inconsistent trace evidence. They stay visible for auditabi
 
 ---
 
+### [Apache Maven](https://maven.apache.org)
+
+Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Build automation tool mainly for Java. A software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from...
+
+**Why this is here:** Dependency management centralizado y reproducible
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#apache-maven-maven) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [CryptoSwift](https://github.com/krzyzanowskim/cryptoswift)
 
 ![](https://img.shields.io/github/stars/krzyzanowskim/cryptoswift?style=flat-square&label=⭐) · Found in 2 active sources
@@ -497,6 +511,20 @@ Crypto related functions and helpers for Swift implemented in Swift programming 
 
 ---
 
+### [Gradle](https://gradle.org)
+
+Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Incremental builds programmed via Groovy instead of declaring XML. Works well with Maven's dependency management.
+
+**Why this is here:** Incremental builds programmed via Groovy instead of declaring XML. Works well with Maven's dependency management.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#gradle-gradle) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [Ollama](https://github.com/ollama/ollama)
 
 ![](https://img.shields.io/github/stars/ollama/ollama?style=flat-square&label=⭐) · Found in 2 active sources
@@ -508,6 +536,20 @@ Get up and running with large language models, locally.
 **Why this is here:** Get up and running with large language models, locally.
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#ollama-ollama-ollama) · [data/latest.json](../data/latest.json)
+
+---
+
+### [OpenAPI Generator](https://github.com/openapitools/openapi-generator)
+
+![](https://img.shields.io/github/stars/openapitools/openapi-generator?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+OpenAPI Generator allows generation of API client libraries (e.g. C#, TypeScript, etc), server stubs (ASP.NET Core, NancyFx, etc), documentation and configuration automatically given an OpenAPI Spec (v2, v3).
+
+**Why this is here:** Cubre 50+ lenguajes y frameworks en un solo generador
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#openapi-generator-openapitools-openapi-generator) · [data/latest.json](../data/latest.json)
 
 ---
 

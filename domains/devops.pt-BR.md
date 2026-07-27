@@ -28,7 +28,7 @@ Track bandwidth utilization by process.
 
 ### 👤 [Deployer](https://github.com/deployphp/deployer)
 
-![](https://img.shields.io/github/stars/deployphp/deployer?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/deployphp/deployer?style=flat-square&label=⭐) · Found in 1 active source: MunGell/awesome-for-beginners
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -77,7 +77,7 @@ Automated candidates with enough source signal; these are not human endorsements
 
 ### [Dragonfly](https://github.com/dragonflyoss/dragonfly2)
 
-![](https://img.shields.io/github/stars/dragonflyoss/dragonfly2?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go
+![](https://img.shields.io/github/stars/dragonflyoss/dragonfly2?style=flat-square&label=⭐) · Found in 3 active sources: veggiemonk/awesome-docker, avelino/awesome-go, MunGell/awesome-for-beginners
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -91,7 +91,7 @@ Provide efficient, stable and secure file distribution and image acceleration ba
 
 ### [ZooKeeper](https://zookeeper.apache.org)
 
-Found in 2 active sources: akullpp/awesome-java, rust-unofficial/awesome-rust
+Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -105,7 +105,7 @@ ZooKeeper is a centralized service for maintaining configuration information, na
 
 ### [Ansible](https://github.com/ansible/ansible)
 
-![](https://img.shields.io/github/stars/ansible/ansible?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
+![](https://img.shields.io/github/stars/ansible/ansible?style=flat-square&label=⭐) · Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -119,7 +119,7 @@ A simple IT automation platform
 
 ### [BorgBackup](https://github.com/borgbackup/borg)
 
-![](https://img.shields.io/github/stars/borgbackup/borg?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
+![](https://img.shields.io/github/stars/borgbackup/borg?style=flat-square&label=⭐) · Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -259,7 +259,7 @@ A tool for exploring each layer in a docker image. By wagoodman.
 
 ### [DNSDumpster](https://dnsdumpster.com)
 
-Found in 1 active source: jivoi/awesome-osint
+Found in 2 active sources: jivoi/awesome-osint, enaqx/awesome-pentest
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -343,7 +343,7 @@ Continuous integration server built on Docker and configured using YAML files.
 
 ### [HertzBeat](https://github.com/dromara/hertzbeat)
 
-![](https://img.shields.io/github/stars/dromara/hertzbeat?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, akullpp/awesome-java
+![](https://img.shields.io/github/stars/dromara/hertzbeat?style=flat-square&label=⭐) · Found in 1 active source: veggiemonk/awesome-docker
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 

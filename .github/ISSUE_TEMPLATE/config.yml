@@ -2,7 +2,4 @@ blank_issues_enabled: true
 contact_links:
   - name: Read the methodology
     url: https://github.com/JuanTorchia/awesome-curated/blob/main/METHODOLOGY.md
-    about: How tools are discovered, triaged and reviewed. Read before opening an issue.
-  - name: See the evidence snapshot
-    url: https://github.com/JuanTorchia/awesome-curated/blob/main/data/latest.json
-    about: The public data behind every source trace, including which lists are tracked.
+    about: Check how tools are selected before opening an issue.
