@@ -2,7 +2,7 @@
 
 This is the human-readable evidence catalog for the current public snapshot. It mirrors [data/latest.json](data/latest.json), but keeps each visible recommendation inspectable without reading JSON.
 
-Generated: 2026-07-26 · Public recommendations: 498 · Validation: pass
+Generated: 2026-07-27 · Public recommendations: 498 · Validation: pass
 
 ## Review Shortlist
 
@@ -1437,13 +1437,13 @@ These are strong automated candidates worth human review next. They are not endo
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
 
 ---
-### <a id="opik-comet-ml-opik"></a>[Opik](https://github.com/comet-ml/opik)
+### <a id="opik-comet-2"></a>[Opik](https://comet.com/site/products/opik)
 
 **Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
 
-**Summary:** Opik is an open-source platform for evaluating, testing and monitoring LLM applications.
+**Summary:** Open source engineering platform to debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 
-**Why it is here:** Opik is an open-source platform for evaluating, testing and monitoring LLM applications.
+**Why it is here:** Evals automatizadas para reproducibility
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -3268,20 +3268,20 @@ These are strong automated candidates worth human review next. They are not endo
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 92 · observed 2026-07-27
 
 ---
-### <a id="pandas-pandas-dev-pandas"></a>[pandas](https://github.com/pandas-dev/pandas)
+### <a id="pandas-pandas"></a>[pandas](https://pandas.pydata.org)
 
-**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 2 active sources: wilsonfreitas/awesome-quant, josephmisiti/awesome-machine-learning
 
-**Summary:** Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+**Summary:** Python pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language. GitHub
 
-**Why it is here:** Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects,...
+**Why it is here:** API intuitiva, comunidad gigante
 
 **Caveat:** Candidate still needs human review before endorsement.
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-07-27
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
 
 ---
 ### <a id="pathwaycom-pathway-pathwaycom-pathway"></a>[pathwaycom/pathway](https://github.com/pathwaycom/pathway)

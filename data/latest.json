@@ -1,98 +1,44 @@
 {
   "changes": [
     {
-      "changedAt": "2026-07-26",
-      "currentLabel": "Needs Review",
-      "name": "ActiveMQ",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwm5mi804llvn4duk0e7643",
-      "type": "label changed",
-      "url": "https://activemq.apache.org"
+      "changedAt": "2026-07-27",
+      "currentLabel": "AI Candidate",
+      "name": "Opik",
+      "reason": "Evals automatizadas para reproducibility",
+      "toolId": "cmnwkyi0q068j1p4t87oaweyc",
+      "type": "newly reviewed",
+      "url": "https://comet.com/site/products/opik"
     },
     {
-      "changedAt": "2026-07-26",
-      "currentLabel": "Needs Review",
-      "name": "Apache Maven",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwm54sm04divn4d7gs12hq6",
-      "type": "label changed",
-      "url": "https://maven.apache.org"
+      "changedAt": "2026-07-27",
+      "currentLabel": "AI Candidate",
+      "name": "pandas",
+      "reason": "API intuitiva, comunidad gigante",
+      "toolId": "cmnwkyr3706cm1p4t03nb04ny",
+      "type": "newly reviewed",
+      "url": "https://pandas.pydata.org"
     },
     {
-      "changedAt": "2026-07-26",
-      "currentLabel": "Needs Review",
-      "name": "Apache Shiro",
+      "changedAt": "2026-07-27",
+      "name": "Opik",
       "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwm60c004rqvn4d8y41klod",
-      "type": "label changed",
-      "url": "https://shiro.apache.org"
+      "reason": "No longer present in the current public recommendation set.",
+      "toolId": "cmnwkuw8004mz1p4tkqpht8sa",
+      "type": "removed",
+      "url": "https://github.com/comet-ml/opik"
     },
     {
-      "changedAt": "2026-07-26",
-      "currentLabel": "Needs Review",
-      "name": "Apache Solr",
+      "changedAt": "2026-07-27",
+      "name": "pandas",
       "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwm0m9c02cxvn4d9n5mv8ql",
-      "type": "label changed",
-      "url": "https://lucene.apache.org/solr"
-    },
-    {
-      "changedAt": "2026-07-26",
-      "currentLabel": "Needs Review",
-      "name": "Bouncy Castle",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwm60td04rxvn4d4vpuojwi",
-      "type": "label changed",
-      "url": "https://bouncycastle.org/java.html"
-    },
-    {
-      "changedAt": "2026-07-26",
-      "currentLabel": "Needs Review",
-      "name": "Druid",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwlywvh01l9vn4dtv3s1esm",
-      "type": "label changed",
-      "url": "https://druid.apache.org"
-    },
-    {
-      "changedAt": "2026-07-26",
-      "currentLabel": "Needs Review",
-      "name": "Gradle",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwm55ad04drvn4dr3wuy4op",
-      "type": "label changed",
-      "url": "https://gradle.org"
-    },
-    {
-      "changedAt": "2026-07-26",
-      "currentLabel": "Needs Review",
-      "name": "KeyCloak",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwm4isy043mvn4d81jkgu1t",
-      "type": "label changed",
-      "url": "https://keycloak.org"
-    },
-    {
-      "changedAt": "2026-07-26",
-      "currentLabel": "Needs Review",
-      "name": "OpenAPI Generator",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwm5z4v04r9vn4d7idvigam",
-      "type": "label changed",
-      "url": "https://github.com/openapitools/openapi-generator"
+      "reason": "No longer present in the current public recommendation set.",
+      "toolId": "cmnwknkai01d01p4tiaff2tii",
+      "type": "removed",
+      "url": "https://github.com/pandas-dev/pandas"
     }
   ],
-  "commitSha": "0ae7051fa508",
-  "generatedAt": "2026-07-26T10:00:08.737Z",
+  "commitSha": "02ef26393c6a",
+  "generatedAt": "2026-07-27T10:00:08.789Z",
   "recommendations": [
     {
       "caveat": "Best fit for teams with a matching ML or data workflow.",
@@ -3595,7 +3541,7 @@
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
         "notes": "Capacidad de simplificar, derivar, integrar y resolver ecuaciones de forma exacta, no aproximada",
-        "reviewedAt": "2026-04-13",
+        "reviewedAt": "2026-07-27",
         "status": "AI Candidate"
       },
       "slug": "sympy-sympy",
@@ -11808,25 +11754,25 @@
     {
       "caveat": "Candidate still needs human review before endorsement.",
       "domain": "ai-ml",
-      "id": "cmnwkuw8004mz1p4tkqpht8sa",
+      "id": "cmnwkyi0q068j1p4t87oaweyc",
       "label": "AI Candidate",
       "maintenance": {
         "archived": false,
         "graveyarded": false
       },
       "name": "Opik",
-      "rationale": "Opik is an open-source platform for evaluating, testing and monitoring LLM applications.",
+      "rationale": "Evals automatizadas para reproducibility",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Opik is an open-source platform for evaluating, testing and monitoring LLM applications.",
+        "notes": "Evals automatizadas para reproducibility",
         "reviewedAt": "2026-06-23",
         "status": "AI Candidate"
       },
-      "slug": "comet-ml-opik",
+      "slug": "comet-2",
       "sourceSignal": "Found in 1 active source: josephmisiti/awesome-machine-learning",
       "sourceTraces": [
         {
-          "itemCategory": "Python",
+          "itemCategory": "C++",
           "itemName": "Opik",
           "observedAt": "2026-07-27",
           "sourceQuality": 86,
@@ -11836,8 +11782,8 @@
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
       ],
-      "summary": "Opik is an open-source platform for evaluating, testing and monitoring LLM applications.",
-      "url": "https://github.com/comet-ml/opik"
+      "summary": "Open source engineering platform to debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
+      "url": "https://comet.com/site/products/opik"
     },
     {
       "caveat": "Candidate still needs human review before endorsement.",
@@ -12090,46 +12036,46 @@
     {
       "caveat": "Candidate still needs human review before endorsement.",
       "domain": "data",
-      "id": "cmnwknkai01d01p4tiaff2tii",
+      "id": "cmnwkyr3706cm1p4t03nb04ny",
       "label": "AI Candidate",
       "maintenance": {
         "archived": false,
         "graveyarded": false
       },
       "name": "pandas",
-      "rationale": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects,...",
+      "rationale": "API intuitiva, comunidad gigante",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects,...",
-        "reviewedAt": "2026-04-13",
+        "notes": "API intuitiva, comunidad gigante",
+        "reviewedAt": "2026-06-23",
         "status": "AI Candidate"
       },
-      "slug": "pandas-dev-pandas",
-      "sourceSignal": "Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners",
+      "slug": "pandas",
+      "sourceSignal": "Found in 2 active sources: wilsonfreitas/awesome-quant, josephmisiti/awesome-machine-learning",
       "sourceTraces": [
         {
-          "itemCategory": "Projects",
+          "itemCategory": "Numerical Libraries & Data Structures",
           "itemName": "pandas",
           "observedAt": "2026-07-27",
-          "sourceQuality": 92,
-          "sourceRepo": "vinta/awesome-python",
+          "sourceQuality": 100,
+          "sourceRepo": "wilsonfreitas/awesome-quant",
           "sourceStatus": "ROSTER",
-          "sourceTitle": "awesome-python",
-          "sourceUrl": "https://github.com/vinta/awesome-python"
+          "sourceTitle": "awesome-quant",
+          "sourceUrl": "https://github.com/wilsonfreitas/awesome-quant"
         },
         {
           "itemCategory": "Python",
-          "itemName": "pandas",
+          "itemName": "Pandas",
           "observedAt": "2026-07-27",
-          "sourceQuality": 83,
-          "sourceRepo": "MunGell/awesome-for-beginners",
+          "sourceQuality": 86,
+          "sourceRepo": "josephmisiti/awesome-machine-learning",
           "sourceStatus": "BENCH",
-          "sourceTitle": "awesome-for-beginners",
-          "sourceUrl": "https://github.com/MunGell/awesome-for-beginners"
+          "sourceTitle": "awesome-machine-learning",
+          "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
       ],
-      "summary": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
-      "url": "https://github.com/pandas-dev/pandas"
+      "summary": "Python pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language. GitHub",
+      "url": "https://pandas.pydata.org"
     },
     {
       "caveat": "Candidate still needs human review before endorsement.",
@@ -19141,7 +19087,7 @@
     "sources": 20
   },
   "validation": {
-    "checkedAt": "2026-07-26T10:00:08.737Z",
+    "checkedAt": "2026-07-27T10:00:08.789Z",
     "status": "pass",
     "warnings": []
   }

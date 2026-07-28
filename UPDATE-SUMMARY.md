@@ -2,8 +2,8 @@
 
 ## Latest Sync
 
-- Date: 2026-07-26
-- Previous public commit: 0ae7051fa508
+- Date: 2026-07-27
+- Previous public commit: 02ef26393c6a
 - Evidence: [data/latest.json](data/latest.json)
 
 ## Current Snapshot
@@ -19,17 +19,15 @@
 
 ## Recent Changes
 
-### Label Changed
+### Newly Reviewed
 
-- [ActiveMQ](https://activemq.apache.org) (AI Candidate → Needs Review) — Moved from AI Candidate to Needs Review after stricter trace-quality checks. (2026-07-26)
-- [Apache Maven](https://maven.apache.org) (AI Candidate → Needs Review) — Moved from AI Candidate to Needs Review after stricter trace-quality checks. (2026-07-26)
-- [Apache Shiro](https://shiro.apache.org) (AI Candidate → Needs Review) — Moved from AI Candidate to Needs Review after stricter trace-quality checks. (2026-07-26)
-- [Apache Solr](https://lucene.apache.org/solr) (AI Candidate → Needs Review) — Moved from AI Candidate to Needs Review after stricter trace-quality checks. (2026-07-26)
-- [Bouncy Castle](https://bouncycastle.org/java.html) (AI Candidate → Needs Review) — Moved from AI Candidate to Needs Review after stricter trace-quality checks. (2026-07-26)
-- [Druid](https://druid.apache.org) (AI Candidate → Needs Review) — Moved from AI Candidate to Needs Review after stricter trace-quality checks. (2026-07-26)
-- [Gradle](https://gradle.org) (AI Candidate → Needs Review) — Moved from AI Candidate to Needs Review after stricter trace-quality checks. (2026-07-26)
-- [KeyCloak](https://keycloak.org) (AI Candidate → Needs Review) — Moved from AI Candidate to Needs Review after stricter trace-quality checks. (2026-07-26)
-- [OpenAPI Generator](https://github.com/openapitools/openapi-generator) (AI Candidate → Needs Review) — Moved from AI Candidate to Needs Review after stricter trace-quality checks. (2026-07-26)
+- [Opik](https://comet.com/site/products/opik) (AI Candidate) — Evals automatizadas para reproducibility (2026-07-27)
+- [pandas](https://pandas.pydata.org) (AI Candidate) — API intuitiva, comunidad gigante (2026-07-27)
+
+### Removed
+
+- [Opik](https://github.com/comet-ml/opik) (AI Candidate) — No longer present in the current public recommendation set. (2026-07-27)
+- [pandas](https://github.com/pandas-dev/pandas) (AI Candidate) — No longer present in the current public recommendation set. (2026-07-27)
 
 ## Review Note
 
