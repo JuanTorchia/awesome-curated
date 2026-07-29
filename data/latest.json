@@ -1,44 +1,26 @@
 {
   "changes": [
     {
-      "changedAt": "2026-07-27",
-      "currentLabel": "AI Candidate",
-      "name": "Opik",
-      "reason": "Evals automatizadas para reproducibility",
-      "toolId": "cmnwkyi0q068j1p4t87oaweyc",
-      "type": "newly reviewed",
-      "url": "https://comet.com/site/products/opik"
-    },
-    {
-      "changedAt": "2026-07-27",
+      "changedAt": "2026-07-28",
       "currentLabel": "AI Candidate",
       "name": "pandas",
-      "reason": "API intuitiva, comunidad gigante",
-      "toolId": "cmnwkyr3706cm1p4t03nb04ny",
-      "type": "newly reviewed",
-      "url": "https://pandas.pydata.org"
-    },
-    {
-      "changedAt": "2026-07-27",
-      "name": "Opik",
-      "previousLabel": "AI Candidate",
-      "reason": "No longer present in the current public recommendation set.",
-      "toolId": "cmnwkuw8004mz1p4tkqpht8sa",
-      "type": "removed",
-      "url": "https://github.com/comet-ml/opik"
-    },
-    {
-      "changedAt": "2026-07-27",
-      "name": "pandas",
-      "previousLabel": "AI Candidate",
-      "reason": "No longer present in the current public recommendation set.",
+      "reason": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects,...",
       "toolId": "cmnwknkai01d01p4tiaff2tii",
-      "type": "removed",
+      "type": "newly reviewed",
       "url": "https://github.com/pandas-dev/pandas"
+    },
+    {
+      "changedAt": "2026-07-28",
+      "name": "pandas",
+      "previousLabel": "AI Candidate",
+      "reason": "No longer present in the current public recommendation set.",
+      "toolId": "cmnwkyr3706cm1p4t03nb04ny",
+      "type": "removed",
+      "url": "https://pandas.pydata.org"
     }
   ],
-  "commitSha": "02ef26393c6a",
-  "generatedAt": "2026-07-27T10:00:08.789Z",
+  "commitSha": "e60b03a1de94",
+  "generatedAt": "2026-07-28T10:00:08.896Z",
   "recommendations": [
     {
       "caveat": "Best fit for teams with a matching ML or data workflow.",
@@ -3101,7 +3083,7 @@
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
         "notes": "Collaborative project for the container ecosystem to assemble container-based systems.",
-        "reviewedAt": "2026-04-13",
+        "reviewedAt": "2026-07-28",
         "status": "AI Candidate"
       },
       "slug": "moby-moby",
@@ -12036,46 +12018,46 @@
     {
       "caveat": "Candidate still needs human review before endorsement.",
       "domain": "data",
-      "id": "cmnwkyr3706cm1p4t03nb04ny",
+      "id": "cmnwknkai01d01p4tiaff2tii",
       "label": "AI Candidate",
       "maintenance": {
         "archived": false,
         "graveyarded": false
       },
       "name": "pandas",
-      "rationale": "API intuitiva, comunidad gigante",
+      "rationale": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects,...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "API intuitiva, comunidad gigante",
-        "reviewedAt": "2026-06-23",
+        "notes": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects,...",
+        "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
-      "slug": "pandas",
-      "sourceSignal": "Found in 2 active sources: wilsonfreitas/awesome-quant, josephmisiti/awesome-machine-learning",
+      "slug": "pandas-dev-pandas",
+      "sourceSignal": "Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners",
       "sourceTraces": [
         {
-          "itemCategory": "Numerical Libraries & Data Structures",
+          "itemCategory": "Projects",
           "itemName": "pandas",
           "observedAt": "2026-07-27",
-          "sourceQuality": 100,
-          "sourceRepo": "wilsonfreitas/awesome-quant",
+          "sourceQuality": 92,
+          "sourceRepo": "vinta/awesome-python",
           "sourceStatus": "ROSTER",
-          "sourceTitle": "awesome-quant",
-          "sourceUrl": "https://github.com/wilsonfreitas/awesome-quant"
+          "sourceTitle": "awesome-python",
+          "sourceUrl": "https://github.com/vinta/awesome-python"
         },
         {
           "itemCategory": "Python",
-          "itemName": "Pandas",
+          "itemName": "pandas",
           "observedAt": "2026-07-27",
-          "sourceQuality": 86,
-          "sourceRepo": "josephmisiti/awesome-machine-learning",
+          "sourceQuality": 83,
+          "sourceRepo": "MunGell/awesome-for-beginners",
           "sourceStatus": "BENCH",
-          "sourceTitle": "awesome-machine-learning",
-          "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
+          "sourceTitle": "awesome-for-beginners",
+          "sourceUrl": "https://github.com/MunGell/awesome-for-beginners"
         }
       ],
-      "summary": "Python pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language. GitHub",
-      "url": "https://pandas.pydata.org"
+      "summary": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+      "url": "https://github.com/pandas-dev/pandas"
     },
     {
       "caveat": "Candidate still needs human review before endorsement.",
@@ -19087,7 +19069,7 @@
     "sources": 20
   },
   "validation": {
-    "checkedAt": "2026-07-27T10:00:08.789Z",
+    "checkedAt": "2026-07-28T10:00:08.896Z",
     "status": "pass",
     "warnings": []
   }

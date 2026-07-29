@@ -2,8 +2,8 @@
 
 ## Latest Sync
 
-- Date: 2026-07-27
-- Previous public commit: 02ef26393c6a
+- Date: 2026-07-28
+- Previous public commit: e60b03a1de94
 - Evidence: [data/latest.json](data/latest.json)
 
 ## Current Snapshot
@@ -21,13 +21,11 @@
 
 ### Newly Reviewed
 
-- [Opik](https://comet.com/site/products/opik) (AI Candidate) — Evals automatizadas para reproducibility (2026-07-27)
-- [pandas](https://pandas.pydata.org) (AI Candidate) — API intuitiva, comunidad gigante (2026-07-27)
+- [pandas](https://github.com/pandas-dev/pandas) (AI Candidate) — Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects,... (2026-07-28)
 
 ### Removed
 
-- [Opik](https://github.com/comet-ml/opik) (AI Candidate) — No longer present in the current public recommendation set. (2026-07-27)
-- [pandas](https://github.com/pandas-dev/pandas) (AI Candidate) — No longer present in the current public recommendation set. (2026-07-27)
+- [pandas](https://pandas.pydata.org) (AI Candidate) — No longer present in the current public recommendation set. (2026-07-28)
 
 ## Review Note
 

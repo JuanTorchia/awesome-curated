@@ -8,7 +8,7 @@
 
 [![Human Picks](https://img.shields.io/badge/Human_Picks-17-gold?style=for-the-badge)](#)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](#)
-[![Updated](https://img.shields.io/badge/Updated-2026-07-27-green?style=for-the-badge)](#)
+[![Updated](https://img.shields.io/badge/Updated-2026-07-28-green?style=for-the-badge)](#)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -22,7 +22,7 @@
 
 ### 信任快照
 
-- **最新生成更新**: 2026-07-27
+- **最新生成更新**: 2026-07-28
 - **活跃来源**: 20
 - **人工审核工具**: 17
 - **方法论**: [METHODOLOGY.md](METHODOLOGY.md)
@@ -101,10 +101,8 @@
 
 ## What changed this week
 
-- [Opik](https://comet.com/site/products/opik) — newly reviewed · AI Candidate: Evals automatizadas para reproducibility
-- [pandas](https://pandas.pydata.org) — newly reviewed · AI Candidate: API intuitiva, comunidad gigante
-- [Opik](https://github.com/comet-ml/opik) — removed: No longer present in the current public recommendation set.
-- [pandas](https://github.com/pandas-dev/pandas) — removed: No longer present in the current public recommendation set.
+- [pandas](https://github.com/pandas-dev/pandas) — newly reviewed · AI Candidate: Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects,...
+- [pandas](https://pandas.pydata.org) — removed: No longer present in the current public recommendation set.
 
 See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
 
