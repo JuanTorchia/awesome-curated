@@ -8,7 +8,7 @@ Read in other languages: **🇬🇧 English** · [🇪🇸 Español](README.es.m
 
 [![Human Picks](https://img.shields.io/badge/Human_Picks-17-gold?style=for-the-badge)](#)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](#)
-[![Updated](https://img.shields.io/badge/Updated-2026-07-28-green?style=for-the-badge)](#)
+[![Updated](https://img.shields.io/badge/Updated-2026-07-29-green?style=for-the-badge)](#)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -22,7 +22,7 @@ Star it if you want fewer tool-hunt tabs: source traces, dedupe, caveats, and a 
 
 ### Trust snapshot
 
-- **Latest generated update**: 2026-07-28
+- **Latest generated update**: 2026-07-29
 - **active sources**: 20
 - **human-reviewed tools**: 17
 - **Methodology**: [METHODOLOGY.md](METHODOLOGY.md)
@@ -99,12 +99,15 @@ Human-reviewed picks with a concrete reason to look now.
 
 ---
 
-## What changed this week
+## Review queue
 
-- [pandas](https://github.com/pandas-dev/pandas) — newly reviewed · AI Candidate: Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects,...
-- [pandas](https://pandas.pydata.org) — removed: No longer present in the current public recommendation set.
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, jivoi/awesome-osint, vinta/awesome-python
+- [Dragonfly](https://github.com/dragonflyoss/dragonfly2) — DevOps · Found in 3 active sources: veggiemonk/awesome-docker, avelino/awesome-go, MunGell/awesome-for-beginners
+- [lstags](https://github.com/ivanilves/lstags) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, veggiemonk/awesome-docker, avelino/awesome-go
+- [askbudi/roundtable](https://github.com/askbudi/roundtable) — AI & ML · Found in 2 active sources: vuejs/awesome-vue, punkpeye/awesome-mcp-servers
+- [Cython](https://github.com/cython/cython) — Performance · Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python
 
-See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
+Candidates are not endorsements. Ask for review via [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) or inspect the full queue in [TOOLS.md](TOOLS.md).
 
 ---
 

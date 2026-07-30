@@ -1,26 +1,16 @@
 {
   "changes": [
     {
-      "changedAt": "2026-07-28",
-      "currentLabel": "AI Candidate",
-      "name": "pandas",
-      "reason": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects,...",
-      "toolId": "cmnwknkai01d01p4tiaff2tii",
-      "type": "newly reviewed",
-      "url": "https://github.com/pandas-dev/pandas"
-    },
-    {
-      "changedAt": "2026-07-28",
-      "name": "pandas",
-      "previousLabel": "AI Candidate",
-      "reason": "No longer present in the current public recommendation set.",
-      "toolId": "cmnwkyr3706cm1p4t03nb04ny",
-      "type": "removed",
-      "url": "https://pandas.pydata.org"
+      "changedAt": "2026-07-29",
+      "name": "Public recommendation set",
+      "reason": "No material public change detected.",
+      "toolId": "snapshot",
+      "type": "unchanged",
+      "url": "data/latest.json"
     }
   ],
-  "commitSha": "e60b03a1de94",
-  "generatedAt": "2026-07-28T10:00:08.896Z",
+  "commitSha": "334219d44a03",
+  "generatedAt": "2026-07-29T10:00:09.442Z",
   "recommendations": [
     {
       "caveat": "Best fit for teams with a matching ML or data workflow.",
@@ -19069,7 +19059,7 @@
     "sources": 20
   },
   "validation": {
-    "checkedAt": "2026-07-28T10:00:08.896Z",
+    "checkedAt": "2026-07-29T10:00:09.442Z",
     "status": "pass",
     "warnings": []
   }
