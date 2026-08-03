@@ -2,7 +2,7 @@
 
 This is the human-readable evidence catalog for the current public snapshot. It mirrors [data/latest.json](data/latest.json), but keeps each visible recommendation inspectable without reading JSON.
 
-Generated: 2026-08-01 · Public recommendations: 498 · Validation: pass
+Generated: 2026-08-02 · Public recommendations: 498 · Validation: pass
 
 ## Review Shortlist
 
@@ -11,25 +11,25 @@ These are strong automated candidates worth human review next. They are not endo
 | Tool | Domain | Evidence | Caveat |
 |---|---|---|---|
 | [yt-dlp](#yt-dlp-yt-dlp-yt-dlp) | Dev Tooling | Found in 3 active sources: agarrharr/awesome-cli-apps, jivoi/awesome-osint, vinta/awesome-python | Candidate still needs human review before endorsement. |
-| [Dragonfly](#dragonfly-dragonflyoss-dragonfly2) | DevOps | Found in 3 active sources: veggiemonk/awesome-docker, avelino/awesome-go, MunGell/awesome-for-beginners | Candidate still needs human review before endorsement. |
+| [Feature Engine](#feature-engine-feature-engine-feature-engine) | AI & ML | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python | Candidate still needs human review before endorsement. |
 | [lstags](#lstags-ivanilves-lstags) | Dev Tooling | Found in 3 active sources: agarrharr/awesome-cli-apps, veggiemonk/awesome-docker, avelino/awesome-go | Candidate still needs human review before endorsement. |
-| [askbudi/roundtable](#askbudi-roundtable-askbudi-roundtable) | AI & ML | Found in 2 active sources: vuejs/awesome-vue, punkpeye/awesome-mcp-servers | Candidate still needs human review before endorsement. |
 | [Cython](#cython-cython-cython) | Performance | Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python | Candidate still needs human review before endorsement. |
+| [DEAP](#deap-deap-deap) | AI & ML | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning | Candidate still needs human review before endorsement. |
+| [Gymnasium](#gymnasium-farama-foundation-gymnasium) | AI & ML | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning | Candidate still needs human review before endorsement. |
 | [Water-Run/treepp](#water-run-treepp-water-run-treepp) | Dev Tooling | Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust | Candidate still needs human review before endorsement. |
 | [safedep/vet](#safedep-vet-safedep-vet) | Security & Crypto | Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers | Candidate still needs human review before endorsement. |
 | [Agentic Radar](#agentic-radar-splx-ai-agentic-radar) | Security & Crypto | Found in 2 active sources: enaqx/awesome-pentest, josephmisiti/awesome-machine-learning | Candidate still needs human review before endorsement. |
 | [ajitpratap0/GoSQLX](#ajitpratap0-gosqlx-ajitpratap0-gosqlx) | Data & Databases | Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers | Candidate still needs human review before endorsement. |
-| [Catalyst](#catalyst-catalyst-team-catalyst) | AI & ML | Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning | Candidate still needs human review before endorsement. |
+| [Hamilton](#hamilton-dagworks-inc-hamilton) | Data & Databases | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning | Candidate still needs human review before endorsement. |
+| [Hopsworks](#hopsworks-logicalclocks-hopsworks) | AI & ML | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning | Candidate still needs human review before endorsement. |
+| [InterpretML](#interpretml-interpretml-interpret) | AI & ML | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning | Candidate still needs human review before endorsement. |
+| [Vaex](#vaex-vaexio-vaex) | Data & Databases | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning | Candidate still needs human review before endorsement. |
 | [WiGLE](#wigle-wigle) | Security & Crypto | Found in 2 active sources: jivoi/awesome-osint, enaqx/awesome-pentest | Candidate still needs human review before endorsement. |
 | [grpc](#grpc-grpc-grpc) | Web | Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python | Candidate still needs human review before endorsement. |
 | [RepoFlow](#repoflow-repoflow) | Dev Tooling | Found in 2 active sources: veggiemonk/awesome-docker, rust-unofficial/awesome-rust | Candidate still needs human review before endorsement. |
+| [CML](#cml-iterative-cml) | DevOps | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning | Candidate still needs human review before endorsement. |
 | [mariocandela/beelzebub](#mariocandela-beelzebub-mariocandela-beelzebub) | Security & Crypto | Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers | Candidate still needs human review before endorsement. |
 | [juspay/neurolink](#juspay-neurolink-juspay-neurolink) | Web | Found in 2 active sources: josephmisiti/awesome-machine-learning, punkpeye/awesome-mcp-servers | Candidate still needs human review before endorsement. |
-| [script](#script-bitfield-script) | Dev Tooling | Found in 2 active sources: avelino/awesome-go, MunGell/awesome-for-beginners | Candidate still needs human review before endorsement. |
-| [spfunctions/simplefunctions-cli](#spfunctions-simplefunctions-cli-spfunctions-simplefunctions-cli) | AI & ML | Found in 2 active sources: wilsonfreitas/awesome-quant, punkpeye/awesome-mcp-servers | Candidate still needs human review before endorsement. |
-| [xLearn](#xlearn-aksnzhy-xlearn) | AI & ML | Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning | Candidate still needs human review before endorsement. |
-| [MyIP](#myip-jason5ng32-myip) | DevOps | Found in 2 active sources: veggiemonk/awesome-docker, vuejs/awesome-vue | Candidate still needs human review before endorsement. |
-| [nwiizo/tfmcp](#nwiizo-tfmcp-nwiizo-tfmcp) | DevOps | Found in 2 active sources: rust-unofficial/awesome-rust, punkpeye/awesome-mcp-servers | Candidate still needs human review before endorsement. |
 
 ---
 
@@ -37,7 +37,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 ### <a id="swiper-nolimits4web-swiper"></a>[swiper](https://github.com/nolimits4web/swiper)
 
-**Label:** Human Pick · **Domain:** Web · **Signal:** Found in 1 active source: vuejs/awesome-vue
+**Label:** Human Pick · **Domain:** Web · **Signal:** Found in 1 active source: sorrycc/awesome-javascript
 
 **Summary:** docs The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
 
@@ -47,12 +47,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) · ROSTER · quality 96 · observed 2026-07-27
+- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) · ROSTER · quality 88 · observed 2026-08-03
 
 ---
 ### <a id="query-tanstack-query"></a>[query](https://github.com/tanstack/query)
 
-**Label:** Human Pick · **Domain:** Web · **Signal:** Found in 1 active source: vuejs/awesome-vue
+**Label:** Human Pick · **Domain:** Web · **Signal:** Found in 3 active sources
 
 **Summary:** Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.
 
@@ -60,9 +60,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Caveat:** Worth a focused trial before adopting broadly.
 
-**Source traces:**
-
-- [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) · ROSTER · quality 96 · observed 2026-07-27
+**Source traces:** Needs trace review.
 
 ---
 ### <a id="goaccess-goaccess"></a>[GoAccess](https://goaccess.io)
@@ -80,7 +78,7 @@ These are strong automated candidates worth human review next. They are not endo
 ---
 ### <a id="hasura-graphql-engine-hasura-graphql-engine"></a>[Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)
 
-**Label:** Human Pick · **Domain:** Web · **Signal:** Found in 1 active source: MunGell/awesome-for-beginners
+**Label:** Human Pick · **Domain:** Web · **Signal:** Found in 2 active sources
 
 **Summary:** Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 
@@ -88,14 +86,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Caveat:** Promising signal, but source consensus is still narrow.
 
-**Source traces:**
-
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+**Source traces:** Needs trace review.
 
 ---
 ### <a id="bit-teambit-bit"></a>[Bit](https://github.com/teambit/bit)
 
-**Label:** Worth Trying · **Domain:** Web · **Signal:** Found in 1 active source: vuejs/awesome-vue
+**Label:** Worth Trying · **Domain:** Web · **Signal:** Found in 1 active source: sorrycc/awesome-javascript
 
 **Summary:** Manage and reuse vue components between projects. Easily isolate and share components from any project without changing its , organize curated collections and install in different projects.
 
@@ -105,12 +101,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) · ROSTER · quality 96 · observed 2026-07-27
+- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) · ROSTER · quality 88 · observed 2026-08-03
 
 ---
 ### <a id="tsparticles-matteobruni-tsparticles"></a>[tsParticles](https://github.com/matteobruni/tsparticles)
 
-**Label:** Worth Trying · **Domain:** Web · **Signal:** Found in 1 active source: vuejs/awesome-vue
+**Label:** Worth Trying · **Domain:** Web · **Signal:** Found in 1 active source: sorrycc/awesome-javascript
 
 **Summary:** A lightweight Javascript library to easily create highly configurable and interactive particle animations
 
@@ -120,12 +116,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) · ROSTER · quality 96 · observed 2026-07-27
+- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) · ROSTER · quality 88 · observed 2026-08-03
 
 ---
 ### <a id="ghost-tryghost-ghost"></a>[Ghost](https://github.com/tryghost/ghost)
 
-**Label:** Worth Trying · **Domain:** Web · **Signal:** Found in 1 active source: MunGell/awesome-for-beginners
+**Label:** Worth Trying · **Domain:** Web · **Signal:** Found in 1 active source: sorrycc/awesome-javascript
 
 **Summary:** Just a blogging platform
 
@@ -135,12 +131,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) · ROSTER · quality 88 · observed 2026-08-03
 
 ---
 ### <a id="schedule-x-schedule-x-schedule-x"></a>[schedule-x](https://github.com/schedule-x/schedule-x)
 
-**Label:** Worth Trying · **Domain:** Web · **Signal:** Found in 1 active source: vuejs/awesome-vue
+**Label:** Worth Trying · **Domain:** Web · **Signal:** Found in 1 active source: sorrycc/awesome-javascript
 
 **Summary:** Material design event calendar and date picker components. Demo site: https://schedule-x.dev/
 
@@ -150,12 +146,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) · ROSTER · quality 96 · observed 2026-07-27
+- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) · ROSTER · quality 88 · observed 2026-08-03
 
 ---
 ### <a id="vest-ealush-vest"></a>[Vest](https://github.com/ealush/vest)
 
-**Label:** Worth Trying · **Domain:** Web · **Signal:** Found in 2 active sources: vuejs/awesome-vue, MunGell/awesome-for-beginners
+**Label:** Worth Trying · **Domain:** Web · **Signal:** Found in 1 active source: sorrycc/awesome-javascript
 
 **Summary:** Validations framework inspired by unit testing frameworks.
 
@@ -165,13 +161,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) · ROSTER · quality 96 · observed 2026-07-27
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) · ROSTER · quality 88 · observed 2026-08-03
 
 ---
 ### <a id="webdriver-io-webdriverio-webdriverio"></a>[webdriver.io](https://github.com/webdriverio/webdriverio)
 
-**Label:** Worth Trying · **Domain:** Web · **Signal:** Found in 1 active source: MunGell/awesome-for-beginners
+**Label:** Worth Trying · **Domain:** Web · **Signal:** Found in 3 active sources
 
 **Summary:** Next-gen browser and mobile automation test framework for Node.js
 
@@ -179,9 +174,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Caveat:** Worth a focused trial before adopting broadly.
 
-**Source traces:**
-
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+**Source traces:** Needs trace review.
 
 ---
 ### <a id="formily-alibaba-formily"></a>[Formily](https://github.com/alibaba/formily)
@@ -199,7 +192,7 @@ These are strong automated candidates worth human review next. They are not endo
 ---
 ### <a id="grommet-grommet-grommet"></a>[grommet](https://github.com/grommet/grommet)
 
-**Label:** Worth Trying · **Domain:** Web · **Signal:** Found in 1 active source: MunGell/awesome-for-beginners
+**Label:** Worth Trying · **Domain:** Web · **Signal:** Found in 2 active sources
 
 **Summary:** a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 
@@ -207,14 +200,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Caveat:** Promising signal, but source consensus is still narrow.
 
-**Source traces:**
-
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+**Source traces:** Needs trace review.
 
 ---
 ### <a id="virtua-inokawa-virtua"></a>[virtua](https://github.com/inokawa/virtua)
 
-**Label:** Worth Trying · **Domain:** Web · **Signal:** Found in 1 active source: vuejs/awesome-vue
+**Label:** Worth Trying · **Domain:** Web · **Signal:** Found in 2 active sources
 
 **Summary:** A zero-config, fast and small (~3kB) virtual list component for React, Vue and Solid.
 
@@ -222,14 +213,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Caveat:** Promising signal, but source consensus is still narrow.
 
-**Source traces:**
-
-- [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) · ROSTER · quality 96 · observed 2026-07-27
+**Source traces:** Needs trace review.
 
 ---
 ### <a id="d3js-d3js"></a>[D3js](https://d3js.org)
 
-**Label:** AI Candidate · **Domain:** Web · **Signal:** Found in 2 active sources: jivoi/awesome-osint, academic/awesome-datascience
+**Label:** AI Candidate · **Domain:** Web · **Signal:** Found in 1 active source: jivoi/awesome-osint
 
 **Summary:** is a powerful data visualization javascript library.
 
@@ -239,8 +228,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-07-27
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 92 · observed 2026-07-27
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-08-03
 
 ---
 ### <a id="grpc-grpc-grpc"></a>[grpc](https://github.com/grpc/grpc)
@@ -255,8 +243,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="juspay-neurolink-juspay-neurolink"></a>[juspay/neurolink](https://github.com/juspay/neurolink)
@@ -271,8 +259,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 99 · observed 2026-07-27
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="vivaldi-vivaldi"></a>[Vivaldi](https://vivaldi.com)
@@ -287,8 +275,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-07-27
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-08-03
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="biome-biomejs-biome"></a>[biome](https://github.com/biomejs/biome)
@@ -303,7 +291,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="certificate-ripper-hakky54-certificate-ripper"></a>[Certificate Ripper](https://github.com/hakky54/certificate-ripper)
@@ -318,7 +306,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
 
 ---
 ### <a id="gofiber-fiber-gofiber-fiber"></a>[gofiber/fiber](https://github.com/gofiber/fiber)
@@ -333,12 +321,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="hyperium-hyper-hyperium-hyper"></a>[hyperium/hyper](https://github.com/hyperium/hyper)
 
-**Label:** AI Candidate · **Domain:** Web · **Signal:** Found in 2 active sources: rust-unofficial/awesome-rust, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** Web · **Signal:** Found in 1 active source: rust-unofficial/awesome-rust
 
 **Summary:** an HTTP implementation
 
@@ -348,8 +336,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="pydantic-ai-pydantic-pydantic-ai"></a>[pydantic-ai](https://github.com/pydantic/pydantic-ai)
@@ -364,13 +351,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 99 · observed 2026-07-27
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="python-babel-python-babel-babel"></a>[Python Babel](https://github.com/python-babel/babel)
 
-**Label:** AI Candidate · **Domain:** Web · **Signal:** Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** Web · **Signal:** Found in 1 active source: vinta/awesome-python
 
 **Summary:** The Python Internationalization Library.
 
@@ -380,13 +367,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="scrapy-scrapy-scrapy"></a>[scrapy](https://github.com/scrapy/scrapy)
 
-**Label:** AI Candidate · **Domain:** Web · **Signal:** Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** Web · **Signal:** Found in 1 active source: vinta/awesome-python
 
 **Summary:** A fast high-level web crawling & scraping framework for Python.
 
@@ -396,8 +382,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="superdesk-superdesk"></a>[Superdesk](https://superdesk.org)
@@ -412,7 +397,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-07-27
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-08-03
 
 ---
 ### <a id="svenstaro-miniserve-svenstaro-miniserve"></a>[svenstaro/miniserve](https://github.com/svenstaro/miniserve)
@@ -427,7 +412,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="tencent-tquic-tencent-tquic"></a>[tencent/tquic](https://github.com/tencent/tquic)
@@ -442,8 +427,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
 
 ---
 ### <a id="trailbase-trailbase"></a>[TrailBase](https://trailbase.io)
@@ -458,7 +443,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="txn2-kubefwd-txn2-kubefwd"></a>[txn2/kubefwd](https://github.com/txn2/kubefwd)
@@ -473,8 +458,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 99 · observed 2026-07-27
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="mkosir-react-parallax-tilt-mkosir-react-parallax-tilt"></a>[mkosir/react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt)
@@ -495,7 +480,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 ### <a id="bayeswitnesses-m2cgen-bayeswitnesses-m2cgen"></a>[BayesWitnesses/m2cgen](https://github.com/bayeswitnesses/m2cgen)
 
-**Label:** Human Pick · **Domain:** AI & ML · **Signal:** Found in 4 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more
+**Label:** Human Pick · **Domain:** AI & ML · **Signal:** Found in 5 active sources: sorrycc/awesome-javascript, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +2 more
 
 **Summary:** A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies.
 
@@ -505,15 +490,16 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) · ROSTER · quality 88 · observed 2026-08-03
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="netron-lutzroeder-netron"></a>[Netron](https://github.com/lutzroeder/netron)
 
-**Label:** Human Pick · **Domain:** AI & ML · **Signal:** Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning
+**Label:** Human Pick · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** Netron is a viewer for neural network, deep learning and machine learning models.
 
@@ -523,13 +509,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 92 · observed 2026-07-27
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="mem0-mem0ai-mem0"></a>[Mem0](https://github.com/mem0ai/mem0)
 
-**Label:** Worth Trying · **Domain:** AI & ML · **Signal:** Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
+**Label:** Worth Trying · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Summary:** Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions.
 
@@ -539,8 +525,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="agent-of-empires-njbrake-agent-of-empires"></a>[agent-of-empires](https://github.com/njbrake/agent-of-empires)
@@ -555,13 +541,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="aim-aimhubio-aim"></a>[Aim](https://github.com/aimhubio/aim)
 
-**Label:** Worth Trying · **Domain:** AI & ML · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
+**Label:** Worth Trying · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** A super-easy way to record, search and compare AI experiments.
 
@@ -571,7 +557,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="candle-huggingface-candle"></a>[candle](https://github.com/huggingface/candle)
@@ -586,13 +573,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="chroma-chroma-core-chroma"></a>[Chroma](https://github.com/chroma-core/chroma)
 
-**Label:** Worth Trying · **Domain:** AI & ML · **Signal:** Found in 1 active source: vinta/awesome-python
+**Label:** Worth Trying · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Summary:** Chroma is an open-source embedding database.
 
@@ -602,7 +589,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="context-engineering-kit-neolabhq-context-engineering-kit"></a>[Context Engineering Kit](https://github.com/neolabhq/context-engineering-kit)
@@ -633,7 +621,7 @@ These are strong automated candidates worth human review next. They are not endo
 ---
 ### <a id="xgboost-dmlc-xgboost"></a>[XGBoost](https://github.com/dmlc/xgboost)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 4 active sources: academic/awesome-datascience, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 4 active sources: EthicalML/awesome-production-machine-learning, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more
 
 **Summary:** XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable.
 
@@ -643,15 +631,15 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 92 · observed 2026-07-27
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="catboost-catboost-catboost"></a>[CatBoost](https://github.com/catboost/catboost)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 4 active sources: academic/awesome-datascience, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 3 active sources: fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Summary:** General purpose gradient boosting on decision trees library with categorical features support out of the box. It is easy to install, contains fast inference implementation and supports CPU and GPU (even multi-GPU)...
 
@@ -661,15 +649,14 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 92 · observed 2026-07-27
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="apache-spark-apache-spark"></a>[Apache Spark](https://github.com/apache/spark)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** Micro-batch processing for streams using the apache spark framework as a backend supporting stateful exactly-once semantics.
 
@@ -679,12 +666,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="feature-engine-feature-engine-feature-engine"></a>[Feature Engine](https://github.com/feature-engine/feature_engine)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Summary:** Feature-engine is a Python library that contains several transformers to engineer features for use in machine learning models.
 
@@ -694,13 +682,14 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="h2o-3-h2oai-h2o-3"></a>[H2O-3](https://github.com/h2oai/h2o-3)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Summary:** Fast scalable Machine Learning platform for smarter applications: Deep Learning, Gradient Boosting & XGBoost, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked...
 
@@ -710,8 +699,9 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="rllib-ray-project-ray"></a>[RLlib](https://github.com/ray-project/ray)
@@ -726,12 +716,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="scikit-image-scikit-image-scikit-image"></a>[Scikit-Image](https://github.com/scikit-image/scikit-image)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 3 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning, vinta/awesome-python
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Summary:** A collection of algorithms for image processing in Python.
 
@@ -741,14 +731,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 92 · observed 2026-07-27
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="spacy-explosion-spacy"></a>[SpaCy](https://github.com/explosion/spacy)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Summary:** spaCy is a library for advanced Natural Language Processing in Python and Cython.
 
@@ -758,13 +747,14 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="stable-baselines-dlr-rm-stable-baselines3"></a>[Stable Baselines](https://github.com/dlr-rm/stable-baselines3)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Summary:** A fork of OpenAI Baselines, implementations of reinforcement learning algorithms.
 
@@ -774,8 +764,24 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
+
+---
+### <a id="vercel-ai-vercel-ai"></a>[Vercel AI](https://github.com/vercel/ai)
+
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: EthicalML/awesome-production-machine-learning
+
+**Summary:** Vercel AI is a TypeScript toolkit designed to help you build AI-powered applications using popular frameworks like Next.js, React, Svelte, Vue and runtimes like Node.js.
+
+**Why it is here:** Vercel AI is a TypeScript toolkit designed to help you build AI-powered applications using popular frameworks like Next.js, React, Svelte, Vue and...
+
+**Caveat:** Candidate still needs human review before endorsement.
+
+**Source traces:**
+
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="agentify-koriyoshi2041-agentify"></a>[Agentify](https://github.com/koriyoshi2041/agentify)
@@ -790,7 +796,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
 
 ---
 ### <a id="ashvardanian-numkong-ashvardanian-numkong"></a>[ashvardanian/NumKong](https://github.com/ashvardanian/numkong)
@@ -805,13 +811,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
 
 ---
 ### <a id="askbudi-roundtable-askbudi-roundtable"></a>[askbudi/roundtable](https://github.com/askbudi/roundtable)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: vuejs/awesome-vue, punkpeye/awesome-mcp-servers
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: punkpeye/awesome-mcp-servers
 
 **Summary:** 📇 ☁️ 🏠 🍎 🪟 🐧 Meta-MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized MCP interface, providing zero-configuration access...
 
@@ -821,13 +827,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) · ROSTER · quality 96 · observed 2026-07-27
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 99 · observed 2026-07-27
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="bread-wandb-viewer-bread-technologies-bread-wandb-viewer-extension"></a>[Bread WandB Viewer](https://github.com/bread-technologies/bread_wandb_viewer_extension)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** A VS Code extension to view Weights & Biases experiments, logs, and artifacts within the IDE, eliminating the need to switch to the web UI & preserving data privacy by being 100% offline.
 
@@ -837,7 +842,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="burn-tracel-ai-burn"></a>[burn](https://github.com/tracel-ai/burn)
@@ -852,13 +858,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="catalyst-catalyst-team-catalyst"></a>[Catalyst](https://github.com/catalyst-team/catalyst)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
 
 **Summary:** High-level utils for PyTorch DL & RL research. It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing. Being able to research/develop something new, rather than write another...
 
@@ -868,13 +874,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 92 · observed 2026-07-27
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="clearml-clearml-clearml"></a>[ClearML](https://github.com/clearml/clearml)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data Management, Pipeline, Orchestration, Scheduling & Serving in one MLOps/LLMOps solution.
 
@@ -884,7 +889,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="cloudforest-ryanbressler-cloudforest"></a>[CloudForest](https://github.com/ryanbressler/cloudforest)
@@ -899,8 +905,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="corenlp-nlp"></a>[CoreNLP](https://nlp.stanford.edu/software/corenlp.shtml)
@@ -915,7 +921,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="cursor-cursor"></a>[Cursor](https://cursor.com)
@@ -930,7 +936,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="dagger-container-use-dagger-container-use"></a>[dagger/container-use](https://github.com/dagger/container-use)
@@ -945,12 +951,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 99 · observed 2026-07-27
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="deap-deap-deap"></a>[DEAP](https://github.com/deap/deap)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** A novel evolutionary computation framework for rapid prototyping and testing of ideas. It seeks to make algorithms explicit and data structures transparent. It works in perfect harmony with parallelisation mechanisms...
 
@@ -960,12 +966,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="deepdetect-jolibrain-deepdetect"></a>[DeepDetect](https://github.com/jolibrain/deepdetect)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** Machine Learning production server for TensorFlow, XGBoost and Cafe models written in C++ and maintained by Jolibrain.
 
@@ -975,12 +982,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="detectron2-facebookresearch-detectron2"></a>[Detectron2](https://github.com/facebookresearch/detectron2)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** Detectron2 is Facebook AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms.
 
@@ -990,12 +998,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="determined-determined-ai-determined"></a>[Determined](https://github.com/determined-ai/determined)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** Deep learning training platform with integrated support for distributed training, hyperparameter tuning, and model management (supports Tensorflow and Pytorch).
 
@@ -1005,12 +1014,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="dlib-davisking-dlib"></a>[Dlib](https://github.com/davisking/dlib)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: academic/awesome-datascience, fffaraz/awesome-cpp
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: fffaraz/awesome-cpp
 
 **Summary:** zap: A toolkit for making real world machine learning and data analysis applications in C++. [Boost]
 
@@ -1020,13 +1030,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 92 · observed 2026-07-27
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
 
 ---
 ### <a id="dspy-stanfordnlp-dspy"></a>[dspy](https://github.com/stanfordnlp/dspy)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: vinta/awesome-python
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Summary:** A framework for programming with foundation models.
 
@@ -1036,12 +1045,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="evidently-evidentlyai-evidently"></a>[Evidently](https://github.com/evidentlyai/evidently)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** Evidently is an open-source framework to evaluate, test and monitor ML and LLM-powered systems.
 
@@ -1051,12 +1061,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="faiss-facebookresearch-faiss"></a>[Faiss](https://github.com/facebookresearch/faiss)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: fffaraz/awesome-cpp
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, fffaraz/awesome-cpp
 
 **Summary:** Faiss is a library for efficient similarity search and clustering of dense vectors.
 
@@ -1066,12 +1077,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
 
 ---
 ### <a id="flashlight-flashlight-flashlight"></a>[Flashlight](https://github.com/flashlight/flashlight)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: fffaraz/awesome-cpp
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, fffaraz/awesome-cpp
 
 **Summary:** A fast, flexible machine learning library written entirely in C++ from the Facebook AI Research and the creators of Torch, TensorFlow, Eigen and Deep Speech.
 
@@ -1081,7 +1093,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
 
 ---
 ### <a id="gocv-hybridgroup-gocv"></a>[GoCV](https://github.com/hybridgroup/gocv)
@@ -1096,8 +1109,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="golearn-sjwhitworth-golearn"></a>[GoLearn](https://github.com/sjwhitworth/golearn)
@@ -1112,8 +1125,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="gorse-zhenghaoz-gorse"></a>[gorse](https://github.com/zhenghaoz/gorse)
@@ -1128,13 +1141,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="gymnasium-farama-foundation-gymnasium"></a>[Gymnasium](https://github.com/farama-foundation/gymnasium)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** Gymnasium is an open source Python library for developing and comparing reinforcement learning algorithms by providing a standard API to communicate between learning algorithms and environments, as well as a standard...
 
@@ -1144,12 +1157,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="haystack-deepset-ai-haystack"></a>[Haystack](https://github.com/deepset-ai/haystack)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** Haystack is an open source NLP framework to interact with your data using Transformer models and LLMs (GPT-3 and alike). Haystack offers production-ready tools to quickly build ChatGPT-like question answering,...
 
@@ -1159,12 +1173,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="hopsworks-logicalclocks-hopsworks"></a>[Hopsworks](https://github.com/logicalclocks/hopsworks)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** A data-intensive platform for AI with the industry's first open-source feature store. The Hopsworks Feature Store provides both a feature warehouse for training and batch based on Apache Hive and a feature serving...
 
@@ -1174,7 +1189,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="huggingface-tokenizers-huggingface-tokenizers"></a>[huggingface/tokenizers](https://github.com/huggingface/tokenizers)
@@ -1189,8 +1205,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="infer-net-dotnet"></a>[Infer.NET](https://dotnet.github.io/infer)
@@ -1205,12 +1221,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="interpretml-interpretml-interpret"></a>[InterpretML](https://github.com/interpretml/interpret)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** InterpretML implements the Explainable Boosting Machine (EBM), a modern, fully interpretable machine learning model based on Generalized Additive Models (GAMs). This open-source package also provides visualization...
 
@@ -1220,12 +1236,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="jax-jax-ml-jax"></a>[Jax](https://github.com/jax-ml/jax)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: vinta/awesome-python
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Summary:** Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
 
@@ -1235,7 +1252,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="jieba-php-fukuball-jieba-php"></a>[Jieba-PHP](https://github.com/fukuball/jieba-php)
@@ -1250,7 +1268,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="kagan-sh-kagan-kagan-sh-kagan"></a>[kagan-sh/kagan](https://github.com/kagan-sh/kagan)
@@ -1265,12 +1283,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 99 · observed 2026-07-27
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="keras-tuner-keras-team-keras-tuner"></a>[keras-tuner](https://github.com/keras-team/keras-tuner)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** Keras Tuner is an easy-to-use, distributable hyperparameter optimisation framework that solves the pain points of performing a hyperparameter search. Keras Tuner makes it easy to define a search space and leverage...
 
@@ -1280,12 +1298,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="langchain-langchain-ai-langchain"></a>[LangChain](https://github.com/langchain-ai/langchain)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: vinta/awesome-python
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Summary:** LangChain assists in building applications with LLMs through composability.
 
@@ -1295,12 +1314,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="lightlytrain-lightly-ai-lightly-train"></a>[LightlyTrain](https://github.com/lightly-ai/lightly-train)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** Pretrain computer vision models on unlabeled data for industrial applications.
 
@@ -1310,7 +1330,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="linfa-rust-ml-linfa"></a>[linfa](https://github.com/rust-ml/linfa)
@@ -1325,13 +1346,28 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+
+---
+### <a id="llamaindex-run-llama-llama-index"></a>[LlamaIndex](https://github.com/run-llama/llama_index)
+
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: EthicalML/awesome-production-machine-learning
+
+**Summary:** LlamaIndex (GPT Index) is a data framework for your LLM application.
+
+**Why it is here:** Abstracciones de retrieval robustas (query engines)
+
+**Caveat:** Candidate still needs human review before endorsement.
+
+**Source traces:**
+
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="localai-mudler-localai"></a>[LocalAI](https://github.com/mudler/localai)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: avelino/awesome-go
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, avelino/awesome-go
 
 **Summary:** LocalAI is a drop-in replacement REST API that's compatible with OpenAI API specifications for local inferencing.
 
@@ -1341,7 +1377,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="mcp-memory-service-doobidoo-mcp-memory-service"></a>[MCP Memory Service](https://github.com/doobidoo/mcp-memory-service)
@@ -1356,13 +1393,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 99 · observed 2026-07-27
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="milvus-milvus-io-milvus"></a>[Milvus](https://github.com/milvus-io/milvus)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: avelino/awesome-go
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, avelino/awesome-go
 
 **Summary:** Milvus is a cloud-native, open-source vector database built to manage embedding vectors generated by machine learning models and neural networks.
 
@@ -1372,12 +1409,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="mljar-supervised-mljar-mljar-supervised"></a>[mljar-supervised](https://github.com/mljar/mljar-supervised)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** A Python package for AutoML on tabular data with feature engineering, hyper-parameters tuning, explanations and automatic documentation.
 
@@ -1387,12 +1425,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="mlxtend-rasbt-mlxtend"></a>[mlxtend](https://github.com/rasbt/mlxtend)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
 
 **Summary:** A library consisting of useful tools for data science and machine learning tasks.
 
@@ -1402,8 +1441,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 92 · observed 2026-07-27
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="nimbalyst-nimbalyst"></a>[Nimbalyst](https://nimbalyst.com)
@@ -1418,7 +1456,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="onednn-oneapi-src-onednn"></a>[oneDNN](https://github.com/oneapi-src/onednn)
@@ -1433,8 +1471,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="opik-comet-2"></a>[Opik](https://comet.com/site/products/opik)
@@ -1449,12 +1487,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="optuna-optuna-optuna"></a>[Optuna](https://github.com/optuna/optuna)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** Optuna is an automatic hyperparameter optimisation software framework, particularly designed for machine learning.
 
@@ -1464,7 +1502,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="oryx-2-oryxproject-oryx"></a>[Oryx 2](https://github.com/oryxproject/oryx)
@@ -1479,7 +1518,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="pgmpy-pgmpy-pgmpy"></a>[pgmpy](https://github.com/pgmpy/pgmpy)
@@ -1494,13 +1533,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="pyod-yzhao062-pyod"></a>[PyOD](https://github.com/yzhao062/pyod)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** Python Outlier Detection, comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. Featured for Advanced models, including Neural Networks/Deep Learning and Outlier Ensembles.
 
@@ -1510,12 +1549,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="pysyft-openmined-pysyft"></a>[PySyft](https://github.com/openmined/pysyft)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** A Python library for secure, private Deep Learning. PySyft decouples private data from model training, using Multi-Party (MPC) within PyTorch.
 
@@ -1525,12 +1565,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="pytorch-lightning-lightning-ai-pytorch-lightning"></a>[PyTorch Lightning](https://github.com/lightning-ai/pytorch-lightning)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: vinta/awesome-python
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Summary:** PyTorch Lightning pretrains, finetunes and deploys AI models on multiple GPUs, TPUs with zero code changes.
 
@@ -1540,12 +1581,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="qdrant-qdrant-qdrant"></a>[Qdrant](https://github.com/qdrant/qdrant)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: rust-unofficial/awesome-rust
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, rust-unofficial/awesome-rust
 
 **Summary:** An open source vector similarity search engine with extended filtering support
 
@@ -1555,7 +1597,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="rust-bert-guillaume-be-rust-bert"></a>[rust-bert](https://github.com/guillaume-be/rust-bert)
@@ -1570,13 +1613,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="sacred-idsia-sacred"></a>[Sacred](https://github.com/idsia/sacred)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** Python tool to help you configure, organize, log and reproduce experiments. Like a notebook lab in the context of Chemistry/Biology. The community has built multiple add-ons leveraging the proposed standard.
 
@@ -1586,12 +1629,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="scikit-opt-guofei9987-scikit-opt"></a>[Scikit-Opt](https://github.com/guofei9987/scikit-opt)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
 
 **Summary:** Swarm Intelligence in Python (Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Algorithm, Immune Algorithm, Artificial Fish Swarm Algorithm in Python)
 
@@ -1601,13 +1645,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 92 · observed 2026-07-27
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="sglang-sgl-project-sglang"></a>[SGLang](https://github.com/sgl-project/sglang)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: vinta/awesome-python
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Summary:** SGLang is a fast serving framework for large language models and vision language models.
 
@@ -1617,12 +1660,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="shapash-maif-shapash"></a>[SHAPash](https://github.com/maif/shapash)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** Shapash is a Python library that provides several types of visualization that display explicit labels that everyone can understand.
 
@@ -1632,7 +1676,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="shogun-shogun-toolbox-shogun"></a>[SHOGUN](https://github.com/shogun-toolbox/shogun)
@@ -1647,8 +1692,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="skill-seekers-skillseekers-yusufkaraaslan-skill-seekers"></a>[skill-seekers/SkillSeekers](https://github.com/yusufkaraaslan/skill_seekers)
@@ -1663,7 +1708,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 99 · observed 2026-07-27
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="spago-nlpodyssey-spago"></a>[spaGO](https://github.com/nlpodyssey/spago)
@@ -1678,8 +1723,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="spfunctions-simplefunctions-cli-spfunctions-simplefunctions-cli"></a>[spfunctions/simplefunctions-cli](https://github.com/spfunctions/simplefunctions-cli)
@@ -1694,13 +1739,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-07-27
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 99 · observed 2026-07-27
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-08-03
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="tabgan-diyago-tabular-data-generation"></a>[TabGAN](https://github.com/diyago/tabular-data-generation)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: vinta/awesome-python
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Summary:** Synthetic tabular data generation using GANs (CTGAN), Diffusion Models, and LLMs with adversarial filtering, privacy metrics, and sklearn integration.
 
@@ -1710,7 +1755,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="tch-rs-laurentmazare-tch-rs"></a>[tch-rs](https://github.com/laurentmazare/tch-rs)
@@ -1725,13 +1771,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="tensorzero-tensorzero-tensorzero"></a>[TensorZero](https://github.com/tensorzero/tensorzero)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: rust-unofficial/awesome-rust, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: rust-unofficial/awesome-rust
 
 **Summary:** data & learning flywheel for LLMs that unifies inference, observability, optimization, and experimentation
 
@@ -1741,13 +1787,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="tf-agents-tensorflow-agents"></a>[TF-Agents](https://github.com/tensorflow/agents)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: academic/awesome-datascience
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: EthicalML/awesome-production-machine-learning
 
 **Summary:** A reliable, scalable and easy to use TensorFlow library for contextual bandits and reinforcement learning.
 
@@ -1757,12 +1802,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 92 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="tpot-epistasislab-tpot"></a>[TPOT](https://github.com/epistasislab/tpot)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** Tool that automatically creates and optimizes machine learning pipelines using genetic programming. Consider it your personal data science assistant, automating a tedious part of machine learning.
 
@@ -1772,12 +1817,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="unsloth-unslothai-unsloth"></a>[unsloth](https://github.com/unslothai/unsloth)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: vinta/awesome-python
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Summary:** Fine-tuning & Reinforcement Learning for LLMs. Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM.
 
@@ -1787,7 +1833,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="usearch-unum-cloud-usearch"></a>[USearch](https://github.com/unum-cloud/usearch)
@@ -1802,13 +1849,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
 
 ---
 ### <a id="vllm-vllm-project-vllm"></a>[vLLM](https://github.com/vllm-project/vllm)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: vinta/awesome-python
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Summary:** vLLM is a high-throughput and memory-efficient inference and serving engine for LLMs.
 
@@ -1818,12 +1865,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="vowpal-wabbit-vowpalwabbit-vowpal-wabbit"></a>[Vowpal Wabbit](https://github.com/vowpalwabbit/vowpal_wabbit)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.
 
@@ -1833,7 +1881,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="windsurf-windsurf"></a>[Windsurf](https://windsurf.com)
@@ -1848,12 +1897,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="xlearn-aksnzhy-xlearn"></a>[xLearn](https://github.com/aksnzhy/xlearn)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
 
 **Summary:** A high performance, easy-to-use, and scalable machine learning package, which can be used to solve large-scale machine learning problems. xLearn is especially useful for solving machine learning problems on...
 
@@ -1863,13 +1912,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 92 · observed 2026-07-27
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="yolov8-ultralytics-ultralytics"></a>[YOLOv8](https://github.com/ultralytics/ultralytics)
 
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
 
 **Summary:** Ultralytics' YOLOv8 implementation with C++ support for real-time object detection and tracking, optimized for edge devices.
 
@@ -1879,34 +1927,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 92 · observed 2026-07-27
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
-
----
-### <a id="vercel-ai-vercel-ai"></a>[Vercel AI](https://github.com/vercel/ai)
-
-**Label:** Needs Review · **Domain:** AI & ML · **Signal:** Found in 3 active sources
-
-**Summary:** Vercel AI is a TypeScript toolkit designed to help you build AI-powered applications using popular frameworks like Next.js, React, Svelte, Vue and runtimes like Node.js.
-
-**Why it is here:** Vercel AI is a TypeScript toolkit designed to help you build AI-powered applications using popular frameworks like Next.js, React, Svelte, Vue and...
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:** Needs trace review.
-
----
-### <a id="llamaindex-run-llama-llama-index"></a>[LlamaIndex](https://github.com/run-llama/llama_index)
-
-**Label:** Needs Review · **Domain:** AI & ML · **Signal:** Found in 2 active sources
-
-**Summary:** LlamaIndex (GPT Index) is a data framework for your LLM application.
-
-**Why it is here:** Abstracciones de retrieval robustas (query engines)
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:** Needs trace review.
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 
@@ -1924,13 +1945,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="deployer-deployphp-deployer"></a>[Deployer](https://github.com/deployphp/deployer)
 
-**Label:** Worth Trying · **Domain:** DevOps · **Signal:** Found in 1 active source: MunGell/awesome-for-beginners
+**Label:** Worth Trying · **Domain:** DevOps · **Signal:** Found in 2 active sources
 
 **Summary:** A deployment tool written in PHP with support for popular frameworks out of the box.
 
@@ -1938,9 +1959,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Caveat:** Promising signal, but source consensus is still narrow.
 
-**Source traces:**
-
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+**Source traces:** Needs trace review.
 
 ---
 ### <a id="meshcentral-meshcentral"></a>[MeshCentral](https://meshcentral.com)
@@ -1971,7 +1990,7 @@ These are strong automated candidates worth human review next. They are not endo
 ---
 ### <a id="dragonfly-dragonflyoss-dragonfly2"></a>[Dragonfly](https://github.com/dragonflyoss/dragonfly2)
 
-**Label:** AI Candidate · **Domain:** DevOps · **Signal:** Found in 3 active sources: veggiemonk/awesome-docker, avelino/awesome-go, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** DevOps · **Signal:** Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go
 
 **Summary:** Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard solution in cloud native architectures.
 
@@ -1981,9 +2000,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 97 · observed 2026-07-27
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 95 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="zookeeper-zookeeper"></a>[ZooKeeper](https://zookeeper.apache.org)
@@ -1998,12 +2016,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="ansible-ansible-ansible"></a>[Ansible](https://github.com/ansible/ansible)
 
-**Label:** AI Candidate · **Domain:** DevOps · **Signal:** Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** DevOps · **Signal:** Found in 1 active source: vinta/awesome-python
 
 **Summary:** A simple IT automation platform
 
@@ -2013,13 +2031,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="borgbackup-borgbackup-borg"></a>[BorgBackup](https://github.com/borgbackup/borg)
 
-**Label:** AI Candidate · **Domain:** DevOps · **Signal:** Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** DevOps · **Signal:** Found in 1 active source: vinta/awesome-python
 
 **Summary:** Deduplicating backup program with compression and authenticated encryption.
 
@@ -2029,8 +2046,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="cadvisor-google-cadvisor"></a>[cadvisor](https://github.com/google/cadvisor)
@@ -2045,7 +2061,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 97 · observed 2026-07-27
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 95 · observed 2026-08-03
 
 ---
 ### <a id="changedetection-io-changedetection"></a>[changedetection.io](https://changedetection.io)
@@ -2060,7 +2076,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-07-27
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-08-03
 
 ---
 ### <a id="chasquid-blitiri"></a>[chasquid](https://blitiri.com.ar/p/chasquid)
@@ -2075,7 +2091,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="circleci-circleci"></a>[CircleCI](https://circleci.com)
@@ -2090,12 +2106,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 97 · observed 2026-07-27
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 95 · observed 2026-08-03
 
 ---
 ### <a id="cml-iterative-cml"></a>[CML](https://github.com/iterative/cml)
 
-**Label:** AI Candidate · **Domain:** DevOps · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** DevOps · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** A library for doing continuous integration with ML projects. Use GitHub Actions & GitLab CI to train and evaluate models in production like environments and automatically generate visual reports with metrics and...
 
@@ -2105,7 +2121,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="concourse-concourse-ci"></a>[Concourse](https://concourse-ci.org)
@@ -2120,7 +2137,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 97 · observed 2026-07-27
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 95 · observed 2026-08-03
 
 ---
 ### <a id="consul-consul"></a>[Consul](https://consul.io)
@@ -2135,7 +2152,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="ctop-bcicen-ctop"></a>[ctop](https://github.com/bcicen/ctop)
@@ -2150,8 +2167,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="dive-wagoodman-dive"></a>[dive](https://github.com/wagoodman/dive)
@@ -2166,8 +2183,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 97 · observed 2026-07-27
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 95 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="dnsdumpster-dnsdumpster"></a>[DNSDumpster](https://dnsdumpster.com)
@@ -2182,8 +2199,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-07-27
-- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 100 · observed 2026-07-27
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-08-03
+- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 94 · observed 2026-07-27
 
 ---
 ### <a id="docker-volume-backup-offen-docker-volume-backup"></a>[docker-volume-backup](https://github.com/offen/docker-volume-backup)
@@ -2198,8 +2215,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 97 · observed 2026-07-27
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 95 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="docker-dotnet-microsoft-docker-dotnet"></a>[Docker.DotNet](https://github.com/microsoft/docker.dotnet)
@@ -2214,7 +2231,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 97 · observed 2026-07-27
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 95 · observed 2026-08-03
 
 ---
 ### <a id="dockly-lirantal-dockly"></a>[dockly](https://github.com/lirantal/dockly)
@@ -2229,8 +2246,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 97 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 95 · observed 2026-08-03
 
 ---
 ### <a id="domcyrus-rustnet-domcyrus-rustnet"></a>[domcyrus/rustnet](https://github.com/domcyrus/rustnet)
@@ -2245,8 +2262,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="drone-drone-drone"></a>[Drone](https://github.com/drone/drone)
@@ -2261,8 +2278,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 97 · observed 2026-07-27
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 95 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="hertzbeat-dromara-hertzbeat"></a>[HertzBeat](https://github.com/dromara/hertzbeat)
@@ -2277,7 +2294,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 97 · observed 2026-07-27
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 95 · observed 2026-08-03
 
 ---
 ### <a id="k9s-derailed-k9s"></a>[k9s](https://github.com/derailed/k9s)
@@ -2292,8 +2309,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="lazydocker-jesseduffield-lazydocker"></a>[lazydocker](https://github.com/jesseduffield/lazydocker)
@@ -2308,8 +2325,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 97 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 95 · observed 2026-08-03
 
 ---
 ### <a id="lazyjournal-lifailon-lazyjournal"></a>[lazyjournal](https://github.com/lifailon/lazyjournal)
@@ -2324,8 +2341,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 97 · observed 2026-07-27
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 95 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="localtunnel-localtunnel-localtunnel"></a>[localtunnel](https://github.com/localtunnel/localtunnel)
@@ -2340,12 +2357,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
 
 ---
 ### <a id="luigi-spotify-luigi"></a>[Luigi](https://github.com/spotify/luigi)
 
-**Label:** AI Candidate · **Domain:** DevOps · **Signal:** Found in 1 active source: vinta/awesome-python
+**Label:** AI Candidate · **Domain:** DevOps · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Summary:** Luigi is a Python module that helps you build complex pipelines of batch jobs, handling dependency resolution, workflow management, visualisation, etc..
 
@@ -2355,12 +2372,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="myip-jason5ng32-myip"></a>[MyIP](https://github.com/jason5ng32/myip)
 
-**Label:** AI Candidate · **Domain:** DevOps · **Signal:** Found in 2 active sources: veggiemonk/awesome-docker, vuejs/awesome-vue
+**Label:** AI Candidate · **Domain:** DevOps · **Signal:** Found in 1 active source: veggiemonk/awesome-docker
 
 **Summary:** All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check availability, whois search and more. By jason5ng32.
 
@@ -2370,8 +2388,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 97 · observed 2026-07-27
-- [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) · ROSTER · quality 96 · observed 2026-07-27
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 95 · observed 2026-08-03
 
 ---
 ### <a id="netdata-netdata-netdata-netdata-netdata"></a>[netdata/netdata#Netdata](https://github.com/netdata/netdata)
@@ -2386,8 +2403,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 97 · observed 2026-07-27
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 99 · observed 2026-07-27
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 95 · observed 2026-08-03
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="nextcloud-nextcloud"></a>[Nextcloud](https://nextcloud.com)
@@ -2402,7 +2419,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="nwiizo-tfmcp-nwiizo-tfmcp"></a>[nwiizo/tfmcp](https://github.com/nwiizo/tfmcp)
@@ -2417,8 +2434,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 99 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="orhun-rustypaste-orhun-rustypaste"></a>[orhun/rustypaste](https://github.com/orhun/rustypaste)
@@ -2433,7 +2450,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="outline-server-getoutline"></a>[Outline Server](https://getoutline.org)
@@ -2448,7 +2465,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="oxker-mrjackwills-oxker"></a>[oxker](https://github.com/mrjackwills/oxker)
@@ -2463,8 +2480,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 97 · observed 2026-07-27
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 95 · observed 2026-08-03
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="pm2-unitech-pm2"></a>[pm2](https://github.com/unitech/pm2)
@@ -2479,12 +2496,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
 
 ---
 ### <a id="prefect-core-prefecthq-prefect"></a>[Prefect Core](https://github.com/prefecthq/prefect)
 
-**Label:** AI Candidate · **Domain:** DevOps · **Signal:** Found in 1 active source: vinta/awesome-python
+**Label:** AI Candidate · **Domain:** DevOps · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Summary:** Workflow management system that makes it easy to take your data pipelines and add semantics like retries, logging, dynamic mapping, caching, failure notifications, and more.
 
@@ -2494,7 +2511,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="prometheus-prometheus"></a>[Prometheus](https://prometheus.io)
@@ -2509,7 +2527,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 97 · observed 2026-07-27
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 95 · observed 2026-08-03
 
 ---
 ### <a id="qemu-qemu"></a>[QEMU](https://qemu.org)
@@ -2524,7 +2542,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="ryot-ignisda-ryot"></a>[ryot](https://github.com/ignisda/ryot)
@@ -2539,7 +2557,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="s5cmd-peak-s5cmd"></a>[s5cmd](https://github.com/peak/s5cmd)
@@ -2554,13 +2572,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="saltstack-saltstack-salt"></a>[SaltStack](https://github.com/saltstack/salt)
 
-**Label:** AI Candidate · **Domain:** DevOps · **Signal:** Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** DevOps · **Signal:** Found in 1 active source: vinta/awesome-python
 
 **Summary:** Software to automate the management and configuration of any infrastructure or application at scale.
 
@@ -2570,8 +2588,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="scapy-secdev-scapy"></a>[scapy](https://github.com/secdev/scapy)
@@ -2586,8 +2603,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 100 · observed 2026-07-27
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 94 · observed 2026-07-27
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="semaphore-ci-semaphore-2"></a>[Semaphore CI](https://semaphore.io)
@@ -2602,7 +2619,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 97 · observed 2026-07-27
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 95 · observed 2026-08-03
 
 ---
 ### <a id="sintan1729-chhoto-url-sintan1729-chhoto-url"></a>[SinTan1729/Chhoto URL](https://github.com/sintan1729/chhoto-url)
@@ -2617,7 +2634,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="tr-f-k-containous-traefik"></a>[Træfɪk](https://github.com/containous/traefik)
@@ -2632,7 +2649,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 97 · observed 2026-07-27
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 95 · observed 2026-08-03
 
 ---
 
@@ -2640,7 +2657,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 ### <a id="nativescript-nativescript-nativescript"></a>[NativeScript](https://github.com/nativescript/nativescript)
 
-**Label:** Worth Trying · **Domain:** Mobile · **Signal:** Found in 1 active source: MunGell/awesome-for-beginners
+**Label:** Worth Trying · **Domain:** Mobile · **Signal:** Found in 1 active source: sorrycc/awesome-javascript
 
 **Summary:** NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.
 
@@ -2650,12 +2667,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) · ROSTER · quality 88 · observed 2026-08-03
 
 ---
 ### <a id="runanywhere-runanywhereai-runanywhere-sdks"></a>[RunAnywhere](https://github.com/runanywhereai/runanywhere-sdks)
 
-**Label:** AI Candidate · **Domain:** Mobile · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** Mobile · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** RunAnywhere is a production-ready SDK for running AI models (LLMs, speech-to-text, text-to-speech) on-device for iOS, Android, React Native, and Flutter enabling private, offline, and fast mobile AI applications.
 
@@ -2665,7 +2682,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="zxing-zxing-zxing"></a>[ZXing](https://github.com/zxing/zxing)
@@ -2680,7 +2698,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
 
 ---
 
@@ -2688,7 +2706,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 ### <a id="recharts-recharts-recharts"></a>[recharts](https://github.com/recharts/recharts)
 
-**Label:** Human Pick · **Domain:** Data & Databases · **Signal:** Found in 3 active sources
+**Label:** Human Pick · **Domain:** Data & Databases · **Signal:** Found in 1 active source: sorrycc/awesome-javascript
 
 **Summary:** Redefined chart library built with React and D3.
 
@@ -2696,7 +2714,9 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Caveat:** Worth a focused trial before adopting broadly.
 
-**Source traces:** Needs trace review.
+**Source traces:**
+
+- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) · ROSTER · quality 88 · observed 2026-08-03
 
 ---
 ### <a id="openstreetmap-openstreetmap"></a>[OpenStreetMap](https://openstreetmap.org)
@@ -2714,7 +2734,7 @@ These are strong automated candidates worth human review next. They are not endo
 ---
 ### <a id="pouchdb-pouchdb-pouchdb"></a>[pouchdb](https://github.com/pouchdb/pouchdb)
 
-**Label:** Worth Trying · **Domain:** Data & Databases · **Signal:** Found in 1 active source: MunGell/awesome-for-beginners
+**Label:** Worth Trying · **Domain:** Data & Databases · **Signal:** Found in 1 active source: sorrycc/awesome-javascript
 
 **Summary:** Javascript db inspired by Apache CouchDB to run well within the browser.
 
@@ -2724,12 +2744,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) · ROSTER · quality 88 · observed 2026-08-03
 
 ---
 ### <a id="gradio-gradio-app-gradio"></a>[gradio](https://github.com/gradio-app/gradio)
 
-**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
+**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Summary:** Quickly create and share demos of models by only writing Python. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
 
@@ -2739,13 +2759,14 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="matplotlib-matplotlib-matplotlib"></a>[matplotlib](https://github.com/matplotlib/matplotlib)
 
-**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Summary:** A Python 2D plotting library which produces publication-quality figures in a variety of hardcopy formats and interactive environments across platforms.
 
@@ -2755,13 +2776,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="streamlit-streamlit-streamlit"></a>[Streamlit](https://github.com/streamlit/streamlit)
 
-**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
+**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Summary:** Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts. It supports hot-reloading, so your app updates live as you edit and save your file.
 
@@ -2771,8 +2792,9 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="ajitpratap0-gosqlx-ajitpratap0-gosqlx"></a>[ajitpratap0/GoSQLX](https://github.com/ajitpratap0/gosqlx)
@@ -2787,8 +2809,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 99 · observed 2026-07-27
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="aleph-aleph"></a>[Aleph](https://aleph.occrp.org)
@@ -2803,7 +2825,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-07-27
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-08-03
 
 ---
 ### <a id="another-redis-desktop-manager-qishibo-anotherredisdesktopmanager"></a>[Another Redis Desktop Manager](https://github.com/qishibo/anotherredisdesktopmanager)
@@ -2818,12 +2840,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="apache-airflow-apache-airflow"></a>[Apache Airflow](https://github.com/apache/airflow)
 
-**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 1 active source: vinta/awesome-python
+**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Summary:** Data Pipeline framework built in Python, including scheduler, DAG definition and a UI for visualisation.
 
@@ -2833,12 +2855,44 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
+
+---
+### <a id="apache-echarts-apache-echarts"></a>[Apache ECharts](https://github.com/apache/echarts)
+
+**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, sorrycc/awesome-javascript
+
+**Summary:** Apache ECharts is a powerful, interactive charting and data visualization library for browser.
+
+**Why it is here:** Rendering performante incluso con datasets grandes
+
+**Caveat:** Candidate still needs human review before endorsement.
+
+**Source traces:**
+
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) · ROSTER · quality 88 · observed 2026-08-03
+
+---
+### <a id="apache-ignite-apache-ignite"></a>[Apache Ignite](https://github.com/apache/ignite)
+
+**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 1 active source: EthicalML/awesome-production-machine-learning
+
+**Summary:** A memory-centric distributed database, caching, and processing platform for transactional, analytical, and streaming workloads delivering in-memory speeds at petabyte scale Demo.
+
+**Why it is here:** SQL + compute colocado reducen network roundtrips
+
+**Caveat:** Candidate still needs human review before endorsement.
+
+**Source traces:**
+
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="bread-dataset-viewer-bread-technologies-mle-vscode-extension"></a>[Bread Dataset Viewer](https://github.com/bread-technologies/mle_vscode_extension)
 
-**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** A VS Code extension for viewing and exploring large machine learning datasets (CSV, JSON, Parquet, etc.) directly within the editor without VS Code crashing in a clean UI.
 
@@ -2848,12 +2902,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="c3-js-c3js"></a>[C3.js](https://c3js.org)
 
-**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
 
 **Summary:** customizable library based on D3.js for easy chart drawing.
 
@@ -2863,8 +2918,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 92 · observed 2026-07-27
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="chart-js-chartjs"></a>[Chart.js](https://chartjs.org)
@@ -2879,12 +2933,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-07-27
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-08-03
 
 ---
 ### <a id="cleanlab-cleanlab-cleanlab"></a>[cleanlab](https://github.com/cleanlab/cleanlab)
 
-**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** Python library for data-centric AI. Can automatically: find mislabeled data, detect outliers, estimate consensus + annotator-quality for multi-annotator datasets, suggest which data is best to (re)label next.
 
@@ -2894,7 +2948,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="csvkit-wireservice-csvkit"></a>[csvkit](https://github.com/wireservice/csvkit)
@@ -2909,13 +2964,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-07-27
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="cuml-rapidsai-cuml"></a>[CuML](https://github.com/rapidsai/cuml)
 
-**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 1 active source: academic/awesome-datascience
+**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 1 active source: EthicalML/awesome-production-machine-learning
 
 **Summary:** cuML is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects.
 
@@ -2925,12 +2980,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 92 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="dagster-dagster-io-dagster"></a>[Dagster](https://github.com/dagster-io/dagster)
 
-**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 1 active source: vinta/awesome-python
+**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Summary:** A data orchestrator for machine learning, analytics, and ETL.
 
@@ -2940,7 +2995,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="dasel-tomwright-dasel"></a>[dasel](https://github.com/tomwright/dasel)
@@ -2955,13 +3011,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="dask-dask-dask"></a>[Dask](https://github.com/dask/dask)
 
-**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 1 active source: vinta/awesome-python
+**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Summary:** Distributed parallel processing framework for Pandas and NumPy computations.
 
@@ -2971,12 +3027,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="datacompy-capitalone-datacompy"></a>[DataComPy](https://github.com/capitalone/datacompy)
 
-**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
 
 **Summary:** A library to compare Pandas, Polars, and Spark data frames. It provides stats and lets users adjust for match accuracy.
 
@@ -2986,8 +3043,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 92 · observed 2026-07-27
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="dataframes-juliadata-dataframes-jl"></a>[DataFrames](https://github.com/juliadata/dataframes.jl)
@@ -3002,8 +3058,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-07-27
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="datagrip-jetbrains-12"></a>[DataGrip](https://jetbrains.com/datagrip)
@@ -3018,12 +3074,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="deepnote-deepnote-deepnote"></a>[Deepnote](https://github.com/deepnote/deepnote)
 
-**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for...
 
@@ -3033,12 +3089,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="dolt-dolthub-dolt"></a>[Dolt](https://github.com/dolthub/dolt)
 
-**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 1 active source: avelino/awesome-go
+**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, avelino/awesome-go
 
 **Summary:** Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.
 
@@ -3048,7 +3105,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="edgartools-dgunning-edgartools"></a>[edgartools](https://github.com/dgunning/edgartools)
@@ -3063,8 +3121,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-07-27
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="etcd-etcd-io-etcd"></a>[etcd](https://github.com/etcd-io/etcd)
@@ -3079,8 +3137,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 97 · observed 2026-07-27
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 95 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="flatbuffers-google-flatbuffers"></a>[FlatBuffers](https://github.com/google/flatbuffers)
@@ -3095,7 +3153,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
 
 ---
 ### <a id="flink-flink"></a>[Flink](https://flink.apache.org)
@@ -3110,12 +3168,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="gephi-gephi"></a>[Gephi](https://gephi.org)
 
-**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 2 active sources: jivoi/awesome-osint, academic/awesome-datascience
+**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 1 active source: jivoi/awesome-osint
 
 **Summary:** is an open-source graph and network visualization software.
 
@@ -3125,13 +3183,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-07-27
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 92 · observed 2026-07-27
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-08-03
 
 ---
 ### <a id="ggplot2-ggplot2"></a>[ggplot2](https://ggplot2.tidyverse.org)
 
-**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
 
 **Summary:** A data visualization package based on the grammar of graphics.
 
@@ -3141,13 +3198,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 92 · observed 2026-07-27
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="hamilton-dagworks-inc-hamilton"></a>[Hamilton](https://github.com/dagworks-inc/hamilton)
 
-**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** Hamilton is a micro-orchestration framework for defining dataflows. Runs anywhere python runs (e.g. jupyter, fastAPI, spark, ray, dask). Brings software engineering best practices without you knowing it. Use it to...
 
@@ -3157,7 +3213,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="iredis-laixintao-iredis"></a>[iredis](https://github.com/laixintao/iredis)
@@ -3172,8 +3229,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="kubo-ipfs-kubo"></a>[Kubo](https://github.com/ipfs/kubo)
@@ -3188,7 +3245,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="mingo-mingo"></a>[Mingo](https://mingo.io)
@@ -3203,7 +3260,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="mycli-dbcli-mycli"></a>[mycli](https://github.com/dbcli/mycli)
@@ -3218,8 +3275,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="nsq-nsq"></a>[NSQ](https://nsq.io)
@@ -3234,7 +3291,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="numpy-numpy"></a>[numpy](https://numpy.org)
@@ -3249,28 +3306,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-07-27
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
-
----
-### <a id="openrefine-openrefine"></a>[OpenRefine](https://openrefine.org)
-
-**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 1 active source: academic/awesome-datascience
-
-**Summary:** Tool for working with messy data: cleaning, transforming, extending it with web services and linking it to databases.
-
-**Why it is here:** Tool for working with messy data: cleaning, transforming, extending it with web services and linking it to databases.
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 92 · observed 2026-07-27
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="pandas-pandas-dev-pandas"></a>[pandas](https://github.com/pandas-dev/pandas)
 
-**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 1 active source: vinta/awesome-python
 
 **Summary:** Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 
@@ -3280,8 +3322,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="pathwaycom-pathway-pathwaycom-pathway"></a>[pathwaycom/pathway](https://github.com/pathwaycom/pathway)
@@ -3296,13 +3337,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="perspective-finos-perspective"></a>[Perspective](https://github.com/finos/perspective)
 
-**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 1 active source: jivoi/awesome-osint
+**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, jivoi/awesome-osint
 
 **Summary:** Streaming pivot visualization via WebAssembly.
 
@@ -3312,7 +3353,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-08-03
 
 ---
 ### <a id="pgcli-dbcli-pgcli"></a>[pgcli](https://github.com/dbcli/pgcli)
@@ -3327,13 +3369,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="plotly-plotly-plotly-py"></a>[Plotly](https://github.com/plotly/plotly.py)
 
-**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 1 active source: vinta/awesome-python
+**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Summary:** An interactive, open source, and browser-based graphing library for Python.
 
@@ -3343,7 +3385,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="pola-rs-polars-pola-rs-polars"></a>[pola-rs/polars](https://github.com/pola-rs/polars)
@@ -3358,8 +3401,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="protobuf-protocolbuffers-protobuf"></a>[protobuf](https://github.com/protocolbuffers/protobuf)
@@ -3374,7 +3417,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
 
 ---
 ### <a id="pybroker-edtechre-pybroker"></a>[PyBroker](https://github.com/edtechre/pybroker)
@@ -3389,8 +3432,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-07-27
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="pyqtgraph-pyqtgraph-pyqtgraph"></a>[pyqtgraph](https://github.com/pyqtgraph/pyqtgraph)
@@ -3405,43 +3448,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
-
----
-### <a id="questdb-questdb-questdb"></a>[QuestDB](https://github.com/questdb/questdb)
-
-**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 1 active source: MunGell/awesome-for-beginners
-
-**Summary:** High-performance SQL database for time series. Supports InfluxDB line protocol, PostgreSQL wire protocol, and REST.
-
-**Why it is here:** High-performance SQL database for time series. Supports InfluxDB line protocol, PostgreSQL wire protocol, and REST.
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
-
----
-### <a id="redash-redash"></a>[Redash](https://redash.io)
-
-**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 1 active source: academic/awesome-datascience
-
-**Summary:** Connect and query your data sources, build dashboards to visualize data and share them with your company. BSD-2-Clause Docker
-
-**Why it is here:** Deploy muy liviano, bajo memory footprint
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 92 · observed 2026-07-27
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="rerun-rerun-io-rerun"></a>[Rerun](https://github.com/rerun-io/rerun)
 
-**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 1 active source: rust-unofficial/awesome-rust
+**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, rust-unofficial/awesome-rust
 
 **Summary:** Rerun is an open-source SDK for logging, storing, querying, and visualizing multimodal data, designed for robotics, computer vision, and spatial AI.
 
@@ -3451,12 +3464,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="risingwave-risingwavelabs-risingwave"></a>[RisingWave](https://github.com/risingwavelabs/risingwave)
 
-**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 1 active source: rust-unofficial/awesome-rust
+**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, rust-unofficial/awesome-rust
 
 **Summary:** A distributed SQL streaming database that unifies stream processing and low-latency serving, ideal for building and serving features for online machine learning.
 
@@ -3466,7 +3480,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="scipy-scipy"></a>[scipy](https://scipy.org)
@@ -3481,13 +3496,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-07-27
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="seaborn-mwaskom-seaborn"></a>[seaborn](https://github.com/mwaskom/seaborn)
 
-**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 1 active source: vinta/awesome-python
+**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Summary:** Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
 
@@ -3497,7 +3512,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="statsmodels-statsmodels-statsmodels"></a>[statsmodels](https://github.com/statsmodels/statsmodels)
@@ -3512,8 +3528,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="ticker-achannarasappa-ticker"></a>[ticker](https://github.com/achannarasappa/ticker)
@@ -3528,13 +3544,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="tidb-pingcap-tidb"></a>[TiDB](https://github.com/pingcap/tidb)
 
-**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 2 active sources: avelino/awesome-go, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 1 active source: avelino/awesome-go
 
 **Summary:** A distributed scalable Hybrid Transactional and Analytical Processing (HTAP) database
 
@@ -3544,13 +3560,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="tikv-tikv-tikv"></a>[TiKV](https://github.com/tikv/tikv)
 
-**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 2 active sources: rust-unofficial/awesome-rust, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 1 active source: rust-unofficial/awesome-rust
 
 **Summary:** A distributed transactional key-value database
 
@@ -3560,13 +3575,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="tsfresh-blue-yonder-tsfresh"></a>[tsfresh](https://github.com/blue-yonder/tsfresh)
 
-**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 1 active source: wilsonfreitas/awesome-quant
+**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, wilsonfreitas/awesome-quant
 
 **Summary:** Automatic extraction of relevant features from time series.
 
@@ -3576,12 +3590,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="vaex-vaexio-vaex"></a>[Vaex](https://github.com/vaexio/vaex)
 
-**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** Vaex is a high performance Python library for lazy Out-of-Core DataFrames (similar to Pandas), to visualize and explore big tabular datasets. Vaex uses memory mapping, zero memory copy policy and lazy computations...
 
@@ -3591,12 +3606,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="vega-altair-vega-altair"></a>[Vega-Altair](https://github.com/vega/altair)
 
-**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 1 active source: vinta/awesome-python
+**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Summary:** Vega-Altair is a declarative statistical visualization library for Python.
 
@@ -3606,7 +3622,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="vispy-vispy-vispy"></a>[vispy](https://github.com/vispy/vispy)
@@ -3621,13 +3638,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="vizzu-vizzuhq-vizzu-lib"></a>[vizzu](https://github.com/vizzuhq/vizzu-lib)
 
-**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 1 active source: academic/awesome-datascience
+**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 1 active source: sorrycc/awesome-javascript
 
 **Summary:** Library for animated data visualizations and data stories.
 
@@ -3637,7 +3654,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 92 · observed 2026-07-27
+- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) · ROSTER · quality 88 · observed 2026-08-03
 
 ---
 ### <a id="yfinance-ranaroussi-yfinance"></a>[yfinance](https://github.com/ranaroussi/yfinance)
@@ -3652,8 +3669,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-07-27
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="activemq-activemq"></a>[ActiveMQ](https://activemq.apache.org)
@@ -3663,32 +3680,6 @@ These are strong automated candidates worth human review next. They are not endo
 **Summary:** Java message broker. Apache-2.0 Java
 
 **Why it is here:** Clustering y persistencia robusto
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:** Needs trace review.
-
----
-### <a id="apache-echarts-apache-echarts"></a>[Apache ECharts](https://github.com/apache/echarts)
-
-**Label:** Needs Review · **Domain:** Data & Databases · **Signal:** Found in 2 active sources
-
-**Summary:** Apache ECharts is a powerful, interactive charting and data visualization library for browser.
-
-**Why it is here:** Rendering performante incluso con datasets grandes
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:** Needs trace review.
-
----
-### <a id="apache-ignite-apache-ignite"></a>[Apache Ignite](https://github.com/apache/ignite)
-
-**Label:** Needs Review · **Domain:** Data & Databases · **Signal:** Found in 2 active sources
-
-**Summary:** A memory-centric distributed database, caching, and processing platform for transactional, analytical, and streaming workloads delivering in-memory speeds at petabyte scale Demo.
-
-**Why it is here:** SQL + compute colocado reducen network roundtrips
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -3721,6 +3712,45 @@ These are strong automated candidates worth human review next. They are not endo
 **Source traces:** Needs trace review.
 
 ---
+### <a id="openrefine-openrefine"></a>[OpenRefine](https://openrefine.org)
+
+**Label:** Needs Review · **Domain:** Data & Databases · **Signal:** Found in 2 active sources
+
+**Summary:** Tool for working with messy data: cleaning, transforming, extending it with web services and linking it to databases.
+
+**Why it is here:** Tool for working with messy data: cleaning, transforming, extending it with web services and linking it to databases.
+
+**Caveat:** Candidate still needs human review before endorsement.
+
+**Source traces:** Needs trace review.
+
+---
+### <a id="questdb-questdb-questdb"></a>[QuestDB](https://github.com/questdb/questdb)
+
+**Label:** Needs Review · **Domain:** Data & Databases · **Signal:** Found in 2 active sources
+
+**Summary:** High-performance SQL database for time series. Supports InfluxDB line protocol, PostgreSQL wire protocol, and REST.
+
+**Why it is here:** High-performance SQL database for time series. Supports InfluxDB line protocol, PostgreSQL wire protocol, and REST.
+
+**Caveat:** Candidate still needs human review before endorsement.
+
+**Source traces:** Needs trace review.
+
+---
+### <a id="redash-redash"></a>[Redash](https://redash.io)
+
+**Label:** Needs Review · **Domain:** Data & Databases · **Signal:** Found in 2 active sources
+
+**Summary:** Connect and query your data sources, build dashboards to visualize data and share them with your company. BSD-2-Clause Docker
+
+**Why it is here:** Deploy muy liviano, bajo memory footprint
+
+**Caveat:** Candidate still needs human review before endorsement.
+
+**Source traces:** Needs trace review.
+
+---
 
 ## 🔐 Security & Crypto
 
@@ -3736,9 +3766,9 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="social-engineer-toolkit-set-trustedsec-social-engineer-toolkit"></a>[Social Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit)
@@ -3753,7 +3783,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 100 · observed 2026-07-27
+- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 94 · observed 2026-07-27
 
 ---
 ### <a id="x64dbg-x64dbg"></a>[x64dbg](https://x64dbg.com)
@@ -3768,8 +3798,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 100 · observed 2026-07-27
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
+- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 94 · observed 2026-07-27
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
 
 ---
 ### <a id="firezone-firezone"></a>[Firezone](https://firezone.dev)
@@ -3787,7 +3817,7 @@ These are strong automated candidates worth human review next. They are not endo
 ---
 ### <a id="ockam-ockam-network-ockam"></a>[Ockam](https://github.com/ockam-network/ockam)
 
-**Label:** Worth Trying · **Domain:** Security & Crypto · **Signal:** Found in 1 active source: MunGell/awesome-for-beginners
+**Label:** Worth Trying · **Domain:** Security & Crypto · **Signal:** Found in 2 active sources
 
 **Summary:** End-to-end encryption and mutual authentication for distributed applications.
 
@@ -3795,9 +3825,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Caveat:** Security-sensitive tool; evaluate fit and maintenance posture before production use.
 
-**Source traces:**
-
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+**Source traces:** Needs trace review.
 
 ---
 ### <a id="s2n-awslabs-s2n"></a>[s2n](https://github.com/awslabs/s2n)
@@ -3812,7 +3840,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
 
 ---
 ### <a id="trail-of-bits-security-skills-trailofbits-skills"></a>[Trail of Bits Security Skills](https://github.com/trailofbits/skills)
@@ -3840,8 +3868,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 100 · observed 2026-07-27
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 94 · observed 2026-07-27
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="brave-brave"></a>[Brave](https://brave.com)
@@ -3856,8 +3884,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-07-27
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-08-03
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="briansmith-ring-briansmith-ring"></a>[briansmith/ring](https://github.com/briansmith/ring)
@@ -3872,7 +3900,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="cryptomator-cryptomator"></a>[Cryptomator](https://cryptomator.org)
@@ -3887,7 +3915,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="element-element"></a>[Element](https://element.io)
@@ -3902,7 +3930,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="google-hacking-database-ghdb-exploit-db"></a>[Google Hacking Database (GHDB)](https://exploit-db.com/google-hacking-database)
@@ -3917,8 +3945,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-07-27
-- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 100 · observed 2026-07-27
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-08-03
+- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 94 · observed 2026-07-27
 
 ---
 ### <a id="hashes-rustcrypto-hashes"></a>[hashes](https://github.com/rustcrypto/hashes)
@@ -3933,7 +3961,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="hunter-io-hunter"></a>[Hunter.io](https://hunter.io)
@@ -3948,8 +3976,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-07-27
-- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 100 · observed 2026-07-27
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-08-03
+- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 94 · observed 2026-07-27
 
 ---
 ### <a id="i2p-geti2p"></a>[I2P](https://geti2p.net)
@@ -3964,8 +3992,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-07-27
-- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 100 · observed 2026-07-27
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-08-03
+- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 94 · observed 2026-07-27
 
 ---
 ### <a id="keybase-keybase"></a>[Keybase](https://keybase.io)
@@ -3980,7 +4008,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="kpcyrd-authoscope-kpcyrd-authoscope"></a>[kpcyrd/authoscope](https://github.com/kpcyrd/authoscope)
@@ -3995,8 +4023,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 100 · observed 2026-07-27
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 94 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="kpcyrd-sniffglue-kpcyrd-sniffglue"></a>[kpcyrd/sniffglue](https://github.com/kpcyrd/sniffglue)
@@ -4011,8 +4039,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 100 · observed 2026-07-27
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 94 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="librewolf-librewolf"></a>[LibreWolf](https://librewolf.net)
@@ -4027,8 +4055,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-07-27
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-08-03
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="lynis-cisofy"></a>[Lynis](https://cisofy.com/lynis)
@@ -4043,8 +4071,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 100 · observed 2026-07-27
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 97 · observed 2026-07-27
+- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 94 · observed 2026-07-27
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 95 · observed 2026-08-03
 
 ---
 ### <a id="maltego-maltego"></a>[Maltego](https://maltego.com)
@@ -4059,8 +4087,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-07-27
-- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 100 · observed 2026-07-27
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-08-03
+- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 94 · observed 2026-07-27
 
 ---
 ### <a id="mariocandela-beelzebub-mariocandela-beelzebub"></a>[mariocandela/beelzebub](https://github.com/mariocandela/beelzebub)
@@ -4075,8 +4103,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 99 · observed 2026-07-27
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="mavdol-capsule-mcp-server-mavdol-capsule"></a>[mavdol/capsule/mcp-server](https://github.com/mavdol/capsule)
@@ -4091,8 +4119,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 99 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="orion-rs-orion-orion-rs-orion"></a>[orion-rs/orion](https://github.com/orion-rs/orion)
@@ -4107,7 +4135,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="paaster-paaster"></a>[paaster](https://paaster.io)
@@ -4122,12 +4150,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-07-27
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-08-03
 
 ---
 ### <a id="promptfoo-promptfoo-promptfoo"></a>[Promptfoo](https://github.com/promptfoo/promptfoo)
 
-**Label:** AI Candidate · **Domain:** Security & Crypto · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** Security & Crypto · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** LLM red teaming and evaluation framework for testing jailbreaks, prompt injection, and other vulnerabilities with CI/CD integration.
 
@@ -4137,7 +4165,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="pynacl-pyca-pynacl"></a>[pynacl](https://github.com/pyca/pynacl)
@@ -4152,7 +4181,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="rage-str4d-rage"></a>[rage](https://github.com/str4d/rage)
@@ -4167,7 +4196,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="redlib-redlib-org-redlib"></a>[Redlib](https://github.com/redlib-org/redlib)
@@ -4182,7 +4211,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="rshijack-kpcyrd-rshijack"></a>[rshijack](https://github.com/kpcyrd/rshijack)
@@ -4197,8 +4226,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 100 · observed 2026-07-27
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 94 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="safedep-vet-safedep-vet"></a>[safedep/vet](https://github.com/safedep/vet)
@@ -4213,8 +4242,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 99 · observed 2026-07-27
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="sherlock-sherlock-project-sherlock"></a>[sherlock](https://github.com/sherlock-project/sherlock)
@@ -4229,8 +4258,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-07-27
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="shodan-shodan"></a>[Shodan](https://shodan.io)
@@ -4245,8 +4274,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-07-27
-- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 100 · observed 2026-07-27
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-08-03
+- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 94 · observed 2026-07-27
 
 ---
 ### <a id="spiderfoot-spiderfoot"></a>[SpiderFoot](https://spiderfoot.net)
@@ -4261,8 +4290,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-07-27
-- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 100 · observed 2026-07-27
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-08-03
+- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 94 · observed 2026-07-27
 
 ---
 ### <a id="sqlmap-sqlmapproject-sqlmap"></a>[SQLMap](https://github.com/sqlmapproject/sqlmap)
@@ -4277,7 +4306,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="ssh-vault-ssh-vault-ssh-vault"></a>[ssh-vault](https://github.com/ssh-vault/ssh-vault)
@@ -4292,8 +4321,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="syft-anchore-syft"></a>[Syft](https://github.com/anchore/syft)
@@ -4308,8 +4337,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 97 · observed 2026-07-27
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 95 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="tails-tails"></a>[Tails](https://tails.boum.org)
@@ -4324,8 +4353,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-07-27
-- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 100 · observed 2026-07-27
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-08-03
+- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 94 · observed 2026-07-27
 
 ---
 ### <a id="the-harvester-laramies-theharvester"></a>[The Harvester](https://github.com/laramies/theharvester)
@@ -4340,8 +4369,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-07-27
-- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 100 · observed 2026-07-27
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-08-03
+- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 94 · observed 2026-07-27
 
 ---
 ### <a id="tink-google-tink"></a>[Tink](https://github.com/google/tink)
@@ -4356,7 +4385,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
 
 ---
 ### <a id="tor-torproject-2"></a>[Tor](https://torproject.org)
@@ -4371,8 +4400,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-07-27
-- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 100 · observed 2026-07-27
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-08-03
+- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 94 · observed 2026-07-27
 
 ---
 ### <a id="vaultwarden-dani-garcia-vaultwarden"></a>[vaultwarden](https://github.com/dani-garcia/vaultwarden)
@@ -4387,7 +4416,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="virus-total-virustotal"></a>[Virus Total](https://virustotal.com)
@@ -4402,8 +4431,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-07-27
-- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 100 · observed 2026-07-27
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-08-03
+- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 94 · observed 2026-07-27
 
 ---
 ### <a id="webpki-briansmith-webpki"></a>[webpki](https://github.com/briansmith/webpki)
@@ -4418,7 +4447,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="wigle-wigle"></a>[WiGLE](https://wigle.net)
@@ -4433,8 +4462,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-07-27
-- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 100 · observed 2026-07-27
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-08-03
+- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 94 · observed 2026-07-27
 
 ---
 ### <a id="apache-shiro-shiro"></a>[Apache Shiro](https://shiro.apache.org)
@@ -4491,8 +4520,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="simplebinaryencoding-real-logic-simple-binary-encoding"></a>[SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding)
@@ -4507,7 +4536,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
 
 ---
 ### <a id="uwebsockets-unetworking-uwebsockets"></a>[uWebSockets](https://github.com/unetworking/uwebsockets)
@@ -4522,7 +4551,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
 
 ---
 ### <a id="xxhash-cyan4973-xxhash"></a>[xxHash](https://github.com/cyan4973/xxhash)
@@ -4537,7 +4566,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
 
 ---
 ### <a id="codeflash-ai-codeflash"></a>[CodeFlash.AI](https://codeflash.ai)
@@ -4552,7 +4581,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="cython-cython-cython"></a>[Cython](https://github.com/cython/cython)
@@ -4567,8 +4596,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="geneticsharp-giacomelli-geneticsharp"></a>[GeneticSharp](https://github.com/giacomelli/geneticsharp)
@@ -4583,7 +4612,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="loadtest-alexfernandez-loadtest"></a>[loadtest](https://github.com/alexfernandez/loadtest)
@@ -4598,12 +4627,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
 
 ---
 ### <a id="numba-numba-numba"></a>[Numba](https://github.com/numba/numba)
 
-**Label:** AI Candidate · **Domain:** Performance · **Signal:** Found in 1 active source: vinta/awesome-python
+**Label:** AI Candidate · **Domain:** Performance · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Summary:** A compiler for Python array and numerical functions.
 
@@ -4613,7 +4642,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 
@@ -4621,7 +4651,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 ### <a id="sniffnet-gyulyvgc-sniffnet"></a>[Sniffnet](https://github.com/gyulyvgc/sniffnet)
 
-**Label:** Human Pick · **Domain:** Dev Tooling · **Signal:** Found in 3 active sources: rust-unofficial/awesome-rust, jaywcjlove/awesome-mac, MunGell/awesome-for-beginners
+**Label:** Human Pick · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: rust-unofficial/awesome-rust, jaywcjlove/awesome-mac
 
 **Summary:** Cross-platform application to monitor your network traffic with ease
 
@@ -4631,9 +4661,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="kaitai-struct-kaitai"></a>[Kaitai Struct](https://kaitai.io)
@@ -4648,13 +4677,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 100 · observed 2026-07-27
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
+- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 94 · observed 2026-07-27
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
 
 ---
 ### <a id="cake-cake-build-cake"></a>[Cake](https://github.com/cake-build/cake)
 
-**Label:** Worth Trying · **Domain:** Dev Tooling · **Signal:** Found in 1 active source: MunGell/awesome-for-beginners
+**Label:** Worth Trying · **Domain:** Dev Tooling · **Signal:** Found in 3 active sources
 
 **Summary:** Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and folders, running unit tests, compressing files and building NuGet...
 
@@ -4662,9 +4691,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Caveat:** Worth a focused trial before adopting broadly.
 
-**Source traces:**
-
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+**Source traces:** Needs trace review.
 
 ---
 ### <a id="intelli-shell-lasantosr-intelli-shell"></a>[intelli-shell](https://github.com/lasantosr/intelli-shell)
@@ -4679,8 +4706,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="ast-grep-ast-grep-ast-grep"></a>[ast-grep](https://github.com/ast-grep/ast-grep)
@@ -4695,8 +4722,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="atac-julien-cpsn-atac"></a>[ATAC](https://github.com/julien-cpsn/atac)
@@ -4711,8 +4738,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="broot-canop-broot"></a>[broot](https://github.com/canop/broot)
@@ -4727,8 +4754,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="cppcheck-cppcheck"></a>[Cppcheck](https://cppcheck.sourceforge.net)
@@ -4743,13 +4770,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 100 · observed 2026-07-27
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
+- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 94 · observed 2026-07-27
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
 
 ---
 ### <a id="itertools-ts-smoren-itertools-ts"></a>[IterTools TS](https://github.com/smoren/itertools-ts)
 
-**Label:** Worth Trying · **Domain:** Dev Tooling · **Signal:** Found in 1 active source: MunGell/awesome-for-beginners
+**Label:** Worth Trying · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources
 
 **Summary:** Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
 
@@ -4757,9 +4784,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Caveat:** Promising signal, but source consensus is still narrow.
 
-**Source traces:**
-
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+**Source traces:** Needs trace review.
 
 ---
 ### <a id="spack-spack"></a>[Spack](https://spack.io)
@@ -4774,12 +4799,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
 
 ---
 ### <a id="pytorch-pytorch-pytorch"></a>[Pytorch](https://github.com/pytorch/pytorch)
 
-**Label:** Popular Standard · **Domain:** Dev Tooling · **Signal:** Found in 5 active sources: academic/awesome-datascience, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +2 more
+**Label:** Popular Standard · **Domain:** Dev Tooling · **Signal:** Found in 4 active sources: EthicalML/awesome-production-machine-learning, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more
 
 **Summary:** PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing.
 
@@ -4789,16 +4814,15 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 92 · observed 2026-07-27
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="bokeh-bokeh-bokeh"></a>[Bokeh](https://github.com/bokeh/bokeh)
 
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 3 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Summary:** Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation of data in modern web browsers.
 
@@ -4808,9 +4832,9 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="obsidian-obsidian"></a>[Obsidian](https://obsidian.md)
@@ -4825,8 +4849,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-07-27
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-08-03
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="bitwarden-bitwarden"></a>[Bitwarden](https://bitwarden.com)
@@ -4841,13 +4865,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-07-27
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-08-03
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="colossal-ai-hpcaitech-colossalai"></a>[Colossal-AI](https://github.com/hpcaitech/colossalai)
 
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: josephmisiti/awesome-machine-learning, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** A unified deep learning system for big model era, which helps users to efficiently and quickly deploy large AI model training and inference.
 
@@ -4857,13 +4881,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="deepchecks-deepchecks-deepchecks"></a>[Deepchecks](https://github.com/deepchecks/deepchecks)
 
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** Deepchecks is a holistic open-source solution for all of your AI & ML validation needs, enabling you to test your data and models from research to production thoroughly.
 
@@ -4873,13 +4897,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 92 · observed 2026-07-27
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="dvc-iterative-dvc"></a>[DVC](https://github.com/iterative/dvc)
 
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** Data Science Version Control is an open-source version control system for machine learning projects with pipelines support. It makes ML projects reproducible and shareable.
 
@@ -4889,12 +4913,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="jupyter-notebooks-jupyter-notebook"></a>[Jupyter Notebooks](https://github.com/jupyter/notebook)
 
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Summary:** Web interface python sandbox environments for reproducible development
 
@@ -4904,13 +4929,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="kubernetes-kubernetes-kubernetes"></a>[Kubernetes](https://github.com/kubernetes/kubernetes)
 
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 3 active sources: veggiemonk/awesome-docker, avelino/awesome-go, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go
 
 **Summary:** Production-Grade Container Scheduling and Management System
 
@@ -4920,14 +4945,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 97 · observed 2026-07-27
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 95 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="lightgbm-microsoft-lightgbm"></a>[LightGBM](https://github.com/microsoft/lightgbm)
 
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 
@@ -4937,8 +4961,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 92 · observed 2026-07-27
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="lstags-ivanilves-lstags"></a>[lstags](https://github.com/ivanilves/lstags)
@@ -4953,9 +4977,9 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 97 · observed 2026-07-27
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 95 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="mitmproxy-mitmproxy"></a>[mitmproxy](https://mitmproxy.org)
@@ -4970,13 +4994,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 100 · observed 2026-07-27
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 94 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="moby-moby-moby"></a>[Moby](https://github.com/moby/moby)
 
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 3 active sources: veggiemonk/awesome-docker, avelino/awesome-go, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go
 
 **Summary:** Collaborative project for the container ecosystem to assemble container-based systems.
 
@@ -4986,9 +5010,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 97 · observed 2026-07-27
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 95 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="octolinker-octolinker-browser-extension"></a>[OctoLinker](https://github.com/octolinker/browser-extension)
@@ -5003,12 +5026,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="pymc-pymc-devs-pymc"></a>[PyMC](https://github.com/pymc-devs/pymc)
 
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 3 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Summary:** A Python library for Bayesian statistical modeling and probabilistic machine learning. Beginner-friendly with 'good first issue' labels.
 
@@ -5018,14 +5041,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="readest-readest-readest"></a>[Readest](https://github.com/readest/readest)
 
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: jaywcjlove/awesome-mac, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 1 active source: jaywcjlove/awesome-mac
 
 **Summary:** A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface.
 
@@ -5035,8 +5057,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="rider-jetbrains-9"></a>[Rider](https://jetbrains.com/rider)
@@ -5051,12 +5072,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="sympy-sympy-sympy"></a>[SymPy](https://github.com/sympy/sympy)
 
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 3 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Summary:** A Python library for symbolic mathematics.
 
@@ -5066,14 +5087,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="transformers-huggingface-transformers"></a>[Transformers](https://github.com/huggingface/transformers)
 
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Summary:** Huggingface's library of state-of-the-art pretrained models for Natural Language Processing (NLP).
 
@@ -5083,8 +5103,9 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="wave-wavetermdev-waveterm"></a>[Wave](https://github.com/wavetermdev/waveterm)
@@ -5099,7 +5120,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="wireshark-wireshark"></a>[Wireshark](https://wireshark.org)
@@ -5114,8 +5135,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 100 · observed 2026-07-27
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 94 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="yt-dlp-yt-dlp-yt-dlp"></a>[yt-dlp](https://github.com/yt-dlp/yt-dlp)
@@ -5130,9 +5151,24 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-07-27
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
+
+---
+### <a id="net-interactive-dotnet-interactive"></a>[.NET Interactive](https://github.com/dotnet/interactive)
+
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 1 active source: EthicalML/awesome-production-machine-learning
+
+**Summary:** .NET Interactive takes the power of .NET and embeds it into your interactive experiences.
+
+**Why it is here:** .NET Interactive takes the power of .NET and embeds it into your interactive experiences.
+
+**Caveat:** Candidate still needs human review before endorsement.
+
+**Source traces:**
+
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="activitywatch-activitywatch"></a>[ActivityWatch](https://activitywatch.net)
@@ -5147,7 +5183,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="ai-git-narrator-pmusolino-ai-git-narrator"></a>[AI Git Narrator](https://github.com/pmusolino/ai-git-narrator)
@@ -5162,7 +5198,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
 
 ---
 ### <a id="ajeetdsouza-zoxide-ajeetdsouza-zoxide"></a>[ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
@@ -5177,8 +5213,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="appflowy-appflowy"></a>[AppFlowy](https://appflowy.io)
@@ -5193,7 +5229,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="ashvardanian-stringzilla-ashvardanian-stringzilla"></a>[ashvardanian/stringzilla](https://github.com/ashvardanian/stringzilla)
@@ -5208,8 +5244,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
 
 ---
 ### <a id="astral-sh-ruff-astral-sh-ruff"></a>[astral-sh/ruff](https://github.com/astral-sh/ruff)
@@ -5224,8 +5260,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="bartib-nikolassv-bartib"></a>[Bartib](https://github.com/nikolassv/bartib)
@@ -5240,8 +5276,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="bazel-bazel"></a>[Bazel](https://bazel.build)
@@ -5256,7 +5292,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
 
 ---
 ### <a id="boilr-tmrts-boilr"></a>[boilr](https://github.com/tmrts/boilr)
@@ -5271,8 +5307,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="buck2-facebook-buck2"></a>[Buck2](https://github.com/facebook/buck2)
@@ -5287,7 +5323,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="carbon-now-cli-mixn-carbon-now-cli"></a>[carbon-now-cli](https://github.com/mixn/carbon-now-cli)
@@ -5302,7 +5338,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
 
 ---
 ### <a id="ccv-liuliu-ccv"></a>[CCV](https://github.com/liuliu/ccv)
@@ -5317,8 +5353,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="clion-jetbrains-3"></a>[CLion](https://jetbrains.com/clion)
@@ -5333,8 +5369,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="config-file-validator-boeing-config-file-validator"></a>[config-file-validator](https://github.com/boeing/config-file-validator)
@@ -5349,13 +5385,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="cookiecutter-cookiecutter-cookiecutter"></a>[cookiecutter](https://github.com/cookiecutter/cookiecutter)
 
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 1 active source: vinta/awesome-python
 
 **Summary:** A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
 
@@ -5365,13 +5401,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="dash-kapeli"></a>[Dash](https://kapeli.com/dash)
 
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: vuejs/awesome-vue, jaywcjlove/awesome-mac
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 1 active source: jaywcjlove/awesome-mac
 
 **Summary:** Offline API documentation browser for macOS with instant search access to Vue.js docs and 200+ other frameworks.
 
@@ -5381,8 +5416,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) · ROSTER · quality 96 · observed 2026-07-27
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="diskonaut-imsnif-diskonaut"></a>[diskonaut](https://github.com/imsnif/diskonaut)
@@ -5397,13 +5431,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="dotenv-linter-dotenv-linter-dotenv-linter"></a>[dotenv-linter](https://github.com/dotenv-linter/dotenv-linter)
 
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: rust-unofficial/awesome-rust, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 1 active source: rust-unofficial/awesome-rust
 
 **Summary:** Linter for .env files
 
@@ -5411,8 +5445,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="dust-bootandy-dust"></a>[dust](https://github.com/bootandy/dust)
@@ -5427,13 +5460,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="einops-arogozhnikov-einops"></a>[einops](https://github.com/arogozhnikov/einops)
 
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 1 active source: josephmisiti/awesome-machine-learning
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** Flexible and powerful tensor operations for readable and reliable code.
 
@@ -5443,7 +5476,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="exiftool-sno"></a>[ExifTool](https://sno.phy.queensu.ca/~phil/exiftool)
@@ -5458,8 +5492,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-07-27
-- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 100 · observed 2026-07-27
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-08-03
+- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 94 · observed 2026-07-27
 
 ---
 ### <a id="fjira-mk-5-fjira"></a>[fjira](https://github.com/mk-5/fjira)
@@ -5474,8 +5508,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="fkill-sindresorhus-fkill-cli"></a>[fkill](https://github.com/sindresorhus/fkill-cli)
@@ -5490,7 +5524,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
 
 ---
 ### <a id="focalboard-focalboard"></a>[Focalboard](https://focalboard.com)
@@ -5505,7 +5539,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="fx-antonmedv-fx"></a>[fx](https://github.com/antonmedv/fx)
@@ -5520,8 +5554,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="fzf-junegunn-fzf"></a>[fzf](https://github.com/junegunn/fzf)
@@ -5536,8 +5570,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="gebug-moshebe-gebug"></a>[Gebug](https://github.com/moshebe/gebug)
@@ -5552,8 +5586,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 97 · observed 2026-07-27
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 95 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="ggc-bmf-san-ggc"></a>[ggc](https://github.com/bmf-san/ggc)
@@ -5568,8 +5602,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="gitbutler-gitbutler"></a>[GitButler](https://gitbutler.com)
@@ -5584,7 +5618,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="gitkraken-gitkraken"></a>[GitKraken](https://gitkraken.com)
@@ -5599,7 +5633,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="glances-nicolargo"></a>[glances](https://nicolargo.github.io/glances)
@@ -5614,7 +5648,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
 
 ---
 ### <a id="gnu-emacs-gnu-9"></a>[GNU Emacs](https://gnu.org/software/emacs)
@@ -5629,7 +5663,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="gorgonia-gorgonia-gorgonia"></a>[gorgonia](https://github.com/gorgonia/gorgonia)
@@ -5644,8 +5678,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="grex-pemistahl-grex"></a>[grex](https://github.com/pemistahl/grex)
@@ -5660,8 +5694,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="gtk-gtk"></a>[GTK+](https://gtk.org)
@@ -5676,8 +5710,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
 
 ---
 ### <a id="helix-helix-editor-helix"></a>[helix](https://github.com/helix-editor/helix)
@@ -5692,8 +5726,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="hex-fiend-ridiculousfish"></a>[Hex Fiend](https://ridiculousfish.com/hexfiend)
@@ -5708,8 +5742,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 100 · observed 2026-07-27
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest) · ROSTER · quality 94 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="homebrew-brew"></a>[Homebrew](https://brew.sh)
@@ -5724,7 +5758,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="ideone-ideone"></a>[Ideone](https://ideone.com)
@@ -5739,8 +5773,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-07-27
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-08-03
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
 
 ---
 ### <a id="imgui-ocornut-imgui"></a>[imgui](https://github.com/ocornut/imgui)
@@ -5755,8 +5789,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
 
 ---
 ### <a id="infer-facebook-infer"></a>[Infer](https://github.com/facebook/infer)
@@ -5771,7 +5805,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
 
 ---
 ### <a id="infinity-infiniflow-infinity"></a>[Infinity](https://github.com/infiniflow/infinity)
@@ -5786,8 +5820,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="intellij-idea-jetbrains-6"></a>[IntelliJ IDEA](https://jetbrains.com/idea)
@@ -5802,8 +5836,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="javacpp-bytedeco-javacpp"></a>[JavaCpp](https://github.com/bytedeco/javacpp)
@@ -5818,7 +5852,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
 
 ---
 ### <a id="joplin-joplinapp"></a>[Joplin](https://joplinapp.org)
@@ -5833,7 +5867,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="just-casey-just"></a>[just](https://github.com/casey/just)
@@ -5848,8 +5882,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="kaldi-kaldi-asr-kaldi"></a>[Kaldi](https://github.com/kaldi-asr/kaldi)
@@ -5864,8 +5898,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="kreuzberg-kreuzberg-dev-kreuzberg"></a>[kreuzberg](https://github.com/kreuzberg-dev/kreuzberg)
@@ -5880,8 +5914,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="largemodgames-spotatui-largemodgames-spotatui"></a>[LargeModGames/spotatui](https://github.com/largemodgames/spotatui)
@@ -5896,8 +5930,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="linqpad-linqpad"></a>[LINQPad](https://linqpad.net)
@@ -5912,7 +5946,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="linus-mussmaecher-rucola-linus-mussmaecher-rucola"></a>[Linus-Mussmaecher/rucola](https://github.com/linus-mussmaecher/rucola)
@@ -5927,8 +5961,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="mailpit-axllent-mailpit"></a>[Mailpit](https://github.com/axllent/mailpit)
@@ -5943,7 +5977,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="mailspring-getmailspring"></a>[Mailspring](https://getmailspring.com)
@@ -5958,12 +5992,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="marimo-marimo-team-marimo"></a>[Marimo](https://github.com/marimo-team/marimo)
 
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 1 active source: vinta/awesome-python
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Summary:** Reactive Python notebook — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 
@@ -5973,7 +6007,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="marktext-marktext-marktext"></a>[MarkText](https://github.com/marktext/marktext)
@@ -5988,7 +6023,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="micro-micro-editor"></a>[micro](https://micro-editor.github.io)
@@ -6003,7 +6038,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="micropython-micropython-micropython"></a>[MicroPython](https://github.com/micropython/micropython)
@@ -6018,8 +6053,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="microsoft-markitdown-microsoft-markitdown"></a>[microsoft/markitdown](https://github.com/microsoft/markitdown)
@@ -6034,8 +6069,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 99 · observed 2026-07-27
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="mockoon-mockoon"></a>[Mockoon](https://mockoon.com)
@@ -6050,12 +6085,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="mypy-python-mypy"></a>[mypy](https://github.com/python/mypy)
 
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 1 active source: vinta/awesome-python
 
 **Summary:** Optional static typing for Python.
 
@@ -6065,8 +6100,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="neon-neon-bindings-neon"></a>[Neon](https://github.com/neon-bindings/neon)
@@ -6081,7 +6115,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="notion-notion"></a>[Notion](https://notion.so)
@@ -6096,7 +6130,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="nuklear-immediate-mode-ui-nuklear"></a>[nuklear](https://github.com/immediate-mode-ui/nuklear)
@@ -6111,13 +6145,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
 
 ---
 ### <a id="nushell-nushell-nushell"></a>[nushell](https://github.com/nushell/nushell)
 
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: rust-unofficial/awesome-rust, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 1 active source: rust-unofficial/awesome-rust
 
 **Summary:** A modern shell for the GitHub era written in Rust.
 
@@ -6127,8 +6161,37 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
+
+---
+### <a id="ollama-ollama-ollama"></a>[Ollama](https://github.com/ollama/ollama)
+
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 1 active source: EthicalML/awesome-production-machine-learning
+
+**Summary:** Get up and running with large language models, locally.
+
+**Why it is here:** Get up and running with large language models, locally.
+
+**Caveat:** Candidate still needs human review before endorsement.
+
+**Source traces:**
+
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+
+---
+### <a id="peft-huggingface-peft"></a>[PEFT](https://github.com/huggingface/peft)
+
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 1 active source: EthicalML/awesome-production-machine-learning
+
+**Summary:** Parameter-Efficient Fine-Tuning (PEFT) methods enable efficient adaptation of pre-trained language models (PLMs) to various downstream applications without fine-tuning all the model's parameters.
+
+**Why it is here:** Comunidad masiva, docs exhaustivas
+
+**Caveat:** Candidate still needs human review before endorsement.
+
+**Source traces:**
+
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="postman-getpostman"></a>[Postman](https://getpostman.com)
@@ -6143,12 +6206,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="pytest-pytest-dev-pytest"></a>[Pytest](https://github.com/pytest-dev/pytest)
 
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 1 active source: vinta/awesome-python
 
 **Summary:** The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.
 
@@ -6158,8 +6221,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="quick-look-plugins-sindresorhus-quick-look-plugins"></a>[quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins)
@@ -6174,7 +6236,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="readme-md-generator-kefranabg-readme-md-generator"></a>[readme-md-generator](https://github.com/kefranabg/readme-md-generator)
@@ -6189,7 +6251,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
 
 ---
 ### <a id="repoflow-repoflow"></a>[RepoFlow](https://repoflow.io)
@@ -6204,8 +6266,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 97 · observed 2026-07-27
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 95 · observed 2026-08-03
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="retext-retextjs-retext"></a>[Retext](https://github.com/retextjs/retext)
@@ -6220,7 +6282,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="root-root"></a>[ROOT](https://root.cern.ch)
@@ -6235,8 +6297,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="rustdesk-rustdesk-rustdesk"></a>[RustDesk](https://github.com/rustdesk/rustdesk)
@@ -6251,7 +6313,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="rustrover-jetbrains-11"></a>[RustRover](https://jetbrains.com/rust)
@@ -6266,8 +6328,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="scc-boyter-scc"></a>[scc](https://github.com/boyter/scc)
@@ -6282,8 +6344,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="sccache-mozilla-sccache"></a>[Sccache](https://github.com/mozilla/sccache)
@@ -6298,13 +6360,13 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
 
 ---
 ### <a id="script-bitfield-script"></a>[script](https://github.com/bitfield/script)
 
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: avelino/awesome-go, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 1 active source: avelino/awesome-go
 
 **Summary:** A Go library for doing the kind of tasks that shell scripts are good at: reading files, executing subprocesses, counting lines, matching strings, and so on. Beginners are very welcome and will get detailed code...
 
@@ -6314,8 +6376,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="sharkdp-bat-sharkdp-bat"></a>[sharkdp/bat](https://github.com/sharkdp/bat)
@@ -6330,8 +6391,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="sharkdp-fd-sharkdp-fd"></a>[sharkdp/fd](https://github.com/sharkdp/fd)
@@ -6346,8 +6407,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="slint-ui-slint-slint-ui-slint"></a>[slint-ui/slint](https://github.com/slint-ui/slint)
@@ -6362,8 +6423,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
 
 ---
 ### <a id="sphinx-sphinx-doc-sphinx"></a>[Sphinx](https://github.com/sphinx-doc/sphinx)
@@ -6378,8 +6439,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="sshuttle-sshuttle-sshuttle"></a>[sshuttle](https://github.com/sshuttle/sshuttle)
@@ -6394,7 +6455,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
 
 ---
 ### <a id="taskwarrior-taskwarrior"></a>[Taskwarrior](https://taskwarrior.org)
@@ -6409,7 +6470,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
 
 ---
 ### <a id="tauri-apps-tauri-tauri-apps-tauri"></a>[tauri-apps/tauri](https://github.com/tauri-apps/tauri)
@@ -6424,7 +6485,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="television-alexpasmantier-television"></a>[television](https://github.com/alexpasmantier/television)
@@ -6439,8 +6500,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="termius-termius"></a>[Termius](https://termius.com)
@@ -6455,7 +6516,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="typora-typora"></a>[Typora](https://typora.io)
@@ -6470,7 +6531,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="vectr-vectr"></a>[Vectr](https://vectr.com)
@@ -6485,7 +6546,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="vscodium-vscodium"></a>[VSCodium](https://vscodium.com)
@@ -6500,7 +6561,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="warp-warp"></a>[Warp](https://warp.dev)
@@ -6515,7 +6576,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="water-run-treepp-water-run-treepp"></a>[Water-Run/treepp](https://github.com/water-run/treepp)
@@ -6530,8 +6591,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="wav2letter-facebookresearch-wav2letter"></a>[Wav2Letter++](https://github.com/facebookresearch/wav2letter)
@@ -6546,8 +6607,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="xcode-developer-2"></a>[Xcode](https://developer.apple.com/xcode)
@@ -6562,8 +6623,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="xplr-sayanarijit-xplr"></a>[xplr](https://github.com/sayanarijit/xplr)
@@ -6578,8 +6639,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="yazi-sxyazi-yazi"></a>[yazi](https://github.com/sxyazi/yazi)
@@ -6594,8 +6655,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="zed-zed"></a>[Zed](https://zed.dev)
@@ -6610,20 +6671,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
-
----
-### <a id="net-interactive-dotnet-interactive"></a>[.NET Interactive](https://github.com/dotnet/interactive)
-
-**Label:** Needs Review · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources
-
-**Summary:** .NET Interactive takes the power of .NET and embeds it into your interactive experiences.
-
-**Why it is here:** .NET Interactive takes the power of .NET and embeds it into your interactive experiences.
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:** Needs trace review.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="apache-maven-maven"></a>[Apache Maven](https://maven.apache.org)
@@ -6665,19 +6713,6 @@ These are strong automated candidates worth human review next. They are not endo
 **Source traces:** Needs trace review.
 
 ---
-### <a id="ollama-ollama-ollama"></a>[Ollama](https://github.com/ollama/ollama)
-
-**Label:** Needs Review · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources
-
-**Summary:** Get up and running with large language models, locally.
-
-**Why it is here:** Get up and running with large language models, locally.
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:** Needs trace review.
-
----
 ### <a id="openapi-generator-openapitools-openapi-generator"></a>[OpenAPI Generator](https://github.com/openapitools/openapi-generator)
 
 **Label:** Needs Review · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources
@@ -6685,19 +6720,6 @@ These are strong automated candidates worth human review next. They are not endo
 **Summary:** OpenAPI Generator allows generation of API client libraries (e.g. C#, TypeScript, etc), server stubs (ASP.NET Core, NancyFx, etc), documentation and configuration automatically given an OpenAPI Spec (v2, v3).
 
 **Why it is here:** Cubre 50+ lenguajes y frameworks en un solo generador
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:** Needs trace review.
-
----
-### <a id="peft-huggingface-peft"></a>[PEFT](https://github.com/huggingface/peft)
-
-**Label:** Needs Review · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources
-
-**Summary:** Parameter-Efficient Fine-Tuning (PEFT) methods enable efficient adaptation of pre-trained language models (PLMs) to various downstream applications without fine-tuning all the model's parameters.
-
-**Why it is here:** Comunidad masiva, docs exhaustivas
 
 **Caveat:** Candidate still needs human review before endorsement.
 
@@ -6722,7 +6744,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 ### <a id="runjs-runjs"></a>[RunJS](https://runjs.app)
 
-**Label:** Worth Trying · **Domain:** Other · **Signal:** Found in 1 active source: vuejs/awesome-vue
+**Label:** Worth Trying · **Domain:** Other · **Signal:** Found in 3 active sources
 
 **Summary:** JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas or trying out new libraries.
 
@@ -6730,9 +6752,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Caveat:** Worth a focused trial before adopting broadly.
 
-**Source traces:**
-
-- [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) · ROSTER · quality 96 · observed 2026-07-27
+**Source traces:** Needs trace review.
 
 ---
 ### <a id="phplist-phplist"></a>[phpList](https://phplist.org)
@@ -6760,12 +6780,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="ai-job-displacement-tracker-noahaust2-ai-displacement-tracker"></a>[AI Job Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker)
 
-**Label:** AI Candidate · **Domain:** Other · **Signal:** Found in 1 active source: academic/awesome-datascience
+**Label:** AI Candidate · **Domain:** Other · **Signal:** Found in 1 active source: EthicalML/awesome-production-machine-learning
 
 **Summary:** Structured, source-backed dataset tracking 96 AI-attributed workforce reductions (457K workers affected, 13 countries, 13 sectors). Every entry includes source URLs, attribution tier, and job functions.
 
@@ -6775,7 +6795,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 92 · observed 2026-07-27
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="beets-beetbox-beets"></a>[beets](https://github.com/beetbox/beets)
@@ -6790,8 +6810,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 92 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-08-03
 
 ---
 ### <a id="croc-schollz-croc"></a>[croc](https://github.com/schollz/croc)
@@ -6806,8 +6826,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="deluge-deluge-torrent"></a>[Deluge](https://deluge-torrent.org)
@@ -6822,7 +6842,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="gokapi-forceu-gokapi"></a>[Gokapi](https://github.com/forceu/gokapi)
@@ -6837,7 +6857,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="kodi-kodi"></a>[Kodi](https://kodi.tv)
@@ -6852,7 +6872,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="lean-quantconnect-lean"></a>[Lean](https://github.com/quantconnect/lean)
@@ -6867,7 +6887,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-07-27
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="mpv-mpv"></a>[mpv](https://mpv.io)
@@ -6882,8 +6902,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="nautilustrader-nautechsystems-nautilus-trader"></a>[nautilustrader](https://github.com/nautechsystems/nautilus_trader)
@@ -6898,8 +6918,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-07-27
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-08-03
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="newsblur-newsblur"></a>[NewsBlur](https://newsblur.com)
@@ -6914,12 +6934,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-07-27
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-08-03
 
 ---
 ### <a id="openlayers3-openlayers"></a>[OpenLayers3](https://openlayers.org)
 
-**Label:** AI Candidate · **Domain:** Other · **Signal:** Found in 1 active source: jivoi/awesome-osint
+**Label:** AI Candidate · **Domain:** Other · **Signal:** Found in 2 active sources: jivoi/awesome-osint, sorrycc/awesome-javascript
 
 **Summary:** A high-performance, feature-packed library for all your mapping needs.
 
@@ -6929,7 +6949,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-07-27
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-08-03
+- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) · ROSTER · quality 88 · observed 2026-08-03
 
 ---
 ### <a id="polaris-agersant-polaris"></a>[Polaris](https://github.com/agersant/polaris)
@@ -6944,7 +6965,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-07-27
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-08-03
 
 ---
 ### <a id="qbittorrent-qbittorrent"></a>[qBittorrent](https://qbittorrent.org)
@@ -6959,7 +6980,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="quantlib-lballabio-quantlib"></a>[QuantLib](https://github.com/lballabio/quantlib)
@@ -6974,8 +6995,23 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-07-27
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-07-27
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-08-03
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 89 · observed 2026-08-03
+
+---
+### <a id="redis-redis-redis"></a>[Redis](https://github.com/redis/redis)
+
+**Label:** AI Candidate · **Domain:** Other · **Signal:** Found in 1 active source: EthicalML/awesome-production-machine-learning
+
+**Summary:** Redis is an open-source, in-memory data store that supports vector similarity search, making it suitable for AI/ML applications such as semantic search and recommendation systems.
+
+**Why it is here:** Vector search integrado sin plugins externos, maduro y escalable
+
+**Caveat:** Candidate still needs human review before endorsement.
+
+**Source traces:**
+
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 86 · observed 2026-08-03
 
 ---
 ### <a id="reeder-5-reederapp"></a>[Reeder 5](https://reederapp.com)
@@ -6990,8 +7026,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-07-27
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-08-03
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="stocksharp-stocksharp-stocksharp"></a>[StockSharp](https://github.com/stocksharp/stocksharp)
@@ -7006,7 +7042,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-07-27
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="super-productivity-super-productivity"></a>[Super Productivity](https://super-productivity.com)
@@ -7021,7 +7057,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-07-27
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="svgo-ajstarks-svgo"></a>[SVGo](https://github.com/ajstarks/svgo)
@@ -7036,8 +7072,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-07-27
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 86 · observed 2026-08-03
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="syncthing-syncthing"></a>[Syncthing](https://syncthing.net)
@@ -7052,12 +7088,12 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-07-27
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-08-03
 
 ---
 ### <a id="tldr-pages-tldr-pages-tldr"></a>[tldr-pages](https://github.com/tldr-pages/tldr)
 
-**Label:** AI Candidate · **Domain:** Other · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** Other · **Signal:** Found in 1 active source: agarrharr/awesome-cli-apps
 
 **Summary:** Collaborative cheatsheets for console commands.
 
@@ -7067,8 +7103,7 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 93 · observed 2026-07-27
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 83 · observed 2026-07-27
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · ROSTER · quality 88 · observed 2026-08-03
 
 ---
 ### <a id="uk-company-number-borschai-uk-company-number"></a>[uk-company-number](https://github.com/borschai/uk-company-number)
@@ -7083,8 +7118,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-07-27
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-07-27
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-08-03
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-08-03
 
 ---
 ### <a id="uk-sic-codes-borschai-uk-sic-codes"></a>[uk-sic-codes](https://github.com/borschai/uk-sic-codes)
@@ -7099,21 +7134,8 @@ These are strong automated candidates worth human review next. They are not endo
 
 **Source traces:**
 
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-07-27
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-07-27
-
----
-### <a id="redis-redis-redis"></a>[Redis](https://github.com/redis/redis)
-
-**Label:** Needs Review · **Domain:** Other · **Signal:** Found in 2 active sources
-
-**Summary:** Redis is an open-source, in-memory data store that supports vector similarity search, making it suitable for AI/ML applications such as semantic search and recommendation systems.
-
-**Why it is here:** Vector search integrado sin plugins externos, maduro y escalable
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:** Needs trace review.
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-08-03
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-08-03
 
 ---
 

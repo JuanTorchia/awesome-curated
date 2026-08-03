@@ -28,7 +28,7 @@ Track bandwidth utilization by process.
 
 ### 👤 [Deployer](https://github.com/deployphp/deployer)
 
-![](https://img.shields.io/github/stars/deployphp/deployer?style=flat-square&label=⭐) · Found in 1 active source: MunGell/awesome-for-beginners
+![](https://img.shields.io/github/stars/deployphp/deployer?style=flat-square&label=⭐) · Found in 2 active sources
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -77,7 +77,7 @@ Automated candidates with enough source signal; these are not human endorsements
 
 ### [Dragonfly](https://github.com/dragonflyoss/dragonfly2)
 
-![](https://img.shields.io/github/stars/dragonflyoss/dragonfly2?style=flat-square&label=⭐) · Found in 3 active sources: veggiemonk/awesome-docker, avelino/awesome-go, MunGell/awesome-for-beginners
+![](https://img.shields.io/github/stars/dragonflyoss/dragonfly2?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -105,7 +105,7 @@ ZooKeeper is a centralized service for maintaining configuration information, na
 
 ### [Ansible](https://github.com/ansible/ansible)
 
-![](https://img.shields.io/github/stars/ansible/ansible?style=flat-square&label=⭐) · Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
+![](https://img.shields.io/github/stars/ansible/ansible?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -119,7 +119,7 @@ A simple IT automation platform
 
 ### [BorgBackup](https://github.com/borgbackup/borg)
 
-![](https://img.shields.io/github/stars/borgbackup/borg?style=flat-square&label=⭐) · Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
+![](https://img.shields.io/github/stars/borgbackup/borg?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -189,7 +189,7 @@ Found in 1 active source: veggiemonk/awesome-docker
 
 ### [CML](https://github.com/iterative/cml)
 
-![](https://img.shields.io/github/stars/iterative/cml?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/iterative/cml?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 

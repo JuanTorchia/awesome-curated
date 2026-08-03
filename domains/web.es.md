@@ -14,7 +14,7 @@ Tools with a human review label and visible caveats.
 
 ### 👤 [swiper](https://github.com/nolimits4web/swiper)
 
-![](https://img.shields.io/github/stars/nolimits4web/swiper?style=flat-square&label=⭐) · Found in 1 active source: vuejs/awesome-vue
+![](https://img.shields.io/github/stars/nolimits4web/swiper?style=flat-square&label=⭐) · Found in 1 active source: sorrycc/awesome-javascript
 
 **Review label:** Human Pick · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -28,7 +28,7 @@ docs The most modern free mobile touch slider with hardware accelerated transiti
 
 ### 👤 [query](https://github.com/tanstack/query)
 
-![](https://img.shields.io/github/stars/tanstack/query?style=flat-square&label=⭐) · Found in 1 active source: vuejs/awesome-vue
+![](https://img.shields.io/github/stars/tanstack/query?style=flat-square&label=⭐) · Found in 3 active sources
 
 **Review label:** Human Pick · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -56,7 +56,7 @@ Real-time web log analyzer and interactive viewer that runs in a terminal or thr
 
 ### 👤 [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)
 
-![](https://img.shields.io/github/stars/hasura/graphql-engine?style=flat-square&label=⭐) · Found in 1 active source: MunGell/awesome-for-beginners
+![](https://img.shields.io/github/stars/hasura/graphql-engine?style=flat-square&label=⭐) · Found in 2 active sources
 
 **Review label:** Human Pick · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -70,7 +70,7 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 
 ### 👤 [Bit](https://github.com/teambit/bit)
 
-![](https://img.shields.io/github/stars/teambit/bit?style=flat-square&label=⭐) · Found in 1 active source: vuejs/awesome-vue
+![](https://img.shields.io/github/stars/teambit/bit?style=flat-square&label=⭐) · Found in 1 active source: sorrycc/awesome-javascript
 
 **Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -84,7 +84,7 @@ Manage and reuse vue components between projects. Easily isolate and share compo
 
 ### 👤 [tsParticles](https://github.com/matteobruni/tsparticles)
 
-![](https://img.shields.io/github/stars/matteobruni/tsparticles?style=flat-square&label=⭐) · Found in 1 active source: vuejs/awesome-vue
+![](https://img.shields.io/github/stars/matteobruni/tsparticles?style=flat-square&label=⭐) · Found in 1 active source: sorrycc/awesome-javascript
 
 **Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -98,7 +98,7 @@ A lightweight Javascript library to easily create highly configurable and intera
 
 ### 👤 [Ghost](https://github.com/tryghost/ghost)
 
-![](https://img.shields.io/github/stars/tryghost/ghost?style=flat-square&label=⭐) · Found in 1 active source: MunGell/awesome-for-beginners
+![](https://img.shields.io/github/stars/tryghost/ghost?style=flat-square&label=⭐) · Found in 1 active source: sorrycc/awesome-javascript
 
 **Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -112,7 +112,7 @@ Just a blogging platform
 
 ### 👤 [schedule-x](https://github.com/schedule-x/schedule-x)
 
-![](https://img.shields.io/github/stars/schedule-x/schedule-x?style=flat-square&label=⭐) · Found in 1 active source: vuejs/awesome-vue
+![](https://img.shields.io/github/stars/schedule-x/schedule-x?style=flat-square&label=⭐) · Found in 1 active source: sorrycc/awesome-javascript
 
 **Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -126,7 +126,7 @@ Material design event calendar and date picker components. Demo site: https://sc
 
 ### 👤 [Vest](https://github.com/ealush/vest)
 
-![](https://img.shields.io/github/stars/ealush/vest?style=flat-square&label=⭐) · Found in 2 active sources: vuejs/awesome-vue, MunGell/awesome-for-beginners
+![](https://img.shields.io/github/stars/ealush/vest?style=flat-square&label=⭐) · Found in 1 active source: sorrycc/awesome-javascript
 
 **Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -140,7 +140,7 @@ Validations framework inspired by unit testing frameworks.
 
 ### 👤 [webdriver.io](https://github.com/webdriverio/webdriverio)
 
-![](https://img.shields.io/github/stars/webdriverio/webdriverio?style=flat-square&label=⭐) · Found in 1 active source: MunGell/awesome-for-beginners
+![](https://img.shields.io/github/stars/webdriverio/webdriverio?style=flat-square&label=⭐) · Found in 3 active sources
 
 **Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -168,7 +168,7 @@ High performance, extensible, and Typescript friendly
 
 ### 👤 [grommet](https://github.com/grommet/grommet)
 
-![](https://img.shields.io/github/stars/grommet/grommet?style=flat-square&label=⭐) · Found in 1 active source: MunGell/awesome-for-beginners
+![](https://img.shields.io/github/stars/grommet/grommet?style=flat-square&label=⭐) · Found in 2 active sources
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -182,7 +182,7 @@ a react-based framework that provides accessibility, modularity, responsiveness,
 
 ### 👤 [virtua](https://github.com/inokawa/virtua)
 
-![](https://img.shields.io/github/stars/inokawa/virtua?style=flat-square&label=⭐) · Found in 1 active source: vuejs/awesome-vue
+![](https://img.shields.io/github/stars/inokawa/virtua?style=flat-square&label=⭐) · Found in 2 active sources
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -203,7 +203,7 @@ Automated candidates with enough source signal; these are not human endorsements
 
 ### [D3js](https://d3js.org)
 
-Found in 2 active sources: jivoi/awesome-osint, academic/awesome-datascience
+Found in 1 active source: jivoi/awesome-osint
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -301,7 +301,7 @@ Clean project logo. Useful badges and links (languages switcher, code style, tes
 
 ### [hyperium/hyper](https://github.com/hyperium/hyper)
 
-![](https://img.shields.io/github/stars/hyperium/hyper?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, MunGell/awesome-for-beginners
+![](https://img.shields.io/github/stars/hyperium/hyper?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -329,7 +329,7 @@ A Python agent framework for building generative AI applications with structured
 
 ### [Python Babel](https://github.com/python-babel/babel)
 
-![](https://img.shields.io/github/stars/python-babel/babel?style=flat-square&label=⭐) · Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
+![](https://img.shields.io/github/stars/python-babel/babel?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -343,7 +343,7 @@ The Python Internationalization Library.
 
 ### [scrapy](https://github.com/scrapy/scrapy)
 
-![](https://img.shields.io/github/stars/scrapy/scrapy?style=flat-square&label=⭐) · Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
+![](https://img.shields.io/github/stars/scrapy/scrapy?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 

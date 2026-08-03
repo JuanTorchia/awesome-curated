@@ -8,7 +8,7 @@
 
 [![Human Picks](https://img.shields.io/badge/Human_Picks-17-gold?style=for-the-badge)](#)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](#)
-[![Updated](https://img.shields.io/badge/Updated-2026-08-01-green?style=for-the-badge)](#)
+[![Updated](https://img.shields.io/badge/Updated-2026-08-02-green?style=for-the-badge)](#)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -22,7 +22,7 @@
 
 ### 信任快照
 
-- **最新生成更新**: 2026-08-01
+- **最新生成更新**: 2026-08-02
 - **活跃来源**: 20
 - **人工审核工具**: 17
 - **方法论**: [METHODOLOGY.md](METHODOLOGY.md)
@@ -30,7 +30,7 @@
 - **Evidence snapshot**: [data/latest.json](data/latest.json)
 - **Inspectable catalog**: [TOOLS.md](TOOLS.md)
 - **Popular standards**: 1
-- **Needs review**: 20
+- **Needs review**: 15
 - **Candidate catalog**: available in [data/latest.json](data/latest.json) and domain pages; candidates are not endorsements.
 
 ---
@@ -50,7 +50,7 @@
 
 **Why now:** Turns trained ML models into native code, reducing production runtime dependencies.
 
-**Evidence:** Found in 4 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more · [traces](data/latest.json)
+**Evidence:** Found in 5 active sources: sorrycc/awesome-javascript, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +2 more · [traces](data/latest.json)
 
 **Review:** Human Pick
 
@@ -66,16 +66,6 @@
 
 **Caveat:** Security-sensitive tool; evaluate fit and maintenance posture before production use.
 
-### 👤 [Sniffnet](https://github.com/gyulyvgc/sniffnet)
-
-**Why now:** Provides a low-friction network traffic monitor for debugging and security checks.
-
-**Evidence:** Found in 3 active sources: rust-unofficial/awesome-rust, jaywcjlove/awesome-mac, MunGell/awesome-for-beginners · [traces](data/latest.json)
-
-**Review:** Human Pick
-
-**Caveat:** Worth a focused trial before adopting broadly.
-
 ### 👤 [Bencher](https://bencher.dev)
 
 **Why now:** Adds continuous benchmarking to CI so performance regressions can be caught before release.
@@ -90,24 +80,34 @@
 
 **Why now:** Makes model inspection practical across ONNX, TensorFlow, PyTorch, and related ML formats.
 
-**Evidence:** Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning · [traces](data/latest.json)
+**Evidence:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning · [traces](data/latest.json)
 
 **Review:** Human Pick
 
 **Caveat:** Best fit for teams with a matching ML or data workflow.
+
+### 👤 [Sniffnet](https://github.com/gyulyvgc/sniffnet)
+
+**Why now:** Provides a low-friction network traffic monitor for debugging and security checks.
+
+**Evidence:** Found in 2 active sources: rust-unofficial/awesome-rust, jaywcjlove/awesome-mac · [traces](data/latest.json)
+
+**Review:** Human Pick
+
+**Caveat:** Worth a focused trial before adopting broadly.
 <!-- staff-picks:end -->
 
 ---
 
-## Review queue
+## What changed this week
 
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, jivoi/awesome-osint, vinta/awesome-python
-- [Dragonfly](https://github.com/dragonflyoss/dragonfly2) — DevOps · Found in 3 active sources: veggiemonk/awesome-docker, avelino/awesome-go, MunGell/awesome-for-beginners
-- [lstags](https://github.com/ivanilves/lstags) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, veggiemonk/awesome-docker, avelino/awesome-go
-- [askbudi/roundtable](https://github.com/askbudi/roundtable) — AI & ML · Found in 2 active sources: vuejs/awesome-vue, punkpeye/awesome-mcp-servers
-- [Cython](https://github.com/cython/cython) — Performance · Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python
+- [Vercel AI](https://github.com/vercel/ai) — label changed · AI Candidate: Moved from Needs Review to AI Candidate after trace evidence passed the public bar.
+- [.NET Interactive](https://github.com/dotnet/interactive) — label changed · AI Candidate: Moved from Needs Review to AI Candidate after trace evidence passed the public bar.
+- [Apache ECharts](https://github.com/apache/echarts) — label changed · AI Candidate: Moved from Needs Review to AI Candidate after trace evidence passed the public bar.
+- [Apache Ignite](https://github.com/apache/ignite) — label changed · AI Candidate: Moved from Needs Review to AI Candidate after trace evidence passed the public bar.
+- [LlamaIndex](https://github.com/run-llama/llama_index) — label changed · AI Candidate: Moved from Needs Review to AI Candidate after trace evidence passed the public bar.
 
-Candidates are not endorsements. Ask for review via [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) or inspect the full queue in [TOOLS.md](TOOLS.md).
+See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
 
 ---
 
@@ -117,8 +117,8 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 
 | 工具 | 作用 | 信号 |
 |---|---|---|
-| 👤 [**swiper**](https://github.com/nolimits4web/swiper) | docs The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior. | Found in 1 active source: vuejs/awesome-vue · Human Pick |
-| 👤 [**query**](https://github.com/tanstack/query) | Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and... | Found in 1 active source: vuejs/awesome-vue · Human Pick |
+| 👤 [**swiper**](https://github.com/nolimits4web/swiper) | docs The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior. | Found in 1 active source: sorrycc/awesome-javascript · Human Pick |
+| 👤 [**query**](https://github.com/tanstack/query) | Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and... | Found in 3 active sources · Human Pick |
 | 👤 [**GoAccess**](https://goaccess.io) | Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. MIT C | Found in 2 active sources · Human Pick |
 
 📖 更多 27 个见[详细页面 →](domains/web.zh-CN.md)
@@ -127,9 +127,9 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 
 | 工具 | 作用 | 信号 |
 |---|---|---|
-| 👤 [**BayesWitnesses/m2cgen**](https://github.com/bayeswitnesses/m2cgen) | A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies. | Found in 4 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more · Human Pick |
-| 👤 [**Netron**](https://github.com/lutzroeder/netron) | Netron is a viewer for neural network, deep learning and machine learning models. | Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning · Human Pick |
-| 👤 [**Mem0**](https://github.com/mem0ai/mem0) | Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions. | Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners · Worth Trying |
+| 👤 [**BayesWitnesses/m2cgen**](https://github.com/bayeswitnesses/m2cgen) | A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies. | Found in 5 active sources: sorrycc/awesome-javascript, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +2 more · Human Pick |
+| 👤 [**Netron**](https://github.com/lutzroeder/netron) | Netron is a viewer for neural network, deep learning and machine learning models. | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning · Human Pick |
+| 👤 [**Mem0**](https://github.com/mem0ai/mem0) | Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions. | Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python · Worth Trying |
 
 📖 更多 89 个见[详细页面 →](domains/ai-ml.zh-CN.md)
 
@@ -138,7 +138,7 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 | 工具 | 作用 | 信号 |
 |---|---|---|
 | 👤 [**bandwhich**](https://github.com/imsnif/bandwhich) | Track bandwidth utilization by process. | Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust · Worth Trying |
-| 👤 [**Deployer**](https://github.com/deployphp/deployer) | A deployment tool written in PHP with support for popular frameworks out of the box. | Found in 1 active source: MunGell/awesome-for-beginners · Worth Trying |
+| 👤 [**Deployer**](https://github.com/deployphp/deployer) | A deployment tool written in PHP with support for popular frameworks out of the box. | Found in 2 active sources · Worth Trying |
 | 👤 [**MeshCentral**](https://meshcentral.com) | Run your own web server to remotely manage and control computers on a local network or anywhere on the internet.... | Found in 2 active sources · Worth Trying |
 
 📖 更多 44 个见[详细页面 →](domains/devops.zh-CN.md)
@@ -147,8 +147,8 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 
 | 工具 | 作用 | 信号 |
 |---|---|---|
-| 👤 [**NativeScript**](https://github.com/nativescript/nativescript) | NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like... | Found in 1 active source: MunGell/awesome-for-beginners · Worth Trying |
-| [**RunAnywhere**](https://github.com/runanywhereai/runanywhere-sdks) | RunAnywhere is a production-ready SDK for running AI models (LLMs, speech-to-text, text-to-speech) on-device for... | Found in 1 active source: josephmisiti/awesome-machine-learning · AI Candidate |
+| 👤 [**NativeScript**](https://github.com/nativescript/nativescript) | NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like... | Found in 1 active source: sorrycc/awesome-javascript · Worth Trying |
+| [**RunAnywhere**](https://github.com/runanywhereai/runanywhere-sdks) | RunAnywhere is a production-ready SDK for running AI models (LLMs, speech-to-text, text-to-speech) on-device for... | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning · AI Candidate |
 | [**ZXing**](https://github.com/zxing/zxing) | An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other... | Found in 1 active source: fffaraz/awesome-cpp · AI Candidate |
 
 📖 [完整领域页面 →](domains/mobile.zh-CN.md)
@@ -157,9 +157,9 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 
 | 工具 | 作用 | 信号 |
 |---|---|---|
-| 👤 [**recharts**](https://github.com/recharts/recharts) | Redefined chart library built with React and D3. | Found in 3 active sources · Human Pick |
+| 👤 [**recharts**](https://github.com/recharts/recharts) | Redefined chart library built with React and D3. | Found in 1 active source: sorrycc/awesome-javascript · Human Pick |
 | 👤 [**OpenStreetMap**](https://openstreetmap.org) | Collaborative project to create a free editable map of the world. (, Clients) GPL-2.0 Ruby | Found in 2 active sources · Human Pick |
-| 👤 [**pouchdb**](https://github.com/pouchdb/pouchdb) | Javascript db inspired by Apache CouchDB to run well within the browser. | Found in 1 active source: MunGell/awesome-for-beginners · Worth Trying |
+| 👤 [**pouchdb**](https://github.com/pouchdb/pouchdb) | Javascript db inspired by Apache CouchDB to run well within the browser. | Found in 1 active source: sorrycc/awesome-javascript · Worth Trying |
 
 📖 更多 65 个见[详细页面 →](domains/data.zh-CN.md)
 
@@ -187,9 +187,9 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 
 | 工具 | 作用 | 信号 |
 |---|---|---|
-| 👤 [**Sniffnet**](https://github.com/gyulyvgc/sniffnet) | Cross-platform application to monitor your network traffic with ease | Found in 3 active sources: rust-unofficial/awesome-rust, jaywcjlove/awesome-mac, MunGell/awesome-for-beginners · Human Pick |
+| 👤 [**Sniffnet**](https://github.com/gyulyvgc/sniffnet) | Cross-platform application to monitor your network traffic with ease | Found in 2 active sources: rust-unofficial/awesome-rust, jaywcjlove/awesome-mac · Human Pick |
 | 👤 [**Kaitai Struct**](https://kaitai.io) | File formats and network protocols dissection language and web IDE, generating parsers in C++, C#, Java, JavaScript,... | Found in 2 active sources: enaqx/awesome-pentest, fffaraz/awesome-cpp · Human Pick |
-| 👤 [**Cake**](https://github.com/cake-build/cake) | Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as... | Found in 1 active source: MunGell/awesome-for-beginners · Worth Trying |
+| 👤 [**Cake**](https://github.com/cake-build/cake) | Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as... | Found in 3 active sources · Worth Trying |
 
 📖 更多 132 个见[详细页面 →](domains/tooling.zh-CN.md)
 
@@ -197,7 +197,7 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 
 | 工具 | 作用 | 信号 |
 |---|---|---|
-| 👤 [**RunJS**](https://runjs.app) | JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas... | Found in 1 active source: vuejs/awesome-vue · Worth Trying |
+| 👤 [**RunJS**](https://runjs.app) | JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas... | Found in 3 active sources · Worth Trying |
 | 👤 [**phpList**](https://phplist.org) | Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. AGPL-3.0 PHP | Found in 2 active sources · Worth Trying |
 | [**AFFiNE Community Edition**](https://affine.pro) | Next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, customizable and... | Found in 1 active source: jaywcjlove/awesome-mac · AI Candidate |
 
