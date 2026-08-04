@@ -2,8 +2,8 @@
 
 ## Latest Sync
 
-- Date: 2026-08-02
-- Previous public commit: ab8fde9289d4
+- Date: 2026-08-03
+- Previous public commit: 2d0b8b5bb325
 - Evidence: [data/latest.json](data/latest.json)
 
 ## Current Snapshot
@@ -19,19 +19,9 @@
 
 ## Recent Changes
 
-### Label Changed
+### No Material Public Change
 
-- [Vercel AI](https://github.com/vercel/ai) (Needs Review → AI Candidate) — Moved from Needs Review to AI Candidate after trace evidence passed the public bar. (2026-08-02)
-- [.NET Interactive](https://github.com/dotnet/interactive) (Needs Review → AI Candidate) — Moved from Needs Review to AI Candidate after trace evidence passed the public bar. (2026-08-02)
-- [Apache ECharts](https://github.com/apache/echarts) (Needs Review → AI Candidate) — Moved from Needs Review to AI Candidate after trace evidence passed the public bar. (2026-08-02)
-- [Apache Ignite](https://github.com/apache/ignite) (Needs Review → AI Candidate) — Moved from Needs Review to AI Candidate after trace evidence passed the public bar. (2026-08-02)
-- [LlamaIndex](https://github.com/run-llama/llama_index) (Needs Review → AI Candidate) — Moved from Needs Review to AI Candidate after trace evidence passed the public bar. (2026-08-02)
-- [Ollama](https://github.com/ollama/ollama) (Needs Review → AI Candidate) — Moved from Needs Review to AI Candidate after trace evidence passed the public bar. (2026-08-02)
-- [PEFT](https://github.com/huggingface/peft) (Needs Review → AI Candidate) — Moved from Needs Review to AI Candidate after trace evidence passed the public bar. (2026-08-02)
-- [Redis](https://github.com/redis/redis) (Needs Review → AI Candidate) — Moved from Needs Review to AI Candidate after trace evidence passed the public bar. (2026-08-02)
-- [OpenRefine](https://openrefine.org) (AI Candidate → Needs Review) — Moved from AI Candidate to Needs Review after stricter trace-quality checks. (2026-08-02)
-- [QuestDB](https://github.com/questdb/questdb) (AI Candidate → Needs Review) — Moved from AI Candidate to Needs Review after stricter trace-quality checks. (2026-08-02)
-- [Redash](https://redash.io) (AI Candidate → Needs Review) — Moved from AI Candidate to Needs Review after stricter trace-quality checks. (2026-08-02)
+No material public change detected for the latest generated window.
 
 ## Review Note
 

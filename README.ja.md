@@ -8,7 +8,7 @@
 
 [![Human Picks](https://img.shields.io/badge/Human_Picks-17-gold?style=for-the-badge)](#)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](#)
-[![Updated](https://img.shields.io/badge/Updated-2026-08-02-green?style=for-the-badge)](#)
+[![Updated](https://img.shields.io/badge/Updated-2026-08-03-green?style=for-the-badge)](#)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -22,7 +22,7 @@
 
 ### 信頼スナップショット
 
-- **最新生成日**: 2026-08-02
+- **最新生成日**: 2026-08-03
 - **アクティブソース**: 20
 - **人間レビュー済みツール**: 17
 - **方法論**: [METHODOLOGY.md](METHODOLOGY.md)
@@ -99,15 +99,15 @@
 
 ---
 
-## What changed this week
+## Review queue
 
-- [Vercel AI](https://github.com/vercel/ai) — label changed · AI Candidate: Moved from Needs Review to AI Candidate after trace evidence passed the public bar.
-- [.NET Interactive](https://github.com/dotnet/interactive) — label changed · AI Candidate: Moved from Needs Review to AI Candidate after trace evidence passed the public bar.
-- [Apache ECharts](https://github.com/apache/echarts) — label changed · AI Candidate: Moved from Needs Review to AI Candidate after trace evidence passed the public bar.
-- [Apache Ignite](https://github.com/apache/ignite) — label changed · AI Candidate: Moved from Needs Review to AI Candidate after trace evidence passed the public bar.
-- [LlamaIndex](https://github.com/run-llama/llama_index) — label changed · AI Candidate: Moved from Needs Review to AI Candidate after trace evidence passed the public bar.
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, jivoi/awesome-osint, vinta/awesome-python
+- [Feature Engine](https://github.com/feature-engine/feature_engine) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
+- [lstags](https://github.com/ivanilves/lstags) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, veggiemonk/awesome-docker, avelino/awesome-go
+- [Cython](https://github.com/cython/cython) — Performance · Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python
+- [DEAP](https://github.com/deap/deap) — AI & ML · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
-See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
+Candidates are not endorsements. Ask for review via [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) or inspect the full queue in [TOOLS.md](TOOLS.md).
 
 ---
 

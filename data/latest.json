@@ -1,118 +1,16 @@
 {
   "changes": [
     {
-      "changedAt": "2026-08-02",
-      "currentLabel": "AI Candidate",
-      "name": "Vercel AI",
-      "previousLabel": "Needs Review",
-      "reason": "Moved from Needs Review to AI Candidate after trace evidence passed the public bar.",
-      "toolId": "cmnwm2qhc03apvn4d1c5auixg",
-      "type": "label changed",
-      "url": "https://github.com/vercel/ai"
-    },
-    {
-      "changedAt": "2026-08-02",
-      "currentLabel": "AI Candidate",
-      "name": ".NET Interactive",
-      "previousLabel": "Needs Review",
-      "reason": "Moved from Needs Review to AI Candidate after trace evidence passed the public bar.",
-      "toolId": "fe2b3302-aecd-4021-8d42-36329fb2a41e",
-      "type": "label changed",
-      "url": "https://github.com/dotnet/interactive"
-    },
-    {
-      "changedAt": "2026-08-02",
-      "currentLabel": "AI Candidate",
-      "name": "Apache ECharts",
-      "previousLabel": "Needs Review",
-      "reason": "Moved from Needs Review to AI Candidate after trace evidence passed the public bar.",
-      "toolId": "194caae0-a576-46f2-9df7-faf4924fecb6",
-      "type": "label changed",
-      "url": "https://github.com/apache/echarts"
-    },
-    {
-      "changedAt": "2026-08-02",
-      "currentLabel": "AI Candidate",
-      "name": "Apache Ignite",
-      "previousLabel": "Needs Review",
-      "reason": "Moved from Needs Review to AI Candidate after trace evidence passed the public bar.",
-      "toolId": "3efb3715-53d4-4802-af18-8db3bd13daad",
-      "type": "label changed",
-      "url": "https://github.com/apache/ignite"
-    },
-    {
-      "changedAt": "2026-08-02",
-      "currentLabel": "AI Candidate",
-      "name": "LlamaIndex",
-      "previousLabel": "Needs Review",
-      "reason": "Moved from Needs Review to AI Candidate after trace evidence passed the public bar.",
-      "toolId": "cmnwkookc01v51p4tyhyl1b9g",
-      "type": "label changed",
-      "url": "https://github.com/run-llama/llama_index"
-    },
-    {
-      "changedAt": "2026-08-02",
-      "currentLabel": "AI Candidate",
-      "name": "Ollama",
-      "previousLabel": "Needs Review",
-      "reason": "Moved from Needs Review to AI Candidate after trace evidence passed the public bar.",
-      "toolId": "00f5c945-a3bc-4d46-ac13-1deae196578a",
-      "type": "label changed",
-      "url": "https://github.com/ollama/ollama"
-    },
-    {
-      "changedAt": "2026-08-02",
-      "currentLabel": "AI Candidate",
-      "name": "PEFT",
-      "previousLabel": "Needs Review",
-      "reason": "Moved from Needs Review to AI Candidate after trace evidence passed the public bar.",
-      "toolId": "85aea614-aeaa-4dc4-960e-7a2bc2c9f1f0",
-      "type": "label changed",
-      "url": "https://github.com/huggingface/peft"
-    },
-    {
-      "changedAt": "2026-08-02",
-      "currentLabel": "AI Candidate",
-      "name": "Redis",
-      "previousLabel": "Needs Review",
-      "reason": "Moved from Needs Review to AI Candidate after trace evidence passed the public bar.",
-      "toolId": "148d272c-964c-4ff8-8a0b-2f69166cfd20",
-      "type": "label changed",
-      "url": "https://github.com/redis/redis"
-    },
-    {
-      "changedAt": "2026-08-02",
-      "currentLabel": "Needs Review",
-      "name": "OpenRefine",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwlxang00v2vn4dvgg2swst",
-      "type": "label changed",
-      "url": "https://openrefine.org"
-    },
-    {
-      "changedAt": "2026-08-02",
-      "currentLabel": "Needs Review",
-      "name": "QuestDB",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwkncse019p1p4ts8sqiefr",
-      "type": "label changed",
-      "url": "https://github.com/questdb/questdb"
-    },
-    {
-      "changedAt": "2026-08-02",
-      "currentLabel": "Needs Review",
-      "name": "Redash",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwlyxpu01lnvn4dd99tdeig",
-      "type": "label changed",
-      "url": "https://redash.io"
+      "changedAt": "2026-08-03",
+      "name": "Public recommendation set",
+      "reason": "No material public change detected.",
+      "toolId": "snapshot",
+      "type": "unchanged",
+      "url": "data/latest.json"
     }
   ],
-  "commitSha": "ab8fde9289d4",
-  "generatedAt": "2026-08-02T10:00:09.883Z",
+  "commitSha": "2d0b8b5bb325",
+  "generatedAt": "2026-08-03T10:00:09.511Z",
   "recommendations": [
     {
       "caveat": "Best fit for teams with a matching ML or data workflow.",
@@ -19396,7 +19294,7 @@
     "sources": 20
   },
   "validation": {
-    "checkedAt": "2026-08-02T10:00:09.883Z",
+    "checkedAt": "2026-08-03T10:00:09.511Z",
     "status": "pass",
     "warnings": []
   }
