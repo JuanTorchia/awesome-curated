@@ -8,7 +8,7 @@ Leer en otros idiomas: [🇬🇧 English](README.md) · **🇪🇸 Español** ·
 
 [![Human Picks](https://img.shields.io/badge/Human_Picks-17-gold?style=for-the-badge)](#)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](#)
-[![Updated](https://img.shields.io/badge/Updated-2026-08-03-green?style=for-the-badge)](#)
+[![Updated](https://img.shields.io/badge/Updated-2026-08-04-green?style=for-the-badge)](#)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -22,7 +22,7 @@ Dale star si querés una lista recurrente y de bajo ruido con herramientas dev, 
 
 ### Snapshot de confianza
 
-- **Última actualización generada**: 2026-08-03
+- **Última actualización generada**: 2026-08-04
 - **fuentes activas**: 20
 - **tools revisadas por humano**: 17
 - **Metodología**: [METHODOLOGY.md](METHODOLOGY.md)
