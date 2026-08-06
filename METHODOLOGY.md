@@ -61,4 +61,4 @@ The cross-source threshold has a known blind spot. Coverage is bounded by which 
 
 ## Latest Generation
 
-Generated on 2026-08-04 from the juanchi.dev Awesome Curated pipeline. Evidence snapshot: [data/latest.json](data/latest.json).
+Generated on 2026-08-05 from the juanchi.dev Awesome Curated pipeline. Evidence snapshot: [data/latest.json](data/latest.json).
