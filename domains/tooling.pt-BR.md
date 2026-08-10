@@ -2,7 +2,7 @@
 
 <p><sub>← [Voltar ao main](../README.pt-BR.md)</sub></p>
 
-**10 Human-reviewed · 1 Popular standards · 119 AI candidates · 5 Needs review**
+**10 Human-reviewed · 1 Popular standards · 121 AI candidates · 3 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -460,7 +460,7 @@ The world’s foremost and widely-used network protocol analyzer. (https://githu
 
 ---
 
-_Showing 20 of 119. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+_Showing 20 of 121. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---
@@ -480,20 +480,6 @@ Build automation tool mainly for Java. A software project management and compreh
 **Why this is here:** Dependency management centralizado y reproducible
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#apache-maven-maven) · [data/latest.json](../data/latest.json)
-
----
-
-### [CryptoSwift](https://github.com/krzyzanowskim/cryptoswift)
-
-![](https://img.shields.io/github/stars/krzyzanowskim/cryptoswift?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Crypto related functions and helpers for Swift implemented in Swift programming language.
-
-**Why this is here:** Pure Swift, portable entre plataformas
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#cryptoswift-krzyzanowskim-cryptoswift) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -522,20 +508,6 @@ OpenAPI Generator allows generation of API client libraries (e.g. C#, TypeScript
 **Why this is here:** Cubre 50+ lenguajes y frameworks en un solo generador
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#openapi-generator-openapitools-openapi-generator) · [data/latest.json](../data/latest.json)
-
----
-
-### [Swift-Sodium](https://github.com/jedisct1/swift-sodium)
-
-![](https://img.shields.io/github/stars/jedisct1/swift-sodium?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Swift interface to the Sodium library for common crypto operations for iOS and macOS.
-
-**Why this is here:** Acceso a libsodium battle-tested; AEAD + key derivation
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#swift-sodium-jedisct1-swift-sodium) · [data/latest.json](../data/latest.json)
 
 ---
 

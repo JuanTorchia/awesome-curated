@@ -14,7 +14,7 @@ Tools with a human review label and visible caveats.
 
 ### 👤 [BayesWitnesses/m2cgen](https://github.com/bayeswitnesses/m2cgen)
 
-![](https://img.shields.io/github/stars/bayeswitnesses/m2cgen?style=flat-square&label=⭐) · 🔥 **Found in 5 active sources: sorrycc/awesome-javascript, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +2 more**
+![](https://img.shields.io/github/stars/bayeswitnesses/m2cgen?style=flat-square&label=⭐) · Found in 4 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more
 
 **Review label:** Human Pick · **Caveat:** Best fit for teams with a matching ML or data workflow.
 
@@ -112,7 +112,7 @@ Chroma is an open-source embedding database.
 
 ### 👤 [Context Engineering Kit](https://github.com/neolabhq/context-engineering-kit)
 
-![](https://img.shields.io/github/stars/neolabhq/context-engineering-kit?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/neolabhq/context-engineering-kit?style=flat-square&label=⭐) · Found in 1 active source: hesreallyhim/awesome-claude-code
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -126,7 +126,7 @@ by Vlad Goncharov Hand-crafted collection of advanced context engineering techni
 
 ### 👤 [Superpowers](https://github.com/obra/superpowers)
 
-![](https://img.shields.io/github/stars/obra/superpowers?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/obra/superpowers?style=flat-square&label=⭐) · Found in 1 active source: hesreallyhim/awesome-claude-code
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 

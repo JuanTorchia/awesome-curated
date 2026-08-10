@@ -2,7 +2,7 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**3 Human-reviewed · 0 Popular standards · 59 AI candidates · 6 Needs review**
+**3 Human-reviewed · 0 Popular standards · 58 AI candidates · 7 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -14,7 +14,7 @@ Tools with a human review label and visible caveats.
 
 ### 👤 [recharts](https://github.com/recharts/recharts)
 
-![](https://img.shields.io/github/stars/recharts/recharts?style=flat-square&label=⭐) · Found in 1 active source: sorrycc/awesome-javascript
+![](https://img.shields.io/github/stars/recharts/recharts?style=flat-square&label=⭐) · Found in 3 active sources
 
 **Review label:** Human Pick · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -42,7 +42,7 @@ Collaborative project to create a free editable map of the world. (, Clients) GP
 
 ### 👤 [pouchdb](https://github.com/pouchdb/pouchdb)
 
-![](https://img.shields.io/github/stars/pouchdb/pouchdb?style=flat-square&label=⭐) · Found in 1 active source: sorrycc/awesome-javascript
+![](https://img.shields.io/github/stars/pouchdb/pouchdb?style=flat-square&label=⭐) · Found in 2 active sources
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -161,7 +161,7 @@ Data Pipeline framework built in Python, including scheduler, DAG definition and
 
 ### [Apache ECharts](https://github.com/apache/echarts)
 
-![](https://img.shields.io/github/stars/apache/echarts?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, sorrycc/awesome-javascript
+![](https://img.shields.io/github/stars/apache/echarts?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -341,7 +341,7 @@ library for working with tabular data in Julia.
 
 ---
 
-_Showing 20 of 59. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+_Showing 20 of 58. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---
@@ -431,6 +431,20 @@ Connect and query your data sources, build dashboards to visualize data and shar
 **Why this is here:** Deploy muy liviano, bajo memory footprint
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#redash-redash) · [data/latest.json](../data/latest.json)
+
+---
+
+### [vizzu](https://github.com/vizzuhq/vizzu-lib)
+
+![](https://img.shields.io/github/stars/vizzuhq/vizzu-lib?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Library for animated data visualizations and data stories.
+
+**Why this is here:** API pensada para narrativa (data stories)
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#vizzu-vizzuhq-vizzu-lib) · [data/latest.json](../data/latest.json)
 
 ---
 

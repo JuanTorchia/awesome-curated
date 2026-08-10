@@ -2,16 +2,16 @@
 
 ## Latest Sync
 
-- Date: 2026-08-08
-- Previous public commit: bae65c0c7661
+- Date: 2026-08-09
+- Previous public commit: 248ead872b8e
 - Evidence: [data/latest.json](data/latest.json)
 
 ## Current Snapshot
 
 - Human Picks: 17
-- AI Candidates: 390
+- AI Candidates: 391
 - Popular Standards: 1
-- Needs Review: 15
+- Needs Review: 14
 - Active Sources: 20
 - Public Recommendations: 498
 - Graveyard tools: 0
@@ -19,9 +19,11 @@
 
 ## Recent Changes
 
-### No Material Public Change
+### Label Changed
 
-No material public change detected for the latest generated window.
+- [CryptoSwift](https://github.com/krzyzanowskim/cryptoswift) (Needs Review → AI Candidate) — Moved from Needs Review to AI Candidate after trace evidence passed the public bar. (2026-08-09)
+- [Swift-Sodium](https://github.com/jedisct1/swift-sodium) (Needs Review → AI Candidate) — Moved from Needs Review to AI Candidate after trace evidence passed the public bar. (2026-08-09)
+- [vizzu](https://github.com/vizzuhq/vizzu-lib) (AI Candidate → Needs Review) — Moved from AI Candidate to Needs Review after stricter trace-quality checks. (2026-08-09)
 
 ## Review Note
 

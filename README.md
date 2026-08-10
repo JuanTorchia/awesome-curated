@@ -8,7 +8,7 @@ Read in other languages: **🇬🇧 English** · [🇪🇸 Español](README.es.m
 
 [![Human Picks](https://img.shields.io/badge/Human_Picks-17-gold?style=for-the-badge)](#)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](#)
-[![Updated](https://img.shields.io/badge/Updated-2026-08-08-green?style=for-the-badge)](#)
+[![Updated](https://img.shields.io/badge/Updated-2026-08-09-green?style=for-the-badge)](#)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -22,7 +22,7 @@ Star it if you want fewer tool-hunt tabs: source traces, dedupe, caveats, and a 
 
 ### Trust snapshot
 
-- **Latest generated update**: 2026-08-08
+- **Latest generated update**: 2026-08-09
 - **active sources**: 20
 - **human-reviewed tools**: 17
 - **Methodology**: [METHODOLOGY.md](METHODOLOGY.md)
@@ -30,7 +30,7 @@ Star it if you want fewer tool-hunt tabs: source traces, dedupe, caveats, and a 
 - **Evidence snapshot**: [data/latest.json](data/latest.json)
 - **Inspectable catalog**: [TOOLS.md](TOOLS.md)
 - **Popular standards**: 1
-- **Needs review**: 15
+- **Needs review**: 14
 - **Candidate catalog**: available in [data/latest.json](data/latest.json) and domain pages; candidates are not endorsements.
 
 ---
@@ -50,7 +50,7 @@ Human-reviewed picks with a concrete reason to look now.
 
 **Why now:** Turns trained ML models into native code, reducing production runtime dependencies.
 
-**Evidence:** Found in 5 active sources: sorrycc/awesome-javascript, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +2 more · [traces](data/latest.json)
+**Evidence:** Found in 4 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more · [traces](data/latest.json)
 
 **Review:** Human Pick
 
@@ -60,7 +60,7 @@ Human-reviewed picks with a concrete reason to look now.
 
 **Why now:** Gives teams a higher-level API over cryptographic primitives without starting from raw building blocks.
 
-**Evidence:** Found in 3 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go · [traces](data/latest.json)
+**Evidence:** Found in 4 active sources: matteocrippa/awesome-swift, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +1 more · [traces](data/latest.json)
 
 **Review:** Human Pick
 
@@ -99,15 +99,13 @@ Human-reviewed picks with a concrete reason to look now.
 
 ---
 
-## Review queue
+## What changed this week
 
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, jivoi/awesome-osint, vinta/awesome-python
-- [Feature Engine](https://github.com/feature-engine/feature_engine) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
-- [lstags](https://github.com/ivanilves/lstags) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, veggiemonk/awesome-docker, avelino/awesome-go
-- [Cython](https://github.com/cython/cython) — Performance · Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python
-- [DEAP](https://github.com/deap/deap) — AI & ML · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+- [CryptoSwift](https://github.com/krzyzanowskim/cryptoswift) — label changed · AI Candidate: Moved from Needs Review to AI Candidate after trace evidence passed the public bar.
+- [Swift-Sodium](https://github.com/jedisct1/swift-sodium) — label changed · AI Candidate: Moved from Needs Review to AI Candidate after trace evidence passed the public bar.
+- [vizzu](https://github.com/vizzuhq/vizzu-lib) — label changed · Needs Review: Moved from AI Candidate to Needs Review after stricter trace-quality checks.
 
-Candidates are not endorsements. Ask for review via [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) or inspect the full queue in [TOOLS.md](TOOLS.md).
+See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
 
 ---
 
@@ -117,7 +115,7 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 
 | Tool | What it does | Signal |
 |---|---|---|
-| 👤 [**swiper**](https://github.com/nolimits4web/swiper) | docs The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior. | Found in 1 active source: sorrycc/awesome-javascript · Human Pick |
+| 👤 [**swiper**](https://github.com/nolimits4web/swiper) | docs The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior. | Found in 4 active sources · Human Pick |
 | 👤 [**query**](https://github.com/tanstack/query) | Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and... | Found in 3 active sources · Human Pick |
 | 👤 [**GoAccess**](https://goaccess.io) | Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. MIT C | Found in 2 active sources · Human Pick |
 
@@ -127,7 +125,7 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 
 | Tool | What it does | Signal |
 |---|---|---|
-| 👤 [**BayesWitnesses/m2cgen**](https://github.com/bayeswitnesses/m2cgen) | A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies. | Found in 5 active sources: sorrycc/awesome-javascript, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +2 more · Human Pick |
+| 👤 [**BayesWitnesses/m2cgen**](https://github.com/bayeswitnesses/m2cgen) | A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies. | Found in 4 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more · Human Pick |
 | 👤 [**Netron**](https://github.com/lutzroeder/netron) | Netron is a viewer for neural network, deep learning and machine learning models. | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning · Human Pick |
 | 👤 [**Mem0**](https://github.com/mem0ai/mem0) | Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions. | Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python · Worth Trying |
 
@@ -147,7 +145,7 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 
 | Tool | What it does | Signal |
 |---|---|---|
-| 👤 [**NativeScript**](https://github.com/nativescript/nativescript) | NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like... | Found in 1 active source: sorrycc/awesome-javascript · Worth Trying |
+| 👤 [**NativeScript**](https://github.com/nativescript/nativescript) | NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like... | Found in 2 active sources · Worth Trying |
 | [**RunAnywhere**](https://github.com/runanywhereai/runanywhere-sdks) | RunAnywhere is a production-ready SDK for running AI models (LLMs, speech-to-text, text-to-speech) on-device for... | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning · AI Candidate |
 | [**ZXing**](https://github.com/zxing/zxing) | An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other... | Found in 1 active source: fffaraz/awesome-cpp · AI Candidate |
 
@@ -157,9 +155,9 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 
 | Tool | What it does | Signal |
 |---|---|---|
-| 👤 [**recharts**](https://github.com/recharts/recharts) | Redefined chart library built with React and D3. | Found in 1 active source: sorrycc/awesome-javascript · Human Pick |
+| 👤 [**recharts**](https://github.com/recharts/recharts) | Redefined chart library built with React and D3. | Found in 3 active sources · Human Pick |
 | 👤 [**OpenStreetMap**](https://openstreetmap.org) | Collaborative project to create a free editable map of the world. (, Clients) GPL-2.0 Ruby | Found in 2 active sources · Human Pick |
-| 👤 [**pouchdb**](https://github.com/pouchdb/pouchdb) | Javascript db inspired by Apache CouchDB to run well within the browser. | Found in 1 active source: sorrycc/awesome-javascript · Worth Trying |
+| 👤 [**pouchdb**](https://github.com/pouchdb/pouchdb) | Javascript db inspired by Apache CouchDB to run well within the browser. | Found in 2 active sources · Worth Trying |
 
 📖 65 more in [detail page →](domains/data.md) · Full evidence in [TOOLS.md](TOOLS.md)
 
@@ -167,7 +165,7 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 
 | Tool | What it does | Signal |
 |---|---|---|
-| 👤 [**themis**](https://github.com/cossacklabs/themis) | High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and... | Found in 3 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go · Human Pick |
+| 👤 [**themis**](https://github.com/cossacklabs/themis) | High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and... | Found in 4 active sources: matteocrippa/awesome-swift, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +1 more · Human Pick |
 | 👤 [**Social Engineer Toolkit (SET)**](https://github.com/trustedsec/social-engineer-toolkit) | Open source pentesting framework designed for social engineering featuring a number of custom attack vectors to make... | Found in 1 active source: enaqx/awesome-pentest · Human Pick |
 | 👤 [**x64dbg**](https://x64dbg.com) | An open-source x64/x32 debugger for windows. | Found in 2 active sources: enaqx/awesome-pentest, fffaraz/awesome-cpp · Human Pick |
 

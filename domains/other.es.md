@@ -203,7 +203,7 @@ Personal news reader that brings people together to talk about the world. A new 
 
 ### [OpenLayers3](https://openlayers.org)
 
-Found in 2 active sources: jivoi/awesome-osint, sorrycc/awesome-javascript
+Found in 1 active source: jivoi/awesome-osint
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
