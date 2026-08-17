@@ -2,7 +2,7 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**10 Human-reviewed · 1 Popular standards · 121 AI candidates · 3 Needs review**
+**10 Human-reviewed · 1 Popular standards · 113 AI candidates · 11 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -28,7 +28,7 @@ Cross-platform application to monitor your network traffic with ease
 
 ### 👤 [Kaitai Struct](https://kaitai.io)
 
-Found in 2 active sources: enaqx/awesome-pentest, fffaraz/awesome-cpp
+Found in 1 active source: enaqx/awesome-pentest
 
 **Review label:** Human Pick · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -112,7 +112,7 @@ A new way to see and navigate directory trees (get an overview of a directory, e
 
 ### 👤 [Cppcheck](https://cppcheck.sourceforge.net)
 
-Found in 2 active sources: enaqx/awesome-pentest, fffaraz/awesome-cpp
+Found in 1 active source: enaqx/awesome-pentest
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -140,7 +140,7 @@ Extended itertools port for TypeScript and JavaScript. Provides a huge set of fu
 
 ### 👤 [Spack](https://spack.io)
 
-Found in 1 active source: fffaraz/awesome-cpp
+Found in 2 active sources
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -161,7 +161,7 @@ Useful standards included as reference, not necessarily emerging discoveries.
 
 ### [Pytorch](https://github.com/pytorch/pytorch)
 
-![](https://img.shields.io/github/stars/pytorch/pytorch?style=flat-square&label=⭐) · Found in 4 active sources: EthicalML/awesome-production-machine-learning, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more
+![](https://img.shields.io/github/stars/pytorch/pytorch?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Review label:** Popular Standard · **Caveat:** Useful standard, but not a discovery or emerging pick.
 
@@ -182,7 +182,7 @@ Automated candidates with enough source signal; these are not human endorsements
 
 ### [Bokeh](https://github.com/bokeh/bokeh)
 
-![](https://img.shields.io/github/stars/bokeh/bokeh?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/bokeh/bokeh?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -224,7 +224,7 @@ Open source password management tool for Mac OS, iOS and browsers. (https://gith
 
 ### [Colossal-AI](https://github.com/hpcaitech/colossalai)
 
-![](https://img.shields.io/github/stars/hpcaitech/colossalai?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/hpcaitech/colossalai?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -238,7 +238,7 @@ A unified deep learning system for big model era, which helps users to efficient
 
 ### [Deepchecks](https://github.com/deepchecks/deepchecks)
 
-![](https://img.shields.io/github/stars/deepchecks/deepchecks?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/deepchecks/deepchecks?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -252,7 +252,7 @@ Deepchecks is a holistic open-source solution for all of your AI & ML validation
 
 ### [DVC](https://github.com/iterative/dvc)
 
-![](https://img.shields.io/github/stars/iterative/dvc?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/iterative/dvc?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -266,7 +266,7 @@ Data Science Version Control is an open-source version control system for machin
 
 ### [Jupyter Notebooks](https://github.com/jupyter/notebook)
 
-![](https://img.shields.io/github/stars/jupyter/notebook?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/jupyter/notebook?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -294,7 +294,7 @@ Production-Grade Container Scheduling and Management System
 
 ### [LightGBM](https://github.com/microsoft/lightgbm)
 
-![](https://img.shields.io/github/stars/microsoft/lightgbm?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/microsoft/lightgbm?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -420,7 +420,7 @@ A Python library for symbolic mathematics.
 
 ### [Transformers](https://github.com/huggingface/transformers)
 
-![](https://img.shields.io/github/stars/huggingface/transformers?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/huggingface/transformers?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -460,7 +460,7 @@ The world’s foremost and widely-used network protocol analyzer. (https://githu
 
 ---
 
-_Showing 20 of 121. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+_Showing 20 of 113. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---
@@ -468,6 +468,20 @@ _Showing 20 of 121. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.j
 ## Needs review
 
 Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
+
+### [.NET Interactive](https://github.com/dotnet/interactive)
+
+![](https://img.shields.io/github/stars/dotnet/interactive?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+.NET Interactive takes the power of .NET and embeds it into your interactive experiences.
+
+**Why this is here:** .NET Interactive takes the power of .NET and embeds it into your interactive experiences.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#net-interactive-dotnet-interactive) · [data/latest.json](../data/latest.json)
+
+---
 
 ### [Apache Maven](https://maven.apache.org)
 
@@ -480,6 +494,34 @@ Build automation tool mainly for Java. A software project management and compreh
 **Why this is here:** Dependency management centralizado y reproducible
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#apache-maven-maven) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Bazel](https://bazel.build)
+
+Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+A multi-language, fast and scalable build system from Google. [Apache]
+
+**Why this is here:** Performance 10x+ vs Make/Maven en builds incrementales
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#bazel-bazel) · [data/latest.json](../data/latest.json)
+
+---
+
+### [CryptoSwift](https://github.com/krzyzanowskim/cryptoswift)
+
+![](https://img.shields.io/github/stars/krzyzanowskim/cryptoswift?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Crypto related functions and helpers for Swift implemented in Swift programming language.
+
+**Why this is here:** Pure Swift, portable entre plataformas
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#cryptoswift-krzyzanowskim-cryptoswift) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -497,6 +539,48 @@ Incremental builds programmed via Groovy instead of declaring XML. Works well wi
 
 ---
 
+### [Infer](https://github.com/facebook/infer)
+
+![](https://img.shields.io/github/stars/facebook/infer?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Modern static analysis tool for verifying the correctness of code.
+
+**Why this is here:** Detecta bugs reales que otros pierde (data races, leaks)
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#infer-facebook-infer) · [data/latest.json](../data/latest.json)
+
+---
+
+### [JavaCpp](https://github.com/bytedeco/javacpp)
+
+![](https://img.shields.io/github/stars/bytedeco/javacpp?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+The missing bridge between Java and native C++. [Apache2]
+
+**Why this is here:** Sintaxis limpia respecto a JNI nativo
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#javacpp-bytedeco-javacpp) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Ollama](https://github.com/ollama/ollama)
+
+![](https://img.shields.io/github/stars/ollama/ollama?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Get up and running with large language models, locally.
+
+**Why this is here:** Get up and running with large language models, locally.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#ollama-ollama-ollama) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [OpenAPI Generator](https://github.com/openapitools/openapi-generator)
 
 ![](https://img.shields.io/github/stars/openapitools/openapi-generator?style=flat-square&label=⭐) · Found in 2 active sources
@@ -510,6 +594,22 @@ OpenAPI Generator allows generation of API client libraries (e.g. C#, TypeScript
 **Evidence record:** [TOOLS.md](../TOOLS.md#openapi-generator-openapitools-openapi-generator) · [data/latest.json](../data/latest.json)
 
 ---
+
+### [PEFT](https://github.com/huggingface/peft)
+
+![](https://img.shields.io/github/stars/huggingface/peft?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Parameter-Efficient Fine-Tuning (PEFT) methods enable efficient adaptation of pre-trained language models (PLMs) to various downstream applications without fine-tuning all the model's parameters.
+
+**Why this is here:** Comunidad masiva, docs exhaustivas
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#peft-huggingface-peft) · [data/latest.json](../data/latest.json)
+
+---
+
+_Showing 10 of 11. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

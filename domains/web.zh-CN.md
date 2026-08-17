@@ -14,7 +14,7 @@ Tools with a human review label and visible caveats.
 
 ### 👤 [swiper](https://github.com/nolimits4web/swiper)
 
-![](https://img.shields.io/github/stars/nolimits4web/swiper?style=flat-square&label=⭐) · Found in 4 active sources
+![](https://img.shields.io/github/stars/nolimits4web/swiper?style=flat-square&label=⭐) · Found in 1 active source: sorrycc/awesome-javascript
 
 **Review label:** Human Pick · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -70,7 +70,7 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 
 ### 👤 [Bit](https://github.com/teambit/bit)
 
-![](https://img.shields.io/github/stars/teambit/bit?style=flat-square&label=⭐) · Found in 4 active sources
+![](https://img.shields.io/github/stars/teambit/bit?style=flat-square&label=⭐) · Found in 1 active source: sorrycc/awesome-javascript
 
 **Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -84,7 +84,7 @@ Manage and reuse vue components between projects. Easily isolate and share compo
 
 ### 👤 [tsParticles](https://github.com/matteobruni/tsparticles)
 
-![](https://img.shields.io/github/stars/matteobruni/tsparticles?style=flat-square&label=⭐) · Found in 4 active sources
+![](https://img.shields.io/github/stars/matteobruni/tsparticles?style=flat-square&label=⭐) · Found in 1 active source: sorrycc/awesome-javascript
 
 **Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -98,7 +98,7 @@ A lightweight Javascript library to easily create highly configurable and intera
 
 ### 👤 [Ghost](https://github.com/tryghost/ghost)
 
-![](https://img.shields.io/github/stars/tryghost/ghost?style=flat-square&label=⭐) · Found in 3 active sources
+![](https://img.shields.io/github/stars/tryghost/ghost?style=flat-square&label=⭐) · Found in 1 active source: sorrycc/awesome-javascript
 
 **Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -112,7 +112,7 @@ Just a blogging platform
 
 ### 👤 [schedule-x](https://github.com/schedule-x/schedule-x)
 
-![](https://img.shields.io/github/stars/schedule-x/schedule-x?style=flat-square&label=⭐) · Found in 3 active sources
+![](https://img.shields.io/github/stars/schedule-x/schedule-x?style=flat-square&label=⭐) · Found in 1 active source: sorrycc/awesome-javascript
 
 **Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -126,7 +126,7 @@ Material design event calendar and date picker components. Demo site: https://sc
 
 ### 👤 [Vest](https://github.com/ealush/vest)
 
-![](https://img.shields.io/github/stars/ealush/vest?style=flat-square&label=⭐) · Found in 3 active sources
+![](https://img.shields.io/github/stars/ealush/vest?style=flat-square&label=⭐) · Found in 1 active source: sorrycc/awesome-javascript
 
 **Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -217,7 +217,7 @@ is a powerful data visualization javascript library.
 
 ### [grpc](https://github.com/grpc/grpc)
 
-![](https://img.shields.io/github/stars/grpc/grpc?style=flat-square&label=⭐) · Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python
+![](https://img.shields.io/github/stars/grpc/grpc?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -385,7 +385,7 @@ A small, self-contained cross-platform CLI tool that allows you to just grab the
 
 ### [tencent/tquic](https://github.com/tencent/tquic)
 
-![](https://img.shields.io/github/stars/tencent/tquic?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp
+![](https://img.shields.io/github/stars/tencent/tquic?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 

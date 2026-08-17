@@ -2,7 +2,7 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**9 Human-reviewed · 0 Popular standards · 83 AI candidates · 0 Needs review**
+**9 Human-reviewed · 0 Popular standards · 77 AI candidates · 6 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -14,7 +14,7 @@ Tools with a human review label and visible caveats.
 
 ### 👤 [BayesWitnesses/m2cgen](https://github.com/bayeswitnesses/m2cgen)
 
-![](https://img.shields.io/github/stars/bayeswitnesses/m2cgen?style=flat-square&label=⭐) · Found in 4 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more
+![](https://img.shields.io/github/stars/bayeswitnesses/m2cgen?style=flat-square&label=⭐) · Found in 4 active sources: sorrycc/awesome-javascript, rust-unofficial/awesome-rust, josephmisiti/awesome-machine-learning +1 more
 
 **Review label:** Human Pick · **Caveat:** Best fit for teams with a matching ML or data workflow.
 
@@ -28,7 +28,7 @@ A CLI tool to transpile trained classic machine learning models into a native Ru
 
 ### 👤 [Netron](https://github.com/lutzroeder/netron)
 
-![](https://img.shields.io/github/stars/lutzroeder/netron?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/lutzroeder/netron?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
 
 **Review label:** Human Pick · **Caveat:** Best fit for teams with a matching ML or data workflow.
 
@@ -42,7 +42,7 @@ Netron is a viewer for neural network, deep learning and machine learning models
 
 ### 👤 [Mem0](https://github.com/mem0ai/mem0)
 
-![](https://img.shields.io/github/stars/mem0ai/mem0?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/mem0ai/mem0?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
 
 **Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -70,7 +70,7 @@ A TUI/CLI for managing multiple AI coding agent sessions with tmux, git worktree
 
 ### 👤 [Aim](https://github.com/aimhubio/aim)
 
-![](https://img.shields.io/github/stars/aimhubio/aim?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/aimhubio/aim?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -98,7 +98,7 @@ Candle is a minimalist ML framework for Rust with a focus on performance (includ
 
 ### 👤 [Chroma](https://github.com/chroma-core/chroma)
 
-![](https://img.shields.io/github/stars/chroma-core/chroma?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/chroma-core/chroma?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -147,7 +147,7 @@ Automated candidates with enough source signal; these are not human endorsements
 
 ### [XGBoost](https://github.com/dmlc/xgboost)
 
-![](https://img.shields.io/github/stars/dmlc/xgboost?style=flat-square&label=⭐) · Found in 4 active sources: EthicalML/awesome-production-machine-learning, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more
+![](https://img.shields.io/github/stars/dmlc/xgboost?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -161,7 +161,7 @@ XGBoost is an optimized distributed gradient boosting library designed to be hig
 
 ### [CatBoost](https://github.com/catboost/catboost)
 
-![](https://img.shields.io/github/stars/catboost/catboost?style=flat-square&label=⭐) · Found in 3 active sources: fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/catboost/catboost?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -175,7 +175,7 @@ General purpose gradient boosting on decision trees library with categorical fea
 
 ### [Apache Spark](https://github.com/apache/spark)
 
-![](https://img.shields.io/github/stars/apache/spark?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/apache/spark?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -189,7 +189,7 @@ Micro-batch processing for streams using the apache spark framework as a backend
 
 ### [Feature Engine](https://github.com/feature-engine/feature_engine)
 
-![](https://img.shields.io/github/stars/feature-engine/feature_engine?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/feature-engine/feature_engine?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -203,7 +203,7 @@ Feature-engine is a Python library that contains several transformers to enginee
 
 ### [H2O-3](https://github.com/h2oai/h2o-3)
 
-![](https://img.shields.io/github/stars/h2oai/h2o-3?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/h2oai/h2o-3?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -245,7 +245,7 @@ A collection of algorithms for image processing in Python.
 
 ### [SpaCy](https://github.com/explosion/spacy)
 
-![](https://img.shields.io/github/stars/explosion/spacy?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/explosion/spacy?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -259,7 +259,7 @@ spaCy is a library for advanced Natural Language Processing in Python and Cython
 
 ### [Stable Baselines](https://github.com/dlr-rm/stable-baselines3)
 
-![](https://img.shields.io/github/stars/dlr-rm/stable-baselines3?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/dlr-rm/stable-baselines3?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -268,20 +268,6 @@ A fork of OpenAI Baselines, implementations of reinforcement learning algorithms
 **Why this is here:** APIs consistentes y bien testeadas
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#stable-baselines-dlr-rm-stable-baselines3) · [data/latest.json](../data/latest.json)
-
----
-
-### [Vercel AI](https://github.com/vercel/ai)
-
-![](https://img.shields.io/github/stars/vercel/ai?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Vercel AI is a TypeScript toolkit designed to help you build AI-powered applications using popular frameworks like Next.js, React, Svelte, Vue and runtimes like Node.js.
-
-**Why this is here:** Vercel AI is a TypeScript toolkit designed to help you build AI-powered applications using popular frameworks like Next.js, React, Svelte, Vue and...
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#vercel-ai-vercel-ai) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -301,7 +287,7 @@ CLI tool that transforms any OpenAPI spec into 9 agent interface formats (MCP se
 
 ### [ashvardanian/NumKong](https://github.com/ashvardanian/numkong)
 
-![](https://img.shields.io/github/stars/ashvardanian/numkong?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp
+![](https://img.shields.io/github/stars/ashvardanian/numkong?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -329,7 +315,7 @@ SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-51
 
 ### [Bread WandB Viewer](https://github.com/bread-technologies/bread_wandb_viewer_extension)
 
-![](https://img.shields.io/github/stars/bread-technologies/bread_wandb_viewer_extension?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/bread-technologies/bread_wandb_viewer_extension?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -371,7 +357,7 @@ High-level utils for PyTorch DL & RL research. It was developed with a focus on 
 
 ### [ClearML](https://github.com/clearml/clearml)
 
-![](https://img.shields.io/github/stars/clearml/clearml?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/clearml/clearml?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -425,7 +411,112 @@ An IDE with chat, edit, generate and debug features. Forked from VSCodium, so th
 
 ---
 
-_Showing 20 of 83. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+### [dagger/container-use](https://github.com/dagger/container-use)
+
+![](https://img.shields.io/github/stars/dagger/container-use?style=flat-square&label=⭐) · Found in 2 active sources: hesreallyhim/awesome-claude-code, punkpeye/awesome-mcp-servers
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+🏎️ 🏠 🐧 🍎 🪟 Containerized environments for coding agents. Multiple agents can work independently, isolated in fresh containers and git branches. No conflicts, many experiments. Full execution history, terminal...
+
+**Why this is here:** Aislamiento real sin conflictos between agents
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#dagger-container-use-dagger-container-use) · [data/latest.json](../data/latest.json)
+
+---
+
+_Showing 20 of 77. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+
+
+---
+
+## Needs review
+
+Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
+
+### [Vercel AI](https://github.com/vercel/ai)
+
+![](https://img.shields.io/github/stars/vercel/ai?style=flat-square&label=⭐) · Found in 3 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Vercel AI is a TypeScript toolkit designed to help you build AI-powered applications using popular frameworks like Next.js, React, Svelte, Vue and runtimes like Node.js.
+
+**Why this is here:** Vercel AI is a TypeScript toolkit designed to help you build AI-powered applications using popular frameworks like Next.js, React, Svelte, Vue and...
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#vercel-ai-vercel-ai) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Dlib](https://github.com/davisking/dlib)
+
+![](https://img.shields.io/github/stars/davisking/dlib?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+zap: A toolkit for making real world machine learning and data analysis applications in C++. [Boost]
+
+**Why this is here:** Performance comparable a TensorFlow en operaciones complejas
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#dlib-davisking-dlib) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Faiss](https://github.com/facebookresearch/faiss)
+
+![](https://img.shields.io/github/stars/facebookresearch/faiss?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Faiss is a library for efficient similarity search and clustering of dense vectors.
+
+**Why this is here:** Faiss is a library for efficient similarity search and clustering of dense vectors.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#faiss-facebookresearch-faiss) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Flashlight](https://github.com/flashlight/flashlight)
+
+![](https://img.shields.io/github/stars/flashlight/flashlight?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+A fast, flexible machine learning library written entirely in C++ from the Facebook AI Research and the creators of Torch, TensorFlow, Eigen and Deep Speech.
+
+**Why this is here:** Performance nativa C++, sin overhead Python
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#flashlight-flashlight-flashlight) · [data/latest.json](../data/latest.json)
+
+---
+
+### [LlamaIndex](https://github.com/run-llama/llama_index)
+
+![](https://img.shields.io/github/stars/run-llama/llama_index?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+LlamaIndex (GPT Index) is a data framework for your LLM application.
+
+**Why this is here:** Abstracciones de retrieval robustas (query engines)
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#llamaindex-run-llama-llama-index) · [data/latest.json](../data/latest.json)
+
+---
+
+### [TF-Agents](https://github.com/tensorflow/agents)
+
+![](https://img.shields.io/github/stars/tensorflow/agents?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+A reliable, scalable and easy to use TensorFlow library for contextual bandits and reinforcement learning.
+
+**Why this is here:** Algoritmos RL comprobados (DQN, PPO, DDPG)
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#tf-agents-tensorflow-agents) · [data/latest.json](../data/latest.json)
+
+---
 
 
 ---
