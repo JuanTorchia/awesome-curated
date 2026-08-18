@@ -8,7 +8,7 @@ Ler em outros idiomas: [🇬🇧 English](README.md) · [🇪🇸 Español](READ
 
 [![Human Picks](https://img.shields.io/badge/Human_Picks-17-gold?style=for-the-badge)](#)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](#)
-[![Updated](https://img.shields.io/badge/Updated-2026-08-16-green?style=for-the-badge)](#)
+[![Updated](https://img.shields.io/badge/Updated-2026-08-17-green?style=for-the-badge)](#)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -22,7 +22,7 @@ Dê star se você quer uma shortlist recorrente e com pouco ruído de ferramenta
 
 ### Snapshot de confiança
 
-- **Última atualização gerada**: 2026-08-16
+- **Última atualização gerada**: 2026-08-17
 - **fontes ativas**: 20
 - **ferramentas revisadas por humano**: 17
 - **Metodologia**: [METHODOLOGY.md](METHODOLOGY.md)
@@ -99,15 +99,15 @@ Escolhas revisadas por humano com um motivo concreto para olhar agora.
 
 ---
 
-## What changed this week
+## Review queue
 
-- [vizzu](https://github.com/vizzuhq/vizzu-lib) — label changed · AI Candidate: Moved from Needs Review to AI Candidate after trace evidence passed the public bar.
-- [Vercel AI](https://github.com/vercel/ai) — label changed · Needs Review: Moved from AI Candidate to Needs Review after stricter trace-quality checks.
-- [.NET Interactive](https://github.com/dotnet/interactive) — label changed · Needs Review: Moved from AI Candidate to Needs Review after stricter trace-quality checks.
-- [AI Job Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker) — label changed · Needs Review: Moved from AI Candidate to Needs Review after stricter trace-quality checks.
-- [Apache Ignite](https://github.com/apache/ignite) — label changed · Needs Review: Moved from AI Candidate to Needs Review after stricter trace-quality checks.
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, jivoi/awesome-osint, vinta/awesome-python
+- [lstags](https://github.com/ivanilves/lstags) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, veggiemonk/awesome-docker, avelino/awesome-go
+- [Water-Run/treepp](https://github.com/water-run/treepp) — Dev Tooling · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
+- [safedep/vet](https://github.com/safedep/vet) — Security & Crypto · Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers
+- [Agentic Radar](https://github.com/splx-ai/agentic-radar) — Security & Crypto · Found in 2 active sources: enaqx/awesome-pentest, josephmisiti/awesome-machine-learning
 
-See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
+Candidates are not endorsements. Ask for review via [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) or inspect the full queue in [TOOLS.md](TOOLS.md).
 
 ---
 
