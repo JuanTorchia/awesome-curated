@@ -2,7 +2,7 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**10 Human-reviewed · 1 Popular standards · 113 AI candidates · 11 Needs review**
+**10 Human-reviewed · 1 Popular standards · 116 AI candidates · 8 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -28,7 +28,7 @@ Cross-platform application to monitor your network traffic with ease
 
 ### 👤 [Kaitai Struct](https://kaitai.io)
 
-Found in 1 active source: enaqx/awesome-pentest
+Found in 2 active sources: enaqx/awesome-pentest, fffaraz/awesome-cpp
 
 **Review label:** Human Pick · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -112,7 +112,7 @@ A new way to see and navigate directory trees (get an overview of a directory, e
 
 ### 👤 [Cppcheck](https://cppcheck.sourceforge.net)
 
-Found in 1 active source: enaqx/awesome-pentest
+Found in 2 active sources: enaqx/awesome-pentest, fffaraz/awesome-cpp
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -140,7 +140,7 @@ Extended itertools port for TypeScript and JavaScript. Provides a huge set of fu
 
 ### 👤 [Spack](https://spack.io)
 
-Found in 2 active sources
+Found in 1 active source: fffaraz/awesome-cpp
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -161,7 +161,7 @@ Useful standards included as reference, not necessarily emerging discoveries.
 
 ### [Pytorch](https://github.com/pytorch/pytorch)
 
-![](https://img.shields.io/github/stars/pytorch/pytorch?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/pytorch/pytorch?style=flat-square&label=⭐) · Found in 3 active sources: fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Review label:** Popular Standard · **Caveat:** Useful standard, but not a discovery or emerging pick.
 
@@ -460,7 +460,7 @@ The world’s foremost and widely-used network protocol analyzer. (https://githu
 
 ---
 
-_Showing 20 of 113. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+_Showing 20 of 116. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---
@@ -497,20 +497,6 @@ Build automation tool mainly for Java. A software project management and compreh
 
 ---
 
-### [Bazel](https://bazel.build)
-
-Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-A multi-language, fast and scalable build system from Google. [Apache]
-
-**Why this is here:** Performance 10x+ vs Make/Maven en builds incrementales
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#bazel-bazel) · [data/latest.json](../data/latest.json)
-
----
-
 ### [CryptoSwift](https://github.com/krzyzanowskim/cryptoswift)
 
 ![](https://img.shields.io/github/stars/krzyzanowskim/cryptoswift?style=flat-square&label=⭐) · Found in 2 active sources
@@ -536,34 +522,6 @@ Incremental builds programmed via Groovy instead of declaring XML. Works well wi
 **Why this is here:** Incremental builds programmed via Groovy instead of declaring XML. Works well with Maven's dependency management.
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#gradle-gradle) · [data/latest.json](../data/latest.json)
-
----
-
-### [Infer](https://github.com/facebook/infer)
-
-![](https://img.shields.io/github/stars/facebook/infer?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Modern static analysis tool for verifying the correctness of code.
-
-**Why this is here:** Detecta bugs reales que otros pierde (data races, leaks)
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#infer-facebook-infer) · [data/latest.json](../data/latest.json)
-
----
-
-### [JavaCpp](https://github.com/bytedeco/javacpp)
-
-![](https://img.shields.io/github/stars/bytedeco/javacpp?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-The missing bridge between Java and native C++. [Apache2]
-
-**Why this is here:** Sintaxis limpia respecto a JNI nativo
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#javacpp-bytedeco-javacpp) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -609,7 +567,19 @@ Parameter-Efficient Fine-Tuning (PEFT) methods enable efficient adaptation of pr
 
 ---
 
-_Showing 10 of 11. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+### [Swift-Sodium](https://github.com/jedisct1/swift-sodium)
+
+![](https://img.shields.io/github/stars/jedisct1/swift-sodium?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Swift interface to the Sodium library for common crypto operations for iOS and macOS.
+
+**Why this is here:** Acceso a libsodium battle-tested; AEAD + key derivation
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#swift-sodium-jedisct1-swift-sodium) · [data/latest.json](../data/latest.json)
+
+---
 
 
 ---

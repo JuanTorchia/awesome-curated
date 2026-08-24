@@ -189,7 +189,7 @@ Personal news reader that brings people together to talk about the world. A new 
 
 ### [OpenLayers3](https://openlayers.org)
 
-Found in 2 active sources: jivoi/awesome-osint, sorrycc/awesome-javascript
+Found in 1 active source: jivoi/awesome-osint
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -231,7 +231,7 @@ A project aims to provide an alternative to µTorrent. (https://github.com/qbitt
 
 ### [QuantLib](https://github.com/lballabio/quantlib)
 
-![](https://img.shields.io/github/stars/lballabio/quantlib?style=flat-square&label=⭐) · Found in 1 active source: wilsonfreitas/awesome-quant
+![](https://img.shields.io/github/stars/lballabio/quantlib?style=flat-square&label=⭐) · Found in 2 active sources: wilsonfreitas/awesome-quant, fffaraz/awesome-cpp
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 

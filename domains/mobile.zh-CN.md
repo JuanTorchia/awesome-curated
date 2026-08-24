@@ -2,7 +2,7 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**1 Human-reviewed · 0 Popular standards · 1 AI candidates · 1 Needs review**
+**1 Human-reviewed · 0 Popular standards · 2 AI candidates · 0 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -14,7 +14,7 @@ Tools with a human review label and visible caveats.
 
 ### 👤 [NativeScript](https://github.com/nativescript/nativescript)
 
-![](https://img.shields.io/github/stars/nativescript/nativescript?style=flat-square&label=⭐) · Found in 1 active source: sorrycc/awesome-javascript
+![](https://img.shields.io/github/stars/nativescript/nativescript?style=flat-square&label=⭐) · Found in 2 active sources
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -47,18 +47,11 @@ RunAnywhere is a production-ready SDK for running AI models (LLMs, speech-to-tex
 
 ---
 
-
----
-
-## Needs review
-
-Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
-
 ### [ZXing](https://github.com/zxing/zxing)
 
-![](https://img.shields.io/github/stars/zxing/zxing?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/zxing/zxing?style=flat-square&label=⭐) · Found in 1 active source: fffaraz/awesome-cpp
 
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
 An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages. [Apache]
 

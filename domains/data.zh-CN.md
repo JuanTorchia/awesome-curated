@@ -14,7 +14,7 @@ Tools with a human review label and visible caveats.
 
 ### 👤 [recharts](https://github.com/recharts/recharts)
 
-![](https://img.shields.io/github/stars/recharts/recharts?style=flat-square&label=⭐) · Found in 1 active source: sorrycc/awesome-javascript
+![](https://img.shields.io/github/stars/recharts/recharts?style=flat-square&label=⭐) · Found in 3 active sources
 
 **Review label:** Human Pick · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -42,7 +42,7 @@ Collaborative project to create a free editable map of the world. (, Clients) GP
 
 ### 👤 [pouchdb](https://github.com/pouchdb/pouchdb)
 
-![](https://img.shields.io/github/stars/pouchdb/pouchdb?style=flat-square&label=⭐) · Found in 1 active source: sorrycc/awesome-javascript
+![](https://img.shields.io/github/stars/pouchdb/pouchdb?style=flat-square&label=⭐) · Found in 2 active sources
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -156,20 +156,6 @@ Data Pipeline framework built in Python, including scheduler, DAG definition and
 **Why this is here:** Data Pipeline framework built in Python, including scheduler, DAG definition and a UI for visualisation.
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#apache-airflow-apache-airflow) · [data/latest.json](../data/latest.json)
-
----
-
-### [Apache ECharts](https://github.com/apache/echarts)
-
-![](https://img.shields.io/github/stars/apache/echarts?style=flat-square&label=⭐) · Found in 1 active source: sorrycc/awesome-javascript
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Apache ECharts is a powerful, interactive charting and data visualization library for browser.
-
-**Why this is here:** Rendering performante incluso con datasets grandes
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#apache-echarts-apache-echarts) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -341,6 +327,20 @@ Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI,
 
 ---
 
+### [Dolt](https://github.com/dolthub/dolt)
+
+![](https://img.shields.io/github/stars/dolthub/dolt?style=flat-square&label=⭐) · Found in 1 active source: avelino/awesome-go
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.
+
+**Why this is here:** Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#dolt-dolthub-dolt) · [data/latest.json](../data/latest.json)
+
+---
+
 _Showing 20 of 55. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
@@ -361,6 +361,20 @@ Java message broker. Apache-2.0 Java
 **Why this is here:** Clustering y persistencia robusto
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#activemq-activemq) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Apache ECharts](https://github.com/apache/echarts)
+
+![](https://img.shields.io/github/stars/apache/echarts?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Apache ECharts is a powerful, interactive charting and data visualization library for browser.
+
+**Why this is here:** Rendering performante incluso con datasets grandes
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#apache-echarts-apache-echarts) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -420,20 +434,6 @@ Distributed, column-oriented, real-time analytics data store. Apache-2.0 Java/Do
 
 ---
 
-### [FlatBuffers](https://github.com/google/flatbuffers)
-
-![](https://img.shields.io/github/stars/google/flatbuffers?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Memory-efficient serialization library that can access serialized data without unpacking and parsing it.
-
-**Why this is here:** Footprint menor que protobuf en algunos casos
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#flatbuffers-google-flatbuffers) · [data/latest.json](../data/latest.json)
-
----
-
 ### [OpenRefine](https://openrefine.org)
 
 Found in 2 active sources
@@ -445,20 +445,6 @@ Tool for working with messy data: cleaning, transforming, extending it with web 
 **Why this is here:** Tool for working with messy data: cleaning, transforming, extending it with web services and linking it to databases.
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#openrefine-openrefine) · [data/latest.json](../data/latest.json)
-
----
-
-### [protobuf](https://github.com/protocolbuffers/protobuf)
-
-![](https://img.shields.io/github/stars/protocolbuffers/protobuf?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Protocol Buffers Google's data interchange format. [BSD]
-
-**Why this is here:** Protocol Buffers Google's data interchange format. [BSD]
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#protobuf-protocolbuffers-protobuf) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -487,6 +473,20 @@ Connect and query your data sources, build dashboards to visualize data and shar
 **Why this is here:** Deploy muy liviano, bajo memory footprint
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#redash-redash) · [data/latest.json](../data/latest.json)
+
+---
+
+### [vizzu](https://github.com/vizzuhq/vizzu-lib)
+
+![](https://img.shields.io/github/stars/vizzuhq/vizzu-lib?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Library for animated data visualizations and data stories.
+
+**Why this is here:** API pensada para narrativa (data stories)
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#vizzu-vizzuhq-vizzu-lib) · [data/latest.json](../data/latest.json)
 
 ---
 
