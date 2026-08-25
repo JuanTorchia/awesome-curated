@@ -1,128 +1,16 @@
 {
   "changes": [
     {
-      "changedAt": "2026-08-23",
-      "currentLabel": "AI Candidate",
-      "name": "Bazel",
-      "previousLabel": "Needs Review",
-      "reason": "Moved from Needs Review to AI Candidate after trace evidence passed the public bar.",
-      "toolId": "cmnwkxi5805sg1p4tygrgmnc2",
-      "type": "label changed",
-      "url": "https://bazel.build"
-    },
-    {
-      "changedAt": "2026-08-23",
-      "currentLabel": "AI Candidate",
-      "name": "Dlib",
-      "previousLabel": "Needs Review",
-      "reason": "Moved from Needs Review to AI Candidate after trace evidence passed the public bar.",
-      "toolId": "cmnwkvkat04xs1p4ty5lfgp0v",
-      "type": "label changed",
-      "url": "https://github.com/davisking/dlib"
-    },
-    {
-      "changedAt": "2026-08-23",
-      "currentLabel": "AI Candidate",
-      "name": "Faiss",
-      "previousLabel": "Needs Review",
-      "reason": "Moved from Needs Review to AI Candidate after trace evidence passed the public bar.",
-      "toolId": "cmnwkwkoh05e41p4t6uwgeatk",
-      "type": "label changed",
-      "url": "https://github.com/facebookresearch/faiss"
-    },
-    {
-      "changedAt": "2026-08-23",
-      "currentLabel": "AI Candidate",
-      "name": "Flashlight",
-      "previousLabel": "Needs Review",
-      "reason": "Moved from Needs Review to AI Candidate after trace evidence passed the public bar.",
-      "toolId": "cmnwkvmui04yy1p4tsr2xf785",
-      "type": "label changed",
-      "url": "https://github.com/flashlight/flashlight"
-    },
-    {
-      "changedAt": "2026-08-23",
-      "currentLabel": "AI Candidate",
-      "name": "FlatBuffers",
-      "previousLabel": "Needs Review",
-      "reason": "Moved from Needs Review to AI Candidate after trace evidence passed the public bar.",
-      "toolId": "cmnwkx24a05lx1p4t10tt2c6t",
-      "type": "label changed",
-      "url": "https://github.com/google/flatbuffers"
-    },
-    {
-      "changedAt": "2026-08-23",
-      "currentLabel": "AI Candidate",
-      "name": "Infer",
-      "previousLabel": "Needs Review",
-      "reason": "Moved from Needs Review to AI Candidate after trace evidence passed the public bar.",
-      "toolId": "cmnwkxjlu05t31p4toqprohy2",
-      "type": "label changed",
-      "url": "https://github.com/facebook/infer"
-    },
-    {
-      "changedAt": "2026-08-23",
-      "currentLabel": "AI Candidate",
-      "name": "JavaCpp",
-      "previousLabel": "Needs Review",
-      "reason": "Moved from Needs Review to AI Candidate after trace evidence passed the public bar.",
-      "toolId": "cmnwkwzxg05ky1p4tkhs4huvw",
-      "type": "label changed",
-      "url": "https://github.com/bytedeco/javacpp"
-    },
-    {
-      "changedAt": "2026-08-23",
-      "currentLabel": "AI Candidate",
-      "name": "protobuf",
-      "previousLabel": "Needs Review",
-      "reason": "Moved from Needs Review to AI Candidate after trace evidence passed the public bar.",
-      "toolId": "cmnwkx2l505m41p4teirsq09u",
-      "type": "label changed",
-      "url": "https://github.com/protocolbuffers/protobuf"
-    },
-    {
-      "changedAt": "2026-08-23",
-      "currentLabel": "AI Candidate",
-      "name": "Tink",
-      "previousLabel": "Needs Review",
-      "reason": "Moved from Needs Review to AI Candidate after trace evidence passed the public bar.",
-      "toolId": "cmnwkw078054y1p4t9ocfwyd1",
-      "type": "label changed",
-      "url": "https://github.com/google/tink"
-    },
-    {
-      "changedAt": "2026-08-23",
-      "currentLabel": "AI Candidate",
-      "name": "ZXing",
-      "previousLabel": "Needs Review",
-      "reason": "Moved from Needs Review to AI Candidate after trace evidence passed the public bar.",
-      "toolId": "cmnwkxcby05qf1p4twwk7bz1p",
-      "type": "label changed",
-      "url": "https://github.com/zxing/zxing"
-    },
-    {
-      "changedAt": "2026-08-23",
-      "currentLabel": "Needs Review",
-      "name": "Apache ECharts",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "194caae0-a576-46f2-9df7-faf4924fecb6",
-      "type": "label changed",
-      "url": "https://github.com/apache/echarts"
-    },
-    {
-      "changedAt": "2026-08-23",
-      "currentLabel": "Needs Review",
-      "name": "vizzu",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "8e3c8c28-1075-4311-81b1-5de9bc0c456c",
-      "type": "label changed",
-      "url": "https://github.com/vizzuhq/vizzu-lib"
+      "changedAt": "2026-08-24",
+      "name": "Public recommendation set",
+      "reason": "No material public change detected.",
+      "toolId": "snapshot",
+      "type": "unchanged",
+      "url": "data/latest.json"
     }
   ],
-  "commitSha": "b3b7ae91c56a",
-  "generatedAt": "2026-08-23T10:00:11.459Z",
+  "commitSha": "6af15879862d",
+  "generatedAt": "2026-08-24T10:00:12.647Z",
   "recommendations": [
     {
       "caveat": "Best fit for teams with a matching ML or data workflow.",
@@ -18459,7 +18347,7 @@
     "sources": 20
   },
   "validation": {
-    "checkedAt": "2026-08-23T10:00:11.459Z",
+    "checkedAt": "2026-08-24T10:00:12.647Z",
     "status": "pass",
     "warnings": []
   }
