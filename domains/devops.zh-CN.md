@@ -259,7 +259,7 @@ A tool for exploring each layer in a docker image. By wagoodman.
 
 ### [DNSDumpster](https://dnsdumpster.com)
 
-Found in 2 active sources: jivoi/awesome-osint, enaqx/awesome-pentest
+Found in 1 active source: jivoi/awesome-osint
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 

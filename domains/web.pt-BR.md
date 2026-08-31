@@ -203,7 +203,7 @@ Automated candidates with enough source signal; these are not human endorsements
 
 ### [D3js](https://d3js.org)
 
-Found in 1 active source: jivoi/awesome-osint
+Found in 2 active sources: jivoi/awesome-osint, academic/awesome-datascience
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -217,7 +217,7 @@ is a powerful data visualization javascript library.
 
 ### [grpc](https://github.com/grpc/grpc)
 
-![](https://img.shields.io/github/stars/grpc/grpc?style=flat-square&label=⭐) · Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python
+![](https://img.shields.io/github/stars/grpc/grpc?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -385,7 +385,7 @@ A small, self-contained cross-platform CLI tool that allows you to just grab the
 
 ### [tencent/tquic](https://github.com/tencent/tquic)
 
-![](https://img.shields.io/github/stars/tencent/tquic?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp
+![](https://img.shields.io/github/stars/tencent/tquic?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 

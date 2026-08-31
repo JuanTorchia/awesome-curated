@@ -2,7 +2,7 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**3 Human-reviewed · 0 Popular standards · 55 AI candidates · 10 Needs review**
+**3 Human-reviewed · 0 Popular standards · 57 AI candidates · 8 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -175,7 +175,7 @@ A VS Code extension for viewing and exploring large machine learning datasets (C
 
 ### [C3.js](https://c3js.org)
 
-Found in 1 active source: josephmisiti/awesome-machine-learning
+Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -229,6 +229,20 @@ Utilities for converting to and working with CSV.
 
 ---
 
+### [CuML](https://github.com/rapidsai/cuml)
+
+![](https://img.shields.io/github/stars/rapidsai/cuml?style=flat-square&label=⭐) · Found in 1 active source: academic/awesome-datascience
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+cuML is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects.
+
+**Why this is here:** APIs familiares tipo scikit-learn
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#cuml-rapidsai-cuml) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [Dagster](https://github.com/dagster-io/dagster)
 
 ![](https://img.shields.io/github/stars/dagster-io/dagster?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
@@ -273,7 +287,7 @@ Distributed parallel processing framework for Pandas and NumPy computations.
 
 ### [DataComPy](https://github.com/capitalone/datacompy)
 
-![](https://img.shields.io/github/stars/capitalone/datacompy?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/capitalone/datacompy?style=flat-square&label=⭐) · Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -327,21 +341,7 @@ Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI,
 
 ---
 
-### [Dolt](https://github.com/dolthub/dolt)
-
-![](https://img.shields.io/github/stars/dolthub/dolt?style=flat-square&label=⭐) · Found in 1 active source: avelino/awesome-go
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.
-
-**Why this is here:** Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#dolt-dolthub-dolt) · [data/latest.json](../data/latest.json)
-
----
-
-_Showing 20 of 55. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+_Showing 20 of 57. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---
@@ -406,20 +406,6 @@ Enterprise search platform featuring full-text search, hit highlighting, faceted
 
 ---
 
-### [CuML](https://github.com/rapidsai/cuml)
-
-![](https://img.shields.io/github/stars/rapidsai/cuml?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-cuML is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects.
-
-**Why this is here:** APIs familiares tipo scikit-learn
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#cuml-rapidsai-cuml) · [data/latest.json](../data/latest.json)
-
----
-
 ### [Druid](https://druid.apache.org)
 
 Found in 2 active sources
@@ -434,17 +420,31 @@ Distributed, column-oriented, real-time analytics data store. Apache-2.0 Java/Do
 
 ---
 
-### [OpenRefine](https://openrefine.org)
+### [FlatBuffers](https://github.com/google/flatbuffers)
 
-Found in 2 active sources
+![](https://img.shields.io/github/stars/google/flatbuffers?style=flat-square&label=⭐) · Found in 2 active sources
 
 **Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
-Tool for working with messy data: cleaning, transforming, extending it with web services and linking it to databases.
+Memory-efficient serialization library that can access serialized data without unpacking and parsing it.
 
-**Why this is here:** Tool for working with messy data: cleaning, transforming, extending it with web services and linking it to databases.
+**Why this is here:** Footprint menor que protobuf en algunos casos
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#openrefine-openrefine) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#flatbuffers-google-flatbuffers) · [data/latest.json](../data/latest.json)
+
+---
+
+### [protobuf](https://github.com/protocolbuffers/protobuf)
+
+![](https://img.shields.io/github/stars/protocolbuffers/protobuf?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Protocol Buffers Google's data interchange format. [BSD]
+
+**Why this is here:** Protocol Buffers Google's data interchange format. [BSD]
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#protobuf-protocolbuffers-protobuf) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -459,34 +459,6 @@ High-performance SQL database for time series. Supports InfluxDB line protocol, 
 **Why this is here:** High-performance SQL database for time series. Supports InfluxDB line protocol, PostgreSQL wire protocol, and REST.
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#questdb-questdb-questdb) · [data/latest.json](../data/latest.json)
-
----
-
-### [Redash](https://redash.io)
-
-Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Connect and query your data sources, build dashboards to visualize data and share them with your company. BSD-2-Clause Docker
-
-**Why this is here:** Deploy muy liviano, bajo memory footprint
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#redash-redash) · [data/latest.json](../data/latest.json)
-
----
-
-### [vizzu](https://github.com/vizzuhq/vizzu-lib)
-
-![](https://img.shields.io/github/stars/vizzuhq/vizzu-lib?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Library for animated data visualizations and data stories.
-
-**Why this is here:** API pensada para narrativa (data stories)
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#vizzu-vizzuhq-vizzu-lib) · [data/latest.json](../data/latest.json)
 
 ---
 

@@ -2,7 +2,7 @@
 
 <p><sub>← [Back to main](../README.md)</sub></p>
 
-**1 Human-reviewed · 0 Popular standards · 2 AI candidates · 0 Needs review**
+**1 Human-reviewed · 0 Popular standards · 1 AI candidates · 1 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -47,11 +47,18 @@ RunAnywhere is a production-ready SDK for running AI models (LLMs, speech-to-tex
 
 ---
 
+
+---
+
+## Needs review
+
+Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
+
 ### [ZXing](https://github.com/zxing/zxing)
 
-![](https://img.shields.io/github/stars/zxing/zxing?style=flat-square&label=⭐) · Found in 1 active source: fffaraz/awesome-cpp
+![](https://img.shields.io/github/stars/zxing/zxing?style=flat-square&label=⭐) · Found in 2 active sources
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
 An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages. [Apache]
 

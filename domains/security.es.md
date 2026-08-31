@@ -2,7 +2,7 @@
 
 <p><sub>← [Volver al main](../README.es.md)</sub></p>
 
-**7 Human-reviewed · 0 Popular standards · 39 AI candidates · 3 Needs review**
+**7 Human-reviewed · 0 Popular standards · 38 AI candidates · 4 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -14,7 +14,7 @@ Tools with a human review label and visible caveats.
 
 ### 👤 [themis](https://github.com/cossacklabs/themis)
 
-![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · Found in 3 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go
+![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, avelino/awesome-go
 
 **Review label:** Human Pick · **Caveat:** Security-sensitive tool; evaluate fit and maintenance posture before production use.
 
@@ -28,7 +28,7 @@ High level crypto library for storing data (AES), secure messaging (ECC + ECDSA 
 
 ### 👤 [Social Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit)
 
-![](https://img.shields.io/github/stars/trustedsec/social-engineer-toolkit?style=flat-square&label=⭐) · Found in 2 active sources: enaqx/awesome-pentest, vinta/awesome-python
+![](https://img.shields.io/github/stars/trustedsec/social-engineer-toolkit?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
 
 **Review label:** Human Pick · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -42,7 +42,7 @@ Open source pentesting framework designed for social engineering featuring a num
 
 ### 👤 [x64dbg](https://x64dbg.com)
 
-Found in 2 active sources: enaqx/awesome-pentest, fffaraz/awesome-cpp
+Found in 2 active sources
 
 **Review label:** Human Pick · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -84,7 +84,7 @@ End-to-end encryption and mutual authentication for distributed applications.
 
 ### 👤 [s2n](https://github.com/awslabs/s2n)
 
-![](https://img.shields.io/github/stars/awslabs/s2n?style=flat-square&label=⭐) · Found in 1 active source: fffaraz/awesome-cpp
+![](https://img.shields.io/github/stars/awslabs/s2n?style=flat-square&label=⭐) · Found in 2 active sources
 
 **Review label:** Worth Trying · **Caveat:** Security-sensitive tool; evaluate fit and maintenance posture before production use.
 
@@ -119,7 +119,7 @@ Automated candidates with enough source signal; these are not human endorsements
 
 ### [Agentic Radar](https://github.com/splx-ai/agentic-radar)
 
-![](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=flat-square&label=⭐) · Found in 2 active sources: enaqx/awesome-pentest, josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -189,7 +189,7 @@ Create, share communicate. Chat and call securely.
 
 ### [Google Hacking Database (GHDB)](https://exploit-db.com/google-hacking-database)
 
-Found in 2 active sources: jivoi/awesome-osint, enaqx/awesome-pentest
+Found in 1 active source: jivoi/awesome-osint
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -217,7 +217,7 @@ Collection of cryptographic hash functions written in pure Rust.
 
 ### [Hunter.io](https://hunter.io)
 
-Found in 2 active sources: jivoi/awesome-osint, enaqx/awesome-pentest
+Found in 1 active source: jivoi/awesome-osint
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -231,7 +231,7 @@ Data broker providing a Web search interface for discovering the email addresses
 
 ### [I2P](https://geti2p.net)
 
-Found in 2 active sources: jivoi/awesome-osint, enaqx/awesome-pentest
+Found in 1 active source: jivoi/awesome-osint
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -259,7 +259,7 @@ Secure groups, files, and chat for everyone! (https://github.com/keybase)
 
 ### [kpcyrd/authoscope](https://github.com/kpcyrd/authoscope)
 
-![](https://img.shields.io/github/stars/kpcyrd/authoscope?style=flat-square&label=⭐) · Found in 2 active sources: enaqx/awesome-pentest, rust-unofficial/awesome-rust
+![](https://img.shields.io/github/stars/kpcyrd/authoscope?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -273,7 +273,7 @@ A scriptable network authentication cracker
 
 ### [kpcyrd/sniffglue](https://github.com/kpcyrd/sniffglue)
 
-![](https://img.shields.io/github/stars/kpcyrd/sniffglue?style=flat-square&label=⭐) · Found in 2 active sources: enaqx/awesome-pentest, rust-unofficial/awesome-rust
+![](https://img.shields.io/github/stars/kpcyrd/sniffglue?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -301,7 +301,7 @@ A fork of Firefox, focused on privacy, security and freedom. (https://gitlab.com
 
 ### [Lynis](https://cisofy.com/lynis)
 
-Found in 2 active sources: enaqx/awesome-pentest, veggiemonk/awesome-docker
+Found in 1 active source: veggiemonk/awesome-docker
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -315,7 +315,7 @@ Auditing tool for UNIX-based systems.
 
 ### [Maltego](https://maltego.com)
 
-Found in 2 active sources: jivoi/awesome-osint, enaqx/awesome-pentest
+Found in 1 active source: jivoi/awesome-osint
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -397,7 +397,7 @@ LLM red teaming and evaluation framework for testing jailbreaks, prompt injectio
 
 ---
 
-_Showing 20 of 39. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+_Showing 20 of 38. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---
@@ -445,6 +445,20 @@ Open Source Identity and Access Management. Apache-2.0 Java
 **Why this is here:** Cluster-ready y escalable horizontalmente
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#keycloak-keycloak) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Tink](https://github.com/google/tink)
+
+![](https://img.shields.io/github/stars/google/tink?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+A multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse. [Apache-2.0]
+
+**Why this is here:** A multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse. [Apache-2.0]
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#tink-google-tink) · [data/latest.json](../data/latest.json)
 
 ---
 

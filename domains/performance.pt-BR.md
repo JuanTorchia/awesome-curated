@@ -14,7 +14,7 @@ Tools with a human review label and visible caveats.
 
 ### 👤 [Bencher](https://bencher.dev)
 
-Found in 2 active sources: fffaraz/awesome-cpp, avelino/awesome-go
+Found in 1 active source: avelino/awesome-go
 
 **Review label:** Human Pick · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -28,7 +28,7 @@ Suite of continuous benchmarking tools designed to catch performance regressions
 
 ### 👤 [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding)
 
-![](https://img.shields.io/github/stars/real-logic/simple-binary-encoding?style=flat-square&label=⭐) · Found in 1 active source: fffaraz/awesome-cpp
+![](https://img.shields.io/github/stars/real-logic/simple-binary-encoding?style=flat-square&label=⭐) · Found in 2 active sources
 
 **Review label:** Human Pick · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -42,7 +42,7 @@ encoding and decoding application messages in binary format for low-latency appl
 
 ### 👤 [uWebSockets](https://github.com/unetworking/uwebsockets)
 
-![](https://img.shields.io/github/stars/unetworking/uwebsockets?style=flat-square&label=⭐) · Found in 1 active source: fffaraz/awesome-cpp
+![](https://img.shields.io/github/stars/unetworking/uwebsockets?style=flat-square&label=⭐) · Found in 2 active sources
 
 **Review label:** Human Pick · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -56,7 +56,7 @@ encoding and decoding application messages in binary format for low-latency appl
 
 ### 👤 [xxHash](https://github.com/cyan4973/xxhash)
 
-![](https://img.shields.io/github/stars/cyan4973/xxhash?style=flat-square&label=⭐) · Found in 1 active source: fffaraz/awesome-cpp
+![](https://img.shields.io/github/stars/cyan4973/xxhash?style=flat-square&label=⭐) · Found in 2 active sources
 
 **Review label:** Human Pick · **Caveat:** Security-sensitive tool; evaluate fit and maintenance posture before production use.
 
@@ -91,7 +91,7 @@ CodeFlash.AI – Ship Blazing-Fast Python Code, Every Time.
 
 ### [Cython](https://github.com/cython/cython)
 
-![](https://img.shields.io/github/stars/cython/cython?style=flat-square&label=⭐) · Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python
+![](https://img.shields.io/github/stars/cython/cython?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 

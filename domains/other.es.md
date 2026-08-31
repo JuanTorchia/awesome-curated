@@ -2,7 +2,7 @@
 
 <p><sub>← [Volver al main](../README.es.md)</sub></p>
 
-**2 Human-reviewed · 0 Popular standards · 22 AI candidates · 2 Needs review**
+**2 Human-reviewed · 0 Popular standards · 23 AI candidates · 1 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -58,6 +58,20 @@ Next-gen knowledge base that brings planning, sorting and creating all together.
 **Why this is here:** Next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, customizable and ready to use (alternative to...
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#affine-community-edition-affine) · [data/latest.json](../data/latest.json)
+
+---
+
+### [AI Job Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker)
+
+![](https://img.shields.io/github/stars/noahaust2/ai-displacement-tracker?style=flat-square&label=⭐) · Found in 1 active source: academic/awesome-datascience
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Structured, source-backed dataset tracking 96 AI-attributed workforce reductions (457K workers affected, 13 countries, 13 sectors). Every entry includes source URLs, attribution tier, and job functions.
+
+**Why this is here:** Structured, source-backed dataset tracking 96 AI-attributed workforce reductions (457K workers affected, 13 countries, 13 sectors). Every entry...
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#ai-job-displacement-tracker-noahaust2-ai-displacement-tracker) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -231,7 +245,7 @@ A project aims to provide an alternative to µTorrent. (https://github.com/qbitt
 
 ### [QuantLib](https://github.com/lballabio/quantlib)
 
-![](https://img.shields.io/github/stars/lballabio/quantlib?style=flat-square&label=⭐) · Found in 2 active sources: wilsonfreitas/awesome-quant, fffaraz/awesome-cpp
+![](https://img.shields.io/github/stars/lballabio/quantlib?style=flat-square&label=⭐) · Found in 1 active source: wilsonfreitas/awesome-quant
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -313,21 +327,7 @@ Syncthing is an open source peer-to-peer file synchronisation tool. MPL-2.0 Go/D
 
 ---
 
-### [tldr-pages](https://github.com/tldr-pages/tldr)
-
-![](https://img.shields.io/github/stars/tldr-pages/tldr?style=flat-square&label=⭐) · Found in 1 active source: agarrharr/awesome-cli-apps
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Collaborative cheatsheets for console commands.
-
-**Why this is here:** Contenido siempre actualizado por comunidad, formato simple y searcheable
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#tldr-pages-tldr-pages-tldr) · [data/latest.json](../data/latest.json)
-
----
-
-_Showing 20 of 22. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+_Showing 20 of 23. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---
@@ -335,20 +335,6 @@ _Showing 20 of 22. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.js
 ## Needs review
 
 Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
-
-### [AI Job Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker)
-
-![](https://img.shields.io/github/stars/noahaust2/ai-displacement-tracker?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Structured, source-backed dataset tracking 96 AI-attributed workforce reductions (457K workers affected, 13 countries, 13 sectors). Every entry includes source URLs, attribution tier, and job functions.
-
-**Why this is here:** Structured, source-backed dataset tracking 96 AI-attributed workforce reductions (457K workers affected, 13 countries, 13 sectors). Every entry...
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#ai-job-displacement-tracker-noahaust2-ai-displacement-tracker) · [data/latest.json](../data/latest.json)
-
----
 
 ### [Redis](https://github.com/redis/redis)
 
