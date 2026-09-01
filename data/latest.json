@@ -1,158 +1,16 @@
 {
   "changes": [
     {
-      "changedAt": "2026-08-30",
-      "currentLabel": "AI Candidate",
-      "name": "AI Job Displacement Tracker",
-      "previousLabel": "Needs Review",
-      "reason": "Moved from Needs Review to AI Candidate after trace evidence passed the public bar.",
-      "toolId": "a7ba6da4-5545-4210-8407-5e6818f41840",
-      "type": "label changed",
-      "url": "https://github.com/noahaust2/ai-displacement-tracker"
-    },
-    {
-      "changedAt": "2026-08-30",
-      "currentLabel": "AI Candidate",
-      "name": "CuML",
-      "previousLabel": "Needs Review",
-      "reason": "Moved from Needs Review to AI Candidate after trace evidence passed the public bar.",
-      "toolId": "53eae1c7-41f1-476a-ab81-e05cc623645b",
-      "type": "label changed",
-      "url": "https://github.com/rapidsai/cuml"
-    },
-    {
-      "changedAt": "2026-08-30",
-      "currentLabel": "AI Candidate",
-      "name": "OpenRefine",
-      "previousLabel": "Needs Review",
-      "reason": "Moved from Needs Review to AI Candidate after trace evidence passed the public bar.",
-      "toolId": "cmnwlxang00v2vn4dvgg2swst",
-      "type": "label changed",
-      "url": "https://openrefine.org"
-    },
-    {
-      "changedAt": "2026-08-30",
-      "currentLabel": "AI Candidate",
-      "name": "Redash",
-      "previousLabel": "Needs Review",
-      "reason": "Moved from Needs Review to AI Candidate after trace evidence passed the public bar.",
-      "toolId": "cmnwlyxpu01lnvn4dd99tdeig",
-      "type": "label changed",
-      "url": "https://redash.io"
-    },
-    {
-      "changedAt": "2026-08-30",
-      "currentLabel": "AI Candidate",
-      "name": "TF-Agents",
-      "previousLabel": "Needs Review",
-      "reason": "Moved from Needs Review to AI Candidate after trace evidence passed the public bar.",
-      "toolId": "13ff938d-eaa2-42c5-9a02-653a42b1d52c",
-      "type": "label changed",
-      "url": "https://github.com/tensorflow/agents"
-    },
-    {
-      "changedAt": "2026-08-30",
-      "currentLabel": "AI Candidate",
-      "name": "vizzu",
-      "previousLabel": "Needs Review",
-      "reason": "Moved from Needs Review to AI Candidate after trace evidence passed the public bar.",
-      "toolId": "8e3c8c28-1075-4311-81b1-5de9bc0c456c",
-      "type": "label changed",
-      "url": "https://github.com/vizzuhq/vizzu-lib"
-    },
-    {
-      "changedAt": "2026-08-30",
-      "currentLabel": "Needs Review",
-      "name": "Bazel",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwkxi5805sg1p4tygrgmnc2",
-      "type": "label changed",
-      "url": "https://bazel.build"
-    },
-    {
-      "changedAt": "2026-08-30",
-      "currentLabel": "Needs Review",
-      "name": "Faiss",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwkwkoh05e41p4t6uwgeatk",
-      "type": "label changed",
-      "url": "https://github.com/facebookresearch/faiss"
-    },
-    {
-      "changedAt": "2026-08-30",
-      "currentLabel": "Needs Review",
-      "name": "Flashlight",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwkvmui04yy1p4tsr2xf785",
-      "type": "label changed",
-      "url": "https://github.com/flashlight/flashlight"
-    },
-    {
-      "changedAt": "2026-08-30",
-      "currentLabel": "Needs Review",
-      "name": "FlatBuffers",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwkx24a05lx1p4t10tt2c6t",
-      "type": "label changed",
-      "url": "https://github.com/google/flatbuffers"
-    },
-    {
-      "changedAt": "2026-08-30",
-      "currentLabel": "Needs Review",
-      "name": "Infer",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwkxjlu05t31p4toqprohy2",
-      "type": "label changed",
-      "url": "https://github.com/facebook/infer"
-    },
-    {
-      "changedAt": "2026-08-30",
-      "currentLabel": "Needs Review",
-      "name": "JavaCpp",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwkwzxg05ky1p4tkhs4huvw",
-      "type": "label changed",
-      "url": "https://github.com/bytedeco/javacpp"
-    },
-    {
-      "changedAt": "2026-08-30",
-      "currentLabel": "Needs Review",
-      "name": "protobuf",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwkx2l505m41p4teirsq09u",
-      "type": "label changed",
-      "url": "https://github.com/protocolbuffers/protobuf"
-    },
-    {
-      "changedAt": "2026-08-30",
-      "currentLabel": "Needs Review",
-      "name": "Tink",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwkw078054y1p4t9ocfwyd1",
-      "type": "label changed",
-      "url": "https://github.com/google/tink"
-    },
-    {
-      "changedAt": "2026-08-30",
-      "currentLabel": "Needs Review",
-      "name": "ZXing",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwkxcby05qf1p4twwk7bz1p",
-      "type": "label changed",
-      "url": "https://github.com/zxing/zxing"
+      "changedAt": "2026-08-31",
+      "name": "Public recommendation set",
+      "reason": "No material public change detected.",
+      "toolId": "snapshot",
+      "type": "unchanged",
+      "url": "data/latest.json"
     }
   ],
-  "commitSha": "f8bdadedc6e9",
-  "generatedAt": "2026-08-30T10:00:11.510Z",
+  "commitSha": "2e005064511e",
+  "generatedAt": "2026-08-31T10:00:13.581Z",
   "recommendations": [
     {
       "caveat": "Best fit for teams with a matching ML or data workflow.",
@@ -17854,7 +17712,7 @@
     "sources": 20
   },
   "validation": {
-    "checkedAt": "2026-08-30T10:00:11.510Z",
+    "checkedAt": "2026-08-31T10:00:13.581Z",
     "status": "pass",
     "warnings": []
   }
