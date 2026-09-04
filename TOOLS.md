@@ -2,7 +2,7 @@
 
 This is the human-readable evidence catalog for the current public snapshot. It mirrors [data/latest.json](data/latest.json), but keeps each visible recommendation inspectable without reading JSON.
 
-Generated: 2026-09-02 · Public recommendations: 498 · Validation: pass
+Generated: 2026-09-03 · Public recommendations: 498 · Validation: pass
 
 ## Review Shortlist
 
