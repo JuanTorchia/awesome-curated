@@ -1,7 +1,7 @@
 {
   "changes": [
     {
-      "changedAt": "2026-09-04",
+      "changedAt": "2026-09-05",
       "name": "Public recommendation set",
       "reason": "No material public change detected.",
       "toolId": "snapshot",
@@ -9,8 +9,8 @@
       "url": "data/latest.json"
     }
   ],
-  "commitSha": "33eb01072a91",
-  "generatedAt": "2026-09-04T10:00:11.563Z",
+  "commitSha": "c392bf698ed2",
+  "generatedAt": "2026-09-05T10:00:11.048Z",
   "recommendations": [
     {
       "caveat": "Best fit for teams with a matching ML or data workflow.",
@@ -2322,7 +2322,7 @@
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
         "notes": "Web interface python sandbox environments for reproducible development",
-        "reviewedAt": "2026-04-13",
+        "reviewedAt": "2026-09-05",
         "status": "AI Candidate"
       },
       "slug": "jupyter-notebook",
@@ -17712,7 +17712,7 @@
     "sources": 20
   },
   "validation": {
-    "checkedAt": "2026-09-04T10:00:11.563Z",
+    "checkedAt": "2026-09-05T10:00:11.048Z",
     "status": "pass",
     "warnings": []
   }
