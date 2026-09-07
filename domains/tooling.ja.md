@@ -2,7 +2,7 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**10 Human-reviewed · 1 Popular standards · 113 AI candidates · 11 Needs review**
+**10 Human-reviewed · 1 Popular standards · 116 AI candidates · 8 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -161,7 +161,7 @@ Useful standards included as reference, not necessarily emerging discoveries.
 
 ### [Pytorch](https://github.com/pytorch/pytorch)
 
-![](https://img.shields.io/github/stars/pytorch/pytorch?style=flat-square&label=⭐) · Found in 3 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/pytorch/pytorch?style=flat-square&label=⭐) · Found in 4 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning +1 more
 
 **Review label:** Popular Standard · **Caveat:** Useful standard, but not a discovery or emerging pick.
 
@@ -182,7 +182,7 @@ Automated candidates with enough source signal; these are not human endorsements
 
 ### [Bokeh](https://github.com/bokeh/bokeh)
 
-![](https://img.shields.io/github/stars/bokeh/bokeh?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/bokeh/bokeh?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -224,7 +224,7 @@ Open source password management tool for Mac OS, iOS and browsers. (https://gith
 
 ### [Colossal-AI](https://github.com/hpcaitech/colossalai)
 
-![](https://img.shields.io/github/stars/hpcaitech/colossalai?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/hpcaitech/colossalai?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -238,7 +238,7 @@ A unified deep learning system for big model era, which helps users to efficient
 
 ### [Deepchecks](https://github.com/deepchecks/deepchecks)
 
-![](https://img.shields.io/github/stars/deepchecks/deepchecks?style=flat-square&label=⭐) · Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/deepchecks/deepchecks?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -252,7 +252,7 @@ Deepchecks is a holistic open-source solution for all of your AI & ML validation
 
 ### [DVC](https://github.com/iterative/dvc)
 
-![](https://img.shields.io/github/stars/iterative/dvc?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/iterative/dvc?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -266,7 +266,7 @@ Data Science Version Control is an open-source version control system for machin
 
 ### [Jupyter Notebooks](https://github.com/jupyter/notebook)
 
-![](https://img.shields.io/github/stars/jupyter/notebook?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
+![](https://img.shields.io/github/stars/jupyter/notebook?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -294,7 +294,7 @@ Production-Grade Container Scheduling and Management System
 
 ### [LightGBM](https://github.com/microsoft/lightgbm)
 
-![](https://img.shields.io/github/stars/microsoft/lightgbm?style=flat-square&label=⭐) · Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/microsoft/lightgbm?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -420,7 +420,7 @@ A Python library for symbolic mathematics.
 
 ### [Transformers](https://github.com/huggingface/transformers)
 
-![](https://img.shields.io/github/stars/huggingface/transformers?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/huggingface/transformers?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -460,7 +460,7 @@ The world’s foremost and widely-used network protocol analyzer. (https://githu
 
 ---
 
-_Showing 20 of 113. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+_Showing 20 of 116. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---
@@ -468,20 +468,6 @@ _Showing 20 of 113. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.j
 ## Needs review
 
 Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
-
-### [.NET Interactive](https://github.com/dotnet/interactive)
-
-![](https://img.shields.io/github/stars/dotnet/interactive?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-.NET Interactive takes the power of .NET and embeds it into your interactive experiences.
-
-**Why this is here:** .NET Interactive takes the power of .NET and embeds it into your interactive experiences.
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#net-interactive-dotnet-interactive) · [data/latest.json](../data/latest.json)
-
----
 
 ### [Apache Maven](https://maven.apache.org)
 
@@ -567,20 +553,6 @@ The missing bridge between Java and native C++. [Apache2]
 
 ---
 
-### [Ollama](https://github.com/ollama/ollama)
-
-![](https://img.shields.io/github/stars/ollama/ollama?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Get up and running with large language models, locally.
-
-**Why this is here:** Get up and running with large language models, locally.
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#ollama-ollama-ollama) · [data/latest.json](../data/latest.json)
-
----
-
 ### [OpenAPI Generator](https://github.com/openapitools/openapi-generator)
 
 ![](https://img.shields.io/github/stars/openapitools/openapi-generator?style=flat-square&label=⭐) · Found in 2 active sources
@@ -595,21 +567,19 @@ OpenAPI Generator allows generation of API client libraries (e.g. C#, TypeScript
 
 ---
 
-### [PEFT](https://github.com/huggingface/peft)
+### [Swift-Sodium](https://github.com/jedisct1/swift-sodium)
 
-![](https://img.shields.io/github/stars/huggingface/peft?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/jedisct1/swift-sodium?style=flat-square&label=⭐) · Found in 2 active sources
 
 **Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
-Parameter-Efficient Fine-Tuning (PEFT) methods enable efficient adaptation of pre-trained language models (PLMs) to various downstream applications without fine-tuning all the model's parameters.
+Swift interface to the Sodium library for common crypto operations for iOS and macOS.
 
-**Why this is here:** Comunidad masiva, docs exhaustivas
+**Why this is here:** Acceso a libsodium battle-tested; AEAD + key derivation
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#peft-huggingface-peft) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#swift-sodium-jedisct1-swift-sodium) · [data/latest.json](../data/latest.json)
 
 ---
-
-_Showing 10 of 11. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

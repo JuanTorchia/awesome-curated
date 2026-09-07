@@ -8,7 +8,7 @@
 
 [![Human Picks](https://img.shields.io/badge/Human_Picks-17-gold?style=for-the-badge)](#)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](#)
-[![Updated](https://img.shields.io/badge/Updated-2026-09-05-green?style=for-the-badge)](#)
+[![Updated](https://img.shields.io/badge/Updated-2026-09-06-green?style=for-the-badge)](#)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -22,7 +22,7 @@
 
 ### 信頼スナップショット
 
-- **最新生成日**: 2026-09-05
+- **最新生成日**: 2026-09-06
 - **アクティブソース**: 20
 - **人間レビュー済みツール**: 17
 - **方法論**: [METHODOLOGY.md](METHODOLOGY.md)
@@ -30,7 +30,7 @@
 - **Evidence snapshot**: [data/latest.json](data/latest.json)
 - **Inspectable catalog**: [TOOLS.md](TOOLS.md)
 - **Popular standards**: 1
-- **Needs review**: 30
+- **Needs review**: 20
 - **Candidate catalog**: available in [data/latest.json](data/latest.json) and domain pages; candidates are not endorsements.
 
 ---
@@ -50,7 +50,7 @@
 
 **Why now:** Turns trained ML models into native code, reducing production runtime dependencies.
 
-**Evidence:** Found in 3 active sources: rust-unofficial/awesome-rust, josephmisiti/awesome-machine-learning, avelino/awesome-go · [traces](data/latest.json)
+**Evidence:** Found in 4 active sources: sorrycc/awesome-javascript, rust-unofficial/awesome-rust, josephmisiti/awesome-machine-learning +1 more · [traces](data/latest.json)
 
 **Review:** Human Pick
 
@@ -70,7 +70,7 @@
 
 **Why now:** Makes model inspection practical across ONNX, TensorFlow, PyTorch, and related ML formats.
 
-**Evidence:** Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning · [traces](data/latest.json)
+**Evidence:** Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning · [traces](data/latest.json)
 
 **Review:** Human Pick
 
@@ -99,15 +99,15 @@
 
 ---
 
-## Review queue
+## What changed this week
 
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, jivoi/awesome-osint, vinta/awesome-python
-- [lstags](https://github.com/ivanilves/lstags) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, veggiemonk/awesome-docker, avelino/awesome-go
-- [Water-Run/treepp](https://github.com/water-run/treepp) — Dev Tooling · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-- [safedep/vet](https://github.com/safedep/vet) — Security & Crypto · Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers
-- [ajitpratap0/GoSQLX](https://github.com/ajitpratap0/gosqlx) — Data & Databases · Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers
+- [Vercel AI](https://github.com/vercel/ai) — label changed · AI Candidate: Moved from Needs Review to AI Candidate after trace evidence passed the public bar.
+- [.NET Interactive](https://github.com/dotnet/interactive) — label changed · AI Candidate: Moved from Needs Review to AI Candidate after trace evidence passed the public bar.
+- [Apache ECharts](https://github.com/apache/echarts) — label changed · AI Candidate: Moved from Needs Review to AI Candidate after trace evidence passed the public bar.
+- [Apache Ignite](https://github.com/apache/ignite) — label changed · AI Candidate: Moved from Needs Review to AI Candidate after trace evidence passed the public bar.
+- [Faiss](https://github.com/facebookresearch/faiss) — label changed · AI Candidate: Moved from Needs Review to AI Candidate after trace evidence passed the public bar.
 
-Candidates are not endorsements. Ask for review via [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) or inspect the full queue in [TOOLS.md](TOOLS.md).
+See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
 
 ---
 
@@ -117,7 +117,7 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 
 | ツール | 何をする | シグナル |
 |---|---|---|
-| 👤 [**swiper**](https://github.com/nolimits4web/swiper) | docs The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior. | Found in 4 active sources · Human Pick |
+| 👤 [**swiper**](https://github.com/nolimits4web/swiper) | docs The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior. | Found in 1 active source: sorrycc/awesome-javascript · Human Pick |
 | 👤 [**query**](https://github.com/tanstack/query) | Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and... | Found in 3 active sources · Human Pick |
 | 👤 [**GoAccess**](https://goaccess.io) | Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. MIT C | Found in 2 active sources · Human Pick |
 
@@ -127,9 +127,9 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 
 | ツール | 何をする | シグナル |
 |---|---|---|
-| 👤 [**BayesWitnesses/m2cgen**](https://github.com/bayeswitnesses/m2cgen) | A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies. | Found in 3 active sources: rust-unofficial/awesome-rust, josephmisiti/awesome-machine-learning, avelino/awesome-go · Human Pick |
-| 👤 [**Netron**](https://github.com/lutzroeder/netron) | Netron is a viewer for neural network, deep learning and machine learning models. | Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning · Human Pick |
-| 👤 [**Mem0**](https://github.com/mem0ai/mem0) | Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions. | Found in 1 active source: vinta/awesome-python · Worth Trying |
+| 👤 [**BayesWitnesses/m2cgen**](https://github.com/bayeswitnesses/m2cgen) | A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies. | Found in 4 active sources: sorrycc/awesome-javascript, rust-unofficial/awesome-rust, josephmisiti/awesome-machine-learning +1 more · Human Pick |
+| 👤 [**Netron**](https://github.com/lutzroeder/netron) | Netron is a viewer for neural network, deep learning and machine learning models. | Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning · Human Pick |
+| 👤 [**Mem0**](https://github.com/mem0ai/mem0) | Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions. | Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python · Worth Trying |
 
 📖 他 89 件は[詳細ページ →](domains/ai-ml.ja.md)
 
@@ -147,8 +147,8 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 
 | ツール | 何をする | シグナル |
 |---|---|---|
-| 👤 [**NativeScript**](https://github.com/nativescript/nativescript) | NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like... | Found in 2 active sources · Worth Trying |
-| [**RunAnywhere**](https://github.com/runanywhereai/runanywhere-sdks) | RunAnywhere is a production-ready SDK for running AI models (LLMs, speech-to-text, text-to-speech) on-device for... | Found in 1 active source: josephmisiti/awesome-machine-learning · AI Candidate |
+| 👤 [**NativeScript**](https://github.com/nativescript/nativescript) | NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like... | Found in 1 active source: sorrycc/awesome-javascript · Worth Trying |
+| [**RunAnywhere**](https://github.com/runanywhereai/runanywhere-sdks) | RunAnywhere is a production-ready SDK for running AI models (LLMs, speech-to-text, text-to-speech) on-device for... | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning · AI Candidate |
 
 📖 他 1 件は[詳細ページ →](domains/mobile.ja.md)
 
@@ -156,9 +156,9 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 
 | ツール | 何をする | シグナル |
 |---|---|---|
-| 👤 [**recharts**](https://github.com/recharts/recharts) | Redefined chart library built with React and D3. | Found in 3 active sources · Human Pick |
+| 👤 [**recharts**](https://github.com/recharts/recharts) | Redefined chart library built with React and D3. | Found in 1 active source: sorrycc/awesome-javascript · Human Pick |
 | 👤 [**OpenStreetMap**](https://openstreetmap.org) | Collaborative project to create a free editable map of the world. (, Clients) GPL-2.0 Ruby | Found in 2 active sources · Human Pick |
-| 👤 [**pouchdb**](https://github.com/pouchdb/pouchdb) | Javascript db inspired by Apache CouchDB to run well within the browser. | Found in 2 active sources · Worth Trying |
+| 👤 [**pouchdb**](https://github.com/pouchdb/pouchdb) | Javascript db inspired by Apache CouchDB to run well within the browser. | Found in 1 active source: sorrycc/awesome-javascript · Worth Trying |
 
 📖 他 65 件は[詳細ページ →](domains/data.ja.md)
 
