@@ -189,7 +189,7 @@ Found in 1 active source: veggiemonk/awesome-docker
 
 ### [CML](https://github.com/iterative/cml)
 
-![](https://img.shields.io/github/stars/iterative/cml?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/iterative/cml?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 

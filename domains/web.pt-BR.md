@@ -2,7 +2,7 @@
 
 <p><sub>← [Voltar ao main](../README.pt-BR.md)</sub></p>
 
-**13 Human-reviewed · 0 Popular standards · 16 AI candidates · 1 Needs review**
+**13 Human-reviewed · 0 Popular standards · 17 AI candidates · 0 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -14,7 +14,7 @@ Tools with a human review label and visible caveats.
 
 ### 👤 [swiper](https://github.com/nolimits4web/swiper)
 
-![](https://img.shields.io/github/stars/nolimits4web/swiper?style=flat-square&label=⭐) · Found in 1 active source: sorrycc/awesome-javascript
+![](https://img.shields.io/github/stars/nolimits4web/swiper?style=flat-square&label=⭐) · Found in 2 active sources: sorrycc/awesome-javascript, enaqx/awesome-react
 
 **Review label:** Human Pick · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -28,7 +28,7 @@ docs The most modern free mobile touch slider with hardware accelerated transiti
 
 ### 👤 [query](https://github.com/tanstack/query)
 
-![](https://img.shields.io/github/stars/tanstack/query?style=flat-square&label=⭐) · Found in 3 active sources
+![](https://img.shields.io/github/stars/tanstack/query?style=flat-square&label=⭐) · Found in 1 active source: enaqx/awesome-react
 
 **Review label:** Human Pick · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -70,7 +70,7 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 
 ### 👤 [Bit](https://github.com/teambit/bit)
 
-![](https://img.shields.io/github/stars/teambit/bit?style=flat-square&label=⭐) · Found in 1 active source: sorrycc/awesome-javascript
+![](https://img.shields.io/github/stars/teambit/bit?style=flat-square&label=⭐) · Found in 2 active sources: sorrycc/awesome-javascript, enaqx/awesome-react
 
 **Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -84,7 +84,7 @@ Manage and reuse vue components between projects. Easily isolate and share compo
 
 ### 👤 [tsParticles](https://github.com/matteobruni/tsparticles)
 
-![](https://img.shields.io/github/stars/matteobruni/tsparticles?style=flat-square&label=⭐) · Found in 1 active source: sorrycc/awesome-javascript
+![](https://img.shields.io/github/stars/matteobruni/tsparticles?style=flat-square&label=⭐) · Found in 2 active sources: sorrycc/awesome-javascript, enaqx/awesome-react
 
 **Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -154,7 +154,7 @@ Next-gen browser and mobile automation test framework for Node.js
 
 ### 👤 [Formily](https://github.com/alibaba/formily)
 
-![](https://img.shields.io/github/stars/alibaba/formily?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/alibaba/formily?style=flat-square&label=⭐) · Found in 1 active source: enaqx/awesome-react
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -217,7 +217,7 @@ is a powerful data visualization javascript library.
 
 ### [grpc](https://github.com/grpc/grpc)
 
-![](https://img.shields.io/github/stars/grpc/grpc?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
+![](https://img.shields.io/github/stars/grpc/grpc?style=flat-square&label=⭐) · Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -240,6 +240,20 @@ Remote Procedure Calls (RPCs) provide a useful abstraction for building distribu
 **Why this is here:** Middleware guardrails incluido
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#juspay-neurolink-juspay-neurolink) · [data/latest.json](../data/latest.json)
+
+---
+
+### [mkosir/react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt)
+
+![](https://img.shields.io/github/stars/mkosir/react-parallax-tilt?style=flat-square&label=⭐) · Found in 1 active source: enaqx/awesome-react
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+GIF demo. Multiple badges. Feature list. Great live demo with code examples. Easy to follow instructions for local development set up.
+
+**Why this is here:** Mantenido activamente con TypeScript support incluido
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#mkosir-react-parallax-tilt-mkosir-react-parallax-tilt) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -385,7 +399,7 @@ A small, self-contained cross-platform CLI tool that allows you to just grab the
 
 ### [tencent/tquic](https://github.com/tencent/tquic)
 
-![](https://img.shields.io/github/stars/tencent/tquic?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
+![](https://img.shields.io/github/stars/tencent/tquic?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -422,27 +436,6 @@ Open, sub-millisecond, single-executable FireBase alternative with type-safe RES
 **Why this is here:** Automatiza /etc/hosts para resolver servicios por nombre en localhost
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#txn2-kubefwd-txn2-kubefwd) · [data/latest.json](../data/latest.json)
-
----
-
-
----
-
-## Needs review
-
-Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
-
-### [mkosir/react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt)
-
-![](https://img.shields.io/github/stars/mkosir/react-parallax-tilt?style=flat-square&label=⭐) · Found in 3 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-GIF demo. Multiple badges. Feature list. Great live demo with code examples. Easy to follow instructions for local development set up.
-
-**Why this is here:** Mantenido activamente con TypeScript support incluido
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#mkosir-react-parallax-tilt-mkosir-react-parallax-tilt) · [data/latest.json](../data/latest.json)
 
 ---
 
