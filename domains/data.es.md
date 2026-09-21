@@ -2,7 +2,7 @@
 
 <p><sub>← [Volver al main](../README.es.md)</sub></p>
 
-**3 Human-reviewed · 0 Popular standards · 60 AI candidates · 5 Needs review**
+**3 Human-reviewed · 0 Popular standards · 59 AI candidates · 6 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -14,7 +14,7 @@ Tools with a human review label and visible caveats.
 
 ### 👤 [recharts](https://github.com/recharts/recharts)
 
-![](https://img.shields.io/github/stars/recharts/recharts?style=flat-square&label=⭐) · Found in 2 active sources: sorrycc/awesome-javascript, enaqx/awesome-react
+![](https://img.shields.io/github/stars/recharts/recharts?style=flat-square&label=⭐) · Found in 3 active sources
 
 **Review label:** Human Pick · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -42,7 +42,7 @@ Collaborative project to create a free editable map of the world. (, Clients) GP
 
 ### 👤 [pouchdb](https://github.com/pouchdb/pouchdb)
 
-![](https://img.shields.io/github/stars/pouchdb/pouchdb?style=flat-square&label=⭐) · Found in 1 active source: sorrycc/awesome-javascript
+![](https://img.shields.io/github/stars/pouchdb/pouchdb?style=flat-square&label=⭐) · Found in 2 active sources
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -159,20 +159,6 @@ Data Pipeline framework built in Python, including scheduler, DAG definition and
 
 ---
 
-### [Apache ECharts](https://github.com/apache/echarts)
-
-![](https://img.shields.io/github/stars/apache/echarts?style=flat-square&label=⭐) · Found in 1 active source: sorrycc/awesome-javascript
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Apache ECharts is a powerful, interactive charting and data visualization library for browser.
-
-**Why this is here:** Rendering performante incluso con datasets grandes
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#apache-echarts-apache-echarts) · [data/latest.json](../data/latest.json)
-
----
-
 ### [Bread Dataset Viewer](https://github.com/bread-technologies/mle_vscode_extension)
 
 ![](https://img.shields.io/github/stars/bread-technologies/mle_vscode_extension?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
@@ -273,7 +259,7 @@ A data orchestrator for machine learning, analytics, and ETL.
 
 ### [dasel](https://github.com/tomwright/dasel)
 
-![](https://img.shields.io/github/stars/tomwright/dasel?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
+![](https://img.shields.io/github/stars/tomwright/dasel?style=flat-square&label=⭐) · Found in 1 active source: avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -341,7 +327,21 @@ DataGrip is a cross-platform IDE that is aimed at DBAs and developers working wi
 
 ---
 
-_Showing 20 of 60. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+### [Deepnote](https://github.com/deepnote/deepnote)
+
+![](https://img.shields.io/github/stars/deepnote/deepnote?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for...
+
+**Why this is here:** Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL...
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#deepnote-deepnote-deepnote) · [data/latest.json](../data/latest.json)
+
+---
+
+_Showing 20 of 59. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---
@@ -361,6 +361,20 @@ Java message broker. Apache-2.0 Java
 **Why this is here:** Clustering y persistencia robusto
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#activemq-activemq) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Apache ECharts](https://github.com/apache/echarts)
+
+![](https://img.shields.io/github/stars/apache/echarts?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Apache ECharts is a powerful, interactive charting and data visualization library for browser.
+
+**Why this is here:** Rendering performante incluso con datasets grandes
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#apache-echarts-apache-echarts) · [data/latest.json](../data/latest.json)
 
 ---
 

@@ -2,7 +2,7 @@
 
 <p><sub>← [Voltar ao main](../README.pt-BR.md)</sub></p>
 
-**10 Human-reviewed · 1 Popular standards · 116 AI candidates · 8 Needs review**
+**10 Human-reviewed · 1 Popular standards · 109 AI candidates · 15 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -56,7 +56,7 @@ Cake (C# Make) is a free and open source cross-platform build automation system 
 
 ### 👤 [intelli-shell](https://github.com/lasantosr/intelli-shell)
 
-![](https://img.shields.io/github/stars/lasantosr/intelli-shell?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
+![](https://img.shields.io/github/stars/lasantosr/intelli-shell?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -70,7 +70,7 @@ Bookmark commands with placeholders and search or autocomplete at any time
 
 ### 👤 [ast-grep](https://github.com/ast-grep/ast-grep)
 
-![](https://img.shields.io/github/stars/ast-grep/ast-grep?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
+![](https://img.shields.io/github/stars/ast-grep/ast-grep?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -84,7 +84,7 @@ A CLI tool for code structural search, lint and rewriting.
 
 ### 👤 [ATAC](https://github.com/julien-cpsn/atac)
 
-![](https://img.shields.io/github/stars/julien-cpsn/atac?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
+![](https://img.shields.io/github/stars/julien-cpsn/atac?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -98,7 +98,7 @@ A feature-full TUI API client made in Rust. ATAC is free, open-source, offline a
 
 ### 👤 [broot](https://github.com/canop/broot)
 
-![](https://img.shields.io/github/stars/canop/broot?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
+![](https://img.shields.io/github/stars/canop/broot?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -308,7 +308,7 @@ Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, G
 
 ### [lstags](https://github.com/ivanilves/lstags)
 
-![](https://img.shields.io/github/stars/ivanilves/lstags?style=flat-square&label=⭐) · Found in 3 active sources: agarrharr/awesome-cli-apps, veggiemonk/awesome-docker, avelino/awesome-go
+![](https://img.shields.io/github/stars/ivanilves/lstags?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -378,7 +378,7 @@ A Python library for Bayesian statistical modeling and probabilistic machine lea
 
 ### [Readest](https://github.com/readest/readest)
 
-![](https://img.shields.io/github/stars/readest/readest?style=flat-square&label=⭐) · Found in 2 active sources: enaqx/awesome-react, jaywcjlove/awesome-mac
+![](https://img.shields.io/github/stars/readest/readest?style=flat-square&label=⭐) · Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -434,7 +434,7 @@ Huggingface's library of state-of-the-art pretrained models for Natural Language
 
 ### [Wave](https://github.com/wavetermdev/waveterm)
 
-![](https://img.shields.io/github/stars/wavetermdev/waveterm?style=flat-square&label=⭐) · Found in 2 active sources: enaqx/awesome-react, jaywcjlove/awesome-mac
+![](https://img.shields.io/github/stars/wavetermdev/waveterm?style=flat-square&label=⭐) · Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -460,7 +460,7 @@ The world’s foremost and widely-used network protocol analyzer. (https://githu
 
 ---
 
-_Showing 20 of 116. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+_Showing 20 of 109. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---
@@ -483,6 +483,20 @@ Entries with weak or inconsistent trace evidence. They stay visible for auditabi
 
 ---
 
+### [AI Git Narrator](https://github.com/pmusolino/ai-git-narrator)
+
+![](https://img.shields.io/github/stars/pmusolino/ai-git-narrator?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+CLI tool that uses AI to automatically generate high-quality Git commit messages and pull request descriptions.
+
+**Why this is here:** Ahorra tiempo en escritura repetitiva de commits
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#ai-git-narrator-pmusolino-ai-git-narrator) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [Apache Maven](https://maven.apache.org)
 
 Found in 2 active sources
@@ -497,6 +511,20 @@ Build automation tool mainly for Java. A software project management and compreh
 
 ---
 
+### [carbon-now-cli](https://github.com/mixn/carbon-now-cli)
+
+![](https://img.shields.io/github/stars/mixn/carbon-now-cli?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Beautiful images of your code — from right inside your terminal.
+
+**Why this is here:** Workflow integrado sin browser
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#carbon-now-cli-mixn-carbon-now-cli) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [CryptoSwift](https://github.com/krzyzanowskim/cryptoswift)
 
 ![](https://img.shields.io/github/stars/krzyzanowskim/cryptoswift?style=flat-square&label=⭐) · Found in 2 active sources
@@ -508,6 +536,34 @@ Crypto related functions and helpers for Swift implemented in Swift programming 
 **Why this is here:** Pure Swift, portable entre plataformas
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#cryptoswift-krzyzanowskim-cryptoswift) · [data/latest.json](../data/latest.json)
+
+---
+
+### [fkill](https://github.com/sindresorhus/fkill-cli)
+
+![](https://img.shields.io/github/stars/sindresorhus/fkill-cli?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Fabulously kill processes. Cross-platform.
+
+**Why this is here:** Cross-platform sin inconsistencias
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#fkill-sindresorhus-fkill-cli) · [data/latest.json](../data/latest.json)
+
+---
+
+### [glances](https://nicolargo.github.io/glances)
+
+Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Open-source, cross-platform real-time monitoring tool with CLI and web dashboard interfaces and many exporting options. GPL-3.0 Python
+
+**Why this is here:** Exporta a Prometheus, CSV, JSON
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#glances-nicolargo) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -553,33 +609,7 @@ OpenAPI Generator allows generation of API client libraries (e.g. C#, TypeScript
 
 ---
 
-### [PEFT](https://github.com/huggingface/peft)
-
-![](https://img.shields.io/github/stars/huggingface/peft?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Parameter-Efficient Fine-Tuning (PEFT) methods enable efficient adaptation of pre-trained language models (PLMs) to various downstream applications without fine-tuning all the model's parameters.
-
-**Why this is here:** Comunidad masiva, docs exhaustivas
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#peft-huggingface-peft) · [data/latest.json](../data/latest.json)
-
----
-
-### [Swift-Sodium](https://github.com/jedisct1/swift-sodium)
-
-![](https://img.shields.io/github/stars/jedisct1/swift-sodium?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Swift interface to the Sodium library for common crypto operations for iOS and macOS.
-
-**Why this is here:** Acceso a libsodium battle-tested; AEAD + key derivation
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#swift-sodium-jedisct1-swift-sodium) · [data/latest.json](../data/latest.json)
-
----
+_Showing 10 of 15. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

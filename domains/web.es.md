@@ -2,7 +2,7 @@
 
 <p><sub>← [Volver al main](../README.es.md)</sub></p>
 
-**13 Human-reviewed · 0 Popular standards · 17 AI candidates · 0 Needs review**
+**13 Human-reviewed · 0 Popular standards · 15 AI candidates · 2 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -14,7 +14,7 @@ Tools with a human review label and visible caveats.
 
 ### 👤 [swiper](https://github.com/nolimits4web/swiper)
 
-![](https://img.shields.io/github/stars/nolimits4web/swiper?style=flat-square&label=⭐) · Found in 2 active sources: sorrycc/awesome-javascript, enaqx/awesome-react
+![](https://img.shields.io/github/stars/nolimits4web/swiper?style=flat-square&label=⭐) · Found in 1 active source: vuejs/awesome-vue
 
 **Review label:** Human Pick · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -28,7 +28,7 @@ docs The most modern free mobile touch slider with hardware accelerated transiti
 
 ### 👤 [query](https://github.com/tanstack/query)
 
-![](https://img.shields.io/github/stars/tanstack/query?style=flat-square&label=⭐) · Found in 1 active source: enaqx/awesome-react
+![](https://img.shields.io/github/stars/tanstack/query?style=flat-square&label=⭐) · Found in 1 active source: vuejs/awesome-vue
 
 **Review label:** Human Pick · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -70,7 +70,7 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 
 ### 👤 [Bit](https://github.com/teambit/bit)
 
-![](https://img.shields.io/github/stars/teambit/bit?style=flat-square&label=⭐) · Found in 2 active sources: sorrycc/awesome-javascript, enaqx/awesome-react
+![](https://img.shields.io/github/stars/teambit/bit?style=flat-square&label=⭐) · Found in 1 active source: vuejs/awesome-vue
 
 **Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -84,7 +84,7 @@ Manage and reuse vue components between projects. Easily isolate and share compo
 
 ### 👤 [tsParticles](https://github.com/matteobruni/tsparticles)
 
-![](https://img.shields.io/github/stars/matteobruni/tsparticles?style=flat-square&label=⭐) · Found in 2 active sources: sorrycc/awesome-javascript, enaqx/awesome-react
+![](https://img.shields.io/github/stars/matteobruni/tsparticles?style=flat-square&label=⭐) · Found in 1 active source: vuejs/awesome-vue
 
 **Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -98,7 +98,7 @@ A lightweight Javascript library to easily create highly configurable and intera
 
 ### 👤 [Ghost](https://github.com/tryghost/ghost)
 
-![](https://img.shields.io/github/stars/tryghost/ghost?style=flat-square&label=⭐) · Found in 1 active source: sorrycc/awesome-javascript
+![](https://img.shields.io/github/stars/tryghost/ghost?style=flat-square&label=⭐) · Found in 3 active sources
 
 **Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -112,7 +112,7 @@ Just a blogging platform
 
 ### 👤 [schedule-x](https://github.com/schedule-x/schedule-x)
 
-![](https://img.shields.io/github/stars/schedule-x/schedule-x?style=flat-square&label=⭐) · Found in 1 active source: sorrycc/awesome-javascript
+![](https://img.shields.io/github/stars/schedule-x/schedule-x?style=flat-square&label=⭐) · Found in 1 active source: vuejs/awesome-vue
 
 **Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -126,7 +126,7 @@ Material design event calendar and date picker components. Demo site: https://sc
 
 ### 👤 [Vest](https://github.com/ealush/vest)
 
-![](https://img.shields.io/github/stars/ealush/vest?style=flat-square&label=⭐) · Found in 1 active source: sorrycc/awesome-javascript
+![](https://img.shields.io/github/stars/ealush/vest?style=flat-square&label=⭐) · Found in 1 active source: vuejs/awesome-vue
 
 **Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -154,7 +154,7 @@ Next-gen browser and mobile automation test framework for Node.js
 
 ### 👤 [Formily](https://github.com/alibaba/formily)
 
-![](https://img.shields.io/github/stars/alibaba/formily?style=flat-square&label=⭐) · Found in 1 active source: enaqx/awesome-react
+![](https://img.shields.io/github/stars/alibaba/formily?style=flat-square&label=⭐) · Found in 2 active sources
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -182,7 +182,7 @@ a react-based framework that provides accessibility, modularity, responsiveness,
 
 ### 👤 [virtua](https://github.com/inokawa/virtua)
 
-![](https://img.shields.io/github/stars/inokawa/virtua?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/inokawa/virtua?style=flat-square&label=⭐) · Found in 1 active source: vuejs/awesome-vue
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -243,20 +243,6 @@ Remote Procedure Calls (RPCs) provide a useful abstraction for building distribu
 
 ---
 
-### [mkosir/react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt)
-
-![](https://img.shields.io/github/stars/mkosir/react-parallax-tilt?style=flat-square&label=⭐) · Found in 1 active source: enaqx/awesome-react
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-GIF demo. Multiple badges. Feature list. Great live demo with code examples. Easy to follow instructions for local development set up.
-
-**Why this is here:** Mantenido activamente con TypeScript support incluido
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#mkosir-react-parallax-tilt-mkosir-react-parallax-tilt) · [data/latest.json](../data/latest.json)
-
----
-
 ### [Vivaldi](https://vivaldi.com)
 
 Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac
@@ -282,20 +268,6 @@ A toolchain for web projects, aimed to provide functionalities to maintain them.
 **Why this is here:** A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#biome-biomejs-biome) · [data/latest.json](../data/latest.json)
-
----
-
-### [Certificate Ripper](https://github.com/hakky54/certificate-ripper)
-
-![](https://img.shields.io/github/stars/hakky54/certificate-ripper?style=flat-square&label=⭐) · Found in 1 active source: agarrharr/awesome-cli-apps
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-CLI tool and library for extracting and exporting server certificates from HTTPS endpoints.
-
-**Why this is here:** CLI tool and library for extracting and exporting server certificates from HTTPS endpoints.
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#certificate-ripper-hakky54-certificate-ripper) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -436,6 +408,41 @@ Open, sub-millisecond, single-executable FireBase alternative with type-safe RES
 **Why this is here:** Automatiza /etc/hosts para resolver servicios por nombre en localhost
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#txn2-kubefwd-txn2-kubefwd) · [data/latest.json](../data/latest.json)
+
+---
+
+
+---
+
+## Needs review
+
+Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
+
+### [mkosir/react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt)
+
+![](https://img.shields.io/github/stars/mkosir/react-parallax-tilt?style=flat-square&label=⭐) · Found in 3 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+GIF demo. Multiple badges. Feature list. Great live demo with code examples. Easy to follow instructions for local development set up.
+
+**Why this is here:** Mantenido activamente con TypeScript support incluido
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#mkosir-react-parallax-tilt-mkosir-react-parallax-tilt) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Certificate Ripper](https://github.com/hakky54/certificate-ripper)
+
+![](https://img.shields.io/github/stars/hakky54/certificate-ripper?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+CLI tool and library for extracting and exporting server certificates from HTTPS endpoints.
+
+**Why this is here:** CLI tool and library for extracting and exporting server certificates from HTTPS endpoints.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#certificate-ripper-hakky54-certificate-ripper) · [data/latest.json](../data/latest.json)
 
 ---
 

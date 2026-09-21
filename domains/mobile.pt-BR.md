@@ -14,7 +14,7 @@ Tools with a human review label and visible caveats.
 
 ### 👤 [NativeScript](https://github.com/nativescript/nativescript)
 
-![](https://img.shields.io/github/stars/nativescript/nativescript?style=flat-square&label=⭐) · Found in 1 active source: sorrycc/awesome-javascript
+![](https://img.shields.io/github/stars/nativescript/nativescript?style=flat-square&label=⭐) · Found in 2 active sources
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 

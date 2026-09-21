@@ -2,7 +2,7 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**9 Human-reviewed · 0 Popular standards · 82 AI candidates · 1 Needs review**
+**9 Human-reviewed · 0 Popular standards · 81 AI candidates · 2 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -14,7 +14,7 @@ Tools with a human review label and visible caveats.
 
 ### 👤 [BayesWitnesses/m2cgen](https://github.com/bayeswitnesses/m2cgen)
 
-![](https://img.shields.io/github/stars/bayeswitnesses/m2cgen?style=flat-square&label=⭐) · 🔥 **Found in 5 active sources: sorrycc/awesome-javascript, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +2 more**
+![](https://img.shields.io/github/stars/bayeswitnesses/m2cgen?style=flat-square&label=⭐) · Found in 4 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more
 
 **Review label:** Human Pick · **Caveat:** Best fit for teams with a matching ML or data workflow.
 
@@ -56,7 +56,7 @@ Mem0 enhances AI assistants and agents with an intelligent memory layer, enablin
 
 ### 👤 [agent-of-empires](https://github.com/njbrake/agent-of-empires)
 
-![](https://img.shields.io/github/stars/njbrake/agent-of-empires?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
+![](https://img.shields.io/github/stars/njbrake/agent-of-empires?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -285,20 +285,6 @@ Vercel AI is a TypeScript toolkit designed to help you build AI-powered applicat
 
 ---
 
-### [Agentify](https://github.com/koriyoshi2041/agentify)
-
-![](https://img.shields.io/github/stars/koriyoshi2041/agentify?style=flat-square&label=⭐) · Found in 1 active source: agarrharr/awesome-cli-apps
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-CLI tool that transforms any OpenAPI spec into 9 agent interface formats (MCP server, AGENTS.md, CLAUDE.md, .cursorrules, Skills, llms.txt, GEMINI.md, A2A Card, CLI) with a single command. Tiered generation...
-
-**Why this is here:** Estrategias tiered para APIs chicas y grandes
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#agentify-koriyoshi2041-agentify) · [data/latest.json](../data/latest.json)
-
----
-
 ### [ashvardanian/NumKong](https://github.com/ashvardanian/numkong)
 
 ![](https://img.shields.io/github/stars/ashvardanian/numkong?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp
@@ -315,7 +301,7 @@ SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-51
 
 ### [askbudi/roundtable](https://github.com/askbudi/roundtable)
 
-![](https://img.shields.io/github/stars/askbudi/roundtable?style=flat-square&label=⭐) · Found in 1 active source: punkpeye/awesome-mcp-servers
+![](https://img.shields.io/github/stars/askbudi/roundtable?style=flat-square&label=⭐) · Found in 2 active sources: vuejs/awesome-vue, punkpeye/awesome-mcp-servers
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -425,7 +411,21 @@ An IDE with chat, edit, generate and debug features. Forked from VSCodium, so th
 
 ---
 
-_Showing 20 of 82. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+### [dagger/container-use](https://github.com/dagger/container-use)
+
+![](https://img.shields.io/github/stars/dagger/container-use?style=flat-square&label=⭐) · Found in 2 active sources: hesreallyhim/awesome-claude-code, punkpeye/awesome-mcp-servers
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+🏎️ 🏠 🐧 🍎 🪟 Containerized environments for coding agents. Multiple agents can work independently, isolated in fresh containers and git branches. No conflicts, many experiments. Full execution history, terminal...
+
+**Why this is here:** Aislamiento real sin conflictos between agents
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#dagger-container-use-dagger-container-use) · [data/latest.json](../data/latest.json)
+
+---
+
+_Showing 20 of 81. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---
@@ -433,6 +433,20 @@ _Showing 20 of 82. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.js
 ## Needs review
 
 Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
+
+### [Agentify](https://github.com/koriyoshi2041/agentify)
+
+![](https://img.shields.io/github/stars/koriyoshi2041/agentify?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+CLI tool that transforms any OpenAPI spec into 9 agent interface formats (MCP server, AGENTS.md, CLAUDE.md, .cursorrules, Skills, llms.txt, GEMINI.md, A2A Card, CLI) with a single command. Tiered generation...
+
+**Why this is here:** Estrategias tiered para APIs chicas y grandes
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#agentify-koriyoshi2041-agentify) · [data/latest.json](../data/latest.json)
+
+---
 
 ### [LlamaIndex](https://github.com/run-llama/llama_index)
 

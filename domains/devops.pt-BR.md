@@ -2,7 +2,7 @@
 
 <p><sub>← [Voltar ao main](../README.pt-BR.md)</sub></p>
 
-**4 Human-reviewed · 0 Popular standards · 43 AI candidates · 0 Needs review**
+**4 Human-reviewed · 0 Popular standards · 41 AI candidates · 2 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -14,7 +14,7 @@ Tools with a human review label and visible caveats.
 
 ### 👤 [bandwhich](https://github.com/imsnif/bandwhich)
 
-![](https://img.shields.io/github/stars/imsnif/bandwhich?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
+![](https://img.shields.io/github/stars/imsnif/bandwhich?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -231,7 +231,7 @@ Consul is a tool for service discovery, monitoring and configuration. MPL-2.0 Go
 
 ### [ctop](https://github.com/bcicen/ctop)
 
-![](https://img.shields.io/github/stars/bcicen/ctop?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
+![](https://img.shields.io/github/stars/bcicen/ctop?style=flat-square&label=⭐) · Found in 1 active source: avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -301,7 +301,7 @@ C#/.NET HTTP client for the Docker remote API.
 
 ### [dockly](https://github.com/lirantal/dockly)
 
-![](https://img.shields.io/github/stars/lirantal/dockly?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, veggiemonk/awesome-docker
+![](https://img.shields.io/github/stars/lirantal/dockly?style=flat-square&label=⭐) · Found in 1 active source: veggiemonk/awesome-docker
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -315,7 +315,7 @@ An interactive shell UI for managing Docker containers.
 
 ### [domcyrus/rustnet](https://github.com/domcyrus/rustnet)
 
-![](https://img.shields.io/github/stars/domcyrus/rustnet?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
+![](https://img.shields.io/github/stars/domcyrus/rustnet?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -355,7 +355,42 @@ An open-source real-time monitoring system with custom-monitor and agentless.
 
 ---
 
-_Showing 20 of 43. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+_Showing 20 of 41. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+
+
+---
+
+## Needs review
+
+Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
+
+### [localtunnel](https://github.com/localtunnel/localtunnel)
+
+![](https://img.shields.io/github/stars/localtunnel/localtunnel?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Expose your localhost to the world.
+
+**Why this is here:** Expose your localhost to the world.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#localtunnel-localtunnel-localtunnel) · [data/latest.json](../data/latest.json)
+
+---
+
+### [pm2](https://github.com/unitech/pm2)
+
+![](https://img.shields.io/github/stars/unitech/pm2?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Production Process Manager for Node.js.
+
+**Why this is here:** Production Process Manager for Node.js.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#pm2-unitech-pm2) · [data/latest.json](../data/latest.json)
+
+---
 
 
 ---

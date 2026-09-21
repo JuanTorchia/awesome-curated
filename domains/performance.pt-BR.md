@@ -2,7 +2,7 @@
 
 <p><sub>← [Voltar ao main](../README.pt-BR.md)</sub></p>
 
-**4 Human-reviewed · 0 Popular standards · 5 AI candidates · 0 Needs review**
+**4 Human-reviewed · 0 Popular standards · 4 AI candidates · 1 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -117,20 +117,6 @@ Multi-platform genetic algorithm library for .NET Core and .NET Framework. The l
 
 ---
 
-### [loadtest](https://github.com/alexfernandez/loadtest)
-
-![](https://img.shields.io/github/stars/alexfernandez/loadtest?style=flat-square&label=⭐) · Found in 1 active source: agarrharr/awesome-cli-apps
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Run load tests for your web application, with an API for automation.
-
-**Why this is here:** Run load tests for your web application, with an API for automation.
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#loadtest-alexfernandez-loadtest) · [data/latest.json](../data/latest.json)
-
----
-
 ### [Numba](https://github.com/numba/numba)
 
 ![](https://img.shields.io/github/stars/numba/numba?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
@@ -142,6 +128,27 @@ A compiler for Python array and numerical functions.
 **Why this is here:** A compiler for Python array and numerical functions.
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#numba-numba-numba) · [data/latest.json](../data/latest.json)
+
+---
+
+
+---
+
+## Needs review
+
+Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
+
+### [loadtest](https://github.com/alexfernandez/loadtest)
+
+![](https://img.shields.io/github/stars/alexfernandez/loadtest?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Run load tests for your web application, with an API for automation.
+
+**Why this is here:** Run load tests for your web application, with an API for automation.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#loadtest-alexfernandez-loadtest) · [data/latest.json](../data/latest.json)
 
 ---
 

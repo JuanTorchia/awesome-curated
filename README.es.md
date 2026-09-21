@@ -8,7 +8,7 @@ Leer en otros idiomas: [🇬🇧 English](README.md) · **🇪🇸 Español** ·
 
 [![Human Picks](https://img.shields.io/badge/Human_Picks-17-gold?style=for-the-badge)](#)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](#)
-[![Updated](https://img.shields.io/badge/Updated-2026-09-19-green?style=for-the-badge)](#)
+[![Updated](https://img.shields.io/badge/Updated-2026-09-20-green?style=for-the-badge)](#)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -22,7 +22,7 @@ Dale star si querés una lista recurrente y de bajo ruido con herramientas dev, 
 
 ### Snapshot de confianza
 
-- **Última actualización generada**: 2026-09-19
+- **Última actualización generada**: 2026-09-20
 - **fuentes activas**: 20
 - **tools revisadas por humano**: 17
 - **Metodología**: [METHODOLOGY.md](METHODOLOGY.md)
@@ -30,7 +30,7 @@ Dale star si querés una lista recurrente y de bajo ruido con herramientas dev, 
 - **Evidence snapshot**: [data/latest.json](data/latest.json)
 - **Inspectable catalog**: [TOOLS.md](TOOLS.md)
 - **Popular standards**: 1
-- **Needs review**: 18
+- **Needs review**: 33
 - **Candidate catalog**: available in [data/latest.json](data/latest.json) and domain pages; candidates are not endorsements.
 
 ---
@@ -50,7 +50,7 @@ Picks revisados por humano con una razón concreta para mirarlos ahora.
 
 **Why now:** Elimina dependencias de runtime de ML en producción: el código generado es nativo y standalone.
 
-**Evidence:** Found in 5 active sources: sorrycc/awesome-javascript, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +2 more · [traces](data/latest.json)
+**Evidence:** Found in 4 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more · [traces](data/latest.json)
 
 **Review:** Human Pick
 
@@ -99,15 +99,15 @@ Picks revisados por humano con una razón concreta para mirarlos ahora.
 
 ---
 
-## Review queue
+## What changed this week
 
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, jivoi/awesome-osint, vinta/awesome-python
-- [lstags](https://github.com/ivanilves/lstags) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, veggiemonk/awesome-docker, avelino/awesome-go
-- [Cython](https://github.com/cython/cython) — Performance · Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python
-- [Water-Run/treepp](https://github.com/water-run/treepp) — Dev Tooling · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-- [safedep/vet](https://github.com/safedep/vet) — Security & Crypto · Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers
+- [mkosir/react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) — label changed · Needs Review: Moved from AI Candidate to Needs Review after stricter trace-quality checks.
+- [Agentify](https://github.com/koriyoshi2041/agentify) — label changed · Needs Review: Moved from AI Candidate to Needs Review after stricter trace-quality checks.
+- [AI Git Narrator](https://github.com/pmusolino/ai-git-narrator) — label changed · Needs Review: Moved from AI Candidate to Needs Review after stricter trace-quality checks.
+- [Apache ECharts](https://github.com/apache/echarts) — label changed · Needs Review: Moved from AI Candidate to Needs Review after stricter trace-quality checks.
+- [carbon-now-cli](https://github.com/mixn/carbon-now-cli) — label changed · Needs Review: Moved from AI Candidate to Needs Review after stricter trace-quality checks.
 
-Candidates are not endorsements. Ask for review via [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) or inspect the full queue in [TOOLS.md](TOOLS.md).
+See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
 
 ---
 
@@ -117,8 +117,8 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 
 | Tool | Qué hace | Señal |
 |---|---|---|
-| 👤 [**swiper**](https://github.com/nolimits4web/swiper) | docs The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior. | Found in 2 active sources: sorrycc/awesome-javascript, enaqx/awesome-react · Human Pick |
-| 👤 [**query**](https://github.com/tanstack/query) | Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and... | Found in 1 active source: enaqx/awesome-react · Human Pick |
+| 👤 [**swiper**](https://github.com/nolimits4web/swiper) | docs The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior. | Found in 1 active source: vuejs/awesome-vue · Human Pick |
+| 👤 [**query**](https://github.com/tanstack/query) | Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and... | Found in 1 active source: vuejs/awesome-vue · Human Pick |
 | 👤 [**GoAccess**](https://goaccess.io) | Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. MIT C | Found in 2 active sources · Human Pick |
 
 📖 27 más en la [página detallada →](domains/web.es.md)
@@ -127,7 +127,7 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 
 | Tool | Qué hace | Señal |
 |---|---|---|
-| 👤 [**BayesWitnesses/m2cgen**](https://github.com/bayeswitnesses/m2cgen) | A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies. | Found in 5 active sources: sorrycc/awesome-javascript, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +2 more · Human Pick |
+| 👤 [**BayesWitnesses/m2cgen**](https://github.com/bayeswitnesses/m2cgen) | A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies. | Found in 4 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more · Human Pick |
 | 👤 [**Netron**](https://github.com/lutzroeder/netron) | Netron is a viewer for neural network, deep learning and machine learning models. | Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning · Human Pick |
 | 👤 [**Mem0**](https://github.com/mem0ai/mem0) | Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions. | Found in 1 active source: vinta/awesome-python · Worth Trying |
 
@@ -137,7 +137,7 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 
 | Tool | Qué hace | Señal |
 |---|---|---|
-| 👤 [**bandwhich**](https://github.com/imsnif/bandwhich) | Track bandwidth utilization by process. | Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust · Worth Trying |
+| 👤 [**bandwhich**](https://github.com/imsnif/bandwhich) | Track bandwidth utilization by process. | Found in 1 active source: rust-unofficial/awesome-rust · Worth Trying |
 | 👤 [**Deployer**](https://github.com/deployphp/deployer) | A deployment tool written in PHP with support for popular frameworks out of the box. | Found in 2 active sources · Worth Trying |
 | 👤 [**MeshCentral**](https://meshcentral.com) | Run your own web server to remotely manage and control computers on a local network or anywhere on the internet.... | Found in 2 active sources · Worth Trying |
 
@@ -147,7 +147,7 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 
 | Tool | Qué hace | Señal |
 |---|---|---|
-| 👤 [**NativeScript**](https://github.com/nativescript/nativescript) | NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like... | Found in 1 active source: sorrycc/awesome-javascript · Worth Trying |
+| 👤 [**NativeScript**](https://github.com/nativescript/nativescript) | NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like... | Found in 2 active sources · Worth Trying |
 | [**RunAnywhere**](https://github.com/runanywhereai/runanywhere-sdks) | RunAnywhere is a production-ready SDK for running AI models (LLMs, speech-to-text, text-to-speech) on-device for... | Found in 1 active source: josephmisiti/awesome-machine-learning · AI Candidate |
 | [**ZXing**](https://github.com/zxing/zxing) | An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other... | Found in 1 active source: fffaraz/awesome-cpp · AI Candidate |
 
@@ -157,9 +157,9 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 
 | Tool | Qué hace | Señal |
 |---|---|---|
-| 👤 [**recharts**](https://github.com/recharts/recharts) | Redefined chart library built with React and D3. | Found in 2 active sources: sorrycc/awesome-javascript, enaqx/awesome-react · Human Pick |
+| 👤 [**recharts**](https://github.com/recharts/recharts) | Redefined chart library built with React and D3. | Found in 3 active sources · Human Pick |
 | 👤 [**OpenStreetMap**](https://openstreetmap.org) | Collaborative project to create a free editable map of the world. (, Clients) GPL-2.0 Ruby | Found in 2 active sources · Human Pick |
-| 👤 [**pouchdb**](https://github.com/pouchdb/pouchdb) | Javascript db inspired by Apache CouchDB to run well within the browser. | Found in 1 active source: sorrycc/awesome-javascript · Worth Trying |
+| 👤 [**pouchdb**](https://github.com/pouchdb/pouchdb) | Javascript db inspired by Apache CouchDB to run well within the browser. | Found in 2 active sources · Worth Trying |
 
 📖 65 más en la [página detallada →](domains/data.es.md)
 
@@ -197,7 +197,7 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 
 | Tool | Qué hace | Señal |
 |---|---|---|
-| 👤 [**RunJS**](https://runjs.app) | JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas... | Found in 3 active sources · Worth Trying |
+| 👤 [**RunJS**](https://runjs.app) | JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas... | Found in 1 active source: vuejs/awesome-vue · Worth Trying |
 | 👤 [**phpList**](https://phplist.org) | Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. AGPL-3.0 PHP | Found in 2 active sources · Worth Trying |
 | [**AFFiNE Community Edition**](https://affine.pro) | Next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, customizable and... | Found in 1 active source: jaywcjlove/awesome-mac · AI Candidate |
 

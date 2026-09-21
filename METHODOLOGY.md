@@ -7,9 +7,9 @@ Awesome Curated is a weekly audited radar of developer tools discovered from act
 The input layer tracks upstream `awesome-*` repositories as sources. Sources can be active roster entries, bench candidates, rejected entries, or inactive entries. Public counts focus on active roster and bench sources.
 
 - Active sources in current snapshot: 20
-- Raw items scraped: 40895
+- Raw items scraped: 41076
 - Curated entries at current threshold: 1182
-- Approximate duplicate/raw noise removed: 39713
+- Approximate duplicate/raw noise removed: 39894
 
 ## Discovery and Scoring
 
@@ -61,4 +61,4 @@ The cross-source threshold has a known blind spot. Coverage is bounded by which 
 
 ## Latest Generation
 
-Generated on 2026-09-19 from the juanchi.dev Awesome Curated pipeline. Evidence snapshot: [data/latest.json](data/latest.json).
+Generated on 2026-09-20 from the juanchi.dev Awesome Curated pipeline. Evidence snapshot: [data/latest.json](data/latest.json).

@@ -2,7 +2,7 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**2 Human-reviewed · 0 Popular standards · 23 AI candidates · 1 Needs review**
+**2 Human-reviewed · 0 Popular standards · 22 AI candidates · 2 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -14,7 +14,7 @@ Tools with a human review label and visible caveats.
 
 ### 👤 [RunJS](https://runjs.app)
 
-Found in 3 active sources
+Found in 1 active source: vuejs/awesome-vue
 
 **Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -77,7 +77,7 @@ Structured, source-backed dataset tracking 96 AI-attributed workforce reductions
 
 ### [beets](https://github.com/beetbox/beets)
 
-![](https://img.shields.io/github/stars/beetbox/beets?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, vinta/awesome-python
+![](https://img.shields.io/github/stars/beetbox/beets?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -91,7 +91,7 @@ A music library manager and MusicBrainz tagger.
 
 ### [croc](https://github.com/schollz/croc)
 
-![](https://img.shields.io/github/stars/schollz/croc?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
+![](https://img.shields.io/github/stars/schollz/croc?style=flat-square&label=⭐) · Found in 1 active source: avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -161,7 +161,7 @@ Lean Engine is an open-source fully managed C# algorithmic trading engine built 
 
 ### [mpv](https://mpv.io)
 
-Found in 2 active sources: agarrharr/awesome-cli-apps, jaywcjlove/awesome-mac
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -203,7 +203,7 @@ Personal news reader that brings people together to talk about the world. A new 
 
 ### [OpenLayers3](https://openlayers.org)
 
-Found in 2 active sources: jivoi/awesome-osint, sorrycc/awesome-javascript
+Found in 1 active source: jivoi/awesome-osint
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -327,7 +327,7 @@ Syncthing is an open source peer-to-peer file synchronisation tool. MPL-2.0 Go/D
 
 ---
 
-_Showing 20 of 23. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+_Showing 20 of 22. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---
@@ -347,6 +347,20 @@ Redis is an open-source, in-memory data store that supports vector similarity se
 **Why this is here:** Vector search integrado sin plugins externos, maduro y escalable
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#redis-redis-redis) · [data/latest.json](../data/latest.json)
+
+---
+
+### [tldr-pages](https://github.com/tldr-pages/tldr)
+
+![](https://img.shields.io/github/stars/tldr-pages/tldr?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Collaborative cheatsheets for console commands.
+
+**Why this is here:** Contenido siempre actualizado por comunidad, formato simple y searcheable
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#tldr-pages-tldr-pages-tldr) · [data/latest.json](../data/latest.json)
 
 ---
 
