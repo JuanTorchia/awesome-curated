@@ -1,158 +1,16 @@
 {
   "changes": [
     {
-      "changedAt": "2026-09-20",
-      "currentLabel": "Needs Review",
-      "name": "mkosir/react-parallax-tilt",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwm2tlq03c3vn4dkh5c7hdc",
-      "type": "label changed",
-      "url": "https://github.com/mkosir/react-parallax-tilt"
-    },
-    {
-      "changedAt": "2026-09-20",
-      "currentLabel": "Needs Review",
-      "name": "Agentify",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "8edc7cd5-870d-46c7-8602-0ad764f70641",
-      "type": "label changed",
-      "url": "https://github.com/koriyoshi2041/agentify"
-    },
-    {
-      "changedAt": "2026-09-20",
-      "currentLabel": "Needs Review",
-      "name": "AI Git Narrator",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "76804690-b393-4ee4-9e91-f7586afbe138",
-      "type": "label changed",
-      "url": "https://github.com/pmusolino/ai-git-narrator"
-    },
-    {
-      "changedAt": "2026-09-20",
-      "currentLabel": "Needs Review",
-      "name": "Apache ECharts",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "194caae0-a576-46f2-9df7-faf4924fecb6",
-      "type": "label changed",
-      "url": "https://github.com/apache/echarts"
-    },
-    {
-      "changedAt": "2026-09-20",
-      "currentLabel": "Needs Review",
-      "name": "carbon-now-cli",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwm2yto03ehvn4dyuwktmt4",
-      "type": "label changed",
-      "url": "https://github.com/mixn/carbon-now-cli"
-    },
-    {
-      "changedAt": "2026-09-20",
-      "currentLabel": "Needs Review",
-      "name": "Certificate Ripper",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwm60xo04ryvn4dtulciv43",
-      "type": "label changed",
-      "url": "https://github.com/hakky54/certificate-ripper"
-    },
-    {
-      "changedAt": "2026-09-20",
-      "currentLabel": "Needs Review",
-      "name": "fkill",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwm2x4l03dpvn4d4ml0bnkb",
-      "type": "label changed",
-      "url": "https://github.com/sindresorhus/fkill-cli"
-    },
-    {
-      "changedAt": "2026-09-20",
-      "currentLabel": "Needs Review",
-      "name": "glances",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "c56ab579-36b0-4946-847e-8fc571d349bc",
-      "type": "label changed",
-      "url": "https://nicolargo.github.io/glances"
-    },
-    {
-      "changedAt": "2026-09-20",
-      "currentLabel": "Needs Review",
-      "name": "loadtest",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwm3gjv03mevn4dzwhmr1ji",
-      "type": "label changed",
-      "url": "https://github.com/alexfernandez/loadtest"
-    },
-    {
-      "changedAt": "2026-09-20",
-      "currentLabel": "Needs Review",
-      "name": "localtunnel",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwm2y3403e4vn4doyhbrd5a",
-      "type": "label changed",
-      "url": "https://github.com/localtunnel/localtunnel"
-    },
-    {
-      "changedAt": "2026-09-20",
-      "currentLabel": "Needs Review",
-      "name": "pm2",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwm3kd803o4vn4dnah9mhw4",
-      "type": "label changed",
-      "url": "https://github.com/unitech/pm2"
-    },
-    {
-      "changedAt": "2026-09-20",
-      "currentLabel": "Needs Review",
-      "name": "readme-md-generator",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "3c6acd38-1744-4bd6-8087-6f0c55c2fe97",
-      "type": "label changed",
-      "url": "https://github.com/kefranabg/readme-md-generator"
-    },
-    {
-      "changedAt": "2026-09-20",
-      "currentLabel": "Needs Review",
-      "name": "sshuttle",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "9274da12-6edd-4213-801c-c109b964a9f2",
-      "type": "label changed",
-      "url": "https://github.com/sshuttle/sshuttle"
-    },
-    {
-      "changedAt": "2026-09-20",
-      "currentLabel": "Needs Review",
-      "name": "Taskwarrior",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwm0tw902gfvn4doc0bkxsk",
-      "type": "label changed",
-      "url": "https://taskwarrior.org"
-    },
-    {
-      "changedAt": "2026-09-20",
-      "currentLabel": "Needs Review",
-      "name": "tldr-pages",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwknh0l01bi1p4tw32ikxr6",
-      "type": "label changed",
-      "url": "https://github.com/tldr-pages/tldr"
+      "changedAt": "2026-09-21",
+      "name": "Public recommendation set",
+      "reason": "No material public change detected.",
+      "toolId": "snapshot",
+      "type": "unchanged",
+      "url": "data/latest.json"
     }
   ],
-  "commitSha": "c9b33e3dba4c",
-  "generatedAt": "2026-09-20T10:00:11.788Z",
+  "commitSha": "e0b5e4f3e450",
+  "generatedAt": "2026-09-21T10:00:10.987Z",
   "recommendations": [
     {
       "caveat": "Best fit for teams with a matching ML or data workflow.",
@@ -17886,7 +17744,7 @@
     "sources": 20
   },
   "validation": {
-    "checkedAt": "2026-09-20T10:00:11.788Z",
+    "checkedAt": "2026-09-21T10:00:10.987Z",
     "status": "pass",
     "warnings": []
   }

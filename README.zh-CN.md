@@ -8,7 +8,7 @@
 
 [![Human Picks](https://img.shields.io/badge/Human_Picks-17-gold?style=for-the-badge)](#)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](#)
-[![Updated](https://img.shields.io/badge/Updated-2026-09-20-green?style=for-the-badge)](#)
+[![Updated](https://img.shields.io/badge/Updated-2026-09-21-green?style=for-the-badge)](#)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -22,7 +22,7 @@
 
 ### 信任快照
 
-- **最新生成更新**: 2026-09-20
+- **最新生成更新**: 2026-09-21
 - **活跃来源**: 20
 - **人工审核工具**: 17
 - **方法论**: [METHODOLOGY.md](METHODOLOGY.md)
@@ -99,15 +99,15 @@
 
 ---
 
-## What changed this week
+## Review queue
 
-- [mkosir/react-parallax-tilt](https://github.com/mkosir/react-parallax-tilt) — label changed · Needs Review: Moved from AI Candidate to Needs Review after stricter trace-quality checks.
-- [Agentify](https://github.com/koriyoshi2041/agentify) — label changed · Needs Review: Moved from AI Candidate to Needs Review after stricter trace-quality checks.
-- [AI Git Narrator](https://github.com/pmusolino/ai-git-narrator) — label changed · Needs Review: Moved from AI Candidate to Needs Review after stricter trace-quality checks.
-- [Apache ECharts](https://github.com/apache/echarts) — label changed · Needs Review: Moved from AI Candidate to Needs Review after stricter trace-quality checks.
-- [carbon-now-cli](https://github.com/mixn/carbon-now-cli) — label changed · Needs Review: Moved from AI Candidate to Needs Review after stricter trace-quality checks.
+- [askbudi/roundtable](https://github.com/askbudi/roundtable) — AI & ML · Found in 2 active sources: vuejs/awesome-vue, punkpeye/awesome-mcp-servers
+- [Cython](https://github.com/cython/cython) — Performance · Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python
+- [safedep/vet](https://github.com/safedep/vet) — Security & Crypto · Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Dev Tooling · Found in 2 active sources: jivoi/awesome-osint, vinta/awesome-python
+- [ajitpratap0/GoSQLX](https://github.com/ajitpratap0/gosqlx) — Data & Databases · Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers
 
-See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
+Candidates are not endorsements. Ask for review via [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) or inspect the full queue in [TOOLS.md](TOOLS.md).
 
 ---
 
