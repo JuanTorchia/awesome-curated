@@ -203,7 +203,7 @@ Automated candidates with enough source signal; these are not human endorsements
 
 ### [D3js](https://d3js.org)
 
-Found in 2 active sources: jivoi/awesome-osint, academic/awesome-datascience
+Found in 1 active source: academic/awesome-datascience
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -245,7 +245,7 @@ Remote Procedure Calls (RPCs) provide a useful abstraction for building distribu
 
 ### [Vivaldi](https://vivaldi.com)
 
-Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -268,6 +268,20 @@ A toolchain for web projects, aimed to provide functionalities to maintain them.
 **Why this is here:** A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#biome-biomejs-biome) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Certificate Ripper](https://github.com/hakky54/certificate-ripper)
+
+![](https://img.shields.io/github/stars/hakky54/certificate-ripper?style=flat-square&label=⭐) · Found in 1 active source: agarrharr/awesome-cli-apps
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+CLI tool and library for extracting and exporting server certificates from HTTPS endpoints.
+
+**Why this is here:** CLI tool and library for extracting and exporting server certificates from HTTPS endpoints.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#certificate-ripper-hakky54-certificate-ripper) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -338,20 +352,6 @@ A fast high-level web crawling & scraping framework for Python.
 **Why this is here:** A fast high-level web crawling & scraping framework for Python.
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#scrapy-scrapy-scrapy) · [data/latest.json](../data/latest.json)
-
----
-
-### [Superdesk](https://superdesk.org)
-
-Found in 1 active source: jivoi/awesome-osint
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-⚠ End-to-end news creation, production, curation, distribution, and publishing platform. AGPL-3.0 Docker/Python/PHP
-
-**Why this is here:** Cobertura end-to-end del workflow editorial
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#superdesk-superdesk) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -432,17 +432,17 @@ GIF demo. Multiple badges. Feature list. Great live demo with code examples. Eas
 
 ---
 
-### [Certificate Ripper](https://github.com/hakky54/certificate-ripper)
+### [Superdesk](https://superdesk.org)
 
-![](https://img.shields.io/github/stars/hakky54/certificate-ripper?style=flat-square&label=⭐) · Found in 2 active sources
+Found in 2 active sources
 
 **Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
-CLI tool and library for extracting and exporting server certificates from HTTPS endpoints.
+⚠ End-to-end news creation, production, curation, distribution, and publishing platform. AGPL-3.0 Docker/Python/PHP
 
-**Why this is here:** CLI tool and library for extracting and exporting server certificates from HTTPS endpoints.
+**Why this is here:** Cobertura end-to-end del workflow editorial
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#certificate-ripper-hakky54-certificate-ripper) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#superdesk-superdesk) · [data/latest.json](../data/latest.json)
 
 ---
 

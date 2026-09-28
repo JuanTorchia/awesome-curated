@@ -63,7 +63,7 @@ Next-gen knowledge base that brings planning, sorting and creating all together.
 
 ### [AI Job Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker)
 
-![](https://img.shields.io/github/stars/noahaust2/ai-displacement-tracker?style=flat-square&label=⭐) · Found in 1 active source: academic/awesome-datascience
+![](https://img.shields.io/github/stars/noahaust2/ai-displacement-tracker?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -77,7 +77,7 @@ Structured, source-backed dataset tracking 96 AI-attributed workforce reductions
 
 ### [beets](https://github.com/beetbox/beets)
 
-![](https://img.shields.io/github/stars/beetbox/beets?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
+![](https://img.shields.io/github/stars/beetbox/beets?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -91,7 +91,7 @@ A music library manager and MusicBrainz tagger.
 
 ### [croc](https://github.com/schollz/croc)
 
-![](https://img.shields.io/github/stars/schollz/croc?style=flat-square&label=⭐) · Found in 1 active source: avelino/awesome-go
+![](https://img.shields.io/github/stars/schollz/croc?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -161,7 +161,7 @@ Lean Engine is an open-source fully managed C# algorithmic trading engine built 
 
 ### [mpv](https://mpv.io)
 
-Found in 1 active source: jaywcjlove/awesome-mac
+Found in 2 active sources: agarrharr/awesome-cli-apps, jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -184,34 +184,6 @@ Python Rust A high-performance algorithmic trading platform and event-driven bac
 **Why this is here:** Python Rust A high-performance algorithmic trading platform and event-driven backtester.
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#nautilustrader-nautechsystems-nautilus-trader) · [data/latest.json](../data/latest.json)
-
----
-
-### [NewsBlur](https://newsblur.com)
-
-Found in 1 active source: jivoi/awesome-osint
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Personal news reader that brings people together to talk about the world. A new sound of an old instrument. MIT Python
-
-**Why this is here:** Personal news reader that brings people together to talk about the world. A new sound of an old instrument. MIT Python
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#newsblur-newsblur) · [data/latest.json](../data/latest.json)
-
----
-
-### [OpenLayers3](https://openlayers.org)
-
-Found in 1 active source: jivoi/awesome-osint
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-A high-performance, feature-packed library for all your mapping needs.
-
-**Why this is here:** Performance en datasets geoespaciales grandes
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#openlayers3-openlayers) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -257,9 +229,23 @@ The QuantLib project is aimed at providing a comprehensive software framework fo
 
 ---
 
+### [Redis](https://github.com/redis/redis)
+
+![](https://img.shields.io/github/stars/redis/redis?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Redis is an open-source, in-memory data store that supports vector similarity search, making it suitable for AI/ML applications such as semantic search and recommendation systems.
+
+**Why this is here:** Vector search integrado sin plugins externos, maduro y escalable
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#redis-redis-redis) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [Reeder 5](https://reederapp.com)
 
-Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -327,6 +313,20 @@ Syncthing is an open source peer-to-peer file synchronisation tool. MPL-2.0 Go/D
 
 ---
 
+### [tldr-pages](https://github.com/tldr-pages/tldr)
+
+![](https://img.shields.io/github/stars/tldr-pages/tldr?style=flat-square&label=⭐) · Found in 1 active source: agarrharr/awesome-cli-apps
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Collaborative cheatsheets for console commands.
+
+**Why this is here:** Contenido siempre actualizado por comunidad, formato simple y searcheable
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#tldr-pages-tldr-pages-tldr) · [data/latest.json](../data/latest.json)
+
+---
+
 _Showing 20 of 22. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
@@ -336,31 +336,31 @@ _Showing 20 of 22. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.js
 
 Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
 
-### [Redis](https://github.com/redis/redis)
+### [NewsBlur](https://newsblur.com)
 
-![](https://img.shields.io/github/stars/redis/redis?style=flat-square&label=⭐) · Found in 2 active sources
+Found in 2 active sources
 
 **Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
-Redis is an open-source, in-memory data store that supports vector similarity search, making it suitable for AI/ML applications such as semantic search and recommendation systems.
+Personal news reader that brings people together to talk about the world. A new sound of an old instrument. MIT Python
 
-**Why this is here:** Vector search integrado sin plugins externos, maduro y escalable
+**Why this is here:** Personal news reader that brings people together to talk about the world. A new sound of an old instrument. MIT Python
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#redis-redis-redis) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#newsblur-newsblur) · [data/latest.json](../data/latest.json)
 
 ---
 
-### [tldr-pages](https://github.com/tldr-pages/tldr)
+### [OpenLayers3](https://openlayers.org)
 
-![](https://img.shields.io/github/stars/tldr-pages/tldr?style=flat-square&label=⭐) · Found in 2 active sources
+Found in 2 active sources
 
 **Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
-Collaborative cheatsheets for console commands.
+A high-performance, feature-packed library for all your mapping needs.
 
-**Why this is here:** Contenido siempre actualizado por comunidad, formato simple y searcheable
+**Why this is here:** Performance en datasets geoespaciales grandes
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#tldr-pages-tldr-pages-tldr) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#openlayers3-openlayers) · [data/latest.json](../data/latest.json)
 
 ---
 

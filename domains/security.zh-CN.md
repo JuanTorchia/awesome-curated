@@ -2,7 +2,7 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**7 Human-reviewed · 0 Popular standards · 39 AI candidates · 3 Needs review**
+**7 Human-reviewed · 0 Popular standards · 26 AI candidates · 16 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -133,7 +133,7 @@ Open-source CLI security scanner for agentic workflows. Scans your workflow’s 
 
 ### [Brave](https://brave.com)
 
-Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -187,20 +187,6 @@ Create, share communicate. Chat and call securely.
 
 ---
 
-### [Google Hacking Database (GHDB)](https://exploit-db.com/google-hacking-database)
-
-Found in 1 active source: jivoi/awesome-osint
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-The GHDB is an index of search queries (we call them dorks) used to find publicly available information, intended for pentesters and security researchers.
-
-**Why this is here:** Gratuito y mantenido activamente
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#google-hacking-database-ghdb-exploit-db) · [data/latest.json](../data/latest.json)
-
----
-
 ### [hashes](https://github.com/rustcrypto/hashes)
 
 ![](https://img.shields.io/github/stars/rustcrypto/hashes?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
@@ -212,34 +198,6 @@ Collection of cryptographic hash functions written in pure Rust.
 **Why this is here:** Collection of cryptographic hash functions written in pure Rust.
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#hashes-rustcrypto-hashes) · [data/latest.json](../data/latest.json)
-
----
-
-### [Hunter.io](https://hunter.io)
-
-Found in 1 active source: jivoi/awesome-osint
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Data broker providing a Web search interface for discovering the email addresses and other organizational details of a company.
-
-**Why this is here:** API y bulk processing disponibles
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#hunter-io-hunter) · [data/latest.json](../data/latest.json)
-
----
-
-### [I2P](https://geti2p.net)
-
-Found in 1 active source: jivoi/awesome-osint
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-The Invisible Internet Project.
-
-**Why this is here:** Arquitectura totalmente descentralizada sin directory servers
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#i2p-geti2p) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -287,7 +245,7 @@ A secure multithreaded packet sniffer
 
 ### [LibreWolf](https://librewolf.net)
 
-Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -296,34 +254,6 @@ A fork of Firefox, focused on privacy, security and freedom. (https://gitlab.com
 **Why this is here:** A fork of Firefox, focused on privacy, security and freedom. (https://gitlab.com/librewolf-community)
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#librewolf-librewolf) · [data/latest.json](../data/latest.json)
-
----
-
-### [Lynis](https://cisofy.com/lynis)
-
-Found in 1 active source: veggiemonk/awesome-docker
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Auditing tool for UNIX-based systems.
-
-**Why this is here:** Output estructurado, integrable en pipelines
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#lynis-cisofy) · [data/latest.json](../data/latest.json)
-
----
-
-### [Maltego](https://maltego.com)
-
-Found in 1 active source: jivoi/awesome-osint
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Maltego is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
-
-**Why this is here:** Maltego is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#maltego-maltego) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -369,23 +299,9 @@ This library aims to provide easy and usable crypto. 'Usable' meaning exposing h
 
 ---
 
-### [paaster](https://paaster.io)
-
-Found in 1 active source: jivoi/awesome-osint
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Paaster is a secure and user-friendly pastebin application that prioritizes privacy and simplicity. With end-to-end encryption and paste history, Paaster ensures that your pasted code remains confidential and accessible.
-
-**Why this is here:** Pastebin con cifrado end-to-end y historial. Resuelve problema real (privacidad en compartir snippets). Alternativa directa a servicios...
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#paaster-paaster) · [data/latest.json](../data/latest.json)
-
----
-
 ### [Promptfoo](https://github.com/promptfoo/promptfoo)
 
-![](https://img.shields.io/github/stars/promptfoo/promptfoo?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/promptfoo/promptfoo?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -397,7 +313,91 @@ LLM red teaming and evaluation framework for testing jailbreaks, prompt injectio
 
 ---
 
-_Showing 20 of 39. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+### [pynacl](https://github.com/pyca/pynacl)
+
+![](https://img.shields.io/github/stars/pyca/pynacl?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Python binding to the Networking and Cryptography (NaCl) library.
+
+**Why this is here:** Basada en NaCl auditada y battle-tested
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#pynacl-pyca-pynacl) · [data/latest.json](../data/latest.json)
+
+---
+
+### [rage](https://github.com/str4d/rage)
+
+![](https://img.shields.io/github/stars/str4d/rage?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+is a simple, modern, and secure file encryption tool, using the age format.
+
+**Why this is here:** is a simple, modern, and secure file encryption tool, using the age format.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#rage-str4d-rage) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Redlib](https://github.com/redlib-org/redlib)
+
+![](https://img.shields.io/github/stars/redlib-org/redlib?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+An alternative private front-end to Reddit, with its origins in Libreddit
+
+**Why this is here:** Zero JavaScript, performance
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#redlib-redlib-org-redlib) · [data/latest.json](../data/latest.json)
+
+---
+
+### [rshijack](https://github.com/kpcyrd/rshijack)
+
+![](https://img.shields.io/github/stars/kpcyrd/rshijack?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+TCP connection hijacker, Rust rewrite of shijack.
+
+**Why this is here:** TCP connection hijacker, Rust rewrite of shijack.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#rshijack-kpcyrd-rshijack) · [data/latest.json](../data/latest.json)
+
+---
+
+### [safedep/vet](https://github.com/safedep/vet)
+
+![](https://img.shields.io/github/stars/safedep/vet?style=flat-square&label=⭐) · Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+🎖️ 🏎️ ☁️ 🍎 🪟 🐧 vet-mcp checks open source packages—like those suggested by AI coding tools—for vulnerabilities and malicious code. It supports npm and PyPI, and runs locally via Docker or as a standalone binary...
+
+**Why this is here:** Local execution sin cloud dependency
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#safedep-vet-safedep-vet) · [data/latest.json](../data/latest.json)
+
+---
+
+### [sherlock](https://github.com/sherlock-project/sherlock)
+
+![](https://img.shields.io/github/stars/sherlock-project/sherlock?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Hunt down social media accounts by username across social networks.
+
+**Why this is here:** Soporta muchas plataformas
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#sherlock-sherlock-project-sherlock) · [data/latest.json](../data/latest.json)
+
+---
+
+_Showing 20 of 26. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---
@@ -434,6 +434,48 @@ All-purpose cryptographic library and JCA provider offering a wide range of func
 
 ---
 
+### [Google Hacking Database (GHDB)](https://exploit-db.com/google-hacking-database)
+
+Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+The GHDB is an index of search queries (we call them dorks) used to find publicly available information, intended for pentesters and security researchers.
+
+**Why this is here:** Gratuito y mantenido activamente
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#google-hacking-database-ghdb-exploit-db) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Hunter.io](https://hunter.io)
+
+Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Data broker providing a Web search interface for discovering the email addresses and other organizational details of a company.
+
+**Why this is here:** API y bulk processing disponibles
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#hunter-io-hunter) · [data/latest.json](../data/latest.json)
+
+---
+
+### [I2P](https://geti2p.net)
+
+Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+The Invisible Internet Project.
+
+**Why this is here:** Arquitectura totalmente descentralizada sin directory servers
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#i2p-geti2p) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [KeyCloak](https://keycloak.org)
 
 Found in 2 active sources
@@ -447,6 +489,64 @@ Open Source Identity and Access Management. Apache-2.0 Java
 **Evidence record:** [TOOLS.md](../TOOLS.md#keycloak-keycloak) · [data/latest.json](../data/latest.json)
 
 ---
+
+### [Lynis](https://cisofy.com/lynis)
+
+Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Auditing tool for UNIX-based systems.
+
+**Why this is here:** Output estructurado, integrable en pipelines
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#lynis-cisofy) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Maltego](https://maltego.com)
+
+Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Maltego is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
+
+**Why this is here:** Maltego is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#maltego-maltego) · [data/latest.json](../data/latest.json)
+
+---
+
+### [paaster](https://paaster.io)
+
+Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Paaster is a secure and user-friendly pastebin application that prioritizes privacy and simplicity. With end-to-end encryption and paste history, Paaster ensures that your pasted code remains confidential and accessible.
+
+**Why this is here:** Pastebin con cifrado end-to-end y historial. Resuelve problema real (privacidad en compartir snippets). Alternativa directa a servicios...
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#paaster-paaster) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Shodan](https://shodan.io)
+
+Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Shodan is a search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using various searching filters.
+
+**Why this is here:** Shodan is a search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using...
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#shodan-shodan) · [data/latest.json](../data/latest.json)
+
+---
+
+_Showing 10 of 16. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

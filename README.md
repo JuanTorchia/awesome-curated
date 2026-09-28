@@ -8,7 +8,7 @@ Read in other languages: **🇬🇧 English** · [🇪🇸 Español](README.es.m
 
 [![Human Picks](https://img.shields.io/badge/Human_Picks-17-gold?style=for-the-badge)](#)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](#)
-[![Updated](https://img.shields.io/badge/Updated-2026-09-26-green?style=for-the-badge)](#)
+[![Updated](https://img.shields.io/badge/Updated-2026-09-27-green?style=for-the-badge)](#)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -22,7 +22,7 @@ Star it if you want fewer tool-hunt tabs: source traces, dedupe, caveats, and a 
 
 ### Trust snapshot
 
-- **Latest generated update**: 2026-09-26
+- **Latest generated update**: 2026-09-27
 - **active sources**: 20
 - **human-reviewed tools**: 17
 - **Methodology**: [METHODOLOGY.md](METHODOLOGY.md)
@@ -30,7 +30,7 @@ Star it if you want fewer tool-hunt tabs: source traces, dedupe, caveats, and a 
 - **Evidence snapshot**: [data/latest.json](data/latest.json)
 - **Inspectable catalog**: [TOOLS.md](TOOLS.md)
 - **Popular standards**: 1
-- **Needs review**: 33
+- **Needs review**: 42
 - **Candidate catalog**: available in [data/latest.json](data/latest.json) and domain pages; candidates are not endorsements.
 
 ---
@@ -66,6 +66,16 @@ Human-reviewed picks with a concrete reason to look now.
 
 **Caveat:** Security-sensitive tool; evaluate fit and maintenance posture before production use.
 
+### 👤 [Netron](https://github.com/lutzroeder/netron)
+
+**Why now:** Makes model inspection practical across ONNX, TensorFlow, PyTorch, and related ML formats.
+
+**Evidence:** Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning · [traces](data/latest.json)
+
+**Review:** Human Pick
+
+**Caveat:** Best fit for teams with a matching ML or data workflow.
+
 ### 👤 [Bencher](https://bencher.dev)
 
 **Why now:** Adds continuous benchmarking to CI so performance regressions can be caught before release.
@@ -75,16 +85,6 @@ Human-reviewed picks with a concrete reason to look now.
 **Review:** Human Pick
 
 **Caveat:** Worth a focused trial before adopting broadly.
-
-### 👤 [Netron](https://github.com/lutzroeder/netron)
-
-**Why now:** Makes model inspection practical across ONNX, TensorFlow, PyTorch, and related ML formats.
-
-**Evidence:** Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning · [traces](data/latest.json)
-
-**Review:** Human Pick
-
-**Caveat:** Best fit for teams with a matching ML or data workflow.
 
 ### 👤 [Sniffnet](https://github.com/gyulyvgc/sniffnet)
 
@@ -99,15 +99,15 @@ Human-reviewed picks with a concrete reason to look now.
 
 ---
 
-## Review queue
+## What changed this week
 
-- [askbudi/roundtable](https://github.com/askbudi/roundtable) — AI & ML · Found in 2 active sources: vuejs/awesome-vue, punkpeye/awesome-mcp-servers
-- [Cython](https://github.com/cython/cython) — Performance · Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python
-- [safedep/vet](https://github.com/safedep/vet) — Security & Crypto · Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Dev Tooling · Found in 2 active sources: jivoi/awesome-osint, vinta/awesome-python
-- [ajitpratap0/GoSQLX](https://github.com/ajitpratap0/gosqlx) — Data & Databases · Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers
+- [.NET Interactive](https://github.com/dotnet/interactive) — label changed · AI Candidate: Moved from Needs Review to AI Candidate after trace evidence passed the public bar.
+- [Agentify](https://github.com/koriyoshi2041/agentify) — label changed · AI Candidate: Moved from Needs Review to AI Candidate after trace evidence passed the public bar.
+- [AI Git Narrator](https://github.com/pmusolino/ai-git-narrator) — label changed · AI Candidate: Moved from Needs Review to AI Candidate after trace evidence passed the public bar.
+- [Apache ECharts](https://github.com/apache/echarts) — label changed · AI Candidate: Moved from Needs Review to AI Candidate after trace evidence passed the public bar.
+- [Apache Ignite](https://github.com/apache/ignite) — label changed · AI Candidate: Moved from Needs Review to AI Candidate after trace evidence passed the public bar.
 
-Candidates are not endorsements. Ask for review via [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) or inspect the full queue in [TOOLS.md](TOOLS.md).
+See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
 
 ---
 
@@ -128,8 +128,8 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 | Tool | What it does | Signal |
 |---|---|---|
 | 👤 [**BayesWitnesses/m2cgen**](https://github.com/bayeswitnesses/m2cgen) | A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies. | Found in 4 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more · Human Pick |
-| 👤 [**Netron**](https://github.com/lutzroeder/netron) | Netron is a viewer for neural network, deep learning and machine learning models. | Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning · Human Pick |
-| 👤 [**Mem0**](https://github.com/mem0ai/mem0) | Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions. | Found in 1 active source: vinta/awesome-python · Worth Trying |
+| 👤 [**Netron**](https://github.com/lutzroeder/netron) | Netron is a viewer for neural network, deep learning and machine learning models. | Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning · Human Pick |
+| 👤 [**Mem0**](https://github.com/mem0ai/mem0) | Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions. | Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python · Worth Trying |
 
 📖 89 more in [detail page →](domains/ai-ml.md) · Full evidence in [TOOLS.md](TOOLS.md)
 
@@ -137,7 +137,7 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 
 | Tool | What it does | Signal |
 |---|---|---|
-| 👤 [**bandwhich**](https://github.com/imsnif/bandwhich) | Track bandwidth utilization by process. | Found in 1 active source: rust-unofficial/awesome-rust · Worth Trying |
+| 👤 [**bandwhich**](https://github.com/imsnif/bandwhich) | Track bandwidth utilization by process. | Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust · Worth Trying |
 | 👤 [**Deployer**](https://github.com/deployphp/deployer) | A deployment tool written in PHP with support for popular frameworks out of the box. | Found in 2 active sources · Worth Trying |
 | 👤 [**MeshCentral**](https://meshcentral.com) | Run your own web server to remotely manage and control computers on a local network or anywhere on the internet.... | Found in 2 active sources · Worth Trying |
 
@@ -148,7 +148,7 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 | Tool | What it does | Signal |
 |---|---|---|
 | 👤 [**NativeScript**](https://github.com/nativescript/nativescript) | NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like... | Found in 2 active sources · Worth Trying |
-| [**RunAnywhere**](https://github.com/runanywhereai/runanywhere-sdks) | RunAnywhere is a production-ready SDK for running AI models (LLMs, speech-to-text, text-to-speech) on-device for... | Found in 1 active source: josephmisiti/awesome-machine-learning · AI Candidate |
+| [**RunAnywhere**](https://github.com/runanywhereai/runanywhere-sdks) | RunAnywhere is a production-ready SDK for running AI models (LLMs, speech-to-text, text-to-speech) on-device for... | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning · AI Candidate |
 | [**ZXing**](https://github.com/zxing/zxing) | An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other... | Found in 1 active source: fffaraz/awesome-cpp · AI Candidate |
 
 📖 [Full domain page →](domains/mobile.md)

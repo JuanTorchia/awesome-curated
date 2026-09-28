@@ -2,7 +2,7 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**10 Human-reviewed · 1 Popular standards · 109 AI candidates · 15 Needs review**
+**10 Human-reviewed · 1 Popular standards · 118 AI candidates · 6 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -56,7 +56,7 @@ Cake (C# Make) is a free and open source cross-platform build automation system 
 
 ### 👤 [intelli-shell](https://github.com/lasantosr/intelli-shell)
 
-![](https://img.shields.io/github/stars/lasantosr/intelli-shell?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
+![](https://img.shields.io/github/stars/lasantosr/intelli-shell?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
 
 **Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -70,7 +70,7 @@ Bookmark commands with placeholders and search or autocomplete at any time
 
 ### 👤 [ast-grep](https://github.com/ast-grep/ast-grep)
 
-![](https://img.shields.io/github/stars/ast-grep/ast-grep?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
+![](https://img.shields.io/github/stars/ast-grep/ast-grep?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -84,7 +84,7 @@ A CLI tool for code structural search, lint and rewriting.
 
 ### 👤 [ATAC](https://github.com/julien-cpsn/atac)
 
-![](https://img.shields.io/github/stars/julien-cpsn/atac?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
+![](https://img.shields.io/github/stars/julien-cpsn/atac?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -98,7 +98,7 @@ A feature-full TUI API client made in Rust. ATAC is free, open-source, offline a
 
 ### 👤 [broot](https://github.com/canop/broot)
 
-![](https://img.shields.io/github/stars/canop/broot?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
+![](https://img.shields.io/github/stars/canop/broot?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -161,7 +161,7 @@ Useful standards included as reference, not necessarily emerging discoveries.
 
 ### [Pytorch](https://github.com/pytorch/pytorch)
 
-![](https://img.shields.io/github/stars/pytorch/pytorch?style=flat-square&label=⭐) · Found in 4 active sources: academic/awesome-datascience, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more
+![](https://img.shields.io/github/stars/pytorch/pytorch?style=flat-square&label=⭐) · 🔥 **Found in 5 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, fffaraz/awesome-cpp +2 more**
 
 **Review label:** Popular Standard · **Caveat:** Useful standard, but not a discovery or emerging pick.
 
@@ -182,7 +182,7 @@ Automated candidates with enough source signal; these are not human endorsements
 
 ### [Bokeh](https://github.com/bokeh/bokeh)
 
-![](https://img.shields.io/github/stars/bokeh/bokeh?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/bokeh/bokeh?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -196,7 +196,7 @@ Bokeh is an interactive visualization library for Python that enables beautiful 
 
 ### [Obsidian](https://obsidian.md)
 
-Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -210,7 +210,7 @@ Obsidian is a powerful knowledge base on top of a local folder of plain text Mar
 
 ### [Bitwarden](https://bitwarden.com)
 
-Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac
+Found in 1 active source: jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -224,7 +224,7 @@ Open source password management tool for Mac OS, iOS and browsers. (https://gith
 
 ### [Colossal-AI](https://github.com/hpcaitech/colossalai)
 
-![](https://img.shields.io/github/stars/hpcaitech/colossalai?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/hpcaitech/colossalai?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -238,7 +238,7 @@ A unified deep learning system for big model era, which helps users to efficient
 
 ### [Deepchecks](https://github.com/deepchecks/deepchecks)
 
-![](https://img.shields.io/github/stars/deepchecks/deepchecks?style=flat-square&label=⭐) · Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/deepchecks/deepchecks?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -252,7 +252,7 @@ Deepchecks is a holistic open-source solution for all of your AI & ML validation
 
 ### [DVC](https://github.com/iterative/dvc)
 
-![](https://img.shields.io/github/stars/iterative/dvc?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/iterative/dvc?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -266,7 +266,7 @@ Data Science Version Control is an open-source version control system for machin
 
 ### [Jupyter Notebooks](https://github.com/jupyter/notebook)
 
-![](https://img.shields.io/github/stars/jupyter/notebook?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
+![](https://img.shields.io/github/stars/jupyter/notebook?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -280,7 +280,7 @@ Web interface python sandbox environments for reproducible development
 
 ### [Kubernetes](https://github.com/kubernetes/kubernetes)
 
-![](https://img.shields.io/github/stars/kubernetes/kubernetes?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go
+![](https://img.shields.io/github/stars/kubernetes/kubernetes?style=flat-square&label=⭐) · Found in 1 active source: avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -294,7 +294,7 @@ Production-Grade Container Scheduling and Management System
 
 ### [LightGBM](https://github.com/microsoft/lightgbm)
 
-![](https://img.shields.io/github/stars/microsoft/lightgbm?style=flat-square&label=⭐) · Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/microsoft/lightgbm?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -308,7 +308,7 @@ Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, G
 
 ### [lstags](https://github.com/ivanilves/lstags)
 
-![](https://img.shields.io/github/stars/ivanilves/lstags?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go
+![](https://img.shields.io/github/stars/ivanilves/lstags?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -336,7 +336,7 @@ A Python tool used for intercepting, viewing and modifying network traffic. Inva
 
 ### [Moby](https://github.com/moby/moby)
 
-![](https://img.shields.io/github/stars/moby/moby?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go
+![](https://img.shields.io/github/stars/moby/moby?style=flat-square&label=⭐) · Found in 1 active source: avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -420,7 +420,7 @@ A Python library for symbolic mathematics.
 
 ### [Transformers](https://github.com/huggingface/transformers)
 
-![](https://img.shields.io/github/stars/huggingface/transformers?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/huggingface/transformers?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -460,7 +460,7 @@ The world’s foremost and widely-used network protocol analyzer. (https://githu
 
 ---
 
-_Showing 20 of 109. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+_Showing 20 of 118. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---
@@ -468,34 +468,6 @@ _Showing 20 of 109. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.j
 ## Needs review
 
 Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
-
-### [.NET Interactive](https://github.com/dotnet/interactive)
-
-![](https://img.shields.io/github/stars/dotnet/interactive?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-.NET Interactive takes the power of .NET and embeds it into your interactive experiences.
-
-**Why this is here:** .NET Interactive takes the power of .NET and embeds it into your interactive experiences.
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#net-interactive-dotnet-interactive) · [data/latest.json](../data/latest.json)
-
----
-
-### [AI Git Narrator](https://github.com/pmusolino/ai-git-narrator)
-
-![](https://img.shields.io/github/stars/pmusolino/ai-git-narrator?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-CLI tool that uses AI to automatically generate high-quality Git commit messages and pull request descriptions.
-
-**Why this is here:** Ahorra tiempo en escritura repetitiva de commits
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#ai-git-narrator-pmusolino-ai-git-narrator) · [data/latest.json](../data/latest.json)
-
----
 
 ### [Apache Maven](https://maven.apache.org)
 
@@ -508,20 +480,6 @@ Build automation tool mainly for Java. A software project management and compreh
 **Why this is here:** Dependency management centralizado y reproducible
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#apache-maven-maven) · [data/latest.json](../data/latest.json)
-
----
-
-### [carbon-now-cli](https://github.com/mixn/carbon-now-cli)
-
-![](https://img.shields.io/github/stars/mixn/carbon-now-cli?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Beautiful images of your code — from right inside your terminal.
-
-**Why this is here:** Workflow integrado sin browser
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#carbon-now-cli-mixn-carbon-now-cli) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -539,31 +497,17 @@ Crypto related functions and helpers for Swift implemented in Swift programming 
 
 ---
 
-### [fkill](https://github.com/sindresorhus/fkill-cli)
-
-![](https://img.shields.io/github/stars/sindresorhus/fkill-cli?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Fabulously kill processes. Cross-platform.
-
-**Why this is here:** Cross-platform sin inconsistencias
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#fkill-sindresorhus-fkill-cli) · [data/latest.json](../data/latest.json)
-
----
-
-### [glances](https://nicolargo.github.io/glances)
+### [ExifTool](https://sno.phy.queensu.ca/~phil/exiftool)
 
 Found in 2 active sources
 
 **Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
-Open-source, cross-platform real-time monitoring tool with CLI and web dashboard interfaces and many exporting options. GPL-3.0 Python
+Platform-independent Perl library plus a command-line application for reading, writing and editing meta information in a wide variety of files.
 
-**Why this is here:** Exporta a Prometheus, CSV, JSON
+**Why this is here:** Soporta 150+ formatos diferentes
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#glances-nicolargo) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#exiftool-sno) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -581,20 +525,6 @@ Incremental builds programmed via Groovy instead of declaring XML. Works well wi
 
 ---
 
-### [Ollama](https://github.com/ollama/ollama)
-
-![](https://img.shields.io/github/stars/ollama/ollama?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Get up and running with large language models, locally.
-
-**Why this is here:** Get up and running with large language models, locally.
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#ollama-ollama-ollama) · [data/latest.json](../data/latest.json)
-
----
-
 ### [OpenAPI Generator](https://github.com/openapitools/openapi-generator)
 
 ![](https://img.shields.io/github/stars/openapitools/openapi-generator?style=flat-square&label=⭐) · Found in 2 active sources
@@ -609,7 +539,19 @@ OpenAPI Generator allows generation of API client libraries (e.g. C#, TypeScript
 
 ---
 
-_Showing 10 of 15. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+### [Swift-Sodium](https://github.com/jedisct1/swift-sodium)
+
+![](https://img.shields.io/github/stars/jedisct1/swift-sodium?style=flat-square&label=⭐) · Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Swift interface to the Sodium library for common crypto operations for iOS and macOS.
+
+**Why this is here:** Acceso a libsodium battle-tested; AEAD + key derivation
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#swift-sodium-jedisct1-swift-sodium) · [data/latest.json](../data/latest.json)
+
+---
 
 
 ---
