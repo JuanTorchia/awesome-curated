@@ -8,7 +8,7 @@
 
 [![Human Picks](https://img.shields.io/badge/Human_Picks-17-gold?style=for-the-badge)](#)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](#)
-[![Updated](https://img.shields.io/badge/Updated-2026-09-27-green?style=for-the-badge)](#)
+[![Updated](https://img.shields.io/badge/Updated-2026-09-28-green?style=for-the-badge)](#)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -22,7 +22,7 @@
 
 ### 信頼スナップショット
 
-- **最新生成日**: 2026-09-27
+- **最新生成日**: 2026-09-28
 - **アクティブソース**: 20
 - **人間レビュー済みツール**: 17
 - **方法論**: [METHODOLOGY.md](METHODOLOGY.md)
@@ -99,15 +99,15 @@
 
 ---
 
-## What changed this week
+## Review queue
 
-- [.NET Interactive](https://github.com/dotnet/interactive) — label changed · AI Candidate: Moved from Needs Review to AI Candidate after trace evidence passed the public bar.
-- [Agentify](https://github.com/koriyoshi2041/agentify) — label changed · AI Candidate: Moved from Needs Review to AI Candidate after trace evidence passed the public bar.
-- [AI Git Narrator](https://github.com/pmusolino/ai-git-narrator) — label changed · AI Candidate: Moved from Needs Review to AI Candidate after trace evidence passed the public bar.
-- [Apache ECharts](https://github.com/apache/echarts) — label changed · AI Candidate: Moved from Needs Review to AI Candidate after trace evidence passed the public bar.
-- [Apache Ignite](https://github.com/apache/ignite) — label changed · AI Candidate: Moved from Needs Review to AI Candidate after trace evidence passed the public bar.
+- [Deepchecks](https://github.com/deepchecks/deepchecks) — Dev Tooling · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
+- [Feature Engine](https://github.com/feature-engine/feature_engine) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
+- [askbudi/roundtable](https://github.com/askbudi/roundtable) — AI & ML · Found in 2 active sources: vuejs/awesome-vue, punkpeye/awesome-mcp-servers
+- [Cython](https://github.com/cython/cython) — Performance · Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python
+- [DEAP](https://github.com/deap/deap) — AI & ML · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
-See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
+Candidates are not endorsements. Ask for review via [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) or inspect the full queue in [TOOLS.md](TOOLS.md).
 
 ---
 
