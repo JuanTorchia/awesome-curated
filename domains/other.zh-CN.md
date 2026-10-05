@@ -2,7 +2,7 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**2 Human-reviewed · 0 Popular standards · 22 AI candidates · 2 Needs review**
+**2 Human-reviewed · 0 Popular standards · 24 AI candidates · 0 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -187,6 +187,34 @@ Python Rust A high-performance algorithmic trading platform and event-driven bac
 
 ---
 
+### [NewsBlur](https://newsblur.com)
+
+Found in 1 active source: jivoi/awesome-osint
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Personal news reader that brings people together to talk about the world. A new sound of an old instrument. MIT Python
+
+**Why this is here:** Personal news reader that brings people together to talk about the world. A new sound of an old instrument. MIT Python
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#newsblur-newsblur) · [data/latest.json](../data/latest.json)
+
+---
+
+### [OpenLayers3](https://openlayers.org)
+
+Found in 1 active source: jivoi/awesome-osint
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+A high-performance, feature-packed library for all your mapping needs.
+
+**Why this is here:** Performance en datasets geoespaciales grandes
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#openlayers3-openlayers) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [Polaris](https://github.com/agersant/polaris)
 
 ![](https://img.shields.io/github/stars/agersant/polaris?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
@@ -245,7 +273,7 @@ Redis is an open-source, in-memory data store that supports vector similarity se
 
 ### [Reeder 5](https://reederapp.com)
 
-Found in 1 active source: jaywcjlove/awesome-mac
+Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -287,7 +315,7 @@ Task manager with timeboxing and time tracking. (https://github.com/johannesjo/s
 
 ### [SVGo](https://github.com/ajstarks/svgo)
 
-![](https://img.shields.io/github/stars/ajstarks/svgo?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, avelino/awesome-go
+![](https://img.shields.io/github/stars/ajstarks/svgo?style=flat-square&label=⭐) · Found in 1 active source: avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -299,70 +327,7 @@ The Go Language library for SVG generation.
 
 ---
 
-### [Syncthing](https://syncthing.net)
-
-Found in 1 active source: avelino/awesome-go
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Syncthing is an open source peer-to-peer file synchronisation tool. MPL-2.0 Go/Docker/deb
-
-**Why this is here:** Verdaderamente descentralizado, no depende cloud
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#syncthing-syncthing) · [data/latest.json](../data/latest.json)
-
----
-
-### [tldr-pages](https://github.com/tldr-pages/tldr)
-
-![](https://img.shields.io/github/stars/tldr-pages/tldr?style=flat-square&label=⭐) · Found in 1 active source: agarrharr/awesome-cli-apps
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Collaborative cheatsheets for console commands.
-
-**Why this is here:** Contenido siempre actualizado por comunidad, formato simple y searcheable
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#tldr-pages-tldr-pages-tldr) · [data/latest.json](../data/latest.json)
-
----
-
-_Showing 20 of 22. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
-
-
----
-
-## Needs review
-
-Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
-
-### [NewsBlur](https://newsblur.com)
-
-Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Personal news reader that brings people together to talk about the world. A new sound of an old instrument. MIT Python
-
-**Why this is here:** Personal news reader that brings people together to talk about the world. A new sound of an old instrument. MIT Python
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#newsblur-newsblur) · [data/latest.json](../data/latest.json)
-
----
-
-### [OpenLayers3](https://openlayers.org)
-
-Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-A high-performance, feature-packed library for all your mapping needs.
-
-**Why this is here:** Performance en datasets geoespaciales grandes
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#openlayers3-openlayers) · [data/latest.json](../data/latest.json)
-
----
+_Showing 20 of 24. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

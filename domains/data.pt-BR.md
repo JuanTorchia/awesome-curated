@@ -2,7 +2,7 @@
 
 <p><sub>← [Voltar ao main](../README.pt-BR.md)</sub></p>
 
-**3 Human-reviewed · 0 Popular standards · 59 AI candidates · 6 Needs review**
+**3 Human-reviewed · 0 Popular standards · 61 AI candidates · 4 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -42,7 +42,7 @@ Collaborative project to create a free editable map of the world. (, Clients) GP
 
 ### 👤 [pouchdb](https://github.com/pouchdb/pouchdb)
 
-![](https://img.shields.io/github/stars/pouchdb/pouchdb?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/pouchdb/pouchdb?style=flat-square&label=⭐) · Found in 1 active source: MunGell/awesome-for-beginners
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -63,7 +63,7 @@ Automated candidates with enough source signal; these are not human endorsements
 
 ### [gradio](https://github.com/gradio-app/gradio)
 
-![](https://img.shields.io/github/stars/gradio-app/gradio?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/gradio-app/gradio?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -77,7 +77,7 @@ Quickly create and share demos of models by only writing Python. Debug models in
 
 ### [matplotlib](https://github.com/matplotlib/matplotlib)
 
-![](https://img.shields.io/github/stars/matplotlib/matplotlib?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/matplotlib/matplotlib?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python, MunGell/awesome-for-beginners
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -91,7 +91,7 @@ A Python 2D plotting library which produces publication-quality figures in a var
 
 ### [Streamlit](https://github.com/streamlit/streamlit)
 
-![](https://img.shields.io/github/stars/streamlit/streamlit?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/streamlit/streamlit?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -114,6 +114,20 @@ Streamlit lets you create apps for your machine learning projects with deceptive
 **Why this is here:** 🏎️ ☁️ 🏠 7 SQL tools (validate, format, parse, lint, security scan, metadata extraction, full analysis) over Streamable HTTP. Public remote...
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#ajitpratap0-gosqlx-ajitpratap0-gosqlx) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Aleph](https://aleph.occrp.org)
+
+Found in 1 active source: jivoi/awesome-osint
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Tool for indexing large amounts of both documents (PDF, Word, HTML) and structured (CSV, XLS, SQL) data for easy browsing and search. It is built with investigative reporting as a primary use case. (Demo, ) MIT...
+
+**Why this is here:** Maneja mixed data types (documentos + estructurado) sin fricciones
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#aleph-aleph) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -175,7 +189,7 @@ A memory-centric distributed database, caching, and processing platform for tran
 
 ### [Bread Dataset Viewer](https://github.com/bread-technologies/mle_vscode_extension)
 
-![](https://img.shields.io/github/stars/bread-technologies/mle_vscode_extension?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/bread-technologies/mle_vscode_extension?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -189,7 +203,7 @@ A VS Code extension for viewing and exploring large machine learning datasets (C
 
 ### [C3.js](https://c3js.org)
 
-Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning
+Found in 1 active source: academic/awesome-datascience
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -201,9 +215,23 @@ customizable library based on D3.js for easy chart drawing.
 
 ---
 
+### [Chart.js](https://chartjs.org)
+
+Found in 1 active source: jivoi/awesome-osint
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+a javascript library that allows you to create charts easly
+
+**Why this is here:** Rendimiento decente en browsers
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#chart-js-chartjs) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [cleanlab](https://github.com/cleanlab/cleanlab)
 
-![](https://img.shields.io/github/stars/cleanlab/cleanlab?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/cleanlab/cleanlab?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -217,7 +245,7 @@ Python library for data-centric AI. Can automatically: find mislabeled data, det
 
 ### [csvkit](https://github.com/wireservice/csvkit)
 
-![](https://img.shields.io/github/stars/wireservice/csvkit?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
+![](https://img.shields.io/github/stars/wireservice/csvkit?style=flat-square&label=⭐) · Found in 2 active sources: jivoi/awesome-osint, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -287,7 +315,7 @@ Distributed parallel processing framework for Pandas and NumPy computations.
 
 ### [DataComPy](https://github.com/capitalone/datacompy)
 
-![](https://img.shields.io/github/stars/capitalone/datacompy?style=flat-square&label=⭐) · Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/capitalone/datacompy?style=flat-square&label=⭐) · Found in 1 active source: academic/awesome-datascience
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -301,7 +329,7 @@ A library to compare Pandas, Polars, and Spark data frames. It provides stats an
 
 ### [DataFrames](https://github.com/juliadata/dataframes.jl)
 
-![](https://img.shields.io/github/stars/juliadata/dataframes.jl?style=flat-square&label=⭐) · Found in 2 active sources: wilsonfreitas/awesome-quant, josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/juliadata/dataframes.jl?style=flat-square&label=⭐) · Found in 1 active source: wilsonfreitas/awesome-quant
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -313,35 +341,7 @@ library for working with tabular data in Julia.
 
 ---
 
-### [DataGrip](https://jetbrains.com/datagrip)
-
-Found in 1 active source: jaywcjlove/awesome-mac
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-DataGrip is a cross-platform IDE that is aimed at DBAs and developers working with SQL databases. It has built-in drivers that support DB2, Derby, H2, HSQLDB, MySQL, Oracle, PostgreSQL, SQL Server, Sqlite and Sybase.
-
-**Why this is here:** Autocomplete contextual y refactoring SQL sin rival
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#datagrip-jetbrains-12) · [data/latest.json](../data/latest.json)
-
----
-
-### [Deepnote](https://github.com/deepnote/deepnote)
-
-![](https://img.shields.io/github/stars/deepnote/deepnote?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for...
-
-**Why this is here:** Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL...
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#deepnote-deepnote-deepnote) · [data/latest.json](../data/latest.json)
-
----
-
-_Showing 20 of 59. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+_Showing 20 of 61. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---
@@ -364,20 +364,6 @@ Java message broker. Apache-2.0 Java
 
 ---
 
-### [Aleph](https://aleph.occrp.org)
-
-Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Tool for indexing large amounts of both documents (PDF, Word, HTML) and structured (CSV, XLS, SQL) data for easy browsing and search. It is built with investigative reporting as a primary use case. (Demo, ) MIT...
-
-**Why this is here:** Maneja mixed data types (documentos + estructurado) sin fricciones
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#aleph-aleph) · [data/latest.json](../data/latest.json)
-
----
-
 ### [Apache Solr](https://lucene.apache.org/solr)
 
 Found in 2 active sources
@@ -389,20 +375,6 @@ Enterprise search platform featuring full-text search, hit highlighting, faceted
 **Why this is here:** Texto rico (PDF, Word) indexado nativamente
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#apache-solr-lucene) · [data/latest.json](../data/latest.json)
-
----
-
-### [Chart.js](https://chartjs.org)
-
-Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-a javascript library that allows you to create charts easly
-
-**Why this is here:** Rendimiento decente en browsers
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#chart-js-chartjs) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -420,17 +392,17 @@ Distributed, column-oriented, real-time analytics data store. Apache-2.0 Java/Do
 
 ---
 
-### [QuestDB](https://github.com/questdb/questdb)
+### [Flink](https://flink.apache.org)
 
-![](https://img.shields.io/github/stars/questdb/questdb?style=flat-square&label=⭐) · Found in 2 active sources
+Found in 2 active sources
 
 **Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
 
-High-performance SQL database for time series. Supports InfluxDB line protocol, PostgreSQL wire protocol, and REST.
+Open source platform for distributed stream and batch data processing.
 
-**Why this is here:** High-performance SQL database for time series. Supports InfluxDB line protocol, PostgreSQL wire protocol, and REST.
+**Why this is here:** API unificada para stream y batch
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#questdb-questdb-questdb) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#flink-flink) · [data/latest.json](../data/latest.json)
 
 ---
 

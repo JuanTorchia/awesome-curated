@@ -2,7 +2,7 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**13 Human-reviewed · 0 Popular standards · 15 AI candidates · 2 Needs review**
+**13 Human-reviewed · 0 Popular standards · 16 AI candidates · 1 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -56,7 +56,7 @@ Real-time web log analyzer and interactive viewer that runs in a terminal or thr
 
 ### 👤 [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)
 
-![](https://img.shields.io/github/stars/hasura/graphql-engine?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/hasura/graphql-engine?style=flat-square&label=⭐) · Found in 1 active source: MunGell/awesome-for-beginners
 
 **Review label:** Human Pick · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -98,7 +98,7 @@ A lightweight Javascript library to easily create highly configurable and intera
 
 ### 👤 [Ghost](https://github.com/tryghost/ghost)
 
-![](https://img.shields.io/github/stars/tryghost/ghost?style=flat-square&label=⭐) · Found in 3 active sources
+![](https://img.shields.io/github/stars/tryghost/ghost?style=flat-square&label=⭐) · Found in 1 active source: MunGell/awesome-for-beginners
 
 **Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -126,7 +126,7 @@ Material design event calendar and date picker components. Demo site: https://sc
 
 ### 👤 [Vest](https://github.com/ealush/vest)
 
-![](https://img.shields.io/github/stars/ealush/vest?style=flat-square&label=⭐) · Found in 1 active source: vuejs/awesome-vue
+![](https://img.shields.io/github/stars/ealush/vest?style=flat-square&label=⭐) · Found in 2 active sources: vuejs/awesome-vue, MunGell/awesome-for-beginners
 
 **Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -140,7 +140,7 @@ Validations framework inspired by unit testing frameworks.
 
 ### 👤 [webdriver.io](https://github.com/webdriverio/webdriverio)
 
-![](https://img.shields.io/github/stars/webdriverio/webdriverio?style=flat-square&label=⭐) · Found in 3 active sources
+![](https://img.shields.io/github/stars/webdriverio/webdriverio?style=flat-square&label=⭐) · Found in 1 active source: MunGell/awesome-for-beginners
 
 **Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
 
@@ -168,7 +168,7 @@ High performance, extensible, and Typescript friendly
 
 ### 👤 [grommet](https://github.com/grommet/grommet)
 
-![](https://img.shields.io/github/stars/grommet/grommet?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/grommet/grommet?style=flat-square&label=⭐) · Found in 1 active source: MunGell/awesome-for-beginners
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
@@ -203,7 +203,7 @@ Automated candidates with enough source signal; these are not human endorsements
 
 ### [D3js](https://d3js.org)
 
-Found in 1 active source: academic/awesome-datascience
+Found in 2 active sources: jivoi/awesome-osint, academic/awesome-datascience
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -231,7 +231,7 @@ Remote Procedure Calls (RPCs) provide a useful abstraction for building distribu
 
 ### [juspay/neurolink](https://github.com/juspay/neurolink)
 
-![](https://img.shields.io/github/stars/juspay/neurolink?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, punkpeye/awesome-mcp-servers
+![](https://img.shields.io/github/stars/juspay/neurolink?style=flat-square&label=⭐) · Found in 1 active source: punkpeye/awesome-mcp-servers
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -245,7 +245,7 @@ Remote Procedure Calls (RPCs) provide a useful abstraction for building distribu
 
 ### [Vivaldi](https://vivaldi.com)
 
-Found in 1 active source: jaywcjlove/awesome-mac
+Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -301,7 +301,7 @@ Clean project logo. Useful badges and links (languages switcher, code style, tes
 
 ### [hyperium/hyper](https://github.com/hyperium/hyper)
 
-![](https://img.shields.io/github/stars/hyperium/hyper?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
+![](https://img.shields.io/github/stars/hyperium/hyper?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, MunGell/awesome-for-beginners
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -329,7 +329,7 @@ A Python agent framework for building generative AI applications with structured
 
 ### [Python Babel](https://github.com/python-babel/babel)
 
-![](https://img.shields.io/github/stars/python-babel/babel?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
+![](https://img.shields.io/github/stars/python-babel/babel?style=flat-square&label=⭐) · Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -343,7 +343,7 @@ The Python Internationalization Library.
 
 ### [scrapy](https://github.com/scrapy/scrapy)
 
-![](https://img.shields.io/github/stars/scrapy/scrapy?style=flat-square&label=⭐) · Found in 1 active source: vinta/awesome-python
+![](https://img.shields.io/github/stars/scrapy/scrapy?style=flat-square&label=⭐) · Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -352,6 +352,20 @@ A fast high-level web crawling & scraping framework for Python.
 **Why this is here:** A fast high-level web crawling & scraping framework for Python.
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#scrapy-scrapy-scrapy) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Superdesk](https://superdesk.org)
+
+Found in 1 active source: jivoi/awesome-osint
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+⚠ End-to-end news creation, production, curation, distribution, and publishing platform. AGPL-3.0 Docker/Python/PHP
+
+**Why this is here:** Cobertura end-to-end del workflow editorial
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#superdesk-superdesk) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -429,20 +443,6 @@ GIF demo. Multiple badges. Feature list. Great live demo with code examples. Eas
 **Why this is here:** Mantenido activamente con TypeScript support incluido
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#mkosir-react-parallax-tilt-mkosir-react-parallax-tilt) · [data/latest.json](../data/latest.json)
-
----
-
-### [Superdesk](https://superdesk.org)
-
-Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-⚠ End-to-end news creation, production, curation, distribution, and publishing platform. AGPL-3.0 Docker/Python/PHP
-
-**Why this is here:** Cobertura end-to-end del workflow editorial
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#superdesk-superdesk) · [data/latest.json](../data/latest.json)
 
 ---
 
