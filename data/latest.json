@@ -1,16 +1,26 @@
 {
   "changes": [
     {
-      "changedAt": "2026-10-05",
-      "name": "Public recommendation set",
-      "reason": "No material public change detected.",
-      "toolId": "snapshot",
-      "type": "unchanged",
-      "url": "data/latest.json"
+      "changedAt": "2026-10-06",
+      "currentLabel": "AI Candidate",
+      "name": "pandas",
+      "reason": "API intuitiva, comunidad gigante",
+      "toolId": "cmnwkyr3706cm1p4t03nb04ny",
+      "type": "newly reviewed",
+      "url": "https://pandas.pydata.org"
+    },
+    {
+      "changedAt": "2026-10-06",
+      "name": "pandas",
+      "previousLabel": "AI Candidate",
+      "reason": "No longer present in the current public recommendation set.",
+      "toolId": "cmnwknkai01d01p4tiaff2tii",
+      "type": "removed",
+      "url": "https://github.com/pandas-dev/pandas"
     }
   ],
-  "commitSha": "6d5e788b2a6e",
-  "generatedAt": "2026-10-05T10:00:13.180Z",
+  "commitSha": "676952085ec0",
+  "generatedAt": "2026-10-06T10:00:11.341Z",
   "recommendations": [
     {
       "caveat": "Best fit for teams with a matching ML or data workflow.",
@@ -11719,46 +11729,36 @@
     {
       "caveat": "Candidate still needs human review before endorsement.",
       "domain": "data",
-      "id": "cmnwknkai01d01p4tiaff2tii",
+      "id": "cmnwkyr3706cm1p4t03nb04ny",
       "label": "AI Candidate",
       "maintenance": {
         "archived": false,
         "graveyarded": false
       },
       "name": "pandas",
-      "rationale": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects,...",
+      "rationale": "API intuitiva, comunidad gigante",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects,...",
-        "reviewedAt": "2026-04-13",
+        "notes": "API intuitiva, comunidad gigante",
+        "reviewedAt": "2026-06-23",
         "status": "AI Candidate"
       },
-      "slug": "pandas-dev-pandas",
-      "sourceSignal": "Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners",
+      "slug": "pandas",
+      "sourceSignal": "Found in 1 active source: wilsonfreitas/awesome-quant",
       "sourceTraces": [
         {
-          "itemCategory": "Projects",
+          "itemCategory": "Numerical Libraries & Data Structures",
           "itemName": "pandas",
           "observedAt": "2026-10-05",
-          "sourceQuality": 89,
-          "sourceRepo": "vinta/awesome-python",
+          "sourceQuality": 100,
+          "sourceRepo": "wilsonfreitas/awesome-quant",
           "sourceStatus": "ROSTER",
-          "sourceTitle": "awesome-python",
-          "sourceUrl": "https://github.com/vinta/awesome-python"
-        },
-        {
-          "itemCategory": "Python",
-          "itemName": "pandas",
-          "observedAt": "2026-10-05",
-          "sourceQuality": 97,
-          "sourceRepo": "MunGell/awesome-for-beginners",
-          "sourceStatus": "ROSTER",
-          "sourceTitle": "awesome-for-beginners",
-          "sourceUrl": "https://github.com/MunGell/awesome-for-beginners"
+          "sourceTitle": "awesome-quant",
+          "sourceUrl": "https://github.com/wilsonfreitas/awesome-quant"
         }
       ],
-      "summary": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
-      "url": "https://github.com/pandas-dev/pandas"
+      "summary": "Python pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language. GitHub",
+      "url": "https://pandas.pydata.org"
     },
     {
       "caveat": "Candidate still needs human review before endorsement.",
@@ -17771,7 +17771,7 @@
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
         "notes": "API consistente y previsible entre estimadores",
-        "reviewedAt": "2026-04-13",
+        "reviewedAt": "2026-10-06",
         "status": "Context Resource"
       },
       "slug": "scikit-learn-scikit-learn",
@@ -18690,7 +18690,7 @@
     "sources": 20
   },
   "validation": {
-    "checkedAt": "2026-10-05T10:00:13.180Z",
+    "checkedAt": "2026-10-06T10:00:11.341Z",
     "status": "pass",
     "warnings": []
   }

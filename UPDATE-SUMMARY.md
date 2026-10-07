@@ -2,8 +2,8 @@
 
 ## Latest Sync
 
-- Date: 2026-10-05
-- Previous public commit: 6d5e788b2a6e
+- Date: 2026-10-06
+- Previous public commit: 676952085ec0
 - Evidence: [data/latest.json](data/latest.json)
 
 ## Current Snapshot
@@ -19,9 +19,13 @@
 
 ## Recent Changes
 
-### No Material Public Change
+### Newly Reviewed
 
-No material public change detected for the latest generated window.
+- [pandas](https://pandas.pydata.org) (AI Candidate) — API intuitiva, comunidad gigante (2026-10-06)
+
+### Removed
+
+- [pandas](https://github.com/pandas-dev/pandas) (AI Candidate) — No longer present in the current public recommendation set. (2026-10-06)
 
 ## Review Note
 
