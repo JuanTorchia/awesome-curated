@@ -2,7 +2,7 @@
 
 This is the human-readable evidence catalog for the current public snapshot. It mirrors [data/latest.json](data/latest.json), but keeps each visible recommendation inspectable without reading JSON.
 
-Generated: 2026-10-06 · Public recommendations: 498 · Validation: pass
+Generated: 2026-10-07 · Public recommendations: 498 · Validation: pass
 
 ## Review Shortlist
 
@@ -29,7 +29,7 @@ These are strong automated candidates worth human review next. They are not endo
 | [nwiizo/tfmcp](#nwiizo-tfmcp-nwiizo-tfmcp) | DevOps | Found in 2 active sources: rust-unofficial/awesome-rust, punkpeye/awesome-mcp-servers | Candidate still needs human review before endorsement. |
 | [netdata/netdata#Netdata](#netdata-netdata-netdata-netdata-netdata) | DevOps | Found in 2 active sources: veggiemonk/awesome-docker, punkpeye/awesome-mcp-servers | Candidate still needs human review before endorsement. |
 | [lazyjournal](#lazyjournal-lifailon-lazyjournal) | DevOps | Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go | Candidate still needs human review before endorsement. |
-| [Prefect Core](#prefect-core-prefecthq-prefect) | DevOps | Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python | Candidate still needs human review before endorsement. |
+| [pandas](#pandas-pandas-dev-pandas) | Data & Databases | Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners | Candidate still needs human review before endorsement. |
 
 ---
 
@@ -3275,19 +3275,20 @@ These are strong automated candidates worth human review next. They are not endo
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-05
 
 ---
-### <a id="pandas-pandas"></a>[pandas](https://pandas.pydata.org)
+### <a id="pandas-pandas-dev-pandas"></a>[pandas](https://github.com/pandas-dev/pandas)
 
-**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 1 active source: wilsonfreitas/awesome-quant
+**Label:** AI Candidate · **Domain:** Data & Databases · **Signal:** Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
 
-**Summary:** Python pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language. GitHub
+**Summary:** Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 
-**Why it is here:** API intuitiva, comunidad gigante
+**Why it is here:** Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects,...
 
 **Caveat:** Candidate still needs human review before endorsement.
 
 **Source traces:**
 
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-10-05
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 89 · observed 2026-10-05
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 97 · observed 2026-10-05
 
 ---
 ### <a id="pathwaycom-pathway-pathwaycom-pathway"></a>[pathwaycom/pathway](https://github.com/pathwaycom/pathway)

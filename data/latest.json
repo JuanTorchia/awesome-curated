@@ -1,26 +1,26 @@
 {
   "changes": [
     {
-      "changedAt": "2026-10-06",
+      "changedAt": "2026-10-07",
       "currentLabel": "AI Candidate",
       "name": "pandas",
-      "reason": "API intuitiva, comunidad gigante",
-      "toolId": "cmnwkyr3706cm1p4t03nb04ny",
+      "reason": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects,...",
+      "toolId": "cmnwknkai01d01p4tiaff2tii",
       "type": "newly reviewed",
-      "url": "https://pandas.pydata.org"
+      "url": "https://github.com/pandas-dev/pandas"
     },
     {
-      "changedAt": "2026-10-06",
+      "changedAt": "2026-10-07",
       "name": "pandas",
       "previousLabel": "AI Candidate",
       "reason": "No longer present in the current public recommendation set.",
-      "toolId": "cmnwknkai01d01p4tiaff2tii",
+      "toolId": "cmnwkyr3706cm1p4t03nb04ny",
       "type": "removed",
-      "url": "https://github.com/pandas-dev/pandas"
+      "url": "https://pandas.pydata.org"
     }
   ],
-  "commitSha": "676952085ec0",
-  "generatedAt": "2026-10-06T10:00:11.341Z",
+  "commitSha": "f3b68a6f7027",
+  "generatedAt": "2026-10-07T10:00:12.514Z",
   "recommendations": [
     {
       "caveat": "Best fit for teams with a matching ML or data workflow.",
@@ -3374,7 +3374,7 @@
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
         "notes": "APIs consistentes y bien testeadas",
-        "reviewedAt": "2026-04-13",
+        "reviewedAt": "2026-10-07",
         "status": "AI Candidate"
       },
       "slug": "dlr-rm-stable-baselines3",
@@ -11729,36 +11729,46 @@
     {
       "caveat": "Candidate still needs human review before endorsement.",
       "domain": "data",
-      "id": "cmnwkyr3706cm1p4t03nb04ny",
+      "id": "cmnwknkai01d01p4tiaff2tii",
       "label": "AI Candidate",
       "maintenance": {
         "archived": false,
         "graveyarded": false
       },
       "name": "pandas",
-      "rationale": "API intuitiva, comunidad gigante",
+      "rationale": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects,...",
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "API intuitiva, comunidad gigante",
-        "reviewedAt": "2026-06-23",
+        "notes": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects,...",
+        "reviewedAt": "2026-04-13",
         "status": "AI Candidate"
       },
-      "slug": "pandas",
-      "sourceSignal": "Found in 1 active source: wilsonfreitas/awesome-quant",
+      "slug": "pandas-dev-pandas",
+      "sourceSignal": "Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners",
       "sourceTraces": [
         {
-          "itemCategory": "Numerical Libraries & Data Structures",
+          "itemCategory": "Projects",
           "itemName": "pandas",
           "observedAt": "2026-10-05",
-          "sourceQuality": 100,
-          "sourceRepo": "wilsonfreitas/awesome-quant",
+          "sourceQuality": 89,
+          "sourceRepo": "vinta/awesome-python",
           "sourceStatus": "ROSTER",
-          "sourceTitle": "awesome-quant",
-          "sourceUrl": "https://github.com/wilsonfreitas/awesome-quant"
+          "sourceTitle": "awesome-python",
+          "sourceUrl": "https://github.com/vinta/awesome-python"
+        },
+        {
+          "itemCategory": "Python",
+          "itemName": "pandas",
+          "observedAt": "2026-10-05",
+          "sourceQuality": 97,
+          "sourceRepo": "MunGell/awesome-for-beginners",
+          "sourceStatus": "ROSTER",
+          "sourceTitle": "awesome-for-beginners",
+          "sourceUrl": "https://github.com/MunGell/awesome-for-beginners"
         }
       ],
-      "summary": "Python pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language. GitHub",
-      "url": "https://pandas.pydata.org"
+      "summary": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+      "url": "https://github.com/pandas-dev/pandas"
     },
     {
       "caveat": "Candidate still needs human review before endorsement.",
@@ -18690,7 +18700,7 @@
     "sources": 20
   },
   "validation": {
-    "checkedAt": "2026-10-06T10:00:11.341Z",
+    "checkedAt": "2026-10-07T10:00:12.514Z",
     "status": "pass",
     "warnings": []
   }
