@@ -1,26 +1,16 @@
 {
   "changes": [
     {
-      "changedAt": "2026-10-08",
-      "currentLabel": "AI Candidate",
-      "name": "pandas",
-      "reason": "API intuitiva, comunidad gigante",
-      "toolId": "cmnwkyr3706cm1p4t03nb04ny",
-      "type": "newly reviewed",
-      "url": "https://pandas.pydata.org"
-    },
-    {
-      "changedAt": "2026-10-08",
-      "name": "pandas",
-      "previousLabel": "AI Candidate",
-      "reason": "No longer present in the current public recommendation set.",
-      "toolId": "cmnwknkai01d01p4tiaff2tii",
-      "type": "removed",
-      "url": "https://github.com/pandas-dev/pandas"
+      "changedAt": "2026-10-09",
+      "name": "Public recommendation set",
+      "reason": "No material public change detected.",
+      "toolId": "snapshot",
+      "type": "unchanged",
+      "url": "data/latest.json"
     }
   ],
-  "commitSha": "19ff5966c776",
-  "generatedAt": "2026-10-08T10:00:10.632Z",
+  "commitSha": "13b3881378c1",
+  "generatedAt": "2026-10-09T10:00:11.984Z",
   "recommendations": [
     {
       "caveat": "Best fit for teams with a matching ML or data workflow.",
@@ -3330,7 +3320,7 @@
       "review": {
         "caveat": "Candidate still needs human review before endorsement.",
         "notes": "Modelos pre-entrenados optimizados y muy documentados",
-        "reviewedAt": "2026-04-13",
+        "reviewedAt": "2026-10-09",
         "status": "AI Candidate"
       },
       "slug": "explosion-spacy",
@@ -18690,7 +18680,7 @@
     "sources": 20
   },
   "validation": {
-    "checkedAt": "2026-10-08T10:00:10.632Z",
+    "checkedAt": "2026-10-09T10:00:11.984Z",
     "status": "pass",
     "warnings": []
   }
