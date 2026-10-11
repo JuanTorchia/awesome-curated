@@ -2,8 +2,8 @@
 
 ## Latest Sync
 
-- Date: 2026-10-09
-- Previous public commit: 13b3881378c1
+- Date: 2026-10-10
+- Previous public commit: b2bd5b104243
 - Evidence: [data/latest.json](data/latest.json)
 
 ## Current Snapshot
@@ -19,9 +19,13 @@
 
 ## Recent Changes
 
-### No Material Public Change
+### Newly Reviewed
 
-No material public change detected for the latest generated window.
+- [pandas](https://github.com/pandas-dev/pandas) (AI Candidate) — Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects,... (2026-10-10)
+
+### Removed
+
+- [pandas](https://pandas.pydata.org) (AI Candidate) — No longer present in the current public recommendation set. (2026-10-10)
 
 ## Review Note
 
