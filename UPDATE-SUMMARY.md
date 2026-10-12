@@ -2,30 +2,44 @@
 
 ## Latest Sync
 
-- Date: 2026-10-10
-- Previous public commit: b2bd5b104243
+- Date: 2026-10-11
+- Previous public commit: 009de471b492
 - Evidence: [data/latest.json](data/latest.json)
 
 ## Current Snapshot
 
 - Human Picks: 17
-- AI Candidates: 383
+- AI Candidates: 384
 - Popular Standards: 1
-- Needs Review: 22
+- Needs Review: 21
 - Active Sources: 20
 - Public Recommendations: 498
 - Graveyard tools: 0
-- Open issues: 13
+- Open issues: 12
 
 ## Recent Changes
 
-### Newly Reviewed
+### Label Changed
 
-- [pandas](https://github.com/pandas-dev/pandas) (AI Candidate) — Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects,... (2026-10-10)
-
-### Removed
-
-- [pandas](https://pandas.pydata.org) (AI Candidate) — No longer present in the current public recommendation set. (2026-10-10)
+- [RLlib](https://github.com/ray-project/ray) (Needs Review → AI Candidate) — Moved from Needs Review to AI Candidate after trace evidence passed the public bar. (2026-10-11)
+- [Agentic Radar](https://github.com/splx-ai/agentic-radar) (Needs Review → AI Candidate) — Moved from Needs Review to AI Candidate after trace evidence passed the public bar. (2026-10-11)
+- [CodeFlash.AI](https://codeflash.ai) (Needs Review → AI Candidate) — Moved from Needs Review to AI Candidate after trace evidence passed the public bar. (2026-10-11)
+- [CoreNLP](https://nlp.stanford.edu/software/corenlp.shtml) (Needs Review → AI Candidate) — Moved from Needs Review to AI Candidate after trace evidence passed the public bar. (2026-10-11)
+- [Flink](https://flink.apache.org) (Needs Review → AI Candidate) — Moved from Needs Review to AI Candidate after trace evidence passed the public bar. (2026-10-11)
+- [GeneticSharp](https://github.com/giacomelli/geneticsharp) (Needs Review → AI Candidate) — Moved from Needs Review to AI Candidate after trace evidence passed the public bar. (2026-10-11)
+- [Infer.NET](https://dotnet.github.io/infer) (Needs Review → AI Candidate) — Moved from Needs Review to AI Candidate after trace evidence passed the public bar. (2026-10-11)
+- [Jieba-PHP](https://github.com/fukuball/jieba-php) (Needs Review → AI Candidate) — Moved from Needs Review to AI Candidate after trace evidence passed the public bar. (2026-10-11)
+- [Oryx 2](https://github.com/oryxproject/oryx) (Needs Review → AI Candidate) — Moved from Needs Review to AI Candidate after trace evidence passed the public bar. (2026-10-11)
+- [Retext](https://github.com/retextjs/retext) (Needs Review → AI Candidate) — Moved from Needs Review to AI Candidate after trace evidence passed the public bar. (2026-10-11)
+- [cadvisor](https://github.com/google/cadvisor) (AI Candidate → Needs Review) — Moved from AI Candidate to Needs Review after stricter trace-quality checks. (2026-10-11)
+- [CircleCI](https://circleci.com) (AI Candidate → Needs Review) — Moved from AI Candidate to Needs Review after stricter trace-quality checks. (2026-10-11)
+- [Concourse](https://concourse-ci.org) (AI Candidate → Needs Review) — Moved from AI Candidate to Needs Review after stricter trace-quality checks. (2026-10-11)
+- [Docker.DotNet](https://github.com/microsoft/docker.dotnet) (AI Candidate → Needs Review) — Moved from AI Candidate to Needs Review after stricter trace-quality checks. (2026-10-11)
+- [HertzBeat](https://github.com/dromara/hertzbeat) (AI Candidate → Needs Review) — Moved from AI Candidate to Needs Review after stricter trace-quality checks. (2026-10-11)
+- [Lynis](https://cisofy.com/lynis) (AI Candidate → Needs Review) — Moved from AI Candidate to Needs Review after stricter trace-quality checks. (2026-10-11)
+- [Prometheus](https://prometheus.io) (AI Candidate → Needs Review) — Moved from AI Candidate to Needs Review after stricter trace-quality checks. (2026-10-11)
+- [Semaphore CI](https://semaphore.io) (AI Candidate → Needs Review) — Moved from AI Candidate to Needs Review after stricter trace-quality checks. (2026-10-11)
+- [Træfɪk](https://github.com/containous/traefik) (AI Candidate → Needs Review) — Moved from AI Candidate to Needs Review after stricter trace-quality checks. (2026-10-11)
 
 ## Review Note
 

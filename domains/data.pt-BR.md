@@ -2,7 +2,7 @@
 
 <p><sub>← [Voltar ao main](../README.pt-BR.md)</sub></p>
 
-**3 Human-reviewed · 0 Popular standards · 61 AI candidates · 4 Needs review**
+**3 Human-reviewed · 0 Popular standards · 62 AI candidates · 3 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -63,7 +63,7 @@ Automated candidates with enough source signal; these are not human endorsements
 
 ### [gradio](https://github.com/gradio-app/gradio)
 
-![](https://img.shields.io/github/stars/gradio-app/gradio?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/gradio-app/gradio?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -91,7 +91,7 @@ A Python 2D plotting library which produces publication-quality figures in a var
 
 ### [Streamlit](https://github.com/streamlit/streamlit)
 
-![](https://img.shields.io/github/stars/streamlit/streamlit?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/streamlit/streamlit?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -189,7 +189,7 @@ A memory-centric distributed database, caching, and processing platform for tran
 
 ### [Bread Dataset Viewer](https://github.com/bread-technologies/mle_vscode_extension)
 
-![](https://img.shields.io/github/stars/bread-technologies/mle_vscode_extension?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
+![](https://img.shields.io/github/stars/bread-technologies/mle_vscode_extension?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -203,7 +203,7 @@ A VS Code extension for viewing and exploring large machine learning datasets (C
 
 ### [C3.js](https://c3js.org)
 
-Found in 1 active source: academic/awesome-datascience
+Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -231,7 +231,7 @@ a javascript library that allows you to create charts easly
 
 ### [cleanlab](https://github.com/cleanlab/cleanlab)
 
-![](https://img.shields.io/github/stars/cleanlab/cleanlab?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
+![](https://img.shields.io/github/stars/cleanlab/cleanlab?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -315,7 +315,7 @@ Distributed parallel processing framework for Pandas and NumPy computations.
 
 ### [DataComPy](https://github.com/capitalone/datacompy)
 
-![](https://img.shields.io/github/stars/capitalone/datacompy?style=flat-square&label=⭐) · Found in 1 active source: academic/awesome-datascience
+![](https://img.shields.io/github/stars/capitalone/datacompy?style=flat-square&label=⭐) · Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -329,7 +329,7 @@ A library to compare Pandas, Polars, and Spark data frames. It provides stats an
 
 ### [DataFrames](https://github.com/juliadata/dataframes.jl)
 
-![](https://img.shields.io/github/stars/juliadata/dataframes.jl?style=flat-square&label=⭐) · Found in 1 active source: wilsonfreitas/awesome-quant
+![](https://img.shields.io/github/stars/juliadata/dataframes.jl?style=flat-square&label=⭐) · Found in 2 active sources: wilsonfreitas/awesome-quant, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -341,7 +341,7 @@ library for working with tabular data in Julia.
 
 ---
 
-_Showing 20 of 61. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+_Showing 20 of 62. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---
@@ -389,20 +389,6 @@ Distributed, column-oriented, real-time analytics data store. Apache-2.0 Java/Do
 **Why this is here:** Sql-like query layer, operacional probado
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#druid-druid) · [data/latest.json](../data/latest.json)
-
----
-
-### [Flink](https://flink.apache.org)
-
-Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Open source platform for distributed stream and batch data processing.
-
-**Why this is here:** API unificada para stream y batch
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#flink-flink) · [data/latest.json](../data/latest.json)
 
 ---
 

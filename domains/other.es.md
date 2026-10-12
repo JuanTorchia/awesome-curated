@@ -315,7 +315,7 @@ Task manager with timeboxing and time tracking. (https://github.com/johannesjo/s
 
 ### [SVGo](https://github.com/ajstarks/svgo)
 
-![](https://img.shields.io/github/stars/ajstarks/svgo?style=flat-square&label=⭐) · Found in 1 active source: avelino/awesome-go
+![](https://img.shields.io/github/stars/ajstarks/svgo?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, avelino/awesome-go
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 

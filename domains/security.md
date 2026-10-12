@@ -117,6 +117,20 @@ by Trail of Bits A very professional collection of over a dozen security-focused
 
 Automated candidates with enough source signal; these are not human endorsements yet.
 
+### [Agentic Radar](https://github.com/splx-ai/agentic-radar)
+
+![](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Open-source CLI security scanner for agentic workflows. Scans your workflow’s , detects vulnerabilities, and generates an interactive visualization along with a detailed security report. Supports LangGraph, CrewAI,...
+
+**Why this is here:** Output visualizable e insights accionables
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#agentic-radar-splx-ai-agentic-radar) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [Brave](https://brave.com)
 
 Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac
@@ -285,20 +299,6 @@ A fork of Firefox, focused on privacy, security and freedom. (https://gitlab.com
 
 ---
 
-### [Lynis](https://cisofy.com/lynis)
-
-Found in 1 active source: veggiemonk/awesome-docker
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Auditing tool for UNIX-based systems.
-
-**Why this is here:** Output estructurado, integrable en pipelines
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#lynis-cisofy) · [data/latest.json](../data/latest.json)
-
----
-
 ### [Maltego](https://maltego.com)
 
 Found in 1 active source: jivoi/awesome-osint
@@ -371,7 +371,7 @@ Paaster is a secure and user-friendly pastebin application that prioritizes priv
 
 ### [Promptfoo](https://github.com/promptfoo/promptfoo)
 
-![](https://img.shields.io/github/stars/promptfoo/promptfoo?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
+![](https://img.shields.io/github/stars/promptfoo/promptfoo?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
@@ -405,20 +405,6 @@ _Showing 20 of 38. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.js
 ## Needs review
 
 Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
-
-### [Agentic Radar](https://github.com/splx-ai/agentic-radar)
-
-![](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=flat-square&label=⭐) · Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Open-source CLI security scanner for agentic workflows. Scans your workflow’s , detects vulnerabilities, and generates an interactive visualization along with a detailed security report. Supports LangGraph, CrewAI,...
-
-**Why this is here:** Output visualizable e insights accionables
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#agentic-radar-splx-ai-agentic-radar) · [data/latest.json](../data/latest.json)
-
----
 
 ### [Apache Shiro](https://shiro.apache.org)
 
@@ -459,6 +445,20 @@ Open Source Identity and Access Management. Apache-2.0 Java
 **Why this is here:** Cluster-ready y escalable horizontalmente
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#keycloak-keycloak) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Lynis](https://cisofy.com/lynis)
+
+Found in 2 active sources
+
+**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+
+Auditing tool for UNIX-based systems.
+
+**Why this is here:** Output estructurado, integrable en pipelines
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#lynis-cisofy) · [data/latest.json](../data/latest.json)
 
 ---
 
