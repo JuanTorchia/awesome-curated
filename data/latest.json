@@ -1,198 +1,16 @@
 {
   "changes": [
     {
-      "changedAt": "2026-10-11",
-      "currentLabel": "AI Candidate",
-      "name": "RLlib",
-      "previousLabel": "Needs Review",
-      "reason": "Moved from Needs Review to AI Candidate after trace evidence passed the public bar.",
-      "toolId": "cmnwkyeva06751p4t136b0a15",
-      "type": "label changed",
-      "url": "https://github.com/ray-project/ray"
-    },
-    {
-      "changedAt": "2026-10-11",
-      "currentLabel": "AI Candidate",
-      "name": "Agentic Radar",
-      "previousLabel": "Needs Review",
-      "reason": "Moved from Needs Review to AI Candidate after trace evidence passed the public bar.",
-      "toolId": "cmnwkvhwc04wt1p4tfx2cavpe",
-      "type": "label changed",
-      "url": "https://github.com/splx-ai/agentic-radar"
-    },
-    {
-      "changedAt": "2026-10-11",
-      "currentLabel": "AI Candidate",
-      "name": "CodeFlash.AI",
-      "previousLabel": "Needs Review",
-      "reason": "Moved from Needs Review to AI Candidate after trace evidence passed the public bar.",
-      "toolId": "cmnwkv59p04r51p4ta72knzq1",
-      "type": "label changed",
-      "url": "https://codeflash.ai"
-    },
-    {
-      "changedAt": "2026-10-11",
-      "currentLabel": "AI Candidate",
-      "name": "CoreNLP",
-      "previousLabel": "Needs Review",
-      "reason": "Moved from Needs Review to AI Candidate after trace evidence passed the public bar.",
-      "toolId": "cmnwku3di04a31p4tsimizs8i",
-      "type": "label changed",
-      "url": "https://nlp.stanford.edu/software/corenlp.shtml"
-    },
-    {
-      "changedAt": "2026-10-11",
-      "currentLabel": "AI Candidate",
-      "name": "Flink",
-      "previousLabel": "Needs Review",
-      "reason": "Moved from Needs Review to AI Candidate after trace evidence passed the public bar.",
-      "toolId": "cmnwku6iy04bi1p4t9bhir9hq",
-      "type": "label changed",
-      "url": "https://flink.apache.org"
-    },
-    {
-      "changedAt": "2026-10-11",
-      "currentLabel": "AI Candidate",
-      "name": "GeneticSharp",
-      "previousLabel": "Needs Review",
-      "reason": "Moved from Needs Review to AI Candidate after trace evidence passed the public bar.",
-      "toolId": "cmnwkuhue04gl1p4tnrwg8ni6",
-      "type": "label changed",
-      "url": "https://github.com/giacomelli/geneticsharp"
-    },
-    {
-      "changedAt": "2026-10-11",
-      "currentLabel": "AI Candidate",
-      "name": "Infer.NET",
-      "previousLabel": "Needs Review",
-      "reason": "Moved from Needs Review to AI Candidate after trace evidence passed the public bar.",
-      "toolId": "cmnwkuhyn04gm1p4thin1ujd2",
-      "type": "label changed",
-      "url": "https://dotnet.github.io/infer"
-    },
-    {
-      "changedAt": "2026-10-11",
-      "currentLabel": "AI Candidate",
-      "name": "Jieba-PHP",
-      "previousLabel": "Needs Review",
-      "reason": "Moved from Needs Review to AI Candidate after trace evidence passed the public bar.",
-      "toolId": "cmnwkujew04ha1p4ts1iz0km7",
-      "type": "label changed",
-      "url": "https://github.com/fukuball/jieba-php"
-    },
-    {
-      "changedAt": "2026-10-11",
-      "currentLabel": "AI Candidate",
-      "name": "Oryx 2",
-      "previousLabel": "Needs Review",
-      "reason": "Moved from Needs Review to AI Candidate after trace evidence passed the public bar.",
-      "toolId": "cmnwku57304ax1p4tvxf3kv2p",
-      "type": "label changed",
-      "url": "https://github.com/oryxproject/oryx"
-    },
-    {
-      "changedAt": "2026-10-11",
-      "currentLabel": "AI Candidate",
-      "name": "Retext",
-      "previousLabel": "Needs Review",
-      "reason": "Moved from Needs Review to AI Candidate after trace evidence passed the public bar.",
-      "toolId": "cmnwku74z04bt1p4tzcxrm5zh",
-      "type": "label changed",
-      "url": "https://github.com/retextjs/retext"
-    },
-    {
-      "changedAt": "2026-10-11",
-      "currentLabel": "Needs Review",
-      "name": "cadvisor",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "136d7057-572b-440e-9d5a-f913bd8bfd4a",
-      "type": "label changed",
-      "url": "https://github.com/google/cadvisor"
-    },
-    {
-      "changedAt": "2026-10-11",
-      "currentLabel": "Needs Review",
-      "name": "CircleCI",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "6c3bafee-303a-496b-a5f6-15d1536973cc",
-      "type": "label changed",
-      "url": "https://circleci.com"
-    },
-    {
-      "changedAt": "2026-10-11",
-      "currentLabel": "Needs Review",
-      "name": "Concourse",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "d53a67a4-f204-4545-9082-988e74dda08d",
-      "type": "label changed",
-      "url": "https://concourse-ci.org"
-    },
-    {
-      "changedAt": "2026-10-11",
-      "currentLabel": "Needs Review",
-      "name": "Docker.DotNet",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "69365135-3319-474b-b83d-bb065e87c0ed",
-      "type": "label changed",
-      "url": "https://github.com/microsoft/docker.dotnet"
-    },
-    {
-      "changedAt": "2026-10-11",
-      "currentLabel": "Needs Review",
-      "name": "HertzBeat",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwm5qu704nhvn4d8d6vyisj",
-      "type": "label changed",
-      "url": "https://github.com/dromara/hertzbeat"
-    },
-    {
-      "changedAt": "2026-10-11",
-      "currentLabel": "Needs Review",
-      "name": "Lynis",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "6f0eee5b-4226-43ce-b2ad-69d61626d70b",
-      "type": "label changed",
-      "url": "https://cisofy.com/lynis"
-    },
-    {
-      "changedAt": "2026-10-11",
-      "currentLabel": "Needs Review",
-      "name": "Prometheus",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "383f2b8f-6c5d-4a55-8ee2-16788cfbc57f",
-      "type": "label changed",
-      "url": "https://prometheus.io"
-    },
-    {
-      "changedAt": "2026-10-11",
-      "currentLabel": "Needs Review",
-      "name": "Semaphore CI",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwmadrc06phvn4dj1tnwpn9",
-      "type": "label changed",
-      "url": "https://semaphore.io"
-    },
-    {
-      "changedAt": "2026-10-11",
-      "currentLabel": "Needs Review",
-      "name": "Træfɪk",
-      "previousLabel": "AI Candidate",
-      "reason": "Moved from AI Candidate to Needs Review after stricter trace-quality checks.",
-      "toolId": "cmnwktd7c03yb1p4t1zrvryht",
-      "type": "label changed",
-      "url": "https://github.com/containous/traefik"
+      "changedAt": "2026-10-12",
+      "name": "Public recommendation set",
+      "reason": "No material public change detected.",
+      "toolId": "snapshot",
+      "type": "unchanged",
+      "url": "data/latest.json"
     }
   ],
-  "commitSha": "009de471b492",
-  "generatedAt": "2026-10-11T10:00:12.232Z",
+  "commitSha": "fcfb7c470745",
+  "generatedAt": "2026-10-12T10:00:10.539Z",
   "recommendations": [
     {
       "caveat": "Best fit for teams with a matching ML or data workflow.",
@@ -19704,7 +19522,7 @@
     "sources": 20
   },
   "validation": {
-    "checkedAt": "2026-10-11T10:00:12.232Z",
+    "checkedAt": "2026-10-12T10:00:10.539Z",
     "status": "pass",
     "warnings": []
   }
