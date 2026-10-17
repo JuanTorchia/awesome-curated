@@ -2,7 +2,7 @@
 
 <p><sub>← [Voltar ao main](../README.pt-BR.md)</sub></p>
 
-**9 Human-reviewed · 0 Popular standards · 83 AI candidates · 0 Needs review**
+**7 Human-reviewed · 0 Popular standards · 71 AI candidates · 0 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -110,34 +110,6 @@ Chroma is an open-source embedding database.
 
 ---
 
-### 👤 [Context Engineering Kit](https://github.com/neolabhq/context-engineering-kit)
-
-![](https://img.shields.io/github/stars/neolabhq/context-engineering-kit?style=flat-square&label=⭐) · Found in 1 active source: hesreallyhim/awesome-claude-code
-
-**Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
-
-by Vlad Goncharov Hand-crafted collection of advanced context engineering techniques and patterns with minimal token footprint focused on improving agent result quality.
-
-**Why this is here:** by Vlad Goncharov Hand-crafted collection of advanced context engineering techniques and patterns with minimal token footprint focused on...
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#context-engineering-kit-neolabhq-context-engineering-kit) · [data/latest.json](../data/latest.json)
-
----
-
-### 👤 [Superpowers](https://github.com/obra/superpowers)
-
-![](https://img.shields.io/github/stars/obra/superpowers?style=flat-square&label=⭐) · Found in 1 active source: hesreallyhim/awesome-claude-code
-
-**Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
-
-by Jesse Vincent A strong bundle of core competencies for software engineering, with good coverage of a large portion of the SDLC from planning, reviewing, testing, debugging... Well written, well organized, and...
-
-**Why this is here:** by Jesse Vincent A strong bundle of core competencies for software engineering, with good coverage of a large portion of the SDLC from planning,...
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#superpowers-obra-superpowers) · [data/latest.json](../data/latest.json)
-
----
-
 
 ---
 
@@ -173,20 +145,6 @@ General purpose gradient boosting on decision trees library with categorical fea
 
 ---
 
-### [Apache Spark](https://github.com/apache/spark)
-
-![](https://img.shields.io/github/stars/apache/spark?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Micro-batch processing for streams using the apache spark framework as a backend supporting stateful exactly-once semantics.
-
-**Why this is here:** Micro-batch processing for streams using the apache spark framework as a backend supporting stateful exactly-once semantics.
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#apache-spark-apache-spark) · [data/latest.json](../data/latest.json)
-
----
-
 ### [Feature Engine](https://github.com/feature-engine/feature_engine)
 
 ![](https://img.shields.io/github/stars/feature-engine/feature_engine?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
@@ -212,20 +170,6 @@ Fast scalable Machine Learning platform for smarter applications: Deep Learning,
 **Why this is here:** AutoML robusto que compite con modelos manuales
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#h2o-3-h2oai-h2o-3) · [data/latest.json](../data/latest.json)
-
----
-
-### [RLlib](https://github.com/ray-project/ray)
-
-![](https://img.shields.io/github/stars/ray-project/ray?style=flat-square&label=⭐) · Found in 1 active source: josephmisiti/awesome-machine-learning
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-RLlib is an industry level, highly scalable RL library for tf and torch, based on Ray. It's used by companies like Amazon and Microsoft to solve real-world decision making problems at scale.
-
-**Why this is here:** RL framework distributed basado en Ray. Para empresas que necesitan scale: Amazon/Microsoft lo usan. Resuelve: entrenar agentes complejos en...
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#rllib-ray-project-ray) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -271,31 +215,17 @@ A fork of OpenAI Baselines, implementations of reinforcement learning algorithms
 
 ---
 
-### [Vercel AI](https://github.com/vercel/ai)
+### [Apache Spark](https://github.com/apache/spark)
 
-![](https://img.shields.io/github/stars/vercel/ai?style=flat-square&label=⭐) · Found in 2 active sources: unicodeveloper/awesome-nextjs, EthicalML/awesome-production-machine-learning
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Vercel AI is a TypeScript toolkit designed to help you build AI-powered applications using popular frameworks like Next.js, React, Svelte, Vue and runtimes like Node.js.
-
-**Why this is here:** Vercel AI is a TypeScript toolkit designed to help you build AI-powered applications using popular frameworks like Next.js, React, Svelte, Vue and...
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#vercel-ai-vercel-ai) · [data/latest.json](../data/latest.json)
-
----
-
-### [Agentify](https://github.com/koriyoshi2041/agentify)
-
-![](https://img.shields.io/github/stars/koriyoshi2041/agentify?style=flat-square&label=⭐) · Found in 1 active source: agarrharr/awesome-cli-apps
+![](https://img.shields.io/github/stars/apache/spark?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-CLI tool that transforms any OpenAPI spec into 9 agent interface formats (MCP server, AGENTS.md, CLAUDE.md, .cursorrules, Skills, llms.txt, GEMINI.md, A2A Card, CLI) with a single command. Tiered generation...
+Micro-batch processing for streams using the apache spark framework as a backend supporting stateful exactly-once semantics.
 
-**Why this is here:** Estrategias tiered para APIs chicas y grandes
+**Why this is here:** Micro-batch processing for streams using the apache spark framework as a backend supporting stateful exactly-once semantics.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#agentify-koriyoshi2041-agentify) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#apache-spark-apache-spark) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -397,35 +327,77 @@ Fast, flexible, multi-threaded ensembles of decision trees for machine learning 
 
 ---
 
-### [CoreNLP](https://nlp.stanford.edu/software/corenlp.shtml)
+### [dagger/container-use](https://github.com/dagger/container-use)
 
-Found in 1 active source: josephmisiti/awesome-machine-learning
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Stanford CoreNLP provides a set of natural language analysis tools which can take raw English language text input and give the base forms of words.
-
-**Why this is here:** Stanford CoreNLP provides a set of natural language analysis tools which can take raw English language text input and give the base forms of words.
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#corenlp-nlp) · [data/latest.json](../data/latest.json)
-
----
-
-### [Cursor](https://cursor.com)
-
-Found in 1 active source: jaywcjlove/awesome-mac
+![](https://img.shields.io/github/stars/dagger/container-use?style=flat-square&label=⭐) · Found in 2 active sources: hesreallyhim/awesome-claude-code, punkpeye/awesome-mcp-servers
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Uses OpenAI.
+🏎️ 🏠 🐧 🍎 🪟 Containerized environments for coding agents. Multiple agents can work independently, isolated in fresh containers and git branches. No conflicts, many experiments. Full execution history, terminal...
 
-**Why this is here:** An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Uses OpenAI.
+**Why this is here:** Aislamiento real sin conflictos between agents
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#cursor-cursor) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#dagger-container-use-dagger-container-use) · [data/latest.json](../data/latest.json)
 
 ---
 
-_Showing 20 of 83. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+### [DEAP](https://github.com/deap/deap)
+
+![](https://img.shields.io/github/stars/deap/deap?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+A novel evolutionary computation framework for rapid prototyping and testing of ideas. It seeks to make algorithms explicit and data structures transparent. It works in perfect harmony with parallelisation mechanisms...
+
+**Why this is here:** A novel evolutionary computation framework for rapid prototyping and testing of ideas. It seeks to make algorithms explicit and data structures...
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#deap-deap-deap) · [data/latest.json](../data/latest.json)
+
+---
+
+### [DeepDetect](https://github.com/jolibrain/deepdetect)
+
+![](https://img.shields.io/github/stars/jolibrain/deepdetect?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Machine Learning production server for TensorFlow, XGBoost and Cafe models written in C++ and maintained by Jolibrain.
+
+**Why this is here:** Multi-framework support (TF, XGBoost, Caffe)
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#deepdetect-jolibrain-deepdetect) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Detectron2](https://github.com/facebookresearch/detectron2)
+
+![](https://img.shields.io/github/stars/facebookresearch/detectron2?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Detectron2 is Facebook AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms.
+
+**Why this is here:** SOTA accuracy en coco/benchmarks
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#detectron2-facebookresearch-detectron2) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Determined](https://github.com/determined-ai/determined)
+
+![](https://img.shields.io/github/stars/determined-ai/determined?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Deep learning training platform with integrated support for distributed training, hyperparameter tuning, and model management (supports Tensorflow and Pytorch).
+
+**Why this is here:** Model registry y experiment tracking built-in
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#determined-determined-ai-determined) · [data/latest.json](../data/latest.json)
+
+---
+
+_Showing 20 of 71. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

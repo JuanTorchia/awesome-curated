@@ -2,55 +2,9 @@
 
 <p><sub>← [Back to main](../README.md)</sub></p>
 
-**3 Human-reviewed · 0 Popular standards · 62 AI candidates · 3 Needs review**
+**0 Human-reviewed · 0 Popular standards · 45 AI candidates · 0 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
-
----
-
-## Human-reviewed picks
-
-Tools with a human review label and visible caveats.
-
-### 👤 [recharts](https://github.com/recharts/recharts)
-
-![](https://img.shields.io/github/stars/recharts/recharts?style=flat-square&label=⭐) · Found in 3 active sources
-
-**Review label:** Human Pick · **Caveat:** Worth a focused trial before adopting broadly.
-
-Redefined chart library built with React and D3.
-
-**Why this is here:** Redefined chart library built with React and D3.
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#recharts-recharts-recharts) · [data/latest.json](../data/latest.json)
-
----
-
-### 👤 [OpenStreetMap](https://openstreetmap.org)
-
-Found in 2 active sources
-
-**Review label:** Human Pick · **Caveat:** Promising signal, but source consensus is still narrow.
-
-Collaborative project to create a free editable map of the world. (, Clients) GPL-2.0 Ruby
-
-**Why this is here:** Collaborative project to create a free editable map of the world. (, Clients) GPL-2.0 Ruby
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#openstreetmap-openstreetmap) · [data/latest.json](../data/latest.json)
-
----
-
-### 👤 [pouchdb](https://github.com/pouchdb/pouchdb)
-
-![](https://img.shields.io/github/stars/pouchdb/pouchdb?style=flat-square&label=⭐) · Found in 1 active source: MunGell/awesome-for-beginners
-
-**Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
-
-Javascript db inspired by Apache CouchDB to run well within the browser.
-
-**Why this is here:** Javascript db inspired by Apache CouchDB to run well within the browser.
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#pouchdb-pouchdb-pouchdb) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -117,34 +71,6 @@ Streamlit lets you create apps for your machine learning projects with deceptive
 
 ---
 
-### [Aleph](https://aleph.occrp.org)
-
-Found in 1 active source: jivoi/awesome-osint
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Tool for indexing large amounts of both documents (PDF, Word, HTML) and structured (CSV, XLS, SQL) data for easy browsing and search. It is built with investigative reporting as a primary use case. (Demo, ) MIT...
-
-**Why this is here:** Maneja mixed data types (documentos + estructurado) sin fricciones
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#aleph-aleph) · [data/latest.json](../data/latest.json)
-
----
-
-### [Another Redis Desktop Manager](https://github.com/qishibo/anotherredisdesktopmanager)
-
-![](https://img.shields.io/github/stars/qishibo/anotherredisdesktopmanager?style=flat-square&label=⭐) · Found in 1 active source: jaywcjlove/awesome-mac
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys.
-
-**Why this is here:** A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading...
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#another-redis-desktop-manager-qishibo-anotherredisdesktopmanager) · [data/latest.json](../data/latest.json)
-
----
-
 ### [Apache Airflow](https://github.com/apache/airflow)
 
 ![](https://img.shields.io/github/stars/apache/airflow?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
@@ -156,34 +82,6 @@ Data Pipeline framework built in Python, including scheduler, DAG definition and
 **Why this is here:** Data Pipeline framework built in Python, including scheduler, DAG definition and a UI for visualisation.
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#apache-airflow-apache-airflow) · [data/latest.json](../data/latest.json)
-
----
-
-### [Apache ECharts](https://github.com/apache/echarts)
-
-![](https://img.shields.io/github/stars/apache/echarts?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Apache ECharts is a powerful, interactive charting and data visualization library for browser.
-
-**Why this is here:** Rendering performante incluso con datasets grandes
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#apache-echarts-apache-echarts) · [data/latest.json](../data/latest.json)
-
----
-
-### [Apache Ignite](https://github.com/apache/ignite)
-
-![](https://img.shields.io/github/stars/apache/ignite?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-A memory-centric distributed database, caching, and processing platform for transactional, analytical, and streaming workloads delivering in-memory speeds at petabyte scale Demo.
-
-**Why this is here:** SQL + compute colocado reducen network roundtrips
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#apache-ignite-apache-ignite) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -212,20 +110,6 @@ customizable library based on D3.js for easy chart drawing.
 **Why this is here:** Comunidad activa, muchos ejemplos
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#c3-js-c3js) · [data/latest.json](../data/latest.json)
-
----
-
-### [Chart.js](https://chartjs.org)
-
-Found in 1 active source: jivoi/awesome-osint
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-a javascript library that allows you to create charts easly
-
-**Why this is here:** Rendimiento decente en browsers
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#chart-js-chartjs) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -341,56 +225,77 @@ library for working with tabular data in Julia.
 
 ---
 
-_Showing 20 of 62. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+### [Deepnote](https://github.com/deepnote/deepnote)
 
+![](https://img.shields.io/github/stars/deepnote/deepnote?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
----
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-## Needs review
+Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for...
 
-Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
+**Why this is here:** Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL...
 
-### [ActiveMQ](https://activemq.apache.org)
-
-Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Java message broker. Apache-2.0 Java
-
-**Why this is here:** Clustering y persistencia robusto
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#activemq-activemq) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#deepnote-deepnote-deepnote) · [data/latest.json](../data/latest.json)
 
 ---
 
-### [Apache Solr](https://lucene.apache.org/solr)
+### [Dolt](https://github.com/dolthub/dolt)
 
-Found in 2 active sources
+![](https://img.shields.io/github/stars/dolthub/dolt?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, avelino/awesome-go
 
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-Enterprise search platform featuring full-text search, hit highlighting, faceted search, real-time indexing, dynamic clustering, and rich document (e.g., Word, PDF) handling. Apache-2.0 Java/Docker/K8S
+Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.
 
-**Why this is here:** Texto rico (PDF, Word) indexado nativamente
+**Why this is here:** Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#apache-solr-lucene) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#dolt-dolthub-dolt) · [data/latest.json](../data/latest.json)
+
+---
+
+### [edgartools](https://github.com/dgunning/edgartools)
+
+![](https://img.shields.io/github/stars/dgunning/edgartools?style=flat-square&label=⭐) · Found in 2 active sources: wilsonfreitas/awesome-quant, vinta/awesome-python
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Python AI-native SEC EDGAR library with XBRL financials, clean text extraction, 17+ typed forms, and pandas DataFrames.
+
+**Why this is here:** Python AI-native SEC EDGAR library with XBRL financials, clean text extraction, 17+ typed forms, and pandas DataFrames.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#edgartools-dgunning-edgartools) · [data/latest.json](../data/latest.json)
 
 ---
 
-### [Druid](https://druid.apache.org)
+### [Gephi](https://gephi.org)
 
-Found in 2 active sources
+Found in 2 active sources: jivoi/awesome-osint, academic/awesome-datascience
 
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-Distributed, column-oriented, real-time analytics data store. Apache-2.0 Java/Docker
+is an open-source graph and network visualization software.
 
-**Why this is here:** Sql-like query layer, operacional probado
+**Why this is here:** is an open-source graph and network visualization software.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#druid-druid) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#gephi-gephi) · [data/latest.json](../data/latest.json)
 
 ---
+
+### [ggplot2](https://ggplot2.tidyverse.org)
+
+Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+A data visualization package based on the grammar of graphics.
+
+**Why this is here:** Sintaxis declarativa intuitiva, output publication-ready
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#ggplot2-ggplot2) · [data/latest.json](../data/latest.json)
+
+---
+
+_Showing 20 of 45. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

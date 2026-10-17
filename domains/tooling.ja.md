@@ -2,7 +2,7 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**10 Human-reviewed · 1 Popular standards · 119 AI candidates · 5 Needs review**
+**5 Human-reviewed · 1 Popular standards · 70 AI candidates · 0 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -23,48 +23,6 @@ Cross-platform application to monitor your network traffic with ease
 **Why this is here:** Provides a low-friction network traffic monitor for debugging and security checks.
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#sniffnet-gyulyvgc-sniffnet) · [data/latest.json](../data/latest.json)
-
----
-
-### 👤 [Kaitai Struct](https://kaitai.io)
-
-Found in 1 active source: fffaraz/awesome-cpp
-
-**Review label:** Human Pick · **Caveat:** Promising signal, but source consensus is still narrow.
-
-File formats and network protocols dissection language and web IDE, generating parsers in C++, C#, Java, JavaScript, Perl, PHP, Python, Ruby.
-
-**Why this is here:** Curado tras research: herramienta destacada, candidata a la serie.
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#kaitai-struct-kaitai) · [data/latest.json](../data/latest.json)
-
----
-
-### 👤 [Cake](https://github.com/cake-build/cake)
-
-![](https://img.shields.io/github/stars/cake-build/cake?style=flat-square&label=⭐) · Found in 1 active source: MunGell/awesome-for-beginners
-
-**Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
-
-Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and folders, running unit tests, compressing files and building NuGet...
-
-**Why this is here:** Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and...
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#cake-cake-build-cake) · [data/latest.json](../data/latest.json)
-
----
-
-### 👤 [intelli-shell](https://github.com/lasantosr/intelli-shell)
-
-![](https://img.shields.io/github/stars/lasantosr/intelli-shell?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
-
-Bookmark commands with placeholders and search or autocomplete at any time
-
-**Why this is here:** Worth trying: focused command bookmark/search workflow for terminal-heavy developers; useful without pretending to be a broad platform.
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#intelli-shell-lasantosr-intelli-shell) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -110,45 +68,17 @@ A new way to see and navigate directory trees (get an overview of a directory, e
 
 ---
 
-### 👤 [Cppcheck](https://cppcheck.sourceforge.net)
+### 👤 [intelli-shell](https://github.com/lasantosr/intelli-shell)
 
-Found in 1 active source: fffaraz/awesome-cpp
-
-**Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
-
-A tool for static C/C++ code analysis. source
-
-**Why this is here:** Curado tras research: solido pero tangencial al foco backend/Java.
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#cppcheck-cppcheck) · [data/latest.json](../data/latest.json)
-
----
-
-### 👤 [IterTools TS](https://github.com/smoren/itertools-ts)
-
-![](https://img.shields.io/github/stars/smoren/itertools-ts?style=flat-square&label=⭐) · Found in 1 active source: MunGell/awesome-for-beginners
+![](https://img.shields.io/github/stars/lasantosr/intelli-shell?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
 
 **Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
 
-Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
+Bookmark commands with placeholders and search or autocomplete at any time
 
-**Why this is here:** Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
+**Why this is here:** Worth trying: focused command bookmark/search workflow for terminal-heavy developers; useful without pretending to be a broad platform.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#itertools-ts-smoren-itertools-ts) · [data/latest.json](../data/latest.json)
-
----
-
-### 👤 [Spack](https://spack.io)
-
-Found in 1 active source: fffaraz/awesome-cpp
-
-**Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
-
-A flexible package manager that supports multiple versions, configurations, platforms, and compilers. MIT/Apache-2.0 Python
-
-**Why this is here:** Curado tras research: solido pero tangencial al foco backend/Java.
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#spack-spack) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#intelli-shell-lasantosr-intelli-shell) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -194,34 +124,6 @@ Bokeh is an interactive visualization library for Python that enables beautiful 
 
 ---
 
-### [Obsidian](https://obsidian.md)
-
-Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
-
-**Why this is here:** Plugin ecosystem robusto para extender funcionalidad
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#obsidian-obsidian) · [data/latest.json](../data/latest.json)
-
----
-
-### [Bitwarden](https://bitwarden.com)
-
-Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Open source password management tool for Mac OS, iOS and browsers. (https://github.com/bitwarden)
-
-**Why this is here:** Self-hosting option + cloud oficial
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#bitwarden-bitwarden) · [data/latest.json](../data/latest.json)
-
----
-
 ### [Colossal-AI](https://github.com/hpcaitech/colossalai)
 
 ![](https://img.shields.io/github/stars/hpcaitech/colossalai?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, MunGell/awesome-for-beginners
@@ -250,20 +152,6 @@ Deepchecks is a holistic open-source solution for all of your AI & ML validation
 
 ---
 
-### [DVC](https://github.com/iterative/dvc)
-
-![](https://img.shields.io/github/stars/iterative/dvc?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Data Science Version Control is an open-source version control system for machine learning projects with pipelines support. It makes ML projects reproducible and shareable.
-
-**Why this is here:** Pipelines reproducibles con dag tracking
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#dvc-iterative-dvc) · [data/latest.json](../data/latest.json)
-
----
-
 ### [Jupyter Notebooks](https://github.com/jupyter/notebook)
 
 ![](https://img.shields.io/github/stars/jupyter/notebook?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python, MunGell/awesome-for-beginners
@@ -275,20 +163,6 @@ Web interface python sandbox environments for reproducible development
 **Why this is here:** Web interface python sandbox environments for reproducible development
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#jupyter-notebooks-jupyter-notebook) · [data/latest.json](../data/latest.json)
-
----
-
-### [Kubernetes](https://github.com/kubernetes/kubernetes)
-
-![](https://img.shields.io/github/stars/kubernetes/kubernetes?style=flat-square&label=⭐) · Found in 2 active sources: avelino/awesome-go, MunGell/awesome-for-beginners
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Production-Grade Container Scheduling and Management System
-
-**Why this is here:** Production-Grade Container Scheduling and Management System
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#kubernetes-kubernetes-kubernetes) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -306,62 +180,6 @@ Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, G
 
 ---
 
-### [lstags](https://github.com/ivanilves/lstags)
-
-![](https://img.shields.io/github/stars/ivanilves/lstags?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Tool and API to sync Docker images across different registries.
-
-**Why this is here:** Simple, hace una cosa bien
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#lstags-ivanilves-lstags) · [data/latest.json](../data/latest.json)
-
----
-
-### [mitmproxy](https://mitmproxy.org)
-
-Found in 1 active source: jaywcjlove/awesome-mac
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems. MIT Python
-
-**Why this is here:** A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems. MIT Python
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#mitmproxy-mitmproxy) · [data/latest.json](../data/latest.json)
-
----
-
-### [Moby](https://github.com/moby/moby)
-
-![](https://img.shields.io/github/stars/moby/moby?style=flat-square&label=⭐) · Found in 2 active sources: avelino/awesome-go, MunGell/awesome-for-beginners
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Collaborative project for the container ecosystem to assemble container-based systems.
-
-**Why this is here:** Collaborative project for the container ecosystem to assemble container-based systems.
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#moby-moby-moby) · [data/latest.json](../data/latest.json)
-
----
-
-### [OctoLinker](https://github.com/octolinker/browser-extension)
-
-![](https://img.shields.io/github/stars/octolinker/browser-extension?style=flat-square&label=⭐) · Found in 1 active source: avelino/awesome-go
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Navigate through projects.json files efficiently with the OctoLinker browser extension for GitHub.
-
-**Why this is here:** Soporta monorepos y path mappings
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#octolinker-octolinker-browser-extension) · [data/latest.json](../data/latest.json)
-
----
-
 ### [PyMC](https://github.com/pymc-devs/pymc)
 
 ![](https://img.shields.io/github/stars/pymc-devs/pymc?style=flat-square&label=⭐) · Found in 3 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python, MunGell/awesome-for-beginners
@@ -373,34 +191,6 @@ A Python library for Bayesian statistical modeling and probabilistic machine lea
 **Why this is here:** A Python library for Bayesian statistical modeling and probabilistic machine learning. Beginner-friendly with 'good first issue' labels.
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#pymc-pymc-devs-pymc) · [data/latest.json](../data/latest.json)
-
----
-
-### [Readest](https://github.com/readest/readest)
-
-![](https://img.shields.io/github/stars/readest/readest?style=flat-square&label=⭐) · Found in 2 active sources: jaywcjlove/awesome-mac, MunGell/awesome-for-beginners
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface.
-
-**Why this is here:** Binaries livianos, sin Electron overhead
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#readest-readest-readest) · [data/latest.json](../data/latest.json)
-
----
-
-### [Rider](https://jetbrains.com/rider)
-
-Found in 1 active source: jaywcjlove/awesome-mac
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-A cross-platform C# IDE based on the IntelliJ platform and ReSharper
-
-**Why this is here:** Debugging y profiling integrados sin plugins
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#rider-jetbrains-9) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -432,112 +222,175 @@ Huggingface's library of state-of-the-art pretrained models for Natural Language
 
 ---
 
-### [Wave](https://github.com/wavetermdev/waveterm)
+### [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
-![](https://img.shields.io/github/stars/wavetermdev/waveterm?style=flat-square&label=⭐) · Found in 1 active source: jaywcjlove/awesome-mac
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Open-source terminal with built-in file previews, web browsing, and AI tools. (https://github.com/wavetermdev/waveterm)
-
-**Why this is here:** UI moderna y responsive comparado con tmux/screen
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#wave-wavetermdev-waveterm) · [data/latest.json](../data/latest.json)
-
----
-
-### [Wireshark](https://wireshark.org)
-
-Found in 1 active source: jaywcjlove/awesome-mac
+![](https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=flat-square&label=⭐) · Found in 3 active sources: agarrharr/awesome-cli-apps, jivoi/awesome-osint, vinta/awesome-python
 
 **Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-The world’s foremost and widely-used network protocol analyzer. (https://github.com/wireshark/wireshark)
+Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not...
 
-**Why this is here:** Parser de protocols exhaustivo (2000+)
+**Why this is here:** Coverage absurdo de plataformas (YouTube, Twitch, TikTok, etc)
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#wireshark-wireshark) · [data/latest.json](../data/latest.json)
-
----
-
-_Showing 20 of 119. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
-
+**Evidence record:** [TOOLS.md](../TOOLS.md#yt-dlp-yt-dlp-yt-dlp) · [data/latest.json](../data/latest.json)
 
 ---
 
-## Needs review
+### [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
 
-Entries with weak or inconsistent trace evidence. They stay visible for auditability, not endorsement.
+![](https://img.shields.io/github/stars/ajeetdsouza/zoxide?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
 
-### [Apache Maven](https://maven.apache.org)
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-Found in 2 active sources
+A fast alternative to cd that learns your habits
 
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+**Why this is here:** A fast alternative to cd that learns your habits
 
-Build automation tool mainly for Java. A software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from...
-
-**Why this is here:** Dependency management centralizado y reproducible
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#apache-maven-maven) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#ajeetdsouza-zoxide-ajeetdsouza-zoxide) · [data/latest.json](../data/latest.json)
 
 ---
 
-### [CryptoSwift](https://github.com/krzyzanowskim/cryptoswift)
+### [ashvardanian/stringzilla](https://github.com/ashvardanian/stringzilla)
 
-![](https://img.shields.io/github/stars/krzyzanowskim/cryptoswift?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/ashvardanian/stringzilla?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp
 
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-Crypto related functions and helpers for Swift implemented in Swift programming language.
+SIMD-accelerated string search, sort, edit distances, alignments, and generators for x86 AVX2 & AVX-512, and Arm NEON
 
-**Why this is here:** Pure Swift, portable entre plataformas
+**Why this is here:** String search/sort SIMD-acelerado (AVX2/AVX-512/NEON). Performance muy buena para bulk string ops, pero nicho especializado.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#cryptoswift-krzyzanowskim-cryptoswift) · [data/latest.json](../data/latest.json)
-
----
-
-### [Gradle](https://gradle.org)
-
-Found in 2 active sources
-
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
-
-Incremental builds programmed via Groovy instead of declaring XML. Works well with Maven's dependency management.
-
-**Why this is here:** Incremental builds programmed via Groovy instead of declaring XML. Works well with Maven's dependency management.
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#gradle-gradle) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#ashvardanian-stringzilla-ashvardanian-stringzilla) · [data/latest.json](../data/latest.json)
 
 ---
 
-### [OpenAPI Generator](https://github.com/openapitools/openapi-generator)
+### [astral-sh/ruff](https://github.com/astral-sh/ruff)
 
-![](https://img.shields.io/github/stars/openapitools/openapi-generator?style=flat-square&label=⭐) · Found in 2 active sources
+![](https://img.shields.io/github/stars/astral-sh/ruff?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, vinta/awesome-python
 
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-OpenAPI Generator allows generation of API client libraries (e.g. C#, TypeScript, etc), server stubs (ASP.NET Core, NancyFx, etc), documentation and configuration automatically given an OpenAPI Spec (v2, v3).
+An extremely fast Python linter and code formatter
 
-**Why this is here:** Cubre 50+ lenguajes y frameworks en un solo generador
+**Why this is here:** An extremely fast Python linter and code formatter
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#openapi-generator-openapitools-openapi-generator) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#astral-sh-ruff-astral-sh-ruff) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Bartib](https://github.com/nikolassv/bartib)
+
+![](https://img.shields.io/github/stars/nikolassv/bartib?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+] A simple timetracker for the command line
+
+**Why this is here:** ] A simple timetracker for the command line
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#bartib-nikolassv-bartib) · [data/latest.json](../data/latest.json)
 
 ---
 
-### [Swift-Sodium](https://github.com/jedisct1/swift-sodium)
+### [Bitwarden](https://bitwarden.com)
 
-![](https://img.shields.io/github/stars/jedisct1/swift-sodium?style=flat-square&label=⭐) · Found in 2 active sources
+Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac
 
-**Review label:** Needs Review · **Caveat:** Candidate still needs human review before endorsement.
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
 
-Swift interface to the Sodium library for common crypto operations for iOS and macOS.
+Open source password management tool for Mac OS, iOS and browsers. (https://github.com/bitwarden)
 
-**Why this is here:** Acceso a libsodium battle-tested; AEAD + key derivation
+**Why this is here:** Self-hosting option + cloud oficial
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#swift-sodium-jedisct1-swift-sodium) · [data/latest.json](../data/latest.json)
+**Evidence record:** [TOOLS.md](../TOOLS.md#bitwarden-bitwarden) · [data/latest.json](../data/latest.json)
 
 ---
+
+### [boilr](https://github.com/tmrts/boilr)
+
+![](https://img.shields.io/github/stars/tmrts/boilr?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Blazingly fast CLI tool for creating projects from boilerplate templates.
+
+**Why this is here:** Blazingly fast CLI tool for creating projects from boilerplate templates.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#boilr-tmrts-boilr) · [data/latest.json](../data/latest.json)
+
+---
+
+### [CCV](https://github.com/liuliu/ccv)
+
+![](https://img.shields.io/github/stars/liuliu/ccv?style=flat-square&label=⭐) · Found in 2 active sources: fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library. [BSD]
+
+**Why this is here:** C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library. [BSD]
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#ccv-liuliu-ccv) · [data/latest.json](../data/latest.json)
+
+---
+
+### [CLion](https://jetbrains.com/clion)
+
+Found in 2 active sources: fffaraz/awesome-cpp, jaywcjlove/awesome-mac
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Powerful C and C++ IDE. (Free for Students)
+
+**Why this is here:** Debugger integrado profesional
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#clion-jetbrains-3) · [data/latest.json](../data/latest.json)
+
+---
+
+### [config-file-validator](https://github.com/boeing/config-file-validator)
+
+![](https://img.shields.io/github/stars/boeing/config-file-validator?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Cross Platform tool to validate configuration files.
+
+**Why this is here:** Mantenido por empresa seria (Boeing)
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#config-file-validator-boeing-config-file-validator) · [data/latest.json](../data/latest.json)
+
+---
+
+### [cookiecutter](https://github.com/cookiecutter/cookiecutter)
+
+![](https://img.shields.io/github/stars/cookiecutter/cookiecutter?style=flat-square&label=⭐) · Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
+
+**Why this is here:** Extremadamente simple y flexible
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#cookiecutter-cookiecutter-cookiecutter) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Dash](https://kapeli.com/dash)
+
+Found in 2 active sources: vuejs/awesome-vue, jaywcjlove/awesome-mac
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Offline API documentation browser for macOS with instant search access to Vue.js docs and 200+ other frameworks.
+
+**Why this is here:** Offline API documentation browser for macOS with instant search access to Vue.js docs and 200+ other frameworks.
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#dash-kapeli) · [data/latest.json](../data/latest.json)
+
+---
+
+_Showing 20 of 70. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

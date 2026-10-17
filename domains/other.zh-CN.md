@@ -2,41 +2,9 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**2 Human-reviewed · 0 Popular standards · 24 AI candidates · 0 Needs review**
+**0 Human-reviewed · 0 Popular standards · 11 AI candidates · 0 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
-
----
-
-## Human-reviewed picks
-
-Tools with a human review label and visible caveats.
-
-### 👤 [RunJS](https://runjs.app)
-
-Found in 1 active source: vuejs/awesome-vue
-
-**Review label:** Worth Trying · **Caveat:** Worth a focused trial before adopting broadly.
-
-JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas or trying out new libraries.
-
-**Why this is here:** Acceso a Node.js real y posibilidad de importar paquetes npm directamente
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#runjs-runjs) · [data/latest.json](../data/latest.json)
-
----
-
-### 👤 [phpList](https://phplist.org)
-
-Found in 2 active sources
-
-**Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
-
-Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. AGPL-3.0 PHP
-
-**Why this is here:** Plugin ecosystem robusto y bien documentado
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#phplist-phplist) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -46,20 +14,6 @@ Newsletter and email marketing with advanced management of subscribers, bounces,
 ## AI candidates
 
 Automated candidates with enough source signal; these are not human endorsements yet.
-
-### [AFFiNE Community Edition](https://affine.pro)
-
-Found in 1 active source: jaywcjlove/awesome-mac
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, customizable and ready to use (alternative to Notion and Miro). (Demo, ) MIT/AGPL-3.0 Docker
-
-**Why this is here:** Next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, customizable and ready to use (alternative to...
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#affine-community-edition-affine) · [data/latest.json](../data/latest.json)
-
----
 
 ### [AI Job Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker)
 
@@ -103,62 +57,6 @@ Easily and securely send files or folders from one computer to another.
 
 ---
 
-### [Deluge](https://deluge-torrent.org)
-
-Found in 1 active source: jaywcjlove/awesome-mac
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Deluge is a lightweight, Free Software, cross-platform BitTorrent client. (https://dev.deluge-torrent.org/wiki/Development)
-
-**Why this is here:** Web UI funcional y remoto
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#deluge-deluge-torrent) · [data/latest.json](../data/latest.json)
-
----
-
-### [Gokapi](https://github.com/forceu/gokapi)
-
-![](https://img.shields.io/github/stars/forceu/gokapi?style=flat-square&label=⭐) · Found in 1 active source: avelino/awesome-go
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files. GPL-3.0 Go/Docker
-
-**Why this is here:** Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the...
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#gokapi-forceu-gokapi) · [data/latest.json](../data/latest.json)
-
----
-
-### [Kodi](https://kodi.tv)
-
-Found in 1 active source: jaywcjlove/awesome-mac
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Multimedia/Entertainment center, formerly known as XBMC. Runs on Android, BSD, Linux, macOS, iOS and Windows. GPL-2.0 C++/deb
-
-**Why this is here:** Comunidad active, skins/addons desarrollados
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#kodi-kodi) · [data/latest.json](../data/latest.json)
-
----
-
-### [Lean](https://github.com/quantconnect/lean)
-
-![](https://img.shields.io/github/stars/quantconnect/lean?style=flat-square&label=⭐) · Found in 1 active source: wilsonfreitas/awesome-quant
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage. https://www.quantconnect.com/lean/
-
-**Why this is here:** Engine enterprise-grade con historial probado
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#lean-quantconnect-lean) · [data/latest.json](../data/latest.json)
-
----
-
 ### [mpv](https://mpv.io)
 
 Found in 2 active sources: agarrharr/awesome-cli-apps, jaywcjlove/awesome-mac
@@ -187,62 +85,6 @@ Python Rust A high-performance algorithmic trading platform and event-driven bac
 
 ---
 
-### [NewsBlur](https://newsblur.com)
-
-Found in 1 active source: jivoi/awesome-osint
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Personal news reader that brings people together to talk about the world. A new sound of an old instrument. MIT Python
-
-**Why this is here:** Personal news reader that brings people together to talk about the world. A new sound of an old instrument. MIT Python
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#newsblur-newsblur) · [data/latest.json](../data/latest.json)
-
----
-
-### [OpenLayers3](https://openlayers.org)
-
-Found in 1 active source: jivoi/awesome-osint
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-A high-performance, feature-packed library for all your mapping needs.
-
-**Why this is here:** Performance en datasets geoespaciales grandes
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#openlayers3-openlayers) · [data/latest.json](../data/latest.json)
-
----
-
-### [Polaris](https://github.com/agersant/polaris)
-
-![](https://img.shields.io/github/stars/agersant/polaris?style=flat-square&label=⭐) · Found in 1 active source: rust-unofficial/awesome-rust
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Music browsing and streaming application optimized for large music collections, ease of use and high performance. MIT Rust/Docker
-
-**Why this is here:** Music browsing and streaming application optimized for large music collections, ease of use and high performance. MIT Rust/Docker
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#polaris-agersant-polaris) · [data/latest.json](../data/latest.json)
-
----
-
-### [qBittorrent](https://qbittorrent.org)
-
-Found in 1 active source: jaywcjlove/awesome-mac
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-A project aims to provide an alternative to µTorrent. (https://github.com/qbittorrent/qBittorrent)
-
-**Why this is here:** Bajo overhead recursos vs clients propietarios
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#qbittorrent-qbittorrent) · [data/latest.json](../data/latest.json)
-
----
-
 ### [QuantLib](https://github.com/lballabio/quantlib)
 
 ![](https://img.shields.io/github/stars/lballabio/quantlib?style=flat-square&label=⭐) · Found in 2 active sources: wilsonfreitas/awesome-quant, fffaraz/awesome-cpp
@@ -254,20 +96,6 @@ The QuantLib project is aimed at providing a comprehensive software framework fo
 **Why this is here:** Comunidad activa en finanzas cuantitativa
 
 **Evidence record:** [TOOLS.md](../TOOLS.md#quantlib-lballabio-quantlib) · [data/latest.json](../data/latest.json)
-
----
-
-### [Redis](https://github.com/redis/redis)
-
-![](https://img.shields.io/github/stars/redis/redis?style=flat-square&label=⭐) · Found in 1 active source: EthicalML/awesome-production-machine-learning
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Redis is an open-source, in-memory data store that supports vector similarity search, making it suitable for AI/ML applications such as semantic search and recommendation systems.
-
-**Why this is here:** Vector search integrado sin plugins externos, maduro y escalable
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#redis-redis-redis) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -285,34 +113,6 @@ News reader for Feedbin, Feedly, Feed Wrangler and so on. (https://apps.apple.co
 
 ---
 
-### [StockSharp](https://github.com/stocksharp/stocksharp)
-
-![](https://img.shields.io/github/stars/stocksharp/stocksharp?style=flat-square&label=⭐) · Found in 1 active source: wilsonfreitas/awesome-quant
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-CSharp Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins, and options).
-
-**Why this is here:** Cobertura multi-asset amplia
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#stocksharp-stocksharp-stocksharp) · [data/latest.json](../data/latest.json)
-
----
-
-### [Super Productivity](https://super-productivity.com)
-
-Found in 1 active source: jaywcjlove/awesome-mac
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Task manager with timeboxing and time tracking. (https://github.com/johannesjo/super-productivity) (https://apps.apple.com/cn/app/super-productivity/id1482572463?platform=mac)
-
-**Why this is here:** Task manager with timeboxing and time tracking. (https://github.com/johannesjo/super-productivity)...
-
-**Evidence record:** [TOOLS.md](../TOOLS.md#super-productivity-super-productivity) · [data/latest.json](../data/latest.json)
-
----
-
 ### [SVGo](https://github.com/ajstarks/svgo)
 
 ![](https://img.shields.io/github/stars/ajstarks/svgo?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, avelino/awesome-go
@@ -327,7 +127,47 @@ The Go Language library for SVG generation.
 
 ---
 
-_Showing 20 of 24. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+### [tldr-pages](https://github.com/tldr-pages/tldr)
+
+![](https://img.shields.io/github/stars/tldr-pages/tldr?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, MunGell/awesome-for-beginners
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Collaborative cheatsheets for console commands.
+
+**Why this is here:** Contenido siempre actualizado por comunidad, formato simple y searcheable
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#tldr-pages-tldr-pages-tldr) · [data/latest.json](../data/latest.json)
+
+---
+
+### [uk-company-number](https://github.com/borschai/uk-company-number)
+
+![](https://img.shields.io/github/stars/borschai/uk-company-number?style=flat-square&label=⭐) · Found in 2 active sources: wilsonfreitas/awesome-quant, jivoi/awesome-osint
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Python Validate, format, and identify UK Companies House company numbers. Supports all 27 prefixes. PyPI
+
+**Why this is here:** Python Validate, format, and identify UK Companies House company numbers. Supports all 27 prefixes. PyPI
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#uk-company-number-borschai-uk-company-number) · [data/latest.json](../data/latest.json)
+
+---
+
+### [uk-sic-codes](https://github.com/borschai/uk-sic-codes)
+
+![](https://img.shields.io/github/stars/borschai/uk-sic-codes?style=flat-square&label=⭐) · Found in 2 active sources: wilsonfreitas/awesome-quant, jivoi/awesome-osint
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Python UK SIC 2007 industry classification code lookup, search, and validation. 731 codes, 21 sections. PyPI
+
+**Why this is here:** Python UK SIC 2007 industry classification code lookup, search, and validation. 731 codes, 21 sections. PyPI
+
+**Evidence record:** [TOOLS.md](../TOOLS.md#uk-sic-codes-borschai-uk-sic-codes) · [data/latest.json](../data/latest.json)
+
+---
 
 
 ---

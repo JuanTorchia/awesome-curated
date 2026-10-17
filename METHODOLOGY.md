@@ -8,7 +8,7 @@ The input layer tracks upstream `awesome-*` repositories as sources. Sources can
 
 - Active sources in current snapshot: 20
 - Raw items scraped: 43414
-- Curated entries at current threshold: 1182
+- Internal entries with stored appearance count >= 2: 1182
 - Approximate duplicate/raw noise removed: 42232
 
 ## Discovery and Scoring
@@ -21,7 +21,9 @@ Items repeated across sources are grouped into one curated entry when they point
 
 ### Cross-source threshold
 
-An entry becomes publicly visible only when at least 2 independent tracked sources list it. Entries found in a single source stay in the internal queue: they do not appear in this README, in [TOOLS.md](TOOLS.md), or in [data/latest.json](data/latest.json), no matter how popular, well-maintained, or widely adopted the tool is. Popularity is never a reason to include an entry, and never a reason to exclude one — only independent source consensus is.
+An entry becomes publicly visible only when at least 2 independent tracked sources list it. The threshold is checked against distinct active sources with matching public traces, using all related observations rather than the stored appearance counter. Multiple entries from the same repository count once.
+
+Entries found in a single source stay in the internal queue: they do not appear in this README, in [TOOLS.md](TOOLS.md), or in [data/latest.json](data/latest.json), no matter how popular, well-maintained, or widely adopted the tool is. Popularity is never a reason to include an entry, and never a reason to exclude one — only independent source consensus is.
 
 This threshold is the main noise filter, and it is what makes the radar a consensus signal rather than a mirror of any single upstream list.
 
