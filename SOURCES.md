@@ -31,7 +31,7 @@ ROSTER and BENCH sources are both tracked. Their status and score describe sourc
 | [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) | BENCH | 91 | 2026-10-12 | 2026-10-12 |
 | [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | BENCH | 89 | 2026-10-09 | 2026-10-12 |
 | [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) | BENCH | 89 | 2026-10-08 | 2026-10-12 |
-| [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) | BENCH | 86 | 2026-10-10 | 2026-10-12 |
+| [acvnace/awesome-vibe-coding-resources](https://github.com/acvnace/awesome-vibe-coding-resources) | BENCH | 86 | 2026-10-17 | 2026-10-17 |
 
 ## Selection criteria
 

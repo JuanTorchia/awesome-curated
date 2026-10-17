@@ -22,7 +22,7 @@ Suite of continuous benchmarking tools designed to catch performance regressions
 
 **Why this is here:** Adds continuous benchmarking to CI so performance regressions can be caught before release.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#bencher-bencher) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/performance.md#bencher-bencher) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -43,7 +43,7 @@ Cython is an optimising static compiler for both the Python programming language
 
 **Why this is here:** Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It...
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#cython-cython-cython) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/performance.md#cython-cython-cython) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -57,7 +57,7 @@ A compiler for Python array and numerical functions.
 
 **Why this is here:** A compiler for Python array and numerical functions.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#numba-numba-numba) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/performance.md#numba-numba-numba) · [data/latest.json](../data/latest.json)
 
 ---
 

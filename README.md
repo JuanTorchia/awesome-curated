@@ -38,7 +38,7 @@ Star it if you want fewer tool-hunt tabs: source traces, dedupe, caveats, and a 
 
 ## 🗺️ Find your stack
 
-[🌐 **Web** · 11](domains/web.md) · [🤖 **AI & ML** · 78](domains/ai-ml.md) · [🛠️ **DevOps** · 13](domains/devops.md) · [📱 **Mobile** · 1](domains/mobile.md) · [💾 **Data & Databases** · 45](domains/data.md) · [🔐 **Security & Crypto** · 9](domains/security.md) · [⚡ **Performance** · 3](domains/performance.md) · [🧰 **Dev Tooling** · 76](domains/tooling.md) · [🎨 **Other** · 11](domains/other.md)
+[🌐 **Web** · 11](domains/web.md) · [🤖 **AI & ML** · 77](domains/ai-ml.md) · [🛠️ **DevOps** · 13](domains/devops.md) · [📱 **Mobile** · 1](domains/mobile.md) · [💾 **Data & Databases** · 45](domains/data.md) · [🔐 **Security & Crypto** · 9](domains/security.md) · [⚡ **Performance** · 3](domains/performance.md) · [🧰 **Dev Tooling** · 76](domains/tooling.md) · [🎨 **Other** · 11](domains/other.md)
 
 ---
 
@@ -102,11 +102,7 @@ Human-reviewed picks with a concrete reason to look now.
 
 ## What changed this week
 
-- [Bencher](https://bencher.dev) — caveat changed · Human Pick: Editorial caveat was updated after the latest review pass.
-- [intelli-shell](https://github.com/lasantosr/intelli-shell) — caveat changed · Worth Trying: Editorial caveat was updated after the latest review pass.
-- [Vest](https://github.com/ealush/vest) — caveat changed · Worth Trying: Editorial caveat was updated after the latest review pass.
-- [mitmproxy](https://github.com/mitmproxy/mitmproxy) — newly reviewed · AI Candidate: TLS termination interactivo
-- [swiper](https://github.com/nolimits4web/swiper) — removed: No longer present in the current public recommendation set.
+- [Vercel AI](https://github.com/vercel/ai) — removed: No longer present in the current public recommendation set.
 
 See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
 
@@ -132,7 +128,7 @@ See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
 | 👤 [**Netron**](https://github.com/lutzroeder/netron) | Netron is a viewer for neural network, deep learning and machine learning models. | Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning · Human Pick |
 | 👤 [**Mem0**](https://github.com/mem0ai/mem0) | Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions. | Found in 3 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python, MunGell/awesome-for-beginners · Worth Trying |
 
-📖 75 more in [detail page →](domains/ai-ml.md) · Full evidence in [TOOLS.md](TOOLS.md)
+📖 74 more in [detail page →](domains/ai-ml.md) · Full evidence in [TOOLS.md](TOOLS.md)
 
 ### 🛠️ DevOps
 

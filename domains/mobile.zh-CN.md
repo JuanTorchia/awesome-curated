@@ -25,7 +25,7 @@ RunAnywhere is a production-ready SDK for running AI models (LLMs, speech-to-tex
 
 **Why this is here:** SDK multi-plataforma para correr modelos IA on-device (LLM, speech, TTS) en iOS/Android/React Native. Privacidad y offline garantizados. Resuelve...
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#runanywhere-runanywhereai-runanywhere-sdks) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/mobile.md#runanywhere-runanywhereai-runanywhere-sdks) · [data/latest.json](../data/latest.json)
 
 ---
 

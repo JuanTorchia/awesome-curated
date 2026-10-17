@@ -22,7 +22,7 @@ Track bandwidth utilization by process.
 
 **Why this is here:** Worth trying: process-level bandwidth visibility from a terminal UI; small, focused, and easy to evaluate.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#bandwhich-imsnif-bandwhich) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/devops.md#bandwhich-imsnif-bandwhich) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -43,7 +43,7 @@ A simple IT automation platform
 
 **Why this is here:** A simple IT automation platform
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#ansible-ansible-ansible) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/devops.md#ansible-ansible-ansible) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -57,7 +57,7 @@ Deduplicating backup program with compression and authenticated encryption.
 
 **Why this is here:** Deduplicating backup program with compression and authenticated encryption.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#borgbackup-borgbackup-borg) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/devops.md#borgbackup-borgbackup-borg) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -71,7 +71,7 @@ A library for doing continuous integration with ML projects. Use GitHub Actions 
 
 **Why this is here:** A library for doing continuous integration with ML projects. Use GitHub Actions & GitLab CI to train and evaluate models in production like...
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#cml-iterative-cml) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/devops.md#cml-iterative-cml) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -85,7 +85,7 @@ interface (e.g. htop) for container metrics.
 
 **Why this is here:** monitoreo en vivo sin overhead
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#ctop-bcicen-ctop) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/devops.md#ctop-bcicen-ctop) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -99,7 +99,7 @@ Cross-platform network monitoring TUI with process identification via eBPF/PKTAP
 
 **Why this is here:** eBPF/PKTAP nativo sin overhead kernel
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#domcyrus-rustnet-domcyrus-rustnet) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/devops.md#domcyrus-rustnet-domcyrus-rustnet) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -113,7 +113,7 @@ Provide efficient, stable and secure file distribution and image acceleration ba
 
 **Why this is here:** Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard...
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#dragonfly-dragonflyoss-dragonfly2) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/devops.md#dragonfly-dragonflyoss-dragonfly2) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -127,7 +127,7 @@ Kubernetes CLI to manage your clusters in style.
 
 **Why this is here:** Comunidad activa, mantenimiento constante
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#k9s-derailed-k9s) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/devops.md#k9s-derailed-k9s) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -141,7 +141,7 @@ Luigi is a Python module that helps you build complex pipelines of batch jobs, h
 
 **Why this is here:** Luigi is a Python module that helps you build complex pipelines of batch jobs, handling dependency resolution, workflow management, visualisation,...
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#luigi-spotify-luigi) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/devops.md#luigi-spotify-luigi) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -155,7 +155,7 @@ Luigi is a Python module that helps you build complex pipelines of batch jobs, h
 
 **Why this is here:** Primer bridge serio entre IAs y Terraform state
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#nwiizo-tfmcp-nwiizo-tfmcp) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/devops.md#nwiizo-tfmcp-nwiizo-tfmcp) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -169,7 +169,7 @@ Workflow management system that makes it easy to take your data pipelines and ad
 
 **Why this is here:** Async-first, mejor performance en workflows I/O bound
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#prefect-core-prefecthq-prefect) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/devops.md#prefect-core-prefecthq-prefect) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -183,7 +183,7 @@ Blazing fast S3 and local filesystem execution tool.
 
 **Why this is here:** Blazing fast S3 and local filesystem execution tool.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#s5cmd-peak-s5cmd) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/devops.md#s5cmd-peak-s5cmd) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -197,7 +197,7 @@ Software to automate the management and configuration of any infrastructure or a
 
 **Why this is here:** Event-driven, escalable horizontalmente
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#saltstack-saltstack-salt) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/devops.md#saltstack-saltstack-salt) · [data/latest.json](../data/latest.json)
 
 ---
 

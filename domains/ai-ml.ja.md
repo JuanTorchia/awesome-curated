@@ -2,7 +2,7 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**7 Human-reviewed · 0 Popular standards · 71 AI candidates · 0 Needs review**
+**7 Human-reviewed · 0 Popular standards · 70 AI candidates · 0 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -22,7 +22,7 @@ A CLI tool to transpile trained classic machine learning models into a native Ru
 
 **Why this is here:** Turns trained ML models into native code, reducing production runtime dependencies.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#bayeswitnesses-m2cgen-bayeswitnesses-m2cgen) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/ai-ml.md#bayeswitnesses-m2cgen-bayeswitnesses-m2cgen) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -36,7 +36,7 @@ Netron is a viewer for neural network, deep learning and machine learning models
 
 **Why this is here:** Makes model inspection practical across ONNX, TensorFlow, PyTorch, and related ML formats.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#netron-lutzroeder-netron) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/ai-ml.md#netron-lutzroeder-netron) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -50,7 +50,7 @@ Mem0 enhances AI assistants and agents with an intelligent memory layer, enablin
 
 **Why this is here:** Worth trying: practical memory layer for AI assistants and agents, with enough cross-source signal to review beyond hype.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#mem0-mem0ai-mem0) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/ai-ml.md#mem0-mem0ai-mem0) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -64,7 +64,7 @@ A TUI/CLI for managing multiple AI coding agent sessions with tmux, git worktree
 
 **Why this is here:** Worth trying: concrete TUI workflow for managing parallel coding-agent sessions with tmux, worktrees, and sandboxing.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#agent-of-empires-njbrake-agent-of-empires) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/ai-ml.md#agent-of-empires-njbrake-agent-of-empires) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -78,7 +78,7 @@ A super-easy way to record, search and compare AI experiments.
 
 **Why this is here:** Worth trying: open-source experiment tracking for AI work, especially if a team wants a lighter alternative to hosted-first tools.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#aim-aimhubio-aim) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/ai-ml.md#aim-aimhubio-aim) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -92,7 +92,7 @@ Candle is a minimalist ML framework for Rust with a focus on performance (includ
 
 **Why this is here:** Worth trying: Rust-native ML framework with a clear portability/performance angle for teams exploring ML outside Python runtime defaults.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#candle-huggingface-candle) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/ai-ml.md#candle-huggingface-candle) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -106,7 +106,7 @@ Chroma is an open-source embedding database.
 
 **Why this is here:** Worth trying: approachable open-source embedding database for prototyping retrieval and agent memory workflows.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#chroma-chroma-core-chroma) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/ai-ml.md#chroma-chroma-core-chroma) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -127,7 +127,7 @@ XGBoost is an optimized distributed gradient boosting library designed to be hig
 
 **Why this is here:** XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#xgboost-dmlc-xgboost) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/ai-ml.md#xgboost-dmlc-xgboost) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -141,7 +141,7 @@ General purpose gradient boosting on decision trees library with categorical fea
 
 **Why this is here:** General purpose gradient boosting on decision trees library with categorical features support out of the box. It is easy to install, contains fast...
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#catboost-catboost-catboost) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/ai-ml.md#catboost-catboost-catboost) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -155,7 +155,7 @@ Feature-engine is a Python library that contains several transformers to enginee
 
 **Why this is here:** Feature-engine is a Python library that contains several transformers to engineer features for use in machine learning models.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#feature-engine-feature-engine-feature-engine) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/ai-ml.md#feature-engine-feature-engine-feature-engine) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -169,7 +169,7 @@ Fast scalable Machine Learning platform for smarter applications: Deep Learning,
 
 **Why this is here:** AutoML robusto que compite con modelos manuales
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#h2o-3-h2oai-h2o-3) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/ai-ml.md#h2o-3-h2oai-h2o-3) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -183,7 +183,7 @@ A collection of algorithms for image processing in Python.
 
 **Why this is here:** API Pythonica y bien documentada vs OpenCV C++
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#scikit-image-scikit-image-scikit-image) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/ai-ml.md#scikit-image-scikit-image-scikit-image) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -197,7 +197,7 @@ spaCy is a library for advanced Natural Language Processing in Python and Cython
 
 **Why this is here:** Modelos pre-entrenados optimizados y muy documentados
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#spacy-explosion-spacy) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/ai-ml.md#spacy-explosion-spacy) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -211,7 +211,7 @@ A fork of OpenAI Baselines, implementations of reinforcement learning algorithms
 
 **Why this is here:** APIs consistentes y bien testeadas
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#stable-baselines-dlr-rm-stable-baselines3) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/ai-ml.md#stable-baselines-dlr-rm-stable-baselines3) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -225,7 +225,7 @@ Micro-batch processing for streams using the apache spark framework as a backend
 
 **Why this is here:** Micro-batch processing for streams using the apache spark framework as a backend supporting stateful exactly-once semantics.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#apache-spark-apache-spark) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/ai-ml.md#apache-spark-apache-spark) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -239,7 +239,7 @@ SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-51
 
 **Why this is here:** SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-512, and Arm NEON
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#ashvardanian-numkong-ashvardanian-numkong) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/ai-ml.md#ashvardanian-numkong-ashvardanian-numkong) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -253,7 +253,7 @@ SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-51
 
 **Why this is here:** 📇 ☁️ 🏠 🍎 🪟 🐧 Meta-MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent...
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#askbudi-roundtable-askbudi-roundtable) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/ai-ml.md#askbudi-roundtable-askbudi-roundtable) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -267,7 +267,7 @@ A VS Code extension to view Weights & Biases experiments, logs, and artifacts wi
 
 **Why this is here:** A VS Code extension to view Weights & Biases experiments, logs, and artifacts within the IDE, eliminating the need to switch to the web UI &...
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#bread-wandb-viewer-bread-technologies-bread-wandb-viewer-extension) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/ai-ml.md#bread-wandb-viewer-bread-technologies-bread-wandb-viewer-extension) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -281,7 +281,7 @@ Burn is a new comprehensive dynamic Deep Learning Framework built using Rust wit
 
 **Why this is here:** Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its...
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#burn-tracel-ai-burn) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/ai-ml.md#burn-tracel-ai-burn) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -295,7 +295,7 @@ High-level utils for PyTorch DL & RL research. It was developed with a focus on 
 
 **Why this is here:** Callbacks y logging robustos para experimentos
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#catalyst-catalyst-team-catalyst) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/ai-ml.md#catalyst-catalyst-team-catalyst) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -309,7 +309,7 @@ Auto-Magical CI/CD to streamline your AI workload. Experiment Management, Data M
 
 **Why this is here:** Cobertura end-to-end impresionante (raro en una tool)
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#clearml-clearml-clearml) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/ai-ml.md#clearml-clearml-clearml) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -323,7 +323,7 @@ Fast, flexible, multi-threaded ensembles of decision trees for machine learning 
 
 **Why this is here:** Performance nativo en Go
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#cloudforest-ryanbressler-cloudforest) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/ai-ml.md#cloudforest-ryanbressler-cloudforest) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -337,7 +337,7 @@ Fast, flexible, multi-threaded ensembles of decision trees for machine learning 
 
 **Why this is here:** Aislamiento real sin conflictos between agents
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#dagger-container-use-dagger-container-use) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/ai-ml.md#dagger-container-use-dagger-container-use) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -351,7 +351,7 @@ A novel evolutionary computation framework for rapid prototyping and testing of 
 
 **Why this is here:** A novel evolutionary computation framework for rapid prototyping and testing of ideas. It seeks to make algorithms explicit and data structures...
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#deap-deap-deap) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/ai-ml.md#deap-deap-deap) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -365,7 +365,7 @@ Machine Learning production server for TensorFlow, XGBoost and Cafe models writt
 
 **Why this is here:** Multi-framework support (TF, XGBoost, Caffe)
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#deepdetect-jolibrain-deepdetect) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/ai-ml.md#deepdetect-jolibrain-deepdetect) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -379,7 +379,7 @@ Detectron2 is Facebook AI Research's next generation library that provides state
 
 **Why this is here:** SOTA accuracy en coco/benchmarks
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#detectron2-facebookresearch-detectron2) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/ai-ml.md#detectron2-facebookresearch-detectron2) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -393,11 +393,11 @@ Deep learning training platform with integrated support for distributed training
 
 **Why this is here:** Model registry y experiment tracking built-in
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#determined-determined-ai-determined) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/ai-ml.md#determined-determined-ai-determined) · [data/latest.json](../data/latest.json)
 
 ---
 
-_Showing 20 of 71. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+_Showing 20 of 70. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

@@ -22,7 +22,7 @@ Cross-platform application to monitor your network traffic with ease
 
 **Why this is here:** Provides a low-friction network traffic monitor for debugging and security checks.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#sniffnet-gyulyvgc-sniffnet) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/tooling.md#sniffnet-gyulyvgc-sniffnet) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -36,7 +36,7 @@ A CLI tool for code structural search, lint and rewriting.
 
 **Why this is here:** Worth trying: structural search and rewrite by AST gives a stronger workflow than regex for codebase-wide changes.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#ast-grep-ast-grep-ast-grep) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/tooling.md#ast-grep-ast-grep-ast-grep) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -50,7 +50,7 @@ A feature-full TUI API client made in Rust. ATAC is free, open-source, offline a
 
 **Why this is here:** Worth trying: offline, account-less TUI API client in Rust; useful for developers who want Postman-like flows from the terminal.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#atac-julien-cpsn-atac) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/tooling.md#atac-julien-cpsn-atac) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -64,7 +64,7 @@ A new way to see and navigate directory trees (get an overview of a directory, e
 
 **Why this is here:** Worth trying: fast terminal navigation for large directory trees, with a workflow meaningfully different from plain cd/find.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#broot-canop-broot) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/tooling.md#broot-canop-broot) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -78,7 +78,7 @@ Bookmark commands with placeholders and search or autocomplete at any time
 
 **Why this is here:** Worth trying: focused command bookmark/search workflow for terminal-heavy developers; useful without pretending to be a broad platform.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#intelli-shell-lasantosr-intelli-shell) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/tooling.md#intelli-shell-lasantosr-intelli-shell) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -99,7 +99,7 @@ PyTorch is an open source machine learning library based on the Torch library, u
 
 **Why this is here:** PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language...
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#pytorch-pytorch-pytorch) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/tooling.md#pytorch-pytorch-pytorch) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -120,7 +120,7 @@ Bokeh is an interactive visualization library for Python that enables beautiful 
 
 **Why this is here:** Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation of data in modern web browsers.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#bokeh-bokeh-bokeh) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/tooling.md#bokeh-bokeh-bokeh) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -134,7 +134,7 @@ A unified deep learning system for big model era, which helps users to efficient
 
 **Why this is here:** Optimizaciones specific para big models (tensor/pipeline parallelism)
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#colossal-ai-hpcaitech-colossalai) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/tooling.md#colossal-ai-hpcaitech-colossalai) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -148,7 +148,7 @@ Deepchecks is a holistic open-source solution for all of your AI & ML validation
 
 **Why this is here:** Cobertura integral: data checks, model validation, drift detection en un solo lugar
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#deepchecks-deepchecks-deepchecks) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/tooling.md#deepchecks-deepchecks-deepchecks) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -162,7 +162,7 @@ Web interface python sandbox environments for reproducible development
 
 **Why this is here:** Web interface python sandbox environments for reproducible development
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#jupyter-notebooks-jupyter-notebook) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/tooling.md#jupyter-notebooks-jupyter-notebook) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -176,7 +176,7 @@ Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, G
 
 **Why this is here:** Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for...
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#lightgbm-microsoft-lightgbm) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/tooling.md#lightgbm-microsoft-lightgbm) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -190,7 +190,7 @@ A Python library for Bayesian statistical modeling and probabilistic machine lea
 
 **Why this is here:** A Python library for Bayesian statistical modeling and probabilistic machine learning. Beginner-friendly with 'good first issue' labels.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#pymc-pymc-devs-pymc) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/tooling.md#pymc-pymc-devs-pymc) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -204,7 +204,7 @@ A Python library for symbolic mathematics.
 
 **Why this is here:** Capacidad de simplificar, derivar, integrar y resolver ecuaciones de forma exacta, no aproximada
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#sympy-sympy-sympy) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/tooling.md#sympy-sympy-sympy) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -218,7 +218,7 @@ Huggingface's library of state-of-the-art pretrained models for Natural Language
 
 **Why this is here:** Modelos preentrenados para 100+ tareas
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#transformers-huggingface-transformers) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/tooling.md#transformers-huggingface-transformers) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -232,7 +232,7 @@ Downloads videos from almost any online platform, along with information, thumbn
 
 **Why this is here:** Coverage absurdo de plataformas (YouTube, Twitch, TikTok, etc)
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#yt-dlp-yt-dlp-yt-dlp) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/tooling.md#yt-dlp-yt-dlp-yt-dlp) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -246,7 +246,7 @@ A fast alternative to cd that learns your habits
 
 **Why this is here:** A fast alternative to cd that learns your habits
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#ajeetdsouza-zoxide-ajeetdsouza-zoxide) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/tooling.md#ajeetdsouza-zoxide-ajeetdsouza-zoxide) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -260,7 +260,7 @@ SIMD-accelerated string search, sort, edit distances, alignments, and generators
 
 **Why this is here:** String search/sort SIMD-acelerado (AVX2/AVX-512/NEON). Performance muy buena para bulk string ops, pero nicho especializado.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#ashvardanian-stringzilla-ashvardanian-stringzilla) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/tooling.md#ashvardanian-stringzilla-ashvardanian-stringzilla) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -274,7 +274,7 @@ An extremely fast Python linter and code formatter
 
 **Why this is here:** An extremely fast Python linter and code formatter
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#astral-sh-ruff-astral-sh-ruff) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/tooling.md#astral-sh-ruff-astral-sh-ruff) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -288,7 +288,7 @@ An extremely fast Python linter and code formatter
 
 **Why this is here:** ] A simple timetracker for the command line
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#bartib-nikolassv-bartib) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/tooling.md#bartib-nikolassv-bartib) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -302,7 +302,7 @@ Open source password management tool for Mac OS, iOS and browsers. (https://gith
 
 **Why this is here:** Self-hosting option + cloud oficial
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#bitwarden-bitwarden) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/tooling.md#bitwarden-bitwarden) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -316,7 +316,7 @@ Blazingly fast CLI tool for creating projects from boilerplate templates.
 
 **Why this is here:** Blazingly fast CLI tool for creating projects from boilerplate templates.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#boilr-tmrts-boilr) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/tooling.md#boilr-tmrts-boilr) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -330,7 +330,7 @@ C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library. [
 
 **Why this is here:** C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library. [BSD]
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#ccv-liuliu-ccv) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/tooling.md#ccv-liuliu-ccv) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -344,7 +344,7 @@ Powerful C and C++ IDE. (Free for Students)
 
 **Why this is here:** Debugger integrado profesional
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#clion-jetbrains-3) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/tooling.md#clion-jetbrains-3) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -358,7 +358,7 @@ Cross Platform tool to validate configuration files.
 
 **Why this is here:** Mantenido por empresa seria (Boeing)
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#config-file-validator-boeing-config-file-validator) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/tooling.md#config-file-validator-boeing-config-file-validator) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -372,7 +372,7 @@ A command-line utility that creates projects from cookiecutters (project templat
 
 **Why this is here:** Extremadamente simple y flexible
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#cookiecutter-cookiecutter-cookiecutter) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/tooling.md#cookiecutter-cookiecutter-cookiecutter) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -386,7 +386,7 @@ Offline API documentation browser for macOS with instant search access to Vue.js
 
 **Why this is here:** Offline API documentation browser for macOS with instant search access to Vue.js docs and 200+ other frameworks.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#dash-kapeli) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/tooling.md#dash-kapeli) · [data/latest.json](../data/latest.json)
 
 ---
 

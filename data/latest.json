@@ -2,235 +2,16 @@
   "changes": [
     {
       "changedAt": "2026-10-17",
-      "currentLabel": "Human Pick",
-      "name": "Bencher",
-      "previousLabel": "Human Pick",
-      "reason": "Promising signal, but source consensus is still narrow.",
-      "toolId": "cmnwko7ig01ne1p4t32xoxe5p",
-      "type": "caveat changed",
-      "url": "https://bencher.dev"
-    },
-    {
-      "changedAt": "2026-10-17",
-      "currentLabel": "Worth Trying",
-      "name": "intelli-shell",
-      "previousLabel": "Worth Trying",
-      "reason": "Editorial caveat was updated after the latest review pass.",
-      "toolId": "cmnwlwza900pyvn4d8ouw69a9",
-      "type": "caveat changed",
-      "url": "https://github.com/lasantosr/intelli-shell"
-    },
-    {
-      "changedAt": "2026-10-17",
-      "currentLabel": "Worth Trying",
-      "name": "Vest",
-      "previousLabel": "Worth Trying",
-      "reason": "Editorial caveat was updated after the latest review pass.",
-      "toolId": "cmnwknh9h01bn1p4tq05njnh3",
-      "type": "caveat changed",
-      "url": "https://github.com/ealush/vest"
-    },
-    {
-      "changedAt": "2026-10-17",
-      "currentLabel": "AI Candidate",
-      "name": "mitmproxy",
-      "reason": "TLS termination interactivo",
-      "toolId": "cmnwknl5h01de1p4t4rumh7q9",
-      "type": "newly reviewed",
-      "url": "https://github.com/mitmproxy/mitmproxy"
-    },
-    {
-      "changedAt": "2026-10-17",
-      "name": "swiper",
-      "previousLabel": "Human Pick",
+      "name": "Vercel AI",
+      "previousLabel": "AI Candidate",
       "reason": "No longer present in the current public recommendation set.",
-      "toolId": "cmnwm25610313vn4dbca3wvvp",
+      "toolId": "cmnwm2qhc03apvn4d1c5auixg",
       "type": "removed",
-      "url": "https://github.com/nolimits4web/swiper"
-    },
-    {
-      "changedAt": "2026-10-17",
-      "name": "query",
-      "previousLabel": "Human Pick",
-      "reason": "No longer present in the current public recommendation set.",
-      "toolId": "cmnwm2iee0370vn4djbd5e6c4",
-      "type": "removed",
-      "url": "https://github.com/tanstack/query"
-    },
-    {
-      "changedAt": "2026-10-17",
-      "name": "recharts",
-      "previousLabel": "Human Pick",
-      "reason": "No longer present in the current public recommendation set.",
-      "toolId": "cmnwm2smp03bnvn4dn5tf58a2",
-      "type": "removed",
-      "url": "https://github.com/recharts/recharts"
-    },
-    {
-      "changedAt": "2026-10-17",
-      "name": "GoAccess",
-      "previousLabel": "Human Pick",
-      "reason": "No longer present in the current public recommendation set.",
-      "toolId": "cmnwlyx8j01lfvn4df9wyzzsx",
-      "type": "removed",
-      "url": "https://goaccess.io"
-    },
-    {
-      "changedAt": "2026-10-17",
-      "name": "Hasura GraphQL Engine",
-      "previousLabel": "Human Pick",
-      "reason": "No longer present in the current public recommendation set.",
-      "toolId": "cmnwkncjg019k1p4t7xyojso8",
-      "type": "removed",
-      "url": "https://github.com/hasura/graphql-engine"
-    },
-    {
-      "changedAt": "2026-10-17",
-      "name": "Kaitai Struct",
-      "previousLabel": "Human Pick",
-      "reason": "No longer present in the current public recommendation set.",
-      "toolId": "cmnwkx28e05ly1p4tb6zqpyfn",
-      "type": "removed",
-      "url": "https://kaitai.io"
-    },
-    {
-      "changedAt": "2026-10-17",
-      "name": "OpenStreetMap",
-      "previousLabel": "Human Pick",
-      "reason": "No longer present in the current public recommendation set.",
-      "toolId": "cmnwm00wz0238vn4dvog150yp",
-      "type": "removed",
-      "url": "https://openstreetmap.org"
-    },
-    {
-      "changedAt": "2026-10-17",
-      "name": "SimpleBinaryEncoding",
-      "previousLabel": "Human Pick",
-      "reason": "No longer present in the current public recommendation set.",
-      "toolId": "cmnwkx2tv05m81p4tml2qs7dk",
-      "type": "removed",
-      "url": "https://github.com/real-logic/simple-binary-encoding"
-    },
-    {
-      "changedAt": "2026-10-17",
-      "name": "Social Engineer Toolkit (SET)",
-      "previousLabel": "Human Pick",
-      "reason": "No longer present in the current public recommendation set.",
-      "toolId": "cmnwkpejs026t1p4t9qz64udz",
-      "type": "removed",
-      "url": "https://github.com/trustedsec/social-engineer-toolkit"
-    },
-    {
-      "changedAt": "2026-10-17",
-      "name": "uWebSockets",
-      "previousLabel": "Human Pick",
-      "reason": "No longer present in the current public recommendation set.",
-      "toolId": "cmnwkwt9h05i11p4tj45bdpmi",
-      "type": "removed",
-      "url": "https://github.com/unetworking/uwebsockets"
-    },
-    {
-      "changedAt": "2026-10-17",
-      "name": "x64dbg",
-      "previousLabel": "Human Pick",
-      "reason": "No longer present in the current public recommendation set.",
-      "toolId": "cmnwkxgg805ro1p4tb76w0sxr",
-      "type": "removed",
-      "url": "https://x64dbg.com"
-    },
-    {
-      "changedAt": "2026-10-17",
-      "name": "xxHash",
-      "previousLabel": "Human Pick",
-      "reason": "No longer present in the current public recommendation set.",
-      "toolId": "cmnwkxcgb05qh1p4t8dbk0t1v",
-      "type": "removed",
-      "url": "https://github.com/cyan4973/xxhash"
-    },
-    {
-      "changedAt": "2026-10-17",
-      "name": "Bit",
-      "previousLabel": "Worth Trying",
-      "reason": "No longer present in the current public recommendation set.",
-      "toolId": "cmnwm2lwh038nvn4dexrj3he3",
-      "type": "removed",
-      "url": "https://github.com/teambit/bit"
-    },
-    {
-      "changedAt": "2026-10-17",
-      "name": "tsParticles",
-      "previousLabel": "Worth Trying",
-      "reason": "No longer present in the current public recommendation set.",
-      "toolId": "cmnwm2931032vvn4d9n5knlw6",
-      "type": "removed",
-      "url": "https://github.com/matteobruni/tsparticles"
-    },
-    {
-      "changedAt": "2026-10-17",
-      "name": "Cake",
-      "previousLabel": "Worth Trying",
-      "reason": "No longer present in the current public recommendation set.",
-      "toolId": "cmnwkmtko01101p4tx63y6e8y",
-      "type": "removed",
-      "url": "https://github.com/cake-build/cake"
-    },
-    {
-      "changedAt": "2026-10-17",
-      "name": "Ghost",
-      "previousLabel": "Worth Trying",
-      "reason": "No longer present in the current public recommendation set.",
-      "toolId": "cmnwkne3y01aa1p4t4j9ed0j9",
-      "type": "removed",
-      "url": "https://github.com/tryghost/ghost"
-    },
-    {
-      "changedAt": "2026-10-17",
-      "name": "RunJS",
-      "previousLabel": "Worth Trying",
-      "reason": "No longer present in the current public recommendation set.",
-      "toolId": "cmnwm1j8802rtvn4dmh0kfr8o",
-      "type": "removed",
-      "url": "https://runjs.app"
-    },
-    {
-      "changedAt": "2026-10-17",
-      "name": "schedule-x",
-      "previousLabel": "Worth Trying",
-      "reason": "No longer present in the current public recommendation set.",
-      "toolId": "cmnwm26jb031ovn4dqwkn6frh",
-      "type": "removed",
-      "url": "https://github.com/schedule-x/schedule-x"
-    },
-    {
-      "changedAt": "2026-10-17",
-      "name": "webdriver.io",
-      "previousLabel": "Worth Trying",
-      "reason": "No longer present in the current public recommendation set.",
-      "toolId": "cmnwkngj501ba1p4tylokwxde",
-      "type": "removed",
-      "url": "https://github.com/webdriverio/webdriverio"
-    },
-    {
-      "changedAt": "2026-10-17",
-      "name": "Context Engineering Kit",
-      "previousLabel": "Worth Trying",
-      "reason": "No longer present in the current public recommendation set.",
-      "toolId": "cmnwm52uq04cnvn4d1utzmbco",
-      "type": "removed",
-      "url": "https://github.com/neolabhq/context-engineering-kit"
-    },
-    {
-      "changedAt": "2026-10-17",
-      "name": "Cppcheck",
-      "previousLabel": "Worth Trying",
-      "reason": "No longer present in the current public recommendation set.",
-      "toolId": "cmnwkxjd305sz1p4tlf063qu3",
-      "type": "removed",
-      "url": "https://cppcheck.sourceforge.net"
+      "url": "https://github.com/vercel/ai"
     }
   ],
-  "commitSha": "127e132d48df",
-  "generatedAt": "2026-10-17T17:26:26.463Z",
+  "commitSha": "a4990811b81e",
+  "generatedAt": "2026-10-17T17:44:14.050Z",
   "recommendations": [
     {
       "caveat": "Best fit for teams with a matching ML or data workflow.",
@@ -10877,50 +10658,6 @@
     },
     {
       "caveat": "Candidate still needs human review before endorsement.",
-      "domain": "ai-ml",
-      "id": "cmnwm2qhc03apvn4d1c5auixg",
-      "label": "AI Candidate",
-      "maintenance": {
-        "archived": false,
-        "graveyarded": false
-      },
-      "name": "Vercel AI",
-      "rationale": "Vercel AI is a TypeScript toolkit designed to help you build AI-powered applications using popular frameworks like Next.js, React, Svelte, Vue and...",
-      "review": {
-        "caveat": "Candidate still needs human review before endorsement.",
-        "notes": "Vercel AI is a TypeScript toolkit designed to help you build AI-powered applications using popular frameworks like Next.js, React, Svelte, Vue and...",
-        "reviewedAt": "2026-04-13",
-        "status": "AI Candidate"
-      },
-      "slug": "vercel-ai",
-      "sourceSignal": "Found in 2 active sources: unicodeveloper/awesome-nextjs, EthicalML/awesome-production-machine-learning",
-      "sourceTraces": [
-        {
-          "itemCategory": "Extensions",
-          "itemName": "Vercel AI SDK",
-          "observedAt": "2026-10-12",
-          "sourceQuality": 86,
-          "sourceRepo": "unicodeveloper/awesome-nextjs",
-          "sourceStatus": "BENCH",
-          "sourceTitle": "awesome-nextjs",
-          "sourceUrl": "https://github.com/unicodeveloper/awesome-nextjs"
-        },
-        {
-          "itemCategory": "Deployment and Serving",
-          "itemName": "Vercel AI",
-          "observedAt": "2026-10-12",
-          "sourceQuality": 89,
-          "sourceRepo": "EthicalML/awesome-production-machine-learning",
-          "sourceStatus": "BENCH",
-          "sourceTitle": "awesome-production-machine-learning",
-          "sourceUrl": "https://github.com/EthicalML/awesome-production-machine-learning"
-        }
-      ],
-      "summary": "Vercel AI is a TypeScript toolkit designed to help you build AI-powered applications using popular frameworks like Next.js, React, Svelte, Vue and runtimes like Node.js.",
-      "url": "https://github.com/vercel/ai"
-    },
-    {
-      "caveat": "Candidate still needs human review before endorsement.",
       "domain": "data",
       "id": "cmnwkmd3r00tp1p4tcc4qyr7d",
       "label": "AI Candidate",
@@ -11916,16 +11653,16 @@
     "cmnwko7ig01ne1p4t32xoxe5p"
   ],
   "summary": {
-    "aiCandidates": 230,
+    "aiCandidates": 229,
     "graveyard": 0,
     "humanPicks": 5,
     "needsReview": 0,
     "popularStandards": 1,
-    "publicRecommendations": 257,
+    "publicRecommendations": 256,
     "sources": 20
   },
   "validation": {
-    "checkedAt": "2026-10-17T17:26:26.463Z",
+    "checkedAt": "2026-10-17T17:44:14.050Z",
     "status": "pass",
     "warnings": []
   }

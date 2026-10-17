@@ -25,7 +25,7 @@ Structured, source-backed dataset tracking 96 AI-attributed workforce reductions
 
 **Why this is here:** Structured, source-backed dataset tracking 96 AI-attributed workforce reductions (457K workers affected, 13 countries, 13 sectors). Every entry...
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#ai-job-displacement-tracker-noahaust2-ai-displacement-tracker) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/other.md#ai-job-displacement-tracker-noahaust2-ai-displacement-tracker) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -39,7 +39,7 @@ A music library manager and MusicBrainz tagger.
 
 **Why this is here:** Plugin ecosystem robusto, maneja formatos diversos (FLAC, MP3, AAC)
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#beets-beetbox-beets) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/other.md#beets-beetbox-beets) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -53,7 +53,7 @@ Easily and securely send files or folders from one computer to another.
 
 **Why this is here:** Zero config, seguro por defecto
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#croc-schollz-croc) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/other.md#croc-schollz-croc) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -67,7 +67,7 @@ Free, open-source, and cross-platform media player. (https://github.com/mpv-play
 
 **Why this is here:** Altamente configurable, scripteable
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#mpv-mpv) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/other.md#mpv-mpv) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -81,7 +81,7 @@ Python Rust A high-performance algorithmic trading platform and event-driven bac
 
 **Why this is here:** Python Rust A high-performance algorithmic trading platform and event-driven backtester.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#nautilustrader-nautechsystems-nautilus-trader) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/other.md#nautilustrader-nautechsystems-nautilus-trader) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -95,7 +95,7 @@ The QuantLib project is aimed at providing a comprehensive software framework fo
 
 **Why this is here:** Comunidad activa en finanzas cuantitativa
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#quantlib-lballabio-quantlib) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/other.md#quantlib-lballabio-quantlib) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -109,7 +109,7 @@ News reader for Feedbin, Feedly, Feed Wrangler and so on. (https://apps.apple.co
 
 **Why this is here:** News reader for Feedbin, Feedly, Feed Wrangler and so on. (https://apps.apple.com/pl/app/reeder-5/id1529448980?platform=mac)
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#reeder-5-reederapp) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/other.md#reeder-5-reederapp) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -123,7 +123,7 @@ The Go Language library for SVG generation.
 
 **Why this is here:** The Go Language library for SVG generation.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#svgo-ajstarks-svgo) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/other.md#svgo-ajstarks-svgo) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -137,7 +137,7 @@ Collaborative cheatsheets for console commands.
 
 **Why this is here:** Contenido siempre actualizado por comunidad, formato simple y searcheable
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#tldr-pages-tldr-pages-tldr) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/other.md#tldr-pages-tldr-pages-tldr) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -151,7 +151,7 @@ Python Validate, format, and identify UK Companies House company numbers. Suppor
 
 **Why this is here:** Python Validate, format, and identify UK Companies House company numbers. Supports all 27 prefixes. PyPI
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#uk-company-number-borschai-uk-company-number) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/other.md#uk-company-number-borschai-uk-company-number) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -165,7 +165,7 @@ Python UK SIC 2007 industry classification code lookup, search, and validation. 
 
 **Why this is here:** Python UK SIC 2007 industry classification code lookup, search, and validation. 731 codes, 21 sections. PyPI
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#uk-sic-codes-borschai-uk-sic-codes) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/other.md#uk-sic-codes-borschai-uk-sic-codes) · [data/latest.json](../data/latest.json)
 
 ---
 

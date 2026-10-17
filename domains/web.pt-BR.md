@@ -22,7 +22,7 @@ Validations framework inspired by unit testing frameworks.
 
 **Why this is here:** Sintaxis intuitiva para validaciones complejas
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#vest-ealush-vest) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/web.md#vest-ealush-vest) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -43,7 +43,7 @@ is a powerful data visualization javascript library.
 
 **Why this is here:** is a powerful data visualization javascript library.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#d3js-d3js) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/web.md#d3js-d3js) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -57,7 +57,7 @@ Remote Procedure Calls (RPCs) provide a useful abstraction for building distribu
 
 **Why this is here:** Performance superior a REST para cargas altas
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#grpc-grpc-grpc) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/web.md#grpc-grpc-grpc) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -71,7 +71,7 @@ an HTTP implementation
 
 **Why this is here:** Arquitectura async/await limpia con Tokio
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#hyperium-hyper-hyperium-hyper) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/web.md#hyperium-hyper-hyperium-hyper) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -85,7 +85,7 @@ an HTTP implementation
 
 **Why this is here:** Middleware guardrails incluido
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#juspay-neurolink-juspay-neurolink) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/web.md#juspay-neurolink-juspay-neurolink) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -99,7 +99,7 @@ A Python agent framework for building generative AI applications with structured
 
 **Why this is here:** A Python agent framework for building generative AI applications with structured schemas.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#pydantic-ai-pydantic-pydantic-ai) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/web.md#pydantic-ai-pydantic-pydantic-ai) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -113,7 +113,7 @@ The Python Internationalization Library.
 
 **Why this is here:** The Python Internationalization Library.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#python-babel-python-babel-babel) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/web.md#python-babel-python-babel-babel) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -127,7 +127,7 @@ A fast high-level web crawling & scraping framework for Python.
 
 **Why this is here:** A fast high-level web crawling & scraping framework for Python.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#scrapy-scrapy-scrapy) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/web.md#scrapy-scrapy-scrapy) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -141,7 +141,7 @@ A high-performance, lightweight, and cross-platform QUIC library
 
 **Why this is here:** Performance benchmarks competitivos vs quinn
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#tencent-tquic-tencent-tquic) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/web.md#tencent-tquic-tencent-tquic) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -155,7 +155,7 @@ A high-performance, lightweight, and cross-platform QUIC library
 
 **Why this is here:** Automatiza /etc/hosts para resolver servicios por nombre en localhost
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#txn2-kubefwd-txn2-kubefwd) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/web.md#txn2-kubefwd-txn2-kubefwd) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -169,7 +169,7 @@ The browser that puts you in control.
 
 **Why this is here:** Altamente themeable, muchas opciones de UI
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#vivaldi-vivaldi) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/web.md#vivaldi-vivaldi) · [data/latest.json](../data/latest.json)
 
 ---
 

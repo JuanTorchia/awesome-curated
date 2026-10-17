@@ -22,7 +22,7 @@ High level crypto library for storing data (AES), secure messaging (ECC + ECDSA 
 
 **Why this is here:** Gives teams a higher-level API over cryptographic primitives without starting from raw building blocks.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#themis-cossacklabs-themis) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/security.md#themis-cossacklabs-themis) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -43,7 +43,7 @@ Web browser with an emphasis on privacy and speed. (https://github.com/brave/bra
 
 **Why this is here:** Built-in ad/tracker blocking
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#brave-brave) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/security.md#brave-brave) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -57,7 +57,7 @@ A fork of Firefox, focused on privacy, security and freedom. (https://gitlab.com
 
 **Why this is here:** A fork of Firefox, focused on privacy, security and freedom. (https://gitlab.com/librewolf-community)
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#librewolf-librewolf) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/security.md#librewolf-librewolf) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -71,7 +71,7 @@ A fork of Firefox, focused on privacy, security and freedom. (https://gitlab.com
 
 **Why this is here:** ☁️ Beelzebub is a honeypot framework that lets you build honeypot tools using MCP. Its purpose is to detect prompt injection or malicious agent...
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#mariocandela-beelzebub-mariocandela-beelzebub) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/security.md#mariocandela-beelzebub-mariocandela-beelzebub) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -85,7 +85,7 @@ A fork of Firefox, focused on privacy, security and freedom. (https://gitlab.com
 
 **Why this is here:** 🦀 🏠 🍎 🪟 🐧 Run untrusted Python/JavaScript code in WebAssembly sandboxes.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#mavdol-capsule-mcp-server-mavdol-capsule) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/security.md#mavdol-capsule-mcp-server-mavdol-capsule) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -99,7 +99,7 @@ LLM red teaming and evaluation framework for testing jailbreaks, prompt injectio
 
 **Why this is here:** CI/CD integration out-of-box
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#promptfoo-promptfoo-promptfoo) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/security.md#promptfoo-promptfoo-promptfoo) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -113,7 +113,7 @@ LLM red teaming and evaluation framework for testing jailbreaks, prompt injectio
 
 **Why this is here:** Local execution sin cloud dependency
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#safedep-vet-safedep-vet) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/security.md#safedep-vet-safedep-vet) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -127,7 +127,7 @@ Hunt down social media accounts by username across social networks.
 
 **Why this is here:** Soporta muchas plataformas
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#sherlock-sherlock-project-sherlock) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/security.md#sherlock-sherlock-project-sherlock) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -141,7 +141,7 @@ A simple tool to manage secrets using ssh keys for encryption and decryption.
 
 **Why this is here:** A simple tool to manage secrets using ssh keys for encryption and decryption.
 
-**Evidence record:** [TOOLS.md](../TOOLS.md#ssh-vault-ssh-vault-ssh-vault) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/security.md#ssh-vault-ssh-vault-ssh-vault) · [data/latest.json](../data/latest.json)
 
 ---
 

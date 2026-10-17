@@ -7,9 +7,9 @@ Awesome Curated is a weekly audited radar of developer tools discovered from act
 The input layer tracks upstream `awesome-*` repositories as sources. Sources can be active roster entries, bench candidates, rejected entries, or inactive entries. Public counts focus on active roster and bench sources.
 
 - Active sources in current snapshot: 20
-- Raw items scraped: 43414
+- Raw items scraped: 43596
 - Internal entries with stored appearance count >= 2: 1182
-- Approximate duplicate/raw noise removed: 42232
+- Approximate duplicate/raw noise removed: 42414
 
 ## Discovery and Scoring
 

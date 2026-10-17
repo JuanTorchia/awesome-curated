@@ -38,7 +38,7 @@
 
 ## 🗺️ 找到你的技术栈
 
-[🌐 **Web** · 11](domains/web.zh-CN.md) · [🤖 **AI 与机器学习** · 78](domains/ai-ml.zh-CN.md) · [🛠️ **DevOps** · 13](domains/devops.zh-CN.md) · [📱 **移动端** · 1](domains/mobile.zh-CN.md) · [💾 **数据与数据库** · 45](domains/data.zh-CN.md) · [🔐 **安全与加密** · 9](domains/security.zh-CN.md) · [⚡ **性能** · 3](domains/performance.zh-CN.md) · [🧰 **开发工具** · 76](domains/tooling.zh-CN.md) · [🎨 **其他** · 11](domains/other.zh-CN.md)
+[🌐 **Web** · 11](domains/web.zh-CN.md) · [🤖 **AI 与机器学习** · 77](domains/ai-ml.zh-CN.md) · [🛠️ **DevOps** · 13](domains/devops.zh-CN.md) · [📱 **移动端** · 1](domains/mobile.zh-CN.md) · [💾 **数据与数据库** · 45](domains/data.zh-CN.md) · [🔐 **安全与加密** · 9](domains/security.zh-CN.md) · [⚡ **性能** · 3](domains/performance.zh-CN.md) · [🧰 **开发工具** · 76](domains/tooling.zh-CN.md) · [🎨 **其他** · 11](domains/other.zh-CN.md)
 
 ---
 
@@ -102,11 +102,7 @@
 
 ## What changed this week
 
-- [Bencher](https://bencher.dev) — caveat changed · Human Pick: Editorial caveat was updated after the latest review pass.
-- [intelli-shell](https://github.com/lasantosr/intelli-shell) — caveat changed · Worth Trying: Editorial caveat was updated after the latest review pass.
-- [Vest](https://github.com/ealush/vest) — caveat changed · Worth Trying: Editorial caveat was updated after the latest review pass.
-- [mitmproxy](https://github.com/mitmproxy/mitmproxy) — newly reviewed · AI Candidate: TLS termination interactivo
-- [swiper](https://github.com/nolimits4web/swiper) — removed: No longer present in the current public recommendation set.
+- [Vercel AI](https://github.com/vercel/ai) — removed: No longer present in the current public recommendation set.
 
 See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
 
@@ -132,7 +128,7 @@ See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
 | 👤 [**Netron**](https://github.com/lutzroeder/netron) | Netron is a viewer for neural network, deep learning and machine learning models. | Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning · Human Pick |
 | 👤 [**Mem0**](https://github.com/mem0ai/mem0) | Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions. | Found in 3 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python, MunGell/awesome-for-beginners · Worth Trying |
 
-📖 更多 75 个见[详细页面 →](domains/ai-ml.zh-CN.md)
+📖 更多 74 个见[详细页面 →](domains/ai-ml.zh-CN.md)
 
 ### 🛠️ DevOps
 
