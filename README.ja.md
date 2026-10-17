@@ -8,7 +8,7 @@
 
 [![Human Picks](https://img.shields.io/badge/Human_Picks-17-gold?style=for-the-badge)](#)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](#)
-[![Updated](https://img.shields.io/badge/Updated-2026-10-16-green?style=for-the-badge)](#)
+[![Updated](https://img.shields.io/badge/Updated-2026-10-17-green?style=for-the-badge)](#)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -22,10 +22,11 @@
 
 ### 信頼スナップショット
 
-- **最新生成日**: 2026-10-16
+- **最新生成日**: 2026-10-17
 - **アクティブソース**: 20
 - **人間レビュー済みツール**: 17
 - **方法論**: [METHODOLOGY.md](METHODOLOGY.md)
+- **追跡ソース**: [SOURCES.md](SOURCES.md)
 - **更新サマリー**: [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md)
 - **Evidence snapshot**: [data/latest.json](data/latest.json)
 - **Inspectable catalog**: [TOOLS.md](TOOLS.md)
