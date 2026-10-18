@@ -2,62 +2,62 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**1 Human-reviewed · 0 Popular standards · 2 AI candidates · 0 Needs review**
+**1 人工审核 · 0 常用标准工具 · 2 AI 候选工具 · 0 Needs Review 状态**
 
-Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
+可查阅目录: [TOOLS.md](../TOOLS.md) · 证据快照: [data/latest.json](../data/latest.json)
 
 ---
 
-## Human-reviewed picks
+## 人工审核精选
 
-Tools with a human review label and visible caveats.
+具有人工审核标签和明确限制的工具。
 
 ### 👤 [Bencher](https://bencher.dev)
 
-Found in 2 active sources: fffaraz/awesome-cpp, avelino/awesome-go
+收录于 2 个活跃来源: fffaraz/awesome-cpp, avelino/awesome-go
 
-**Review label:** Human Pick · **Caveat:** Cross-source coverage is limited.
+**审核:** Human Pick · **说明 / 审核:** 跨来源覆盖有限。
 
 Suite of continuous benchmarking tools designed to catch performance regressions in CI. MIT/Apache-2.0 Rust
 
-**Why this is here:** Adds continuous benchmarking to CI so performance regressions can be caught before release.
+**收录原因:** Adds continuous benchmarking to CI so performance regressions can be caught before release.
 
-**Evidence record:** [Full evidence](../catalog/performance.md#bencher-bencher) · [data/latest.json](../data/latest.json)
-
----
-
+**证据记录:** [完整证据](../catalog/performance.md#bencher-bencher) · [data/latest.json](../data/latest.json)
 
 ---
 
-## AI candidates
 
-Automated candidates with enough source signal; these are not human endorsements yet.
+---
+
+## AI 候选工具
+
+来源覆盖足够的自动候选工具，尚未获得人工认可。
 
 ### [Cython](https://github.com/cython/cython)
 
-![](https://img.shields.io/github/stars/cython/cython?style=flat-square&label=⭐) · Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python
+![](https://img.shields.io/github/stars/cython/cython?style=flat-square&label=⭐) · 收录于 2 个活跃来源: fffaraz/awesome-cpp, vinta/awesome-python
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
 
 Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It makes writing C extensions for Python as easy as Python itself. [Apache]
 
-**Why this is here:** Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It...
+**收录原因:** Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It...
 
-**Evidence record:** [Full evidence](../catalog/performance.md#cython-cython-cython) · [data/latest.json](../data/latest.json)
+**证据记录:** [完整证据](../catalog/performance.md#cython-cython-cython) · [data/latest.json](../data/latest.json)
 
 ---
 
 ### [Numba](https://github.com/numba/numba)
 
-![](https://img.shields.io/github/stars/numba/numba?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/numba/numba?style=flat-square&label=⭐) · 收录于 2 个活跃来源: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
 
 A compiler for Python array and numerical functions.
 
-**Why this is here:** A compiler for Python array and numerical functions.
+**收录原因:** A compiler for Python array and numerical functions.
 
-**Evidence record:** [Full evidence](../catalog/performance.md#numba-numba-numba) · [data/latest.json](../data/latest.json)
+**证据记录:** [完整证据](../catalog/performance.md#numba-numba-numba) · [data/latest.json](../data/latest.json)
 
 ---
 

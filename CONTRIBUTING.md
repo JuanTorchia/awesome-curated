@@ -9,12 +9,15 @@ so please read this before opening anything — it will save you time.
 the maintainer.
 
 Entries are discovered by scraping the `awesome-*` lists this project tracks,
-deduplicated across them, then triaged with AI assistance and reviewed by a
-human. The public *"Found in N active sources"* signal is the entire product: it
-means independent lists mentioned the same tool, not that someone asked nicely.
+deduplicated across them, then triaged with AI assistance. Human verdicts are
+recorded separately; AI Candidates can appear before human endorsement. The
+public *"Found in N active sources"* signal
+counts distinct active tracked repositories that list the tool. Repositories can
+copy listings from each other; the count does not establish editorial independence
+or a quality verdict.
 
-Adding a tool by hand would take thirty seconds and quietly destroy the only
-thing separating this from the hundreds of lists that merge any PR.
+Suggestions enter through tracked sources so the same publication threshold
+applies to every entry.
 
 So: **pull requests that add tools will be closed.** It is not personal.
 
@@ -88,8 +91,9 @@ Issue state is meant to tell you **whose move it is**:
 - `source-nomination` — a list being evaluated for the roster.
 - `classification` / `review-request` — work queued on the maintainer's side.
 
-If a tool lands in a tracked source and does not appear within a couple of
-weekly runs, that is a bug here. Please reopen or ping.
+If a tool has matching traces from at least two distinct active tracked sources
+and does not appear after subsequent runs, report those sources so the inclusion
+check can be investigated. One tracked source alone does not meet the threshold.
 
 ## Conduct
 

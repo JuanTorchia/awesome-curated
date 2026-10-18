@@ -1,3 +1,4 @@
+import { checkResult } from './check-result.mjs';
 import { execFileSync } from 'node:child_process';
 import { mkdtempSync, writeFileSync, readFileSync, rmSync } from 'node:fs';
 import { tmpdir } from 'node:os';
@@ -15,5 +16,5 @@ try {
   assert.ok(after.includes('logger.info("hello")'));
   assert.ok(after.includes('// console.log("comment")'));
   assert.ok(after.includes('"console.log(123)"'));
-  console.log(JSON.stringify({ matches: matches.length, rewritten: 'logger.info("hello")', commentAndStringUnchanged: true }));
+  checkResult('ast-grep', { matches: matches.length, rewritten: after.split('\n').find(line => line.startsWith('logger.info'))?.replace(/;$/, ''), commentAndStringUnchanged: after.includes('// console.log("comment")') && after.includes('"console.log(123)"') });
 } finally { rmSync(dir, { recursive: true, force: true }); }

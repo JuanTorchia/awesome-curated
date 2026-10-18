@@ -13,6 +13,8 @@
     "README.md",
     "aim-example.py",
     "ast-grep.mjs",
+    "check-result.mjs",
+    "check_result.py",
     "chroma.py",
     "expected.json",
     "netron-example.py",
@@ -23,16 +25,19 @@
     "vest.mjs"
   ],
   "sha256": {
-    "README.md": "71a3b005113851be4988c0717c7273df8d5eca6ca9bfd538c35d80160abd22e1",
-    "aim-example.py": "786b4d8774131722396035b2c5ef5c3f9b48f63eb89eff84143c62d2f7e7af89",
-    "ast-grep.mjs": "98d8362d80743e75c5ec66a93ce293e14e98434b430cd602e52c1ab6d839bcbc",
-    "chroma.py": "85b3c2f76771ad1989ac0fa01c2b7989f282536405168a3a2a97431c72dc1903",
+    "README.md": "e33f08b8feff5d296f5d291adf925ed253015b28696ab0f23004edcae13a4e2e",
+    "aim-example.py": "14c63f9defb21bca50d14955dc7b7e7b2d720bbeb86de6c5b3af772a86a7c9ec",
+    "ast-grep.mjs": "d813eb3d0490fd65d771c2ef96f6c04907022641e5f0fe24d49848897285b45a",
+    "check-result.mjs": "3bce3de502e9eab50f31c2649283a2ca86b953790c034bee4e2256f2cd42a342",
+    "check_result.py": "a9c61f04715e8795f5fcd7578e16d5d38db401bc1afdc47494e94db18f418ca5",
+    "chroma.py": "b791b60b88e4b6036dc87a9e5d72838e4fb8a6a989f6741fc380d1fd029c9e2c",
     "expected.json": "3e5ce9fd22be1def00bc61c9ec94d680dd07de27a7fbeb9e03bcae3a5a075fc7",
-    "netron-example.py": "59c76e2649268a0f52fa19709aefa9bffc2327c1356a41ce44eb1ad02464c5be",
+    "netron-example.py": "5007155180515d7ddd7d8ca345e69c6b37583a534d2117b809746bd4ddee50f0",
     "package-lock.json": "8e5891296ee4abf3e204419f5a2c5deab51ab6af51ac25f2bb43aff782f94b4c",
     "package.json": "ddeb538316910afc413c8bb6017b871c63e504f215bb67474e9f2070a4662680",
     "requirements.txt": "a942880759ef7c172210fb8c9ff36d33d5e56b42047baffa1f7c934a23586b46",
-    "versions.json": "04d4cda16eeb82d826a01a40ec95d0d93c55fbced3fe41b30808bc9beffb8423",
-    "vest.mjs": "4c0912ba2102c919c3f837af313e983eebb93f07f36c0b55dc9b2cda562dffc2"
-  }
+    "versions.json": "fa354165b02b9f61c3ffd94cf207897653011aaf10e8d376a3c4bfa0db4999d0",
+    "vest.mjs": "d04595f0188b87bcda2d2dcc5b160ce486e56b985c4352fff9fc7adccc390039"
+  },
+  "revision": "practical-examples-2026-10-18-r2"
 }

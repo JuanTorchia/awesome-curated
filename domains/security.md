@@ -2,9 +2,9 @@
 
 <p><sub>← [Back to main](../README.md)</sub></p>
 
-**1 Human-reviewed · 0 Popular standards · 8 AI candidates · 0 Needs review**
+**1 Human reviewed · 0 Popular standards · 8 AI candidates · 0 Needs Review**
 
-Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
+Inspectable catalog: [TOOLS.md](../TOOLS.md) · Evidence snapshot: [data/latest.json](../data/latest.json)
 
 ---
 
@@ -16,11 +16,11 @@ Tools with a human review label and visible caveats.
 
 ![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · Found in 3 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go
 
-**Review label:** Human Pick · **Caveat:** Security-sensitive tool; evaluate fit and maintenance posture before production use.
+**Review:** Human Pick · **Caveat / review:** Security-sensitive tool; evaluate fit and maintenance posture before production use.
 
 High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption). Ported on many...
 
-**Why this is here:** Gives teams a higher-level API over cryptographic primitives without starting from raw building blocks.
+**Why it is here:** Gives teams a higher-level API over cryptographic primitives without starting from raw building blocks.
 
 **Evidence record:** [Full evidence](../catalog/security.md#themis-cossacklabs-themis) · [data/latest.json](../data/latest.json)
 
@@ -37,11 +37,11 @@ Automated candidates with enough source signal; these are not human endorsements
 
 Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
 
 Web browser with an emphasis on privacy and speed. (https://github.com/brave/brave-browser/)
 
-**Why this is here:** Built-in ad/tracker blocking
+**Why it is here:** Built-in ad/tracker blocking
 
 **Evidence record:** [Full evidence](../catalog/security.md#brave-brave) · [data/latest.json](../data/latest.json)
 
@@ -51,11 +51,11 @@ Web browser with an emphasis on privacy and speed. (https://github.com/brave/bra
 
 Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
 
 A fork of Firefox, focused on privacy, security and freedom. (https://gitlab.com/librewolf-community)
 
-**Why this is here:** A fork of Firefox, focused on privacy, security and freedom. (https://gitlab.com/librewolf-community)
+**Why it is here:** A fork of Firefox, focused on privacy, security and freedom. (https://gitlab.com/librewolf-community)
 
 **Evidence record:** [Full evidence](../catalog/security.md#librewolf-librewolf) · [data/latest.json](../data/latest.json)
 
@@ -65,11 +65,11 @@ A fork of Firefox, focused on privacy, security and freedom. (https://gitlab.com
 
 ![](https://img.shields.io/github/stars/mariocandela/beelzebub?style=flat-square&label=⭐) · Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
 
 ☁️ Beelzebub is a honeypot framework that lets you build honeypot tools using MCP. Its purpose is to detect prompt injection or malicious agent behavior. The underlying idea is to provide the agent with tools it...
 
-**Why this is here:** ☁️ Beelzebub is a honeypot framework that lets you build honeypot tools using MCP. Its purpose is to detect prompt injection or malicious agent...
+**Why it is here:** ☁️ Beelzebub is a honeypot framework that lets you build honeypot tools using MCP. Its purpose is to detect prompt injection or malicious agent...
 
 **Evidence record:** [Full evidence](../catalog/security.md#mariocandela-beelzebub-mariocandela-beelzebub) · [data/latest.json](../data/latest.json)
 
@@ -79,11 +79,11 @@ A fork of Firefox, focused on privacy, security and freedom. (https://gitlab.com
 
 ![](https://img.shields.io/github/stars/mavdol/capsule?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, punkpeye/awesome-mcp-servers
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
 
 🦀 🏠 🍎 🪟 🐧 Run untrusted Python/JavaScript code in WebAssembly sandboxes.
 
-**Why this is here:** 🦀 🏠 🍎 🪟 🐧 Run untrusted Python/JavaScript code in WebAssembly sandboxes.
+**Why it is here:** 🦀 🏠 🍎 🪟 🐧 Run untrusted Python/JavaScript code in WebAssembly sandboxes.
 
 **Evidence record:** [Full evidence](../catalog/security.md#mavdol-capsule-mcp-server-mavdol-capsule) · [data/latest.json](../data/latest.json)
 
@@ -93,11 +93,11 @@ A fork of Firefox, focused on privacy, security and freedom. (https://gitlab.com
 
 ![](https://img.shields.io/github/stars/promptfoo/promptfoo?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
 
 LLM red teaming and evaluation framework for testing jailbreaks, prompt injection, and other vulnerabilities with CI/CD integration.
 
-**Why this is here:** CI/CD integration out-of-box
+**Why it is here:** CI/CD integration out-of-box
 
 **Evidence record:** [Full evidence](../catalog/security.md#promptfoo-promptfoo-promptfoo) · [data/latest.json](../data/latest.json)
 
@@ -107,11 +107,11 @@ LLM red teaming and evaluation framework for testing jailbreaks, prompt injectio
 
 ![](https://img.shields.io/github/stars/safedep/vet?style=flat-square&label=⭐) · Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
 
 🎖️ 🏎️ ☁️ 🍎 🪟 🐧 vet-mcp checks open source packages—like those suggested by AI coding tools—for vulnerabilities and malicious code. It supports npm and PyPI, and runs locally via Docker or as a standalone binary...
 
-**Why this is here:** Local execution sin cloud dependency
+**Why it is here:** Local execution sin cloud dependency
 
 **Evidence record:** [Full evidence](../catalog/security.md#safedep-vet-safedep-vet) · [data/latest.json](../data/latest.json)
 
@@ -121,11 +121,11 @@ LLM red teaming and evaluation framework for testing jailbreaks, prompt injectio
 
 ![](https://img.shields.io/github/stars/sherlock-project/sherlock?style=flat-square&label=⭐) · Found in 2 active sources: jivoi/awesome-osint, vinta/awesome-python
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
 
 Hunt down social media accounts by username across social networks.
 
-**Why this is here:** Soporta muchas plataformas
+**Why it is here:** Soporta muchas plataformas
 
 **Evidence record:** [Full evidence](../catalog/security.md#sherlock-sherlock-project-sherlock) · [data/latest.json](../data/latest.json)
 
@@ -135,11 +135,11 @@ Hunt down social media accounts by username across social networks.
 
 ![](https://img.shields.io/github/stars/ssh-vault/ssh-vault?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, avelino/awesome-go
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
 
 A simple tool to manage secrets using ssh keys for encryption and decryption.
 
-**Why this is here:** A simple tool to manage secrets using ssh keys for encryption and decryption.
+**Why it is here:** A simple tool to manage secrets using ssh keys for encryption and decryption.
 
 **Evidence record:** [Full evidence](../catalog/security.md#ssh-vault-ssh-vault-ssh-vault) · [data/latest.json](../data/latest.json)
 

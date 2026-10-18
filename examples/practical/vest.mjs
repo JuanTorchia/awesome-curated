@@ -1,3 +1,4 @@
+import { checkResult } from './check-result.mjs';
 import assert from 'node:assert/strict';
 import { create, test, enforce } from 'vest';
 const validate = create((data) => {
@@ -9,4 +10,4 @@ assert.equal(invalid.hasErrors('username'), true);
 assert.equal(invalid.hasErrors('password'), true);
 const valid = validate.run({ username: 'ana', password: 'fixture-only-password' });
 assert.equal(valid.hasErrors(), false);
-console.log(JSON.stringify({ invalidFields: Object.keys(invalid.getErrors()).sort(), validHasErrors: valid.hasErrors() }));
+checkResult('vest', { invalidFields: Object.keys(invalid.getErrors()).sort(), validHasErrors: valid.hasErrors() });

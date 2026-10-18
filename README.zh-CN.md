@@ -4,7 +4,7 @@
 
 其他语言版本: [🇬🇧 English](README.md) · [🇪🇸 Español](README.es.md) · [🇧🇷 Português (BR)](README.pt-BR.md) · **🇨🇳 中文** · [🇯🇵 日本語](README.ja.md)
 
-### 一个**每周审计的开发工具雷达**，追踪活跃 `awesome-*` 仓库中真正获得关注的工具，帮助开发者少开标签页、少看炒作。
+### 一个**每周开发工具雷达**，整理活跃 `awesome-*` 仓库收录的工具，提供来源记录和人工审核的精选。
 
 [![Human Picks](https://img.shields.io/badge/Human_Picks-5-gold?style=for-the-badge)](#)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](#)
@@ -42,11 +42,12 @@
 - **方法论**: [METHODOLOGY.md](METHODOLOGY.md)
 - **跟踪来源**: [SOURCES.md](SOURCES.md)
 - **更新摘要**: [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md)
-- **Evidence snapshot**: [data/latest.json](data/latest.json)
-- **Inspectable catalog**: [TOOLS.md](TOOLS.md)
-- **Popular standards**: 1
-- **Needs review**: 0
-- **Candidate catalog**: available in [data/latest.json](data/latest.json) and domain pages; candidates are not endorsements.
+- **证据快照**: [data/latest.json](data/latest.json)
+- **可查阅目录**: [TOOLS.md](TOOLS.md)
+- **常用标准工具**: 1
+- **Needs Review 状态（复核来源）**: 0
+- **等待人工认可的 AI Candidates**: 229
+- 候选工具尚未获得 Juan 的认可。请查看目录和领域页面。
 
 ---
 
@@ -56,65 +57,105 @@
 
 ---
 
-## ⭐ 本周值得关注
+## ⭐ 人工审核精选
 
-人工审核的推荐，并附上现在值得看的具体原因。
+经过人工审核的工具及其适用任务。
 
 <!-- staff-picks:start -->
 ### 👤 [BayesWitnesses/m2cgen](https://github.com/bayeswitnesses/m2cgen)
 
-**Why now:** Turns trained ML models into native code, reducing production runtime dependencies.
+<!-- pick:rationale -->
 
-**Evidence:** Found in 4 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more · [traces](data/latest.json)
+**为什么重要:** Turns trained ML models into native code, reducing production runtime dependencies.
 
-**Review:** Human Pick
+<!-- pick:evidence -->
 
-**Caveat:** Best fit for teams with a matching ML or data workflow.
+**证据:** 收录于 4 个活跃来源: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more · [来源记录](data/latest.json)
+
+<!-- pick:review -->
+
+**审核:** Human Pick
+
+<!-- pick:caveat -->
+
+**说明 / 审核:** 更适合具有相应机器学习或数据工作流的团队。
 
 ### 👤 [Netron](https://github.com/lutzroeder/netron)
 
-**Why now:** Makes model inspection practical across ONNX, TensorFlow, PyTorch, and related ML formats.
+<!-- pick:rationale -->
 
-**Evidence:** Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning · [traces](data/latest.json)
+**为什么重要:** Makes model inspection practical across ONNX, TensorFlow, PyTorch, and related ML formats.
 
-**Review:** Human Pick
+<!-- pick:evidence -->
 
-**Caveat:** Best fit for teams with a matching ML or data workflow.
+**证据:** 收录于 3 个活跃来源: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning · [来源记录](data/latest.json)
+
+<!-- pick:review -->
+
+**审核:** Human Pick
+
+<!-- pick:caveat -->
+
+**说明 / 审核:** 更适合具有相应机器学习或数据工作流的团队。
 
 ### 👤 [Sniffnet](https://github.com/gyulyvgc/sniffnet)
 
-**Why now:** Provides a low-friction network traffic monitor for debugging and security checks.
+<!-- pick:rationale -->
 
-**Evidence:** Found in 3 active sources: rust-unofficial/awesome-rust, jaywcjlove/awesome-mac, MunGell/awesome-for-beginners · [traces](data/latest.json)
+**为什么重要:** Provides a low-friction network traffic monitor for debugging and security checks.
 
-**Review:** Human Pick
+<!-- pick:evidence -->
 
-**Caveat:** Worth a focused trial before adopting broadly.
+**证据:** 收录于 3 个活跃来源: rust-unofficial/awesome-rust, jaywcjlove/awesome-mac, MunGell/awesome-for-beginners · [来源记录](data/latest.json)
+
+<!-- pick:review -->
+
+**审核:** Human Pick
+
+<!-- pick:caveat -->
+
+**说明 / 审核:** 广泛采用前，应先进行有针对性的小范围试用。
 
 ### 👤 [themis](https://github.com/cossacklabs/themis)
 
-**Why now:** Gives teams a higher-level API over cryptographic primitives without starting from raw building blocks.
+<!-- pick:rationale -->
 
-**Evidence:** Found in 3 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go · [traces](data/latest.json)
+**为什么重要:** Gives teams a higher-level API over cryptographic primitives without starting from raw building blocks.
 
-**Review:** Human Pick
+<!-- pick:evidence -->
 
-**Caveat:** Security-sensitive tool; evaluate fit and maintenance posture before production use.
+**证据:** 收录于 3 个活跃来源: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go · [来源记录](data/latest.json)
+
+<!-- pick:review -->
+
+**审核:** Human Pick
+
+<!-- pick:caveat -->
+
+**说明 / 审核:** 涉及安全的工具；用于生产前需评估适用性与维护状况。
 
 ### 👤 [Bencher](https://bencher.dev)
 
-**Why now:** Adds continuous benchmarking to CI so performance regressions can be caught before release.
+<!-- pick:rationale -->
 
-**Evidence:** Found in 2 active sources: fffaraz/awesome-cpp, avelino/awesome-go · [traces](data/latest.json)
+**为什么重要:** Adds continuous benchmarking to CI so performance regressions can be caught before release.
 
-**Review:** Human Pick
+<!-- pick:evidence -->
 
-**Caveat:** Cross-source coverage is limited.
+**证据:** 收录于 2 个活跃来源: fffaraz/awesome-cpp, avelino/awesome-go · [来源记录](data/latest.json)
+
+<!-- pick:review -->
+
+**审核:** Human Pick
+
+<!-- pick:caveat -->
+
+**说明 / 审核:** 跨来源覆盖有限。
 <!-- staff-picks:end -->
 
 ---
 
-## Review queue
+## 等待人工审核的候选工具
 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, jivoi/awesome-osint, vinta/awesome-python
 - [Deepchecks](https://github.com/deepchecks/deepchecks) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
@@ -122,7 +163,7 @@
 - [Feature Engine](https://github.com/feature-engine/feature_engine) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
 - [askbudi/roundtable](https://github.com/askbudi/roundtable) — AI & ML · Found in 2 active sources: vuejs/awesome-vue, punkpeye/awesome-mcp-servers
 
-Candidates are not endorsements. Ask for review via [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) or inspect the full queue in [TOOLS.md](TOOLS.md).
+候选工具不代表个人推荐。可通过 GitHub issues 请求审核，或在 TOOLS.md 查看完整队列。 [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) · [TOOLS.md](TOOLS.md)
 
 ---
 

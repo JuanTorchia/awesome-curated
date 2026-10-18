@@ -33,6 +33,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Caveat:** Best fit for teams with a matching ML or data workflow.
 
+[Reproducible example](../GUIDE.md#netron)
+
 **Source traces:**
 
 - [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
@@ -86,6 +88,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Caveat:** Cross-source coverage is limited.
 
+[Reproducible example](../GUIDE.md#aim)
+
 **Source traces:**
 
 - [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
@@ -119,6 +123,8 @@ Generated: 2026-10-18 · Tool entries: 79
 **Why it is here:** Worth trying: approachable open-source embedding database for prototyping retrieval and agent memory workflows.
 
 **Caveat:** Cross-source coverage is limited.
+
+[Reproducible example](../GUIDE.md#chroma)
 
 **Source traces:**
 

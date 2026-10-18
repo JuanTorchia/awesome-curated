@@ -1,4 +1,4 @@
-import json
+from check_result import check_result
 import chromadb
 from chromadb.config import Settings
 client = chromadb.EphemeralClient(Settings(anonymized_telemetry=False))
@@ -7,4 +7,4 @@ collection.add(ids=['logs','payments','garden'], embeddings=[[1.,0.,0.],[0.,1.,0
 result = collection.query(query_embeddings=[[1.,0.,0.]], n_results=2)
 assert result['ids'][0][0] == 'logs'
 assert result['distances'][0][0] == 0.
-print(json.dumps({'count':collection.count(),'nearest':result['ids'][0][0],'distance':result['distances'][0][0]}))
+check_result('chroma', {'count':collection.count(),'nearest':result['ids'][0][0],'distance':result['distances'][0][0]})

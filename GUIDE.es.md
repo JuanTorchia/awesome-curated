@@ -5,7 +5,7 @@ Elegí un problema, ejecutá un caso mínimo y mirá el resultado antes de sumar
 Pruebas del 18 de octubre de 2026 con datos sintéticos, en contenedores Linux x86-64 descartables. Las comprobaciones se automatizaron con asistencia de IA. Los veredictos existentes del catálogo se conservan. La instalación requiere internet; las ejecuciones finales se hicieron con la red externa desconectada.
 
 ```sh
-git clone --branch practical-examples-2026-10-18 --depth 1 https://github.com/JuanTorchia/awesome-curated.git
+git clone --branch practical-examples-2026-10-18-r2 --depth 1 https://github.com/JuanTorchia/awesome-curated.git
 cd awesome-curated/examples/practical
 ```
 

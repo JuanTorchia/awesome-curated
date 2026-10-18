@@ -1,4 +1,5 @@
-import hashlib, json, tempfile, urllib.request
+import hashlib, tempfile, urllib.request
+from check_result import check_result
 import netron, onnx
 from onnx import helper, TensorProto
 with tempfile.TemporaryDirectory(prefix='awesome-netron-') as path:
@@ -13,9 +14,13 @@ with tempfile.TemporaryDirectory(prefix='awesome-netron-') as path:
             status = response.status
         with urllib.request.urlopen('http://127.0.0.1:18080/data/single-relu.onnx', timeout=5) as response:
             served = response.read()
+            assert response.status == 200
         original = open(filename,'rb').read()
         assert status == 200 and b'Netron' in html
         assert served == original
-        print(json.dumps({'http':status,'modelSha256':hashlib.sha256(served).hexdigest(),'nodes':[node.op_type for node in model.graph.node],'shape':[1,3],'bytes':len(served)}))
+        decoded = onnx.load_model_from_string(served)
+        onnx.checker.check_model(decoded)
+        shape = [dimension.dim_value for dimension in decoded.graph.input[0].type.tensor_type.shape.dim]
+        check_result('netron', {'http':status,'modelSha256':hashlib.sha256(served).hexdigest(),'nodes':[node.op_type for node in decoded.graph.node],'shape':shape,'bytes':len(served)})
     finally:
         netron.stop(address)

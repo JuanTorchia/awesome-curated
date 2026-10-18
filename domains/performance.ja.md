@@ -2,62 +2,62 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**1 Human-reviewed · 0 Popular standards · 2 AI candidates · 0 Needs review**
+**1 人間レビュー済み · 0 広く使われる標準ツール · 2 AI 候補 · 0 Needs Review 状態**
 
-Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
+確認できるカタログ: [TOOLS.md](../TOOLS.md) · 根拠のスナップショット: [data/latest.json](../data/latest.json)
 
 ---
 
-## Human-reviewed picks
+## 人間レビュー済みの選定
 
-Tools with a human review label and visible caveats.
+人間による判定と制約が明示されたツールです。
 
 ### 👤 [Bencher](https://bencher.dev)
 
-Found in 2 active sources: fffaraz/awesome-cpp, avelino/awesome-go
+掲載元 2 件のアクティブなソース: fffaraz/awesome-cpp, avelino/awesome-go
 
-**Review label:** Human Pick · **Caveat:** Cross-source coverage is limited.
+**レビュー:** Human Pick · **注記 / レビュー:** 複数ソースによる掲載の範囲は限定的です。
 
 Suite of continuous benchmarking tools designed to catch performance regressions in CI. MIT/Apache-2.0 Rust
 
-**Why this is here:** Adds continuous benchmarking to CI so performance regressions can be caught before release.
+**掲載理由:** Adds continuous benchmarking to CI so performance regressions can be caught before release.
 
-**Evidence record:** [Full evidence](../catalog/performance.md#bencher-bencher) · [data/latest.json](../data/latest.json)
-
----
-
+**根拠の記録:** [根拠の詳細](../catalog/performance.md#bencher-bencher) · [data/latest.json](../data/latest.json)
 
 ---
 
-## AI candidates
 
-Automated candidates with enough source signal; these are not human endorsements yet.
+---
+
+## AI 候補
+
+複数ソースの条件を満たす自動候補です。人間による推薦ではありません。
 
 ### [Cython](https://github.com/cython/cython)
 
-![](https://img.shields.io/github/stars/cython/cython?style=flat-square&label=⭐) · Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python
+![](https://img.shields.io/github/stars/cython/cython?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: fffaraz/awesome-cpp, vinta/awesome-python
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
 
 Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It makes writing C extensions for Python as easy as Python itself. [Apache]
 
-**Why this is here:** Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It...
+**掲載理由:** Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It...
 
-**Evidence record:** [Full evidence](../catalog/performance.md#cython-cython-cython) · [data/latest.json](../data/latest.json)
+**根拠の記録:** [根拠の詳細](../catalog/performance.md#cython-cython-cython) · [data/latest.json](../data/latest.json)
 
 ---
 
 ### [Numba](https://github.com/numba/numba)
 
-![](https://img.shields.io/github/stars/numba/numba?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/numba/numba?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
 
 A compiler for Python array and numerical functions.
 
-**Why this is here:** A compiler for Python array and numerical functions.
+**掲載理由:** A compiler for Python array and numerical functions.
 
-**Evidence record:** [Full evidence](../catalog/performance.md#numba-numba-numba) · [data/latest.json](../data/latest.json)
+**根拠の記録:** [根拠の詳細](../catalog/performance.md#numba-numba-numba) · [data/latest.json](../data/latest.json)
 
 ---
 

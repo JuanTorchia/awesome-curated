@@ -4,7 +4,7 @@
 
 他の言語で読む: [🇬🇧 English](README.md) · [🇪🇸 Español](README.es.md) · [🇧🇷 Português (BR)](README.pt-BR.md) · [🇨🇳 中文](README.zh-CN.md) · **🇯🇵 日本語**
 
-### アクティブな `awesome-*` リポで実際に注目されている開発ツールを追う、**週次監査つきレーダー**。タブとノイズを減らし、見る価値のある短いリストを届けます。
+### アクティブな `awesome-*` リポに掲載された開発ツールの**週次レーダー**。出典と人間によるレビュー済みの選定を提供します。
 
 [![Human Picks](https://img.shields.io/badge/Human_Picks-5-gold?style=for-the-badge)](#)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](#)
@@ -42,11 +42,12 @@
 - **方法論**: [METHODOLOGY.md](METHODOLOGY.md)
 - **追跡ソース**: [SOURCES.md](SOURCES.md)
 - **更新サマリー**: [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md)
-- **Evidence snapshot**: [data/latest.json](data/latest.json)
-- **Inspectable catalog**: [TOOLS.md](TOOLS.md)
-- **Popular standards**: 1
-- **Needs review**: 0
-- **Candidate catalog**: available in [data/latest.json](data/latest.json) and domain pages; candidates are not endorsements.
+- **根拠のスナップショット**: [data/latest.json](data/latest.json)
+- **確認できるカタログ**: [TOOLS.md](TOOLS.md)
+- **広く使われる標準ツール**: 1
+- **Needs Review 状態（出典の再確認）**: 0
+- **人間の承認を待つ AI Candidates**: 229
+- 候補は Juan の推薦ではありません。カタログとドメイン別ページを確認してください。
 
 ---
 
@@ -56,65 +57,105 @@
 
 ---
 
-## ⭐ 今週見る価値あり
+## ⭐ 人間レビュー済みの選定
 
-今見るべき具体的な理由がある、人間レビュー済みの picks。
+人間がレビューしたツールと、それらが役立つ作業。
 
 <!-- staff-picks:start -->
 ### 👤 [BayesWitnesses/m2cgen](https://github.com/bayeswitnesses/m2cgen)
 
-**Why now:** Turns trained ML models into native code, reducing production runtime dependencies.
+<!-- pick:rationale -->
 
-**Evidence:** Found in 4 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more · [traces](data/latest.json)
+**なぜ重要か:** Turns trained ML models into native code, reducing production runtime dependencies.
 
-**Review:** Human Pick
+<!-- pick:evidence -->
 
-**Caveat:** Best fit for teams with a matching ML or data workflow.
+**根拠:** 掲載元 4 件のアクティブなソース: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more · [出典](data/latest.json)
+
+<!-- pick:review -->
+
+**レビュー:** Human Pick
+
+<!-- pick:caveat -->
+
+**注記 / レビュー:** 対応する ML やデータのワークフローを持つチーム向けです。
 
 ### 👤 [Netron](https://github.com/lutzroeder/netron)
 
-**Why now:** Makes model inspection practical across ONNX, TensorFlow, PyTorch, and related ML formats.
+<!-- pick:rationale -->
 
-**Evidence:** Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning · [traces](data/latest.json)
+**なぜ重要か:** Makes model inspection practical across ONNX, TensorFlow, PyTorch, and related ML formats.
 
-**Review:** Human Pick
+<!-- pick:evidence -->
 
-**Caveat:** Best fit for teams with a matching ML or data workflow.
+**根拠:** 掲載元 3 件のアクティブなソース: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning · [出典](data/latest.json)
+
+<!-- pick:review -->
+
+**レビュー:** Human Pick
+
+<!-- pick:caveat -->
+
+**注記 / レビュー:** 対応する ML やデータのワークフローを持つチーム向けです。
 
 ### 👤 [Sniffnet](https://github.com/gyulyvgc/sniffnet)
 
-**Why now:** Provides a low-friction network traffic monitor for debugging and security checks.
+<!-- pick:rationale -->
 
-**Evidence:** Found in 3 active sources: rust-unofficial/awesome-rust, jaywcjlove/awesome-mac, MunGell/awesome-for-beginners · [traces](data/latest.json)
+**なぜ重要か:** Provides a low-friction network traffic monitor for debugging and security checks.
 
-**Review:** Human Pick
+<!-- pick:evidence -->
 
-**Caveat:** Worth a focused trial before adopting broadly.
+**根拠:** 掲載元 3 件のアクティブなソース: rust-unofficial/awesome-rust, jaywcjlove/awesome-mac, MunGell/awesome-for-beginners · [出典](data/latest.json)
+
+<!-- pick:review -->
+
+**レビュー:** Human Pick
+
+<!-- pick:caveat -->
+
+**注記 / レビュー:** 広く採用する前に、用途を絞った試用が必要です。
 
 ### 👤 [themis](https://github.com/cossacklabs/themis)
 
-**Why now:** Gives teams a higher-level API over cryptographic primitives without starting from raw building blocks.
+<!-- pick:rationale -->
 
-**Evidence:** Found in 3 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go · [traces](data/latest.json)
+**なぜ重要か:** Gives teams a higher-level API over cryptographic primitives without starting from raw building blocks.
 
-**Review:** Human Pick
+<!-- pick:evidence -->
 
-**Caveat:** Security-sensitive tool; evaluate fit and maintenance posture before production use.
+**根拠:** 掲載元 3 件のアクティブなソース: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go · [出典](data/latest.json)
+
+<!-- pick:review -->
+
+**レビュー:** Human Pick
+
+<!-- pick:caveat -->
+
+**注記 / レビュー:** 安全性に関わるツールです。本番利用前に適合性と保守状況を評価してください。
 
 ### 👤 [Bencher](https://bencher.dev)
 
-**Why now:** Adds continuous benchmarking to CI so performance regressions can be caught before release.
+<!-- pick:rationale -->
 
-**Evidence:** Found in 2 active sources: fffaraz/awesome-cpp, avelino/awesome-go · [traces](data/latest.json)
+**なぜ重要か:** Adds continuous benchmarking to CI so performance regressions can be caught before release.
 
-**Review:** Human Pick
+<!-- pick:evidence -->
 
-**Caveat:** Cross-source coverage is limited.
+**根拠:** 掲載元 2 件のアクティブなソース: fffaraz/awesome-cpp, avelino/awesome-go · [出典](data/latest.json)
+
+<!-- pick:review -->
+
+**レビュー:** Human Pick
+
+<!-- pick:caveat -->
+
+**注記 / レビュー:** 複数ソースによる掲載の範囲は限定的です。
 <!-- staff-picks:end -->
 
 ---
 
-## Review queue
+## 人間のレビューを待つ候補
 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, jivoi/awesome-osint, vinta/awesome-python
 - [Deepchecks](https://github.com/deepchecks/deepchecks) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
@@ -122,7 +163,7 @@
 - [Feature Engine](https://github.com/feature-engine/feature_engine) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
 - [askbudi/roundtable](https://github.com/askbudi/roundtable) — AI & ML · Found in 2 active sources: vuejs/awesome-vue, punkpeye/awesome-mcp-servers
 
-Candidates are not endorsements. Ask for review via [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) or inspect the full queue in [TOOLS.md](TOOLS.md).
+候補は個人的な推薦ではありません。GitHub issues でレビューを依頼するか、TOOLS.md で全候補を確認できます。 [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) · [TOOLS.md](TOOLS.md)
 
 ---
 

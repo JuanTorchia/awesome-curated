@@ -1,4 +1,4 @@
-# Five small Awesome Curated examples
+# Five small Awesome Curated examples — revision 2
 
 These synthetic examples check one concrete behavior per tool. They are not
 benchmarks, production deployments, security assessments, or evidence that Juan
@@ -60,6 +60,11 @@ model or comparison of trackers.
 System tracking and terminal capture are disabled. All temporary data is removed.
 
 ## Reproduction scope
+
+Each script compares its full observed result with `expected.json` and exits
+with an error on any difference. `check-result.mjs` and `check_result.py` load
+that contract relative to their own file, independently of the working directory.
+Netron extracts shape and node types from the served ONNX model.
 
 See `expected.json` for the asserted observations and `versions.json` for tested
 versions, base image digests and first-party package artifact checksums. The npm

@@ -2,9 +2,9 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**0 Human-reviewed · 0 Popular standards · 0 AI candidates · 0 Needs review**
+**0 人工审核 · 0 常用标准工具 · 0 AI 候选工具 · 0 Needs Review 状态**
 
-Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
+可查阅目录: [TOOLS.md](../TOOLS.md) · 证据快照: [data/latest.json](../data/latest.json)
 
 ---
 

@@ -2,62 +2,62 @@
 
 <p><sub>← [Voltar ao main](../README.pt-BR.md)</sub></p>
 
-**1 Human-reviewed · 0 Popular standards · 2 AI candidates · 0 Needs review**
+**1 Revisado por humano · 0 Padrões populares · 2 Candidatos de IA · 0 Estado Needs Review**
 
-Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
+Catálogo consultável: [TOOLS.md](../TOOLS.md) · Snapshot de evidências: [data/latest.json](../data/latest.json)
 
 ---
 
-## Human-reviewed picks
+## Seleção revisada por pessoas
 
-Tools with a human review label and visible caveats.
+Ferramentas com avaliação humana e limites visíveis.
 
 ### 👤 [Bencher](https://bencher.dev)
 
-Found in 2 active sources: fffaraz/awesome-cpp, avelino/awesome-go
+Encontrada em 2 fontes ativas: fffaraz/awesome-cpp, avelino/awesome-go
 
-**Review label:** Human Pick · **Caveat:** Cross-source coverage is limited.
+**Revisão:** Human Pick · **Nota / revisão:** A cobertura entre fontes é limitada.
 
 Suite of continuous benchmarking tools designed to catch performance regressions in CI. MIT/Apache-2.0 Rust
 
-**Why this is here:** Adds continuous benchmarking to CI so performance regressions can be caught before release.
+**Por que foi incluída:** Adds continuous benchmarking to CI so performance regressions can be caught before release.
 
-**Evidence record:** [Full evidence](../catalog/performance.md#bencher-bencher) · [data/latest.json](../data/latest.json)
-
----
-
+**Registro de evidências:** [Evidência completa](../catalog/performance.md#bencher-bencher) · [data/latest.json](../data/latest.json)
 
 ---
 
-## AI candidates
 
-Automated candidates with enough source signal; these are not human endorsements yet.
+---
+
+## Candidatos de IA
+
+Candidatos automatizados com cobertura suficiente entre fontes; ainda sem recomendação humana.
 
 ### [Cython](https://github.com/cython/cython)
 
-![](https://img.shields.io/github/stars/cython/cython?style=flat-square&label=⭐) · Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python
+![](https://img.shields.io/github/stars/cython/cython?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: fffaraz/awesome-cpp, vinta/awesome-python
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
 
 Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It makes writing C extensions for Python as easy as Python itself. [Apache]
 
-**Why this is here:** Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It...
+**Por que foi incluída:** Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It...
 
-**Evidence record:** [Full evidence](../catalog/performance.md#cython-cython-cython) · [data/latest.json](../data/latest.json)
+**Registro de evidências:** [Evidência completa](../catalog/performance.md#cython-cython-cython) · [data/latest.json](../data/latest.json)
 
 ---
 
 ### [Numba](https://github.com/numba/numba)
 
-![](https://img.shields.io/github/stars/numba/numba?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/numba/numba?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
 
 A compiler for Python array and numerical functions.
 
-**Why this is here:** A compiler for Python array and numerical functions.
+**Por que foi incluída:** A compiler for Python array and numerical functions.
 
-**Evidence record:** [Full evidence](../catalog/performance.md#numba-numba-numba) · [data/latest.json](../data/latest.json)
+**Registro de evidências:** [Evidência completa](../catalog/performance.md#numba-numba-numba) · [data/latest.json](../data/latest.json)
 
 ---
 

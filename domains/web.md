@@ -2,9 +2,9 @@
 
 <p><sub>← [Back to main](../README.md)</sub></p>
 
-**1 Human-reviewed · 0 Popular standards · 10 AI candidates · 0 Needs review**
+**1 Human reviewed · 0 Popular standards · 10 AI candidates · 0 Needs Review**
 
-Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
+Inspectable catalog: [TOOLS.md](../TOOLS.md) · Evidence snapshot: [data/latest.json](../data/latest.json)
 
 ---
 
@@ -16,11 +16,13 @@ Tools with a human review label and visible caveats.
 
 ![](https://img.shields.io/github/stars/ealush/vest?style=flat-square&label=⭐) · Found in 2 active sources: vuejs/awesome-vue, MunGell/awesome-for-beginners
 
-**Review label:** Worth Trying · **Caveat:** Cross-source coverage is limited.
+**Review:** Worth Trying · **Caveat / review:** Cross-source coverage is limited.
 
 Validations framework inspired by unit testing frameworks.
 
-**Why this is here:** Sintaxis intuitiva para validaciones complejas
+**Why it is here:** Sintaxis intuitiva para validaciones complejas
+
+[Reproducible example](../GUIDE.md#vest)
 
 **Evidence record:** [Full evidence](../catalog/web.md#vest-ealush-vest) · [data/latest.json](../data/latest.json)
 
@@ -37,11 +39,11 @@ Automated candidates with enough source signal; these are not human endorsements
 
 Found in 2 active sources: jivoi/awesome-osint, academic/awesome-datascience
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
 
 is a powerful data visualization javascript library.
 
-**Why this is here:** is a powerful data visualization javascript library.
+**Why it is here:** is a powerful data visualization javascript library.
 
 **Evidence record:** [Full evidence](../catalog/web.md#d3js-d3js) · [data/latest.json](../data/latest.json)
 
@@ -51,11 +53,11 @@ is a powerful data visualization javascript library.
 
 ![](https://img.shields.io/github/stars/grpc/grpc?style=flat-square&label=⭐) · Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
 
 Remote Procedure Calls (RPCs) provide a useful abstraction for building distributed applications and services. The libraries in this repository provide a concrete implementation of the gRPC protocol, layered over...
 
-**Why this is here:** Performance superior a REST para cargas altas
+**Why it is here:** Performance superior a REST para cargas altas
 
 **Evidence record:** [Full evidence](../catalog/web.md#grpc-grpc-grpc) · [data/latest.json](../data/latest.json)
 
@@ -65,11 +67,11 @@ Remote Procedure Calls (RPCs) provide a useful abstraction for building distribu
 
 ![](https://img.shields.io/github/stars/hyperium/hyper?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, MunGell/awesome-for-beginners
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
 
 an HTTP implementation
 
-**Why this is here:** Arquitectura async/await limpia con Tokio
+**Why it is here:** Arquitectura async/await limpia con Tokio
 
 **Evidence record:** [Full evidence](../catalog/web.md#hyperium-hyper-hyperium-hyper) · [data/latest.json](../data/latest.json)
 
@@ -79,11 +81,11 @@ an HTTP implementation
 
 ![](https://img.shields.io/github/stars/juspay/neurolink?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, punkpeye/awesome-mcp-servers
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
 
 📇 ☁️ 🏠 🍎 🪟 🐧 Making enterprise AI infrastructure universally accessible. Edge-first platform unifying 12 providers and 100+ models with multi-agent orchestration, HITL workflows, guardrails middleware, and...
 
-**Why this is here:** Middleware guardrails incluido
+**Why it is here:** Middleware guardrails incluido
 
 **Evidence record:** [Full evidence](../catalog/web.md#juspay-neurolink-juspay-neurolink) · [data/latest.json](../data/latest.json)
 
@@ -93,11 +95,11 @@ an HTTP implementation
 
 ![](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=flat-square&label=⭐) · Found in 2 active sources: vinta/awesome-python, punkpeye/awesome-mcp-servers
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
 
 A Python agent framework for building generative AI applications with structured schemas.
 
-**Why this is here:** A Python agent framework for building generative AI applications with structured schemas.
+**Why it is here:** A Python agent framework for building generative AI applications with structured schemas.
 
 **Evidence record:** [Full evidence](../catalog/web.md#pydantic-ai-pydantic-pydantic-ai) · [data/latest.json](../data/latest.json)
 
@@ -107,11 +109,11 @@ A Python agent framework for building generative AI applications with structured
 
 ![](https://img.shields.io/github/stars/python-babel/babel?style=flat-square&label=⭐) · Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
 
 The Python Internationalization Library.
 
-**Why this is here:** The Python Internationalization Library.
+**Why it is here:** The Python Internationalization Library.
 
 **Evidence record:** [Full evidence](../catalog/web.md#python-babel-python-babel-babel) · [data/latest.json](../data/latest.json)
 
@@ -121,11 +123,11 @@ The Python Internationalization Library.
 
 ![](https://img.shields.io/github/stars/scrapy/scrapy?style=flat-square&label=⭐) · Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
 
 A fast high-level web crawling & scraping framework for Python.
 
-**Why this is here:** A fast high-level web crawling & scraping framework for Python.
+**Why it is here:** A fast high-level web crawling & scraping framework for Python.
 
 **Evidence record:** [Full evidence](../catalog/web.md#scrapy-scrapy-scrapy) · [data/latest.json](../data/latest.json)
 
@@ -135,11 +137,11 @@ A fast high-level web crawling & scraping framework for Python.
 
 ![](https://img.shields.io/github/stars/tencent/tquic?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
 
 A high-performance, lightweight, and cross-platform QUIC library
 
-**Why this is here:** Performance benchmarks competitivos vs quinn
+**Why it is here:** Performance benchmarks competitivos vs quinn
 
 **Evidence record:** [Full evidence](../catalog/web.md#tencent-tquic-tencent-tquic) · [data/latest.json](../data/latest.json)
 
@@ -149,11 +151,11 @@ A high-performance, lightweight, and cross-platform QUIC library
 
 ![](https://img.shields.io/github/stars/txn2/kubefwd?style=flat-square&label=⭐) · Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
 
 🏎️ 🏠 Kubernetes bulk port forwarding with service discovery, /etc/hosts management, traffic monitoring, and pod log streaming
 
-**Why this is here:** Automatiza /etc/hosts para resolver servicios por nombre en localhost
+**Why it is here:** Automatiza /etc/hosts para resolver servicios por nombre en localhost
 
 **Evidence record:** [Full evidence](../catalog/web.md#txn2-kubefwd-txn2-kubefwd) · [data/latest.json](../data/latest.json)
 
@@ -163,11 +165,11 @@ A high-performance, lightweight, and cross-platform QUIC library
 
 Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
 
 The browser that puts you in control.
 
-**Why this is here:** Altamente themeable, muchas opciones de UI
+**Why it is here:** Altamente themeable, muchas opciones de UI
 
 **Evidence record:** [Full evidence](../catalog/web.md#vivaldi-vivaldi) · [data/latest.json](../data/latest.json)
 

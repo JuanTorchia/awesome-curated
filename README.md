@@ -4,7 +4,7 @@
 
 Read in other languages: **🇬🇧 English** · [🇪🇸 Español](README.es.md) · [🇧🇷 Português (BR)](README.pt-BR.md) · [🇨🇳 中文](README.zh-CN.md) · [🇯🇵 日本語](README.ja.md)
 
-### A **weekly radar** that turns active `awesome-*` repos into a small set of human-reviewed developer tools worth opening now.
+### A **weekly radar** of developer tools found in active `awesome-*` repositories, with source traces and a human-reviewed shortlist.
 
 [![Human Picks](https://img.shields.io/badge/Human_Picks-5-gold?style=for-the-badge)](#)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](#)
@@ -45,8 +45,9 @@ Star it if you want fewer tool-hunt tabs: source traces, dedupe, caveats, and a 
 - **Evidence snapshot**: [data/latest.json](data/latest.json)
 - **Inspectable catalog**: [TOOLS.md](TOOLS.md)
 - **Popular standards**: 1
-- **Needs review**: 0
-- **Candidate catalog**: available in [data/latest.json](data/latest.json) and domain pages; candidates are not endorsements.
+- **Needs Review label (trace recheck)**: 0
+- **AI Candidates awaiting human endorsement**: 229
+- Candidates have not been endorsed by Juan. See the catalog and domain pages.
 
 ---
 
@@ -56,65 +57,105 @@ Star it if you want fewer tool-hunt tabs: source traces, dedupe, caveats, and a 
 
 ---
 
-## ⭐ Worth Your Time This Week
+## ⭐ Human-reviewed picks
 
-Human-reviewed picks with a concrete reason to look now.
+Human-reviewed tools and the tasks they help with.
 
 <!-- staff-picks:start -->
 ### 👤 [BayesWitnesses/m2cgen](https://github.com/bayeswitnesses/m2cgen)
 
-**Why now:** Turns trained ML models into native code, reducing production runtime dependencies.
+<!-- pick:rationale -->
+
+**Why it matters:** Turns trained ML models into native code, reducing production runtime dependencies.
+
+<!-- pick:evidence -->
 
 **Evidence:** Found in 4 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more · [traces](data/latest.json)
 
+<!-- pick:review -->
+
 **Review:** Human Pick
 
-**Caveat:** Best fit for teams with a matching ML or data workflow.
+<!-- pick:caveat -->
+
+**Caveat / review:** Best fit for teams with a matching ML or data workflow.
 
 ### 👤 [Netron](https://github.com/lutzroeder/netron)
 
-**Why now:** Makes model inspection practical across ONNX, TensorFlow, PyTorch, and related ML formats.
+<!-- pick:rationale -->
+
+**Why it matters:** Makes model inspection practical across ONNX, TensorFlow, PyTorch, and related ML formats.
+
+<!-- pick:evidence -->
 
 **Evidence:** Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning · [traces](data/latest.json)
 
+<!-- pick:review -->
+
 **Review:** Human Pick
 
-**Caveat:** Best fit for teams with a matching ML or data workflow.
+<!-- pick:caveat -->
+
+**Caveat / review:** Best fit for teams with a matching ML or data workflow.
 
 ### 👤 [Sniffnet](https://github.com/gyulyvgc/sniffnet)
 
-**Why now:** Provides a low-friction network traffic monitor for debugging and security checks.
+<!-- pick:rationale -->
+
+**Why it matters:** Provides a low-friction network traffic monitor for debugging and security checks.
+
+<!-- pick:evidence -->
 
 **Evidence:** Found in 3 active sources: rust-unofficial/awesome-rust, jaywcjlove/awesome-mac, MunGell/awesome-for-beginners · [traces](data/latest.json)
 
+<!-- pick:review -->
+
 **Review:** Human Pick
 
-**Caveat:** Worth a focused trial before adopting broadly.
+<!-- pick:caveat -->
+
+**Caveat / review:** Worth a focused trial before adopting broadly.
 
 ### 👤 [themis](https://github.com/cossacklabs/themis)
 
-**Why now:** Gives teams a higher-level API over cryptographic primitives without starting from raw building blocks.
+<!-- pick:rationale -->
+
+**Why it matters:** Gives teams a higher-level API over cryptographic primitives without starting from raw building blocks.
+
+<!-- pick:evidence -->
 
 **Evidence:** Found in 3 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go · [traces](data/latest.json)
 
+<!-- pick:review -->
+
 **Review:** Human Pick
 
-**Caveat:** Security-sensitive tool; evaluate fit and maintenance posture before production use.
+<!-- pick:caveat -->
+
+**Caveat / review:** Security-sensitive tool; evaluate fit and maintenance posture before production use.
 
 ### 👤 [Bencher](https://bencher.dev)
 
-**Why now:** Adds continuous benchmarking to CI so performance regressions can be caught before release.
+<!-- pick:rationale -->
+
+**Why it matters:** Adds continuous benchmarking to CI so performance regressions can be caught before release.
+
+<!-- pick:evidence -->
 
 **Evidence:** Found in 2 active sources: fffaraz/awesome-cpp, avelino/awesome-go · [traces](data/latest.json)
 
+<!-- pick:review -->
+
 **Review:** Human Pick
 
-**Caveat:** Cross-source coverage is limited.
+<!-- pick:caveat -->
+
+**Caveat / review:** Cross-source coverage is limited.
 <!-- staff-picks:end -->
 
 ---
 
-## Review queue
+## Candidates for human review
 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, jivoi/awesome-osint, vinta/awesome-python
 - [Deepchecks](https://github.com/deepchecks/deepchecks) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
@@ -122,7 +163,7 @@ Human-reviewed picks with a concrete reason to look now.
 - [Feature Engine](https://github.com/feature-engine/feature_engine) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
 - [askbudi/roundtable](https://github.com/askbudi/roundtable) — AI & ML · Found in 2 active sources: vuejs/awesome-vue, punkpeye/awesome-mcp-servers
 
-Candidates are not endorsements. Ask for review via [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) or inspect the full queue in [TOOLS.md](TOOLS.md).
+Candidates are not endorsements. Request a review via GitHub issues or inspect the full queue in TOOLS.md. [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) · [TOOLS.md](TOOLS.md)
 
 ---
 

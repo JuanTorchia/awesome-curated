@@ -4,7 +4,7 @@
 
 Leer en otros idiomas: [🇬🇧 English](README.md) · **🇪🇸 Español** · [🇧🇷 Português (BR)](README.pt-BR.md) · [🇨🇳 中文](README.zh-CN.md) · [🇯🇵 日本語](README.ja.md)
 
-### Un **radar semanal auditado** de herramientas dev que ganan tracción real en repos `awesome-*` activos. Para developers que quieren menos tabs, menos hype y una lista corta que valga revisar.
+### Un **radar semanal** de herramientas dev encontradas en repos `awesome-*` activos, con trazas de fuentes y una selección revisada por humano.
 
 [![Human Picks](https://img.shields.io/badge/Human_Picks-5-gold?style=for-the-badge)](#)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](#)
@@ -42,11 +42,12 @@ Dale star si querés una lista recurrente y de bajo ruido con herramientas dev, 
 - **Metodología**: [METHODOLOGY.md](METHODOLOGY.md)
 - **Fuentes rastreadas**: [SOURCES.md](SOURCES.md)
 - **Resumen de cambios**: [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md)
-- **Evidence snapshot**: [data/latest.json](data/latest.json)
-- **Inspectable catalog**: [TOOLS.md](TOOLS.md)
-- **Popular standards**: 1
-- **Needs review**: 0
-- **Candidate catalog**: available in [data/latest.json](data/latest.json) and domain pages; candidates are not endorsements.
+- **Snapshot de evidencia**: [data/latest.json](data/latest.json)
+- **Catálogo consultable**: [TOOLS.md](TOOLS.md)
+- **Estándares populares**: 1
+- **Estado Needs Review (revisar trazas)**: 0
+- **AI Candidates pendientes de aval humano**: 229
+- Los candidatos no tienen el aval de Juan. Consultá el catálogo y las páginas por dominio.
 
 ---
 
@@ -56,65 +57,105 @@ Dale star si querés una lista recurrente y de bajo ruido con herramientas dev, 
 
 ---
 
-## ⭐ Vale Mirarlas Esta Semana
+## ⭐ Selección revisada por humano
 
-Picks revisados por humano con una razón concreta para mirarlos ahora.
+Herramientas revisadas por humano y las tareas que ayudan a resolver.
 
 <!-- staff-picks:start -->
 ### 👤 [BayesWitnesses/m2cgen](https://github.com/bayeswitnesses/m2cgen)
 
-**Why now:** Elimina dependencias de runtime de ML en producción: el código generado es nativo y standalone.
+<!-- pick:rationale -->
 
-**Evidence:** Found in 4 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more · [traces](data/latest.json)
+**Por qué importa:** Elimina dependencias de runtime de ML en producción: el código generado es nativo y standalone.
 
-**Review:** Human Pick
+<!-- pick:evidence -->
 
-**Caveat:** Best fit for teams with a matching ML or data workflow.
+**Evidencia:** Encontrada en 4 fuentes activas: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more · [trazas](data/latest.json)
+
+<!-- pick:review -->
+
+**Revisión:** Human Pick
+
+<!-- pick:caveat -->
+
+**Nota / revisión:** Más adecuada para equipos con un flujo de ML o datos compatible.
 
 ### 👤 [Netron](https://github.com/lutzroeder/netron)
 
-**Why now:** Visualizador práctico de modelos ML con soporte amplio para formatos como ONNX, TensorFlow y PyTorch.
+<!-- pick:rationale -->
 
-**Evidence:** Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning · [traces](data/latest.json)
+**Por qué importa:** Visualizador práctico de modelos ML con soporte amplio para formatos como ONNX, TensorFlow y PyTorch.
 
-**Review:** Human Pick
+<!-- pick:evidence -->
 
-**Caveat:** Best fit for teams with a matching ML or data workflow.
+**Evidencia:** Encontrada en 3 fuentes activas: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning · [trazas](data/latest.json)
+
+<!-- pick:review -->
+
+**Revisión:** Human Pick
+
+<!-- pick:caveat -->
+
+**Nota / revisión:** Más adecuada para equipos con un flujo de ML o datos compatible.
 
 ### 👤 [Sniffnet](https://github.com/gyulyvgc/sniffnet)
 
-**Why now:** Monitor de tráfico de red multiplataforma con UI accesible para debugging y seguridad sin fricción.
+<!-- pick:rationale -->
 
-**Evidence:** Found in 3 active sources: rust-unofficial/awesome-rust, jaywcjlove/awesome-mac, MunGell/awesome-for-beginners · [traces](data/latest.json)
+**Por qué importa:** Monitor de tráfico de red multiplataforma con UI accesible para debugging y seguridad sin fricción.
 
-**Review:** Human Pick
+<!-- pick:evidence -->
 
-**Caveat:** Worth a focused trial before adopting broadly.
+**Evidencia:** Encontrada en 3 fuentes activas: rust-unofficial/awesome-rust, jaywcjlove/awesome-mac, MunGell/awesome-for-beginners · [trazas](data/latest.json)
+
+<!-- pick:review -->
+
+**Revisión:** Human Pick
+
+<!-- pick:caveat -->
+
+**Nota / revisión:** Conviene hacer una prueba acotada antes de una adopción amplia.
 
 ### 👤 [themis](https://github.com/cossacklabs/themis)
 
-**Why now:** Abstracción de alto nivel sobre primitivas criptográficas complejas sin sacrificar seguridad real.
+<!-- pick:rationale -->
 
-**Evidence:** Found in 3 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go · [traces](data/latest.json)
+**Por qué importa:** API de alto nivel sobre primitivas criptográficas para evitar partir de componentes básicos.
 
-**Review:** Human Pick
+<!-- pick:evidence -->
 
-**Caveat:** Security-sensitive tool; evaluate fit and maintenance posture before production use.
+**Evidencia:** Encontrada en 3 fuentes activas: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go · [trazas](data/latest.json)
+
+<!-- pick:review -->
+
+**Revisión:** Human Pick
+
+<!-- pick:caveat -->
+
+**Nota / revisión:** Herramienta sensible para la seguridad: evaluá su adecuación y mantenimiento antes de usarla en producción.
 
 ### 👤 [Bencher](https://bencher.dev)
 
-**Why now:** Continuous benchmarking para detectar regresiones de performance en CI/CD con umbrales configurables.
+<!-- pick:rationale -->
 
-**Evidence:** Found in 2 active sources: fffaraz/awesome-cpp, avelino/awesome-go · [traces](data/latest.json)
+**Por qué importa:** Continuous benchmarking para detectar regresiones de performance en CI/CD con umbrales configurables.
 
-**Review:** Human Pick
+<!-- pick:evidence -->
 
-**Caveat:** Cross-source coverage is limited.
+**Evidencia:** Encontrada en 2 fuentes activas: fffaraz/awesome-cpp, avelino/awesome-go · [trazas](data/latest.json)
+
+<!-- pick:review -->
+
+**Revisión:** Human Pick
+
+<!-- pick:caveat -->
+
+**Nota / revisión:** La cobertura entre fuentes es limitada.
 <!-- staff-picks:end -->
 
 ---
 
-## Review queue
+## Candidatos para revisión humana
 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, jivoi/awesome-osint, vinta/awesome-python
 - [Deepchecks](https://github.com/deepchecks/deepchecks) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
@@ -122,7 +163,7 @@ Picks revisados por humano con una razón concreta para mirarlos ahora.
 - [Feature Engine](https://github.com/feature-engine/feature_engine) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
 - [askbudi/roundtable](https://github.com/askbudi/roundtable) — AI & ML · Found in 2 active sources: vuejs/awesome-vue, punkpeye/awesome-mcp-servers
 
-Candidates are not endorsements. Ask for review via [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) or inspect the full queue in [TOOLS.md](TOOLS.md).
+Los candidatos no son recomendaciones personales. Pedí revisión mediante GitHub issues o consultá la cola completa en TOOLS.md. [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) · [TOOLS.md](TOOLS.md)
 
 ---
 

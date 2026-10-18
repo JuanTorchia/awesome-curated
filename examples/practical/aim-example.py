@@ -1,4 +1,4 @@
-import json
+from check_result import check_result
 import subprocess
 import sys
 import tempfile
@@ -24,7 +24,7 @@ def read_fixture(path):
     steps, (values, epochs, timestamps) = sequence.data.items_list()
     assert list(steps) == [0, 1, 2]
     assert list(values) == [1.0, 0.5, 0.25]
-    print(json.dumps({'runs': len(hashes), 'steps': list(steps), 'loss': list(values)}))
+    check_result('aim', {'runs': len(hashes), 'steps': list(steps), 'loss': list(values)})
     run.close()
 
 

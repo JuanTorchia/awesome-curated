@@ -2,9 +2,9 @@
 
 <p><sub>← [Volver al main](../README.es.md)</sub></p>
 
-**0 Human-reviewed · 0 Popular standards · 0 AI candidates · 0 Needs review**
+**0 Revisado por humano · 0 Estándares populares · 0 Candidatos de IA · 0 Estado Needs Review**
 
-Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
+Catálogo consultable: [TOOLS.md](../TOOLS.md) · Snapshot de evidencia: [data/latest.json](../data/latest.json)
 
 ---
 

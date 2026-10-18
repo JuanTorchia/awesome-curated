@@ -14,6 +14,8 @@ Generated: 2026-10-18 · Tool entries: 11
 
 **Caveat:** Cross-source coverage is limited.
 
+[Reproducible example](../GUIDE.md#vest)
+
 **Source traces:**
 
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) · ROSTER · quality 94 · observed 2026-10-05

@@ -2,30 +2,30 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**0 Human-reviewed · 0 Popular standards · 1 AI candidates · 0 Needs review**
+**0 人間レビュー済み · 0 広く使われる標準ツール · 1 AI 候補 · 0 Needs Review 状態**
 
-Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
-
----
-
+確認できるカタログ: [TOOLS.md](../TOOLS.md) · 根拠のスナップショット: [data/latest.json](../data/latest.json)
 
 ---
 
-## AI candidates
 
-Automated candidates with enough source signal; these are not human endorsements yet.
+---
+
+## AI 候補
+
+複数ソースの条件を満たす自動候補です。人間による推薦ではありません。
 
 ### [RunAnywhere](https://github.com/runanywhereai/runanywhere-sdks)
 
-![](https://img.shields.io/github/stars/runanywhereai/runanywhere-sdks?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/runanywhereai/runanywhere-sdks?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
 
 RunAnywhere is a production-ready SDK for running AI models (LLMs, speech-to-text, text-to-speech) on-device for iOS, Android, React Native, and Flutter enabling private, offline, and fast mobile AI applications.
 
-**Why this is here:** SDK multi-plataforma para correr modelos IA on-device (LLM, speech, TTS) en iOS/Android/React Native. Privacidad y offline garantizados. Resuelve...
+**掲載理由:** SDK multi-plataforma para correr modelos IA on-device (LLM, speech, TTS) en iOS/Android/React Native. Privacidad y offline garantizados. Resuelve...
 
-**Evidence record:** [Full evidence](../catalog/mobile.md#runanywhere-runanywhereai-runanywhere-sdks) · [data/latest.json](../data/latest.json)
+**根拠の記録:** [根拠の詳細](../catalog/mobile.md#runanywhere-runanywhereai-runanywhere-sdks) · [data/latest.json](../data/latest.json)
 
 ---
 

@@ -2,30 +2,30 @@
 
 <p><sub>← [Volver al main](../README.es.md)</sub></p>
 
-**0 Human-reviewed · 0 Popular standards · 1 AI candidates · 0 Needs review**
+**0 Revisado por humano · 0 Estándares populares · 1 Candidatos de IA · 0 Estado Needs Review**
 
-Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
-
----
-
+Catálogo consultable: [TOOLS.md](../TOOLS.md) · Snapshot de evidencia: [data/latest.json](../data/latest.json)
 
 ---
 
-## AI candidates
 
-Automated candidates with enough source signal; these are not human endorsements yet.
+---
+
+## Candidatos de IA
+
+Candidatos automatizados con cobertura suficiente entre fuentes; todavía no tienen aval humano.
 
 ### [RunAnywhere](https://github.com/runanywhereai/runanywhere-sdks)
 
-![](https://img.shields.io/github/stars/runanywhereai/runanywhere-sdks?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/runanywhereai/runanywhere-sdks?style=flat-square&label=⭐) · Encontrada en 2 fuentes activas: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**Revisión:** AI Candidate · **Nota / revisión:** El candidato todavía necesita revisión humana antes de recibir aval.
 
 RunAnywhere is a production-ready SDK for running AI models (LLMs, speech-to-text, text-to-speech) on-device for iOS, Android, React Native, and Flutter enabling private, offline, and fast mobile AI applications.
 
-**Why this is here:** SDK multi-plataforma para correr modelos IA on-device (LLM, speech, TTS) en iOS/Android/React Native. Privacidad y offline garantizados. Resuelve...
+**Por qué está incluida:** SDK multi-plataforma para correr modelos IA on-device (LLM, speech, TTS) en iOS/Android/React Native. Privacidad y offline garantizados. Resuelve...
 
-**Evidence record:** [Full evidence](../catalog/mobile.md#runanywhere-runanywhereai-runanywhere-sdks) · [data/latest.json](../data/latest.json)
+**Registro de evidencia:** [Evidencia completa](../catalog/mobile.md#runanywhere-runanywhereai-runanywhere-sdks) · [data/latest.json](../data/latest.json)
 
 ---
 

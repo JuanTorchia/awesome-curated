@@ -32,6 +32,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Caveat:** Cross-source coverage is limited.
 
+[Reproducible example](../GUIDE.md#ast-grep)
+
 **Source traces:**
 
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · BENCH · quality 91 · observed 2026-10-12

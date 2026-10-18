@@ -5,7 +5,7 @@ Pick a problem, run a small fixture, and inspect the result before adding anothe
 Tested on 18 October 2026 with synthetic inputs, in disposable Linux x86-64 containers. The checks were automated with AI assistance. The catalogue's existing review labels stay unchanged. Installation needs internet; the final checks ran with external networking disconnected.
 
 ```sh
-git clone --branch practical-examples-2026-10-18 --depth 1 https://github.com/JuanTorchia/awesome-curated.git
+git clone --branch practical-examples-2026-10-18-r2 --depth 1 https://github.com/JuanTorchia/awesome-curated.git
 cd awesome-curated/examples/practical
 ```
 

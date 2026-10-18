@@ -2,146 +2,146 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**1 Human-reviewed · 0 Popular standards · 8 AI candidates · 0 Needs review**
+**1 人工审核 · 0 常用标准工具 · 8 AI 候选工具 · 0 Needs Review 状态**
 
-Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
+可查阅目录: [TOOLS.md](../TOOLS.md) · 证据快照: [data/latest.json](../data/latest.json)
 
 ---
 
-## Human-reviewed picks
+## 人工审核精选
 
-Tools with a human review label and visible caveats.
+具有人工审核标签和明确限制的工具。
 
 ### 👤 [themis](https://github.com/cossacklabs/themis)
 
-![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · Found in 3 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go
+![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · 收录于 3 个活跃来源: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go
 
-**Review label:** Human Pick · **Caveat:** Security-sensitive tool; evaluate fit and maintenance posture before production use.
+**审核:** Human Pick · **说明 / 审核:** 涉及安全的工具；用于生产前需评估适用性与维护状况。
 
 High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption). Ported on many...
 
-**Why this is here:** Gives teams a higher-level API over cryptographic primitives without starting from raw building blocks.
+**收录原因:** Gives teams a higher-level API over cryptographic primitives without starting from raw building blocks.
 
-**Evidence record:** [Full evidence](../catalog/security.md#themis-cossacklabs-themis) · [data/latest.json](../data/latest.json)
-
----
-
+**证据记录:** [完整证据](../catalog/security.md#themis-cossacklabs-themis) · [data/latest.json](../data/latest.json)
 
 ---
 
-## AI candidates
 
-Automated candidates with enough source signal; these are not human endorsements yet.
+---
+
+## AI 候选工具
+
+来源覆盖足够的自动候选工具，尚未获得人工认可。
 
 ### [Brave](https://brave.com)
 
-Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac
+收录于 2 个活跃来源: jivoi/awesome-osint, jaywcjlove/awesome-mac
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
 
 Web browser with an emphasis on privacy and speed. (https://github.com/brave/brave-browser/)
 
-**Why this is here:** Built-in ad/tracker blocking
+**收录原因:** Built-in ad/tracker blocking
 
-**Evidence record:** [Full evidence](../catalog/security.md#brave-brave) · [data/latest.json](../data/latest.json)
+**证据记录:** [完整证据](../catalog/security.md#brave-brave) · [data/latest.json](../data/latest.json)
 
 ---
 
 ### [LibreWolf](https://librewolf.net)
 
-Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac
+收录于 2 个活跃来源: jivoi/awesome-osint, jaywcjlove/awesome-mac
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
 
 A fork of Firefox, focused on privacy, security and freedom. (https://gitlab.com/librewolf-community)
 
-**Why this is here:** A fork of Firefox, focused on privacy, security and freedom. (https://gitlab.com/librewolf-community)
+**收录原因:** A fork of Firefox, focused on privacy, security and freedom. (https://gitlab.com/librewolf-community)
 
-**Evidence record:** [Full evidence](../catalog/security.md#librewolf-librewolf) · [data/latest.json](../data/latest.json)
+**证据记录:** [完整证据](../catalog/security.md#librewolf-librewolf) · [data/latest.json](../data/latest.json)
 
 ---
 
 ### [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub)
 
-![](https://img.shields.io/github/stars/mariocandela/beelzebub?style=flat-square&label=⭐) · Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers
+![](https://img.shields.io/github/stars/mariocandela/beelzebub?style=flat-square&label=⭐) · 收录于 2 个活跃来源: avelino/awesome-go, punkpeye/awesome-mcp-servers
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
 
 ☁️ Beelzebub is a honeypot framework that lets you build honeypot tools using MCP. Its purpose is to detect prompt injection or malicious agent behavior. The underlying idea is to provide the agent with tools it...
 
-**Why this is here:** ☁️ Beelzebub is a honeypot framework that lets you build honeypot tools using MCP. Its purpose is to detect prompt injection or malicious agent...
+**收录原因:** ☁️ Beelzebub is a honeypot framework that lets you build honeypot tools using MCP. Its purpose is to detect prompt injection or malicious agent...
 
-**Evidence record:** [Full evidence](../catalog/security.md#mariocandela-beelzebub-mariocandela-beelzebub) · [data/latest.json](../data/latest.json)
+**证据记录:** [完整证据](../catalog/security.md#mariocandela-beelzebub-mariocandela-beelzebub) · [data/latest.json](../data/latest.json)
 
 ---
 
 ### [mavdol/capsule/mcp-server](https://github.com/mavdol/capsule)
 
-![](https://img.shields.io/github/stars/mavdol/capsule?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, punkpeye/awesome-mcp-servers
+![](https://img.shields.io/github/stars/mavdol/capsule?style=flat-square&label=⭐) · 收录于 2 个活跃来源: rust-unofficial/awesome-rust, punkpeye/awesome-mcp-servers
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
 
 🦀 🏠 🍎 🪟 🐧 Run untrusted Python/JavaScript code in WebAssembly sandboxes.
 
-**Why this is here:** 🦀 🏠 🍎 🪟 🐧 Run untrusted Python/JavaScript code in WebAssembly sandboxes.
+**收录原因:** 🦀 🏠 🍎 🪟 🐧 Run untrusted Python/JavaScript code in WebAssembly sandboxes.
 
-**Evidence record:** [Full evidence](../catalog/security.md#mavdol-capsule-mcp-server-mavdol-capsule) · [data/latest.json](../data/latest.json)
+**证据记录:** [完整证据](../catalog/security.md#mavdol-capsule-mcp-server-mavdol-capsule) · [data/latest.json](../data/latest.json)
 
 ---
 
 ### [Promptfoo](https://github.com/promptfoo/promptfoo)
 
-![](https://img.shields.io/github/stars/promptfoo/promptfoo?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/promptfoo/promptfoo?style=flat-square&label=⭐) · 收录于 2 个活跃来源: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
 
 LLM red teaming and evaluation framework for testing jailbreaks, prompt injection, and other vulnerabilities with CI/CD integration.
 
-**Why this is here:** CI/CD integration out-of-box
+**收录原因:** CI/CD integration out-of-box
 
-**Evidence record:** [Full evidence](../catalog/security.md#promptfoo-promptfoo-promptfoo) · [data/latest.json](../data/latest.json)
+**证据记录:** [完整证据](../catalog/security.md#promptfoo-promptfoo-promptfoo) · [data/latest.json](../data/latest.json)
 
 ---
 
 ### [safedep/vet](https://github.com/safedep/vet)
 
-![](https://img.shields.io/github/stars/safedep/vet?style=flat-square&label=⭐) · Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers
+![](https://img.shields.io/github/stars/safedep/vet?style=flat-square&label=⭐) · 收录于 2 个活跃来源: avelino/awesome-go, punkpeye/awesome-mcp-servers
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
 
 🎖️ 🏎️ ☁️ 🍎 🪟 🐧 vet-mcp checks open source packages—like those suggested by AI coding tools—for vulnerabilities and malicious code. It supports npm and PyPI, and runs locally via Docker or as a standalone binary...
 
-**Why this is here:** Local execution sin cloud dependency
+**收录原因:** Local execution sin cloud dependency
 
-**Evidence record:** [Full evidence](../catalog/security.md#safedep-vet-safedep-vet) · [data/latest.json](../data/latest.json)
+**证据记录:** [完整证据](../catalog/security.md#safedep-vet-safedep-vet) · [data/latest.json](../data/latest.json)
 
 ---
 
 ### [sherlock](https://github.com/sherlock-project/sherlock)
 
-![](https://img.shields.io/github/stars/sherlock-project/sherlock?style=flat-square&label=⭐) · Found in 2 active sources: jivoi/awesome-osint, vinta/awesome-python
+![](https://img.shields.io/github/stars/sherlock-project/sherlock?style=flat-square&label=⭐) · 收录于 2 个活跃来源: jivoi/awesome-osint, vinta/awesome-python
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
 
 Hunt down social media accounts by username across social networks.
 
-**Why this is here:** Soporta muchas plataformas
+**收录原因:** Soporta muchas plataformas
 
-**Evidence record:** [Full evidence](../catalog/security.md#sherlock-sherlock-project-sherlock) · [data/latest.json](../data/latest.json)
+**证据记录:** [完整证据](../catalog/security.md#sherlock-sherlock-project-sherlock) · [data/latest.json](../data/latest.json)
 
 ---
 
 ### [ssh-vault](https://github.com/ssh-vault/ssh-vault)
 
-![](https://img.shields.io/github/stars/ssh-vault/ssh-vault?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, avelino/awesome-go
+![](https://img.shields.io/github/stars/ssh-vault/ssh-vault?style=flat-square&label=⭐) · 收录于 2 个活跃来源: rust-unofficial/awesome-rust, avelino/awesome-go
 
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
 
 A simple tool to manage secrets using ssh keys for encryption and decryption.
 
-**Why this is here:** A simple tool to manage secrets using ssh keys for encryption and decryption.
+**收录原因:** A simple tool to manage secrets using ssh keys for encryption and decryption.
 
-**Evidence record:** [Full evidence](../catalog/security.md#ssh-vault-ssh-vault-ssh-vault) · [data/latest.json](../data/latest.json)
+**证据记录:** [完整证据](../catalog/security.md#ssh-vault-ssh-vault-ssh-vault) · [data/latest.json](../data/latest.json)
 
 ---
 
