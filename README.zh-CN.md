@@ -16,6 +16,20 @@
 
 ---
 
+## 从问题开始
+
+| 任务 | 工具 | 试用 |
+|---|---|---|
+| 搜索和改写代码 | [ast-grep](https://github.com/ast-grep/ast-grep) · Worth Trying | [试用](GUIDE.md#ast-grep) |
+| 验证表单 | [Vest](https://github.com/ealush/vest) · Worth Trying | [试用](GUIDE.md#vest) |
+| 检查模型图 | [Netron](https://github.com/lutzroeder/netron) · Human Pick | [试用](GUIDE.md#netron) |
+| 查询三个向量 | [Chroma](https://github.com/chroma-core/chroma) · Worth Trying | [试用](GUIDE.md#chroma) |
+| 记录实验指标 | [Aim](https://github.com/aimhubio/aim) · Worth Trying | [试用](GUIDE.md#aim) |
+
+[可复现示例](GUIDE.md) · 英语 / 西班牙语：固定版本、测试数据、结果与限制。自动化测试不改变审核标签。
+
+---
+
 ## ⭐ 为什么收藏？
 
 如果你想定期获得低噪音的开发工具短名单，并带有来源、去重和人工审核，请给这个仓库 star。
@@ -100,15 +114,15 @@
 
 ---
 
-## What changed this week
+## Review queue
 
-- [Bencher](https://bencher.dev) — caveat changed · Human Pick: Editorial caveat was updated after the latest review pass.
-- [agent-of-empires](https://github.com/njbrake/agent-of-empires) — caveat changed · Worth Trying: Editorial caveat was updated after the latest review pass.
-- [Aim](https://github.com/aimhubio/aim) — caveat changed · Worth Trying: Editorial caveat was updated after the latest review pass.
-- [ast-grep](https://github.com/ast-grep/ast-grep) — caveat changed · Worth Trying: Editorial caveat was updated after the latest review pass.
-- [ATAC](https://github.com/julien-cpsn/atac) — caveat changed · Worth Trying: Editorial caveat was updated after the latest review pass.
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, jivoi/awesome-osint, vinta/awesome-python
+- [Deepchecks](https://github.com/deepchecks/deepchecks) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
+- [Colossal-AI](https://github.com/hpcaitech/colossalai) — Dev Tooling · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, MunGell/awesome-for-beginners
+- [Feature Engine](https://github.com/feature-engine/feature_engine) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
+- [askbudi/roundtable](https://github.com/askbudi/roundtable) — AI & ML · Found in 2 active sources: vuejs/awesome-vue, punkpeye/awesome-mcp-servers
 
-See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
+Candidates are not endorsements. Ask for review via [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) or inspect the full queue in [TOOLS.md](TOOLS.md).
 
 ---
 

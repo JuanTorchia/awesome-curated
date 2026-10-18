@@ -16,6 +16,20 @@ Ler em outros idiomas: [🇬🇧 English](README.md) · [🇪🇸 Español](READ
 
 ---
 
+## Comece por um problema
+
+| Tarefa | Ferramenta | Experimente |
+|---|---|---|
+| Buscar e reescrever código | [ast-grep](https://github.com/ast-grep/ast-grep) · Worth Trying | [Experimente](GUIDE.md#ast-grep) |
+| Validar um formulário | [Vest](https://github.com/ealush/vest) · Worth Trying | [Experimente](GUIDE.md#vest) |
+| Inspecionar um modelo | [Netron](https://github.com/lutzroeder/netron) · Human Pick | [Experimente](GUIDE.md#netron) |
+| Consultar três vetores | [Chroma](https://github.com/chroma-core/chroma) · Worth Trying | [Experimente](GUIDE.md#chroma) |
+| Registrar métricas de experimentos | [Aim](https://github.com/aimhubio/aim) · Worth Trying | [Experimente](GUIDE.md#aim) |
+
+[Exemplos reproduzíveis](GUIDE.md) · Inglês / espanhol · versões fixas, dados de teste, resultados e limites. Testes automatizados não alteram os vereditos.
+
+---
+
 ## ⭐ Por que dar star?
 
 Dê star se você quer uma shortlist recorrente e com pouco ruído de ferramentas dev com fontes, dedupe e escolhas revisadas por humano.
@@ -100,15 +114,15 @@ Escolhas revisadas por humano com um motivo concreto para olhar agora.
 
 ---
 
-## What changed this week
+## Review queue
 
-- [Bencher](https://bencher.dev) — caveat changed · Human Pick: Editorial caveat was updated after the latest review pass.
-- [agent-of-empires](https://github.com/njbrake/agent-of-empires) — caveat changed · Worth Trying: Editorial caveat was updated after the latest review pass.
-- [Aim](https://github.com/aimhubio/aim) — caveat changed · Worth Trying: Editorial caveat was updated after the latest review pass.
-- [ast-grep](https://github.com/ast-grep/ast-grep) — caveat changed · Worth Trying: Editorial caveat was updated after the latest review pass.
-- [ATAC](https://github.com/julien-cpsn/atac) — caveat changed · Worth Trying: Editorial caveat was updated after the latest review pass.
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, jivoi/awesome-osint, vinta/awesome-python
+- [Deepchecks](https://github.com/deepchecks/deepchecks) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
+- [Colossal-AI](https://github.com/hpcaitech/colossalai) — Dev Tooling · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, MunGell/awesome-for-beginners
+- [Feature Engine](https://github.com/feature-engine/feature_engine) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
+- [askbudi/roundtable](https://github.com/askbudi/roundtable) — AI & ML · Found in 2 active sources: vuejs/awesome-vue, punkpeye/awesome-mcp-servers
 
-See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
+Candidates are not endorsements. Ask for review via [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) or inspect the full queue in [TOOLS.md](TOOLS.md).
 
 ---
 

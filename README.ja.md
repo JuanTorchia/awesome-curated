@@ -16,6 +16,20 @@
 
 ---
 
+## 解決したい問題から選ぶ
+
+| 目的 | ツール | 試す |
+|---|---|---|
+| コードの検索と書き換え | [ast-grep](https://github.com/ast-grep/ast-grep) · Worth Trying | [試す](GUIDE.md#ast-grep) |
+| フォームの検証 | [Vest](https://github.com/ealush/vest) · Worth Trying | [試す](GUIDE.md#vest) |
+| モデルの構造を確認 | [Netron](https://github.com/lutzroeder/netron) · Human Pick | [試す](GUIDE.md#netron) |
+| 3つのベクトルを検索 | [Chroma](https://github.com/chroma-core/chroma) · Worth Trying | [試す](GUIDE.md#chroma) |
+| 実験の指標を記録 | [Aim](https://github.com/aimhubio/aim) · Worth Trying | [試す](GUIDE.md#aim) |
+
+[再現できるサンプル](GUIDE.md) · 英語 / スペイン語：固定バージョン、テストデータ、結果と制約。自動テストはレビューの判定を変更しません。
+
+---
+
 ## ⭐ Star する理由
 
 ソース追跡、重複排除、人間レビュー付きの低ノイズな開発ツール候補を継続的に見たいなら star してください。
@@ -100,15 +114,15 @@
 
 ---
 
-## What changed this week
+## Review queue
 
-- [Bencher](https://bencher.dev) — caveat changed · Human Pick: Editorial caveat was updated after the latest review pass.
-- [agent-of-empires](https://github.com/njbrake/agent-of-empires) — caveat changed · Worth Trying: Editorial caveat was updated after the latest review pass.
-- [Aim](https://github.com/aimhubio/aim) — caveat changed · Worth Trying: Editorial caveat was updated after the latest review pass.
-- [ast-grep](https://github.com/ast-grep/ast-grep) — caveat changed · Worth Trying: Editorial caveat was updated after the latest review pass.
-- [ATAC](https://github.com/julien-cpsn/atac) — caveat changed · Worth Trying: Editorial caveat was updated after the latest review pass.
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, jivoi/awesome-osint, vinta/awesome-python
+- [Deepchecks](https://github.com/deepchecks/deepchecks) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
+- [Colossal-AI](https://github.com/hpcaitech/colossalai) — Dev Tooling · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, MunGell/awesome-for-beginners
+- [Feature Engine](https://github.com/feature-engine/feature_engine) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
+- [askbudi/roundtable](https://github.com/askbudi/roundtable) — AI & ML · Found in 2 active sources: vuejs/awesome-vue, punkpeye/awesome-mcp-servers
 
-See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
+Candidates are not endorsements. Ask for review via [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) or inspect the full queue in [TOOLS.md](TOOLS.md).
 
 ---
 

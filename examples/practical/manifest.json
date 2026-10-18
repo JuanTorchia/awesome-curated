@@ -1,0 +1,38 @@
+{
+  "testedAt": "2026-10-18",
+  "tools": {
+    "ast-grep": "0.51.0",
+    "vest": "6.3.4",
+    "chroma": "1.5.9",
+    "netron": "9.3.2",
+    "onnx": "1.23.2",
+    "aim": "3.29.1",
+    "numpyForAim": "1.26.4"
+  },
+  "files": [
+    "README.md",
+    "aim-example.py",
+    "ast-grep.mjs",
+    "chroma.py",
+    "expected.json",
+    "netron-example.py",
+    "package-lock.json",
+    "package.json",
+    "requirements.txt",
+    "versions.json",
+    "vest.mjs"
+  ],
+  "sha256": {
+    "README.md": "71a3b005113851be4988c0717c7273df8d5eca6ca9bfd538c35d80160abd22e1",
+    "aim-example.py": "786b4d8774131722396035b2c5ef5c3f9b48f63eb89eff84143c62d2f7e7af89",
+    "ast-grep.mjs": "98d8362d80743e75c5ec66a93ce293e14e98434b430cd602e52c1ab6d839bcbc",
+    "chroma.py": "85b3c2f76771ad1989ac0fa01c2b7989f282536405168a3a2a97431c72dc1903",
+    "expected.json": "3e5ce9fd22be1def00bc61c9ec94d680dd07de27a7fbeb9e03bcae3a5a075fc7",
+    "netron-example.py": "59c76e2649268a0f52fa19709aefa9bffc2327c1356a41ce44eb1ad02464c5be",
+    "package-lock.json": "8e5891296ee4abf3e204419f5a2c5deab51ab6af51ac25f2bb43aff782f94b4c",
+    "package.json": "ddeb538316910afc413c8bb6017b871c63e504f215bb67474e9f2070a4662680",
+    "requirements.txt": "a942880759ef7c172210fb8c9ff36d33d5e56b42047baffa1f7c934a23586b46",
+    "versions.json": "04d4cda16eeb82d826a01a40ec95d0d93c55fbced3fe41b30808bc9beffb8423",
+    "vest.mjs": "4c0912ba2102c919c3f837af313e983eebb93f07f36c0b55dc9b2cda562dffc2"
+  }
+}

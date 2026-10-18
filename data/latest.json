@@ -2,107 +2,15 @@
   "changes": [
     {
       "changedAt": "2026-10-18",
-      "currentLabel": "Human Pick",
-      "name": "Bencher",
-      "previousLabel": "Human Pick",
-      "reason": "Cross-source coverage is limited.",
-      "toolId": "cmnwko7ig01ne1p4t32xoxe5p",
-      "type": "caveat changed",
-      "url": "https://bencher.dev"
-    },
-    {
-      "changedAt": "2026-10-18",
-      "currentLabel": "Worth Trying",
-      "name": "agent-of-empires",
-      "previousLabel": "Worth Trying",
-      "reason": "Editorial caveat was updated after the latest review pass.",
-      "toolId": "cmnwlw6lm00d5vn4dtvazqp3b",
-      "type": "caveat changed",
-      "url": "https://github.com/njbrake/agent-of-empires"
-    },
-    {
-      "changedAt": "2026-10-18",
-      "currentLabel": "Worth Trying",
-      "name": "Aim",
-      "previousLabel": "Worth Trying",
-      "reason": "Editorial caveat was updated after the latest review pass.",
-      "toolId": "cmnwkuocq04jh1p4thdvusset",
-      "type": "caveat changed",
-      "url": "https://github.com/aimhubio/aim"
-    },
-    {
-      "changedAt": "2026-10-18",
-      "currentLabel": "Worth Trying",
-      "name": "ast-grep",
-      "previousLabel": "Worth Trying",
-      "reason": "Editorial caveat was updated after the latest review pass.",
-      "toolId": "cmnwlw6u500d9vn4dz3s8x95r",
-      "type": "caveat changed",
-      "url": "https://github.com/ast-grep/ast-grep"
-    },
-    {
-      "changedAt": "2026-10-18",
-      "currentLabel": "Worth Trying",
-      "name": "ATAC",
-      "previousLabel": "Worth Trying",
-      "reason": "Editorial caveat was updated after the latest review pass.",
-      "toolId": "cmnwlwx8x00p4vn4debc4c6mn",
-      "type": "caveat changed",
-      "url": "https://github.com/julien-cpsn/atac"
-    },
-    {
-      "changedAt": "2026-10-18",
-      "currentLabel": "Worth Trying",
-      "name": "bandwhich",
-      "previousLabel": "Worth Trying",
-      "reason": "Editorial caveat was updated after the latest review pass.",
-      "toolId": "cmnwlwftr00h9vn4d140gj6ih",
-      "type": "caveat changed",
-      "url": "https://github.com/imsnif/bandwhich"
-    },
-    {
-      "changedAt": "2026-10-18",
-      "currentLabel": "Worth Trying",
-      "name": "broot",
-      "previousLabel": "Worth Trying",
-      "reason": "Editorial caveat was updated after the latest review pass.",
-      "toolId": "cmnwlvz9e009tvn4df1t804eq",
-      "type": "caveat changed",
-      "url": "https://github.com/canop/broot"
-    },
-    {
-      "changedAt": "2026-10-18",
-      "currentLabel": "Worth Trying",
-      "name": "Chroma",
-      "previousLabel": "Worth Trying",
-      "reason": "Editorial caveat was updated after the latest review pass.",
-      "toolId": "cmnwkovzc01ye1p4trj7nl1lb",
-      "type": "caveat changed",
-      "url": "https://github.com/chroma-core/chroma"
-    },
-    {
-      "changedAt": "2026-10-18",
-      "currentLabel": "Worth Trying",
-      "name": "intelli-shell",
-      "previousLabel": "Worth Trying",
-      "reason": "Editorial caveat was updated after the latest review pass.",
-      "toolId": "cmnwlwza900pyvn4d8ouw69a9",
-      "type": "caveat changed",
-      "url": "https://github.com/lasantosr/intelli-shell"
-    },
-    {
-      "changedAt": "2026-10-18",
-      "currentLabel": "Worth Trying",
-      "name": "Vest",
-      "previousLabel": "Worth Trying",
-      "reason": "Editorial caveat was updated after the latest review pass.",
-      "toolId": "cmnwknh9h01bn1p4tq05njnh3",
-      "type": "caveat changed",
-      "url": "https://github.com/ealush/vest"
+      "name": "Public recommendation set",
+      "reason": "No material public change detected.",
+      "toolId": "snapshot",
+      "type": "unchanged",
+      "url": "data/latest.json"
     }
   ],
-  "commitSha": "dd11fd4c8d94",
-  "generatedAt": "2026-10-18T00:11:16.621Z",
+  "commitSha": "4d851df75e1a",
+  "generatedAt": "2026-10-18T02:21:50.266Z",
   "recommendations": [
     {
       "caveat": "Best fit for teams with a matching ML or data workflow.",
@@ -11753,7 +11661,7 @@
     "sources": 20
   },
   "validation": {
-    "checkedAt": "2026-10-18T00:11:16.621Z",
+    "checkedAt": "2026-10-18T02:21:50.266Z",
     "status": "pass",
     "warnings": []
   }

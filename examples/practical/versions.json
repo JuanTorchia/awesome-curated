@@ -1,0 +1,54 @@
+{
+  "testedAt": "2026-10-18",
+  "environment": {
+    "nodeImage": "node:22-slim@sha256:c3de60bf2f9dd0ac6370e6117950ff62d6e339527e7472301c9c78a017978392",
+    "pythonImage": "python:3.11-slim@sha256:e88e9763f943ec1834f992a4b51e0f24500486803e8bc534e5767af9ea65f6ce",
+    "nodeVersion": "22.23.3",
+    "pythonVersion": "3.11.17"
+  },
+  "pythonArtifacts": [
+    {
+      "package": "chromadb",
+      "version": "1.5.9",
+      "filename": "chromadb-1.5.9-cp39-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+      "url": "https://files.pythonhosted.org/packages/e6/ec/0c42039e80b9acc534f67b73b7a42471948042859b3a64867b50a4a77fa3/chromadb-1.5.9-cp39-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+      "sha256": "cc09b3df76e5a5cb386aed2715a2eea152e3949f9e1ba93c7119505377749929"
+    },
+    {
+      "package": "netron",
+      "version": "9.3.2",
+      "filename": "netron-9.3.2-py3-none-any.whl",
+      "url": "https://files.pythonhosted.org/packages/5f/7e/c0831c9d4d9e46ad1c17cfaa9241378dde36a3c5c26026cac5dcb5cd3b03/netron-9.3.2-py3-none-any.whl",
+      "sha256": "7350cfbfc72e837729a43239fd69d28292ca837b9f3da3ad86c675a55bd0c400"
+    },
+    {
+      "package": "onnx",
+      "version": "1.23.2",
+      "filename": "onnx-1.23.2-cp311-cp311-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+      "url": "https://files.pythonhosted.org/packages/12/4d/e8cafd5fbe5f5fde043676838a4754e6ff4cd00323ecc81b3345eca6f185/onnx-1.23.2-cp311-cp311-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+      "sha256": "c03ecf6b835d136108eeaeeafbd0026fc7b3cf98661409fbc6b63d5a29361348"
+    },
+    {
+      "package": "aim",
+      "version": "3.29.1",
+      "filename": "aim-3.29.1-cp311-cp311-manylinux_2_28_x86_64.whl",
+      "url": "https://files.pythonhosted.org/packages/8c/19/06cac7b4d200f337ee451482090cf02553e361595733ba5ee5e701a926fe/aim-3.29.1-cp311-cp311-manylinux_2_28_x86_64.whl",
+      "sha256": "350e640c3c6bc532e0ad6d5cf6479f82f309a38bf05f84d30947d00a36f94523"
+    },
+    {
+      "package": "aim-ui",
+      "version": "3.29.1",
+      "filename": "aim-ui-3.29.1.tar.gz",
+      "url": "https://files.pythonhosted.org/packages/0c/fe/723615593ee1bffbf89c1cb8028b72893120b3d4e737712d91041a5f0382/aim-ui-3.29.1.tar.gz",
+      "sha256": "bc30278acad048a087f84e3f6e2565f53f75e87d8c29748c90420ec06b820113"
+    },
+    {
+      "package": "numpy",
+      "version": "1.26.4",
+      "environment": "Aim only",
+      "filename": "numpy-1.26.4-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+      "url": "https://files.pythonhosted.org/packages/3a/d0/edc009c27b406c4f9cbc79274d6e46d634d139075492ad055e3d68445925/numpy-1.26.4-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+      "sha256": "666dbfb6ec68962c033a450943ded891bed2d54e6755e35e5835d63f4f6931d5"
+    }
+  ]
+}
