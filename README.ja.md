@@ -6,9 +6,9 @@
 
 ### アクティブな `awesome-*` リポに掲載された開発ツールの**週次レーダー**。出典と人間によるレビュー済みの選定を提供します。
 
-[![Human Picks](https://img.shields.io/badge/Human_Picks-5-gold?style=for-the-badge)](#)
-[![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](#)
-[![Updated](https://img.shields.io/badge/Updated-2026-10-18-green?style=for-the-badge)](#)
+[![Human Picks](https://img.shields.io/badge/Human_Picks-5-gold?style=for-the-badge)](#human-reviewed-picks)
+[![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](SOURCES.md)
+[![Updated](https://img.shields.io/badge/Updated-2026-10-18-green?style=for-the-badge)](UPDATE-SUMMARY.md)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -28,11 +28,31 @@
 
 [再現できるサンプル](GUIDE.md) · 英語 / スペイン語：固定バージョン、テストデータ、結果と制約。自動テストはレビューの判定を変更しません。
 
+### インストール前に結果を確認
+
+**変更前**
+
+```js
+// console.log("comment")
+const text = "console.log(123)";
+console.log("hello");
+```
+
+**変更後**
+
+```js
+// console.log("comment")
+const text = "console.log(123)";
+logger.info("hello");
+```
+
+ast-grep 0.51.0 は JavaScript の呼び出しを1つ書き換え、コメントと文字列はそのまま残します。構文の確認であり、logger の変更後もアプリの動作が同じであることは保証しません。 [試す](GUIDE.md#ast-grep).
+
 ---
 
-## ⭐ Star する理由
+## ⭐ あとで見返すために保存
 
-ソース追跡、重複排除、人間レビュー付きの低ノイズな開発ツール候補を継続的に見たいなら star してください。
+役立つサンプルがあれば、[リポジトリ](https://github.com/JuanTorchia/awesome-curated)に Star を付けて、固定バージョン、期待される結果、各サンプルの制約をあとで見返せます。[更新内容を見る](UPDATE-SUMMARY.md)。
 
 ### 信頼スナップショット
 
@@ -56,6 +76,8 @@
 [🌐 **Web** · 11](domains/web.ja.md) · [🤖 **AI・機械学習** · 79](domains/ai-ml.ja.md) · [🛠️ **DevOps** · 12](domains/devops.ja.md) · [📱 **モバイル** · 1](domains/mobile.ja.md) · [💾 **データ・DB** · 45](domains/data.ja.md) · [🔐 **セキュリティ・暗号** · 9](domains/security.ja.md) · [⚡ **パフォーマンス** · 3](domains/performance.ja.md) · [🧰 **開発ツール** · 75](domains/tooling.ja.md) · [🎨 **その他** · 11](domains/other.ja.md)
 
 ---
+
+<a id="human-reviewed-picks"></a>
 
 ## ⭐ 人間レビュー済みの選定
 

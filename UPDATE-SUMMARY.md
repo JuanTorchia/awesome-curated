@@ -3,7 +3,7 @@
 ## Latest Sync
 
 - Date: 2026-10-18
-- Previous public commit: 619e44de7309
+- Previous public commit: 4709f5bdb3d0
 - Evidence: [data/latest.json](data/latest.json)
 
 ## Current Snapshot
@@ -25,6 +25,7 @@ No recommendation records changed in this generated window.
 
 ## Guides and examples
 
+- 2026-10-18 · Added an ast-grep before/after preview, save-for-later links in the guides, and direct navigation from the README badges.
 - 2026-10-18 · Revision 2: all five examples compare their observed result with expected.json; publication verifies every asset checksum. [English guide](GUIDE.md) · [Guía en español](GUIDE.es.md) · [Pinned revision](https://github.com/JuanTorchia/awesome-curated/tree/practical-examples-2026-10-18-r2).
 - 2026-10-18 · Added five reproducible examples for ast-grep, Vest, Netron, Chroma and Aim, with English/Spanish guides and task-based navigation. [Original reproduction package](https://github.com/JuanTorchia/awesome-curated/tree/practical-examples-2026-10-18).
 

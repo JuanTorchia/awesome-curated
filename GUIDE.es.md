@@ -74,4 +74,8 @@ Con Aim **3.29.1**, el resultado observado fue **1** corrida, pasos `[0, 1, 2]` 
 
 Elegí el caso que responda a una tarea que ya tenés. El [catálogo actual](TOOLS.md) conserva veredictos, límites y trazas; estos ejemplos fechados son un paquete de reproducción separado, no cinco recomendaciones nuevas. El [snapshot del 18 de octubre](https://github.com/JuanTorchia/awesome-curated/blob/4d851df75e1aeeb861b2046ce4784d5706e7d548/data/latest.json) registra la cobertura usada para la selección.
 
+## Guardalo para después
+
+¿Te sirvió alguno de los ejemplos? Guardá el [repo](https://github.com/JuanTorchia/awesome-curated) con una ⭐ para volver a las versiones, los resultados esperados y los límites de cada caso.
+
 [English](GUIDE.md) · [Catálogo](TOOLS.md) · [Metodología](METHODOLOGY.md)

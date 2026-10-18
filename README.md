@@ -6,9 +6,9 @@ Read in other languages: **🇬🇧 English** · [🇪🇸 Español](README.es.m
 
 ### A **weekly radar** of developer tools found in active `awesome-*` repositories, with source traces and a human-reviewed shortlist.
 
-[![Human Picks](https://img.shields.io/badge/Human_Picks-5-gold?style=for-the-badge)](#)
-[![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](#)
-[![Updated](https://img.shields.io/badge/Updated-2026-10-18-green?style=for-the-badge)](#)
+[![Human Picks](https://img.shields.io/badge/Human_Picks-5-gold?style=for-the-badge)](#human-reviewed-picks)
+[![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](SOURCES.md)
+[![Updated](https://img.shields.io/badge/Updated-2026-10-18-green?style=for-the-badge)](UPDATE-SUMMARY.md)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -28,11 +28,31 @@ Read in other languages: **🇬🇧 English** · [🇪🇸 Español](README.es.m
 
 [Reproducible examples](GUIDE.md) · English / Spanish · pinned versions, fixtures, observed results and limits. Automated checks do not change review labels.
 
+### One result before you install
+
+**Before**
+
+```js
+// console.log("comment")
+const text = "console.log(123)";
+console.log("hello");
+```
+
+**After**
+
+```js
+// console.log("comment")
+const text = "console.log(123)";
+logger.info("hello");
+```
+
+ast-grep 0.51.0 rewrites one JavaScript call; the comment and string stay unchanged. This checks syntax, not whether changing the logger preserves application behavior. [Try it](GUIDE.md#ast-grep).
+
 ---
 
-## ⭐ Why star this repo?
+## ⭐ Save for later
 
-Star it if you want fewer tool-hunt tabs: source traces, dedupe, caveats, and a short human-reviewed shortlist instead of another giant dump.
+Found an example useful? Star the [repo](https://github.com/JuanTorchia/awesome-curated) to find its pinned versions, expected results, and limitations again later. [See what changed](UPDATE-SUMMARY.md).
 
 ### Trust snapshot
 
@@ -56,6 +76,8 @@ Star it if you want fewer tool-hunt tabs: source traces, dedupe, caveats, and a 
 [🌐 **Web** · 11](domains/web.md) · [🤖 **AI & ML** · 79](domains/ai-ml.md) · [🛠️ **DevOps** · 12](domains/devops.md) · [📱 **Mobile** · 1](domains/mobile.md) · [💾 **Data & Databases** · 45](domains/data.md) · [🔐 **Security & Crypto** · 9](domains/security.md) · [⚡ **Performance** · 3](domains/performance.md) · [🧰 **Dev Tooling** · 75](domains/tooling.md) · [🎨 **Other** · 11](domains/other.md)
 
 ---
+
+<a id="human-reviewed-picks"></a>
 
 ## ⭐ Human-reviewed picks
 

@@ -6,9 +6,9 @@ Leer en otros idiomas: [🇬🇧 English](README.md) · **🇪🇸 Español** ·
 
 ### Un **radar semanal** de herramientas dev encontradas en repos `awesome-*` activos, con trazas de fuentes y una selección revisada por humano.
 
-[![Human Picks](https://img.shields.io/badge/Human_Picks-5-gold?style=for-the-badge)](#)
-[![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](#)
-[![Updated](https://img.shields.io/badge/Updated-2026-10-18-green?style=for-the-badge)](#)
+[![Human Picks](https://img.shields.io/badge/Human_Picks-5-gold?style=for-the-badge)](#human-reviewed-picks)
+[![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](SOURCES.md)
+[![Updated](https://img.shields.io/badge/Updated-2026-10-18-green?style=for-the-badge)](UPDATE-SUMMARY.md)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -28,11 +28,31 @@ Leer en otros idiomas: [🇬🇧 English](README.md) · **🇪🇸 Español** ·
 
 [Ejemplos reproducibles](GUIDE.es.md) · Inglés / español · versiones fijas, datos de prueba, resultados y límites. Las pruebas automatizadas no cambian los veredictos.
 
+### Un resultado antes de instalar
+
+**Antes**
+
+```js
+// console.log("comment")
+const text = "console.log(123)";
+console.log("hello");
+```
+
+**Después**
+
+```js
+// console.log("comment")
+const text = "console.log(123)";
+logger.info("hello");
+```
+
+ast-grep 0.51.0 reescribe una llamada JavaScript; el comentario y el string quedan iguales. Se comprueba la sintaxis, no que cambiar el logger conserve el comportamiento de la aplicación. [Probala](GUIDE.es.md#ast-grep).
+
 ---
 
-## ⭐ ¿Por qué darle star?
+## ⭐ Guardalo para después
 
-Dale star si querés una lista recurrente y de bajo ruido con herramientas dev, trazas de fuentes, dedupe y picks revisados por humano.
+¿Te sirvió alguno de los ejemplos? Guardá el [repo](https://github.com/JuanTorchia/awesome-curated) con una ⭐ para volver a las versiones, los resultados esperados y los límites de cada caso. [Ver qué cambió](UPDATE-SUMMARY.md).
 
 ### Snapshot de confianza
 
@@ -56,6 +76,8 @@ Dale star si querés una lista recurrente y de bajo ruido con herramientas dev, 
 [🌐 **Web** · 11](domains/web.es.md) · [🤖 **IA y ML** · 79](domains/ai-ml.es.md) · [🛠️ **DevOps** · 12](domains/devops.es.md) · [📱 **Mobile** · 1](domains/mobile.es.md) · [💾 **Datos y Bases** · 45](domains/data.es.md) · [🔐 **Seguridad y Cripto** · 9](domains/security.es.md) · [⚡ **Performance** · 3](domains/performance.es.md) · [🧰 **Herramientas Dev** · 75](domains/tooling.es.md) · [🎨 **Otros** · 11](domains/other.es.md)
 
 ---
+
+<a id="human-reviewed-picks"></a>
 
 ## ⭐ Selección revisada por humano
 

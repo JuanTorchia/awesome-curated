@@ -74,4 +74,8 @@ With Aim **3.29.1**, the recorded result was **1** run, steps `[0, 1, 2]` and lo
 
 Choose the fixture that matches a task you already have. The [current catalogue](TOOLS.md) keeps review labels, limits and source traces; these dated examples are a separate reproduction package, not five new endorsements. The [18 October evidence snapshot](https://github.com/JuanTorchia/awesome-curated/blob/4d851df75e1aeeb861b2046ce4784d5706e7d548/data/latest.json) records the source coverage used for this selection.
 
+## Save for later
+
+Found an example useful? Star the [repo](https://github.com/JuanTorchia/awesome-curated) to find its pinned versions, expected results, and limitations again later.
+
 [Español](GUIDE.es.md) · [Catalogue](TOOLS.md) · [Methodology](METHODOLOGY.md)

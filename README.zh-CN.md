@@ -6,9 +6,9 @@
 
 ### 一个**每周开发工具雷达**，整理活跃 `awesome-*` 仓库收录的工具，提供来源记录和人工审核的精选。
 
-[![Human Picks](https://img.shields.io/badge/Human_Picks-5-gold?style=for-the-badge)](#)
-[![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](#)
-[![Updated](https://img.shields.io/badge/Updated-2026-10-18-green?style=for-the-badge)](#)
+[![Human Picks](https://img.shields.io/badge/Human_Picks-5-gold?style=for-the-badge)](#human-reviewed-picks)
+[![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](SOURCES.md)
+[![Updated](https://img.shields.io/badge/Updated-2026-10-18-green?style=for-the-badge)](UPDATE-SUMMARY.md)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -28,11 +28,31 @@
 
 [可复现示例](GUIDE.md) · 英语 / 西班牙语：固定版本、测试数据、结果与限制。自动化测试不改变审核标签。
 
+### 安装前先看一个结果
+
+**修改前**
+
+```js
+// console.log("comment")
+const text = "console.log(123)";
+console.log("hello");
+```
+
+**修改后**
+
+```js
+// console.log("comment")
+const text = "console.log(123)";
+logger.info("hello");
+```
+
+ast-grep 0.51.0 改写一个 JavaScript 调用，注释和字符串保持不变。这只验证语法，不保证更换 logger 后应用行为不变。 [试用](GUIDE.md#ast-grep).
+
 ---
 
-## ⭐ 为什么收藏？
+## ⭐ 收藏以便下次查找
 
-如果你想定期获得低噪音的开发工具短名单，并带有来源、去重和人工审核，请给这个仓库 star。
+示例对你有用吗？给[仓库](https://github.com/JuanTorchia/awesome-curated)加一颗星，方便下次查找固定版本、预期结果和各个示例的限制。[查看更新](UPDATE-SUMMARY.md)。
 
 ### 信任快照
 
@@ -56,6 +76,8 @@
 [🌐 **Web** · 11](domains/web.zh-CN.md) · [🤖 **AI 与机器学习** · 79](domains/ai-ml.zh-CN.md) · [🛠️ **DevOps** · 12](domains/devops.zh-CN.md) · [📱 **移动端** · 1](domains/mobile.zh-CN.md) · [💾 **数据与数据库** · 45](domains/data.zh-CN.md) · [🔐 **安全与加密** · 9](domains/security.zh-CN.md) · [⚡ **性能** · 3](domains/performance.zh-CN.md) · [🧰 **开发工具** · 75](domains/tooling.zh-CN.md) · [🎨 **其他** · 11](domains/other.zh-CN.md)
 
 ---
+
+<a id="human-reviewed-picks"></a>
 
 ## ⭐ 人工审核精选
 
