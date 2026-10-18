@@ -2,7 +2,7 @@
 
 [All domains](../TOOLS.md) · [README](../README.md) · [Machine-readable evidence](../data/latest.json)
 
-Generated: 2026-10-17 · Tool entries: 12
+Generated: 2026-10-18 · Tool entries: 12
 
 ### <a id="bandwhich-imsnif-bandwhich"></a>[bandwhich](https://github.com/imsnif/bandwhich)
 
@@ -12,7 +12,7 @@ Generated: 2026-10-17 · Tool entries: 12
 
 **Why it is here:** Worth trying: process-level bandwidth visibility from a terminal UI; small, focused, and easy to evaluate.
 
-**Caveat:** Promising signal, but source consensus is still narrow.
+**Caveat:** Cross-source coverage is limited.
 
 **Source traces:**
 

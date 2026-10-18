@@ -7,9 +7,10 @@ Awesome Curated is a weekly audited radar of developer tools discovered from act
 The input layer tracks upstream `awesome-*` repositories as sources. Sources can be active roster entries, bench candidates, rejected entries, or inactive entries. Public counts focus on active roster and bench sources.
 
 - Active sources in current snapshot: 20
-- Raw items scraped: 43596
+- Stored raw observations (all source statuses): 43596
 - Internal entries with stored appearance count >= 2: 1182
-- Approximate duplicate/raw noise removed: 42414
+
+These internal counts include retained observations from sources outside the active roster. They do not measure duplicates removed or the size of the public catalog. Current public counts and entries are in [data/latest.json](data/latest.json).
 
 ## Discovery and Scoring
 
@@ -17,21 +18,21 @@ Discovery uses GitHub repository metadata and README parsing. Source quality is 
 
 ## Deduplication
 
-Items repeated across sources are grouped into one curated entry when they point to the same normalized URL. The public signal "Found in N active sources" means the tool appeared independently across tracked upstream lists after deduplication.
+Items repeated across sources are grouped into one curated entry when they point to the same normalized URL. The public signal "Found in N active sources" counts distinct active tracked repositories with matching traces for that entry. A repository counts once, even if it lists the entry multiple times. Different repositories may share or copy listings: this count does not verify editorial independence, tool quality or safety.
 
 ### Cross-source threshold
 
-An entry becomes publicly visible only when at least 2 independent tracked sources list it. The threshold is checked against distinct active sources with matching public traces, using all related observations rather than the stored appearance counter. Multiple entries from the same repository count once.
+An entry becomes publicly visible only when at least 2 distinct active tracked sources list it. The threshold is checked against distinct active sources with matching public traces, using all related observations rather than the stored appearance counter. Multiple entries from the same repository count once.
 
-Entries found in a single source stay in the internal queue: they do not appear in this README, in [TOOLS.md](TOOLS.md), or in [data/latest.json](data/latest.json), no matter how popular, well-maintained, or widely adopted the tool is. Popularity is never a reason to include an entry, and never a reason to exclude one — only independent source consensus is.
+Entries found in a single source stay in the internal queue: they do not appear in this README, in [TOOLS.md](TOOLS.md), or in [data/latest.json](data/latest.json), no matter how popular, well-maintained, or widely adopted the tool is. Popularity is never a reason to include an entry, and never a reason to exclude one — the distinct active source threshold determines eligibility.
 
-This threshold is the main noise filter, and it is what makes the radar a consensus signal rather than a mirror of any single upstream list.
+This threshold limits publication to entries with cross-source coverage. It does not turn multiple listings into multiple endorsements.
 
-## AI Assistance
-
-### Domain assignment
+## Domain assignment
 
 Domains describe the primary problem a tool serves. Explicit ML/LLM model or system validation, evaluation, testing, monitoring and observability belong in AI & ML even when an upstream list files the tool under Python, CLI or Developer Tools. Security tools, including LLM red teaming, retain the Security domain. Reviewed identity overrides take precedence; otherwise the category mapping and keyword fallback apply. This is a bounded description-based heuristic: a generic AI tag alone does not trigger a move. Domain assignment does not change review labels or constitute endorsement.
+
+## AI Assistance
 
 AI classification helps summarize and triage entries into suggested verdicts such as GEM, WORTH_TRYING, MEH, HYPE, or DEAD. AI suggestions are inputs for review, not final endorsements.
 
@@ -53,7 +54,7 @@ Every Staff Pick includes a short caveat. Caveats call out scope, maintenance, p
 
 ## Inclusion Rules
 
-Primary tool recommendations should be developer tools, libraries, frameworks, platforms, or tool-like projects with a clear use case. Stronger entries have independent source consensus, useful descriptions, active upstream signals when available, and a defensible rationale.
+Primary tool recommendations should be developer tools, libraries, frameworks, platforms, or tool-like projects with a clear use case. Public entries require distinct active source traces. Useful descriptions, maintenance signals and a defensible rationale help assess an entry; the source count alone is not a quality verdict.
 
 ## Exclusion Rules
 
@@ -67,4 +68,4 @@ The cross-source threshold has a known blind spot. Coverage is bounded by which 
 
 ## Latest Generation
 
-Generated on 2026-10-17 from the juanchi.dev Awesome Curated pipeline. Evidence snapshot: [data/latest.json](data/latest.json).
+Generated on 2026-10-18 from the juanchi.dev Awesome Curated pipeline. Evidence snapshot: [data/latest.json](data/latest.json).

@@ -2,8 +2,8 @@
 
 ## Latest Sync
 
-- Date: 2026-10-17
-- Previous public commit: f5bd38bce5a1
+- Date: 2026-10-18
+- Previous public commit: dd11fd4c8d94
 - Evidence: [data/latest.json](data/latest.json)
 
 ## Current Snapshot
@@ -15,13 +15,22 @@
 - Active Sources: 20
 - Public Recommendations: 256
 - Graveyard tools: 0
-- Open issues: 3
+- Open issues: 5
 
 ## Recent Changes
 
-### No Material Public Change
+### Caveat Changed
 
-No material public change detected for the latest generated window.
+- [Bencher](https://bencher.dev) (Human Pick → Human Pick) — Editorial caveat was updated after the latest review pass. (2026-10-18)
+- [agent-of-empires](https://github.com/njbrake/agent-of-empires) (Worth Trying → Worth Trying) — Editorial caveat was updated after the latest review pass. (2026-10-18)
+- [Aim](https://github.com/aimhubio/aim) (Worth Trying → Worth Trying) — Editorial caveat was updated after the latest review pass. (2026-10-18)
+- [ast-grep](https://github.com/ast-grep/ast-grep) (Worth Trying → Worth Trying) — Editorial caveat was updated after the latest review pass. (2026-10-18)
+- [ATAC](https://github.com/julien-cpsn/atac) (Worth Trying → Worth Trying) — Editorial caveat was updated after the latest review pass. (2026-10-18)
+- [bandwhich](https://github.com/imsnif/bandwhich) (Worth Trying → Worth Trying) — Editorial caveat was updated after the latest review pass. (2026-10-18)
+- [broot](https://github.com/canop/broot) (Worth Trying → Worth Trying) — Editorial caveat was updated after the latest review pass. (2026-10-18)
+- [Chroma](https://github.com/chroma-core/chroma) (Worth Trying → Worth Trying) — Editorial caveat was updated after the latest review pass. (2026-10-18)
+- [intelli-shell](https://github.com/lasantosr/intelli-shell) (Worth Trying → Worth Trying) — Editorial caveat was updated after the latest review pass. (2026-10-18)
+- [Vest](https://github.com/ealush/vest) (Worth Trying → Worth Trying) — Editorial caveat was updated after the latest review pass. (2026-10-18)
 
 ## Review Note
 

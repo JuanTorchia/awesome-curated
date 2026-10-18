@@ -1,16 +1,108 @@
 {
   "changes": [
     {
-      "changedAt": "2026-10-17",
-      "name": "Public recommendation set",
-      "reason": "No material public change detected.",
-      "toolId": "snapshot",
-      "type": "unchanged",
-      "url": "data/latest.json"
+      "changedAt": "2026-10-18",
+      "currentLabel": "Human Pick",
+      "name": "Bencher",
+      "previousLabel": "Human Pick",
+      "reason": "Cross-source coverage is limited.",
+      "toolId": "cmnwko7ig01ne1p4t32xoxe5p",
+      "type": "caveat changed",
+      "url": "https://bencher.dev"
+    },
+    {
+      "changedAt": "2026-10-18",
+      "currentLabel": "Worth Trying",
+      "name": "agent-of-empires",
+      "previousLabel": "Worth Trying",
+      "reason": "Editorial caveat was updated after the latest review pass.",
+      "toolId": "cmnwlw6lm00d5vn4dtvazqp3b",
+      "type": "caveat changed",
+      "url": "https://github.com/njbrake/agent-of-empires"
+    },
+    {
+      "changedAt": "2026-10-18",
+      "currentLabel": "Worth Trying",
+      "name": "Aim",
+      "previousLabel": "Worth Trying",
+      "reason": "Editorial caveat was updated after the latest review pass.",
+      "toolId": "cmnwkuocq04jh1p4thdvusset",
+      "type": "caveat changed",
+      "url": "https://github.com/aimhubio/aim"
+    },
+    {
+      "changedAt": "2026-10-18",
+      "currentLabel": "Worth Trying",
+      "name": "ast-grep",
+      "previousLabel": "Worth Trying",
+      "reason": "Editorial caveat was updated after the latest review pass.",
+      "toolId": "cmnwlw6u500d9vn4dz3s8x95r",
+      "type": "caveat changed",
+      "url": "https://github.com/ast-grep/ast-grep"
+    },
+    {
+      "changedAt": "2026-10-18",
+      "currentLabel": "Worth Trying",
+      "name": "ATAC",
+      "previousLabel": "Worth Trying",
+      "reason": "Editorial caveat was updated after the latest review pass.",
+      "toolId": "cmnwlwx8x00p4vn4debc4c6mn",
+      "type": "caveat changed",
+      "url": "https://github.com/julien-cpsn/atac"
+    },
+    {
+      "changedAt": "2026-10-18",
+      "currentLabel": "Worth Trying",
+      "name": "bandwhich",
+      "previousLabel": "Worth Trying",
+      "reason": "Editorial caveat was updated after the latest review pass.",
+      "toolId": "cmnwlwftr00h9vn4d140gj6ih",
+      "type": "caveat changed",
+      "url": "https://github.com/imsnif/bandwhich"
+    },
+    {
+      "changedAt": "2026-10-18",
+      "currentLabel": "Worth Trying",
+      "name": "broot",
+      "previousLabel": "Worth Trying",
+      "reason": "Editorial caveat was updated after the latest review pass.",
+      "toolId": "cmnwlvz9e009tvn4df1t804eq",
+      "type": "caveat changed",
+      "url": "https://github.com/canop/broot"
+    },
+    {
+      "changedAt": "2026-10-18",
+      "currentLabel": "Worth Trying",
+      "name": "Chroma",
+      "previousLabel": "Worth Trying",
+      "reason": "Editorial caveat was updated after the latest review pass.",
+      "toolId": "cmnwkovzc01ye1p4trj7nl1lb",
+      "type": "caveat changed",
+      "url": "https://github.com/chroma-core/chroma"
+    },
+    {
+      "changedAt": "2026-10-18",
+      "currentLabel": "Worth Trying",
+      "name": "intelli-shell",
+      "previousLabel": "Worth Trying",
+      "reason": "Editorial caveat was updated after the latest review pass.",
+      "toolId": "cmnwlwza900pyvn4d8ouw69a9",
+      "type": "caveat changed",
+      "url": "https://github.com/lasantosr/intelli-shell"
+    },
+    {
+      "changedAt": "2026-10-18",
+      "currentLabel": "Worth Trying",
+      "name": "Vest",
+      "previousLabel": "Worth Trying",
+      "reason": "Editorial caveat was updated after the latest review pass.",
+      "toolId": "cmnwknh9h01bn1p4tq05njnh3",
+      "type": "caveat changed",
+      "url": "https://github.com/ealush/vest"
     }
   ],
-  "commitSha": "f5bd38bce5a1",
-  "generatedAt": "2026-10-17T18:20:12.022Z",
+  "commitSha": "dd11fd4c8d94",
+  "generatedAt": "2026-10-18T00:11:16.621Z",
   "recommendations": [
     {
       "caveat": "Best fit for teams with a matching ML or data workflow.",
@@ -243,7 +335,7 @@
       "url": "https://github.com/cossacklabs/themis"
     },
     {
-      "caveat": "Promising signal, but source consensus is still narrow.",
+      "caveat": "Cross-source coverage is limited.",
       "domain": "performance",
       "id": "cmnwko7ig01ne1p4t32xoxe5p",
       "label": "Human Pick",
@@ -254,7 +346,7 @@
       "name": "Bencher",
       "rationale": "Adds continuous benchmarking to CI so performance regressions can be caught before release.",
       "review": {
-        "caveat": "Promising signal, but source consensus is still narrow.",
+        "caveat": "Cross-source coverage is limited.",
         "notes": "Adds continuous benchmarking to CI so performance regressions can be caught before release.",
         "reviewedAt": "2026-06-22",
         "reviewedBy": "Juan",
@@ -343,7 +435,7 @@
       "url": "https://github.com/mem0ai/mem0"
     },
     {
-      "caveat": "Promising signal, but source consensus is still narrow.",
+      "caveat": "Cross-source coverage is limited.",
       "domain": "ai-ml",
       "id": "cmnwlw6lm00d5vn4dtvazqp3b",
       "label": "Worth Trying",
@@ -354,7 +446,7 @@
       "name": "agent-of-empires",
       "rationale": "Worth trying: concrete TUI workflow for managing parallel coding-agent sessions with tmux, worktrees, and sandboxing.",
       "review": {
-        "caveat": "Promising signal, but source consensus is still narrow.",
+        "caveat": "Cross-source coverage is limited.",
         "notes": "Worth trying: concrete TUI workflow for managing parallel coding-agent sessions with tmux, worktrees, and sandboxing.",
         "reviewedAt": "2026-06-22",
         "reviewedBy": "Juan",
@@ -388,7 +480,7 @@
       "url": "https://github.com/njbrake/agent-of-empires"
     },
     {
-      "caveat": "Promising signal, but source consensus is still narrow.",
+      "caveat": "Cross-source coverage is limited.",
       "domain": "ai-ml",
       "id": "cmnwkuocq04jh1p4thdvusset",
       "label": "Worth Trying",
@@ -399,7 +491,7 @@
       "name": "Aim",
       "rationale": "Worth trying: open-source experiment tracking for AI work, especially if a team wants a lighter alternative to hosted-first tools.",
       "review": {
-        "caveat": "Promising signal, but source consensus is still narrow.",
+        "caveat": "Cross-source coverage is limited.",
         "notes": "Worth trying: open-source experiment tracking for AI work, especially if a team wants a lighter alternative to hosted-first tools.",
         "reviewedAt": "2026-06-23",
         "reviewedBy": "Juan",
@@ -433,7 +525,7 @@
       "url": "https://github.com/aimhubio/aim"
     },
     {
-      "caveat": "Promising signal, but source consensus is still narrow.",
+      "caveat": "Cross-source coverage is limited.",
       "domain": "tooling",
       "id": "cmnwlw6u500d9vn4dz3s8x95r",
       "label": "Worth Trying",
@@ -444,7 +536,7 @@
       "name": "ast-grep",
       "rationale": "Worth trying: structural search and rewrite by AST gives a stronger workflow than regex for codebase-wide changes.",
       "review": {
-        "caveat": "Promising signal, but source consensus is still narrow.",
+        "caveat": "Cross-source coverage is limited.",
         "notes": "Worth trying: structural search and rewrite by AST gives a stronger workflow than regex for codebase-wide changes.",
         "reviewedAt": "2026-06-22",
         "reviewedBy": "Juan",
@@ -478,7 +570,7 @@
       "url": "https://github.com/ast-grep/ast-grep"
     },
     {
-      "caveat": "Promising signal, but source consensus is still narrow.",
+      "caveat": "Cross-source coverage is limited.",
       "domain": "tooling",
       "id": "cmnwlwx8x00p4vn4debc4c6mn",
       "label": "Worth Trying",
@@ -489,7 +581,7 @@
       "name": "ATAC",
       "rationale": "Worth trying: offline, account-less TUI API client in Rust; useful for developers who want Postman-like flows from the terminal.",
       "review": {
-        "caveat": "Promising signal, but source consensus is still narrow.",
+        "caveat": "Cross-source coverage is limited.",
         "notes": "Worth trying: offline, account-less TUI API client in Rust; useful for developers who want Postman-like flows from the terminal.",
         "reviewedAt": "2026-06-22",
         "reviewedBy": "Juan",
@@ -523,7 +615,7 @@
       "url": "https://github.com/julien-cpsn/atac"
     },
     {
-      "caveat": "Promising signal, but source consensus is still narrow.",
+      "caveat": "Cross-source coverage is limited.",
       "domain": "devops",
       "id": "cmnwlwftr00h9vn4d140gj6ih",
       "label": "Worth Trying",
@@ -534,7 +626,7 @@
       "name": "bandwhich",
       "rationale": "Worth trying: process-level bandwidth visibility from a terminal UI; small, focused, and easy to evaluate.",
       "review": {
-        "caveat": "Promising signal, but source consensus is still narrow.",
+        "caveat": "Cross-source coverage is limited.",
         "notes": "Worth trying: process-level bandwidth visibility from a terminal UI; small, focused, and easy to evaluate.",
         "reviewedAt": "2026-06-22",
         "reviewedBy": "Juan",
@@ -568,7 +660,7 @@
       "url": "https://github.com/imsnif/bandwhich"
     },
     {
-      "caveat": "Promising signal, but source consensus is still narrow.",
+      "caveat": "Cross-source coverage is limited.",
       "domain": "tooling",
       "id": "cmnwlvz9e009tvn4df1t804eq",
       "label": "Worth Trying",
@@ -579,7 +671,7 @@
       "name": "broot",
       "rationale": "Worth trying: fast terminal navigation for large directory trees, with a workflow meaningfully different from plain cd/find.",
       "review": {
-        "caveat": "Promising signal, but source consensus is still narrow.",
+        "caveat": "Cross-source coverage is limited.",
         "notes": "Worth trying: fast terminal navigation for large directory trees, with a workflow meaningfully different from plain cd/find.",
         "reviewedAt": "2026-06-22",
         "reviewedBy": "Juan",
@@ -658,7 +750,7 @@
       "url": "https://github.com/huggingface/candle"
     },
     {
-      "caveat": "Promising signal, but source consensus is still narrow.",
+      "caveat": "Cross-source coverage is limited.",
       "domain": "ai-ml",
       "id": "cmnwkovzc01ye1p4trj7nl1lb",
       "label": "Worth Trying",
@@ -669,7 +761,7 @@
       "name": "Chroma",
       "rationale": "Worth trying: approachable open-source embedding database for prototyping retrieval and agent memory workflows.",
       "review": {
-        "caveat": "Promising signal, but source consensus is still narrow.",
+        "caveat": "Cross-source coverage is limited.",
         "notes": "Worth trying: approachable open-source embedding database for prototyping retrieval and agent memory workflows.",
         "reviewedAt": "2026-06-22",
         "reviewedBy": "Juan",
@@ -703,7 +795,7 @@
       "url": "https://github.com/chroma-core/chroma"
     },
     {
-      "caveat": "Promising signal, but source consensus is still narrow.",
+      "caveat": "Cross-source coverage is limited.",
       "domain": "tooling",
       "id": "cmnwlwza900pyvn4d8ouw69a9",
       "label": "Worth Trying",
@@ -714,7 +806,7 @@
       "name": "intelli-shell",
       "rationale": "Worth trying: focused command bookmark/search workflow for terminal-heavy developers; useful without pretending to be a broad platform.",
       "review": {
-        "caveat": "Promising signal, but source consensus is still narrow.",
+        "caveat": "Cross-source coverage is limited.",
         "notes": "Worth trying: focused command bookmark/search workflow for terminal-heavy developers; useful without pretending to be a broad platform.",
         "reviewedAt": "2026-06-22",
         "reviewedBy": "Juan",
@@ -748,7 +840,7 @@
       "url": "https://github.com/lasantosr/intelli-shell"
     },
     {
-      "caveat": "Promising signal, but source consensus is still narrow.",
+      "caveat": "Cross-source coverage is limited.",
       "domain": "web",
       "id": "cmnwknh9h01bn1p4tq05njnh3",
       "label": "Worth Trying",
@@ -759,7 +851,7 @@
       "name": "Vest",
       "rationale": "Sintaxis intuitiva para validaciones complejas",
       "review": {
-        "caveat": "Promising signal, but source consensus is still narrow.",
+        "caveat": "Cross-source coverage is limited.",
         "notes": "Sintaxis intuitiva para validaciones complejas",
         "reviewedAt": "2026-06-23",
         "reviewedBy": "Juan",
@@ -11661,7 +11753,7 @@
     "sources": 20
   },
   "validation": {
-    "checkedAt": "2026-10-17T18:20:12.022Z",
+    "checkedAt": "2026-10-18T00:11:16.621Z",
     "status": "pass",
     "warnings": []
   }

@@ -16,7 +16,7 @@ Tools with a human review label and visible caveats.
 
 Found in 2 active sources: fffaraz/awesome-cpp, avelino/awesome-go
 
-**Review label:** Human Pick · **Caveat:** Promising signal, but source consensus is still narrow.
+**Review label:** Human Pick · **Caveat:** Cross-source coverage is limited.
 
 Suite of continuous benchmarking tools designed to catch performance regressions in CI. MIT/Apache-2.0 Rust
 

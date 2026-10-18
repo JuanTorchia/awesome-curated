@@ -8,7 +8,7 @@ Read in other languages: **🇬🇧 English** · [🇪🇸 Español](README.es.m
 
 [![Human Picks](https://img.shields.io/badge/Human_Picks-5-gold?style=for-the-badge)](#)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](#)
-[![Updated](https://img.shields.io/badge/Updated-2026-10-17-green?style=for-the-badge)](#)
+[![Updated](https://img.shields.io/badge/Updated-2026-10-18-green?style=for-the-badge)](#)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -22,9 +22,9 @@ Star it if you want fewer tool-hunt tabs: source traces, dedupe, caveats, and a 
 
 ### Trust snapshot
 
-- **Latest generated update**: 2026-10-17
+- **Latest generated update**: 2026-10-18
 - **active sources**: 20
-- **human-reviewed tools**: 5
+- **Human Picks**: 5
 - **Methodology**: [METHODOLOGY.md](METHODOLOGY.md)
 - **Tracked sources**: [SOURCES.md](SOURCES.md)
 - **Update summary**: [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md)
@@ -95,20 +95,20 @@ Human-reviewed picks with a concrete reason to look now.
 
 **Review:** Human Pick
 
-**Caveat:** Promising signal, but source consensus is still narrow.
+**Caveat:** Cross-source coverage is limited.
 <!-- staff-picks:end -->
 
 ---
 
-## Review queue
+## What changed this week
 
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, jivoi/awesome-osint, vinta/awesome-python
-- [Deepchecks](https://github.com/deepchecks/deepchecks) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
-- [Colossal-AI](https://github.com/hpcaitech/colossalai) — Dev Tooling · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, MunGell/awesome-for-beginners
-- [Feature Engine](https://github.com/feature-engine/feature_engine) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
-- [askbudi/roundtable](https://github.com/askbudi/roundtable) — AI & ML · Found in 2 active sources: vuejs/awesome-vue, punkpeye/awesome-mcp-servers
+- [Bencher](https://bencher.dev) — caveat changed · Human Pick: Editorial caveat was updated after the latest review pass.
+- [agent-of-empires](https://github.com/njbrake/agent-of-empires) — caveat changed · Worth Trying: Editorial caveat was updated after the latest review pass.
+- [Aim](https://github.com/aimhubio/aim) — caveat changed · Worth Trying: Editorial caveat was updated after the latest review pass.
+- [ast-grep](https://github.com/ast-grep/ast-grep) — caveat changed · Worth Trying: Editorial caveat was updated after the latest review pass.
+- [ATAC](https://github.com/julien-cpsn/atac) — caveat changed · Worth Trying: Editorial caveat was updated after the latest review pass.
 
-Candidates are not endorsements. Ask for review via [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) or inspect the full queue in [TOOLS.md](TOOLS.md).
+See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
 
 ---
 
@@ -208,7 +208,7 @@ Candidates are not endorsements. Ask for review via [GitHub issues](https://gith
 
 1. **Discovery**: GitHub API (GraphQL batched) detects `awesome-*` repos actively maintained.
 2. **Multi-dimensional scoring**: freshness, activity, popularity, depth, and community health weighted into a single score.
-3. **Cross-source dedupe**: items appearing in 2+ awesomes are grouped into a single `CuratedTool`. `appearsInCount` is our consensus signal.
+3. **Source evidence**: entries with the same normalized URL are grouped. Publication requires matching traces from at least two distinct active sources; a stored appearance count alone does not qualify an entry.
 4. **AI classification**: Claude (Anthropic) assigns `GEM | WORTH_TRYING | MEH | HYPE | DEAD` with per-item reasoning.
 5. **Human verdict**: a human curator confirms or overrides AI suggestions. Tools marked 👤 have human verdict.
 

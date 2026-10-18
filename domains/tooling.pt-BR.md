@@ -30,7 +30,7 @@ Cross-platform application to monitor your network traffic with ease
 
 ![](https://img.shields.io/github/stars/ast-grep/ast-grep?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
 
-**Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
+**Review label:** Worth Trying · **Caveat:** Cross-source coverage is limited.
 
 A CLI tool for code structural search, lint and rewriting.
 
@@ -44,7 +44,7 @@ A CLI tool for code structural search, lint and rewriting.
 
 ![](https://img.shields.io/github/stars/julien-cpsn/atac?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
 
-**Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
+**Review label:** Worth Trying · **Caveat:** Cross-source coverage is limited.
 
 A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
 
@@ -58,7 +58,7 @@ A feature-full TUI API client made in Rust. ATAC is free, open-source, offline a
 
 ![](https://img.shields.io/github/stars/canop/broot?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
 
-**Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
+**Review label:** Worth Trying · **Caveat:** Cross-source coverage is limited.
 
 A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then cd to it; never lose track of file hierarchy while you search; manipulate your files, ...), further...
 
@@ -72,7 +72,7 @@ A new way to see and navigate directory trees (get an overview of a directory, e
 
 ![](https://img.shields.io/github/stars/lasantosr/intelli-shell?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
 
-**Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
+**Review label:** Worth Trying · **Caveat:** Cross-source coverage is limited.
 
 Bookmark commands with placeholders and search or autocomplete at any time
 

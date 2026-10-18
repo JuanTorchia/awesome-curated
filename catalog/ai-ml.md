@@ -2,7 +2,7 @@
 
 [All domains](../TOOLS.md) · [README](../README.md) · [Machine-readable evidence](../data/latest.json)
 
-Generated: 2026-10-17 · Tool entries: 79
+Generated: 2026-10-18 · Tool entries: 79
 
 ### <a id="bayeswitnesses-m2cgen-bayeswitnesses-m2cgen"></a>[BayesWitnesses/m2cgen](https://github.com/bayeswitnesses/m2cgen)
 
@@ -67,7 +67,7 @@ Generated: 2026-10-17 · Tool entries: 79
 
 **Why it is here:** Worth trying: concrete TUI workflow for managing parallel coding-agent sessions with tmux, worktrees, and sandboxing.
 
-**Caveat:** Promising signal, but source consensus is still narrow.
+**Caveat:** Cross-source coverage is limited.
 
 **Source traces:**
 
@@ -84,7 +84,7 @@ Generated: 2026-10-17 · Tool entries: 79
 
 **Why it is here:** Worth trying: open-source experiment tracking for AI work, especially if a team wants a lighter alternative to hosted-first tools.
 
-**Caveat:** Promising signal, but source consensus is still narrow.
+**Caveat:** Cross-source coverage is limited.
 
 **Source traces:**
 
@@ -118,7 +118,7 @@ Generated: 2026-10-17 · Tool entries: 79
 
 **Why it is here:** Worth trying: approachable open-source embedding database for prototyping retrieval and agent memory workflows.
 
-**Caveat:** Promising signal, but source consensus is still narrow.
+**Caveat:** Cross-source coverage is limited.
 
 **Source traces:**
 

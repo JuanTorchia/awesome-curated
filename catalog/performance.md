@@ -2,7 +2,7 @@
 
 [All domains](../TOOLS.md) · [README](../README.md) · [Machine-readable evidence](../data/latest.json)
 
-Generated: 2026-10-17 · Tool entries: 3
+Generated: 2026-10-18 · Tool entries: 3
 
 ### <a id="bencher-bencher"></a>[Bencher](https://bencher.dev)
 
@@ -12,7 +12,7 @@ Generated: 2026-10-17 · Tool entries: 3
 
 **Why it is here:** Adds continuous benchmarking to CI so performance regressions can be caught before release.
 
-**Caveat:** Promising signal, but source consensus is still narrow.
+**Caveat:** Cross-source coverage is limited.
 
 **Source traces:**
 

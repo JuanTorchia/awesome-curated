@@ -58,7 +58,7 @@ Mem0 enhances AI assistants and agents with an intelligent memory layer, enablin
 
 ![](https://img.shields.io/github/stars/njbrake/agent-of-empires?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
 
-**Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
+**Review label:** Worth Trying · **Caveat:** Cross-source coverage is limited.
 
 A TUI/CLI for managing multiple AI coding agent sessions with tmux, git worktrees, and Docker sandboxing
 
@@ -72,7 +72,7 @@ A TUI/CLI for managing multiple AI coding agent sessions with tmux, git worktree
 
 ![](https://img.shields.io/github/stars/aimhubio/aim?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
-**Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
+**Review label:** Worth Trying · **Caveat:** Cross-source coverage is limited.
 
 A super-easy way to record, search and compare AI experiments.
 
@@ -100,7 +100,7 @@ Candle is a minimalist ML framework for Rust with a focus on performance (includ
 
 ![](https://img.shields.io/github/stars/chroma-core/chroma?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
-**Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
+**Review label:** Worth Trying · **Caveat:** Cross-source coverage is limited.
 
 Chroma is an open-source embedding database.
 

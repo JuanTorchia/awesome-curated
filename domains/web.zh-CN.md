@@ -16,7 +16,7 @@ Tools with a human review label and visible caveats.
 
 ![](https://img.shields.io/github/stars/ealush/vest?style=flat-square&label=⭐) · Found in 2 active sources: vuejs/awesome-vue, MunGell/awesome-for-beginners
 
-**Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
+**Review label:** Worth Trying · **Caveat:** Cross-source coverage is limited.
 
 Validations framework inspired by unit testing frameworks.
 

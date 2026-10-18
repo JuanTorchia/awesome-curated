@@ -2,7 +2,7 @@
 
 [All domains](../TOOLS.md) · [README](../README.md) · [Machine-readable evidence](../data/latest.json)
 
-Generated: 2026-10-17 · Tool entries: 75
+Generated: 2026-10-18 · Tool entries: 75
 
 ### <a id="sniffnet-gyulyvgc-sniffnet"></a>[Sniffnet](https://github.com/gyulyvgc/sniffnet)
 
@@ -30,7 +30,7 @@ Generated: 2026-10-17 · Tool entries: 75
 
 **Why it is here:** Worth trying: structural search and rewrite by AST gives a stronger workflow than regex for codebase-wide changes.
 
-**Caveat:** Promising signal, but source consensus is still narrow.
+**Caveat:** Cross-source coverage is limited.
 
 **Source traces:**
 
@@ -47,7 +47,7 @@ Generated: 2026-10-17 · Tool entries: 75
 
 **Why it is here:** Worth trying: offline, account-less TUI API client in Rust; useful for developers who want Postman-like flows from the terminal.
 
-**Caveat:** Promising signal, but source consensus is still narrow.
+**Caveat:** Cross-source coverage is limited.
 
 **Source traces:**
 
@@ -64,7 +64,7 @@ Generated: 2026-10-17 · Tool entries: 75
 
 **Why it is here:** Worth trying: fast terminal navigation for large directory trees, with a workflow meaningfully different from plain cd/find.
 
-**Caveat:** Promising signal, but source consensus is still narrow.
+**Caveat:** Cross-source coverage is limited.
 
 **Source traces:**
 
@@ -81,7 +81,7 @@ Generated: 2026-10-17 · Tool entries: 75
 
 **Why it is here:** Worth trying: focused command bookmark/search workflow for terminal-heavy developers; useful without pretending to be a broad platform.
 
-**Caveat:** Promising signal, but source consensus is still narrow.
+**Caveat:** Cross-source coverage is limited.
 
 **Source traces:**
 

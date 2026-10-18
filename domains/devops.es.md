@@ -16,7 +16,7 @@ Tools with a human review label and visible caveats.
 
 ![](https://img.shields.io/github/stars/imsnif/bandwhich?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
 
-**Review label:** Worth Trying · **Caveat:** Promising signal, but source consensus is still narrow.
+**Review label:** Worth Trying · **Caveat:** Cross-source coverage is limited.
 
 Track bandwidth utilization by process.
 
