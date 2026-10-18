@@ -3,19 +3,14 @@
   "tools": {
     "ast-grep": "0.51.0",
     "vest": "6.3.4",
-    "chroma": "1.5.9",
     "netron": "9.3.2",
-    "onnx": "1.23.2",
-    "aim": "3.29.1",
-    "numpyForAim": "1.26.4"
+    "onnx": "1.23.2"
   },
   "files": [
     "README.md",
-    "aim-example.py",
     "ast-grep.mjs",
     "check-result.mjs",
     "check_result.py",
-    "chroma.py",
     "expected.json",
     "netron-example.py",
     "package-lock.json",
@@ -25,19 +20,17 @@
     "vest.mjs"
   ],
   "sha256": {
-    "README.md": "e33f08b8feff5d296f5d291adf925ed253015b28696ab0f23004edcae13a4e2e",
-    "aim-example.py": "14c63f9defb21bca50d14955dc7b7e7b2d720bbeb86de6c5b3af772a86a7c9ec",
+    "README.md": "c87b661aa44e721daa3216ce1cbd89b795ed1e51a673fa3cbe605c71167efc38",
     "ast-grep.mjs": "d813eb3d0490fd65d771c2ef96f6c04907022641e5f0fe24d49848897285b45a",
     "check-result.mjs": "3bce3de502e9eab50f31c2649283a2ca86b953790c034bee4e2256f2cd42a342",
     "check_result.py": "a9c61f04715e8795f5fcd7578e16d5d38db401bc1afdc47494e94db18f418ca5",
-    "chroma.py": "b791b60b88e4b6036dc87a9e5d72838e4fb8a6a989f6741fc380d1fd029c9e2c",
-    "expected.json": "3e5ce9fd22be1def00bc61c9ec94d680dd07de27a7fbeb9e03bcae3a5a075fc7",
+    "expected.json": "c7ba68fb063caca8a5e1e446096ecef4e4fbbf45f16abc99c10f478718a87ba9",
     "netron-example.py": "5007155180515d7ddd7d8ca345e69c6b37583a534d2117b809746bd4ddee50f0",
     "package-lock.json": "8e5891296ee4abf3e204419f5a2c5deab51ab6af51ac25f2bb43aff782f94b4c",
     "package.json": "ddeb538316910afc413c8bb6017b871c63e504f215bb67474e9f2070a4662680",
-    "requirements.txt": "a942880759ef7c172210fb8c9ff36d33d5e56b42047baffa1f7c934a23586b46",
-    "versions.json": "fa354165b02b9f61c3ffd94cf207897653011aaf10e8d376a3c4bfa0db4999d0",
+    "requirements.txt": "d9dda32655493abc7e808af4d6de7713c0c4e8df8a716cf5154b2eca6c77b386",
+    "versions.json": "baef22cd5dd44df35d3449b860e08b6b0b8cd57899e65f62c35606856b6e05c1",
     "vest.mjs": "d04595f0188b87bcda2d2dcc5b160ce486e56b985c4352fff9fc7adccc390039"
   },
-  "revision": "practical-examples-2026-10-18-r2"
+  "revision": "practical-examples-2026-10-18-r3"
 }

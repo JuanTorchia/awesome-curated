@@ -1,11 +1,11 @@
-# Five small tool examples you can reproduce
+# Three small tool examples you can reproduce
 
-Pick a problem, run a small fixture, and inspect the result before adding another dependency to a project. These examples cover structural code search, form validation, a model file, vector lookup and experiment metrics.
+Pick a problem, run a small fixture, and inspect the result before adding another dependency to a project. These examples cover structural code search, form validation and inspection of a model file.
 
 Tested on 18 October 2026 with synthetic inputs, in disposable Linux x86-64 containers. The checks were automated with AI assistance. The catalogue's existing review labels stay unchanged. Installation needs internet; the final checks ran with external networking disconnected.
 
 ```sh
-git clone --branch practical-examples-2026-10-18-r2 --depth 1 https://github.com/JuanTorchia/awesome-curated.git
+git clone --branch practical-examples-2026-10-18-r3 --depth 1 https://github.com/JuanTorchia/awesome-curated.git
 cd awesome-curated/examples/practical
 ```
 
@@ -41,38 +41,16 @@ This is a validation-suite check, before connecting a form UI. It does not exerc
 The [fixture](examples/practical/netron-example.py) creates an ONNX file with one `Relu` node and shape `[1, 3]`, starts Netron on loopback port 18080, and retrieves the page and model bytes.
 
 ```sh
-/tmp/awesome-chroma-env/bin/python netron-example.py
+/tmp/awesome-netron-env/bin/python netron-example.py
 ```
 
 Netron **9.3.2** and ONNX **1.23.2** served the **104-byte** model with HTTP **200** and identical bytes. Its SHA-256 is `b8f44a12ed8dff00d68bfb2fe6bee423dd7b100422c4ad6cf087b25af23a9c4e`.
 
 This establishes that this small file can be served. No browser rendering or model inference was checked; the `Relu` node is verified in the generated ONNX file, not by a visual assertion. Port 18080 must be available. [Netron source and usage](https://github.com/lutzroeder/netron).
 
-## <a id="chroma"></a>Query vectors without downloading an embedding model
-
-The [fixture](examples/practical/chroma.py) inserts three explicit one-hot vectors and queries with a vector equal to the first.
-
-```sh
-/tmp/awesome-chroma-env/bin/python chroma.py
-```
-
-With Chroma **1.5.9**, the collection contains **3** records, returns `logs` as nearest and reports distance **0.0**.
-
-Explicit vectors make the storage/query step easy to inspect separately from embedding generation. The exact-match toy query does not measure semantic search quality, persistence or scale. Data is ephemeral. [Chroma query documentation](https://docs.trychroma.com/docs/querying-collections/query-and-get).
-
-## <a id="aim"></a>Read experiment metrics back with Aim
-
-The [fixture](examples/practical/aim-example.py) records synthetic loss values, closes the run, reopens the repository and checks the stored sequence.
-
-```sh
-/tmp/awesome-aim-env/bin/python aim-example.py
-```
-
-With Aim **3.29.1**, the recorded result was **1** run, steps `[0, 1, 2]` and loss `[1.0, 0.5, 0.25]`. System tracking and terminal capture are disabled. The data is temporary; no model is trained and no tracker comparison is implied. [Aim tracking documentation](https://aimstack.readthedocs.io/en/latest/quick_start/setup.html).
-
 ## Where these examples fit
 
-Choose the fixture that matches a task you already have. The [current catalogue](TOOLS.md) keeps review labels, limits and source traces; these dated examples are a separate reproduction package, not five new endorsements. The [18 October evidence snapshot](https://github.com/JuanTorchia/awesome-curated/blob/4d851df75e1aeeb861b2046ce4784d5706e7d548/data/latest.json) records the source coverage used for this selection.
+Choose the fixture that matches a task you already have. The [current catalogue](TOOLS.md) keeps review labels, limits and source traces; these dated examples are a separate reproduction package, not three new endorsements. Chroma and Aim were removed from this package because their latest stable releases have unpatched advisories. The [18 October evidence snapshot](https://github.com/JuanTorchia/awesome-curated/blob/4d851df75e1aeeb861b2046ce4784d5706e7d548/data/latest.json) records the source coverage used for this selection.
 
 ## Save for later
 

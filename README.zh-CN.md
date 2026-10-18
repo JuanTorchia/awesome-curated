@@ -23,8 +23,6 @@
 | 搜索和改写代码 | [ast-grep](https://github.com/ast-grep/ast-grep) · Worth Trying | [试用](GUIDE.md#ast-grep) |
 | 验证表单 | [Vest](https://github.com/ealush/vest) · Worth Trying | [试用](GUIDE.md#vest) |
 | 检查模型图 | [Netron](https://github.com/lutzroeder/netron) · Human Pick | [试用](GUIDE.md#netron) |
-| 查询三个向量 | [Chroma](https://github.com/chroma-core/chroma) · Worth Trying | [试用](GUIDE.md#chroma) |
-| 记录实验指标 | [Aim](https://github.com/aimhubio/aim) · Worth Trying | [试用](GUIDE.md#aim) |
 
 [可复现示例](GUIDE.md) · 英语 / 西班牙语：固定版本、测试数据、结果与限制。自动化测试不改变审核标签。
 

@@ -80,8 +80,6 @@ A super-easy way to record, search and compare AI experiments.
 
 **收录原因:** Worth trying: open-source experiment tracking for AI work, especially if a team wants a lighter alternative to hosted-first tools.
 
-[可复现示例](../GUIDE.md#aim)
-
 **证据记录:** [完整证据](../catalog/ai-ml.md#aim-aimhubio-aim) · [data/latest.json](../data/latest.json)
 
 ---
@@ -109,8 +107,6 @@ Candle is a minimalist ML framework for Rust with a focus on performance (includ
 Chroma is an open-source embedding database.
 
 **收录原因:** Worth trying: approachable open-source embedding database for prototyping retrieval and agent memory workflows.
-
-[可复现示例](../GUIDE.md#chroma)
 
 **证据记录:** [完整证据](../catalog/ai-ml.md#chroma-chroma-core-chroma) · [data/latest.json](../data/latest.json)
 

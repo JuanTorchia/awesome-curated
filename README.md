@@ -23,8 +23,6 @@ Read in other languages: **🇬🇧 English** · [🇪🇸 Español](README.es.m
 | Search and rewrite code | [ast-grep](https://github.com/ast-grep/ast-grep) · Worth Trying | [Try it](GUIDE.md#ast-grep) |
 | Validate a form | [Vest](https://github.com/ealush/vest) · Worth Trying | [Try it](GUIDE.md#vest) |
 | Inspect a model graph | [Netron](https://github.com/lutzroeder/netron) · Human Pick | [Try it](GUIDE.md#netron) |
-| Query three vectors | [Chroma](https://github.com/chroma-core/chroma) · Worth Trying | [Try it](GUIDE.md#chroma) |
-| Record experiment metrics | [Aim](https://github.com/aimhubio/aim) · Worth Trying | [Try it](GUIDE.md#aim) |
 
 [Reproducible examples](GUIDE.md) · English / Spanish · pinned versions, fixtures, observed results and limits. Automated checks do not change review labels.
 

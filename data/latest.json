@@ -9,8 +9,8 @@
       "url": "data/latest.json"
     }
   ],
-  "commitSha": "4709f5bdb3d0",
-  "generatedAt": "2026-10-18T04:33:51.405Z",
+  "commitSha": "05752a42c0ed",
+  "generatedAt": "2026-10-18T06:11:51.258Z",
   "recommendations": [
     {
       "caveat": "Best fit for teams with a matching ML or data workflow.",
@@ -11661,7 +11661,7 @@
     "sources": 20
   },
   "validation": {
-    "checkedAt": "2026-10-18T04:33:51.405Z",
+    "checkedAt": "2026-10-18T06:11:51.258Z",
     "status": "pass",
     "warnings": []
   }

@@ -23,8 +23,6 @@
 | コードの検索と書き換え | [ast-grep](https://github.com/ast-grep/ast-grep) · Worth Trying | [試す](GUIDE.md#ast-grep) |
 | フォームの検証 | [Vest](https://github.com/ealush/vest) · Worth Trying | [試す](GUIDE.md#vest) |
 | モデルの構造を確認 | [Netron](https://github.com/lutzroeder/netron) · Human Pick | [試す](GUIDE.md#netron) |
-| 3つのベクトルを検索 | [Chroma](https://github.com/chroma-core/chroma) · Worth Trying | [試す](GUIDE.md#chroma) |
-| 実験の指標を記録 | [Aim](https://github.com/aimhubio/aim) · Worth Trying | [試す](GUIDE.md#aim) |
 
 [再現できるサンプル](GUIDE.md) · 英語 / スペイン語：固定バージョン、テストデータ、結果と制約。自動テストはレビューの判定を変更しません。
 

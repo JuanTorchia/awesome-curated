@@ -23,8 +23,6 @@ Ler em outros idiomas: [🇬🇧 English](README.md) · [🇪🇸 Español](READ
 | Buscar e reescrever código | [ast-grep](https://github.com/ast-grep/ast-grep) · Worth Trying | [Experimente](GUIDE.md#ast-grep) |
 | Validar um formulário | [Vest](https://github.com/ealush/vest) · Worth Trying | [Experimente](GUIDE.md#vest) |
 | Inspecionar um modelo | [Netron](https://github.com/lutzroeder/netron) · Human Pick | [Experimente](GUIDE.md#netron) |
-| Consultar três vetores | [Chroma](https://github.com/chroma-core/chroma) · Worth Trying | [Experimente](GUIDE.md#chroma) |
-| Registrar métricas de experimentos | [Aim](https://github.com/aimhubio/aim) · Worth Trying | [Experimente](GUIDE.md#aim) |
 
 [Exemplos reproduzíveis](GUIDE.md) · Inglês / espanhol · versões fixas, dados de teste, resultados e limites. Testes automatizados não alteram os vereditos.
 

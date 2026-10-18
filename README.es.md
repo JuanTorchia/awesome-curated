@@ -23,8 +23,6 @@ Leer en otros idiomas: [🇬🇧 English](README.md) · **🇪🇸 Español** ·
 | Buscar y reescribir código | [ast-grep](https://github.com/ast-grep/ast-grep) · Worth Trying | [Probala](GUIDE.es.md#ast-grep) |
 | Validar un formulario | [Vest](https://github.com/ealush/vest) · Worth Trying | [Probala](GUIDE.es.md#vest) |
 | Inspeccionar un modelo | [Netron](https://github.com/lutzroeder/netron) · Human Pick | [Probala](GUIDE.es.md#netron) |
-| Consultar tres vectores | [Chroma](https://github.com/chroma-core/chroma) · Worth Trying | [Probala](GUIDE.es.md#chroma) |
-| Registrar métricas de experimentos | [Aim](https://github.com/aimhubio/aim) · Worth Trying | [Probala](GUIDE.es.md#aim) |
 
 [Ejemplos reproducibles](GUIDE.es.md) · Inglés / español · versiones fijas, datos de prueba, resultados y límites. Las pruebas automatizadas no cambian los veredictos.
 

@@ -1,7 +1,5 @@
 {
   "ast-grep": {"matches": 1, "rewritten": "logger.info(\"hello\")", "commentAndStringUnchanged": true},
   "vest": {"invalidFields": ["password", "username"], "validHasErrors": false},
-  "chroma": {"count": 3, "nearest": "logs", "distance": 0.0},
-  "netron": {"http": 200, "modelSha256": "b8f44a12ed8dff00d68bfb2fe6bee423dd7b100422c4ad6cf087b25af23a9c4e", "nodes": ["Relu"], "shape": [1, 3], "bytes": 104},
-  "aim": {"runs": 1, "steps": [0, 1, 2], "loss": [1.0, 0.5, 0.25]}
+  "netron": {"http": 200, "modelSha256": "b8f44a12ed8dff00d68bfb2fe6bee423dd7b100422c4ad6cf087b25af23a9c4e", "nodes": ["Relu"], "shape": [1, 3], "bytes": 104}
 }

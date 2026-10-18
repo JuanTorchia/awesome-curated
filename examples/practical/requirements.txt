@@ -1,4 +1,2 @@
-chromadb==1.5.9
 netron==9.3.2
 onnx==1.23.2
-# Aim uses a separate Python environment; see README.
