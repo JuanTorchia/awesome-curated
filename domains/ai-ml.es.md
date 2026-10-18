@@ -2,7 +2,7 @@
 
 <p><sub>← [Volver al main](../README.es.md)</sub></p>
 
-**7 Human-reviewed · 0 Popular standards · 70 AI candidates · 0 Needs review**
+**7 Human-reviewed · 0 Popular standards · 72 AI candidates · 0 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -142,6 +142,20 @@ General purpose gradient boosting on decision trees library with categorical fea
 **Why this is here:** General purpose gradient boosting on decision trees library with categorical features support out of the box. It is easy to install, contains fast...
 
 **Evidence record:** [Full evidence](../catalog/ai-ml.md#catboost-catboost-catboost) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Deepchecks](https://github.com/deepchecks/deepchecks)
+
+![](https://img.shields.io/github/stars/deepchecks/deepchecks?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Deepchecks is a holistic open-source solution for all of your AI & ML validation needs, enabling you to test your data and models from research to production thoroughly.
+
+**Why this is here:** Cobertura integral: data checks, model validation, drift detection en un solo lugar
+
+**Evidence record:** [Full evidence](../catalog/ai-ml.md#deepchecks-deepchecks-deepchecks) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -327,6 +341,20 @@ Fast, flexible, multi-threaded ensembles of decision trees for machine learning 
 
 ---
 
+### [CML](https://github.com/iterative/cml)
+
+![](https://img.shields.io/github/stars/iterative/cml?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+A library for doing continuous integration with ML projects. Use GitHub Actions & GitLab CI to train and evaluate models in production like environments and automatically generate visual reports with metrics and...
+
+**Why this is here:** A library for doing continuous integration with ML projects. Use GitHub Actions & GitLab CI to train and evaluate models in production like...
+
+**Evidence record:** [Full evidence](../catalog/ai-ml.md#cml-iterative-cml) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [dagger/container-use](https://github.com/dagger/container-use)
 
 ![](https://img.shields.io/github/stars/dagger/container-use?style=flat-square&label=⭐) · Found in 2 active sources: hesreallyhim/awesome-claude-code, punkpeye/awesome-mcp-servers
@@ -369,35 +397,7 @@ Machine Learning production server for TensorFlow, XGBoost and Cafe models writt
 
 ---
 
-### [Detectron2](https://github.com/facebookresearch/detectron2)
-
-![](https://img.shields.io/github/stars/facebookresearch/detectron2?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Detectron2 is Facebook AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms.
-
-**Why this is here:** SOTA accuracy en coco/benchmarks
-
-**Evidence record:** [Full evidence](../catalog/ai-ml.md#detectron2-facebookresearch-detectron2) · [data/latest.json](../data/latest.json)
-
----
-
-### [Determined](https://github.com/determined-ai/determined)
-
-![](https://img.shields.io/github/stars/determined-ai/determined?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Deep learning training platform with integrated support for distributed training, hyperparameter tuning, and model management (supports Tensorflow and Pytorch).
-
-**Why this is here:** Model registry y experiment tracking built-in
-
-**Evidence record:** [Full evidence](../catalog/ai-ml.md#determined-determined-ai-determined) · [data/latest.json](../data/latest.json)
-
----
-
-_Showing 20 of 70. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+_Showing 20 of 72. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

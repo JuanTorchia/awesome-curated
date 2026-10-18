@@ -38,7 +38,7 @@
 
 ## 🗺️ あなたのスタックを見つける
 
-[🌐 **Web** · 11](domains/web.ja.md) · [🤖 **AI・機械学習** · 77](domains/ai-ml.ja.md) · [🛠️ **DevOps** · 13](domains/devops.ja.md) · [📱 **モバイル** · 1](domains/mobile.ja.md) · [💾 **データ・DB** · 45](domains/data.ja.md) · [🔐 **セキュリティ・暗号** · 9](domains/security.ja.md) · [⚡ **パフォーマンス** · 3](domains/performance.ja.md) · [🧰 **開発ツール** · 76](domains/tooling.ja.md) · [🎨 **その他** · 11](domains/other.ja.md)
+[🌐 **Web** · 11](domains/web.ja.md) · [🤖 **AI・機械学習** · 79](domains/ai-ml.ja.md) · [🛠️ **DevOps** · 12](domains/devops.ja.md) · [📱 **モバイル** · 1](domains/mobile.ja.md) · [💾 **データ・DB** · 45](domains/data.ja.md) · [🔐 **セキュリティ・暗号** · 9](domains/security.ja.md) · [⚡ **パフォーマンス** · 3](domains/performance.ja.md) · [🧰 **開発ツール** · 75](domains/tooling.ja.md) · [🎨 **その他** · 11](domains/other.ja.md)
 
 ---
 
@@ -100,11 +100,15 @@
 
 ---
 
-## What changed this week
+## Review queue
 
-- [Vercel AI](https://github.com/vercel/ai) — removed: No longer present in the current public recommendation set.
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, jivoi/awesome-osint, vinta/awesome-python
+- [Deepchecks](https://github.com/deepchecks/deepchecks) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
+- [Colossal-AI](https://github.com/hpcaitech/colossalai) — Dev Tooling · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, MunGell/awesome-for-beginners
+- [Feature Engine](https://github.com/feature-engine/feature_engine) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
+- [askbudi/roundtable](https://github.com/askbudi/roundtable) — AI & ML · Found in 2 active sources: vuejs/awesome-vue, punkpeye/awesome-mcp-servers
 
-See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
+Candidates are not endorsements. Ask for review via [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) or inspect the full queue in [TOOLS.md](TOOLS.md).
 
 ---
 
@@ -128,7 +132,7 @@ See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
 | 👤 [**Netron**](https://github.com/lutzroeder/netron) | Netron is a viewer for neural network, deep learning and machine learning models. | Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning · Human Pick |
 | 👤 [**Mem0**](https://github.com/mem0ai/mem0) | Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions. | Found in 3 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python, MunGell/awesome-for-beginners · Worth Trying |
 
-📖 他 74 件は[詳細ページ →](domains/ai-ml.ja.md)
+📖 他 76 件は[詳細ページ →](domains/ai-ml.ja.md)
 
 ### 🛠️ DevOps
 
@@ -136,9 +140,9 @@ See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
 |---|---|---|
 | 👤 [**bandwhich**](https://github.com/imsnif/bandwhich) | Track bandwidth utilization by process. | Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust · Worth Trying |
 | [**BorgBackup**](https://github.com/borgbackup/borg) | Deduplicating backup program with compression and authenticated encryption. | Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners · AI Candidate |
-| [**CML**](https://github.com/iterative/cml) | A library for doing continuous integration with ML projects. Use GitHub Actions & GitLab CI to train and evaluate... | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning · AI Candidate |
+| [**ctop**](https://github.com/bcicen/ctop) | interface (e.g. htop) for container metrics. | Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go · AI Candidate |
 
-📖 他 10 件は[詳細ページ →](domains/devops.ja.md)
+📖 他 9 件は[詳細ページ →](domains/devops.ja.md)
 
 ### 📱 モバイル
 
@@ -186,7 +190,7 @@ See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
 | 👤 [**ast-grep**](https://github.com/ast-grep/ast-grep) | A CLI tool for code structural search, lint and rewriting. | Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust · Worth Trying |
 | 👤 [**ATAC**](https://github.com/julien-cpsn/atac) | A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less. | Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust · Worth Trying |
 
-📖 他 73 件は[詳細ページ →](domains/tooling.ja.md)
+📖 他 72 件は[詳細ページ →](domains/tooling.ja.md)
 
 ### 🎨 その他
 

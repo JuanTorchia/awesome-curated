@@ -38,7 +38,7 @@ Dê star se você quer uma shortlist recorrente e com pouco ruído de ferramenta
 
 ## 🗺️ Encontre seu stack
 
-[🌐 **Web** · 11](domains/web.pt-BR.md) · [🤖 **IA e ML** · 77](domains/ai-ml.pt-BR.md) · [🛠️ **DevOps** · 13](domains/devops.pt-BR.md) · [📱 **Mobile** · 1](domains/mobile.pt-BR.md) · [💾 **Dados e Bancos** · 45](domains/data.pt-BR.md) · [🔐 **Segurança e Cripto** · 9](domains/security.pt-BR.md) · [⚡ **Performance** · 3](domains/performance.pt-BR.md) · [🧰 **Ferramentas Dev** · 76](domains/tooling.pt-BR.md) · [🎨 **Outros** · 11](domains/other.pt-BR.md)
+[🌐 **Web** · 11](domains/web.pt-BR.md) · [🤖 **IA e ML** · 79](domains/ai-ml.pt-BR.md) · [🛠️ **DevOps** · 12](domains/devops.pt-BR.md) · [📱 **Mobile** · 1](domains/mobile.pt-BR.md) · [💾 **Dados e Bancos** · 45](domains/data.pt-BR.md) · [🔐 **Segurança e Cripto** · 9](domains/security.pt-BR.md) · [⚡ **Performance** · 3](domains/performance.pt-BR.md) · [🧰 **Ferramentas Dev** · 75](domains/tooling.pt-BR.md) · [🎨 **Outros** · 11](domains/other.pt-BR.md)
 
 ---
 
@@ -100,11 +100,15 @@ Escolhas revisadas por humano com um motivo concreto para olhar agora.
 
 ---
 
-## What changed this week
+## Review queue
 
-- [Vercel AI](https://github.com/vercel/ai) — removed: No longer present in the current public recommendation set.
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, jivoi/awesome-osint, vinta/awesome-python
+- [Deepchecks](https://github.com/deepchecks/deepchecks) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
+- [Colossal-AI](https://github.com/hpcaitech/colossalai) — Dev Tooling · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, MunGell/awesome-for-beginners
+- [Feature Engine](https://github.com/feature-engine/feature_engine) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
+- [askbudi/roundtable](https://github.com/askbudi/roundtable) — AI & ML · Found in 2 active sources: vuejs/awesome-vue, punkpeye/awesome-mcp-servers
 
-See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
+Candidates are not endorsements. Ask for review via [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) or inspect the full queue in [TOOLS.md](TOOLS.md).
 
 ---
 
@@ -128,7 +132,7 @@ See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
 | 👤 [**Netron**](https://github.com/lutzroeder/netron) | Netron is a viewer for neural network, deep learning and machine learning models. | Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning · Human Pick |
 | 👤 [**Mem0**](https://github.com/mem0ai/mem0) | Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions. | Found in 3 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python, MunGell/awesome-for-beginners · Worth Trying |
 
-📖 mais 74 na [página detalhada →](domains/ai-ml.pt-BR.md)
+📖 mais 76 na [página detalhada →](domains/ai-ml.pt-BR.md)
 
 ### 🛠️ DevOps
 
@@ -136,9 +140,9 @@ See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
 |---|---|---|
 | 👤 [**bandwhich**](https://github.com/imsnif/bandwhich) | Track bandwidth utilization by process. | Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust · Worth Trying |
 | [**BorgBackup**](https://github.com/borgbackup/borg) | Deduplicating backup program with compression and authenticated encryption. | Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners · AI Candidate |
-| [**CML**](https://github.com/iterative/cml) | A library for doing continuous integration with ML projects. Use GitHub Actions & GitLab CI to train and evaluate... | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning · AI Candidate |
+| [**ctop**](https://github.com/bcicen/ctop) | interface (e.g. htop) for container metrics. | Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go · AI Candidate |
 
-📖 mais 10 na [página detalhada →](domains/devops.pt-BR.md)
+📖 mais 9 na [página detalhada →](domains/devops.pt-BR.md)
 
 ### 📱 Mobile
 
@@ -186,7 +190,7 @@ See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
 | 👤 [**ast-grep**](https://github.com/ast-grep/ast-grep) | A CLI tool for code structural search, lint and rewriting. | Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust · Worth Trying |
 | 👤 [**ATAC**](https://github.com/julien-cpsn/atac) | A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less. | Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust · Worth Trying |
 
-📖 mais 73 na [página detalhada →](domains/tooling.pt-BR.md)
+📖 mais 72 na [página detalhada →](domains/tooling.pt-BR.md)
 
 ### 🎨 Outros
 

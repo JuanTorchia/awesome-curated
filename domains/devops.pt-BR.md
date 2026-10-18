@@ -2,7 +2,7 @@
 
 <p><sub>← [Voltar ao main](../README.pt-BR.md)</sub></p>
 
-**1 Human-reviewed · 0 Popular standards · 12 AI candidates · 0 Needs review**
+**1 Human-reviewed · 0 Popular standards · 11 AI candidates · 0 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -58,20 +58,6 @@ Deduplicating backup program with compression and authenticated encryption.
 **Why this is here:** Deduplicating backup program with compression and authenticated encryption.
 
 **Evidence record:** [Full evidence](../catalog/devops.md#borgbackup-borgbackup-borg) · [data/latest.json](../data/latest.json)
-
----
-
-### [CML](https://github.com/iterative/cml)
-
-![](https://img.shields.io/github/stars/iterative/cml?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-A library for doing continuous integration with ML projects. Use GitHub Actions & GitLab CI to train and evaluate models in production like environments and automatically generate visual reports with metrics and...
-
-**Why this is here:** A library for doing continuous integration with ML projects. Use GitHub Actions & GitLab CI to train and evaluate models in production like...
-
-**Evidence record:** [Full evidence](../catalog/devops.md#cml-iterative-cml) · [data/latest.json](../data/latest.json)
 
 ---
 

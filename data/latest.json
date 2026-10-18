@@ -2,16 +2,15 @@
   "changes": [
     {
       "changedAt": "2026-10-17",
-      "name": "Vercel AI",
-      "previousLabel": "AI Candidate",
-      "reason": "No longer present in the current public recommendation set.",
-      "toolId": "cmnwm2qhc03apvn4d1c5auixg",
-      "type": "removed",
-      "url": "https://github.com/vercel/ai"
+      "name": "Public recommendation set",
+      "reason": "No material public change detected.",
+      "toolId": "snapshot",
+      "type": "unchanged",
+      "url": "data/latest.json"
     }
   ],
-  "commitSha": "a4990811b81e",
-  "generatedAt": "2026-10-17T17:44:14.050Z",
+  "commitSha": "f5bd38bce5a1",
+  "generatedAt": "2026-10-17T18:20:12.022Z",
   "recommendations": [
     {
       "caveat": "Best fit for teams with a matching ML or data workflow.",
@@ -1136,7 +1135,7 @@
     },
     {
       "caveat": "Candidate still needs human review before endorsement.",
-      "domain": "tooling",
+      "domain": "ai-ml",
       "id": "cmnwkyqud06ci1p4t9bgrq6e0",
       "label": "AI Candidate",
       "maintenance": {
@@ -3090,7 +3089,7 @@
     },
     {
       "caveat": "Candidate still needs human review before endorsement.",
-      "domain": "devops",
+      "domain": "ai-ml",
       "id": "cmnwkvhad04wj1p4tir6ay3kk",
       "label": "AI Candidate",
       "maintenance": {
@@ -11662,7 +11661,7 @@
     "sources": 20
   },
   "validation": {
-    "checkedAt": "2026-10-17T17:44:14.050Z",
+    "checkedAt": "2026-10-17T18:20:12.022Z",
     "status": "pass",
     "warnings": []
   }

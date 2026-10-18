@@ -2,7 +2,7 @@
 
 [All domains](../TOOLS.md) · [README](../README.md) · [Machine-readable evidence](../data/latest.json)
 
-Generated: 2026-10-17 · Tool entries: 77
+Generated: 2026-10-17 · Tool entries: 79
 
 ### <a id="bayeswitnesses-m2cgen-bayeswitnesses-m2cgen"></a>[BayesWitnesses/m2cgen](https://github.com/bayeswitnesses/m2cgen)
 
@@ -163,6 +163,24 @@ Generated: 2026-10-17 · Tool entries: 77
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 92 · observed 2026-10-12
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
+
+---
+
+### <a id="deepchecks-deepchecks-deepchecks"></a>[Deepchecks](https://github.com/deepchecks/deepchecks)
+
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
+
+**Summary:** Deepchecks is a holistic open-source solution for all of your AI & ML validation needs, enabling you to test your data and models from research to production thoroughly.
+
+**Why it is here:** Cobertura integral: data checks, model validation, drift detection en un solo lugar
+
+**Caveat:** Candidate still needs human review before endorsement.
+
+**Source traces:**
+
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-12
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
 
 ---
 
@@ -389,6 +407,23 @@ Generated: 2026-10-17 · Tool entries: 77
 
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-10-12
+
+---
+
+### <a id="cml-iterative-cml"></a>[CML](https://github.com/iterative/cml)
+
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+
+**Summary:** A library for doing continuous integration with ML projects. Use GitHub Actions & GitLab CI to train and evaluate models in production like environments and automatically generate visual reports with metrics and...
+
+**Why it is here:** A library for doing continuous integration with ML projects. Use GitHub Actions & GitLab CI to train and evaluate models in production like...
+
+**Caveat:** Candidate still needs human review before endorsement.
+
+**Source traces:**
+
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
 
 ---
 

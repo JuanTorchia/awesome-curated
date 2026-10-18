@@ -3,7 +3,7 @@
 ## Latest Sync
 
 - Date: 2026-10-17
-- Previous public commit: a4990811b81e
+- Previous public commit: f5bd38bce5a1
 - Evidence: [data/latest.json](data/latest.json)
 
 ## Current Snapshot
@@ -15,13 +15,13 @@
 - Active Sources: 20
 - Public Recommendations: 256
 - Graveyard tools: 0
-- Open issues: 6
+- Open issues: 3
 
 ## Recent Changes
 
-### Removed
+### No Material Public Change
 
-- [Vercel AI](https://github.com/vercel/ai) (AI Candidate) — No longer present in the current public recommendation set. (2026-10-17)
+No material public change detected for the latest generated window.
 
 ## Review Note
 

@@ -2,7 +2,7 @@
 
 [All domains](../TOOLS.md) · [README](../README.md) · [Machine-readable evidence](../data/latest.json)
 
-Generated: 2026-10-17 · Tool entries: 76
+Generated: 2026-10-17 · Tool entries: 75
 
 ### <a id="sniffnet-gyulyvgc-sniffnet"></a>[Sniffnet](https://github.com/gyulyvgc/sniffnet)
 
@@ -145,24 +145,6 @@ Generated: 2026-10-17 · Tool entries: 76
 - [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 94 · observed 2026-10-05
-
----
-
-### <a id="deepchecks-deepchecks-deepchecks"></a>[Deepchecks](https://github.com/deepchecks/deepchecks)
-
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
-
-**Summary:** Deepchecks is a holistic open-source solution for all of your AI & ML validation needs, enabling you to test your data and models from research to production thoroughly.
-
-**Why it is here:** Cobertura integral: data checks, model validation, drift detection en un solo lugar
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
 
 ---
 

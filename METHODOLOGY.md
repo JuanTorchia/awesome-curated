@@ -29,6 +29,10 @@ This threshold is the main noise filter, and it is what makes the radar a consen
 
 ## AI Assistance
 
+### Domain assignment
+
+Domains describe the primary problem a tool serves. Explicit ML/LLM model or system validation, evaluation, testing, monitoring and observability belong in AI & ML even when an upstream list files the tool under Python, CLI or Developer Tools. Security tools, including LLM red teaming, retain the Security domain. Reviewed identity overrides take precedence; otherwise the category mapping and keyword fallback apply. This is a bounded description-based heuristic: a generic AI tag alone does not trigger a move. Domain assignment does not change review labels or constitute endorsement.
+
 AI classification helps summarize and triage entries into suggested verdicts such as GEM, WORTH_TRYING, MEH, HYPE, or DEAD. AI suggestions are inputs for review, not final endorsements.
 
 ## Human Review

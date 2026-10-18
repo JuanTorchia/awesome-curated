@@ -2,7 +2,7 @@
 
 [All domains](../TOOLS.md) · [README](../README.md) · [Machine-readable evidence](../data/latest.json)
 
-Generated: 2026-10-17 · Tool entries: 13
+Generated: 2026-10-17 · Tool entries: 12
 
 ### <a id="bandwhich-imsnif-bandwhich"></a>[bandwhich](https://github.com/imsnif/bandwhich)
 
@@ -52,23 +52,6 @@ Generated: 2026-10-17 · Tool entries: 13
 
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 94 · observed 2026-10-05
-
----
-
-### <a id="cml-iterative-cml"></a>[CML](https://github.com/iterative/cml)
-
-**Label:** AI Candidate · **Domain:** DevOps · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
-
-**Summary:** A library for doing continuous integration with ML projects. Use GitHub Actions & GitLab CI to train and evaluate models in production like environments and automatically generate visual reports with metrics and...
-
-**Why it is here:** A library for doing continuous integration with ML projects. Use GitHub Actions & GitLab CI to train and evaluate models in production like...
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
 
 ---
 

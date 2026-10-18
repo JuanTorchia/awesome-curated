@@ -9,13 +9,13 @@ Generated: 2026-10-17 · Public recommendations: 256 · Tool entries: 246
 | Domain | Tool entries | Full evidence |
 |---|---:|---|
 | 🌐 Web | 11 | [Open catalog](catalog/web.md) |
-| 🤖 AI & ML | 77 | [Open catalog](catalog/ai-ml.md) |
-| 🛠️ DevOps | 13 | [Open catalog](catalog/devops.md) |
+| 🤖 AI & ML | 79 | [Open catalog](catalog/ai-ml.md) |
+| 🛠️ DevOps | 12 | [Open catalog](catalog/devops.md) |
 | 📱 Mobile | 1 | [Open catalog](catalog/mobile.md) |
 | 💾 Data & Databases | 45 | [Open catalog](catalog/data.md) |
 | 🔐 Security & Crypto | 9 | [Open catalog](catalog/security.md) |
 | ⚡ Performance | 3 | [Open catalog](catalog/performance.md) |
-| 🧰 Dev Tooling | 76 | [Open catalog](catalog/tooling.md) |
+| 🧰 Dev Tooling | 75 | [Open catalog](catalog/tooling.md) |
 | 🎓 Learning | 0 | [Open catalog](catalog/learning.md) |
 | 🎨 Other | 11 | [Open catalog](catalog/other.md) |
 
@@ -26,7 +26,7 @@ Automated candidates for a future human review; these are not endorsements.
 | Tool | Domain | Evidence | Caveat |
 |---|---|---|---|
 | [yt-dlp](catalog/tooling.md#yt-dlp-yt-dlp-yt-dlp) | Dev Tooling | Found in 3 active sources: agarrharr/awesome-cli-apps, jivoi/awesome-osint, vinta/awesome-python | Candidate still needs human review before endorsement. |
-| [Deepchecks](catalog/tooling.md#deepchecks-deepchecks-deepchecks) | Dev Tooling | Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning | Candidate still needs human review before endorsement. |
+| [Deepchecks](catalog/ai-ml.md#deepchecks-deepchecks-deepchecks) | AI & ML | Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning | Candidate still needs human review before endorsement. |
 | [Colossal-AI](catalog/tooling.md#colossal-ai-hpcaitech-colossalai) | Dev Tooling | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, MunGell/awesome-for-beginners | Candidate still needs human review before endorsement. |
 | [Feature Engine](catalog/ai-ml.md#feature-engine-feature-engine-feature-engine) | AI & ML | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python | Candidate still needs human review before endorsement. |
 | [askbudi/roundtable](catalog/ai-ml.md#askbudi-roundtable-askbudi-roundtable) | AI & ML | Found in 2 active sources: vuejs/awesome-vue, punkpeye/awesome-mcp-servers | Candidate still needs human review before endorsement. |
@@ -43,7 +43,7 @@ Automated candidates for a future human review; these are not endorsements.
 | [InterpretML](catalog/ai-ml.md#interpretml-interpretml-interpret) | AI & ML | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning | Candidate still needs human review before endorsement. |
 | [Vaex](catalog/data.md#vaex-vaexio-vaex) | Data & Databases | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning | Candidate still needs human review before endorsement. |
 | [grpc](catalog/web.md#grpc-grpc-grpc) | Web | Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python | Candidate still needs human review before endorsement. |
-| [CML](catalog/devops.md#cml-iterative-cml) | DevOps | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning | Candidate still needs human review before endorsement. |
+| [CML](catalog/ai-ml.md#cml-iterative-cml) | AI & ML | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning | Candidate still needs human review before endorsement. |
 | [mariocandela/beelzebub](catalog/security.md#mariocandela-beelzebub-mariocandela-beelzebub) | Security & Crypto | Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers | Candidate still needs human review before endorsement. |
 
 ## Tool directory
@@ -75,6 +75,7 @@ Existing TOOLS.md anchors remain here and lead to each full evidence record.
 - <a id="chroma-chroma-core-chroma"></a>[Chroma](catalog/ai-ml.md#chroma-chroma-core-chroma) · Worth Trying
 - <a id="xgboost-dmlc-xgboost"></a>[XGBoost](catalog/ai-ml.md#xgboost-dmlc-xgboost) · AI Candidate
 - <a id="catboost-catboost-catboost"></a>[CatBoost](catalog/ai-ml.md#catboost-catboost-catboost) · AI Candidate
+- <a id="deepchecks-deepchecks-deepchecks"></a>[Deepchecks](catalog/ai-ml.md#deepchecks-deepchecks-deepchecks) · AI Candidate
 - <a id="feature-engine-feature-engine-feature-engine"></a>[Feature Engine](catalog/ai-ml.md#feature-engine-feature-engine-feature-engine) · AI Candidate
 - <a id="h2o-3-h2oai-h2o-3"></a>[H2O-3](catalog/ai-ml.md#h2o-3-h2oai-h2o-3) · AI Candidate
 - <a id="scikit-image-scikit-image-scikit-image"></a>[Scikit-Image](catalog/ai-ml.md#scikit-image-scikit-image-scikit-image) · AI Candidate
@@ -88,6 +89,7 @@ Existing TOOLS.md anchors remain here and lead to each full evidence record.
 - <a id="catalyst-catalyst-team-catalyst"></a>[Catalyst](catalog/ai-ml.md#catalyst-catalyst-team-catalyst) · AI Candidate
 - <a id="clearml-clearml-clearml"></a>[ClearML](catalog/ai-ml.md#clearml-clearml-clearml) · AI Candidate
 - <a id="cloudforest-ryanbressler-cloudforest"></a>[CloudForest](catalog/ai-ml.md#cloudforest-ryanbressler-cloudforest) · AI Candidate
+- <a id="cml-iterative-cml"></a>[CML](catalog/ai-ml.md#cml-iterative-cml) · AI Candidate
 - <a id="dagger-container-use-dagger-container-use"></a>[dagger/container-use](catalog/ai-ml.md#dagger-container-use-dagger-container-use) · AI Candidate
 - <a id="deap-deap-deap"></a>[DEAP](catalog/ai-ml.md#deap-deap-deap) · AI Candidate
 - <a id="deepdetect-jolibrain-deepdetect"></a>[DeepDetect](catalog/ai-ml.md#deepdetect-jolibrain-deepdetect) · AI Candidate
@@ -149,7 +151,6 @@ Existing TOOLS.md anchors remain here and lead to each full evidence record.
 - <a id="bandwhich-imsnif-bandwhich"></a>[bandwhich](catalog/devops.md#bandwhich-imsnif-bandwhich) · Worth Trying
 - <a id="ansible-ansible-ansible"></a>[Ansible](catalog/devops.md#ansible-ansible-ansible) · AI Candidate
 - <a id="borgbackup-borgbackup-borg"></a>[BorgBackup](catalog/devops.md#borgbackup-borgbackup-borg) · AI Candidate
-- <a id="cml-iterative-cml"></a>[CML](catalog/devops.md#cml-iterative-cml) · AI Candidate
 - <a id="ctop-bcicen-ctop"></a>[ctop](catalog/devops.md#ctop-bcicen-ctop) · AI Candidate
 - <a id="domcyrus-rustnet-domcyrus-rustnet"></a>[domcyrus/rustnet](catalog/devops.md#domcyrus-rustnet-domcyrus-rustnet) · AI Candidate
 - <a id="dragonfly-dragonflyoss-dragonfly2"></a>[Dragonfly](catalog/devops.md#dragonfly-dragonflyoss-dragonfly2) · AI Candidate
@@ -240,7 +241,6 @@ Existing TOOLS.md anchors remain here and lead to each full evidence record.
 - <a id="pytorch-pytorch-pytorch"></a>[Pytorch](catalog/tooling.md#pytorch-pytorch-pytorch) · Popular Standard
 - <a id="bokeh-bokeh-bokeh"></a>[Bokeh](catalog/tooling.md#bokeh-bokeh-bokeh) · AI Candidate
 - <a id="colossal-ai-hpcaitech-colossalai"></a>[Colossal-AI](catalog/tooling.md#colossal-ai-hpcaitech-colossalai) · AI Candidate
-- <a id="deepchecks-deepchecks-deepchecks"></a>[Deepchecks](catalog/tooling.md#deepchecks-deepchecks-deepchecks) · AI Candidate
 - <a id="jupyter-notebooks-jupyter-notebook"></a>[Jupyter Notebooks](catalog/tooling.md#jupyter-notebooks-jupyter-notebook) · AI Candidate
 - <a id="lightgbm-microsoft-lightgbm"></a>[LightGBM](catalog/tooling.md#lightgbm-microsoft-lightgbm) · AI Candidate
 - <a id="pymc-pymc-devs-pymc"></a>[PyMC](catalog/tooling.md#pymc-pymc-devs-pymc) · AI Candidate

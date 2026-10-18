@@ -2,7 +2,7 @@
 
 <p><sub>← [Back to main](../README.md)</sub></p>
 
-**5 Human-reviewed · 1 Popular standards · 70 AI candidates · 0 Needs review**
+**5 Human-reviewed · 1 Popular standards · 69 AI candidates · 0 Needs review**
 
 Full evidence catalog: [TOOLS.md](../TOOLS.md) · Machine-readable snapshot: [data/latest.json](../data/latest.json)
 
@@ -135,20 +135,6 @@ A unified deep learning system for big model era, which helps users to efficient
 **Why this is here:** Optimizaciones specific para big models (tensor/pipeline parallelism)
 
 **Evidence record:** [Full evidence](../catalog/tooling.md#colossal-ai-hpcaitech-colossalai) · [data/latest.json](../data/latest.json)
-
----
-
-### [Deepchecks](https://github.com/deepchecks/deepchecks)
-
-![](https://img.shields.io/github/stars/deepchecks/deepchecks?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
-
-**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
-
-Deepchecks is a holistic open-source solution for all of your AI & ML validation needs, enabling you to test your data and models from research to production thoroughly.
-
-**Why this is here:** Cobertura integral: data checks, model validation, drift detection en un solo lugar
-
-**Evidence record:** [Full evidence](../catalog/tooling.md#deepchecks-deepchecks-deepchecks) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -390,7 +376,21 @@ Offline API documentation browser for macOS with instant search access to Vue.js
 
 ---
 
-_Showing 20 of 70. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+### [diskonaut](https://github.com/imsnif/diskonaut)
+
+![](https://img.shields.io/github/stars/imsnif/diskonaut?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
+
+**Review label:** AI Candidate · **Caveat:** Candidate still needs human review before endorsement.
+
+Terminal visual disk space navigator
+
+**Why this is here:** Terminal visual disk space navigator
+
+**Evidence record:** [Full evidence](../catalog/tooling.md#diskonaut-imsnif-diskonaut) · [data/latest.json](../data/latest.json)
+
+---
+
+_Showing 20 of 69. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---
