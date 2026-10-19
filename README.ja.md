@@ -20,31 +20,10 @@
 
 | 目的 | ツール | 試す |
 |---|---|---|
-| コードの検索と書き換え | [ast-grep](https://github.com/ast-grep/ast-grep) · Worth Trying | [試す](GUIDE.md#ast-grep) |
 | フォームの検証 | [Vest](https://github.com/ealush/vest) · Worth Trying | [試す](GUIDE.md#vest) |
 | モデルの構造を確認 | [Netron](https://github.com/lutzroeder/netron) · Human Pick | [試す](GUIDE.md#netron) |
 
 [再現できるサンプル](GUIDE.md) · 英語 / スペイン語：固定バージョン、テストデータ、結果と制約。自動テストはレビューの判定を変更しません。
-
-### インストール前に結果を確認
-
-**変更前**
-
-```js
-// console.log("comment")
-const text = "console.log(123)";
-console.log("hello");
-```
-
-**変更後**
-
-```js
-// console.log("comment")
-const text = "console.log(123)";
-logger.info("hello");
-```
-
-ast-grep 0.51.0 は JavaScript の呼び出しを1つ書き換え、コメントと文字列はそのまま残します。構文の確認であり、logger の変更後もアプリの動作が同じであることは保証しません。 [試す](GUIDE.md#ast-grep).
 
 ---
 
@@ -64,14 +43,14 @@ ast-grep 0.51.0 は JavaScript の呼び出しを1つ書き換え、コメント
 - **確認できるカタログ**: [TOOLS.md](TOOLS.md)
 - **広く使われる標準ツール**: 1
 - **Needs Review 状態（出典の再確認）**: 0
-- **人間の承認を待つ AI Candidates**: 229
+- **人間の承認を待つ AI Candidates**: 183
 - 候補は Juan の推薦ではありません。カタログとドメイン別ページを確認してください。
 
 ---
 
 ## 🗺️ あなたのスタックを見つける
 
-[🌐 **Web** · 11](domains/web.ja.md) · [🤖 **AI・機械学習** · 79](domains/ai-ml.ja.md) · [🛠️ **DevOps** · 12](domains/devops.ja.md) · [📱 **モバイル** · 1](domains/mobile.ja.md) · [💾 **データ・DB** · 45](domains/data.ja.md) · [🔐 **セキュリティ・暗号** · 9](domains/security.ja.md) · [⚡ **パフォーマンス** · 3](domains/performance.ja.md) · [🧰 **開発ツール** · 75](domains/tooling.ja.md) · [🎨 **その他** · 11](domains/other.ja.md)
+[🌐 **Web** · 12](domains/web.ja.md) · [🤖 **AI・機械学習** · 77](domains/ai-ml.ja.md) · [🛠️ **DevOps** · 7](domains/devops.ja.md) · [📱 **モバイル** · 2](domains/mobile.ja.md) · [💾 **データ・DB** · 36](domains/data.ja.md) · [🔐 **セキュリティ・暗号** · 9](domains/security.ja.md) · [⚡ **パフォーマンス** · 3](domains/performance.ja.md) · [🧰 **開発ツール** · 47](domains/tooling.ja.md) · [🎨 **その他** · 4](domains/other.ja.md)
 
 ---
 
@@ -90,7 +69,7 @@ ast-grep 0.51.0 は JavaScript の呼び出しを1つ書き換え、コメント
 
 <!-- pick:evidence -->
 
-**根拠:** 掲載元 4 件のアクティブなソース: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more · [出典](data/latest.json)
+**根拠:** 掲載元 5 件のアクティブなソース: sorrycc/awesome-javascript, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +2 more · [出典](data/latest.json)
 
 <!-- pick:review -->
 
@@ -175,15 +154,15 @@ ast-grep 0.51.0 は JavaScript の呼び出しを1つ書き換え、コメント
 
 ---
 
-## 人間のレビューを待つ候補
+## カタログの変更
 
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, jivoi/awesome-osint, vinta/awesome-python
-- [Deepchecks](https://github.com/deepchecks/deepchecks) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
-- [Colossal-AI](https://github.com/hpcaitech/colossalai) — Dev Tooling · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, MunGell/awesome-for-beginners
-- [Feature Engine](https://github.com/feature-engine/feature_engine) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
-- [askbudi/roundtable](https://github.com/askbudi/roundtable) — AI & ML · Found in 2 active sources: vuejs/awesome-vue, punkpeye/awesome-mcp-servers
+- [Ghost](https://github.com/tryghost/ghost) — newly reviewed · Worth Trying: Editor intuitivo con preview real-time
+- [NativeScript](https://github.com/nativescript/nativescript) — newly reviewed · Worth Trying: Curado tras research: solido pero tangencial al foco backend/Java.
+- [pouchdb](https://github.com/pouchdb/pouchdb) — newly reviewed · Worth Trying: Javascript db inspired by Apache CouchDB to run well within the browser.
+- [Apache ECharts](https://github.com/apache/echarts) — newly reviewed · AI Candidate: Rendering performante incluso con datasets grandes
+- [OpenLayers3](https://openlayers.org) — newly reviewed · AI Candidate: Performance en datasets geoespaciales grandes
 
-候補は個人的な推薦ではありません。GitHub issues でレビューを依頼するか、TOOLS.md で全候補を確認できます。 [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) · [TOOLS.md](TOOLS.md)
+See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
 
 ---
 
@@ -193,36 +172,37 @@ ast-grep 0.51.0 は JavaScript の呼び出しを1つ書き換え、コメント
 
 | ツール | 何をする | シグナル |
 |---|---|---|
-| 👤 [**Vest**](https://github.com/ealush/vest) | Validations framework inspired by unit testing frameworks. | Found in 2 active sources: vuejs/awesome-vue, MunGell/awesome-for-beginners · Worth Trying |
+| 👤 [**Vest**](https://github.com/ealush/vest) | Validations framework inspired by unit testing frameworks. | Found in 2 active sources: sorrycc/awesome-javascript, MunGell/awesome-for-beginners · Worth Trying |
 | [**D3js**](https://d3js.org) | is a powerful data visualization javascript library. | Found in 2 active sources: jivoi/awesome-osint, academic/awesome-datascience · AI Candidate |
 | [**grpc**](https://github.com/grpc/grpc) | Remote Procedure Calls (RPCs) provide a useful abstraction for building distributed applications and services. The... | Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python · AI Candidate |
 
-📖 他 8 件は[詳細ページ →](domains/web.ja.md)
+📖 他 9 件は[詳細ページ →](domains/web.ja.md)
 
 ### 🤖 AI・機械学習
 
 | ツール | 何をする | シグナル |
 |---|---|---|
-| 👤 [**BayesWitnesses/m2cgen**](https://github.com/bayeswitnesses/m2cgen) | A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies. | Found in 4 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more · Human Pick |
+| 👤 [**BayesWitnesses/m2cgen**](https://github.com/bayeswitnesses/m2cgen) | A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies. | Found in 5 active sources: sorrycc/awesome-javascript, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +2 more · Human Pick |
 | 👤 [**Netron**](https://github.com/lutzroeder/netron) | Netron is a viewer for neural network, deep learning and machine learning models. | Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning · Human Pick |
 | 👤 [**Mem0**](https://github.com/mem0ai/mem0) | Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions. | Found in 3 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python, MunGell/awesome-for-beginners · Worth Trying |
 
-📖 他 76 件は[詳細ページ →](domains/ai-ml.ja.md)
+📖 他 74 件は[詳細ページ →](domains/ai-ml.ja.md)
 
 ### 🛠️ DevOps
 
 | ツール | 何をする | シグナル |
 |---|---|---|
-| 👤 [**bandwhich**](https://github.com/imsnif/bandwhich) | Track bandwidth utilization by process. | Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust · Worth Trying |
 | [**BorgBackup**](https://github.com/borgbackup/borg) | Deduplicating backup program with compression and authenticated encryption. | Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners · AI Candidate |
-| [**ctop**](https://github.com/bcicen/ctop) | interface (e.g. htop) for container metrics. | Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go · AI Candidate |
+| [**Dragonfly**](https://github.com/dragonflyoss/dragonfly2) | Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best... | Found in 2 active sources: avelino/awesome-go, MunGell/awesome-for-beginners · AI Candidate |
+| [**Luigi**](https://github.com/spotify/luigi) | Luigi is a Python module that helps you build complex pipelines of batch jobs, handling dependency resolution,... | Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python · AI Candidate |
 
-📖 他 9 件は[詳細ページ →](domains/devops.ja.md)
+📖 他 4 件は[詳細ページ →](domains/devops.ja.md)
 
 ### 📱 モバイル
 
 | ツール | 何をする | シグナル |
 |---|---|---|
+| 👤 [**NativeScript**](https://github.com/nativescript/nativescript) | NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like... | Found in 2 active sources: sorrycc/awesome-javascript, MunGell/awesome-for-beginners · Worth Trying |
 | [**RunAnywhere**](https://github.com/runanywhereai/runanywhere-sdks) | RunAnywhere is a production-ready SDK for running AI models (LLMs, speech-to-text, text-to-speech) on-device for... | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning · AI Candidate |
 
 📖 [完全なドメインページ →](domains/mobile.ja.md)
@@ -231,11 +211,11 @@ ast-grep 0.51.0 は JavaScript の呼び出しを1つ書き換え、コメント
 
 | ツール | 何をする | シグナル |
 |---|---|---|
+| 👤 [**pouchdb**](https://github.com/pouchdb/pouchdb) | Javascript db inspired by Apache CouchDB to run well within the browser. | Found in 2 active sources: sorrycc/awesome-javascript, MunGell/awesome-for-beginners · Worth Trying |
 | [**gradio**](https://github.com/gradio-app/gradio) | Quickly create and share demos of models by only writing Python. Debug models interactively in your browser, get... | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python · AI Candidate |
 | [**matplotlib**](https://github.com/matplotlib/matplotlib) | A Python 2D plotting library which produces publication-quality figures in a variety of hardcopy formats and... | Found in 3 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python, MunGell/awesome-for-beginners · AI Candidate |
-| [**Streamlit**](https://github.com/streamlit/streamlit) | Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts. It... | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python · AI Candidate |
 
-📖 他 42 件は[詳細ページ →](domains/data.ja.md)
+📖 他 33 件は[詳細ページ →](domains/data.ja.md)
 
 ### 🔐 セキュリティ・暗号
 
@@ -262,20 +242,20 @@ ast-grep 0.51.0 は JavaScript の呼び出しを1つ書き換え、コメント
 | ツール | 何をする | シグナル |
 |---|---|---|
 | 👤 [**Sniffnet**](https://github.com/gyulyvgc/sniffnet) | Cross-platform application to monitor your network traffic with ease | Found in 3 active sources: rust-unofficial/awesome-rust, jaywcjlove/awesome-mac, MunGell/awesome-for-beginners · Human Pick |
-| 👤 [**ast-grep**](https://github.com/ast-grep/ast-grep) | A CLI tool for code structural search, lint and rewriting. | Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust · Worth Trying |
-| 👤 [**ATAC**](https://github.com/julien-cpsn/atac) | A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less. | Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust · Worth Trying |
+| [**Pytorch**](https://github.com/pytorch/pytorch) | PyTorch is an open source machine learning library based on the Torch library, used for applications such as... | Found in 6 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, fffaraz/awesome-cpp +3 more · Popular Standard |
+| [**Bokeh**](https://github.com/bokeh/bokeh) | Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation... | Found in 4 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python +1 more · AI Candidate |
 
-📖 他 72 件は[詳細ページ →](domains/tooling.ja.md)
+📖 他 44 件は[詳細ページ →](domains/tooling.ja.md)
 
 ### 🎨 その他
 
 | ツール | 何をする | シグナル |
 |---|---|---|
 | [**AI Job Displacement Tracker**](https://github.com/noahaust2/ai-displacement-tracker) | Structured, source-backed dataset tracking 96 AI-attributed workforce reductions (457K workers affected, 13... | Found in 2 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience · AI Candidate |
-| [**beets**](https://github.com/beetbox/beets) | A music library manager and MusicBrainz tagger. | Found in 2 active sources: agarrharr/awesome-cli-apps, vinta/awesome-python · AI Candidate |
-| [**croc**](https://github.com/schollz/croc) | Easily and securely send files or folders from one computer to another. | Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go · AI Candidate |
+| [**OpenLayers3**](https://openlayers.org) | A high-performance, feature-packed library for all your mapping needs. | Found in 2 active sources: jivoi/awesome-osint, sorrycc/awesome-javascript · AI Candidate |
+| [**Reeder 5**](https://reederapp.com) | News reader for Feedbin, Feedly, Feed Wrangler and so on. (https://apps.apple.com/pl/app/reeder-5/id1529448980?platfo... | Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac · AI Candidate |
 
-📖 他 8 件は[詳細ページ →](domains/other.ja.md)
+📖 他 1 件は[詳細ページ →](domains/other.ja.md)
 
 ---
 

@@ -2,27 +2,9 @@
 
 <p><sub>← [Voltar ao main](../README.pt-BR.md)</sub></p>
 
-**1 Revisado por humano · 0 Padrões populares · 11 Candidatos de IA · 0 Estado Needs Review**
+**0 Revisado por humano · 0 Padrões populares · 7 Candidatos de IA · 0 Estado Needs Review**
 
 Catálogo consultável: [TOOLS.md](../TOOLS.md) · Snapshot de evidências: [data/latest.json](../data/latest.json)
-
----
-
-## Seleção revisada por pessoas
-
-Ferramentas com avaliação humana e limites visíveis.
-
-### 👤 [bandwhich](https://github.com/imsnif/bandwhich)
-
-![](https://img.shields.io/github/stars/imsnif/bandwhich?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Revisão:** Worth Trying · **Nota / revisão:** A cobertura entre fontes é limitada.
-
-Track bandwidth utilization by process.
-
-**Por que foi incluída:** Worth trying: process-level bandwidth visibility from a terminal UI; small, focused, and easy to evaluate.
-
-**Registro de evidências:** [Evidência completa](../catalog/devops.md#bandwhich-imsnif-bandwhich) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -61,34 +43,6 @@ Deduplicating backup program with compression and authenticated encryption.
 
 ---
 
-### [ctop](https://github.com/bcicen/ctop)
-
-![](https://img.shields.io/github/stars/bcicen/ctop?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: agarrharr/awesome-cli-apps, avelino/awesome-go
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-interface (e.g. htop) for container metrics.
-
-**Por que foi incluída:** monitoreo en vivo sin overhead
-
-**Registro de evidências:** [Evidência completa](../catalog/devops.md#ctop-bcicen-ctop) · [data/latest.json](../data/latest.json)
-
----
-
-### [domcyrus/rustnet](https://github.com/domcyrus/rustnet)
-
-![](https://img.shields.io/github/stars/domcyrus/rustnet?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-Cross-platform network monitoring TUI with process identification via eBPF/PKTAP and deep packet inspection
-
-**Por que foi incluída:** eBPF/PKTAP nativo sin overhead kernel
-
-**Registro de evidências:** [Evidência completa](../catalog/devops.md#domcyrus-rustnet-domcyrus-rustnet) · [data/latest.json](../data/latest.json)
-
----
-
 ### [Dragonfly](https://github.com/dragonflyoss/dragonfly2)
 
 ![](https://img.shields.io/github/stars/dragonflyoss/dragonfly2?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: avelino/awesome-go, MunGell/awesome-for-beginners
@@ -100,20 +54,6 @@ Provide efficient, stable and secure file distribution and image acceleration ba
 **Por que foi incluída:** Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard...
 
 **Registro de evidências:** [Evidência completa](../catalog/devops.md#dragonfly-dragonflyoss-dragonfly2) · [data/latest.json](../data/latest.json)
-
----
-
-### [k9s](https://github.com/derailed/k9s)
-
-![](https://img.shields.io/github/stars/derailed/k9s?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: agarrharr/awesome-cli-apps, avelino/awesome-go
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-Kubernetes CLI to manage your clusters in style.
-
-**Por que foi incluída:** Comunidad activa, mantenimiento constante
-
-**Registro de evidências:** [Evidência completa](../catalog/devops.md#k9s-derailed-k9s) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -156,20 +96,6 @@ Workflow management system that makes it easy to take your data pipelines and ad
 **Por que foi incluída:** Async-first, mejor performance en workflows I/O bound
 
 **Registro de evidências:** [Evidência completa](../catalog/devops.md#prefect-core-prefecthq-prefect) · [data/latest.json](../data/latest.json)
-
----
-
-### [s5cmd](https://github.com/peak/s5cmd)
-
-![](https://img.shields.io/github/stars/peak/s5cmd?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: agarrharr/awesome-cli-apps, avelino/awesome-go
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-Blazing fast S3 and local filesystem execution tool.
-
-**Por que foi incluída:** Blazing fast S3 and local filesystem execution tool.
-
-**Registro de evidências:** [Evidência completa](../catalog/devops.md#s5cmd-peak-s5cmd) · [data/latest.json](../data/latest.json)
 
 ---
 

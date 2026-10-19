@@ -2,7 +2,7 @@
 
 <p><sub>← [Back to main](../README.md)</sub></p>
 
-**0 Human reviewed · 0 Popular standards · 11 AI candidates · 0 Needs Review**
+**0 Human reviewed · 0 Popular standards · 4 AI candidates · 0 Needs Review**
 
 Inspectable catalog: [TOOLS.md](../TOOLS.md) · Evidence snapshot: [data/latest.json](../data/latest.json)
 
@@ -29,73 +29,17 @@ Structured, source-backed dataset tracking 96 AI-attributed workforce reductions
 
 ---
 
-### [beets](https://github.com/beetbox/beets)
+### [OpenLayers3](https://openlayers.org)
 
-![](https://img.shields.io/github/stars/beetbox/beets?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, vinta/awesome-python
-
-**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
-
-A music library manager and MusicBrainz tagger.
-
-**Why it is here:** Plugin ecosystem robusto, maneja formatos diversos (FLAC, MP3, AAC)
-
-**Evidence record:** [Full evidence](../catalog/other.md#beets-beetbox-beets) · [data/latest.json](../data/latest.json)
-
----
-
-### [croc](https://github.com/schollz/croc)
-
-![](https://img.shields.io/github/stars/schollz/croc?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
+Found in 2 active sources: jivoi/awesome-osint, sorrycc/awesome-javascript
 
 **Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
 
-Easily and securely send files or folders from one computer to another.
+A high-performance, feature-packed library for all your mapping needs.
 
-**Why it is here:** Zero config, seguro por defecto
+**Why it is here:** Performance en datasets geoespaciales grandes
 
-**Evidence record:** [Full evidence](../catalog/other.md#croc-schollz-croc) · [data/latest.json](../data/latest.json)
-
----
-
-### [mpv](https://mpv.io)
-
-Found in 2 active sources: agarrharr/awesome-cli-apps, jaywcjlove/awesome-mac
-
-**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
-
-Free, open-source, and cross-platform media player. (https://github.com/mpv-player/mpv)
-
-**Why it is here:** Altamente configurable, scripteable
-
-**Evidence record:** [Full evidence](../catalog/other.md#mpv-mpv) · [data/latest.json](../data/latest.json)
-
----
-
-### [nautilustrader](https://github.com/nautechsystems/nautilus_trader)
-
-![](https://img.shields.io/github/stars/nautechsystems/nautilus_trader?style=flat-square&label=⭐) · Found in 2 active sources: wilsonfreitas/awesome-quant, rust-unofficial/awesome-rust
-
-**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
-
-Python Rust A high-performance algorithmic trading platform and event-driven backtester.
-
-**Why it is here:** Python Rust A high-performance algorithmic trading platform and event-driven backtester.
-
-**Evidence record:** [Full evidence](../catalog/other.md#nautilustrader-nautechsystems-nautilus-trader) · [data/latest.json](../data/latest.json)
-
----
-
-### [QuantLib](https://github.com/lballabio/quantlib)
-
-![](https://img.shields.io/github/stars/lballabio/quantlib?style=flat-square&label=⭐) · Found in 2 active sources: wilsonfreitas/awesome-quant, fffaraz/awesome-cpp
-
-**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
-
-The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance.
-
-**Why it is here:** Comunidad activa en finanzas cuantitativa
-
-**Evidence record:** [Full evidence](../catalog/other.md#quantlib-lballabio-quantlib) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/other.md#openlayers3-openlayers) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -124,48 +68,6 @@ The Go Language library for SVG generation.
 **Why it is here:** The Go Language library for SVG generation.
 
 **Evidence record:** [Full evidence](../catalog/other.md#svgo-ajstarks-svgo) · [data/latest.json](../data/latest.json)
-
----
-
-### [tldr-pages](https://github.com/tldr-pages/tldr)
-
-![](https://img.shields.io/github/stars/tldr-pages/tldr?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, MunGell/awesome-for-beginners
-
-**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
-
-Collaborative cheatsheets for console commands.
-
-**Why it is here:** Contenido siempre actualizado por comunidad, formato simple y searcheable
-
-**Evidence record:** [Full evidence](../catalog/other.md#tldr-pages-tldr-pages-tldr) · [data/latest.json](../data/latest.json)
-
----
-
-### [uk-company-number](https://github.com/borschai/uk-company-number)
-
-![](https://img.shields.io/github/stars/borschai/uk-company-number?style=flat-square&label=⭐) · Found in 2 active sources: wilsonfreitas/awesome-quant, jivoi/awesome-osint
-
-**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
-
-Python Validate, format, and identify UK Companies House company numbers. Supports all 27 prefixes. PyPI
-
-**Why it is here:** Python Validate, format, and identify UK Companies House company numbers. Supports all 27 prefixes. PyPI
-
-**Evidence record:** [Full evidence](../catalog/other.md#uk-company-number-borschai-uk-company-number) · [data/latest.json](../data/latest.json)
-
----
-
-### [uk-sic-codes](https://github.com/borschai/uk-sic-codes)
-
-![](https://img.shields.io/github/stars/borschai/uk-sic-codes?style=flat-square&label=⭐) · Found in 2 active sources: wilsonfreitas/awesome-quant, jivoi/awesome-osint
-
-**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
-
-Python UK SIC 2007 industry classification code lookup, search, and validation. 731 codes, 21 sections. PyPI
-
-**Why it is here:** Python UK SIC 2007 industry classification code lookup, search, and validation. 731 codes, 21 sections. PyPI
-
-**Evidence record:** [Full evidence](../catalog/other.md#uk-sic-codes-borschai-uk-sic-codes) · [data/latest.json](../data/latest.json)
 
 ---
 

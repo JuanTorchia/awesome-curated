@@ -2,11 +2,11 @@
 
 [All domains](../TOOLS.md) · [README](../README.md) · [Machine-readable evidence](../data/latest.json)
 
-Generated: 2026-10-18 · Tool entries: 79
+Generated: 2026-10-18 · Tool entries: 77
 
 ### <a id="bayeswitnesses-m2cgen-bayeswitnesses-m2cgen"></a>[BayesWitnesses/m2cgen](https://github.com/bayeswitnesses/m2cgen)
 
-**Label:** Human Pick · **Domain:** AI & ML · **Signal:** Found in 4 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more
+**Label:** Human Pick · **Domain:** AI & ML · **Signal:** Found in 5 active sources: sorrycc/awesome-javascript, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +2 more
 
 **Summary:** A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies.
 
@@ -16,10 +16,11 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 92 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-10-12
+- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) · BENCH · quality 86 · observed 2026-10-19
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-19
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-10-12
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 97 · observed 2026-10-19
 
 ---
 
@@ -37,9 +38,9 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -55,26 +56,9 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 94 · observed 2026-10-05
-
----
-
-### <a id="agent-of-empires-njbrake-agent-of-empires"></a>[agent-of-empires](https://github.com/njbrake/agent-of-empires)
-
-**Label:** Worth Trying · **Domain:** AI & ML · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Summary:** A TUI/CLI for managing multiple AI coding agent sessions with tmux, git worktrees, and Docker sandboxing
-
-**Why it is here:** Worth trying: concrete TUI workflow for managing parallel coding-agent sessions with tmux, worktrees, and sandboxing.
-
-**Caveat:** Cross-source coverage is limited.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · BENCH · quality 91 · observed 2026-10-12
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 88 · observed 2026-10-05
 
 ---
 
@@ -90,8 +74,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -107,8 +91,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -124,8 +108,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
 
 ---
 
@@ -141,11 +125,11 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-12
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 92 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-19
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-10-12
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
 
 ---
 
@@ -161,10 +145,10 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-12
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 92 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
+- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-19
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-10-12
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
 
 ---
 
@@ -180,9 +164,9 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -198,9 +182,9 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
 
 ---
 
@@ -216,9 +200,9 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
 
 ---
 
@@ -234,9 +218,9 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
+- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
 
 ---
 
@@ -252,9 +236,9 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
 
 ---
 
@@ -270,9 +254,9 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
 
 ---
 
@@ -288,8 +272,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -305,25 +289,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 92 · observed 2026-10-12
-
----
-
-### <a id="askbudi-roundtable-askbudi-roundtable"></a>[askbudi/roundtable](https://github.com/askbudi/roundtable)
-
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: vuejs/awesome-vue, punkpeye/awesome-mcp-servers
-
-**Summary:** 📇 ☁️ 🏠 🍎 🪟 🐧 Meta-MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized MCP interface, providing zero-configuration access...
-
-**Why it is here:** 📇 ☁️ 🏠 🍎 🪟 🐧 Meta-MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent...
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) · ROSTER · quality 94 · observed 2026-10-05
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 97 · observed 2026-10-12
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-19
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-10-12
 
 ---
 
@@ -339,8 +306,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -356,8 +323,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -373,8 +340,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -390,8 +357,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -407,8 +374,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-10-12
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 97 · observed 2026-10-19
 
 ---
 
@@ -424,8 +391,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -441,8 +408,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) · ROSTER · quality 98 · observed 2026-10-12
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 97 · observed 2026-10-12
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) · ROSTER · quality 98 · observed 2026-10-19
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 97 · observed 2026-10-19
 
 ---
 
@@ -458,8 +425,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -475,8 +442,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -492,8 +459,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -509,8 +476,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -526,8 +493,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-12
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 92 · observed 2026-10-12
+- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-19
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-10-12
 
 ---
 
@@ -543,8 +510,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
 
 ---
 
@@ -560,8 +527,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -577,8 +544,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 92 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-10-12
 
 ---
 
@@ -594,8 +561,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 92 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-10-12
 
 ---
 
@@ -611,8 +578,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-10-12
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 97 · observed 2026-10-19
 
 ---
 
@@ -628,8 +595,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-10-12
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 97 · observed 2026-10-19
 
 ---
 
@@ -645,8 +612,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-10-12
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 97 · observed 2026-10-19
 
 ---
 
@@ -662,8 +629,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -679,8 +646,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -696,8 +663,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -713,8 +680,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -730,8 +697,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -747,8 +714,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
 
 ---
 
@@ -764,8 +731,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -781,8 +748,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
 
 ---
 
@@ -798,8 +765,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -815,8 +782,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -832,8 +799,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 97 · observed 2026-10-19
 
 ---
 
@@ -849,8 +816,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 97 · observed 2026-10-12
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 97 · observed 2026-10-19
 
 ---
 
@@ -866,8 +833,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 97 · observed 2026-10-19
 
 ---
 
@@ -883,8 +850,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -900,8 +867,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -917,8 +884,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 92 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-10-12
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -934,8 +901,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -951,8 +918,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -968,8 +935,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
 
 ---
 
@@ -985,8 +952,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -1002,8 +969,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -1019,8 +986,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
 
 ---
 
@@ -1036,8 +1003,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-19
 
 ---
 
@@ -1053,8 +1020,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -1070,8 +1037,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -1087,8 +1054,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -1104,8 +1071,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
 
 ---
 
@@ -1121,8 +1088,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -1138,8 +1105,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 92 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-10-12
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -1155,25 +1122,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-10-12
-
----
-
-### <a id="spfunctions-simplefunctions-cli-spfunctions-simplefunctions-cli"></a>[spfunctions/simplefunctions-cli](https://github.com/spfunctions/simplefunctions-cli)
-
-**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: wilsonfreitas/awesome-quant, punkpeye/awesome-mcp-servers
-
-**Summary:** 📇 ☁️ Calibrated world model for AI agents from 9,700+ prediction markets. 16 MCP tools covering real-time world state, market search, thesis management, edge detection, and content enrichment across Kalshi and...
-
-**Why it is here:** Output estructurado y calibrado para LLMs
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-10-12
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 97 · observed 2026-10-12
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 97 · observed 2026-10-19
 
 ---
 
@@ -1189,8 +1139,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
 
 ---
 
@@ -1206,8 +1156,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -1223,8 +1173,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 94 · observed 2026-10-05
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-19
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 88 · observed 2026-10-05
 
 ---
 
@@ -1240,8 +1190,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-19
 
 ---
 
@@ -1257,8 +1207,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -1274,8 +1224,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
 
 ---
 
@@ -1291,8 +1241,25 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 92 · observed 2026-10-12
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-19
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-10-12
+
+---
+
+### <a id="vercel-ai-vercel-ai"></a>[Vercel AI](https://github.com/vercel/ai)
+
+**Label:** AI Candidate · **Domain:** AI & ML · **Signal:** Found in 2 active sources: unicodeveloper/awesome-nextjs, EthicalML/awesome-production-machine-learning
+
+**Summary:** Vercel AI is a TypeScript toolkit designed to help you build AI-powered applications using popular frameworks like Next.js, React, Svelte, Vue and runtimes like Node.js.
+
+**Why it is here:** Vercel AI is a TypeScript toolkit designed to help you build AI-powered applications using popular frameworks like Next.js, React, Svelte, Vue and...
+
+**Caveat:** Candidate still needs human review before endorsement.
+
+**Source traces:**
+
+- [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) · BENCH · quality 87 · observed 2026-10-19
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
 
 ---
 
@@ -1308,8 +1275,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
 
 ---
 
@@ -1325,8 +1292,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -1342,8 +1309,8 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -1359,7 +1326,7 @@ Generated: 2026-10-18 · Tool entries: 79
 
 **Source traces:**
 
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---

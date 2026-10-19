@@ -2,7 +2,7 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**5 人工审核 · 1 常用标准工具 · 69 AI 候选工具 · 0 Needs Review 状态**
+**1 人工审核 · 1 常用标准工具 · 45 AI 候选工具 · 0 Needs Review 状态**
 
 可查阅目录: [TOOLS.md](../TOOLS.md) · 证据快照: [data/latest.json](../data/latest.json)
 
@@ -23,64 +23,6 @@ Cross-platform application to monitor your network traffic with ease
 **收录原因:** Provides a low-friction network traffic monitor for debugging and security checks.
 
 **证据记录:** [完整证据](../catalog/tooling.md#sniffnet-gyulyvgc-sniffnet) · [data/latest.json](../data/latest.json)
-
----
-
-### 👤 [ast-grep](https://github.com/ast-grep/ast-grep)
-
-![](https://img.shields.io/github/stars/ast-grep/ast-grep?style=flat-square&label=⭐) · 收录于 2 个活跃来源: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**审核:** Worth Trying · **说明 / 审核:** 跨来源覆盖有限。
-
-A CLI tool for code structural search, lint and rewriting.
-
-**收录原因:** Worth trying: structural search and rewrite by AST gives a stronger workflow than regex for codebase-wide changes.
-
-[可复现示例](../GUIDE.md#ast-grep)
-
-**证据记录:** [完整证据](../catalog/tooling.md#ast-grep-ast-grep-ast-grep) · [data/latest.json](../data/latest.json)
-
----
-
-### 👤 [ATAC](https://github.com/julien-cpsn/atac)
-
-![](https://img.shields.io/github/stars/julien-cpsn/atac?style=flat-square&label=⭐) · 收录于 2 个活跃来源: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**审核:** Worth Trying · **说明 / 审核:** 跨来源覆盖有限。
-
-A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
-
-**收录原因:** Worth trying: offline, account-less TUI API client in Rust; useful for developers who want Postman-like flows from the terminal.
-
-**证据记录:** [完整证据](../catalog/tooling.md#atac-julien-cpsn-atac) · [data/latest.json](../data/latest.json)
-
----
-
-### 👤 [broot](https://github.com/canop/broot)
-
-![](https://img.shields.io/github/stars/canop/broot?style=flat-square&label=⭐) · 收录于 2 个活跃来源: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**审核:** Worth Trying · **说明 / 审核:** 跨来源覆盖有限。
-
-A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then cd to it; never lose track of file hierarchy while you search; manipulate your files, ...), further...
-
-**收录原因:** Worth trying: fast terminal navigation for large directory trees, with a workflow meaningfully different from plain cd/find.
-
-**证据记录:** [完整证据](../catalog/tooling.md#broot-canop-broot) · [data/latest.json](../data/latest.json)
-
----
-
-### 👤 [intelli-shell](https://github.com/lasantosr/intelli-shell)
-
-![](https://img.shields.io/github/stars/lasantosr/intelli-shell?style=flat-square&label=⭐) · 收录于 2 个活跃来源: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**审核:** Worth Trying · **说明 / 审核:** 跨来源覆盖有限。
-
-Bookmark commands with placeholders and search or autocomplete at any time
-
-**收录原因:** Worth trying: focused command bookmark/search workflow for terminal-heavy developers; useful without pretending to be a broad platform.
-
-**证据记录:** [完整证据](../catalog/tooling.md#intelli-shell-lasantosr-intelli-shell) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -210,34 +152,6 @@ Huggingface's library of state-of-the-art pretrained models for Natural Language
 
 ---
 
-### [yt-dlp](https://github.com/yt-dlp/yt-dlp)
-
-![](https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=flat-square&label=⭐) · 收录于 3 个活跃来源: agarrharr/awesome-cli-apps, jivoi/awesome-osint, vinta/awesome-python
-
-**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
-
-Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not...
-
-**收录原因:** Coverage absurdo de plataformas (YouTube, Twitch, TikTok, etc)
-
-**证据记录:** [完整证据](../catalog/tooling.md#yt-dlp-yt-dlp-yt-dlp) · [data/latest.json](../data/latest.json)
-
----
-
-### [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
-
-![](https://img.shields.io/github/stars/ajeetdsouza/zoxide?style=flat-square&label=⭐) · 收录于 2 个活跃来源: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
-
-A fast alternative to cd that learns your habits
-
-**收录原因:** A fast alternative to cd that learns your habits
-
-**证据记录:** [完整证据](../catalog/tooling.md#ajeetdsouza-zoxide-ajeetdsouza-zoxide) · [data/latest.json](../data/latest.json)
-
----
-
 ### [ashvardanian/stringzilla](https://github.com/ashvardanian/stringzilla)
 
 ![](https://img.shields.io/github/stars/ashvardanian/stringzilla?style=flat-square&label=⭐) · 收录于 2 个活跃来源: rust-unofficial/awesome-rust, fffaraz/awesome-cpp
@@ -266,20 +180,6 @@ An extremely fast Python linter and code formatter
 
 ---
 
-### [Bartib](https://github.com/nikolassv/bartib)
-
-![](https://img.shields.io/github/stars/nikolassv/bartib?style=flat-square&label=⭐) · 收录于 2 个活跃来源: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
-
-] A simple timetracker for the command line
-
-**收录原因:** ] A simple timetracker for the command line
-
-**证据记录:** [完整证据](../catalog/tooling.md#bartib-nikolassv-bartib) · [data/latest.json](../data/latest.json)
-
----
-
 ### [Bitwarden](https://bitwarden.com)
 
 收录于 2 个活跃来源: jivoi/awesome-osint, jaywcjlove/awesome-mac
@@ -291,20 +191,6 @@ Open source password management tool for Mac OS, iOS and browsers. (https://gith
 **收录原因:** Self-hosting option + cloud oficial
 
 **证据记录:** [完整证据](../catalog/tooling.md#bitwarden-bitwarden) · [data/latest.json](../data/latest.json)
-
----
-
-### [boilr](https://github.com/tmrts/boilr)
-
-![](https://img.shields.io/github/stars/tmrts/boilr?style=flat-square&label=⭐) · 收录于 2 个活跃来源: agarrharr/awesome-cli-apps, avelino/awesome-go
-
-**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
-
-Blazingly fast CLI tool for creating projects from boilerplate templates.
-
-**收录原因:** Blazingly fast CLI tool for creating projects from boilerplate templates.
-
-**证据记录:** [完整证据](../catalog/tooling.md#boilr-tmrts-boilr) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -336,20 +222,6 @@ Powerful C and C++ IDE. (Free for Students)
 
 ---
 
-### [config-file-validator](https://github.com/boeing/config-file-validator)
-
-![](https://img.shields.io/github/stars/boeing/config-file-validator?style=flat-square&label=⭐) · 收录于 2 个活跃来源: agarrharr/awesome-cli-apps, avelino/awesome-go
-
-**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
-
-Cross Platform tool to validate configuration files.
-
-**收录原因:** Mantenido por empresa seria (Boeing)
-
-**证据记录:** [完整证据](../catalog/tooling.md#config-file-validator-boeing-config-file-validator) · [data/latest.json](../data/latest.json)
-
----
-
 ### [cookiecutter](https://github.com/cookiecutter/cookiecutter)
 
 ![](https://img.shields.io/github/stars/cookiecutter/cookiecutter?style=flat-square&label=⭐) · 收录于 2 个活跃来源: vinta/awesome-python, MunGell/awesome-for-beginners
@@ -364,35 +236,103 @@ A command-line utility that creates projects from cookiecutters (project templat
 
 ---
 
-### [Dash](https://kapeli.com/dash)
+### [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter)
 
-收录于 2 个活跃来源: vuejs/awesome-vue, jaywcjlove/awesome-mac
-
-**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
-
-Offline API documentation browser for macOS with instant search access to Vue.js docs and 200+ other frameworks.
-
-**收录原因:** Offline API documentation browser for macOS with instant search access to Vue.js docs and 200+ other frameworks.
-
-**证据记录:** [完整证据](../catalog/tooling.md#dash-kapeli) · [data/latest.json](../data/latest.json)
-
----
-
-### [diskonaut](https://github.com/imsnif/diskonaut)
-
-![](https://img.shields.io/github/stars/imsnif/diskonaut?style=flat-square&label=⭐) · 收录于 2 个活跃来源: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
+![](https://img.shields.io/github/stars/dotenv-linter/dotenv-linter?style=flat-square&label=⭐) · 收录于 2 个活跃来源: rust-unofficial/awesome-rust, MunGell/awesome-for-beginners
 
 **审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
 
-Terminal visual disk space navigator
+Linter for .env files
 
-**收录原因:** Terminal visual disk space navigator
-
-**证据记录:** [完整证据](../catalog/tooling.md#diskonaut-imsnif-diskonaut) · [data/latest.json](../data/latest.json)
+**证据记录:** [完整证据](../catalog/tooling.md#dotenv-linter-dotenv-linter-dotenv-linter) · [data/latest.json](../data/latest.json)
 
 ---
 
-_Showing 20 of 69. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+### [DVC](https://github.com/iterative/dvc)
+
+![](https://img.shields.io/github/stars/iterative/dvc?style=flat-square&label=⭐) · 收录于 2 个活跃来源: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
+
+Data Science Version Control is an open-source version control system for machine learning projects with pipelines support. It makes ML projects reproducible and shareable.
+
+**收录原因:** Pipelines reproducibles con dag tracking
+
+**证据记录:** [完整证据](../catalog/tooling.md#dvc-iterative-dvc) · [data/latest.json](../data/latest.json)
+
+---
+
+### [einops](https://github.com/arogozhnikov/einops)
+
+![](https://img.shields.io/github/stars/arogozhnikov/einops?style=flat-square&label=⭐) · 收录于 2 个活跃来源: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
+
+Flexible and powerful tensor operations for readable and reliable code.
+
+**收录原因:** Sintaxis Einstein-notation super legible y correcta
+
+**证据记录:** [完整证据](../catalog/tooling.md#einops-arogozhnikov-einops) · [data/latest.json](../data/latest.json)
+
+---
+
+### [gorgonia](https://github.com/gorgonia/gorgonia)
+
+![](https://img.shields.io/github/stars/gorgonia/gorgonia?style=flat-square&label=⭐) · 收录于 2 个活跃来源: josephmisiti/awesome-machine-learning, avelino/awesome-go
+
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
+
+graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms.
+
+**收录原因:** graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms.
+
+**证据记录:** [完整证据](../catalog/tooling.md#gorgonia-gorgonia-gorgonia) · [data/latest.json](../data/latest.json)
+
+---
+
+### [GTK+](https://gtk.org)
+
+收录于 2 个活跃来源: rust-unofficial/awesome-rust, fffaraz/awesome-cpp
+
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
+
+A multi-platform toolkit for creating graphical user interfaces. [LGPL]
+
+**收录原因:** A multi-platform toolkit for creating graphical user interfaces. [LGPL]
+
+**证据记录:** [完整证据](../catalog/tooling.md#gtk-gtk) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Ideone](https://ideone.com)
+
+收录于 2 个活跃来源: jivoi/awesome-osint, fffaraz/awesome-cpp
+
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
+
+An online compiler and debugging tool which allows you to compile and execute it online in more than 60 programming languages.
+
+**收录原因:** Cobertura 60+ lenguajes sin instalar
+
+**证据记录:** [完整证据](../catalog/tooling.md#ideone-ideone) · [data/latest.json](../data/latest.json)
+
+---
+
+### [imgui](https://github.com/ocornut/imgui)
+
+![](https://img.shields.io/github/stars/ocornut/imgui?style=flat-square&label=⭐) · 收录于 2 个活跃来源: rust-unofficial/awesome-rust, fffaraz/awesome-cpp
+
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
+
+Immediate Mode Graphical User Interface with minimal dependencies. [MIT]
+
+**收录原因:** Minimalismo radical + performance
+
+**证据记录:** [完整证据](../catalog/tooling.md#imgui-ocornut-imgui) · [data/latest.json](../data/latest.json)
+
+---
+
+_Showing 20 of 45. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

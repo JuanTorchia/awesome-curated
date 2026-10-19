@@ -2,9 +2,27 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**0 人工审核 · 0 常用标准工具 · 45 AI 候选工具 · 0 Needs Review 状态**
+**1 人工审核 · 0 常用标准工具 · 35 AI 候选工具 · 0 Needs Review 状态**
 
 可查阅目录: [TOOLS.md](../TOOLS.md) · 证据快照: [data/latest.json](../data/latest.json)
+
+---
+
+## 人工审核精选
+
+具有人工审核标签和明确限制的工具。
+
+### 👤 [pouchdb](https://github.com/pouchdb/pouchdb)
+
+![](https://img.shields.io/github/stars/pouchdb/pouchdb?style=flat-square&label=⭐) · 收录于 2 个活跃来源: sorrycc/awesome-javascript, MunGell/awesome-for-beginners
+
+**审核:** Worth Trying · **说明 / 审核:** 跨来源覆盖有限。
+
+Javascript db inspired by Apache CouchDB to run well within the browser.
+
+**收录原因:** Javascript db inspired by Apache CouchDB to run well within the browser.
+
+**证据记录:** [完整证据](../catalog/data.md#pouchdb-pouchdb-pouchdb) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -82,6 +100,20 @@ Data Pipeline framework built in Python, including scheduler, DAG definition and
 **收录原因:** Data Pipeline framework built in Python, including scheduler, DAG definition and a UI for visualisation.
 
 **证据记录:** [完整证据](../catalog/data.md#apache-airflow-apache-airflow) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Apache ECharts](https://github.com/apache/echarts)
+
+![](https://img.shields.io/github/stars/apache/echarts?style=flat-square&label=⭐) · 收录于 2 个活跃来源: EthicalML/awesome-production-machine-learning, sorrycc/awesome-javascript
+
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
+
+Apache ECharts is a powerful, interactive charting and data visualization library for browser.
+
+**收录原因:** Rendering performante incluso con datasets grandes
+
+**证据记录:** [完整证据](../catalog/data.md#apache-echarts-apache-echarts) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -169,20 +201,6 @@ A data orchestrator for machine learning, analytics, and ETL.
 
 ---
 
-### [dasel](https://github.com/tomwright/dasel)
-
-![](https://img.shields.io/github/stars/tomwright/dasel?style=flat-square&label=⭐) · 收录于 2 个活跃来源: agarrharr/awesome-cli-apps, avelino/awesome-go
-
-**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
-
-Query and update data structures using selectors from the command line. Comparable to jq/yq but supports JSON, YAML, TOML and XML with zero runtime dependencies.
-
-**收录原因:** Sintaxis consistente vs aprender jq Y yq por separado
-
-**证据记录:** [完整证据](../catalog/data.md#dasel-tomwright-dasel) · [data/latest.json](../data/latest.json)
-
----
-
 ### [Dask](https://github.com/dask/dask)
 
 ![](https://img.shields.io/github/stars/dask/dask?style=flat-square&label=⭐) · 收录于 2 个活跃来源: EthicalML/awesome-production-machine-learning, vinta/awesome-python
@@ -208,20 +226,6 @@ A library to compare Pandas, Polars, and Spark data frames. It provides stats an
 **收录原因:** A library to compare Pandas, Polars, and Spark data frames. It provides stats and lets users adjust for match accuracy.
 
 **证据记录:** [完整证据](../catalog/data.md#datacompy-capitalone-datacompy) · [data/latest.json](../data/latest.json)
-
----
-
-### [DataFrames](https://github.com/juliadata/dataframes.jl)
-
-![](https://img.shields.io/github/stars/juliadata/dataframes.jl?style=flat-square&label=⭐) · 收录于 2 个活跃来源: wilsonfreitas/awesome-quant, josephmisiti/awesome-machine-learning
-
-**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
-
-library for working with tabular data in Julia.
-
-**收录原因:** Performance cercana a C para operaciones matriciales
-
-**证据记录:** [完整证据](../catalog/data.md#dataframes-juliadata-dataframes-jl) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -253,20 +257,6 @@ Dolt is a SQL database that you can fork, clone, branch, merge, push and pull ju
 
 ---
 
-### [edgartools](https://github.com/dgunning/edgartools)
-
-![](https://img.shields.io/github/stars/dgunning/edgartools?style=flat-square&label=⭐) · 收录于 2 个活跃来源: wilsonfreitas/awesome-quant, vinta/awesome-python
-
-**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
-
-Python AI-native SEC EDGAR library with XBRL financials, clean text extraction, 17+ typed forms, and pandas DataFrames.
-
-**收录原因:** Python AI-native SEC EDGAR library with XBRL financials, clean text extraction, 17+ typed forms, and pandas DataFrames.
-
-**证据记录:** [完整证据](../catalog/data.md#edgartools-dgunning-edgartools) · [data/latest.json](../data/latest.json)
-
----
-
 ### [Gephi](https://gephi.org)
 
 收录于 2 个活跃来源: jivoi/awesome-osint, academic/awesome-datascience
@@ -295,7 +285,35 @@ A data visualization package based on the grammar of graphics.
 
 ---
 
-_Showing 20 of 45. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+### [Hamilton](https://github.com/dagworks-inc/hamilton)
+
+![](https://img.shields.io/github/stars/dagworks-inc/hamilton?style=flat-square&label=⭐) · 收录于 2 个活跃来源: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
+
+Hamilton is a micro-orchestration framework for defining dataflows. Runs anywhere python runs (e.g. jupyter, fastAPI, spark, ray, dask). Brings software engineering best practices without you knowing it. Use it to...
+
+**收录原因:** Micro-orquestador para dataflows (feature eng, pipelines, LLM workflows). Python-first, corre en Jupyter/FastAPI/Spark/Ray. Resuelve problema:...
+
+**证据记录:** [完整证据](../catalog/data.md#hamilton-dagworks-inc-hamilton) · [data/latest.json](../data/latest.json)
+
+---
+
+### [pandas](https://github.com/pandas-dev/pandas)
+
+![](https://img.shields.io/github/stars/pandas-dev/pandas?style=flat-square&label=⭐) · 收录于 2 个活跃来源: vinta/awesome-python, MunGell/awesome-for-beginners
+
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
+
+Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+
+**收录原因:** Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects,...
+
+**证据记录:** [完整证据](../catalog/data.md#pandas-pandas-dev-pandas) · [data/latest.json](../data/latest.json)
+
+---
+
+_Showing 20 of 35. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

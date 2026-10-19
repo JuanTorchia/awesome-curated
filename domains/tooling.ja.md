@@ -2,7 +2,7 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**5 人間レビュー済み · 1 広く使われる標準ツール · 69 AI 候補 · 0 Needs Review 状態**
+**1 人間レビュー済み · 1 広く使われる標準ツール · 45 AI 候補 · 0 Needs Review 状態**
 
 確認できるカタログ: [TOOLS.md](../TOOLS.md) · 根拠のスナップショット: [data/latest.json](../data/latest.json)
 
@@ -23,64 +23,6 @@ Cross-platform application to monitor your network traffic with ease
 **掲載理由:** Provides a low-friction network traffic monitor for debugging and security checks.
 
 **根拠の記録:** [根拠の詳細](../catalog/tooling.md#sniffnet-gyulyvgc-sniffnet) · [data/latest.json](../data/latest.json)
-
----
-
-### 👤 [ast-grep](https://github.com/ast-grep/ast-grep)
-
-![](https://img.shields.io/github/stars/ast-grep/ast-grep?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**レビュー:** Worth Trying · **注記 / レビュー:** 複数ソースによる掲載の範囲は限定的です。
-
-A CLI tool for code structural search, lint and rewriting.
-
-**掲載理由:** Worth trying: structural search and rewrite by AST gives a stronger workflow than regex for codebase-wide changes.
-
-[再現できるサンプル](../GUIDE.md#ast-grep)
-
-**根拠の記録:** [根拠の詳細](../catalog/tooling.md#ast-grep-ast-grep-ast-grep) · [data/latest.json](../data/latest.json)
-
----
-
-### 👤 [ATAC](https://github.com/julien-cpsn/atac)
-
-![](https://img.shields.io/github/stars/julien-cpsn/atac?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**レビュー:** Worth Trying · **注記 / レビュー:** 複数ソースによる掲載の範囲は限定的です。
-
-A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
-
-**掲載理由:** Worth trying: offline, account-less TUI API client in Rust; useful for developers who want Postman-like flows from the terminal.
-
-**根拠の記録:** [根拠の詳細](../catalog/tooling.md#atac-julien-cpsn-atac) · [data/latest.json](../data/latest.json)
-
----
-
-### 👤 [broot](https://github.com/canop/broot)
-
-![](https://img.shields.io/github/stars/canop/broot?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**レビュー:** Worth Trying · **注記 / レビュー:** 複数ソースによる掲載の範囲は限定的です。
-
-A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then cd to it; never lose track of file hierarchy while you search; manipulate your files, ...), further...
-
-**掲載理由:** Worth trying: fast terminal navigation for large directory trees, with a workflow meaningfully different from plain cd/find.
-
-**根拠の記録:** [根拠の詳細](../catalog/tooling.md#broot-canop-broot) · [data/latest.json](../data/latest.json)
-
----
-
-### 👤 [intelli-shell](https://github.com/lasantosr/intelli-shell)
-
-![](https://img.shields.io/github/stars/lasantosr/intelli-shell?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**レビュー:** Worth Trying · **注記 / レビュー:** 複数ソースによる掲載の範囲は限定的です。
-
-Bookmark commands with placeholders and search or autocomplete at any time
-
-**掲載理由:** Worth trying: focused command bookmark/search workflow for terminal-heavy developers; useful without pretending to be a broad platform.
-
-**根拠の記録:** [根拠の詳細](../catalog/tooling.md#intelli-shell-lasantosr-intelli-shell) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -210,34 +152,6 @@ Huggingface's library of state-of-the-art pretrained models for Natural Language
 
 ---
 
-### [yt-dlp](https://github.com/yt-dlp/yt-dlp)
-
-![](https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=flat-square&label=⭐) · 掲載元 3 件のアクティブなソース: agarrharr/awesome-cli-apps, jivoi/awesome-osint, vinta/awesome-python
-
-**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
-
-Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not...
-
-**掲載理由:** Coverage absurdo de plataformas (YouTube, Twitch, TikTok, etc)
-
-**根拠の記録:** [根拠の詳細](../catalog/tooling.md#yt-dlp-yt-dlp-yt-dlp) · [data/latest.json](../data/latest.json)
-
----
-
-### [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
-
-![](https://img.shields.io/github/stars/ajeetdsouza/zoxide?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
-
-A fast alternative to cd that learns your habits
-
-**掲載理由:** A fast alternative to cd that learns your habits
-
-**根拠の記録:** [根拠の詳細](../catalog/tooling.md#ajeetdsouza-zoxide-ajeetdsouza-zoxide) · [data/latest.json](../data/latest.json)
-
----
-
 ### [ashvardanian/stringzilla](https://github.com/ashvardanian/stringzilla)
 
 ![](https://img.shields.io/github/stars/ashvardanian/stringzilla?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: rust-unofficial/awesome-rust, fffaraz/awesome-cpp
@@ -266,20 +180,6 @@ An extremely fast Python linter and code formatter
 
 ---
 
-### [Bartib](https://github.com/nikolassv/bartib)
-
-![](https://img.shields.io/github/stars/nikolassv/bartib?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
-
-] A simple timetracker for the command line
-
-**掲載理由:** ] A simple timetracker for the command line
-
-**根拠の記録:** [根拠の詳細](../catalog/tooling.md#bartib-nikolassv-bartib) · [data/latest.json](../data/latest.json)
-
----
-
 ### [Bitwarden](https://bitwarden.com)
 
 掲載元 2 件のアクティブなソース: jivoi/awesome-osint, jaywcjlove/awesome-mac
@@ -291,20 +191,6 @@ Open source password management tool for Mac OS, iOS and browsers. (https://gith
 **掲載理由:** Self-hosting option + cloud oficial
 
 **根拠の記録:** [根拠の詳細](../catalog/tooling.md#bitwarden-bitwarden) · [data/latest.json](../data/latest.json)
-
----
-
-### [boilr](https://github.com/tmrts/boilr)
-
-![](https://img.shields.io/github/stars/tmrts/boilr?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: agarrharr/awesome-cli-apps, avelino/awesome-go
-
-**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
-
-Blazingly fast CLI tool for creating projects from boilerplate templates.
-
-**掲載理由:** Blazingly fast CLI tool for creating projects from boilerplate templates.
-
-**根拠の記録:** [根拠の詳細](../catalog/tooling.md#boilr-tmrts-boilr) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -336,20 +222,6 @@ Powerful C and C++ IDE. (Free for Students)
 
 ---
 
-### [config-file-validator](https://github.com/boeing/config-file-validator)
-
-![](https://img.shields.io/github/stars/boeing/config-file-validator?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: agarrharr/awesome-cli-apps, avelino/awesome-go
-
-**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
-
-Cross Platform tool to validate configuration files.
-
-**掲載理由:** Mantenido por empresa seria (Boeing)
-
-**根拠の記録:** [根拠の詳細](../catalog/tooling.md#config-file-validator-boeing-config-file-validator) · [data/latest.json](../data/latest.json)
-
----
-
 ### [cookiecutter](https://github.com/cookiecutter/cookiecutter)
 
 ![](https://img.shields.io/github/stars/cookiecutter/cookiecutter?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: vinta/awesome-python, MunGell/awesome-for-beginners
@@ -364,35 +236,103 @@ A command-line utility that creates projects from cookiecutters (project templat
 
 ---
 
-### [Dash](https://kapeli.com/dash)
+### [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter)
 
-掲載元 2 件のアクティブなソース: vuejs/awesome-vue, jaywcjlove/awesome-mac
-
-**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
-
-Offline API documentation browser for macOS with instant search access to Vue.js docs and 200+ other frameworks.
-
-**掲載理由:** Offline API documentation browser for macOS with instant search access to Vue.js docs and 200+ other frameworks.
-
-**根拠の記録:** [根拠の詳細](../catalog/tooling.md#dash-kapeli) · [data/latest.json](../data/latest.json)
-
----
-
-### [diskonaut](https://github.com/imsnif/diskonaut)
-
-![](https://img.shields.io/github/stars/imsnif/diskonaut?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
+![](https://img.shields.io/github/stars/dotenv-linter/dotenv-linter?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: rust-unofficial/awesome-rust, MunGell/awesome-for-beginners
 
 **レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
 
-Terminal visual disk space navigator
+Linter for .env files
 
-**掲載理由:** Terminal visual disk space navigator
-
-**根拠の記録:** [根拠の詳細](../catalog/tooling.md#diskonaut-imsnif-diskonaut) · [data/latest.json](../data/latest.json)
+**根拠の記録:** [根拠の詳細](../catalog/tooling.md#dotenv-linter-dotenv-linter-dotenv-linter) · [data/latest.json](../data/latest.json)
 
 ---
 
-_Showing 20 of 69. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+### [DVC](https://github.com/iterative/dvc)
+
+![](https://img.shields.io/github/stars/iterative/dvc?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
+
+Data Science Version Control is an open-source version control system for machine learning projects with pipelines support. It makes ML projects reproducible and shareable.
+
+**掲載理由:** Pipelines reproducibles con dag tracking
+
+**根拠の記録:** [根拠の詳細](../catalog/tooling.md#dvc-iterative-dvc) · [data/latest.json](../data/latest.json)
+
+---
+
+### [einops](https://github.com/arogozhnikov/einops)
+
+![](https://img.shields.io/github/stars/arogozhnikov/einops?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
+
+Flexible and powerful tensor operations for readable and reliable code.
+
+**掲載理由:** Sintaxis Einstein-notation super legible y correcta
+
+**根拠の記録:** [根拠の詳細](../catalog/tooling.md#einops-arogozhnikov-einops) · [data/latest.json](../data/latest.json)
+
+---
+
+### [gorgonia](https://github.com/gorgonia/gorgonia)
+
+![](https://img.shields.io/github/stars/gorgonia/gorgonia?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: josephmisiti/awesome-machine-learning, avelino/awesome-go
+
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
+
+graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms.
+
+**掲載理由:** graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms.
+
+**根拠の記録:** [根拠の詳細](../catalog/tooling.md#gorgonia-gorgonia-gorgonia) · [data/latest.json](../data/latest.json)
+
+---
+
+### [GTK+](https://gtk.org)
+
+掲載元 2 件のアクティブなソース: rust-unofficial/awesome-rust, fffaraz/awesome-cpp
+
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
+
+A multi-platform toolkit for creating graphical user interfaces. [LGPL]
+
+**掲載理由:** A multi-platform toolkit for creating graphical user interfaces. [LGPL]
+
+**根拠の記録:** [根拠の詳細](../catalog/tooling.md#gtk-gtk) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Ideone](https://ideone.com)
+
+掲載元 2 件のアクティブなソース: jivoi/awesome-osint, fffaraz/awesome-cpp
+
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
+
+An online compiler and debugging tool which allows you to compile and execute it online in more than 60 programming languages.
+
+**掲載理由:** Cobertura 60+ lenguajes sin instalar
+
+**根拠の記録:** [根拠の詳細](../catalog/tooling.md#ideone-ideone) · [data/latest.json](../data/latest.json)
+
+---
+
+### [imgui](https://github.com/ocornut/imgui)
+
+![](https://img.shields.io/github/stars/ocornut/imgui?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: rust-unofficial/awesome-rust, fffaraz/awesome-cpp
+
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
+
+Immediate Mode Graphical User Interface with minimal dependencies. [MIT]
+
+**掲載理由:** Minimalismo radical + performance
+
+**根拠の記録:** [根拠の詳細](../catalog/tooling.md#imgui-ocornut-imgui) · [data/latest.json](../data/latest.json)
+
+---
+
+_Showing 20 of 45. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

@@ -2,7 +2,7 @@
 
 <p><sub>← [Volver al main](../README.es.md)</sub></p>
 
-**7 Revisado por humano · 0 Estándares populares · 72 Candidatos de IA · 0 Estado Needs Review**
+**6 Revisado por humano · 0 Estándares populares · 71 Candidatos de IA · 0 Estado Needs Review**
 
 Catálogo consultable: [TOOLS.md](../TOOLS.md) · Snapshot de evidencia: [data/latest.json](../data/latest.json)
 
@@ -14,7 +14,7 @@ Herramientas con veredicto humano y límites visibles.
 
 ### 👤 [BayesWitnesses/m2cgen](https://github.com/bayeswitnesses/m2cgen)
 
-![](https://img.shields.io/github/stars/bayeswitnesses/m2cgen?style=flat-square&label=⭐) · Encontrada en 4 fuentes activas: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more
+![](https://img.shields.io/github/stars/bayeswitnesses/m2cgen?style=flat-square&label=⭐) · 🔥 **Encontrada en 5 fuentes activas: sorrycc/awesome-javascript, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +2 more**
 
 **Revisión:** Human Pick · **Nota / revisión:** Más adecuada para equipos con un flujo de ML o datos compatible.
 
@@ -53,20 +53,6 @@ Mem0 enhances AI assistants and agents with an intelligent memory layer, enablin
 **Por qué está incluida:** Worth trying: practical memory layer for AI assistants and agents, with enough cross-source signal to review beyond hype.
 
 **Registro de evidencia:** [Evidencia completa](../catalog/ai-ml.md#mem0-mem0ai-mem0) · [data/latest.json](../data/latest.json)
-
----
-
-### 👤 [agent-of-empires](https://github.com/njbrake/agent-of-empires)
-
-![](https://img.shields.io/github/stars/njbrake/agent-of-empires?style=flat-square&label=⭐) · Encontrada en 2 fuentes activas: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Revisión:** Worth Trying · **Nota / revisión:** La cobertura entre fuentes es limitada.
-
-A TUI/CLI for managing multiple AI coding agent sessions with tmux, git worktrees, and Docker sandboxing
-
-**Por qué está incluida:** Worth trying: concrete TUI workflow for managing parallel coding-agent sessions with tmux, worktrees, and sandboxing.
-
-**Registro de evidencia:** [Evidencia completa](../catalog/ai-ml.md#agent-of-empires-njbrake-agent-of-empires) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -259,20 +245,6 @@ SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-51
 
 ---
 
-### [askbudi/roundtable](https://github.com/askbudi/roundtable)
-
-![](https://img.shields.io/github/stars/askbudi/roundtable?style=flat-square&label=⭐) · Encontrada en 2 fuentes activas: vuejs/awesome-vue, punkpeye/awesome-mcp-servers
-
-**Revisión:** AI Candidate · **Nota / revisión:** El candidato todavía necesita revisión humana antes de recibir aval.
-
-📇 ☁️ 🏠 🍎 🪟 🐧 Meta-MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized MCP interface, providing zero-configuration access...
-
-**Por qué está incluida:** 📇 ☁️ 🏠 🍎 🪟 🐧 Meta-MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent...
-
-**Registro de evidencia:** [Evidencia completa](../catalog/ai-ml.md#askbudi-roundtable-askbudi-roundtable) · [data/latest.json](../data/latest.json)
-
----
-
 ### [Bread WandB Viewer](https://github.com/bread-technologies/bread_wandb_viewer_extension)
 
 ![](https://img.shields.io/github/stars/bread-technologies/bread_wandb_viewer_extension?style=flat-square&label=⭐) · Encontrada en 2 fuentes activas: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
@@ -399,7 +371,21 @@ Machine Learning production server for TensorFlow, XGBoost and Cafe models writt
 
 ---
 
-_Showing 20 of 72. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+### [Detectron2](https://github.com/facebookresearch/detectron2)
+
+![](https://img.shields.io/github/stars/facebookresearch/detectron2?style=flat-square&label=⭐) · Encontrada en 2 fuentes activas: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+
+**Revisión:** AI Candidate · **Nota / revisión:** El candidato todavía necesita revisión humana antes de recibir aval.
+
+Detectron2 is Facebook AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms.
+
+**Por qué está incluida:** SOTA accuracy en coco/benchmarks
+
+**Registro de evidencia:** [Evidencia completa](../catalog/ai-ml.md#detectron2-facebookresearch-detectron2) · [data/latest.json](../data/latest.json)
+
+---
+
+_Showing 20 of 71. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

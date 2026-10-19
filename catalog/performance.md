@@ -16,8 +16,8 @@ Generated: 2026-10-18 · Tool entries: 3
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 92 · observed 2026-10-12
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-10-12
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-10-12
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 97 · observed 2026-10-19
 
 ---
 
@@ -33,8 +33,8 @@ Generated: 2026-10-18 · Tool entries: 3
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 92 · observed 2026-10-12
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-10-12
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
 
 ---
 
@@ -50,7 +50,7 @@ Generated: 2026-10-18 · Tool entries: 3
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
 
 ---

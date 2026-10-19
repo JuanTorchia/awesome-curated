@@ -2,7 +2,7 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**1 人工审核 · 0 常用标准工具 · 10 AI 候选工具 · 0 Needs Review 状态**
+**2 人工审核 · 0 常用标准工具 · 10 AI 候选工具 · 0 Needs Review 状态**
 
 可查阅目录: [TOOLS.md](../TOOLS.md) · 证据快照: [data/latest.json](../data/latest.json)
 
@@ -12,9 +12,23 @@
 
 具有人工审核标签和明确限制的工具。
 
+### 👤 [Ghost](https://github.com/tryghost/ghost)
+
+![](https://img.shields.io/github/stars/tryghost/ghost?style=flat-square&label=⭐) · 收录于 2 个活跃来源: sorrycc/awesome-javascript, MunGell/awesome-for-beginners
+
+**审核:** Worth Trying · **说明 / 审核:** 跨来源覆盖有限。
+
+Just a blogging platform
+
+**收录原因:** Editor intuitivo con preview real-time
+
+**证据记录:** [完整证据](../catalog/web.md#ghost-tryghost-ghost) · [data/latest.json](../data/latest.json)
+
+---
+
 ### 👤 [Vest](https://github.com/ealush/vest)
 
-![](https://img.shields.io/github/stars/ealush/vest?style=flat-square&label=⭐) · 收录于 2 个活跃来源: vuejs/awesome-vue, MunGell/awesome-for-beginners
+![](https://img.shields.io/github/stars/ealush/vest?style=flat-square&label=⭐) · 收录于 2 个活跃来源: sorrycc/awesome-javascript, MunGell/awesome-for-beginners
 
 **审核:** Worth Trying · **说明 / 审核:** 跨来源覆盖有限。
 

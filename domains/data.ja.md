@@ -2,9 +2,27 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**0 人間レビュー済み · 0 広く使われる標準ツール · 45 AI 候補 · 0 Needs Review 状態**
+**1 人間レビュー済み · 0 広く使われる標準ツール · 35 AI 候補 · 0 Needs Review 状態**
 
 確認できるカタログ: [TOOLS.md](../TOOLS.md) · 根拠のスナップショット: [data/latest.json](../data/latest.json)
+
+---
+
+## 人間レビュー済みの選定
+
+人間による判定と制約が明示されたツールです。
+
+### 👤 [pouchdb](https://github.com/pouchdb/pouchdb)
+
+![](https://img.shields.io/github/stars/pouchdb/pouchdb?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: sorrycc/awesome-javascript, MunGell/awesome-for-beginners
+
+**レビュー:** Worth Trying · **注記 / レビュー:** 複数ソースによる掲載の範囲は限定的です。
+
+Javascript db inspired by Apache CouchDB to run well within the browser.
+
+**掲載理由:** Javascript db inspired by Apache CouchDB to run well within the browser.
+
+**根拠の記録:** [根拠の詳細](../catalog/data.md#pouchdb-pouchdb-pouchdb) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -82,6 +100,20 @@ Data Pipeline framework built in Python, including scheduler, DAG definition and
 **掲載理由:** Data Pipeline framework built in Python, including scheduler, DAG definition and a UI for visualisation.
 
 **根拠の記録:** [根拠の詳細](../catalog/data.md#apache-airflow-apache-airflow) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Apache ECharts](https://github.com/apache/echarts)
+
+![](https://img.shields.io/github/stars/apache/echarts?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: EthicalML/awesome-production-machine-learning, sorrycc/awesome-javascript
+
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
+
+Apache ECharts is a powerful, interactive charting and data visualization library for browser.
+
+**掲載理由:** Rendering performante incluso con datasets grandes
+
+**根拠の記録:** [根拠の詳細](../catalog/data.md#apache-echarts-apache-echarts) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -169,20 +201,6 @@ A data orchestrator for machine learning, analytics, and ETL.
 
 ---
 
-### [dasel](https://github.com/tomwright/dasel)
-
-![](https://img.shields.io/github/stars/tomwright/dasel?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: agarrharr/awesome-cli-apps, avelino/awesome-go
-
-**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
-
-Query and update data structures using selectors from the command line. Comparable to jq/yq but supports JSON, YAML, TOML and XML with zero runtime dependencies.
-
-**掲載理由:** Sintaxis consistente vs aprender jq Y yq por separado
-
-**根拠の記録:** [根拠の詳細](../catalog/data.md#dasel-tomwright-dasel) · [data/latest.json](../data/latest.json)
-
----
-
 ### [Dask](https://github.com/dask/dask)
 
 ![](https://img.shields.io/github/stars/dask/dask?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: EthicalML/awesome-production-machine-learning, vinta/awesome-python
@@ -208,20 +226,6 @@ A library to compare Pandas, Polars, and Spark data frames. It provides stats an
 **掲載理由:** A library to compare Pandas, Polars, and Spark data frames. It provides stats and lets users adjust for match accuracy.
 
 **根拠の記録:** [根拠の詳細](../catalog/data.md#datacompy-capitalone-datacompy) · [data/latest.json](../data/latest.json)
-
----
-
-### [DataFrames](https://github.com/juliadata/dataframes.jl)
-
-![](https://img.shields.io/github/stars/juliadata/dataframes.jl?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: wilsonfreitas/awesome-quant, josephmisiti/awesome-machine-learning
-
-**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
-
-library for working with tabular data in Julia.
-
-**掲載理由:** Performance cercana a C para operaciones matriciales
-
-**根拠の記録:** [根拠の詳細](../catalog/data.md#dataframes-juliadata-dataframes-jl) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -253,20 +257,6 @@ Dolt is a SQL database that you can fork, clone, branch, merge, push and pull ju
 
 ---
 
-### [edgartools](https://github.com/dgunning/edgartools)
-
-![](https://img.shields.io/github/stars/dgunning/edgartools?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: wilsonfreitas/awesome-quant, vinta/awesome-python
-
-**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
-
-Python AI-native SEC EDGAR library with XBRL financials, clean text extraction, 17+ typed forms, and pandas DataFrames.
-
-**掲載理由:** Python AI-native SEC EDGAR library with XBRL financials, clean text extraction, 17+ typed forms, and pandas DataFrames.
-
-**根拠の記録:** [根拠の詳細](../catalog/data.md#edgartools-dgunning-edgartools) · [data/latest.json](../data/latest.json)
-
----
-
 ### [Gephi](https://gephi.org)
 
 掲載元 2 件のアクティブなソース: jivoi/awesome-osint, academic/awesome-datascience
@@ -295,7 +285,35 @@ A data visualization package based on the grammar of graphics.
 
 ---
 
-_Showing 20 of 45. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+### [Hamilton](https://github.com/dagworks-inc/hamilton)
+
+![](https://img.shields.io/github/stars/dagworks-inc/hamilton?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
+
+Hamilton is a micro-orchestration framework for defining dataflows. Runs anywhere python runs (e.g. jupyter, fastAPI, spark, ray, dask). Brings software engineering best practices without you knowing it. Use it to...
+
+**掲載理由:** Micro-orquestador para dataflows (feature eng, pipelines, LLM workflows). Python-first, corre en Jupyter/FastAPI/Spark/Ray. Resuelve problema:...
+
+**根拠の記録:** [根拠の詳細](../catalog/data.md#hamilton-dagworks-inc-hamilton) · [data/latest.json](../data/latest.json)
+
+---
+
+### [pandas](https://github.com/pandas-dev/pandas)
+
+![](https://img.shields.io/github/stars/pandas-dev/pandas?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: vinta/awesome-python, MunGell/awesome-for-beginners
+
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
+
+Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+
+**掲載理由:** Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects,...
+
+**根拠の記録:** [根拠の詳細](../catalog/data.md#pandas-pandas-dev-pandas) · [data/latest.json](../data/latest.json)
+
+---
+
+_Showing 20 of 35. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

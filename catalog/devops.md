@@ -2,24 +2,7 @@
 
 [All domains](../TOOLS.md) · [README](../README.md) · [Machine-readable evidence](../data/latest.json)
 
-Generated: 2026-10-18 · Tool entries: 12
-
-### <a id="bandwhich-imsnif-bandwhich"></a>[bandwhich](https://github.com/imsnif/bandwhich)
-
-**Label:** Worth Trying · **Domain:** DevOps · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Summary:** Track bandwidth utilization by process.
-
-**Why it is here:** Worth trying: process-level bandwidth visibility from a terminal UI; small, focused, and easy to evaluate.
-
-**Caveat:** Cross-source coverage is limited.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · BENCH · quality 91 · observed 2026-10-12
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
-
----
+Generated: 2026-10-18 · Tool entries: 7
 
 ### <a id="ansible-ansible-ansible"></a>[Ansible](https://github.com/ansible/ansible)
 
@@ -33,8 +16,8 @@ Generated: 2026-10-18 · Tool entries: 12
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 94 · observed 2026-10-05
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 88 · observed 2026-10-05
 
 ---
 
@@ -50,42 +33,8 @@ Generated: 2026-10-18 · Tool entries: 12
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 94 · observed 2026-10-05
-
----
-
-### <a id="ctop-bcicen-ctop"></a>[ctop](https://github.com/bcicen/ctop)
-
-**Label:** AI Candidate · **Domain:** DevOps · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
-
-**Summary:** interface (e.g. htop) for container metrics.
-
-**Why it is here:** monitoreo en vivo sin overhead
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · BENCH · quality 91 · observed 2026-10-12
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-10-12
-
----
-
-### <a id="domcyrus-rustnet-domcyrus-rustnet"></a>[domcyrus/rustnet](https://github.com/domcyrus/rustnet)
-
-**Label:** AI Candidate · **Domain:** DevOps · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Summary:** Cross-platform network monitoring TUI with process identification via eBPF/PKTAP and deep packet inspection
-
-**Why it is here:** eBPF/PKTAP nativo sin overhead kernel
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · BENCH · quality 91 · observed 2026-10-12
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 88 · observed 2026-10-05
 
 ---
 
@@ -101,25 +50,8 @@ Generated: 2026-10-18 · Tool entries: 12
 
 **Source traces:**
 
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-10-12
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 94 · observed 2026-10-05
-
----
-
-### <a id="k9s-derailed-k9s"></a>[k9s](https://github.com/derailed/k9s)
-
-**Label:** AI Candidate · **Domain:** DevOps · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
-
-**Summary:** Kubernetes CLI to manage your clusters in style.
-
-**Why it is here:** Comunidad activa, mantenimiento constante
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · BENCH · quality 91 · observed 2026-10-12
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-10-12
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 97 · observed 2026-10-19
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 88 · observed 2026-10-05
 
 ---
 
@@ -135,8 +67,8 @@ Generated: 2026-10-18 · Tool entries: 12
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
 
 ---
 
@@ -152,8 +84,8 @@ Generated: 2026-10-18 · Tool entries: 12
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 97 · observed 2026-10-12
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-19
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 97 · observed 2026-10-19
 
 ---
 
@@ -169,25 +101,8 @@ Generated: 2026-10-18 · Tool entries: 12
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
-
----
-
-### <a id="s5cmd-peak-s5cmd"></a>[s5cmd](https://github.com/peak/s5cmd)
-
-**Label:** AI Candidate · **Domain:** DevOps · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
-
-**Summary:** Blazing fast S3 and local filesystem execution tool.
-
-**Why it is here:** Blazing fast S3 and local filesystem execution tool.
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · BENCH · quality 91 · observed 2026-10-12
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
 
 ---
 
@@ -203,7 +118,7 @@ Generated: 2026-10-18 · Tool entries: 12
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 94 · observed 2026-10-05
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 88 · observed 2026-10-05
 
 ---

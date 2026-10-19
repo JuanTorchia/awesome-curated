@@ -20,31 +20,10 @@
 
 | 任务 | 工具 | 试用 |
 |---|---|---|
-| 搜索和改写代码 | [ast-grep](https://github.com/ast-grep/ast-grep) · Worth Trying | [试用](GUIDE.md#ast-grep) |
 | 验证表单 | [Vest](https://github.com/ealush/vest) · Worth Trying | [试用](GUIDE.md#vest) |
 | 检查模型图 | [Netron](https://github.com/lutzroeder/netron) · Human Pick | [试用](GUIDE.md#netron) |
 
 [可复现示例](GUIDE.md) · 英语 / 西班牙语：固定版本、测试数据、结果与限制。自动化测试不改变审核标签。
-
-### 安装前先看一个结果
-
-**修改前**
-
-```js
-// console.log("comment")
-const text = "console.log(123)";
-console.log("hello");
-```
-
-**修改后**
-
-```js
-// console.log("comment")
-const text = "console.log(123)";
-logger.info("hello");
-```
-
-ast-grep 0.51.0 改写一个 JavaScript 调用，注释和字符串保持不变。这只验证语法，不保证更换 logger 后应用行为不变。 [试用](GUIDE.md#ast-grep).
 
 ---
 
@@ -64,14 +43,14 @@ ast-grep 0.51.0 改写一个 JavaScript 调用，注释和字符串保持不变�
 - **可查阅目录**: [TOOLS.md](TOOLS.md)
 - **常用标准工具**: 1
 - **Needs Review 状态（复核来源）**: 0
-- **等待人工认可的 AI Candidates**: 229
+- **等待人工认可的 AI Candidates**: 183
 - 候选工具尚未获得 Juan 的认可。请查看目录和领域页面。
 
 ---
 
 ## 🗺️ 找到你的技术栈
 
-[🌐 **Web** · 11](domains/web.zh-CN.md) · [🤖 **AI 与机器学习** · 79](domains/ai-ml.zh-CN.md) · [🛠️ **DevOps** · 12](domains/devops.zh-CN.md) · [📱 **移动端** · 1](domains/mobile.zh-CN.md) · [💾 **数据与数据库** · 45](domains/data.zh-CN.md) · [🔐 **安全与加密** · 9](domains/security.zh-CN.md) · [⚡ **性能** · 3](domains/performance.zh-CN.md) · [🧰 **开发工具** · 75](domains/tooling.zh-CN.md) · [🎨 **其他** · 11](domains/other.zh-CN.md)
+[🌐 **Web** · 12](domains/web.zh-CN.md) · [🤖 **AI 与机器学习** · 77](domains/ai-ml.zh-CN.md) · [🛠️ **DevOps** · 7](domains/devops.zh-CN.md) · [📱 **移动端** · 2](domains/mobile.zh-CN.md) · [💾 **数据与数据库** · 36](domains/data.zh-CN.md) · [🔐 **安全与加密** · 9](domains/security.zh-CN.md) · [⚡ **性能** · 3](domains/performance.zh-CN.md) · [🧰 **开发工具** · 47](domains/tooling.zh-CN.md) · [🎨 **其他** · 4](domains/other.zh-CN.md)
 
 ---
 
@@ -90,7 +69,7 @@ ast-grep 0.51.0 改写一个 JavaScript 调用，注释和字符串保持不变�
 
 <!-- pick:evidence -->
 
-**证据:** 收录于 4 个活跃来源: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more · [来源记录](data/latest.json)
+**证据:** 收录于 5 个活跃来源: sorrycc/awesome-javascript, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +2 more · [来源记录](data/latest.json)
 
 <!-- pick:review -->
 
@@ -175,15 +154,15 @@ ast-grep 0.51.0 改写一个 JavaScript 调用，注释和字符串保持不变�
 
 ---
 
-## 等待人工审核的候选工具
+## 目录变更
 
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, jivoi/awesome-osint, vinta/awesome-python
-- [Deepchecks](https://github.com/deepchecks/deepchecks) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
-- [Colossal-AI](https://github.com/hpcaitech/colossalai) — Dev Tooling · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, MunGell/awesome-for-beginners
-- [Feature Engine](https://github.com/feature-engine/feature_engine) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
-- [askbudi/roundtable](https://github.com/askbudi/roundtable) — AI & ML · Found in 2 active sources: vuejs/awesome-vue, punkpeye/awesome-mcp-servers
+- [Ghost](https://github.com/tryghost/ghost) — newly reviewed · Worth Trying: Editor intuitivo con preview real-time
+- [NativeScript](https://github.com/nativescript/nativescript) — newly reviewed · Worth Trying: Curado tras research: solido pero tangencial al foco backend/Java.
+- [pouchdb](https://github.com/pouchdb/pouchdb) — newly reviewed · Worth Trying: Javascript db inspired by Apache CouchDB to run well within the browser.
+- [Apache ECharts](https://github.com/apache/echarts) — newly reviewed · AI Candidate: Rendering performante incluso con datasets grandes
+- [OpenLayers3](https://openlayers.org) — newly reviewed · AI Candidate: Performance en datasets geoespaciales grandes
 
-候选工具不代表个人推荐。可通过 GitHub issues 请求审核，或在 TOOLS.md 查看完整队列。 [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) · [TOOLS.md](TOOLS.md)
+See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
 
 ---
 
@@ -193,36 +172,37 @@ ast-grep 0.51.0 改写一个 JavaScript 调用，注释和字符串保持不变�
 
 | 工具 | 作用 | 信号 |
 |---|---|---|
-| 👤 [**Vest**](https://github.com/ealush/vest) | Validations framework inspired by unit testing frameworks. | Found in 2 active sources: vuejs/awesome-vue, MunGell/awesome-for-beginners · Worth Trying |
+| 👤 [**Vest**](https://github.com/ealush/vest) | Validations framework inspired by unit testing frameworks. | Found in 2 active sources: sorrycc/awesome-javascript, MunGell/awesome-for-beginners · Worth Trying |
 | [**D3js**](https://d3js.org) | is a powerful data visualization javascript library. | Found in 2 active sources: jivoi/awesome-osint, academic/awesome-datascience · AI Candidate |
 | [**grpc**](https://github.com/grpc/grpc) | Remote Procedure Calls (RPCs) provide a useful abstraction for building distributed applications and services. The... | Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python · AI Candidate |
 
-📖 更多 8 个见[详细页面 →](domains/web.zh-CN.md)
+📖 更多 9 个见[详细页面 →](domains/web.zh-CN.md)
 
 ### 🤖 AI 与机器学习
 
 | 工具 | 作用 | 信号 |
 |---|---|---|
-| 👤 [**BayesWitnesses/m2cgen**](https://github.com/bayeswitnesses/m2cgen) | A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies. | Found in 4 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more · Human Pick |
+| 👤 [**BayesWitnesses/m2cgen**](https://github.com/bayeswitnesses/m2cgen) | A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies. | Found in 5 active sources: sorrycc/awesome-javascript, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +2 more · Human Pick |
 | 👤 [**Netron**](https://github.com/lutzroeder/netron) | Netron is a viewer for neural network, deep learning and machine learning models. | Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning · Human Pick |
 | 👤 [**Mem0**](https://github.com/mem0ai/mem0) | Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions. | Found in 3 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python, MunGell/awesome-for-beginners · Worth Trying |
 
-📖 更多 76 个见[详细页面 →](domains/ai-ml.zh-CN.md)
+📖 更多 74 个见[详细页面 →](domains/ai-ml.zh-CN.md)
 
 ### 🛠️ DevOps
 
 | 工具 | 作用 | 信号 |
 |---|---|---|
-| 👤 [**bandwhich**](https://github.com/imsnif/bandwhich) | Track bandwidth utilization by process. | Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust · Worth Trying |
 | [**BorgBackup**](https://github.com/borgbackup/borg) | Deduplicating backup program with compression and authenticated encryption. | Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners · AI Candidate |
-| [**ctop**](https://github.com/bcicen/ctop) | interface (e.g. htop) for container metrics. | Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go · AI Candidate |
+| [**Dragonfly**](https://github.com/dragonflyoss/dragonfly2) | Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best... | Found in 2 active sources: avelino/awesome-go, MunGell/awesome-for-beginners · AI Candidate |
+| [**Luigi**](https://github.com/spotify/luigi) | Luigi is a Python module that helps you build complex pipelines of batch jobs, handling dependency resolution,... | Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python · AI Candidate |
 
-📖 更多 9 个见[详细页面 →](domains/devops.zh-CN.md)
+📖 更多 4 个见[详细页面 →](domains/devops.zh-CN.md)
 
 ### 📱 移动端
 
 | 工具 | 作用 | 信号 |
 |---|---|---|
+| 👤 [**NativeScript**](https://github.com/nativescript/nativescript) | NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like... | Found in 2 active sources: sorrycc/awesome-javascript, MunGell/awesome-for-beginners · Worth Trying |
 | [**RunAnywhere**](https://github.com/runanywhereai/runanywhere-sdks) | RunAnywhere is a production-ready SDK for running AI models (LLMs, speech-to-text, text-to-speech) on-device for... | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning · AI Candidate |
 
 📖 [完整领域页面 →](domains/mobile.zh-CN.md)
@@ -231,11 +211,11 @@ ast-grep 0.51.0 改写一个 JavaScript 调用，注释和字符串保持不变�
 
 | 工具 | 作用 | 信号 |
 |---|---|---|
+| 👤 [**pouchdb**](https://github.com/pouchdb/pouchdb) | Javascript db inspired by Apache CouchDB to run well within the browser. | Found in 2 active sources: sorrycc/awesome-javascript, MunGell/awesome-for-beginners · Worth Trying |
 | [**gradio**](https://github.com/gradio-app/gradio) | Quickly create and share demos of models by only writing Python. Debug models interactively in your browser, get... | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python · AI Candidate |
 | [**matplotlib**](https://github.com/matplotlib/matplotlib) | A Python 2D plotting library which produces publication-quality figures in a variety of hardcopy formats and... | Found in 3 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python, MunGell/awesome-for-beginners · AI Candidate |
-| [**Streamlit**](https://github.com/streamlit/streamlit) | Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts. It... | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python · AI Candidate |
 
-📖 更多 42 个见[详细页面 →](domains/data.zh-CN.md)
+📖 更多 33 个见[详细页面 →](domains/data.zh-CN.md)
 
 ### 🔐 安全与加密
 
@@ -262,20 +242,20 @@ ast-grep 0.51.0 改写一个 JavaScript 调用，注释和字符串保持不变�
 | 工具 | 作用 | 信号 |
 |---|---|---|
 | 👤 [**Sniffnet**](https://github.com/gyulyvgc/sniffnet) | Cross-platform application to monitor your network traffic with ease | Found in 3 active sources: rust-unofficial/awesome-rust, jaywcjlove/awesome-mac, MunGell/awesome-for-beginners · Human Pick |
-| 👤 [**ast-grep**](https://github.com/ast-grep/ast-grep) | A CLI tool for code structural search, lint and rewriting. | Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust · Worth Trying |
-| 👤 [**ATAC**](https://github.com/julien-cpsn/atac) | A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less. | Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust · Worth Trying |
+| [**Pytorch**](https://github.com/pytorch/pytorch) | PyTorch is an open source machine learning library based on the Torch library, used for applications such as... | Found in 6 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, fffaraz/awesome-cpp +3 more · Popular Standard |
+| [**Bokeh**](https://github.com/bokeh/bokeh) | Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation... | Found in 4 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python +1 more · AI Candidate |
 
-📖 更多 72 个见[详细页面 →](domains/tooling.zh-CN.md)
+📖 更多 44 个见[详细页面 →](domains/tooling.zh-CN.md)
 
 ### 🎨 其他
 
 | 工具 | 作用 | 信号 |
 |---|---|---|
 | [**AI Job Displacement Tracker**](https://github.com/noahaust2/ai-displacement-tracker) | Structured, source-backed dataset tracking 96 AI-attributed workforce reductions (457K workers affected, 13... | Found in 2 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience · AI Candidate |
-| [**beets**](https://github.com/beetbox/beets) | A music library manager and MusicBrainz tagger. | Found in 2 active sources: agarrharr/awesome-cli-apps, vinta/awesome-python · AI Candidate |
-| [**croc**](https://github.com/schollz/croc) | Easily and securely send files or folders from one computer to another. | Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go · AI Candidate |
+| [**OpenLayers3**](https://openlayers.org) | A high-performance, feature-packed library for all your mapping needs. | Found in 2 active sources: jivoi/awesome-osint, sorrycc/awesome-javascript · AI Candidate |
+| [**Reeder 5**](https://reederapp.com) | News reader for Feedbin, Feedly, Feed Wrangler and so on. (https://apps.apple.com/pl/app/reeder-5/id1529448980?platfo... | Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac · AI Candidate |
 
-📖 更多 8 个见[详细页面 →](domains/other.zh-CN.md)
+📖 更多 1 个见[详细页面 →](domains/other.zh-CN.md)
 
 ---
 

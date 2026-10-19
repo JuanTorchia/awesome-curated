@@ -2,7 +2,7 @@
 
 <p><sub>← [Volver al main](../README.es.md)</sub></p>
 
-**1 Revisado por humano · 0 Estándares populares · 10 Candidatos de IA · 0 Estado Needs Review**
+**2 Revisado por humano · 0 Estándares populares · 10 Candidatos de IA · 0 Estado Needs Review**
 
 Catálogo consultable: [TOOLS.md](../TOOLS.md) · Snapshot de evidencia: [data/latest.json](../data/latest.json)
 
@@ -12,9 +12,23 @@ Catálogo consultable: [TOOLS.md](../TOOLS.md) · Snapshot de evidencia: [data/l
 
 Herramientas con veredicto humano y límites visibles.
 
+### 👤 [Ghost](https://github.com/tryghost/ghost)
+
+![](https://img.shields.io/github/stars/tryghost/ghost?style=flat-square&label=⭐) · Encontrada en 2 fuentes activas: sorrycc/awesome-javascript, MunGell/awesome-for-beginners
+
+**Revisión:** Worth Trying · **Nota / revisión:** La cobertura entre fuentes es limitada.
+
+Just a blogging platform
+
+**Por qué está incluida:** Editor intuitivo con preview real-time
+
+**Registro de evidencia:** [Evidencia completa](../catalog/web.md#ghost-tryghost-ghost) · [data/latest.json](../data/latest.json)
+
+---
+
 ### 👤 [Vest](https://github.com/ealush/vest)
 
-![](https://img.shields.io/github/stars/ealush/vest?style=flat-square&label=⭐) · Encontrada en 2 fuentes activas: vuejs/awesome-vue, MunGell/awesome-for-beginners
+![](https://img.shields.io/github/stars/ealush/vest?style=flat-square&label=⭐) · Encontrada en 2 fuentes activas: sorrycc/awesome-javascript, MunGell/awesome-for-beginners
 
 **Revisión:** Worth Trying · **Nota / revisión:** La cobertura entre fuentes es limitada.
 

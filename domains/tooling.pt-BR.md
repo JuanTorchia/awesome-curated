@@ -2,7 +2,7 @@
 
 <p><sub>← [Voltar ao main](../README.pt-BR.md)</sub></p>
 
-**5 Revisado por humano · 1 Padrões populares · 69 Candidatos de IA · 0 Estado Needs Review**
+**1 Revisado por humano · 1 Padrões populares · 45 Candidatos de IA · 0 Estado Needs Review**
 
 Catálogo consultável: [TOOLS.md](../TOOLS.md) · Snapshot de evidências: [data/latest.json](../data/latest.json)
 
@@ -23,64 +23,6 @@ Cross-platform application to monitor your network traffic with ease
 **Por que foi incluída:** Provides a low-friction network traffic monitor for debugging and security checks.
 
 **Registro de evidências:** [Evidência completa](../catalog/tooling.md#sniffnet-gyulyvgc-sniffnet) · [data/latest.json](../data/latest.json)
-
----
-
-### 👤 [ast-grep](https://github.com/ast-grep/ast-grep)
-
-![](https://img.shields.io/github/stars/ast-grep/ast-grep?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Revisão:** Worth Trying · **Nota / revisão:** A cobertura entre fontes é limitada.
-
-A CLI tool for code structural search, lint and rewriting.
-
-**Por que foi incluída:** Worth trying: structural search and rewrite by AST gives a stronger workflow than regex for codebase-wide changes.
-
-[Exemplo reproduzível](../GUIDE.md#ast-grep)
-
-**Registro de evidências:** [Evidência completa](../catalog/tooling.md#ast-grep-ast-grep-ast-grep) · [data/latest.json](../data/latest.json)
-
----
-
-### 👤 [ATAC](https://github.com/julien-cpsn/atac)
-
-![](https://img.shields.io/github/stars/julien-cpsn/atac?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Revisão:** Worth Trying · **Nota / revisão:** A cobertura entre fontes é limitada.
-
-A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
-
-**Por que foi incluída:** Worth trying: offline, account-less TUI API client in Rust; useful for developers who want Postman-like flows from the terminal.
-
-**Registro de evidências:** [Evidência completa](../catalog/tooling.md#atac-julien-cpsn-atac) · [data/latest.json](../data/latest.json)
-
----
-
-### 👤 [broot](https://github.com/canop/broot)
-
-![](https://img.shields.io/github/stars/canop/broot?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Revisão:** Worth Trying · **Nota / revisão:** A cobertura entre fontes é limitada.
-
-A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then cd to it; never lose track of file hierarchy while you search; manipulate your files, ...), further...
-
-**Por que foi incluída:** Worth trying: fast terminal navigation for large directory trees, with a workflow meaningfully different from plain cd/find.
-
-**Registro de evidências:** [Evidência completa](../catalog/tooling.md#broot-canop-broot) · [data/latest.json](../data/latest.json)
-
----
-
-### 👤 [intelli-shell](https://github.com/lasantosr/intelli-shell)
-
-![](https://img.shields.io/github/stars/lasantosr/intelli-shell?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Revisão:** Worth Trying · **Nota / revisão:** A cobertura entre fontes é limitada.
-
-Bookmark commands with placeholders and search or autocomplete at any time
-
-**Por que foi incluída:** Worth trying: focused command bookmark/search workflow for terminal-heavy developers; useful without pretending to be a broad platform.
-
-**Registro de evidências:** [Evidência completa](../catalog/tooling.md#intelli-shell-lasantosr-intelli-shell) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -210,34 +152,6 @@ Huggingface's library of state-of-the-art pretrained models for Natural Language
 
 ---
 
-### [yt-dlp](https://github.com/yt-dlp/yt-dlp)
-
-![](https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=flat-square&label=⭐) · Encontrada em 3 fontes ativas: agarrharr/awesome-cli-apps, jivoi/awesome-osint, vinta/awesome-python
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not...
-
-**Por que foi incluída:** Coverage absurdo de plataformas (YouTube, Twitch, TikTok, etc)
-
-**Registro de evidências:** [Evidência completa](../catalog/tooling.md#yt-dlp-yt-dlp-yt-dlp) · [data/latest.json](../data/latest.json)
-
----
-
-### [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
-
-![](https://img.shields.io/github/stars/ajeetdsouza/zoxide?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-A fast alternative to cd that learns your habits
-
-**Por que foi incluída:** A fast alternative to cd that learns your habits
-
-**Registro de evidências:** [Evidência completa](../catalog/tooling.md#ajeetdsouza-zoxide-ajeetdsouza-zoxide) · [data/latest.json](../data/latest.json)
-
----
-
 ### [ashvardanian/stringzilla](https://github.com/ashvardanian/stringzilla)
 
 ![](https://img.shields.io/github/stars/ashvardanian/stringzilla?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: rust-unofficial/awesome-rust, fffaraz/awesome-cpp
@@ -266,20 +180,6 @@ An extremely fast Python linter and code formatter
 
 ---
 
-### [Bartib](https://github.com/nikolassv/bartib)
-
-![](https://img.shields.io/github/stars/nikolassv/bartib?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-] A simple timetracker for the command line
-
-**Por que foi incluída:** ] A simple timetracker for the command line
-
-**Registro de evidências:** [Evidência completa](../catalog/tooling.md#bartib-nikolassv-bartib) · [data/latest.json](../data/latest.json)
-
----
-
 ### [Bitwarden](https://bitwarden.com)
 
 Encontrada em 2 fontes ativas: jivoi/awesome-osint, jaywcjlove/awesome-mac
@@ -291,20 +191,6 @@ Open source password management tool for Mac OS, iOS and browsers. (https://gith
 **Por que foi incluída:** Self-hosting option + cloud oficial
 
 **Registro de evidências:** [Evidência completa](../catalog/tooling.md#bitwarden-bitwarden) · [data/latest.json](../data/latest.json)
-
----
-
-### [boilr](https://github.com/tmrts/boilr)
-
-![](https://img.shields.io/github/stars/tmrts/boilr?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: agarrharr/awesome-cli-apps, avelino/awesome-go
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-Blazingly fast CLI tool for creating projects from boilerplate templates.
-
-**Por que foi incluída:** Blazingly fast CLI tool for creating projects from boilerplate templates.
-
-**Registro de evidências:** [Evidência completa](../catalog/tooling.md#boilr-tmrts-boilr) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -336,20 +222,6 @@ Powerful C and C++ IDE. (Free for Students)
 
 ---
 
-### [config-file-validator](https://github.com/boeing/config-file-validator)
-
-![](https://img.shields.io/github/stars/boeing/config-file-validator?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: agarrharr/awesome-cli-apps, avelino/awesome-go
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-Cross Platform tool to validate configuration files.
-
-**Por que foi incluída:** Mantenido por empresa seria (Boeing)
-
-**Registro de evidências:** [Evidência completa](../catalog/tooling.md#config-file-validator-boeing-config-file-validator) · [data/latest.json](../data/latest.json)
-
----
-
 ### [cookiecutter](https://github.com/cookiecutter/cookiecutter)
 
 ![](https://img.shields.io/github/stars/cookiecutter/cookiecutter?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: vinta/awesome-python, MunGell/awesome-for-beginners
@@ -364,35 +236,103 @@ A command-line utility that creates projects from cookiecutters (project templat
 
 ---
 
-### [Dash](https://kapeli.com/dash)
+### [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter)
 
-Encontrada em 2 fontes ativas: vuejs/awesome-vue, jaywcjlove/awesome-mac
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-Offline API documentation browser for macOS with instant search access to Vue.js docs and 200+ other frameworks.
-
-**Por que foi incluída:** Offline API documentation browser for macOS with instant search access to Vue.js docs and 200+ other frameworks.
-
-**Registro de evidências:** [Evidência completa](../catalog/tooling.md#dash-kapeli) · [data/latest.json](../data/latest.json)
-
----
-
-### [diskonaut](https://github.com/imsnif/diskonaut)
-
-![](https://img.shields.io/github/stars/imsnif/diskonaut?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
+![](https://img.shields.io/github/stars/dotenv-linter/dotenv-linter?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: rust-unofficial/awesome-rust, MunGell/awesome-for-beginners
 
 **Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
 
-Terminal visual disk space navigator
+Linter for .env files
 
-**Por que foi incluída:** Terminal visual disk space navigator
-
-**Registro de evidências:** [Evidência completa](../catalog/tooling.md#diskonaut-imsnif-diskonaut) · [data/latest.json](../data/latest.json)
+**Registro de evidências:** [Evidência completa](../catalog/tooling.md#dotenv-linter-dotenv-linter-dotenv-linter) · [data/latest.json](../data/latest.json)
 
 ---
 
-_Showing 20 of 69. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+### [DVC](https://github.com/iterative/dvc)
+
+![](https://img.shields.io/github/stars/iterative/dvc?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+
+**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
+
+Data Science Version Control is an open-source version control system for machine learning projects with pipelines support. It makes ML projects reproducible and shareable.
+
+**Por que foi incluída:** Pipelines reproducibles con dag tracking
+
+**Registro de evidências:** [Evidência completa](../catalog/tooling.md#dvc-iterative-dvc) · [data/latest.json](../data/latest.json)
+
+---
+
+### [einops](https://github.com/arogozhnikov/einops)
+
+![](https://img.shields.io/github/stars/arogozhnikov/einops?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+
+**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
+
+Flexible and powerful tensor operations for readable and reliable code.
+
+**Por que foi incluída:** Sintaxis Einstein-notation super legible y correcta
+
+**Registro de evidências:** [Evidência completa](../catalog/tooling.md#einops-arogozhnikov-einops) · [data/latest.json](../data/latest.json)
+
+---
+
+### [gorgonia](https://github.com/gorgonia/gorgonia)
+
+![](https://img.shields.io/github/stars/gorgonia/gorgonia?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: josephmisiti/awesome-machine-learning, avelino/awesome-go
+
+**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
+
+graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms.
+
+**Por que foi incluída:** graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms.
+
+**Registro de evidências:** [Evidência completa](../catalog/tooling.md#gorgonia-gorgonia-gorgonia) · [data/latest.json](../data/latest.json)
+
+---
+
+### [GTK+](https://gtk.org)
+
+Encontrada em 2 fontes ativas: rust-unofficial/awesome-rust, fffaraz/awesome-cpp
+
+**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
+
+A multi-platform toolkit for creating graphical user interfaces. [LGPL]
+
+**Por que foi incluída:** A multi-platform toolkit for creating graphical user interfaces. [LGPL]
+
+**Registro de evidências:** [Evidência completa](../catalog/tooling.md#gtk-gtk) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Ideone](https://ideone.com)
+
+Encontrada em 2 fontes ativas: jivoi/awesome-osint, fffaraz/awesome-cpp
+
+**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
+
+An online compiler and debugging tool which allows you to compile and execute it online in more than 60 programming languages.
+
+**Por que foi incluída:** Cobertura 60+ lenguajes sin instalar
+
+**Registro de evidências:** [Evidência completa](../catalog/tooling.md#ideone-ideone) · [data/latest.json](../data/latest.json)
+
+---
+
+### [imgui](https://github.com/ocornut/imgui)
+
+![](https://img.shields.io/github/stars/ocornut/imgui?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: rust-unofficial/awesome-rust, fffaraz/awesome-cpp
+
+**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
+
+Immediate Mode Graphical User Interface with minimal dependencies. [MIT]
+
+**Por que foi incluída:** Minimalismo radical + performance
+
+**Registro de evidências:** [Evidência completa](../catalog/tooling.md#imgui-ocornut-imgui) · [data/latest.json](../data/latest.json)
+
+---
+
+_Showing 20 of 45. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

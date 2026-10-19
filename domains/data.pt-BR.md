@@ -2,9 +2,27 @@
 
 <p><sub>← [Voltar ao main](../README.pt-BR.md)</sub></p>
 
-**0 Revisado por humano · 0 Padrões populares · 45 Candidatos de IA · 0 Estado Needs Review**
+**1 Revisado por humano · 0 Padrões populares · 35 Candidatos de IA · 0 Estado Needs Review**
 
 Catálogo consultável: [TOOLS.md](../TOOLS.md) · Snapshot de evidências: [data/latest.json](../data/latest.json)
+
+---
+
+## Seleção revisada por pessoas
+
+Ferramentas com avaliação humana e limites visíveis.
+
+### 👤 [pouchdb](https://github.com/pouchdb/pouchdb)
+
+![](https://img.shields.io/github/stars/pouchdb/pouchdb?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: sorrycc/awesome-javascript, MunGell/awesome-for-beginners
+
+**Revisão:** Worth Trying · **Nota / revisão:** A cobertura entre fontes é limitada.
+
+Javascript db inspired by Apache CouchDB to run well within the browser.
+
+**Por que foi incluída:** Javascript db inspired by Apache CouchDB to run well within the browser.
+
+**Registro de evidências:** [Evidência completa](../catalog/data.md#pouchdb-pouchdb-pouchdb) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -82,6 +100,20 @@ Data Pipeline framework built in Python, including scheduler, DAG definition and
 **Por que foi incluída:** Data Pipeline framework built in Python, including scheduler, DAG definition and a UI for visualisation.
 
 **Registro de evidências:** [Evidência completa](../catalog/data.md#apache-airflow-apache-airflow) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Apache ECharts](https://github.com/apache/echarts)
+
+![](https://img.shields.io/github/stars/apache/echarts?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: EthicalML/awesome-production-machine-learning, sorrycc/awesome-javascript
+
+**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
+
+Apache ECharts is a powerful, interactive charting and data visualization library for browser.
+
+**Por que foi incluída:** Rendering performante incluso con datasets grandes
+
+**Registro de evidências:** [Evidência completa](../catalog/data.md#apache-echarts-apache-echarts) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -169,20 +201,6 @@ A data orchestrator for machine learning, analytics, and ETL.
 
 ---
 
-### [dasel](https://github.com/tomwright/dasel)
-
-![](https://img.shields.io/github/stars/tomwright/dasel?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: agarrharr/awesome-cli-apps, avelino/awesome-go
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-Query and update data structures using selectors from the command line. Comparable to jq/yq but supports JSON, YAML, TOML and XML with zero runtime dependencies.
-
-**Por que foi incluída:** Sintaxis consistente vs aprender jq Y yq por separado
-
-**Registro de evidências:** [Evidência completa](../catalog/data.md#dasel-tomwright-dasel) · [data/latest.json](../data/latest.json)
-
----
-
 ### [Dask](https://github.com/dask/dask)
 
 ![](https://img.shields.io/github/stars/dask/dask?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: EthicalML/awesome-production-machine-learning, vinta/awesome-python
@@ -208,20 +226,6 @@ A library to compare Pandas, Polars, and Spark data frames. It provides stats an
 **Por que foi incluída:** A library to compare Pandas, Polars, and Spark data frames. It provides stats and lets users adjust for match accuracy.
 
 **Registro de evidências:** [Evidência completa](../catalog/data.md#datacompy-capitalone-datacompy) · [data/latest.json](../data/latest.json)
-
----
-
-### [DataFrames](https://github.com/juliadata/dataframes.jl)
-
-![](https://img.shields.io/github/stars/juliadata/dataframes.jl?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: wilsonfreitas/awesome-quant, josephmisiti/awesome-machine-learning
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-library for working with tabular data in Julia.
-
-**Por que foi incluída:** Performance cercana a C para operaciones matriciales
-
-**Registro de evidências:** [Evidência completa](../catalog/data.md#dataframes-juliadata-dataframes-jl) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -253,20 +257,6 @@ Dolt is a SQL database that you can fork, clone, branch, merge, push and pull ju
 
 ---
 
-### [edgartools](https://github.com/dgunning/edgartools)
-
-![](https://img.shields.io/github/stars/dgunning/edgartools?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: wilsonfreitas/awesome-quant, vinta/awesome-python
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-Python AI-native SEC EDGAR library with XBRL financials, clean text extraction, 17+ typed forms, and pandas DataFrames.
-
-**Por que foi incluída:** Python AI-native SEC EDGAR library with XBRL financials, clean text extraction, 17+ typed forms, and pandas DataFrames.
-
-**Registro de evidências:** [Evidência completa](../catalog/data.md#edgartools-dgunning-edgartools) · [data/latest.json](../data/latest.json)
-
----
-
 ### [Gephi](https://gephi.org)
 
 Encontrada em 2 fontes ativas: jivoi/awesome-osint, academic/awesome-datascience
@@ -295,7 +285,35 @@ A data visualization package based on the grammar of graphics.
 
 ---
 
-_Showing 20 of 45. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+### [Hamilton](https://github.com/dagworks-inc/hamilton)
+
+![](https://img.shields.io/github/stars/dagworks-inc/hamilton?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+
+**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
+
+Hamilton is a micro-orchestration framework for defining dataflows. Runs anywhere python runs (e.g. jupyter, fastAPI, spark, ray, dask). Brings software engineering best practices without you knowing it. Use it to...
+
+**Por que foi incluída:** Micro-orquestador para dataflows (feature eng, pipelines, LLM workflows). Python-first, corre en Jupyter/FastAPI/Spark/Ray. Resuelve problema:...
+
+**Registro de evidências:** [Evidência completa](../catalog/data.md#hamilton-dagworks-inc-hamilton) · [data/latest.json](../data/latest.json)
+
+---
+
+### [pandas](https://github.com/pandas-dev/pandas)
+
+![](https://img.shields.io/github/stars/pandas-dev/pandas?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: vinta/awesome-python, MunGell/awesome-for-beginners
+
+**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
+
+Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+
+**Por que foi incluída:** Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects,...
+
+**Registro de evidências:** [Evidência completa](../catalog/data.md#pandas-pandas-dev-pandas) · [data/latest.json](../data/latest.json)
+
+---
+
+_Showing 20 of 35. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

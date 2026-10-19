@@ -2,7 +2,7 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**1 人間レビュー済み · 0 広く使われる標準ツール · 10 AI 候補 · 0 Needs Review 状態**
+**2 人間レビュー済み · 0 広く使われる標準ツール · 10 AI 候補 · 0 Needs Review 状態**
 
 確認できるカタログ: [TOOLS.md](../TOOLS.md) · 根拠のスナップショット: [data/latest.json](../data/latest.json)
 
@@ -12,9 +12,23 @@
 
 人間による判定と制約が明示されたツールです。
 
+### 👤 [Ghost](https://github.com/tryghost/ghost)
+
+![](https://img.shields.io/github/stars/tryghost/ghost?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: sorrycc/awesome-javascript, MunGell/awesome-for-beginners
+
+**レビュー:** Worth Trying · **注記 / レビュー:** 複数ソースによる掲載の範囲は限定的です。
+
+Just a blogging platform
+
+**掲載理由:** Editor intuitivo con preview real-time
+
+**根拠の記録:** [根拠の詳細](../catalog/web.md#ghost-tryghost-ghost) · [data/latest.json](../data/latest.json)
+
+---
+
 ### 👤 [Vest](https://github.com/ealush/vest)
 
-![](https://img.shields.io/github/stars/ealush/vest?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: vuejs/awesome-vue, MunGell/awesome-for-beginners
+![](https://img.shields.io/github/stars/ealush/vest?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: sorrycc/awesome-javascript, MunGell/awesome-for-beginners
 
 **レビュー:** Worth Trying · **注記 / レビュー:** 複数ソースによる掲載の範囲は限定的です。
 

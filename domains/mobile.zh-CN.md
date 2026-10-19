@@ -2,9 +2,27 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**0 人工审核 · 0 常用标准工具 · 1 AI 候选工具 · 0 Needs Review 状态**
+**1 人工审核 · 0 常用标准工具 · 1 AI 候选工具 · 0 Needs Review 状态**
 
 可查阅目录: [TOOLS.md](../TOOLS.md) · 证据快照: [data/latest.json](../data/latest.json)
+
+---
+
+## 人工审核精选
+
+具有人工审核标签和明确限制的工具。
+
+### 👤 [NativeScript](https://github.com/nativescript/nativescript)
+
+![](https://img.shields.io/github/stars/nativescript/nativescript?style=flat-square&label=⭐) · 收录于 2 个活跃来源: sorrycc/awesome-javascript, MunGell/awesome-for-beginners
+
+**审核:** Worth Trying · **说明 / 审核:** 跨来源覆盖有限。
+
+NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.
+
+**收录原因:** Curado tras research: solido pero tangencial al foco backend/Java.
+
+**证据记录:** [完整证据](../catalog/mobile.md#nativescript-nativescript-nativescript) · [data/latest.json](../data/latest.json)
 
 ---
 

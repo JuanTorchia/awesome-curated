@@ -2,11 +2,28 @@
 
 [All domains](../TOOLS.md) · [README](../README.md) · [Machine-readable evidence](../data/latest.json)
 
-Generated: 2026-10-18 · Tool entries: 11
+Generated: 2026-10-18 · Tool entries: 12
+
+### <a id="ghost-tryghost-ghost"></a>[Ghost](https://github.com/tryghost/ghost)
+
+**Label:** Worth Trying · **Domain:** Web · **Signal:** Found in 2 active sources: sorrycc/awesome-javascript, MunGell/awesome-for-beginners
+
+**Summary:** Just a blogging platform
+
+**Why it is here:** Editor intuitivo con preview real-time
+
+**Caveat:** Cross-source coverage is limited.
+
+**Source traces:**
+
+- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) · BENCH · quality 86 · observed 2026-10-19
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 88 · observed 2026-10-05
+
+---
 
 ### <a id="vest-ealush-vest"></a>[Vest](https://github.com/ealush/vest)
 
-**Label:** Worth Trying · **Domain:** Web · **Signal:** Found in 2 active sources: vuejs/awesome-vue, MunGell/awesome-for-beginners
+**Label:** Worth Trying · **Domain:** Web · **Signal:** Found in 2 active sources: sorrycc/awesome-javascript, MunGell/awesome-for-beginners
 
 **Summary:** Validations framework inspired by unit testing frameworks.
 
@@ -18,8 +35,8 @@ Generated: 2026-10-18 · Tool entries: 11
 
 **Source traces:**
 
-- [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) · ROSTER · quality 94 · observed 2026-10-05
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 94 · observed 2026-10-05
+- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) · BENCH · quality 86 · observed 2026-10-19
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 88 · observed 2026-10-05
 
 ---
 
@@ -35,8 +52,8 @@ Generated: 2026-10-18 · Tool entries: 11
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-10-12
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-12
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-10-19
+- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-19
 
 ---
 
@@ -52,8 +69,8 @@ Generated: 2026-10-18 · Tool entries: 11
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 92 · observed 2026-10-12
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-10-12
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
 
 ---
 
@@ -69,8 +86,8 @@ Generated: 2026-10-18 · Tool entries: 11
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 94 · observed 2026-10-05
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-19
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 88 · observed 2026-10-05
 
 ---
 
@@ -86,8 +103,8 @@ Generated: 2026-10-18 · Tool entries: 11
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 97 · observed 2026-10-12
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 97 · observed 2026-10-19
 
 ---
 
@@ -103,8 +120,8 @@ Generated: 2026-10-18 · Tool entries: 11
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 97 · observed 2026-10-12
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 97 · observed 2026-10-19
 
 ---
 
@@ -120,8 +137,8 @@ Generated: 2026-10-18 · Tool entries: 11
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 94 · observed 2026-10-05
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 88 · observed 2026-10-05
 
 ---
 
@@ -137,8 +154,8 @@ Generated: 2026-10-18 · Tool entries: 11
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 94 · observed 2026-10-05
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 88 · observed 2026-10-05
 
 ---
 
@@ -154,8 +171,8 @@ Generated: 2026-10-18 · Tool entries: 11
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 92 · observed 2026-10-12
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-19
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-10-12
 
 ---
 
@@ -171,8 +188,8 @@ Generated: 2026-10-18 · Tool entries: 11
 
 **Source traces:**
 
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-10-12
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 97 · observed 2026-10-12
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 97 · observed 2026-10-19
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 97 · observed 2026-10-19
 
 ---
 
@@ -188,7 +205,7 @@ Generated: 2026-10-18 · Tool entries: 11
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-10-12
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-10-12
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-10-19
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-10-19
 
 ---

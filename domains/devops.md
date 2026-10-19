@@ -2,27 +2,9 @@
 
 <p><sub>← [Back to main](../README.md)</sub></p>
 
-**1 Human reviewed · 0 Popular standards · 11 AI candidates · 0 Needs Review**
+**0 Human reviewed · 0 Popular standards · 7 AI candidates · 0 Needs Review**
 
 Inspectable catalog: [TOOLS.md](../TOOLS.md) · Evidence snapshot: [data/latest.json](../data/latest.json)
-
----
-
-## Human-reviewed picks
-
-Tools with a human review label and visible caveats.
-
-### 👤 [bandwhich](https://github.com/imsnif/bandwhich)
-
-![](https://img.shields.io/github/stars/imsnif/bandwhich?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Review:** Worth Trying · **Caveat / review:** Cross-source coverage is limited.
-
-Track bandwidth utilization by process.
-
-**Why it is here:** Worth trying: process-level bandwidth visibility from a terminal UI; small, focused, and easy to evaluate.
-
-**Evidence record:** [Full evidence](../catalog/devops.md#bandwhich-imsnif-bandwhich) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -61,34 +43,6 @@ Deduplicating backup program with compression and authenticated encryption.
 
 ---
 
-### [ctop](https://github.com/bcicen/ctop)
-
-![](https://img.shields.io/github/stars/bcicen/ctop?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
-
-**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
-
-interface (e.g. htop) for container metrics.
-
-**Why it is here:** monitoreo en vivo sin overhead
-
-**Evidence record:** [Full evidence](../catalog/devops.md#ctop-bcicen-ctop) · [data/latest.json](../data/latest.json)
-
----
-
-### [domcyrus/rustnet](https://github.com/domcyrus/rustnet)
-
-![](https://img.shields.io/github/stars/domcyrus/rustnet?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
-
-Cross-platform network monitoring TUI with process identification via eBPF/PKTAP and deep packet inspection
-
-**Why it is here:** eBPF/PKTAP nativo sin overhead kernel
-
-**Evidence record:** [Full evidence](../catalog/devops.md#domcyrus-rustnet-domcyrus-rustnet) · [data/latest.json](../data/latest.json)
-
----
-
 ### [Dragonfly](https://github.com/dragonflyoss/dragonfly2)
 
 ![](https://img.shields.io/github/stars/dragonflyoss/dragonfly2?style=flat-square&label=⭐) · Found in 2 active sources: avelino/awesome-go, MunGell/awesome-for-beginners
@@ -100,20 +54,6 @@ Provide efficient, stable and secure file distribution and image acceleration ba
 **Why it is here:** Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard...
 
 **Evidence record:** [Full evidence](../catalog/devops.md#dragonfly-dragonflyoss-dragonfly2) · [data/latest.json](../data/latest.json)
-
----
-
-### [k9s](https://github.com/derailed/k9s)
-
-![](https://img.shields.io/github/stars/derailed/k9s?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
-
-**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
-
-Kubernetes CLI to manage your clusters in style.
-
-**Why it is here:** Comunidad activa, mantenimiento constante
-
-**Evidence record:** [Full evidence](../catalog/devops.md#k9s-derailed-k9s) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -156,20 +96,6 @@ Workflow management system that makes it easy to take your data pipelines and ad
 **Why it is here:** Async-first, mejor performance en workflows I/O bound
 
 **Evidence record:** [Full evidence](../catalog/devops.md#prefect-core-prefecthq-prefect) · [data/latest.json](../data/latest.json)
-
----
-
-### [s5cmd](https://github.com/peak/s5cmd)
-
-![](https://img.shields.io/github/stars/peak/s5cmd?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
-
-**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
-
-Blazing fast S3 and local filesystem execution tool.
-
-**Why it is here:** Blazing fast S3 and local filesystem execution tool.
-
-**Evidence record:** [Full evidence](../catalog/devops.md#s5cmd-peak-s5cmd) · [data/latest.json](../data/latest.json)
 
 ---
 

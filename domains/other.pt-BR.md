@@ -2,7 +2,7 @@
 
 <p><sub>← [Voltar ao main](../README.pt-BR.md)</sub></p>
 
-**0 Revisado por humano · 0 Padrões populares · 11 Candidatos de IA · 0 Estado Needs Review**
+**0 Revisado por humano · 0 Padrões populares · 4 Candidatos de IA · 0 Estado Needs Review**
 
 Catálogo consultável: [TOOLS.md](../TOOLS.md) · Snapshot de evidências: [data/latest.json](../data/latest.json)
 
@@ -29,73 +29,17 @@ Structured, source-backed dataset tracking 96 AI-attributed workforce reductions
 
 ---
 
-### [beets](https://github.com/beetbox/beets)
+### [OpenLayers3](https://openlayers.org)
 
-![](https://img.shields.io/github/stars/beetbox/beets?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: agarrharr/awesome-cli-apps, vinta/awesome-python
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-A music library manager and MusicBrainz tagger.
-
-**Por que foi incluída:** Plugin ecosystem robusto, maneja formatos diversos (FLAC, MP3, AAC)
-
-**Registro de evidências:** [Evidência completa](../catalog/other.md#beets-beetbox-beets) · [data/latest.json](../data/latest.json)
-
----
-
-### [croc](https://github.com/schollz/croc)
-
-![](https://img.shields.io/github/stars/schollz/croc?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: agarrharr/awesome-cli-apps, avelino/awesome-go
+Encontrada em 2 fontes ativas: jivoi/awesome-osint, sorrycc/awesome-javascript
 
 **Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
 
-Easily and securely send files or folders from one computer to another.
+A high-performance, feature-packed library for all your mapping needs.
 
-**Por que foi incluída:** Zero config, seguro por defecto
+**Por que foi incluída:** Performance en datasets geoespaciales grandes
 
-**Registro de evidências:** [Evidência completa](../catalog/other.md#croc-schollz-croc) · [data/latest.json](../data/latest.json)
-
----
-
-### [mpv](https://mpv.io)
-
-Encontrada em 2 fontes ativas: agarrharr/awesome-cli-apps, jaywcjlove/awesome-mac
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-Free, open-source, and cross-platform media player. (https://github.com/mpv-player/mpv)
-
-**Por que foi incluída:** Altamente configurable, scripteable
-
-**Registro de evidências:** [Evidência completa](../catalog/other.md#mpv-mpv) · [data/latest.json](../data/latest.json)
-
----
-
-### [nautilustrader](https://github.com/nautechsystems/nautilus_trader)
-
-![](https://img.shields.io/github/stars/nautechsystems/nautilus_trader?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: wilsonfreitas/awesome-quant, rust-unofficial/awesome-rust
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-Python Rust A high-performance algorithmic trading platform and event-driven backtester.
-
-**Por que foi incluída:** Python Rust A high-performance algorithmic trading platform and event-driven backtester.
-
-**Registro de evidências:** [Evidência completa](../catalog/other.md#nautilustrader-nautechsystems-nautilus-trader) · [data/latest.json](../data/latest.json)
-
----
-
-### [QuantLib](https://github.com/lballabio/quantlib)
-
-![](https://img.shields.io/github/stars/lballabio/quantlib?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: wilsonfreitas/awesome-quant, fffaraz/awesome-cpp
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance.
-
-**Por que foi incluída:** Comunidad activa en finanzas cuantitativa
-
-**Registro de evidências:** [Evidência completa](../catalog/other.md#quantlib-lballabio-quantlib) · [data/latest.json](../data/latest.json)
+**Registro de evidências:** [Evidência completa](../catalog/other.md#openlayers3-openlayers) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -124,48 +68,6 @@ The Go Language library for SVG generation.
 **Por que foi incluída:** The Go Language library for SVG generation.
 
 **Registro de evidências:** [Evidência completa](../catalog/other.md#svgo-ajstarks-svgo) · [data/latest.json](../data/latest.json)
-
----
-
-### [tldr-pages](https://github.com/tldr-pages/tldr)
-
-![](https://img.shields.io/github/stars/tldr-pages/tldr?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: agarrharr/awesome-cli-apps, MunGell/awesome-for-beginners
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-Collaborative cheatsheets for console commands.
-
-**Por que foi incluída:** Contenido siempre actualizado por comunidad, formato simple y searcheable
-
-**Registro de evidências:** [Evidência completa](../catalog/other.md#tldr-pages-tldr-pages-tldr) · [data/latest.json](../data/latest.json)
-
----
-
-### [uk-company-number](https://github.com/borschai/uk-company-number)
-
-![](https://img.shields.io/github/stars/borschai/uk-company-number?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: wilsonfreitas/awesome-quant, jivoi/awesome-osint
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-Python Validate, format, and identify UK Companies House company numbers. Supports all 27 prefixes. PyPI
-
-**Por que foi incluída:** Python Validate, format, and identify UK Companies House company numbers. Supports all 27 prefixes. PyPI
-
-**Registro de evidências:** [Evidência completa](../catalog/other.md#uk-company-number-borschai-uk-company-number) · [data/latest.json](../data/latest.json)
-
----
-
-### [uk-sic-codes](https://github.com/borschai/uk-sic-codes)
-
-![](https://img.shields.io/github/stars/borschai/uk-sic-codes?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: wilsonfreitas/awesome-quant, jivoi/awesome-osint
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-Python UK SIC 2007 industry classification code lookup, search, and validation. 731 codes, 21 sections. PyPI
-
-**Por que foi incluída:** Python UK SIC 2007 industry classification code lookup, search, and validation. 731 codes, 21 sections. PyPI
-
-**Registro de evidências:** [Evidência completa](../catalog/other.md#uk-sic-codes-borschai-uk-sic-codes) · [data/latest.json](../data/latest.json)
 
 ---
 

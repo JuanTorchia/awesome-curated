@@ -2,7 +2,7 @@
 
 [All domains](../TOOLS.md) · [README](../README.md) · [Machine-readable evidence](../data/latest.json)
 
-Generated: 2026-10-18 · Tool entries: 75
+Generated: 2026-10-18 · Tool entries: 47
 
 ### <a id="sniffnet-gyulyvgc-sniffnet"></a>[Sniffnet](https://github.com/gyulyvgc/sniffnet)
 
@@ -16,79 +16,9 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-10-12
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 94 · observed 2026-10-05
-
----
-
-### <a id="ast-grep-ast-grep-ast-grep"></a>[ast-grep](https://github.com/ast-grep/ast-grep)
-
-**Label:** Worth Trying · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Summary:** A CLI tool for code structural search, lint and rewriting.
-
-**Why it is here:** Worth trying: structural search and rewrite by AST gives a stronger workflow than regex for codebase-wide changes.
-
-**Caveat:** Cross-source coverage is limited.
-
-[Reproducible example](../GUIDE.md#ast-grep)
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · BENCH · quality 91 · observed 2026-10-12
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
-
----
-
-### <a id="atac-julien-cpsn-atac"></a>[ATAC](https://github.com/julien-cpsn/atac)
-
-**Label:** Worth Trying · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Summary:** A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less.
-
-**Why it is here:** Worth trying: offline, account-less TUI API client in Rust; useful for developers who want Postman-like flows from the terminal.
-
-**Caveat:** Cross-source coverage is limited.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · BENCH · quality 91 · observed 2026-10-12
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
-
----
-
-### <a id="broot-canop-broot"></a>[broot](https://github.com/canop/broot)
-
-**Label:** Worth Trying · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Summary:** A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then cd to it; never lose track of file hierarchy while you search; manipulate your files, ...), further...
-
-**Why it is here:** Worth trying: fast terminal navigation for large directory trees, with a workflow meaningfully different from plain cd/find.
-
-**Caveat:** Cross-source coverage is limited.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · BENCH · quality 91 · observed 2026-10-12
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
-
----
-
-### <a id="intelli-shell-lasantosr-intelli-shell"></a>[intelli-shell](https://github.com/lasantosr/intelli-shell)
-
-**Label:** Worth Trying · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Summary:** Bookmark commands with placeholders and search or autocomplete at any time
-
-**Why it is here:** Worth trying: focused command bookmark/search workflow for terminal-heavy developers; useful without pretending to be a broad platform.
-
-**Caveat:** Cross-source coverage is limited.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · BENCH · quality 91 · observed 2026-10-12
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-19
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-10-19
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 88 · observed 2026-10-05
 
 ---
 
@@ -104,12 +34,12 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-12
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 92 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 94 · observed 2026-10-05
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-19
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-10-12
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 88 · observed 2026-10-05
 
 ---
 
@@ -125,10 +55,10 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 94 · observed 2026-10-05
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 88 · observed 2026-10-05
 
 ---
 
@@ -144,9 +74,9 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 94 · observed 2026-10-05
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 88 · observed 2026-10-05
 
 ---
 
@@ -162,9 +92,9 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 94 · observed 2026-10-05
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 88 · observed 2026-10-05
 
 ---
 
@@ -180,9 +110,9 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -198,9 +128,9 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 94 · observed 2026-10-05
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 88 · observed 2026-10-05
 
 ---
 
@@ -216,9 +146,9 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 94 · observed 2026-10-05
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 88 · observed 2026-10-05
 
 ---
 
@@ -234,44 +164,9 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
-
----
-
-### <a id="yt-dlp-yt-dlp-yt-dlp"></a>[yt-dlp](https://github.com/yt-dlp/yt-dlp)
-
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 3 active sources: agarrharr/awesome-cli-apps, jivoi/awesome-osint, vinta/awesome-python
-
-**Summary:** Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not...
-
-**Why it is here:** Coverage absurdo de plataformas (YouTube, Twitch, TikTok, etc)
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · BENCH · quality 91 · observed 2026-10-12
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-10-12
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
-
----
-
-### <a id="ajeetdsouza-zoxide-ajeetdsouza-zoxide"></a>[ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
-
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Summary:** A fast alternative to cd that learns your habits
-
-**Why it is here:** A fast alternative to cd that learns your habits
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · BENCH · quality 91 · observed 2026-10-12
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
 
 ---
 
@@ -287,8 +182,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 92 · observed 2026-10-12
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-19
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-10-12
 
 ---
 
@@ -304,25 +199,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
-
----
-
-### <a id="bartib-nikolassv-bartib"></a>[Bartib](https://github.com/nikolassv/bartib)
-
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Summary:** ] A simple timetracker for the command line
-
-**Why it is here:** ] A simple timetracker for the command line
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · BENCH · quality 91 · observed 2026-10-12
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-19
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
 
 ---
 
@@ -338,25 +216,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-10-12
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-10-12
-
----
-
-### <a id="boilr-tmrts-boilr"></a>[boilr](https://github.com/tmrts/boilr)
-
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
-
-**Summary:** Blazingly fast CLI tool for creating projects from boilerplate templates.
-
-**Why it is here:** Blazingly fast CLI tool for creating projects from boilerplate templates.
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · BENCH · quality 91 · observed 2026-10-12
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-10-12
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-10-19
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-10-19
 
 ---
 
@@ -372,8 +233,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 92 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-10-12
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -389,25 +250,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 92 · observed 2026-10-12
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-10-12
-
----
-
-### <a id="config-file-validator-boeing-config-file-validator"></a>[config-file-validator](https://github.com/boeing/config-file-validator)
-
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
-
-**Summary:** Cross Platform tool to validate configuration files.
-
-**Why it is here:** Mantenido por empresa seria (Boeing)
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · BENCH · quality 91 · observed 2026-10-12
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-10-12
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-10-12
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-10-19
 
 ---
 
@@ -423,42 +267,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 94 · observed 2026-10-05
-
----
-
-### <a id="dash-kapeli"></a>[Dash](https://kapeli.com/dash)
-
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: vuejs/awesome-vue, jaywcjlove/awesome-mac
-
-**Summary:** Offline API documentation browser for macOS with instant search access to Vue.js docs and 200+ other frameworks.
-
-**Why it is here:** Offline API documentation browser for macOS with instant search access to Vue.js docs and 200+ other frameworks.
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) · ROSTER · quality 94 · observed 2026-10-05
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-10-12
-
----
-
-### <a id="diskonaut-imsnif-diskonaut"></a>[diskonaut](https://github.com/imsnif/diskonaut)
-
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Summary:** Terminal visual disk space navigator
-
-**Why it is here:** Terminal visual disk space navigator
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · BENCH · quality 91 · observed 2026-10-12
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 88 · observed 2026-10-05
 
 ---
 
@@ -472,25 +282,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 94 · observed 2026-10-05
-
----
-
-### <a id="dust-bootandy-dust"></a>[dust](https://github.com/bootandy/dust)
-
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Summary:** A more intuitive version of du in Rust.
-
-**Why it is here:** A more intuitive version of du in Rust.
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · BENCH · quality 91 · observed 2026-10-12
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-19
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 88 · observed 2026-10-05
 
 ---
 
@@ -506,8 +299,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -523,76 +316,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-
----
-
-### <a id="fjira-mk-5-fjira"></a>[fjira](https://github.com/mk-5/fjira)
-
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
-
-**Summary:** A fuzzy-search based terminal UI application for Attlasian Jira
-
-**Why it is here:** A fuzzy-search based terminal UI application for Attlasian Jira
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · BENCH · quality 91 · observed 2026-10-12
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-10-12
-
----
-
-### <a id="fx-antonmedv-fx"></a>[fx](https://github.com/antonmedv/fx)
-
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
-
-**Summary:** Terminal JSON viewer & processor.
-
-**Why it is here:** Terminal JSON viewer & processor.
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · BENCH · quality 91 · observed 2026-10-12
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-10-12
-
----
-
-### <a id="fzf-junegunn-fzf"></a>[fzf](https://github.com/junegunn/fzf)
-
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
-
-**Summary:** A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
-
-**Why it is here:** A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git...
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · BENCH · quality 91 · observed 2026-10-12
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-10-12
-
----
-
-### <a id="ggc-bmf-san-ggc"></a>[ggc](https://github.com/bmf-san/ggc)
-
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
-
-**Summary:** A Git CLI tool with both traditional command-line and interactive incremental-search UI, workflow support, and configurable keybindings.
-
-**Why it is here:** keybindings customizables
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · BENCH · quality 91 · observed 2026-10-12
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -608,25 +333,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-10-12
-
----
-
-### <a id="grex-pemistahl-grex"></a>[grex](https://github.com/pemistahl/grex)
-
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Summary:** A command-line tool and library for generating regular expressions from user-provided test cases
-
-**Why it is here:** Simplifica regex creation para non-experts
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · BENCH · quality 91 · observed 2026-10-12
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 97 · observed 2026-10-19
 
 ---
 
@@ -642,25 +350,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 92 · observed 2026-10-12
-
----
-
-### <a id="helix-helix-editor-helix"></a>[helix](https://github.com/helix-editor/helix)
-
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Summary:** A post-modern modal text editor inspired by Neovim/Kakoune.
-
-**Why it is here:** Bindings sensatos por defecto vs Vim vanilla
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · BENCH · quality 91 · observed 2026-10-12
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-19
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-10-12
 
 ---
 
@@ -676,8 +367,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-10-12
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 92 · observed 2026-10-12
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-10-19
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-10-12
 
 ---
 
@@ -693,8 +384,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 92 · observed 2026-10-12
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-19
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-10-12
 
 ---
 
@@ -710,8 +401,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 92 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-10-12
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -727,25 +418,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-10-12
-
----
-
-### <a id="just-casey-just"></a>[just](https://github.com/casey/just)
-
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Summary:** A handy command runner for project-specific tasks
-
-**Why it is here:** Sintaxis limpia y legible vs Makefiles
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · BENCH · quality 91 · observed 2026-10-12
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-19
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-10-19
 
 ---
 
@@ -761,8 +435,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 92 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-10-12
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -778,8 +452,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-19
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
 
 ---
 
@@ -795,59 +469,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-10-12
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 94 · observed 2026-10-05
-
----
-
-### <a id="largemodgames-spotatui-largemodgames-spotatui"></a>[LargeModGames/spotatui](https://github.com/largemodgames/spotatui)
-
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Summary:** ] A Spotify terminal client with native streaming, synced lyrics, and real-time audio visualization
-
-**Why it is here:** ] A Spotify terminal client with native streaming, synced lyrics, and real-time audio visualization
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · BENCH · quality 91 · observed 2026-10-12
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
-
----
-
-### <a id="linus-mussmaecher-rucola-linus-mussmaecher-rucola"></a>[Linus-Mussmaecher/rucola](https://github.com/linus-mussmaecher/rucola)
-
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Summary:** Terminal-based markdown note manager.
-
-**Why it is here:** Escribir/organizar notas sin dejar terminal
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · BENCH · quality 91 · observed 2026-10-12
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
-
----
-
-### <a id="lstags-ivanilves-lstags"></a>[lstags](https://github.com/ivanilves/lstags)
-
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
-
-**Summary:** Tool and API to sync Docker images across different registries.
-
-**Why it is here:** Simple, hace una cosa bien
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · BENCH · quality 91 · observed 2026-10-12
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-10-12
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 97 · observed 2026-10-19
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 88 · observed 2026-10-05
 
 ---
 
@@ -863,8 +486,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · BENCH · quality 89 · observed 2026-10-12
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
 
 ---
 
@@ -880,8 +503,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 92 · observed 2026-10-12
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-10-12
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
 
 ---
 
@@ -897,8 +520,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 97 · observed 2026-10-12
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 97 · observed 2026-10-19
 
 ---
 
@@ -914,8 +537,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 94 · observed 2026-10-05
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 88 · observed 2026-10-05
 
 ---
 
@@ -931,8 +554,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-10-12
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 94 · observed 2026-10-05
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 97 · observed 2026-10-19
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 88 · observed 2026-10-05
 
 ---
 
@@ -948,8 +571,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 94 · observed 2026-10-05
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 88 · observed 2026-10-05
 
 ---
 
@@ -965,8 +588,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 92 · observed 2026-10-12
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-19
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-10-12
 
 ---
 
@@ -982,8 +605,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 94 · observed 2026-10-05
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-19
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 88 · observed 2026-10-05
 
 ---
 
@@ -999,8 +622,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-10-12
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-10-12
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-10-19
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-10-19
 
 ---
 
@@ -1016,8 +639,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 94 · observed 2026-10-05
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 88 · observed 2026-10-05
 
 ---
 
@@ -1033,8 +656,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-10-12
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 94 · observed 2026-10-05
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-10-19
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 88 · observed 2026-10-05
 
 ---
 
@@ -1050,8 +673,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 92 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-10-12
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -1067,25 +690,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-10-12
-
----
-
-### <a id="scc-boyter-scc"></a>[scc](https://github.com/boyter/scc)
-
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
-
-**Summary:** Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates.
-
-**Why it is here:** Sloc Cloc and Code, a very fast accurate code counter with complexity calculations and COCOMO estimates.
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · BENCH · quality 91 · observed 2026-10-12
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-10-12
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-19
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-10-19
 
 ---
 
@@ -1101,8 +707,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 92 · observed 2026-10-12
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-19
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-10-12
 
 ---
 
@@ -1118,42 +724,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-10-12
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 94 · observed 2026-10-05
-
----
-
-### <a id="sharkdp-bat-sharkdp-bat"></a>[sharkdp/bat](https://github.com/sharkdp/bat)
-
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Summary:** A cat(1) clone with wings.
-
-**Why it is here:** A cat(1) clone with wings.
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · BENCH · quality 91 · observed 2026-10-12
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
-
----
-
-### <a id="sharkdp-fd-sharkdp-fd"></a>[sharkdp/fd](https://github.com/sharkdp/fd)
-
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Summary:** A simple, fast and user-friendly alternative to find.
-
-**Why it is here:** UX drasticamente mejorada vs find (sintaxis natural)
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · BENCH · quality 91 · observed 2026-10-12
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 97 · observed 2026-10-19
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 88 · observed 2026-10-05
 
 ---
 
@@ -1169,8 +741,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 92 · observed 2026-10-12
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-19
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-10-12
 
 ---
 
@@ -1186,42 +758,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 92 · observed 2026-10-12
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-12
-
----
-
-### <a id="television-alexpasmantier-television"></a>[television](https://github.com/alexpasmantier/television)
-
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Summary:** A blazing fast general purpose fuzzy finder TUI
-
-**Why it is here:** Blazing fast, lag-free en datasets enormes
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · BENCH · quality 91 · observed 2026-10-12
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
-
----
-
-### <a id="water-run-treepp-water-run-treepp"></a>[Water-Run/treepp](https://github.com/water-run/treepp)
-
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Summary:** A Rust-based native Windows tree replacement with diff-level input/output compatibility on successful runs, many more features including essential exclusions and .gitignore support, and several-times faster performance.
-
-**Why it is here:** Performance significativa vs tree nativo Windows
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · BENCH · quality 91 · observed 2026-10-12
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-10-12
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
 
 ---
 
@@ -1237,8 +775,8 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 92 · observed 2026-10-12
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 89 · observed 2026-10-12
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-10-12
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
 
 ---
 
@@ -1254,41 +792,24 @@ Generated: 2026-10-18 · Tool entries: 75
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 92 · observed 2026-10-12
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-10-12
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 84 · observed 2026-10-12
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-10-19
 
 ---
 
-### <a id="xplr-sayanarijit-xplr"></a>[xplr](https://github.com/sayanarijit/xplr)
+### <a id="yt-dlp-yt-dlp-yt-dlp"></a>[yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: jivoi/awesome-osint, vinta/awesome-python
 
-**Summary:** A hackable, minimal, fast TUI file explorer.
+**Summary:** Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not...
 
-**Why it is here:** A hackable, minimal, fast TUI file explorer.
+**Why it is here:** Coverage absurdo de plataformas (YouTube, Twitch, TikTok, etc)
 
 **Caveat:** Candidate still needs human review before endorsement.
 
 **Source traces:**
 
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · BENCH · quality 91 · observed 2026-10-12
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
-
----
-
-### <a id="yazi-sxyazi-yazi"></a>[yazi](https://github.com/sxyazi/yazi)
-
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust
-
-**Summary:** Blazing fast terminal file manager, based on async I/O.
-
-**Why it is here:** Blazing fast terminal file manager, based on async I/O.
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) · BENCH · quality 91 · observed 2026-10-12
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-12
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-10-19
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
 
 ---

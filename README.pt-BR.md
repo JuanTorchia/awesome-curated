@@ -20,31 +20,10 @@ Ler em outros idiomas: [🇬🇧 English](README.md) · [🇪🇸 Español](READ
 
 | Tarefa | Ferramenta | Experimente |
 |---|---|---|
-| Buscar e reescrever código | [ast-grep](https://github.com/ast-grep/ast-grep) · Worth Trying | [Experimente](GUIDE.md#ast-grep) |
 | Validar um formulário | [Vest](https://github.com/ealush/vest) · Worth Trying | [Experimente](GUIDE.md#vest) |
 | Inspecionar um modelo | [Netron](https://github.com/lutzroeder/netron) · Human Pick | [Experimente](GUIDE.md#netron) |
 
 [Exemplos reproduzíveis](GUIDE.md) · Inglês / espanhol · versões fixas, dados de teste, resultados e limites. Testes automatizados não alteram os vereditos.
-
-### Um resultado antes de instalar
-
-**Antes**
-
-```js
-// console.log("comment")
-const text = "console.log(123)";
-console.log("hello");
-```
-
-**Depois**
-
-```js
-// console.log("comment")
-const text = "console.log(123)";
-logger.info("hello");
-```
-
-ast-grep 0.51.0 reescreve uma chamada JavaScript; o comentário e a string permanecem iguais. O teste verifica a sintaxe, não se trocar o logger preserva o comportamento da aplicação. [Experimente](GUIDE.md#ast-grep).
 
 ---
 
@@ -64,14 +43,14 @@ Algum exemplo foi útil? Dê uma estrela no [repo](https://github.com/JuanTorchi
 - **Catálogo consultável**: [TOOLS.md](TOOLS.md)
 - **Padrões populares**: 1
 - **Estado Needs Review (rever referências)**: 0
-- **AI Candidates aguardando aprovação humana**: 229
+- **AI Candidates aguardando aprovação humana**: 183
 - Os candidatos não foram recomendados por Juan. Consulte o catálogo e as páginas por domínio.
 
 ---
 
 ## 🗺️ Encontre seu stack
 
-[🌐 **Web** · 11](domains/web.pt-BR.md) · [🤖 **IA e ML** · 79](domains/ai-ml.pt-BR.md) · [🛠️ **DevOps** · 12](domains/devops.pt-BR.md) · [📱 **Mobile** · 1](domains/mobile.pt-BR.md) · [💾 **Dados e Bancos** · 45](domains/data.pt-BR.md) · [🔐 **Segurança e Cripto** · 9](domains/security.pt-BR.md) · [⚡ **Performance** · 3](domains/performance.pt-BR.md) · [🧰 **Ferramentas Dev** · 75](domains/tooling.pt-BR.md) · [🎨 **Outros** · 11](domains/other.pt-BR.md)
+[🌐 **Web** · 12](domains/web.pt-BR.md) · [🤖 **IA e ML** · 77](domains/ai-ml.pt-BR.md) · [🛠️ **DevOps** · 7](domains/devops.pt-BR.md) · [📱 **Mobile** · 2](domains/mobile.pt-BR.md) · [💾 **Dados e Bancos** · 36](domains/data.pt-BR.md) · [🔐 **Segurança e Cripto** · 9](domains/security.pt-BR.md) · [⚡ **Performance** · 3](domains/performance.pt-BR.md) · [🧰 **Ferramentas Dev** · 47](domains/tooling.pt-BR.md) · [🎨 **Outros** · 4](domains/other.pt-BR.md)
 
 ---
 
@@ -90,7 +69,7 @@ Ferramentas revisadas por pessoas e as tarefas que ajudam a resolver.
 
 <!-- pick:evidence -->
 
-**Evidência:** Encontrada em 4 fontes ativas: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more · [referências](data/latest.json)
+**Evidência:** Encontrada em 5 fontes ativas: sorrycc/awesome-javascript, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +2 more · [referências](data/latest.json)
 
 <!-- pick:review -->
 
@@ -175,15 +154,15 @@ Ferramentas revisadas por pessoas e as tarefas que ajudam a resolver.
 
 ---
 
-## Candidatos à revisão humana
+## Alterações do catálogo
 
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Dev Tooling · Found in 3 active sources: agarrharr/awesome-cli-apps, jivoi/awesome-osint, vinta/awesome-python
-- [Deepchecks](https://github.com/deepchecks/deepchecks) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
-- [Colossal-AI](https://github.com/hpcaitech/colossalai) — Dev Tooling · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, MunGell/awesome-for-beginners
-- [Feature Engine](https://github.com/feature-engine/feature_engine) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
-- [askbudi/roundtable](https://github.com/askbudi/roundtable) — AI & ML · Found in 2 active sources: vuejs/awesome-vue, punkpeye/awesome-mcp-servers
+- [Ghost](https://github.com/tryghost/ghost) — newly reviewed · Worth Trying: Editor intuitivo con preview real-time
+- [NativeScript](https://github.com/nativescript/nativescript) — newly reviewed · Worth Trying: Curado tras research: solido pero tangencial al foco backend/Java.
+- [pouchdb](https://github.com/pouchdb/pouchdb) — newly reviewed · Worth Trying: Javascript db inspired by Apache CouchDB to run well within the browser.
+- [Apache ECharts](https://github.com/apache/echarts) — newly reviewed · AI Candidate: Rendering performante incluso con datasets grandes
+- [OpenLayers3](https://openlayers.org) — newly reviewed · AI Candidate: Performance en datasets geoespaciales grandes
 
-Candidatos não são recomendações pessoais. Peça uma revisão via GitHub issues ou consulte a fila completa em TOOLS.md. [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) · [TOOLS.md](TOOLS.md)
+See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
 
 ---
 
@@ -193,36 +172,37 @@ Candidatos não são recomendações pessoais. Peça uma revisão via GitHub iss
 
 | Tool | O que faz | Sinal |
 |---|---|---|
-| 👤 [**Vest**](https://github.com/ealush/vest) | Validations framework inspired by unit testing frameworks. | Found in 2 active sources: vuejs/awesome-vue, MunGell/awesome-for-beginners · Worth Trying |
+| 👤 [**Vest**](https://github.com/ealush/vest) | Validations framework inspired by unit testing frameworks. | Found in 2 active sources: sorrycc/awesome-javascript, MunGell/awesome-for-beginners · Worth Trying |
 | [**D3js**](https://d3js.org) | is a powerful data visualization javascript library. | Found in 2 active sources: jivoi/awesome-osint, academic/awesome-datascience · AI Candidate |
 | [**grpc**](https://github.com/grpc/grpc) | Remote Procedure Calls (RPCs) provide a useful abstraction for building distributed applications and services. The... | Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python · AI Candidate |
 
-📖 mais 8 na [página detalhada →](domains/web.pt-BR.md)
+📖 mais 9 na [página detalhada →](domains/web.pt-BR.md)
 
 ### 🤖 IA e ML
 
 | Tool | O que faz | Sinal |
 |---|---|---|
-| 👤 [**BayesWitnesses/m2cgen**](https://github.com/bayeswitnesses/m2cgen) | A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies. | Found in 4 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more · Human Pick |
+| 👤 [**BayesWitnesses/m2cgen**](https://github.com/bayeswitnesses/m2cgen) | A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies. | Found in 5 active sources: sorrycc/awesome-javascript, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +2 more · Human Pick |
 | 👤 [**Netron**](https://github.com/lutzroeder/netron) | Netron is a viewer for neural network, deep learning and machine learning models. | Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning · Human Pick |
 | 👤 [**Mem0**](https://github.com/mem0ai/mem0) | Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions. | Found in 3 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python, MunGell/awesome-for-beginners · Worth Trying |
 
-📖 mais 76 na [página detalhada →](domains/ai-ml.pt-BR.md)
+📖 mais 74 na [página detalhada →](domains/ai-ml.pt-BR.md)
 
 ### 🛠️ DevOps
 
 | Tool | O que faz | Sinal |
 |---|---|---|
-| 👤 [**bandwhich**](https://github.com/imsnif/bandwhich) | Track bandwidth utilization by process. | Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust · Worth Trying |
 | [**BorgBackup**](https://github.com/borgbackup/borg) | Deduplicating backup program with compression and authenticated encryption. | Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners · AI Candidate |
-| [**ctop**](https://github.com/bcicen/ctop) | interface (e.g. htop) for container metrics. | Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go · AI Candidate |
+| [**Dragonfly**](https://github.com/dragonflyoss/dragonfly2) | Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best... | Found in 2 active sources: avelino/awesome-go, MunGell/awesome-for-beginners · AI Candidate |
+| [**Luigi**](https://github.com/spotify/luigi) | Luigi is a Python module that helps you build complex pipelines of batch jobs, handling dependency resolution,... | Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python · AI Candidate |
 
-📖 mais 9 na [página detalhada →](domains/devops.pt-BR.md)
+📖 mais 4 na [página detalhada →](domains/devops.pt-BR.md)
 
 ### 📱 Mobile
 
 | Tool | O que faz | Sinal |
 |---|---|---|
+| 👤 [**NativeScript**](https://github.com/nativescript/nativescript) | NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like... | Found in 2 active sources: sorrycc/awesome-javascript, MunGell/awesome-for-beginners · Worth Trying |
 | [**RunAnywhere**](https://github.com/runanywhereai/runanywhere-sdks) | RunAnywhere is a production-ready SDK for running AI models (LLMs, speech-to-text, text-to-speech) on-device for... | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning · AI Candidate |
 
 📖 [Página completa do domínio →](domains/mobile.pt-BR.md)
@@ -231,11 +211,11 @@ Candidatos não são recomendações pessoais. Peça uma revisão via GitHub iss
 
 | Tool | O que faz | Sinal |
 |---|---|---|
+| 👤 [**pouchdb**](https://github.com/pouchdb/pouchdb) | Javascript db inspired by Apache CouchDB to run well within the browser. | Found in 2 active sources: sorrycc/awesome-javascript, MunGell/awesome-for-beginners · Worth Trying |
 | [**gradio**](https://github.com/gradio-app/gradio) | Quickly create and share demos of models by only writing Python. Debug models interactively in your browser, get... | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python · AI Candidate |
 | [**matplotlib**](https://github.com/matplotlib/matplotlib) | A Python 2D plotting library which produces publication-quality figures in a variety of hardcopy formats and... | Found in 3 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python, MunGell/awesome-for-beginners · AI Candidate |
-| [**Streamlit**](https://github.com/streamlit/streamlit) | Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts. It... | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python · AI Candidate |
 
-📖 mais 42 na [página detalhada →](domains/data.pt-BR.md)
+📖 mais 33 na [página detalhada →](domains/data.pt-BR.md)
 
 ### 🔐 Segurança e Cripto
 
@@ -262,20 +242,20 @@ Candidatos não são recomendações pessoais. Peça uma revisão via GitHub iss
 | Tool | O que faz | Sinal |
 |---|---|---|
 | 👤 [**Sniffnet**](https://github.com/gyulyvgc/sniffnet) | Cross-platform application to monitor your network traffic with ease | Found in 3 active sources: rust-unofficial/awesome-rust, jaywcjlove/awesome-mac, MunGell/awesome-for-beginners · Human Pick |
-| 👤 [**ast-grep**](https://github.com/ast-grep/ast-grep) | A CLI tool for code structural search, lint and rewriting. | Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust · Worth Trying |
-| 👤 [**ATAC**](https://github.com/julien-cpsn/atac) | A feature-full TUI API client made in Rust. ATAC is free, open-source, offline and account-less. | Found in 2 active sources: agarrharr/awesome-cli-apps, rust-unofficial/awesome-rust · Worth Trying |
+| [**Pytorch**](https://github.com/pytorch/pytorch) | PyTorch is an open source machine learning library based on the Torch library, used for applications such as... | Found in 6 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, fffaraz/awesome-cpp +3 more · Popular Standard |
+| [**Bokeh**](https://github.com/bokeh/bokeh) | Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation... | Found in 4 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python +1 more · AI Candidate |
 
-📖 mais 72 na [página detalhada →](domains/tooling.pt-BR.md)
+📖 mais 44 na [página detalhada →](domains/tooling.pt-BR.md)
 
 ### 🎨 Outros
 
 | Tool | O que faz | Sinal |
 |---|---|---|
 | [**AI Job Displacement Tracker**](https://github.com/noahaust2/ai-displacement-tracker) | Structured, source-backed dataset tracking 96 AI-attributed workforce reductions (457K workers affected, 13... | Found in 2 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience · AI Candidate |
-| [**beets**](https://github.com/beetbox/beets) | A music library manager and MusicBrainz tagger. | Found in 2 active sources: agarrharr/awesome-cli-apps, vinta/awesome-python · AI Candidate |
-| [**croc**](https://github.com/schollz/croc) | Easily and securely send files or folders from one computer to another. | Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go · AI Candidate |
+| [**OpenLayers3**](https://openlayers.org) | A high-performance, feature-packed library for all your mapping needs. | Found in 2 active sources: jivoi/awesome-osint, sorrycc/awesome-javascript · AI Candidate |
+| [**Reeder 5**](https://reederapp.com) | News reader for Feedbin, Feedly, Feed Wrangler and so on. (https://apps.apple.com/pl/app/reeder-5/id1529448980?platfo... | Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac · AI Candidate |
 
-📖 mais 8 na [página detalhada →](domains/other.pt-BR.md)
+📖 mais 1 na [página detalhada →](domains/other.pt-BR.md)
 
 ---
 

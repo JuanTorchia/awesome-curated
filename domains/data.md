@@ -2,9 +2,27 @@
 
 <p><sub>← [Back to main](../README.md)</sub></p>
 
-**0 Human reviewed · 0 Popular standards · 45 AI candidates · 0 Needs Review**
+**1 Human reviewed · 0 Popular standards · 35 AI candidates · 0 Needs Review**
 
 Inspectable catalog: [TOOLS.md](../TOOLS.md) · Evidence snapshot: [data/latest.json](../data/latest.json)
+
+---
+
+## Human-reviewed picks
+
+Tools with a human review label and visible caveats.
+
+### 👤 [pouchdb](https://github.com/pouchdb/pouchdb)
+
+![](https://img.shields.io/github/stars/pouchdb/pouchdb?style=flat-square&label=⭐) · Found in 2 active sources: sorrycc/awesome-javascript, MunGell/awesome-for-beginners
+
+**Review:** Worth Trying · **Caveat / review:** Cross-source coverage is limited.
+
+Javascript db inspired by Apache CouchDB to run well within the browser.
+
+**Why it is here:** Javascript db inspired by Apache CouchDB to run well within the browser.
+
+**Evidence record:** [Full evidence](../catalog/data.md#pouchdb-pouchdb-pouchdb) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -82,6 +100,20 @@ Data Pipeline framework built in Python, including scheduler, DAG definition and
 **Why it is here:** Data Pipeline framework built in Python, including scheduler, DAG definition and a UI for visualisation.
 
 **Evidence record:** [Full evidence](../catalog/data.md#apache-airflow-apache-airflow) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Apache ECharts](https://github.com/apache/echarts)
+
+![](https://img.shields.io/github/stars/apache/echarts?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, sorrycc/awesome-javascript
+
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
+
+Apache ECharts is a powerful, interactive charting and data visualization library for browser.
+
+**Why it is here:** Rendering performante incluso con datasets grandes
+
+**Evidence record:** [Full evidence](../catalog/data.md#apache-echarts-apache-echarts) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -169,20 +201,6 @@ A data orchestrator for machine learning, analytics, and ETL.
 
 ---
 
-### [dasel](https://github.com/tomwright/dasel)
-
-![](https://img.shields.io/github/stars/tomwright/dasel?style=flat-square&label=⭐) · Found in 2 active sources: agarrharr/awesome-cli-apps, avelino/awesome-go
-
-**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
-
-Query and update data structures using selectors from the command line. Comparable to jq/yq but supports JSON, YAML, TOML and XML with zero runtime dependencies.
-
-**Why it is here:** Sintaxis consistente vs aprender jq Y yq por separado
-
-**Evidence record:** [Full evidence](../catalog/data.md#dasel-tomwright-dasel) · [data/latest.json](../data/latest.json)
-
----
-
 ### [Dask](https://github.com/dask/dask)
 
 ![](https://img.shields.io/github/stars/dask/dask?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
@@ -208,20 +226,6 @@ A library to compare Pandas, Polars, and Spark data frames. It provides stats an
 **Why it is here:** A library to compare Pandas, Polars, and Spark data frames. It provides stats and lets users adjust for match accuracy.
 
 **Evidence record:** [Full evidence](../catalog/data.md#datacompy-capitalone-datacompy) · [data/latest.json](../data/latest.json)
-
----
-
-### [DataFrames](https://github.com/juliadata/dataframes.jl)
-
-![](https://img.shields.io/github/stars/juliadata/dataframes.jl?style=flat-square&label=⭐) · Found in 2 active sources: wilsonfreitas/awesome-quant, josephmisiti/awesome-machine-learning
-
-**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
-
-library for working with tabular data in Julia.
-
-**Why it is here:** Performance cercana a C para operaciones matriciales
-
-**Evidence record:** [Full evidence](../catalog/data.md#dataframes-juliadata-dataframes-jl) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -253,20 +257,6 @@ Dolt is a SQL database that you can fork, clone, branch, merge, push and pull ju
 
 ---
 
-### [edgartools](https://github.com/dgunning/edgartools)
-
-![](https://img.shields.io/github/stars/dgunning/edgartools?style=flat-square&label=⭐) · Found in 2 active sources: wilsonfreitas/awesome-quant, vinta/awesome-python
-
-**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
-
-Python AI-native SEC EDGAR library with XBRL financials, clean text extraction, 17+ typed forms, and pandas DataFrames.
-
-**Why it is here:** Python AI-native SEC EDGAR library with XBRL financials, clean text extraction, 17+ typed forms, and pandas DataFrames.
-
-**Evidence record:** [Full evidence](../catalog/data.md#edgartools-dgunning-edgartools) · [data/latest.json](../data/latest.json)
-
----
-
 ### [Gephi](https://gephi.org)
 
 Found in 2 active sources: jivoi/awesome-osint, academic/awesome-datascience
@@ -295,7 +285,35 @@ A data visualization package based on the grammar of graphics.
 
 ---
 
-_Showing 20 of 45. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+### [Hamilton](https://github.com/dagworks-inc/hamilton)
+
+![](https://img.shields.io/github/stars/dagworks-inc/hamilton?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
+
+Hamilton is a micro-orchestration framework for defining dataflows. Runs anywhere python runs (e.g. jupyter, fastAPI, spark, ray, dask). Brings software engineering best practices without you knowing it. Use it to...
+
+**Why it is here:** Micro-orquestador para dataflows (feature eng, pipelines, LLM workflows). Python-first, corre en Jupyter/FastAPI/Spark/Ray. Resuelve problema:...
+
+**Evidence record:** [Full evidence](../catalog/data.md#hamilton-dagworks-inc-hamilton) · [data/latest.json](../data/latest.json)
+
+---
+
+### [pandas](https://github.com/pandas-dev/pandas)
+
+![](https://img.shields.io/github/stars/pandas-dev/pandas?style=flat-square&label=⭐) · Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
+
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
+
+Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+
+**Why it is here:** Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects,...
+
+**Evidence record:** [Full evidence](../catalog/data.md#pandas-pandas-dev-pandas) · [data/latest.json](../data/latest.json)
+
+---
+
+_Showing 20 of 35. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

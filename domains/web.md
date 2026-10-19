@@ -2,7 +2,7 @@
 
 <p><sub>← [Back to main](../README.md)</sub></p>
 
-**1 Human reviewed · 0 Popular standards · 10 AI candidates · 0 Needs Review**
+**2 Human reviewed · 0 Popular standards · 10 AI candidates · 0 Needs Review**
 
 Inspectable catalog: [TOOLS.md](../TOOLS.md) · Evidence snapshot: [data/latest.json](../data/latest.json)
 
@@ -12,9 +12,23 @@ Inspectable catalog: [TOOLS.md](../TOOLS.md) · Evidence snapshot: [data/latest.
 
 Tools with a human review label and visible caveats.
 
+### 👤 [Ghost](https://github.com/tryghost/ghost)
+
+![](https://img.shields.io/github/stars/tryghost/ghost?style=flat-square&label=⭐) · Found in 2 active sources: sorrycc/awesome-javascript, MunGell/awesome-for-beginners
+
+**Review:** Worth Trying · **Caveat / review:** Cross-source coverage is limited.
+
+Just a blogging platform
+
+**Why it is here:** Editor intuitivo con preview real-time
+
+**Evidence record:** [Full evidence](../catalog/web.md#ghost-tryghost-ghost) · [data/latest.json](../data/latest.json)
+
+---
+
 ### 👤 [Vest](https://github.com/ealush/vest)
 
-![](https://img.shields.io/github/stars/ealush/vest?style=flat-square&label=⭐) · Found in 2 active sources: vuejs/awesome-vue, MunGell/awesome-for-beginners
+![](https://img.shields.io/github/stars/ealush/vest?style=flat-square&label=⭐) · Found in 2 active sources: sorrycc/awesome-javascript, MunGell/awesome-for-beginners
 
 **Review:** Worth Trying · **Caveat / review:** Cross-source coverage is limited.
 
