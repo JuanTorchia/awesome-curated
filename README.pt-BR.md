@@ -8,7 +8,7 @@ Ler em outros idiomas: [🇬🇧 English](README.md) · [🇪🇸 Español](READ
 
 [![Human Picks](https://img.shields.io/badge/Human_Picks-5-gold?style=for-the-badge)](#human-reviewed-picks)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](SOURCES.md)
-[![Updated](https://img.shields.io/badge/Updated-2026-10-18-green?style=for-the-badge)](UPDATE-SUMMARY.md)
+[![Updated](https://img.shields.io/badge/Updated-2026-10-19-green?style=for-the-badge)](UPDATE-SUMMARY.md)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -33,7 +33,7 @@ Algum exemplo foi útil? Dê uma estrela no [repo](https://github.com/JuanTorchi
 
 ### Snapshot de confiança
 
-- **Última atualização gerada**: 2026-10-18
+- **Última atualização gerada**: 2026-10-19
 - **fontes ativas**: 20
 - **Human Picks**: 5
 - **Metodologia**: [METHODOLOGY.md](METHODOLOGY.md)
@@ -154,15 +154,15 @@ Ferramentas revisadas por pessoas e as tarefas que ajudam a resolver.
 
 ---
 
-## Alterações do catálogo
+## Candidatos à revisão humana
 
-- [Ghost](https://github.com/tryghost/ghost) — newly reviewed · Worth Trying: Editor intuitivo con preview real-time
-- [NativeScript](https://github.com/nativescript/nativescript) — newly reviewed · Worth Trying: Curado tras research: solido pero tangencial al foco backend/Java.
-- [pouchdb](https://github.com/pouchdb/pouchdb) — newly reviewed · Worth Trying: Javascript db inspired by Apache CouchDB to run well within the browser.
-- [Apache ECharts](https://github.com/apache/echarts) — newly reviewed · AI Candidate: Rendering performante incluso con datasets grandes
-- [OpenLayers3](https://openlayers.org) — newly reviewed · AI Candidate: Performance en datasets geoespaciales grandes
+- [Deepchecks](https://github.com/deepchecks/deepchecks) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
+- [Colossal-AI](https://github.com/hpcaitech/colossalai) — Dev Tooling · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, MunGell/awesome-for-beginners
+- [Feature Engine](https://github.com/feature-engine/feature_engine) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
+- [Cython](https://github.com/cython/cython) — Performance · Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python
+- [DEAP](https://github.com/deap/deap) — AI & ML · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
-See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
+Candidatos não são recomendações pessoais. Peça uma revisão via GitHub issues ou consulte a fila completa em TOOLS.md. [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) · [TOOLS.md](TOOLS.md)
 
 ---
 
