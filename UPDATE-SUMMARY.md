@@ -2,8 +2,8 @@
 
 ## Latest Sync
 
-- Date: 2026-10-21
-- Previous public commit: fef3d62df964
+- Date: 2026-10-22
+- Previous public commit: 1b6e44270f18
 - Evidence: [data/latest.json](data/latest.json)
 
 ## Current Snapshot
