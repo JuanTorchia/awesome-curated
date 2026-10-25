@@ -8,7 +8,7 @@
 
 [![Human Picks](https://img.shields.io/badge/Human_Picks-5-gold?style=for-the-badge)](#human-reviewed-picks)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](SOURCES.md)
-[![Updated](https://img.shields.io/badge/Updated-2026-10-23-green?style=for-the-badge)](UPDATE-SUMMARY.md)
+[![Updated](https://img.shields.io/badge/Updated-2026-10-24-green?style=for-the-badge)](UPDATE-SUMMARY.md)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -33,7 +33,7 @@
 
 ### 信任快照
 
-- **最新生成更新**: 2026-10-23
+- **最新生成更新**: 2026-10-24
 - **活跃来源**: 20
 - **Human Picks**: 5
 - **方法论**: [METHODOLOGY.md](METHODOLOGY.md)

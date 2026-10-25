@@ -1,6 +1,6 @@
 # Awesome Curated Sources
 
-Generated: 2026-10-23
+Generated: 2026-10-24
 
 Source count: 20
 

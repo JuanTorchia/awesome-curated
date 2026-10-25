@@ -2,7 +2,7 @@
 
 [All domains](../TOOLS.md) · [README](../README.md) · [Machine-readable evidence](../data/latest.json)
 
-Generated: 2026-10-23 · Tool entries: 4
+Generated: 2026-10-24 · Tool entries: 4
 
 ### <a id="ai-job-displacement-tracker-noahaust2-ai-displacement-tracker"></a>[AI Job Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker)
 

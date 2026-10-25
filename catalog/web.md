@@ -2,7 +2,7 @@
 
 [All domains](../TOOLS.md) · [README](../README.md) · [Machine-readable evidence](../data/latest.json)
 
-Generated: 2026-10-23 · Tool entries: 12
+Generated: 2026-10-24 · Tool entries: 12
 
 ### <a id="ghost-tryghost-ghost"></a>[Ghost](https://github.com/tryghost/ghost)
 
