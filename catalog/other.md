@@ -2,7 +2,7 @@
 
 [All domains](../TOOLS.md) · [README](../README.md) · [Machine-readable evidence](../data/latest.json)
 
-Generated: 2026-10-24 · Tool entries: 4
+Generated: 2026-10-25 · Tool entries: 7
 
 ### <a id="ai-job-displacement-tracker-noahaust2-ai-displacement-tracker"></a>[AI Job Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker)
 
@@ -16,8 +16,25 @@ Generated: 2026-10-24 · Tool entries: 4
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-19
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 99 · observed 2026-10-26
+- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-26
+
+---
+
+### <a id="nautilustrader-nautechsystems-nautilus-trader"></a>[nautilustrader](https://github.com/nautechsystems/nautilus_trader)
+
+**Label:** AI Candidate · **Domain:** Other · **Signal:** Found in 2 active sources: wilsonfreitas/awesome-quant, rust-unofficial/awesome-rust
+
+**Summary:** Python Rust A high-performance algorithmic trading platform and event-driven backtester.
+
+**Why it is here:** Python Rust A high-performance algorithmic trading platform and event-driven backtester.
+
+**Caveat:** Candidate still needs human review before endorsement.
+
+**Source traces:**
+
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-10-26
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-26
 
 ---
 
@@ -33,8 +50,25 @@ Generated: 2026-10-24 · Tool entries: 4
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-10-19
-- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) · BENCH · quality 86 · observed 2026-10-19
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-10-26
+- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) · BENCH · quality 88 · observed 2026-10-26
+
+---
+
+### <a id="quantlib-lballabio-quantlib"></a>[QuantLib](https://github.com/lballabio/quantlib)
+
+**Label:** AI Candidate · **Domain:** Other · **Signal:** Found in 2 active sources: wilsonfreitas/awesome-quant, fffaraz/awesome-cpp
+
+**Summary:** The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance.
+
+**Why it is here:** Comunidad activa en finanzas cuantitativa
+
+**Caveat:** Candidate still needs human review before endorsement.
+
+**Source traces:**
+
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-10-26
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 89 · observed 2026-10-26
 
 ---
 
@@ -50,24 +84,41 @@ Generated: 2026-10-24 · Tool entries: 4
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-10-19
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-10-19
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-10-26
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-10-26
 
 ---
 
-### <a id="svgo-ajstarks-svgo"></a>[SVGo](https://github.com/ajstarks/svgo)
+### <a id="uk-company-number-borschai-uk-company-number"></a>[uk-company-number](https://github.com/borschai/uk-company-number)
 
-**Label:** AI Candidate · **Domain:** Other · **Signal:** Found in 2 active sources: josephmisiti/awesome-machine-learning, avelino/awesome-go
+**Label:** AI Candidate · **Domain:** Other · **Signal:** Found in 2 active sources: wilsonfreitas/awesome-quant, jivoi/awesome-osint
 
-**Summary:** The Go Language library for SVG generation.
+**Summary:** Python Validate, format, and identify UK Companies House company numbers. Supports all 27 prefixes. PyPI
 
-**Why it is here:** The Go Language library for SVG generation.
+**Why it is here:** Python Validate, format, and identify UK Companies House company numbers. Supports all 27 prefixes. PyPI
 
 **Caveat:** Candidate still needs human review before endorsement.
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 84 · observed 2026-10-19
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 97 · observed 2026-10-19
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-10-26
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-10-26
+
+---
+
+### <a id="uk-sic-codes-borschai-uk-sic-codes"></a>[uk-sic-codes](https://github.com/borschai/uk-sic-codes)
+
+**Label:** AI Candidate · **Domain:** Other · **Signal:** Found in 2 active sources: wilsonfreitas/awesome-quant, jivoi/awesome-osint
+
+**Summary:** Python UK SIC 2007 industry classification code lookup, search, and validation. 731 codes, 21 sections. PyPI
+
+**Why it is here:** Python UK SIC 2007 industry classification code lookup, search, and validation. 731 codes, 21 sections. PyPI
+
+**Caveat:** Candidate still needs human review before endorsement.
+
+**Source traces:**
+
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-10-26
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-10-26
 
 ---

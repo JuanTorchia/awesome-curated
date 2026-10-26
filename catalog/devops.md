@@ -2,7 +2,7 @@
 
 [All domains](../TOOLS.md) · [README](../README.md) · [Machine-readable evidence](../data/latest.json)
 
-Generated: 2026-10-24 · Tool entries: 7
+Generated: 2026-10-25 · Tool entries: 7
 
 ### <a id="ansible-ansible-ansible"></a>[Ansible](https://github.com/ansible/ansible)
 
@@ -16,8 +16,8 @@ Generated: 2026-10-24 · Tool entries: 7
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 88 · observed 2026-10-05
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 91 · observed 2026-10-26
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 88 · observed 2026-10-05
 
 ---
 
@@ -33,8 +33,8 @@ Generated: 2026-10-24 · Tool entries: 7
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 88 · observed 2026-10-05
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 91 · observed 2026-10-26
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 88 · observed 2026-10-05
 
 ---
 
@@ -50,8 +50,8 @@ Generated: 2026-10-24 · Tool entries: 7
 
 **Source traces:**
 
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 97 · observed 2026-10-19
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 88 · observed 2026-10-05
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-10-26
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 88 · observed 2026-10-05
 
 ---
 
@@ -67,8 +67,8 @@ Generated: 2026-10-24 · Tool entries: 7
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 99 · observed 2026-10-26
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 91 · observed 2026-10-26
 
 ---
 
@@ -84,8 +84,8 @@ Generated: 2026-10-24 · Tool entries: 7
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-19
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 97 · observed 2026-10-19
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-26
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 97 · observed 2026-10-26
 
 ---
 
@@ -101,8 +101,8 @@ Generated: 2026-10-24 · Tool entries: 7
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 94 · observed 2026-10-19
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 99 · observed 2026-10-26
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 91 · observed 2026-10-26
 
 ---
 
@@ -118,7 +118,7 @@ Generated: 2026-10-24 · Tool entries: 7
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 96 · observed 2026-10-19
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · ROSTER · quality 88 · observed 2026-10-05
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 91 · observed 2026-10-26
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 88 · observed 2026-10-05
 
 ---

@@ -2,7 +2,7 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**1 人間レビュー済み · 0 広く使われる標準ツール · 35 AI 候補 · 0 Needs Review 状態**
+**1 人間レビュー済み · 0 広く使われる標準ツール · 27 AI 候補 · 0 Needs Review 状態**
 
 確認できるカタログ: [TOOLS.md](../TOOLS.md) · 根拠のスナップショット: [data/latest.json](../data/latest.json)
 
@@ -33,20 +33,6 @@ Javascript db inspired by Apache CouchDB to run well within the browser.
 
 複数ソースの条件を満たす自動候補です。人間による推薦ではありません。
 
-### [gradio](https://github.com/gradio-app/gradio)
-
-![](https://img.shields.io/github/stars/gradio-app/gradio?style=flat-square&label=⭐) · 掲載元 3 件のアクティブなソース: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
-
-**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
-
-Quickly create and share demos of models by only writing Python. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
-
-**掲載理由:** Simplicidad extrema para demos (write-once approach)
-
-**根拠の記録:** [根拠の詳細](../catalog/data.md#gradio-gradio-app-gradio) · [data/latest.json](../data/latest.json)
-
----
-
 ### [matplotlib](https://github.com/matplotlib/matplotlib)
 
 ![](https://img.shields.io/github/stars/matplotlib/matplotlib?style=flat-square&label=⭐) · 掲載元 3 件のアクティブなソース: EthicalML/awesome-production-machine-learning, vinta/awesome-python, MunGell/awesome-for-beginners
@@ -58,20 +44,6 @@ A Python 2D plotting library which produces publication-quality figures in a var
 **掲載理由:** APIs consistentes, composable transformers
 
 **根拠の記録:** [根拠の詳細](../catalog/data.md#matplotlib-matplotlib-matplotlib) · [data/latest.json](../data/latest.json)
-
----
-
-### [Streamlit](https://github.com/streamlit/streamlit)
-
-![](https://img.shields.io/github/stars/streamlit/streamlit?style=flat-square&label=⭐) · 掲載元 3 件のアクティブなソース: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
-
-**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
-
-Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts. It supports hot-reloading, so your app updates live as you edit and save your file.
-
-**掲載理由:** Deployable en minutos, zero JavaScript requerido
-
-**根拠の記録:** [根拠の詳細](../catalog/data.md#streamlit-streamlit-streamlit) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -114,48 +86,6 @@ Apache ECharts is a powerful, interactive charting and data visualization librar
 **掲載理由:** Rendering performante incluso con datasets grandes
 
 **根拠の記録:** [根拠の詳細](../catalog/data.md#apache-echarts-apache-echarts) · [data/latest.json](../data/latest.json)
-
----
-
-### [Bread Dataset Viewer](https://github.com/bread-technologies/mle_vscode_extension)
-
-![](https://img.shields.io/github/stars/bread-technologies/mle_vscode_extension?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
-
-**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
-
-A VS Code extension for viewing and exploring large machine learning datasets (CSV, JSON, Parquet, etc.) directly within the editor without VS Code crashing in a clean UI.
-
-**掲載理由:** A VS Code extension for viewing and exploring large machine learning datasets (CSV, JSON, Parquet, etc.) directly within the editor without VS...
-
-**根拠の記録:** [根拠の詳細](../catalog/data.md#bread-dataset-viewer-bread-technologies-mle-vscode-extension) · [data/latest.json](../data/latest.json)
-
----
-
-### [C3.js](https://c3js.org)
-
-掲載元 2 件のアクティブなソース: academic/awesome-datascience, josephmisiti/awesome-machine-learning
-
-**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
-
-customizable library based on D3.js for easy chart drawing.
-
-**掲載理由:** Comunidad activa, muchos ejemplos
-
-**根拠の記録:** [根拠の詳細](../catalog/data.md#c3-js-c3js) · [data/latest.json](../data/latest.json)
-
----
-
-### [cleanlab](https://github.com/cleanlab/cleanlab)
-
-![](https://img.shields.io/github/stars/cleanlab/cleanlab?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
-
-**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
-
-Python library for data-centric AI. Can automatically: find mislabeled data, detect outliers, estimate consensus + annotator-quality for multi-annotator datasets, suggest which data is best to (re)label next.
-
-**掲載理由:** Python library for data-centric AI. Can automatically: find mislabeled data, detect outliers, estimate consensus + annotator-quality for...
-
-**根拠の記録:** [根拠の詳細](../catalog/data.md#cleanlab-cleanlab-cleanlab) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -215,34 +145,6 @@ Distributed parallel processing framework for Pandas and NumPy computations.
 
 ---
 
-### [DataComPy](https://github.com/capitalone/datacompy)
-
-![](https://img.shields.io/github/stars/capitalone/datacompy?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: academic/awesome-datascience, josephmisiti/awesome-machine-learning
-
-**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
-
-A library to compare Pandas, Polars, and Spark data frames. It provides stats and lets users adjust for match accuracy.
-
-**掲載理由:** A library to compare Pandas, Polars, and Spark data frames. It provides stats and lets users adjust for match accuracy.
-
-**根拠の記録:** [根拠の詳細](../catalog/data.md#datacompy-capitalone-datacompy) · [data/latest.json](../data/latest.json)
-
----
-
-### [Deepnote](https://github.com/deepnote/deepnote)
-
-![](https://img.shields.io/github/stars/deepnote/deepnote?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
-
-**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
-
-Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for...
-
-**掲載理由:** Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL...
-
-**根拠の記録:** [根拠の詳細](../catalog/data.md#deepnote-deepnote-deepnote) · [data/latest.json](../data/latest.json)
-
----
-
 ### [Dolt](https://github.com/dolthub/dolt)
 
 ![](https://img.shields.io/github/stars/dolthub/dolt?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: EthicalML/awesome-production-machine-learning, avelino/awesome-go
@@ -254,6 +156,20 @@ Dolt is a SQL database that you can fork, clone, branch, merge, push and pull ju
 **掲載理由:** Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.
 
 **根拠の記録:** [根拠の詳細](../catalog/data.md#dolt-dolthub-dolt) · [data/latest.json](../data/latest.json)
+
+---
+
+### [edgartools](https://github.com/dgunning/edgartools)
+
+![](https://img.shields.io/github/stars/dgunning/edgartools?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: wilsonfreitas/awesome-quant, vinta/awesome-python
+
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
+
+Python AI-native SEC EDGAR library with XBRL financials, clean text extraction, 17+ typed forms, and pandas DataFrames.
+
+**掲載理由:** Python AI-native SEC EDGAR library with XBRL financials, clean text extraction, 17+ typed forms, and pandas DataFrames.
+
+**根拠の記録:** [根拠の詳細](../catalog/data.md#edgartools-dgunning-edgartools) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -271,31 +187,17 @@ is an open-source graph and network visualization software.
 
 ---
 
-### [ggplot2](https://ggplot2.tidyverse.org)
+### [gradio](https://github.com/gradio-app/gradio)
 
-掲載元 2 件のアクティブなソース: academic/awesome-datascience, josephmisiti/awesome-machine-learning
-
-**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
-
-A data visualization package based on the grammar of graphics.
-
-**掲載理由:** Sintaxis declarativa intuitiva, output publication-ready
-
-**根拠の記録:** [根拠の詳細](../catalog/data.md#ggplot2-ggplot2) · [data/latest.json](../data/latest.json)
-
----
-
-### [Hamilton](https://github.com/dagworks-inc/hamilton)
-
-![](https://img.shields.io/github/stars/dagworks-inc/hamilton?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/gradio-app/gradio?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
 
-Hamilton is a micro-orchestration framework for defining dataflows. Runs anywhere python runs (e.g. jupyter, fastAPI, spark, ray, dask). Brings software engineering best practices without you knowing it. Use it to...
+Quickly create and share demos of models by only writing Python. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
 
-**掲載理由:** Micro-orquestador para dataflows (feature eng, pipelines, LLM workflows). Python-first, corre en Jupyter/FastAPI/Spark/Ray. Resuelve problema:...
+**掲載理由:** Simplicidad extrema para demos (write-once approach)
 
-**根拠の記録:** [根拠の詳細](../catalog/data.md#hamilton-dagworks-inc-hamilton) · [data/latest.json](../data/latest.json)
+**根拠の記録:** [根拠の詳細](../catalog/data.md#gradio-gradio-app-gradio) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -313,7 +215,105 @@ Flexible and powerful data analysis / manipulation library for Python, providing
 
 ---
 
-_Showing 20 of 35. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+### [pathwaycom/pathway](https://github.com/pathwaycom/pathway)
+
+![](https://img.shields.io/github/stars/pathwaycom/pathway?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: rust-unofficial/awesome-rust, vinta/awesome-python
+
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
+
+Performant open-source Python ETL framework with Rust runtime, supporting 300+ data sources.
+
+**掲載理由:** Runtime Rust = performance y memory efficiency
+
+**根拠の記録:** [根拠の詳細](../catalog/data.md#pathwaycom-pathway-pathwaycom-pathway) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Perspective](https://github.com/finos/perspective)
+
+![](https://img.shields.io/github/stars/finos/perspective?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: EthicalML/awesome-production-machine-learning, jivoi/awesome-osint
+
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
+
+Streaming pivot visualization via WebAssembly.
+
+**掲載理由:** Performance WebAssembly para datasets masivos
+
+**根拠の記録:** [根拠の詳細](../catalog/data.md#perspective-finos-perspective) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Plotly](https://github.com/plotly/plotly.py)
+
+![](https://img.shields.io/github/stars/plotly/plotly.py?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
+
+An interactive, open source, and browser-based graphing library for Python.
+
+**掲載理由:** An interactive, open source, and browser-based graphing library for Python.
+
+**根拠の記録:** [根拠の詳細](../catalog/data.md#plotly-plotly-plotly-py) · [data/latest.json](../data/latest.json)
+
+---
+
+### [pola-rs/polars](https://github.com/pola-rs/polars)
+
+![](https://img.shields.io/github/stars/pola-rs/polars?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: rust-unofficial/awesome-rust, vinta/awesome-python
+
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
+
+Fast feature complete DataFrame library
+
+**掲載理由:** Lazy evaluation y query optimization integrados
+
+**根拠の記録:** [根拠の詳細](../catalog/data.md#pola-rs-polars-pola-rs-polars) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Rerun](https://github.com/rerun-io/rerun)
+
+![](https://img.shields.io/github/stars/rerun-io/rerun?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: EthicalML/awesome-production-machine-learning, rust-unofficial/awesome-rust
+
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
+
+Rerun is an open-source SDK for logging, storing, querying, and visualizing multimodal data, designed for robotics, computer vision, and spatial AI.
+
+**掲載理由:** Rerun is an open-source SDK for logging, storing, querying, and visualizing multimodal data, designed for robotics, computer vision, and spatial AI.
+
+**根拠の記録:** [根拠の詳細](../catalog/data.md#rerun-rerun-io-rerun) · [data/latest.json](../data/latest.json)
+
+---
+
+### [RisingWave](https://github.com/risingwavelabs/risingwave)
+
+![](https://img.shields.io/github/stars/risingwavelabs/risingwave?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: EthicalML/awesome-production-machine-learning, rust-unofficial/awesome-rust
+
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
+
+A distributed SQL streaming database that unifies stream processing and low-latency serving, ideal for building and serving features for online machine learning.
+
+**掲載理由:** PostgreSQL wire protocol, tooling existing
+
+**根拠の記録:** [根拠の詳細](../catalog/data.md#risingwave-risingwavelabs-risingwave) · [data/latest.json](../data/latest.json)
+
+---
+
+### [seaborn](https://github.com/mwaskom/seaborn)
+
+![](https://img.shields.io/github/stars/mwaskom/seaborn?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
+
+Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
+
+**掲載理由:** API declarativa + matplotlib power debajo
+
+**根拠の記録:** [根拠の詳細](../catalog/data.md#seaborn-mwaskom-seaborn) · [data/latest.json](../data/latest.json)
+
+---
+
+_Showing 20 of 27. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

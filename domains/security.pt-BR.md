@@ -2,7 +2,7 @@
 
 <p><sub>← [Voltar ao main](../README.pt-BR.md)</sub></p>
 
-**1 Revisado por humano · 0 Padrões populares · 8 Candidatos de IA · 0 Estado Needs Review**
+**1 Revisado por humano · 0 Padrões populares · 7 Candidatos de IA · 0 Estado Needs Review**
 
 Catálogo consultável: [TOOLS.md](../TOOLS.md) · Snapshot de evidências: [data/latest.json](../data/latest.json)
 
@@ -14,7 +14,7 @@ Ferramentas com avaliação humana e limites visíveis.
 
 ### 👤 [themis](https://github.com/cossacklabs/themis)
 
-![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · Encontrada em 3 fontes ativas: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go
+![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · Encontrada em 4 fontes ativas: matteocrippa/awesome-swift, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +1 more
 
 **Revisão:** Human Pick · **Nota / revisão:** Ferramenta sensível à segurança: avalie adequação e manutenção antes do uso em produção.
 
@@ -86,20 +86,6 @@ A fork of Firefox, focused on privacy, security and freedom. (https://gitlab.com
 **Por que foi incluída:** 🦀 🏠 🍎 🪟 🐧 Run untrusted Python/JavaScript code in WebAssembly sandboxes.
 
 **Registro de evidências:** [Evidência completa](../catalog/security.md#mavdol-capsule-mcp-server-mavdol-capsule) · [data/latest.json](../data/latest.json)
-
----
-
-### [Promptfoo](https://github.com/promptfoo/promptfoo)
-
-![](https://img.shields.io/github/stars/promptfoo/promptfoo?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-LLM red teaming and evaluation framework for testing jailbreaks, prompt injection, and other vulnerabilities with CI/CD integration.
-
-**Por que foi incluída:** CI/CD integration out-of-box
-
-**Registro de evidências:** [Evidência completa](../catalog/security.md#promptfoo-promptfoo-promptfoo) · [data/latest.json](../data/latest.json)
 
 ---
 

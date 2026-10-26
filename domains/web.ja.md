@@ -2,7 +2,7 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**2 人間レビュー済み · 0 広く使われる標準ツール · 10 AI 候補 · 0 Needs Review 状態**
+**2 人間レビュー済み · 0 広く使われる標準ツール · 9 AI 候補 · 0 Needs Review 状態**
 
 確認できるカタログ: [TOOLS.md](../TOOLS.md) · 根拠のスナップショット: [data/latest.json](../data/latest.json)
 
@@ -88,20 +88,6 @@ an HTTP implementation
 **掲載理由:** Arquitectura async/await limpia con Tokio
 
 **根拠の記録:** [根拠の詳細](../catalog/web.md#hyperium-hyper-hyperium-hyper) · [data/latest.json](../data/latest.json)
-
----
-
-### [juspay/neurolink](https://github.com/juspay/neurolink)
-
-![](https://img.shields.io/github/stars/juspay/neurolink?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: josephmisiti/awesome-machine-learning, punkpeye/awesome-mcp-servers
-
-**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
-
-📇 ☁️ 🏠 🍎 🪟 🐧 Making enterprise AI infrastructure universally accessible. Edge-first platform unifying 12 providers and 100+ models with multi-agent orchestration, HITL workflows, guardrails middleware, and...
-
-**掲載理由:** Middleware guardrails incluido
-
-**根拠の記録:** [根拠の詳細](../catalog/web.md#juspay-neurolink-juspay-neurolink) · [data/latest.json](../data/latest.json)
 
 ---
 

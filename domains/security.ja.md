@@ -2,7 +2,7 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**1 人間レビュー済み · 0 広く使われる標準ツール · 8 AI 候補 · 0 Needs Review 状態**
+**1 人間レビュー済み · 0 広く使われる標準ツール · 7 AI 候補 · 0 Needs Review 状態**
 
 確認できるカタログ: [TOOLS.md](../TOOLS.md) · 根拠のスナップショット: [data/latest.json](../data/latest.json)
 
@@ -14,7 +14,7 @@
 
 ### 👤 [themis](https://github.com/cossacklabs/themis)
 
-![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · 掲載元 3 件のアクティブなソース: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go
+![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · 掲載元 4 件のアクティブなソース: matteocrippa/awesome-swift, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +1 more
 
 **レビュー:** Human Pick · **注記 / レビュー:** 安全性に関わるツールです。本番利用前に適合性と保守状況を評価してください。
 
@@ -86,20 +86,6 @@ A fork of Firefox, focused on privacy, security and freedom. (https://gitlab.com
 **掲載理由:** 🦀 🏠 🍎 🪟 🐧 Run untrusted Python/JavaScript code in WebAssembly sandboxes.
 
 **根拠の記録:** [根拠の詳細](../catalog/security.md#mavdol-capsule-mcp-server-mavdol-capsule) · [data/latest.json](../data/latest.json)
-
----
-
-### [Promptfoo](https://github.com/promptfoo/promptfoo)
-
-![](https://img.shields.io/github/stars/promptfoo/promptfoo?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
-
-**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
-
-LLM red teaming and evaluation framework for testing jailbreaks, prompt injection, and other vulnerabilities with CI/CD integration.
-
-**掲載理由:** CI/CD integration out-of-box
-
-**根拠の記録:** [根拠の詳細](../catalog/security.md#promptfoo-promptfoo-promptfoo) · [data/latest.json](../data/latest.json)
 
 ---
 

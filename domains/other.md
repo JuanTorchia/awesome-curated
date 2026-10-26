@@ -2,7 +2,7 @@
 
 <p><sub>← [Back to main](../README.md)</sub></p>
 
-**0 Human reviewed · 0 Popular standards · 4 AI candidates · 0 Needs Review**
+**0 Human reviewed · 0 Popular standards · 7 AI candidates · 0 Needs Review**
 
 Inspectable catalog: [TOOLS.md](../TOOLS.md) · Evidence snapshot: [data/latest.json](../data/latest.json)
 
@@ -29,6 +29,20 @@ Structured, source-backed dataset tracking 96 AI-attributed workforce reductions
 
 ---
 
+### [nautilustrader](https://github.com/nautechsystems/nautilus_trader)
+
+![](https://img.shields.io/github/stars/nautechsystems/nautilus_trader?style=flat-square&label=⭐) · Found in 2 active sources: wilsonfreitas/awesome-quant, rust-unofficial/awesome-rust
+
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
+
+Python Rust A high-performance algorithmic trading platform and event-driven backtester.
+
+**Why it is here:** Python Rust A high-performance algorithmic trading platform and event-driven backtester.
+
+**Evidence record:** [Full evidence](../catalog/other.md#nautilustrader-nautechsystems-nautilus-trader) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [OpenLayers3](https://openlayers.org)
 
 Found in 2 active sources: jivoi/awesome-osint, sorrycc/awesome-javascript
@@ -40,6 +54,20 @@ A high-performance, feature-packed library for all your mapping needs.
 **Why it is here:** Performance en datasets geoespaciales grandes
 
 **Evidence record:** [Full evidence](../catalog/other.md#openlayers3-openlayers) · [data/latest.json](../data/latest.json)
+
+---
+
+### [QuantLib](https://github.com/lballabio/quantlib)
+
+![](https://img.shields.io/github/stars/lballabio/quantlib?style=flat-square&label=⭐) · Found in 2 active sources: wilsonfreitas/awesome-quant, fffaraz/awesome-cpp
+
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
+
+The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance.
+
+**Why it is here:** Comunidad activa en finanzas cuantitativa
+
+**Evidence record:** [Full evidence](../catalog/other.md#quantlib-lballabio-quantlib) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -57,17 +85,31 @@ News reader for Feedbin, Feedly, Feed Wrangler and so on. (https://apps.apple.co
 
 ---
 
-### [SVGo](https://github.com/ajstarks/svgo)
+### [uk-company-number](https://github.com/borschai/uk-company-number)
 
-![](https://img.shields.io/github/stars/ajstarks/svgo?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, avelino/awesome-go
+![](https://img.shields.io/github/stars/borschai/uk-company-number?style=flat-square&label=⭐) · Found in 2 active sources: wilsonfreitas/awesome-quant, jivoi/awesome-osint
 
 **Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
 
-The Go Language library for SVG generation.
+Python Validate, format, and identify UK Companies House company numbers. Supports all 27 prefixes. PyPI
 
-**Why it is here:** The Go Language library for SVG generation.
+**Why it is here:** Python Validate, format, and identify UK Companies House company numbers. Supports all 27 prefixes. PyPI
 
-**Evidence record:** [Full evidence](../catalog/other.md#svgo-ajstarks-svgo) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/other.md#uk-company-number-borschai-uk-company-number) · [data/latest.json](../data/latest.json)
+
+---
+
+### [uk-sic-codes](https://github.com/borschai/uk-sic-codes)
+
+![](https://img.shields.io/github/stars/borschai/uk-sic-codes?style=flat-square&label=⭐) · Found in 2 active sources: wilsonfreitas/awesome-quant, jivoi/awesome-osint
+
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
+
+Python UK SIC 2007 industry classification code lookup, search, and validation. 731 codes, 21 sections. PyPI
+
+**Why it is here:** Python UK SIC 2007 industry classification code lookup, search, and validation. 731 codes, 21 sections. PyPI
+
+**Evidence record:** [Full evidence](../catalog/other.md#uk-sic-codes-borschai-uk-sic-codes) · [data/latest.json](../data/latest.json)
 
 ---
 

@@ -2,7 +2,7 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**2 人工审核 · 0 常用标准工具 · 10 AI 候选工具 · 0 Needs Review 状态**
+**2 人工审核 · 0 常用标准工具 · 9 AI 候选工具 · 0 Needs Review 状态**
 
 可查阅目录: [TOOLS.md](../TOOLS.md) · 证据快照: [data/latest.json](../data/latest.json)
 
@@ -88,20 +88,6 @@ an HTTP implementation
 **收录原因:** Arquitectura async/await limpia con Tokio
 
 **证据记录:** [完整证据](../catalog/web.md#hyperium-hyper-hyperium-hyper) · [data/latest.json](../data/latest.json)
-
----
-
-### [juspay/neurolink](https://github.com/juspay/neurolink)
-
-![](https://img.shields.io/github/stars/juspay/neurolink?style=flat-square&label=⭐) · 收录于 2 个活跃来源: josephmisiti/awesome-machine-learning, punkpeye/awesome-mcp-servers
-
-**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
-
-📇 ☁️ 🏠 🍎 🪟 🐧 Making enterprise AI infrastructure universally accessible. Edge-first platform unifying 12 providers and 100+ models with multi-agent orchestration, HITL workflows, guardrails middleware, and...
-
-**收录原因:** Middleware guardrails incluido
-
-**证据记录:** [完整证据](../catalog/web.md#juspay-neurolink-juspay-neurolink) · [data/latest.json](../data/latest.json)
 
 ---
 

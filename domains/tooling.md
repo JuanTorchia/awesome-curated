@@ -2,7 +2,7 @@
 
 <p><sub>← [Back to main](../README.md)</sub></p>
 
-**1 Human reviewed · 1 Popular standards · 45 AI candidates · 0 Needs Review**
+**1 Human reviewed · 1 Popular standards · 37 AI candidates · 0 Needs Review**
 
 Inspectable catalog: [TOOLS.md](../TOOLS.md) · Evidence snapshot: [data/latest.json](../data/latest.json)
 
@@ -35,7 +35,7 @@ Useful standards included as reference, not necessarily emerging discoveries.
 
 ### [Pytorch](https://github.com/pytorch/pytorch)
 
-![](https://img.shields.io/github/stars/pytorch/pytorch?style=flat-square&label=⭐) · 🔥 **Found in 6 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, fffaraz/awesome-cpp +3 more**
+![](https://img.shields.io/github/stars/pytorch/pytorch?style=flat-square&label=⭐) · 🔥 **Found in 5 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, fffaraz/awesome-cpp +2 more**
 
 **Review:** Popular Standard · **Caveat / review:** Useful standard, but not a discovery or emerging pick.
 
@@ -56,7 +56,7 @@ Automated candidates with enough source signal; these are not human endorsements
 
 ### [Bokeh](https://github.com/bokeh/bokeh)
 
-![](https://img.shields.io/github/stars/bokeh/bokeh?style=flat-square&label=⭐) · Found in 4 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python +1 more
+![](https://img.shields.io/github/stars/bokeh/bokeh?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python, MunGell/awesome-for-beginners
 
 **Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
 
@@ -65,20 +65,6 @@ Bokeh is an interactive visualization library for Python that enables beautiful 
 **Why it is here:** Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation of data in modern web browsers.
 
 **Evidence record:** [Full evidence](../catalog/tooling.md#bokeh-bokeh-bokeh) · [data/latest.json](../data/latest.json)
-
----
-
-### [Colossal-AI](https://github.com/hpcaitech/colossalai)
-
-![](https://img.shields.io/github/stars/hpcaitech/colossalai?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, MunGell/awesome-for-beginners
-
-**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
-
-A unified deep learning system for big model era, which helps users to efficiently and quickly deploy large AI model training and inference.
-
-**Why it is here:** Optimizaciones specific para big models (tensor/pipeline parallelism)
-
-**Evidence record:** [Full evidence](../catalog/tooling.md#colossal-ai-hpcaitech-colossalai) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -93,62 +79,6 @@ Web interface python sandbox environments for reproducible development
 **Why it is here:** Web interface python sandbox environments for reproducible development
 
 **Evidence record:** [Full evidence](../catalog/tooling.md#jupyter-notebooks-jupyter-notebook) · [data/latest.json](../data/latest.json)
-
----
-
-### [LightGBM](https://github.com/microsoft/lightgbm)
-
-![](https://img.shields.io/github/stars/microsoft/lightgbm?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
-
-**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
-
-Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
-
-**Why it is here:** Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for...
-
-**Evidence record:** [Full evidence](../catalog/tooling.md#lightgbm-microsoft-lightgbm) · [data/latest.json](../data/latest.json)
-
----
-
-### [PyMC](https://github.com/pymc-devs/pymc)
-
-![](https://img.shields.io/github/stars/pymc-devs/pymc?style=flat-square&label=⭐) · Found in 3 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python, MunGell/awesome-for-beginners
-
-**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
-
-A Python library for Bayesian statistical modeling and probabilistic machine learning. Beginner-friendly with 'good first issue' labels.
-
-**Why it is here:** A Python library for Bayesian statistical modeling and probabilistic machine learning. Beginner-friendly with 'good first issue' labels.
-
-**Evidence record:** [Full evidence](../catalog/tooling.md#pymc-pymc-devs-pymc) · [data/latest.json](../data/latest.json)
-
----
-
-### [SymPy](https://github.com/sympy/sympy)
-
-![](https://img.shields.io/github/stars/sympy/sympy?style=flat-square&label=⭐) · Found in 3 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python, MunGell/awesome-for-beginners
-
-**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
-
-A Python library for symbolic mathematics.
-
-**Why it is here:** Capacidad de simplificar, derivar, integrar y resolver ecuaciones de forma exacta, no aproximada
-
-**Evidence record:** [Full evidence](../catalog/tooling.md#sympy-sympy-sympy) · [data/latest.json](../data/latest.json)
-
----
-
-### [Transformers](https://github.com/huggingface/transformers)
-
-![](https://img.shields.io/github/stars/huggingface/transformers?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
-
-**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
-
-Huggingface's library of state-of-the-art pretrained models for Natural Language Processing (NLP).
-
-**Why it is here:** Modelos preentrenados para 100+ tareas
-
-**Evidence record:** [Full evidence](../catalog/tooling.md#transformers-huggingface-transformers) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -194,20 +124,6 @@ Open source password management tool for Mac OS, iOS and browsers. (https://gith
 
 ---
 
-### [CCV](https://github.com/liuliu/ccv)
-
-![](https://img.shields.io/github/stars/liuliu/ccv?style=flat-square&label=⭐) · Found in 2 active sources: fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning
-
-**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
-
-C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library. [BSD]
-
-**Why it is here:** C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library. [BSD]
-
-**Evidence record:** [Full evidence](../catalog/tooling.md#ccv-liuliu-ccv) · [data/latest.json](../data/latest.json)
-
----
-
 ### [CLion](https://jetbrains.com/clion)
 
 Found in 2 active sources: fffaraz/awesome-cpp, jaywcjlove/awesome-mac
@@ -219,6 +135,20 @@ Powerful C and C++ IDE. (Free for Students)
 **Why it is here:** Debugger integrado profesional
 
 **Evidence record:** [Full evidence](../catalog/tooling.md#clion-jetbrains-3) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Colossal-AI](https://github.com/hpcaitech/colossalai)
+
+![](https://img.shields.io/github/stars/hpcaitech/colossalai?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, MunGell/awesome-for-beginners
+
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
+
+A unified deep learning system for big model era, which helps users to efficiently and quickly deploy large AI model training and inference.
+
+**Why it is here:** Optimizaciones specific para big models (tensor/pipeline parallelism)
+
+**Evidence record:** [Full evidence](../catalog/tooling.md#colossal-ai-hpcaitech-colossalai) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -245,48 +175,6 @@ A command-line utility that creates projects from cookiecutters (project templat
 Linter for .env files
 
 **Evidence record:** [Full evidence](../catalog/tooling.md#dotenv-linter-dotenv-linter-dotenv-linter) · [data/latest.json](../data/latest.json)
-
----
-
-### [DVC](https://github.com/iterative/dvc)
-
-![](https://img.shields.io/github/stars/iterative/dvc?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
-
-**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
-
-Data Science Version Control is an open-source version control system for machine learning projects with pipelines support. It makes ML projects reproducible and shareable.
-
-**Why it is here:** Pipelines reproducibles con dag tracking
-
-**Evidence record:** [Full evidence](../catalog/tooling.md#dvc-iterative-dvc) · [data/latest.json](../data/latest.json)
-
----
-
-### [einops](https://github.com/arogozhnikov/einops)
-
-![](https://img.shields.io/github/stars/arogozhnikov/einops?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
-
-**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
-
-Flexible and powerful tensor operations for readable and reliable code.
-
-**Why it is here:** Sintaxis Einstein-notation super legible y correcta
-
-**Evidence record:** [Full evidence](../catalog/tooling.md#einops-arogozhnikov-einops) · [data/latest.json](../data/latest.json)
-
----
-
-### [gorgonia](https://github.com/gorgonia/gorgonia)
-
-![](https://img.shields.io/github/stars/gorgonia/gorgonia?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, avelino/awesome-go
-
-**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
-
-graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms.
-
-**Why it is here:** graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms.
-
-**Evidence record:** [Full evidence](../catalog/tooling.md#gorgonia-gorgonia-gorgonia) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -332,7 +220,119 @@ Immediate Mode Graphical User Interface with minimal dependencies. [MIT]
 
 ---
 
-_Showing 20 of 45. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+### [IntelliJ IDEA](https://jetbrains.com/idea)
+
+Found in 2 active sources: rust-unofficial/awesome-rust, jaywcjlove/awesome-mac
+
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
+
+Powerful IDE for JVM languages. (Free for Students)
+
+**Why it is here:** Powerful IDE for JVM languages. (Free for Students)
+
+**Evidence record:** [Full evidence](../catalog/tooling.md#intellij-idea-jetbrains-6) · [data/latest.json](../data/latest.json)
+
+---
+
+### [kreuzberg](https://github.com/kreuzberg-dev/kreuzberg)
+
+![](https://img.shields.io/github/stars/kreuzberg-dev/kreuzberg?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, vinta/awesome-python
+
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
+
+High-performance document extraction library with a Rust core, supporting 62+ formats including PDF, Office, images with OCR, HTML, email, and archives.
+
+**Why it is here:** High-performance document extraction library with a Rust core, supporting 62+ formats including PDF, Office, images with OCR, HTML, email, and...
+
+**Evidence record:** [Full evidence](../catalog/tooling.md#kreuzberg-kreuzberg-dev-kreuzberg) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Kubernetes](https://github.com/kubernetes/kubernetes)
+
+![](https://img.shields.io/github/stars/kubernetes/kubernetes?style=flat-square&label=⭐) · Found in 2 active sources: avelino/awesome-go, MunGell/awesome-for-beginners
+
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
+
+Production-Grade Container Scheduling and Management System
+
+**Why it is here:** Production-Grade Container Scheduling and Management System
+
+**Evidence record:** [Full evidence](../catalog/tooling.md#kubernetes-kubernetes-kubernetes) · [data/latest.json](../data/latest.json)
+
+---
+
+### [LightGBM](https://github.com/microsoft/lightgbm)
+
+![](https://img.shields.io/github/stars/microsoft/lightgbm?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience
+
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
+
+Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
+
+**Why it is here:** Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for...
+
+**Evidence record:** [Full evidence](../catalog/tooling.md#lightgbm-microsoft-lightgbm) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Marimo](https://github.com/marimo-team/marimo)
+
+![](https://img.shields.io/github/stars/marimo-team/marimo?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
+
+Reactive Python notebook — run reproducible experiments, execute as a script, deploy as an app, and version with git.
+
+**Why it is here:** Notebook Python reactivo, ejecutable como script y deployable como web app. Versionable con git. Alternativa moderna a Jupyter.
+
+**Evidence record:** [Full evidence](../catalog/tooling.md#marimo-marimo-team-marimo) · [data/latest.json](../data/latest.json)
+
+---
+
+### [MicroPython](https://github.com/micropython/micropython)
+
+![](https://img.shields.io/github/stars/micropython/micropython?style=flat-square&label=⭐) · Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python
+
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
+
+Aims to put an implementation of Python 3.x on a microcontroller. [MIT]
+
+**Why it is here:** Aims to put an implementation of Python 3.x on a microcontroller. [MIT]
+
+**Evidence record:** [Full evidence](../catalog/tooling.md#micropython-micropython-micropython) · [data/latest.json](../data/latest.json)
+
+---
+
+### [microsoft/markitdown](https://github.com/microsoft/markitdown)
+
+![](https://img.shields.io/github/stars/microsoft/markitdown?style=flat-square&label=⭐) · Found in 2 active sources: vinta/awesome-python, punkpeye/awesome-mcp-servers
+
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
+
+🎖️ 🐍 🏠 MCP tool access to MarkItDown -- a library that converts many file formats (local or remote) to Markdown for LLM consumption.
+
+**Why it is here:** 🎖️ 🐍 🏠 MCP tool access to MarkItDown -- a library that converts many file formats (local or remote) to Markdown for LLM consumption.
+
+**Evidence record:** [Full evidence](../catalog/tooling.md#microsoft-markitdown-microsoft-markitdown) · [data/latest.json](../data/latest.json)
+
+---
+
+### [mitmproxy](https://github.com/mitmproxy/mitmproxy)
+
+![](https://img.shields.io/github/stars/mitmproxy/mitmproxy?style=flat-square&label=⭐) · Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
+
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
+
+An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
+
+**Why it is here:** TLS termination interactivo
+
+**Evidence record:** [Full evidence](../catalog/tooling.md#mitmproxy-mitmproxy-mitmproxy) · [data/latest.json](../data/latest.json)
+
+---
+
+_Showing 20 of 37. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

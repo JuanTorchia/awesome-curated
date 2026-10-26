@@ -2,7 +2,7 @@
 
 <p><sub>← [Voltar ao main](../README.pt-BR.md)</sub></p>
 
-**2 Revisado por humano · 0 Padrões populares · 10 Candidatos de IA · 0 Estado Needs Review**
+**2 Revisado por humano · 0 Padrões populares · 9 Candidatos de IA · 0 Estado Needs Review**
 
 Catálogo consultável: [TOOLS.md](../TOOLS.md) · Snapshot de evidências: [data/latest.json](../data/latest.json)
 
@@ -88,20 +88,6 @@ an HTTP implementation
 **Por que foi incluída:** Arquitectura async/await limpia con Tokio
 
 **Registro de evidências:** [Evidência completa](../catalog/web.md#hyperium-hyper-hyperium-hyper) · [data/latest.json](../data/latest.json)
-
----
-
-### [juspay/neurolink](https://github.com/juspay/neurolink)
-
-![](https://img.shields.io/github/stars/juspay/neurolink?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: josephmisiti/awesome-machine-learning, punkpeye/awesome-mcp-servers
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-📇 ☁️ 🏠 🍎 🪟 🐧 Making enterprise AI infrastructure universally accessible. Edge-first platform unifying 12 providers and 100+ models with multi-agent orchestration, HITL workflows, guardrails middleware, and...
-
-**Por que foi incluída:** Middleware guardrails incluido
-
-**Registro de evidências:** [Evidência completa](../catalog/web.md#juspay-neurolink-juspay-neurolink) · [data/latest.json](../data/latest.json)
 
 ---
 

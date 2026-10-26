@@ -2,7 +2,7 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**1 人工审核 · 1 常用标准工具 · 45 AI 候选工具 · 0 Needs Review 状态**
+**1 人工审核 · 1 常用标准工具 · 37 AI 候选工具 · 0 Needs Review 状态**
 
 可查阅目录: [TOOLS.md](../TOOLS.md) · 证据快照: [data/latest.json](../data/latest.json)
 
@@ -35,7 +35,7 @@ Cross-platform application to monitor your network traffic with ease
 
 ### [Pytorch](https://github.com/pytorch/pytorch)
 
-![](https://img.shields.io/github/stars/pytorch/pytorch?style=flat-square&label=⭐) · 🔥 **收录于 6 个活跃来源: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, fffaraz/awesome-cpp +3 more**
+![](https://img.shields.io/github/stars/pytorch/pytorch?style=flat-square&label=⭐) · 🔥 **收录于 5 个活跃来源: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, fffaraz/awesome-cpp +2 more**
 
 **审核:** Popular Standard · **说明 / 审核:** 有用的标准工具，不作为新发现或新兴推荐。
 
@@ -56,7 +56,7 @@ PyTorch is an open source machine learning library based on the Torch library, u
 
 ### [Bokeh](https://github.com/bokeh/bokeh)
 
-![](https://img.shields.io/github/stars/bokeh/bokeh?style=flat-square&label=⭐) · 收录于 4 个活跃来源: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python +1 more
+![](https://img.shields.io/github/stars/bokeh/bokeh?style=flat-square&label=⭐) · 收录于 3 个活跃来源: EthicalML/awesome-production-machine-learning, vinta/awesome-python, MunGell/awesome-for-beginners
 
 **审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
 
@@ -65,20 +65,6 @@ Bokeh is an interactive visualization library for Python that enables beautiful 
 **收录原因:** Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation of data in modern web browsers.
 
 **证据记录:** [完整证据](../catalog/tooling.md#bokeh-bokeh-bokeh) · [data/latest.json](../data/latest.json)
-
----
-
-### [Colossal-AI](https://github.com/hpcaitech/colossalai)
-
-![](https://img.shields.io/github/stars/hpcaitech/colossalai?style=flat-square&label=⭐) · 收录于 3 个活跃来源: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, MunGell/awesome-for-beginners
-
-**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
-
-A unified deep learning system for big model era, which helps users to efficiently and quickly deploy large AI model training and inference.
-
-**收录原因:** Optimizaciones specific para big models (tensor/pipeline parallelism)
-
-**证据记录:** [完整证据](../catalog/tooling.md#colossal-ai-hpcaitech-colossalai) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -93,62 +79,6 @@ Web interface python sandbox environments for reproducible development
 **收录原因:** Web interface python sandbox environments for reproducible development
 
 **证据记录:** [完整证据](../catalog/tooling.md#jupyter-notebooks-jupyter-notebook) · [data/latest.json](../data/latest.json)
-
----
-
-### [LightGBM](https://github.com/microsoft/lightgbm)
-
-![](https://img.shields.io/github/stars/microsoft/lightgbm?style=flat-square&label=⭐) · 收录于 3 个活跃来源: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
-
-**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
-
-Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
-
-**收录原因:** Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for...
-
-**证据记录:** [完整证据](../catalog/tooling.md#lightgbm-microsoft-lightgbm) · [data/latest.json](../data/latest.json)
-
----
-
-### [PyMC](https://github.com/pymc-devs/pymc)
-
-![](https://img.shields.io/github/stars/pymc-devs/pymc?style=flat-square&label=⭐) · 收录于 3 个活跃来源: josephmisiti/awesome-machine-learning, vinta/awesome-python, MunGell/awesome-for-beginners
-
-**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
-
-A Python library for Bayesian statistical modeling and probabilistic machine learning. Beginner-friendly with 'good first issue' labels.
-
-**收录原因:** A Python library for Bayesian statistical modeling and probabilistic machine learning. Beginner-friendly with 'good first issue' labels.
-
-**证据记录:** [完整证据](../catalog/tooling.md#pymc-pymc-devs-pymc) · [data/latest.json](../data/latest.json)
-
----
-
-### [SymPy](https://github.com/sympy/sympy)
-
-![](https://img.shields.io/github/stars/sympy/sympy?style=flat-square&label=⭐) · 收录于 3 个活跃来源: josephmisiti/awesome-machine-learning, vinta/awesome-python, MunGell/awesome-for-beginners
-
-**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
-
-A Python library for symbolic mathematics.
-
-**收录原因:** Capacidad de simplificar, derivar, integrar y resolver ecuaciones de forma exacta, no aproximada
-
-**证据记录:** [完整证据](../catalog/tooling.md#sympy-sympy-sympy) · [data/latest.json](../data/latest.json)
-
----
-
-### [Transformers](https://github.com/huggingface/transformers)
-
-![](https://img.shields.io/github/stars/huggingface/transformers?style=flat-square&label=⭐) · 收录于 3 个活跃来源: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
-
-**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
-
-Huggingface's library of state-of-the-art pretrained models for Natural Language Processing (NLP).
-
-**收录原因:** Modelos preentrenados para 100+ tareas
-
-**证据记录:** [完整证据](../catalog/tooling.md#transformers-huggingface-transformers) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -194,20 +124,6 @@ Open source password management tool for Mac OS, iOS and browsers. (https://gith
 
 ---
 
-### [CCV](https://github.com/liuliu/ccv)
-
-![](https://img.shields.io/github/stars/liuliu/ccv?style=flat-square&label=⭐) · 收录于 2 个活跃来源: fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning
-
-**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
-
-C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library. [BSD]
-
-**收录原因:** C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library. [BSD]
-
-**证据记录:** [完整证据](../catalog/tooling.md#ccv-liuliu-ccv) · [data/latest.json](../data/latest.json)
-
----
-
 ### [CLion](https://jetbrains.com/clion)
 
 收录于 2 个活跃来源: fffaraz/awesome-cpp, jaywcjlove/awesome-mac
@@ -219,6 +135,20 @@ Powerful C and C++ IDE. (Free for Students)
 **收录原因:** Debugger integrado profesional
 
 **证据记录:** [完整证据](../catalog/tooling.md#clion-jetbrains-3) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Colossal-AI](https://github.com/hpcaitech/colossalai)
+
+![](https://img.shields.io/github/stars/hpcaitech/colossalai?style=flat-square&label=⭐) · 收录于 2 个活跃来源: EthicalML/awesome-production-machine-learning, MunGell/awesome-for-beginners
+
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
+
+A unified deep learning system for big model era, which helps users to efficiently and quickly deploy large AI model training and inference.
+
+**收录原因:** Optimizaciones specific para big models (tensor/pipeline parallelism)
+
+**证据记录:** [完整证据](../catalog/tooling.md#colossal-ai-hpcaitech-colossalai) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -245,48 +175,6 @@ A command-line utility that creates projects from cookiecutters (project templat
 Linter for .env files
 
 **证据记录:** [完整证据](../catalog/tooling.md#dotenv-linter-dotenv-linter-dotenv-linter) · [data/latest.json](../data/latest.json)
-
----
-
-### [DVC](https://github.com/iterative/dvc)
-
-![](https://img.shields.io/github/stars/iterative/dvc?style=flat-square&label=⭐) · 收录于 2 个活跃来源: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
-
-**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
-
-Data Science Version Control is an open-source version control system for machine learning projects with pipelines support. It makes ML projects reproducible and shareable.
-
-**收录原因:** Pipelines reproducibles con dag tracking
-
-**证据记录:** [完整证据](../catalog/tooling.md#dvc-iterative-dvc) · [data/latest.json](../data/latest.json)
-
----
-
-### [einops](https://github.com/arogozhnikov/einops)
-
-![](https://img.shields.io/github/stars/arogozhnikov/einops?style=flat-square&label=⭐) · 收录于 2 个活跃来源: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
-
-**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
-
-Flexible and powerful tensor operations for readable and reliable code.
-
-**收录原因:** Sintaxis Einstein-notation super legible y correcta
-
-**证据记录:** [完整证据](../catalog/tooling.md#einops-arogozhnikov-einops) · [data/latest.json](../data/latest.json)
-
----
-
-### [gorgonia](https://github.com/gorgonia/gorgonia)
-
-![](https://img.shields.io/github/stars/gorgonia/gorgonia?style=flat-square&label=⭐) · 收录于 2 个活跃来源: josephmisiti/awesome-machine-learning, avelino/awesome-go
-
-**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
-
-graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms.
-
-**收录原因:** graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms.
-
-**证据记录:** [完整证据](../catalog/tooling.md#gorgonia-gorgonia-gorgonia) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -332,7 +220,119 @@ Immediate Mode Graphical User Interface with minimal dependencies. [MIT]
 
 ---
 
-_Showing 20 of 45. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+### [IntelliJ IDEA](https://jetbrains.com/idea)
+
+收录于 2 个活跃来源: rust-unofficial/awesome-rust, jaywcjlove/awesome-mac
+
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
+
+Powerful IDE for JVM languages. (Free for Students)
+
+**收录原因:** Powerful IDE for JVM languages. (Free for Students)
+
+**证据记录:** [完整证据](../catalog/tooling.md#intellij-idea-jetbrains-6) · [data/latest.json](../data/latest.json)
+
+---
+
+### [kreuzberg](https://github.com/kreuzberg-dev/kreuzberg)
+
+![](https://img.shields.io/github/stars/kreuzberg-dev/kreuzberg?style=flat-square&label=⭐) · 收录于 2 个活跃来源: rust-unofficial/awesome-rust, vinta/awesome-python
+
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
+
+High-performance document extraction library with a Rust core, supporting 62+ formats including PDF, Office, images with OCR, HTML, email, and archives.
+
+**收录原因:** High-performance document extraction library with a Rust core, supporting 62+ formats including PDF, Office, images with OCR, HTML, email, and...
+
+**证据记录:** [完整证据](../catalog/tooling.md#kreuzberg-kreuzberg-dev-kreuzberg) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Kubernetes](https://github.com/kubernetes/kubernetes)
+
+![](https://img.shields.io/github/stars/kubernetes/kubernetes?style=flat-square&label=⭐) · 收录于 2 个活跃来源: avelino/awesome-go, MunGell/awesome-for-beginners
+
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
+
+Production-Grade Container Scheduling and Management System
+
+**收录原因:** Production-Grade Container Scheduling and Management System
+
+**证据记录:** [完整证据](../catalog/tooling.md#kubernetes-kubernetes-kubernetes) · [data/latest.json](../data/latest.json)
+
+---
+
+### [LightGBM](https://github.com/microsoft/lightgbm)
+
+![](https://img.shields.io/github/stars/microsoft/lightgbm?style=flat-square&label=⭐) · 收录于 2 个活跃来源: EthicalML/awesome-production-machine-learning, academic/awesome-datascience
+
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
+
+Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
+
+**收录原因:** Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for...
+
+**证据记录:** [完整证据](../catalog/tooling.md#lightgbm-microsoft-lightgbm) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Marimo](https://github.com/marimo-team/marimo)
+
+![](https://img.shields.io/github/stars/marimo-team/marimo?style=flat-square&label=⭐) · 收录于 2 个活跃来源: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
+
+Reactive Python notebook — run reproducible experiments, execute as a script, deploy as an app, and version with git.
+
+**收录原因:** Notebook Python reactivo, ejecutable como script y deployable como web app. Versionable con git. Alternativa moderna a Jupyter.
+
+**证据记录:** [完整证据](../catalog/tooling.md#marimo-marimo-team-marimo) · [data/latest.json](../data/latest.json)
+
+---
+
+### [MicroPython](https://github.com/micropython/micropython)
+
+![](https://img.shields.io/github/stars/micropython/micropython?style=flat-square&label=⭐) · 收录于 2 个活跃来源: fffaraz/awesome-cpp, vinta/awesome-python
+
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
+
+Aims to put an implementation of Python 3.x on a microcontroller. [MIT]
+
+**收录原因:** Aims to put an implementation of Python 3.x on a microcontroller. [MIT]
+
+**证据记录:** [完整证据](../catalog/tooling.md#micropython-micropython-micropython) · [data/latest.json](../data/latest.json)
+
+---
+
+### [microsoft/markitdown](https://github.com/microsoft/markitdown)
+
+![](https://img.shields.io/github/stars/microsoft/markitdown?style=flat-square&label=⭐) · 收录于 2 个活跃来源: vinta/awesome-python, punkpeye/awesome-mcp-servers
+
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
+
+🎖️ 🐍 🏠 MCP tool access to MarkItDown -- a library that converts many file formats (local or remote) to Markdown for LLM consumption.
+
+**收录原因:** 🎖️ 🐍 🏠 MCP tool access to MarkItDown -- a library that converts many file formats (local or remote) to Markdown for LLM consumption.
+
+**证据记录:** [完整证据](../catalog/tooling.md#microsoft-markitdown-microsoft-markitdown) · [data/latest.json](../data/latest.json)
+
+---
+
+### [mitmproxy](https://github.com/mitmproxy/mitmproxy)
+
+![](https://img.shields.io/github/stars/mitmproxy/mitmproxy?style=flat-square&label=⭐) · 收录于 2 个活跃来源: vinta/awesome-python, MunGell/awesome-for-beginners
+
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
+
+An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
+
+**收录原因:** TLS termination interactivo
+
+**证据记录:** [完整证据](../catalog/tooling.md#mitmproxy-mitmproxy-mitmproxy) · [data/latest.json](../data/latest.json)
+
+---
+
+_Showing 20 of 37. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---
