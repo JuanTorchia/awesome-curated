@@ -8,7 +8,7 @@
 
 [![Human Picks](https://img.shields.io/badge/Human_Picks-5-gold?style=for-the-badge)](#human-reviewed-picks)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](SOURCES.md)
-[![Updated](https://img.shields.io/badge/Updated-2026-10-25-green?style=for-the-badge)](UPDATE-SUMMARY.md)
+[![Updated](https://img.shields.io/badge/Updated-2026-10-26-green?style=for-the-badge)](UPDATE-SUMMARY.md)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -33,7 +33,7 @@
 
 ### 信任快照
 
-- **最新生成更新**: 2026-10-25
+- **最新生成更新**: 2026-10-26
 - **活跃来源**: 20
 - **Human Picks**: 5
 - **方法论**: [METHODOLOGY.md](METHODOLOGY.md)
@@ -154,15 +154,15 @@
 
 ---
 
-## 目录变更
+## 等待人工审核的候选工具
 
-- [edgartools](https://github.com/dgunning/edgartools) — newly reviewed · AI Candidate: Python AI-native SEC EDGAR library with XBRL financials, clean text extraction, 17+ typed forms, and pandas DataFrames.
-- [nautilustrader](https://github.com/nautechsystems/nautilus_trader) — newly reviewed · AI Candidate: Python Rust A high-performance algorithmic trading platform and event-driven backtester.
-- [QuantLib](https://github.com/lballabio/quantlib) — newly reviewed · AI Candidate: Comunidad activa en finanzas cuantitativa
-- [spfunctions/simplefunctions-cli](https://github.com/spfunctions/simplefunctions-cli) — newly reviewed · AI Candidate: Output estructurado y calibrado para LLMs
-- [tsfresh](https://github.com/blue-yonder/tsfresh) — newly reviewed · AI Candidate: Automatic extraction of relevant features from time series.
+- [Cython](https://github.com/cython/cython) — Performance · Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python
+- [safedep/vet](https://github.com/safedep/vet) — Security & Crypto · Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — Dev Tooling · Found in 2 active sources: jivoi/awesome-osint, vinta/awesome-python
+- [ajitpratap0/GoSQLX](https://github.com/ajitpratap0/gosqlx) — Data & Databases · Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers
+- [dagger/container-use](https://github.com/dagger/container-use) — AI & ML · Found in 2 active sources: hesreallyhim/awesome-claude-code, punkpeye/awesome-mcp-servers
 
-See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
+候选工具不代表个人推荐。可通过 GitHub issues 请求审核，或在 TOOLS.md 查看完整队列。 [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) · [TOOLS.md](TOOLS.md)
 
 ---
 
