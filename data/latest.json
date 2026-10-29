@@ -1,7 +1,7 @@
 {
   "changes": [
     {
-      "changedAt": "2026-10-26",
+      "changedAt": "2026-10-28",
       "name": "Public recommendation set",
       "reason": "No material public change detected.",
       "toolId": "snapshot",
@@ -9,8 +9,8 @@
       "url": "data/latest.json"
     }
   ],
-  "commitSha": "660f3b6ce7f7",
-  "generatedAt": "2026-10-26T10:00:13.940Z",
+  "commitSha": "e9d7ba6fec5a",
+  "generatedAt": "2026-10-28T10:00:13.364Z",
   "recommendations": [
     {
       "caveat": "Best fit for teams with a matching ML or data workflow.",
@@ -6406,7 +6406,7 @@
     "sources": 20
   },
   "validation": {
-    "checkedAt": "2026-10-26T10:00:13.940Z",
+    "checkedAt": "2026-10-28T10:00:13.364Z",
     "status": "pass",
     "warnings": []
   }

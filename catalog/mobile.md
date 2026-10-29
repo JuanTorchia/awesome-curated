@@ -2,7 +2,7 @@
 
 [All domains](../TOOLS.md) · [README](../README.md) · [Machine-readable evidence](../data/latest.json)
 
-Generated: 2026-10-26 · Tool entries: 1
+Generated: 2026-10-28 · Tool entries: 1
 
 ### <a id="nativescript-nativescript-nativescript"></a>[NativeScript](https://github.com/nativescript/nativescript)
 
