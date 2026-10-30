@@ -2,7 +2,7 @@
 
 [All domains](../TOOLS.md) · [README](../README.md) · [Machine-readable evidence](../data/latest.json)
 
-Generated: 2026-10-28 · Tool entries: 32
+Generated: 2026-10-29 · Tool entries: 32
 
 ### <a id="bayeswitnesses-m2cgen-bayeswitnesses-m2cgen"></a>[BayesWitnesses/m2cgen](https://github.com/bayeswitnesses/m2cgen)
 

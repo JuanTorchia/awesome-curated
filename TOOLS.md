@@ -2,7 +2,7 @@
 
 Browse a domain below for complete rationale, caveats and source traces. This index mirrors the current [data/latest.json](data/latest.json); entries retain their review labels.
 
-Generated: 2026-10-28 · Public recommendations: 141 · Tool entries: 136
+Generated: 2026-10-29 · Public recommendations: 141 · Tool entries: 136
 
 ## Browse by domain
 
