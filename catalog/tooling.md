@@ -2,23 +2,22 @@
 
 [All domains](../TOOLS.md) · [README](../README.md) · [Machine-readable evidence](../data/latest.json)
 
-Generated: 2026-10-31 · Tool entries: 39
+Generated: 2026-11-01 · Tool entries: 42
 
 ### <a id="sniffnet-gyulyvgc-sniffnet"></a>[Sniffnet](https://github.com/gyulyvgc/sniffnet)
 
-**Label:** Human Pick · **Domain:** Dev Tooling · **Signal:** Found in 3 active sources: rust-unofficial/awesome-rust, jaywcjlove/awesome-mac, MunGell/awesome-for-beginners
+**Label:** Human Pick · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: rust-unofficial/awesome-rust, jaywcjlove/awesome-mac
 
 **Summary:** Cross-platform application to monitor your network traffic with ease
 
 **Why it is here:** Provides a low-friction network traffic monitor for debugging and security checks.
 
-**Caveat:** Worth a focused trial before adopting broadly.
+**Caveat:** Cross-source coverage is limited.
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-26
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-10-26
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 88 · observed 2026-10-05
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-11-02
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-11-02
 
 ---
 
@@ -34,17 +33,17 @@ Generated: 2026-10-31 · Tool entries: 39
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 99 · observed 2026-10-26
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-26
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 89 · observed 2026-10-26
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 91 · observed 2026-10-26
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 88 · observed 2026-10-05
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 97 · observed 2026-11-02
+- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-11-02
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 88 · observed 2026-11-02
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · ROSTER · quality 97 · observed 2026-11-02
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 94 · observed 2026-11-02
 
 ---
 
 ### <a id="bokeh-bokeh-bokeh"></a>[Bokeh](https://github.com/bokeh/bokeh)
 
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 3 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Summary:** Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation of data in modern web browsers.
 
@@ -54,27 +53,45 @@ Generated: 2026-10-31 · Tool entries: 39
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 99 · observed 2026-10-26
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 91 · observed 2026-10-26
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 88 · observed 2026-10-05
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 97 · observed 2026-11-02
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · ROSTER · quality 97 · observed 2026-11-02
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 94 · observed 2026-11-02
 
 ---
 
-### <a id="jupyter-notebooks-jupyter-notebook"></a>[Jupyter Notebooks](https://github.com/jupyter/notebook)
+### <a id="lightgbm-microsoft-lightgbm"></a>[LightGBM](https://github.com/microsoft/lightgbm)
 
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 3 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
 
-**Summary:** Web interface python sandbox environments for reproducible development
+**Summary:** Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 
-**Why it is here:** Web interface python sandbox environments for reproducible development
+**Why it is here:** Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for...
 
 **Caveat:** Candidate still needs human review before endorsement.
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 99 · observed 2026-10-26
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 91 · observed 2026-10-26
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 88 · observed 2026-10-05
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 97 · observed 2026-11-02
+- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-11-02
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · ROSTER · quality 97 · observed 2026-11-02
+
+---
+
+### <a id="transformers-huggingface-transformers"></a>[Transformers](https://github.com/huggingface/transformers)
+
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
+
+**Summary:** Huggingface's library of state-of-the-art pretrained models for Natural Language Processing (NLP).
+
+**Why it is here:** Modelos preentrenados para 100+ tareas
+
+**Caveat:** Candidate still needs human review before endorsement.
+
+**Source traces:**
+
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 97 · observed 2026-11-02
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · ROSTER · quality 97 · observed 2026-11-02
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 94 · observed 2026-11-02
 
 ---
 
@@ -90,8 +107,8 @@ Generated: 2026-10-31 · Tool entries: 39
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-26
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 89 · observed 2026-10-26
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-11-02
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 88 · observed 2026-11-02
 
 ---
 
@@ -107,8 +124,8 @@ Generated: 2026-10-31 · Tool entries: 39
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-26
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 91 · observed 2026-10-26
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-11-02
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 94 · observed 2026-11-02
 
 ---
 
@@ -124,8 +141,25 @@ Generated: 2026-10-31 · Tool entries: 39
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-10-26
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-10-26
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-11-02
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-11-02
+
+---
+
+### <a id="ccv-liuliu-ccv"></a>[CCV](https://github.com/liuliu/ccv)
+
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning
+
+**Summary:** C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library. [BSD]
+
+**Why it is here:** C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library. [BSD]
+
+**Caveat:** Candidate still needs human review before endorsement.
+
+**Source traces:**
+
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 88 · observed 2026-11-02
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · ROSTER · quality 97 · observed 2026-11-02
 
 ---
 
@@ -141,14 +175,14 @@ Generated: 2026-10-31 · Tool entries: 39
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 89 · observed 2026-10-26
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-10-26
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 88 · observed 2026-11-02
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-11-02
 
 ---
 
 ### <a id="colossal-ai-hpcaitech-colossalai"></a>[Colossal-AI](https://github.com/hpcaitech/colossalai)
 
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Summary:** A unified deep learning system for big model era, which helps users to efficiently and quickly deploy large AI model training and inference.
 
@@ -158,40 +192,76 @@ Generated: 2026-10-31 · Tool entries: 39
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 99 · observed 2026-10-26
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 88 · observed 2026-10-05
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 97 · observed 2026-11-02
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · ROSTER · quality 97 · observed 2026-11-02
 
 ---
 
-### <a id="cookiecutter-cookiecutter-cookiecutter"></a>[cookiecutter](https://github.com/cookiecutter/cookiecutter)
+### <a id="dvc-iterative-dvc"></a>[DVC](https://github.com/iterative/dvc)
 
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
-**Summary:** A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
+**Summary:** Data Science Version Control is an open-source version control system for machine learning projects with pipelines support. It makes ML projects reproducible and shareable.
 
-**Why it is here:** Extremadamente simple y flexible
+**Why it is here:** Pipelines reproducibles con dag tracking
 
 **Caveat:** Candidate still needs human review before endorsement.
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 91 · observed 2026-10-26
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 88 · observed 2026-10-05
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 97 · observed 2026-11-02
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · ROSTER · quality 97 · observed 2026-11-02
 
 ---
 
-### <a id="dotenv-linter-dotenv-linter-dotenv-linter"></a>[dotenv-linter](https://github.com/dotenv-linter/dotenv-linter)
+### <a id="einops-arogozhnikov-einops"></a>[einops](https://github.com/arogozhnikov/einops)
 
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: rust-unofficial/awesome-rust, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
-**Summary:** Linter for .env files
+**Summary:** Flexible and powerful tensor operations for readable and reliable code.
+
+**Why it is here:** Sintaxis Einstein-notation super legible y correcta
 
 **Caveat:** Candidate still needs human review before endorsement.
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-26
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 88 · observed 2026-10-05
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 97 · observed 2026-11-02
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · ROSTER · quality 97 · observed 2026-11-02
+
+---
+
+### <a id="gebug-moshebe-gebug"></a>[Gebug](https://github.com/moshebe/gebug)
+
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go
+
+**Summary:** A tool that makes debugging of Dockerized Go applications super easy by enabling Debugger and Hot-Reload features, seamlessly.
+
+**Why it is here:** hot-reload sin restart manual
+
+**Caveat:** Candidate still needs human review before endorsement.
+
+**Source traces:**
+
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · BENCH · quality 89 · observed 2026-11-02
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-11-02
+
+---
+
+### <a id="gorgonia-gorgonia-gorgonia"></a>[gorgonia](https://github.com/gorgonia/gorgonia)
+
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: josephmisiti/awesome-machine-learning, avelino/awesome-go
+
+**Summary:** graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms.
+
+**Why it is here:** graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms.
+
+**Caveat:** Candidate still needs human review before endorsement.
+
+**Source traces:**
+
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · ROSTER · quality 97 · observed 2026-11-02
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-11-02
 
 ---
 
@@ -207,8 +277,8 @@ Generated: 2026-10-31 · Tool entries: 39
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-26
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 89 · observed 2026-10-26
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-11-02
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 88 · observed 2026-11-02
 
 ---
 
@@ -224,8 +294,8 @@ Generated: 2026-10-31 · Tool entries: 39
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-10-26
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 89 · observed 2026-10-26
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-11-02
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 88 · observed 2026-11-02
 
 ---
 
@@ -241,8 +311,25 @@ Generated: 2026-10-31 · Tool entries: 39
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-26
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 89 · observed 2026-10-26
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-11-02
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 88 · observed 2026-11-02
+
+---
+
+### <a id="infinity-infiniflow-infinity"></a>[Infinity](https://github.com/infiniflow/infinity)
+
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning
+
+**Summary:** The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. Developed using C++20
+
+**Why it is here:** Full-text + vector search combinado
+
+**Caveat:** Candidate still needs human review before endorsement.
+
+**Source traces:**
+
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 88 · observed 2026-11-02
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · ROSTER · quality 97 · observed 2026-11-02
 
 ---
 
@@ -258,8 +345,42 @@ Generated: 2026-10-31 · Tool entries: 39
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-26
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-10-26
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-11-02
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-11-02
+
+---
+
+### <a id="jupyter-notebooks-jupyter-notebook"></a>[Jupyter Notebooks](https://github.com/jupyter/notebook)
+
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+
+**Summary:** Web interface python sandbox environments for reproducible development
+
+**Why it is here:** Web interface python sandbox environments for reproducible development
+
+**Caveat:** Candidate still needs human review before endorsement.
+
+**Source traces:**
+
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 97 · observed 2026-11-02
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 94 · observed 2026-11-02
+
+---
+
+### <a id="kaldi-kaldi-asr-kaldi"></a>[Kaldi](https://github.com/kaldi-asr/kaldi)
+
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning
+
+**Summary:** Kaldi is a toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. Kaldi is intended for use by speech recognition researchers.
+
+**Why it is here:** Componentes modulares y bien documentados para researchers
+
+**Caveat:** Candidate still needs human review before endorsement.
+
+**Source traces:**
+
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 88 · observed 2026-11-02
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · ROSTER · quality 97 · observed 2026-11-02
 
 ---
 
@@ -275,14 +396,14 @@ Generated: 2026-10-31 · Tool entries: 39
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-26
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 91 · observed 2026-10-26
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-11-02
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 94 · observed 2026-11-02
 
 ---
 
 ### <a id="kubernetes-kubernetes-kubernetes"></a>[Kubernetes](https://github.com/kubernetes/kubernetes)
 
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: avelino/awesome-go, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go
 
 **Summary:** Production-Grade Container Scheduling and Management System
 
@@ -292,25 +413,25 @@ Generated: 2026-10-31 · Tool entries: 39
 
 **Source traces:**
 
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-10-26
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 88 · observed 2026-10-05
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · BENCH · quality 89 · observed 2026-11-02
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-11-02
 
 ---
 
-### <a id="lightgbm-microsoft-lightgbm"></a>[LightGBM](https://github.com/microsoft/lightgbm)
+### <a id="lstags-ivanilves-lstags"></a>[lstags](https://github.com/ivanilves/lstags)
 
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go
 
-**Summary:** Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
+**Summary:** Tool and API to sync Docker images across different registries.
 
-**Why it is here:** Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for...
+**Why it is here:** Simple, hace una cosa bien
 
 **Caveat:** Candidate still needs human review before endorsement.
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 99 · observed 2026-10-26
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ROSTER · quality 97 · observed 2026-10-26
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · BENCH · quality 89 · observed 2026-11-02
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-11-02
 
 ---
 
@@ -326,8 +447,8 @@ Generated: 2026-10-31 · Tool entries: 39
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 99 · observed 2026-10-26
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 91 · observed 2026-10-26
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 97 · observed 2026-11-02
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 94 · observed 2026-11-02
 
 ---
 
@@ -343,8 +464,8 @@ Generated: 2026-10-31 · Tool entries: 39
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 89 · observed 2026-10-26
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 91 · observed 2026-10-26
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 88 · observed 2026-11-02
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 94 · observed 2026-11-02
 
 ---
 
@@ -360,31 +481,14 @@ Generated: 2026-10-31 · Tool entries: 39
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 91 · observed 2026-10-26
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 97 · observed 2026-10-26
-
----
-
-### <a id="mitmproxy-mitmproxy-mitmproxy"></a>[mitmproxy](https://github.com/mitmproxy/mitmproxy)
-
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
-
-**Summary:** An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
-
-**Why it is here:** TLS termination interactivo
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 91 · observed 2026-10-26
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 88 · observed 2026-10-05
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 94 · observed 2026-11-02
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 97 · observed 2026-11-02
 
 ---
 
 ### <a id="moby-moby-moby"></a>[Moby](https://github.com/moby/moby)
 
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: avelino/awesome-go, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go
 
 **Summary:** Collaborative project for the container ecosystem to assemble container-based systems.
 
@@ -394,25 +498,8 @@ Generated: 2026-10-31 · Tool entries: 39
 
 **Source traces:**
 
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-10-26
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 88 · observed 2026-10-05
-
----
-
-### <a id="mypy-python-mypy"></a>[mypy](https://github.com/python/mypy)
-
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
-
-**Summary:** Optional static typing for Python.
-
-**Why it is here:** Optional static typing for Python.
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 91 · observed 2026-10-26
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 88 · observed 2026-10-05
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · BENCH · quality 89 · observed 2026-11-02
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-11-02
 
 ---
 
@@ -428,25 +515,8 @@ Generated: 2026-10-31 · Tool entries: 39
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-26
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 89 · observed 2026-10-26
-
----
-
-### <a id="nushell-nushell-nushell"></a>[nushell](https://github.com/nushell/nushell)
-
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: rust-unofficial/awesome-rust, MunGell/awesome-for-beginners
-
-**Summary:** A modern shell for the GitHub era written in Rust.
-
-**Why it is here:** Sintaxis limpia y debugging intuitivo vs bash arcano
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-26
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 88 · observed 2026-10-05
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-11-02
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 88 · observed 2026-11-02
 
 ---
 
@@ -462,14 +532,14 @@ Generated: 2026-10-31 · Tool entries: 39
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-10-26
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-10-26
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-11-02
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-11-02
 
 ---
 
 ### <a id="pymc-pymc-devs-pymc"></a>[PyMC](https://github.com/pymc-devs/pymc)
 
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Summary:** A Python library for Bayesian statistical modeling and probabilistic machine learning. Beginner-friendly with 'good first issue' labels.
 
@@ -479,42 +549,42 @@ Generated: 2026-10-31 · Tool entries: 39
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 91 · observed 2026-10-26
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 88 · observed 2026-10-05
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · ROSTER · quality 97 · observed 2026-11-02
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 94 · observed 2026-11-02
 
 ---
 
-### <a id="pytest-pytest-dev-pytest"></a>[Pytest](https://github.com/pytest-dev/pytest)
+### <a id="repoflow-repoflow"></a>[RepoFlow](https://repoflow.io)
 
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: veggiemonk/awesome-docker, rust-unofficial/awesome-rust
 
-**Summary:** The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.
+**Summary:** A simple and easy-to-use package management platform with Docker support alongside other formats like PyPI, Maven, npm, and Helm. Includes smart search, built-in Docker image scanning, and a great free option for...
 
-**Why it is here:** The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.
+**Why it is here:** A simple and easy-to-use package management platform with Docker support alongside other formats like PyPI, Maven, npm, and Helm. Includes smart...
 
 **Caveat:** Candidate still needs human review before endorsement.
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 91 · observed 2026-10-26
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 88 · observed 2026-10-05
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · BENCH · quality 89 · observed 2026-11-02
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-11-02
 
 ---
 
-### <a id="readest-readest-readest"></a>[Readest](https://github.com/readest/readest)
+### <a id="root-root"></a>[ROOT](https://root.cern.ch)
 
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: jaywcjlove/awesome-mac, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning
 
-**Summary:** A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface.
+**Summary:** A modular scientific software framework. It provides all the functionalities needed to deal with big data processing, statistical analysis, visualization and storage.
 
-**Why it is here:** Binaries livianos, sin Electron overhead
+**Why it is here:** A modular scientific software framework. It provides all the functionalities needed to deal with big data processing, statistical analysis,...
 
 **Caveat:** Candidate still needs human review before endorsement.
 
 **Source traces:**
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-10-26
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 88 · observed 2026-10-05
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 88 · observed 2026-11-02
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · ROSTER · quality 97 · observed 2026-11-02
 
 ---
 
@@ -530,8 +600,8 @@ Generated: 2026-10-31 · Tool entries: 39
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-26
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-10-26
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-11-02
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-11-02
 
 ---
 
@@ -547,25 +617,8 @@ Generated: 2026-10-31 · Tool entries: 39
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-26
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 89 · observed 2026-10-26
-
----
-
-### <a id="script-bitfield-script"></a>[script](https://github.com/bitfield/script)
-
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: avelino/awesome-go, MunGell/awesome-for-beginners
-
-**Summary:** A Go library for doing the kind of tasks that shell scripts are good at: reading files, executing subprocesses, counting lines, matching strings, and so on. Beginners are very welcome and will get detailed code...
-
-**Why it is here:** Comunidad receptiva con code review detallado
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-10-26
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 88 · observed 2026-10-05
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-11-02
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 88 · observed 2026-11-02
 
 ---
 
@@ -581,8 +634,8 @@ Generated: 2026-10-31 · Tool entries: 39
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-10-26
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 89 · observed 2026-10-26
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-11-02
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 88 · observed 2026-11-02
 
 ---
 
@@ -598,14 +651,14 @@ Generated: 2026-10-31 · Tool entries: 39
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 89 · observed 2026-10-26
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 91 · observed 2026-10-26
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 88 · observed 2026-11-02
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 94 · observed 2026-11-02
 
 ---
 
 ### <a id="sympy-sympy-sympy"></a>[SymPy](https://github.com/sympy/sympy)
 
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Summary:** A Python library for symbolic mathematics.
 
@@ -615,25 +668,25 @@ Generated: 2026-10-31 · Tool entries: 39
 
 **Source traces:**
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 91 · observed 2026-10-26
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 88 · observed 2026-10-05
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · ROSTER · quality 97 · observed 2026-11-02
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 94 · observed 2026-11-02
 
 ---
 
-### <a id="transformers-huggingface-transformers"></a>[Transformers](https://github.com/huggingface/transformers)
+### <a id="wav2letter-facebookresearch-wav2letter"></a>[Wav2Letter++](https://github.com/facebookresearch/wav2letter)
 
-**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+**Label:** AI Candidate · **Domain:** Dev Tooling · **Signal:** Found in 2 active sources: fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning
 
-**Summary:** Huggingface's library of state-of-the-art pretrained models for Natural Language Processing (NLP).
+**Summary:** Public domain, a fast open source speech processing toolkit written entirely in C++ and uses the ArrayFire tensor library and the flashlight machine learning library for maximum efficiency. [BSD]
 
-**Why it is here:** Modelos preentrenados para 100+ tareas
+**Why it is here:** Extremadamente optimizado para speech, dominante en research
 
 **Caveat:** Candidate still needs human review before endorsement.
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 99 · observed 2026-10-26
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 91 · observed 2026-10-26
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 88 · observed 2026-11-02
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · ROSTER · quality 97 · observed 2026-11-02
 
 ---
 
@@ -649,8 +702,8 @@ Generated: 2026-10-31 · Tool entries: 39
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 89 · observed 2026-10-26
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-10-26
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 88 · observed 2026-11-02
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-11-02
 
 ---
 
@@ -666,7 +719,7 @@ Generated: 2026-10-31 · Tool entries: 39
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-10-26
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 91 · observed 2026-10-26
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-11-02
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 94 · observed 2026-11-02
 
 ---

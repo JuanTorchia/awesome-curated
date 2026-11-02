@@ -2,7 +2,7 @@
 
 <p><sub>← [Back to main](../README.md)</sub></p>
 
-**0 Human reviewed · 0 Popular standards · 7 AI candidates · 0 Needs Review**
+**0 Human reviewed · 0 Popular standards · 10 AI candidates · 0 Needs Review**
 
 Inspectable catalog: [TOOLS.md](../TOOLS.md) · Evidence snapshot: [data/latest.json](../data/latest.json)
 
@@ -15,37 +15,37 @@ Inspectable catalog: [TOOLS.md](../TOOLS.md) · Evidence snapshot: [data/latest.
 
 Automated candidates with enough source signal; these are not human endorsements yet.
 
-### [Ansible](https://github.com/ansible/ansible)
+### [dive](https://github.com/wagoodman/dive)
 
-![](https://img.shields.io/github/stars/ansible/ansible?style=flat-square&label=⭐) · Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
+![](https://img.shields.io/github/stars/wagoodman/dive?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go
 
 **Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
 
-A simple IT automation platform
+A tool for exploring each layer in a docker image. By wagoodman.
 
-**Why it is here:** A simple IT automation platform
+**Why it is here:** A tool for exploring each layer in a docker image. By wagoodman.
 
-**Evidence record:** [Full evidence](../catalog/devops.md#ansible-ansible-ansible) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/devops.md#dive-wagoodman-dive) · [data/latest.json](../data/latest.json)
 
 ---
 
-### [BorgBackup](https://github.com/borgbackup/borg)
+### [docker-volume-backup](https://github.com/offen/docker-volume-backup)
 
-![](https://img.shields.io/github/stars/borgbackup/borg?style=flat-square&label=⭐) · Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
+![](https://img.shields.io/github/stars/offen/docker-volume-backup?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go
 
 **Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
 
-Deduplicating backup program with compression and authenticated encryption.
+Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage.
 
-**Why it is here:** Deduplicating backup program with compression and authenticated encryption.
+**Why it is here:** Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage.
 
-**Evidence record:** [Full evidence](../catalog/devops.md#borgbackup-borgbackup-borg) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/devops.md#docker-volume-backup-offen-docker-volume-backup) · [data/latest.json](../data/latest.json)
 
 ---
 
 ### [Dragonfly](https://github.com/dragonflyoss/dragonfly2)
 
-![](https://img.shields.io/github/stars/dragonflyoss/dragonfly2?style=flat-square&label=⭐) · Found in 2 active sources: avelino/awesome-go, MunGell/awesome-for-beginners
+![](https://img.shields.io/github/stars/dragonflyoss/dragonfly2?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go
 
 **Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
 
@@ -54,6 +54,34 @@ Provide efficient, stable and secure file distribution and image acceleration ba
 **Why it is here:** Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard...
 
 **Evidence record:** [Full evidence](../catalog/devops.md#dragonfly-dragonflyoss-dragonfly2) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Drone](https://github.com/drone/drone)
+
+![](https://img.shields.io/github/stars/drone/drone?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go
+
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
+
+Continuous integration server built on Docker and configured using YAML files.
+
+**Why it is here:** YAML limpio vs XML verboso de Jenkins
+
+**Evidence record:** [Full evidence](../catalog/devops.md#drone-drone-drone) · [data/latest.json](../data/latest.json)
+
+---
+
+### [lazyjournal](https://github.com/lifailon/lazyjournal)
+
+![](https://img.shields.io/github/stars/lifailon/lazyjournal?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go
+
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
+
+A interface for reading and filtering the logs output of Docker and Podman containers like Dozzle but for the terminal with support for fuzzy find, regex and output coloring.
+
+**Why it is here:** Fuzzy search integrado en logs
+
+**Evidence record:** [Full evidence](../catalog/devops.md#lazyjournal-lifailon-lazyjournal) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -71,6 +99,20 @@ Luigi is a Python module that helps you build complex pipelines of batch jobs, h
 
 ---
 
+### [netdata/netdata#Netdata](https://github.com/netdata/netdata)
+
+![](https://img.shields.io/github/stars/netdata/netdata?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, punkpeye/awesome-mcp-servers
+
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
+
+🎖️ 🏠 ☁️ 📟 🍎 🪟 🐧 Discovery, exploration, reporting and root cause analysis using all observability data, including metrics, logs, systems, containers, processes, and network connections
+
+**Why it is here:** Agente lightweight, baja huella de memoria
+
+**Evidence record:** [Full evidence](../catalog/devops.md#netdata-netdata-netdata-netdata-netdata) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [nwiizo/tfmcp](https://github.com/nwiizo/tfmcp)
 
 ![](https://img.shields.io/github/stars/nwiizo/tfmcp?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, punkpeye/awesome-mcp-servers
@@ -85,6 +127,20 @@ Luigi is a Python module that helps you build complex pipelines of batch jobs, h
 
 ---
 
+### [oxker](https://github.com/mrjackwills/oxker)
+
+![](https://img.shields.io/github/stars/mrjackwills/oxker?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, rust-unofficial/awesome-rust
+
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
+
+A simple tui to view & control docker containers. Written in Rust, making heavy use of ratatui & Bollard,.
+
+**Why it is here:** A simple tui to view & control docker containers. Written in Rust, making heavy use of ratatui & Bollard,.
+
+**Evidence record:** [Full evidence](../catalog/devops.md#oxker-mrjackwills-oxker) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [Prefect Core](https://github.com/prefecthq/prefect)
 
 ![](https://img.shields.io/github/stars/prefecthq/prefect?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
@@ -96,20 +152,6 @@ Workflow management system that makes it easy to take your data pipelines and ad
 **Why it is here:** Async-first, mejor performance en workflows I/O bound
 
 **Evidence record:** [Full evidence](../catalog/devops.md#prefect-core-prefecthq-prefect) · [data/latest.json](../data/latest.json)
-
----
-
-### [SaltStack](https://github.com/saltstack/salt)
-
-![](https://img.shields.io/github/stars/saltstack/salt?style=flat-square&label=⭐) · Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
-
-**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
-
-Software to automate the management and configuration of any infrastructure or application at scale.
-
-**Why it is here:** Event-driven, escalable horizontalmente
-
-**Evidence record:** [Full evidence](../catalog/devops.md#saltstack-saltstack-salt) · [data/latest.json](../data/latest.json)
 
 ---
 

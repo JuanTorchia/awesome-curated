@@ -43,20 +43,6 @@ Python Rust A high-performance algorithmic trading platform and event-driven bac
 
 ---
 
-### [OpenLayers3](https://openlayers.org)
-
-掲載元 2 件のアクティブなソース: jivoi/awesome-osint, sorrycc/awesome-javascript
-
-**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
-
-A high-performance, feature-packed library for all your mapping needs.
-
-**掲載理由:** Performance en datasets geoespaciales grandes
-
-**根拠の記録:** [根拠の詳細](../catalog/other.md#openlayers3-openlayers) · [data/latest.json](../data/latest.json)
-
----
-
 ### [QuantLib](https://github.com/lballabio/quantlib)
 
 ![](https://img.shields.io/github/stars/lballabio/quantlib?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: wilsonfreitas/awesome-quant, fffaraz/awesome-cpp
@@ -82,6 +68,20 @@ News reader for Feedbin, Feedly, Feed Wrangler and so on. (https://apps.apple.co
 **掲載理由:** News reader for Feedbin, Feedly, Feed Wrangler and so on. (https://apps.apple.com/pl/app/reeder-5/id1529448980?platform=mac)
 
 **根拠の記録:** [根拠の詳細](../catalog/other.md#reeder-5-reederapp) · [data/latest.json](../data/latest.json)
+
+---
+
+### [SVGo](https://github.com/ajstarks/svgo)
+
+![](https://img.shields.io/github/stars/ajstarks/svgo?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: josephmisiti/awesome-machine-learning, avelino/awesome-go
+
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
+
+The Go Language library for SVG generation.
+
+**掲載理由:** The Go Language library for SVG generation.
+
+**根拠の記録:** [根拠の詳細](../catalog/other.md#svgo-ajstarks-svgo) · [data/latest.json](../data/latest.json)
 
 ---
 

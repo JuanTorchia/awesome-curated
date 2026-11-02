@@ -2,43 +2,9 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**2 人工审核 · 0 常用标准工具 · 9 AI 候选工具 · 0 Needs Review 状态**
+**0 人工审核 · 0 常用标准工具 · 7 AI 候选工具 · 0 Needs Review 状态**
 
 可查阅目录: [TOOLS.md](../TOOLS.md) · 证据快照: [data/latest.json](../data/latest.json)
-
----
-
-## 人工审核精选
-
-具有人工审核标签和明确限制的工具。
-
-### 👤 [Ghost](https://github.com/tryghost/ghost)
-
-![](https://img.shields.io/github/stars/tryghost/ghost?style=flat-square&label=⭐) · 收录于 2 个活跃来源: sorrycc/awesome-javascript, MunGell/awesome-for-beginners
-
-**审核:** Worth Trying · **说明 / 审核:** 跨来源覆盖有限。
-
-Just a blogging platform
-
-**收录原因:** Editor intuitivo con preview real-time
-
-**证据记录:** [完整证据](../catalog/web.md#ghost-tryghost-ghost) · [data/latest.json](../data/latest.json)
-
----
-
-### 👤 [Vest](https://github.com/ealush/vest)
-
-![](https://img.shields.io/github/stars/ealush/vest?style=flat-square&label=⭐) · 收录于 2 个活跃来源: sorrycc/awesome-javascript, MunGell/awesome-for-beginners
-
-**审核:** Worth Trying · **说明 / 审核:** 跨来源覆盖有限。
-
-Validations framework inspired by unit testing frameworks.
-
-**收录原因:** Sintaxis intuitiva para validaciones complejas
-
-[可复现示例](../GUIDE.md#vest)
-
-**证据记录:** [完整证据](../catalog/web.md#vest-ealush-vest) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -77,17 +43,17 @@ Remote Procedure Calls (RPCs) provide a useful abstraction for building distribu
 
 ---
 
-### [hyperium/hyper](https://github.com/hyperium/hyper)
+### [juspay/neurolink](https://github.com/juspay/neurolink)
 
-![](https://img.shields.io/github/stars/hyperium/hyper?style=flat-square&label=⭐) · 收录于 2 个活跃来源: rust-unofficial/awesome-rust, MunGell/awesome-for-beginners
+![](https://img.shields.io/github/stars/juspay/neurolink?style=flat-square&label=⭐) · 收录于 2 个活跃来源: josephmisiti/awesome-machine-learning, punkpeye/awesome-mcp-servers
 
 **审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
 
-an HTTP implementation
+📇 ☁️ 🏠 🍎 🪟 🐧 Making enterprise AI infrastructure universally accessible. Edge-first platform unifying 12 providers and 100+ models with multi-agent orchestration, HITL workflows, guardrails middleware, and...
 
-**收录原因:** Arquitectura async/await limpia con Tokio
+**收录原因:** Middleware guardrails incluido
 
-**证据记录:** [完整证据](../catalog/web.md#hyperium-hyper-hyperium-hyper) · [data/latest.json](../data/latest.json)
+**证据记录:** [完整证据](../catalog/web.md#juspay-neurolink-juspay-neurolink) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -102,34 +68,6 @@ A Python agent framework for building generative AI applications with structured
 **收录原因:** A Python agent framework for building generative AI applications with structured schemas.
 
 **证据记录:** [完整证据](../catalog/web.md#pydantic-ai-pydantic-pydantic-ai) · [data/latest.json](../data/latest.json)
-
----
-
-### [Python Babel](https://github.com/python-babel/babel)
-
-![](https://img.shields.io/github/stars/python-babel/babel?style=flat-square&label=⭐) · 收录于 2 个活跃来源: vinta/awesome-python, MunGell/awesome-for-beginners
-
-**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
-
-The Python Internationalization Library.
-
-**收录原因:** The Python Internationalization Library.
-
-**证据记录:** [完整证据](../catalog/web.md#python-babel-python-babel-babel) · [data/latest.json](../data/latest.json)
-
----
-
-### [scrapy](https://github.com/scrapy/scrapy)
-
-![](https://img.shields.io/github/stars/scrapy/scrapy?style=flat-square&label=⭐) · 收录于 2 个活跃来源: vinta/awesome-python, MunGell/awesome-for-beginners
-
-**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
-
-A fast high-level web crawling & scraping framework for Python.
-
-**收录原因:** A fast high-level web crawling & scraping framework for Python.
-
-**证据记录:** [完整证据](../catalog/web.md#scrapy-scrapy-scrapy) · [data/latest.json](../data/latest.json)
 
 ---
 

@@ -2,7 +2,7 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**1 人工审核 · 0 常用标准工具 · 7 AI 候选工具 · 0 Needs Review 状态**
+**1 人工审核 · 0 常用标准工具 · 9 AI 候选工具 · 0 Needs Review 状态**
 
 可查阅目录: [TOOLS.md](../TOOLS.md) · 证据快照: [data/latest.json](../data/latest.json)
 
@@ -89,6 +89,20 @@ A fork of Firefox, focused on privacy, security and freedom. (https://gitlab.com
 
 ---
 
+### [Promptfoo](https://github.com/promptfoo/promptfoo)
+
+![](https://img.shields.io/github/stars/promptfoo/promptfoo?style=flat-square&label=⭐) · 收录于 2 个活跃来源: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
+
+LLM red teaming and evaluation framework for testing jailbreaks, prompt injection, and other vulnerabilities with CI/CD integration.
+
+**收录原因:** CI/CD integration out-of-box
+
+**证据记录:** [完整证据](../catalog/security.md#promptfoo-promptfoo-promptfoo) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [safedep/vet](https://github.com/safedep/vet)
 
 ![](https://img.shields.io/github/stars/safedep/vet?style=flat-square&label=⭐) · 收录于 2 个活跃来源: avelino/awesome-go, punkpeye/awesome-mcp-servers
@@ -128,6 +142,20 @@ A simple tool to manage secrets using ssh keys for encryption and decryption.
 **收录原因:** A simple tool to manage secrets using ssh keys for encryption and decryption.
 
 **证据记录:** [完整证据](../catalog/security.md#ssh-vault-ssh-vault-ssh-vault) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Syft](https://github.com/anchore/syft)
+
+![](https://img.shields.io/github/stars/anchore/syft?style=flat-square&label=⭐) · 收录于 2 个活跃来源: veggiemonk/awesome-docker, avelino/awesome-go
+
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
+
+CLI tool and library for generating a Software Bill of Materials (SBOM) from container images and filesystems. By Anchore.
+
+**收录原因:** Herramienta en ecosistema maduro (supply-chain security), requisito creciente en enterprise
+
+**证据记录:** [完整证据](../catalog/security.md#syft-anchore-syft) · [data/latest.json](../data/latest.json)
 
 ---
 

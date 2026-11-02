@@ -2,43 +2,9 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**2 人間レビュー済み · 0 広く使われる標準ツール · 9 AI 候補 · 0 Needs Review 状態**
+**0 人間レビュー済み · 0 広く使われる標準ツール · 7 AI 候補 · 0 Needs Review 状態**
 
 確認できるカタログ: [TOOLS.md](../TOOLS.md) · 根拠のスナップショット: [data/latest.json](../data/latest.json)
-
----
-
-## 人間レビュー済みの選定
-
-人間による判定と制約が明示されたツールです。
-
-### 👤 [Ghost](https://github.com/tryghost/ghost)
-
-![](https://img.shields.io/github/stars/tryghost/ghost?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: sorrycc/awesome-javascript, MunGell/awesome-for-beginners
-
-**レビュー:** Worth Trying · **注記 / レビュー:** 複数ソースによる掲載の範囲は限定的です。
-
-Just a blogging platform
-
-**掲載理由:** Editor intuitivo con preview real-time
-
-**根拠の記録:** [根拠の詳細](../catalog/web.md#ghost-tryghost-ghost) · [data/latest.json](../data/latest.json)
-
----
-
-### 👤 [Vest](https://github.com/ealush/vest)
-
-![](https://img.shields.io/github/stars/ealush/vest?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: sorrycc/awesome-javascript, MunGell/awesome-for-beginners
-
-**レビュー:** Worth Trying · **注記 / レビュー:** 複数ソースによる掲載の範囲は限定的です。
-
-Validations framework inspired by unit testing frameworks.
-
-**掲載理由:** Sintaxis intuitiva para validaciones complejas
-
-[再現できるサンプル](../GUIDE.md#vest)
-
-**根拠の記録:** [根拠の詳細](../catalog/web.md#vest-ealush-vest) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -77,17 +43,17 @@ Remote Procedure Calls (RPCs) provide a useful abstraction for building distribu
 
 ---
 
-### [hyperium/hyper](https://github.com/hyperium/hyper)
+### [juspay/neurolink](https://github.com/juspay/neurolink)
 
-![](https://img.shields.io/github/stars/hyperium/hyper?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: rust-unofficial/awesome-rust, MunGell/awesome-for-beginners
+![](https://img.shields.io/github/stars/juspay/neurolink?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: josephmisiti/awesome-machine-learning, punkpeye/awesome-mcp-servers
 
 **レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
 
-an HTTP implementation
+📇 ☁️ 🏠 🍎 🪟 🐧 Making enterprise AI infrastructure universally accessible. Edge-first platform unifying 12 providers and 100+ models with multi-agent orchestration, HITL workflows, guardrails middleware, and...
 
-**掲載理由:** Arquitectura async/await limpia con Tokio
+**掲載理由:** Middleware guardrails incluido
 
-**根拠の記録:** [根拠の詳細](../catalog/web.md#hyperium-hyper-hyperium-hyper) · [data/latest.json](../data/latest.json)
+**根拠の記録:** [根拠の詳細](../catalog/web.md#juspay-neurolink-juspay-neurolink) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -102,34 +68,6 @@ A Python agent framework for building generative AI applications with structured
 **掲載理由:** A Python agent framework for building generative AI applications with structured schemas.
 
 **根拠の記録:** [根拠の詳細](../catalog/web.md#pydantic-ai-pydantic-pydantic-ai) · [data/latest.json](../data/latest.json)
-
----
-
-### [Python Babel](https://github.com/python-babel/babel)
-
-![](https://img.shields.io/github/stars/python-babel/babel?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: vinta/awesome-python, MunGell/awesome-for-beginners
-
-**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
-
-The Python Internationalization Library.
-
-**掲載理由:** The Python Internationalization Library.
-
-**根拠の記録:** [根拠の詳細](../catalog/web.md#python-babel-python-babel-babel) · [data/latest.json](../data/latest.json)
-
----
-
-### [scrapy](https://github.com/scrapy/scrapy)
-
-![](https://img.shields.io/github/stars/scrapy/scrapy?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: vinta/awesome-python, MunGell/awesome-for-beginners
-
-**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
-
-A fast high-level web crawling & scraping framework for Python.
-
-**掲載理由:** A fast high-level web crawling & scraping framework for Python.
-
-**根拠の記録:** [根拠の詳細](../catalog/web.md#scrapy-scrapy-scrapy) · [data/latest.json](../data/latest.json)
 
 ---
 

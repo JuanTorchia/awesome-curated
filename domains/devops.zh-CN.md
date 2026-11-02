@@ -2,7 +2,7 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**0 人工审核 · 0 常用标准工具 · 7 AI 候选工具 · 0 Needs Review 状态**
+**0 人工审核 · 0 常用标准工具 · 10 AI 候选工具 · 0 Needs Review 状态**
 
 可查阅目录: [TOOLS.md](../TOOLS.md) · 证据快照: [data/latest.json](../data/latest.json)
 
@@ -15,37 +15,37 @@
 
 来源覆盖足够的自动候选工具，尚未获得人工认可。
 
-### [Ansible](https://github.com/ansible/ansible)
+### [dive](https://github.com/wagoodman/dive)
 
-![](https://img.shields.io/github/stars/ansible/ansible?style=flat-square&label=⭐) · 收录于 2 个活跃来源: vinta/awesome-python, MunGell/awesome-for-beginners
+![](https://img.shields.io/github/stars/wagoodman/dive?style=flat-square&label=⭐) · 收录于 2 个活跃来源: veggiemonk/awesome-docker, avelino/awesome-go
 
 **审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
 
-A simple IT automation platform
+A tool for exploring each layer in a docker image. By wagoodman.
 
-**收录原因:** A simple IT automation platform
+**收录原因:** A tool for exploring each layer in a docker image. By wagoodman.
 
-**证据记录:** [完整证据](../catalog/devops.md#ansible-ansible-ansible) · [data/latest.json](../data/latest.json)
+**证据记录:** [完整证据](../catalog/devops.md#dive-wagoodman-dive) · [data/latest.json](../data/latest.json)
 
 ---
 
-### [BorgBackup](https://github.com/borgbackup/borg)
+### [docker-volume-backup](https://github.com/offen/docker-volume-backup)
 
-![](https://img.shields.io/github/stars/borgbackup/borg?style=flat-square&label=⭐) · 收录于 2 个活跃来源: vinta/awesome-python, MunGell/awesome-for-beginners
+![](https://img.shields.io/github/stars/offen/docker-volume-backup?style=flat-square&label=⭐) · 收录于 2 个活跃来源: veggiemonk/awesome-docker, avelino/awesome-go
 
 **审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
 
-Deduplicating backup program with compression and authenticated encryption.
+Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage.
 
-**收录原因:** Deduplicating backup program with compression and authenticated encryption.
+**收录原因:** Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage.
 
-**证据记录:** [完整证据](../catalog/devops.md#borgbackup-borgbackup-borg) · [data/latest.json](../data/latest.json)
+**证据记录:** [完整证据](../catalog/devops.md#docker-volume-backup-offen-docker-volume-backup) · [data/latest.json](../data/latest.json)
 
 ---
 
 ### [Dragonfly](https://github.com/dragonflyoss/dragonfly2)
 
-![](https://img.shields.io/github/stars/dragonflyoss/dragonfly2?style=flat-square&label=⭐) · 收录于 2 个活跃来源: avelino/awesome-go, MunGell/awesome-for-beginners
+![](https://img.shields.io/github/stars/dragonflyoss/dragonfly2?style=flat-square&label=⭐) · 收录于 2 个活跃来源: veggiemonk/awesome-docker, avelino/awesome-go
 
 **审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
 
@@ -54,6 +54,34 @@ Provide efficient, stable and secure file distribution and image acceleration ba
 **收录原因:** Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best practice and standard...
 
 **证据记录:** [完整证据](../catalog/devops.md#dragonfly-dragonflyoss-dragonfly2) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Drone](https://github.com/drone/drone)
+
+![](https://img.shields.io/github/stars/drone/drone?style=flat-square&label=⭐) · 收录于 2 个活跃来源: veggiemonk/awesome-docker, avelino/awesome-go
+
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
+
+Continuous integration server built on Docker and configured using YAML files.
+
+**收录原因:** YAML limpio vs XML verboso de Jenkins
+
+**证据记录:** [完整证据](../catalog/devops.md#drone-drone-drone) · [data/latest.json](../data/latest.json)
+
+---
+
+### [lazyjournal](https://github.com/lifailon/lazyjournal)
+
+![](https://img.shields.io/github/stars/lifailon/lazyjournal?style=flat-square&label=⭐) · 收录于 2 个活跃来源: veggiemonk/awesome-docker, avelino/awesome-go
+
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
+
+A interface for reading and filtering the logs output of Docker and Podman containers like Dozzle but for the terminal with support for fuzzy find, regex and output coloring.
+
+**收录原因:** Fuzzy search integrado en logs
+
+**证据记录:** [完整证据](../catalog/devops.md#lazyjournal-lifailon-lazyjournal) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -71,6 +99,20 @@ Luigi is a Python module that helps you build complex pipelines of batch jobs, h
 
 ---
 
+### [netdata/netdata#Netdata](https://github.com/netdata/netdata)
+
+![](https://img.shields.io/github/stars/netdata/netdata?style=flat-square&label=⭐) · 收录于 2 个活跃来源: veggiemonk/awesome-docker, punkpeye/awesome-mcp-servers
+
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
+
+🎖️ 🏠 ☁️ 📟 🍎 🪟 🐧 Discovery, exploration, reporting and root cause analysis using all observability data, including metrics, logs, systems, containers, processes, and network connections
+
+**收录原因:** Agente lightweight, baja huella de memoria
+
+**证据记录:** [完整证据](../catalog/devops.md#netdata-netdata-netdata-netdata-netdata) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [nwiizo/tfmcp](https://github.com/nwiizo/tfmcp)
 
 ![](https://img.shields.io/github/stars/nwiizo/tfmcp?style=flat-square&label=⭐) · 收录于 2 个活跃来源: rust-unofficial/awesome-rust, punkpeye/awesome-mcp-servers
@@ -85,6 +127,20 @@ Luigi is a Python module that helps you build complex pipelines of batch jobs, h
 
 ---
 
+### [oxker](https://github.com/mrjackwills/oxker)
+
+![](https://img.shields.io/github/stars/mrjackwills/oxker?style=flat-square&label=⭐) · 收录于 2 个活跃来源: veggiemonk/awesome-docker, rust-unofficial/awesome-rust
+
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
+
+A simple tui to view & control docker containers. Written in Rust, making heavy use of ratatui & Bollard,.
+
+**收录原因:** A simple tui to view & control docker containers. Written in Rust, making heavy use of ratatui & Bollard,.
+
+**证据记录:** [完整证据](../catalog/devops.md#oxker-mrjackwills-oxker) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [Prefect Core](https://github.com/prefecthq/prefect)
 
 ![](https://img.shields.io/github/stars/prefecthq/prefect?style=flat-square&label=⭐) · 收录于 2 个活跃来源: EthicalML/awesome-production-machine-learning, vinta/awesome-python
@@ -96,20 +152,6 @@ Workflow management system that makes it easy to take your data pipelines and ad
 **收录原因:** Async-first, mejor performance en workflows I/O bound
 
 **证据记录:** [完整证据](../catalog/devops.md#prefect-core-prefecthq-prefect) · [data/latest.json](../data/latest.json)
-
----
-
-### [SaltStack](https://github.com/saltstack/salt)
-
-![](https://img.shields.io/github/stars/saltstack/salt?style=flat-square&label=⭐) · 收录于 2 个活跃来源: vinta/awesome-python, MunGell/awesome-for-beginners
-
-**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
-
-Software to automate the management and configuration of any infrastructure or application at scale.
-
-**收录原因:** Event-driven, escalable horizontalmente
-
-**证据记录:** [完整证据](../catalog/devops.md#saltstack-saltstack-salt) · [data/latest.json](../data/latest.json)
 
 ---
 

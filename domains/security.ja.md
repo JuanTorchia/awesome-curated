@@ -2,7 +2,7 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**1 人間レビュー済み · 0 広く使われる標準ツール · 7 AI 候補 · 0 Needs Review 状態**
+**1 人間レビュー済み · 0 広く使われる標準ツール · 9 AI 候補 · 0 Needs Review 状態**
 
 確認できるカタログ: [TOOLS.md](../TOOLS.md) · 根拠のスナップショット: [data/latest.json](../data/latest.json)
 
@@ -89,6 +89,20 @@ A fork of Firefox, focused on privacy, security and freedom. (https://gitlab.com
 
 ---
 
+### [Promptfoo](https://github.com/promptfoo/promptfoo)
+
+![](https://img.shields.io/github/stars/promptfoo/promptfoo?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
+
+LLM red teaming and evaluation framework for testing jailbreaks, prompt injection, and other vulnerabilities with CI/CD integration.
+
+**掲載理由:** CI/CD integration out-of-box
+
+**根拠の記録:** [根拠の詳細](../catalog/security.md#promptfoo-promptfoo-promptfoo) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [safedep/vet](https://github.com/safedep/vet)
 
 ![](https://img.shields.io/github/stars/safedep/vet?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: avelino/awesome-go, punkpeye/awesome-mcp-servers
@@ -128,6 +142,20 @@ A simple tool to manage secrets using ssh keys for encryption and decryption.
 **掲載理由:** A simple tool to manage secrets using ssh keys for encryption and decryption.
 
 **根拠の記録:** [根拠の詳細](../catalog/security.md#ssh-vault-ssh-vault-ssh-vault) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Syft](https://github.com/anchore/syft)
+
+![](https://img.shields.io/github/stars/anchore/syft?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: veggiemonk/awesome-docker, avelino/awesome-go
+
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
+
+CLI tool and library for generating a Software Bill of Materials (SBOM) from container images and filesystems. By Anchore.
+
+**掲載理由:** Herramienta en ecosistema maduro (supply-chain security), requisito creciente en enterprise
+
+**根拠の記録:** [根拠の詳細](../catalog/security.md#syft-anchore-syft) · [data/latest.json](../data/latest.json)
 
 ---
 

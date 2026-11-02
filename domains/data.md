@@ -2,27 +2,9 @@
 
 <p><sub>← [Back to main](../README.md)</sub></p>
 
-**1 Human reviewed · 0 Popular standards · 27 AI candidates · 0 Needs Review**
+**0 Human reviewed · 0 Popular standards · 39 AI candidates · 0 Needs Review**
 
 Inspectable catalog: [TOOLS.md](../TOOLS.md) · Evidence snapshot: [data/latest.json](../data/latest.json)
-
----
-
-## Human-reviewed picks
-
-Tools with a human review label and visible caveats.
-
-### 👤 [pouchdb](https://github.com/pouchdb/pouchdb)
-
-![](https://img.shields.io/github/stars/pouchdb/pouchdb?style=flat-square&label=⭐) · Found in 2 active sources: sorrycc/awesome-javascript, MunGell/awesome-for-beginners
-
-**Review:** Worth Trying · **Caveat / review:** Cross-source coverage is limited.
-
-Javascript db inspired by Apache CouchDB to run well within the browser.
-
-**Why it is here:** Javascript db inspired by Apache CouchDB to run well within the browser.
-
-**Evidence record:** [Full evidence](../catalog/data.md#pouchdb-pouchdb-pouchdb) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -33,17 +15,31 @@ Javascript db inspired by Apache CouchDB to run well within the browser.
 
 Automated candidates with enough source signal; these are not human endorsements yet.
 
-### [matplotlib](https://github.com/matplotlib/matplotlib)
+### [gradio](https://github.com/gradio-app/gradio)
 
-![](https://img.shields.io/github/stars/matplotlib/matplotlib?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python, MunGell/awesome-for-beginners
+![](https://img.shields.io/github/stars/gradio-app/gradio?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
 
 **Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
 
-A Python 2D plotting library which produces publication-quality figures in a variety of hardcopy formats and interactive environments across platforms.
+Quickly create and share demos of models by only writing Python. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
 
-**Why it is here:** APIs consistentes, composable transformers
+**Why it is here:** Simplicidad extrema para demos (write-once approach)
 
-**Evidence record:** [Full evidence](../catalog/data.md#matplotlib-matplotlib-matplotlib) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/data.md#gradio-gradio-app-gradio) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Streamlit](https://github.com/streamlit/streamlit)
+
+![](https://img.shields.io/github/stars/streamlit/streamlit?style=flat-square&label=⭐) · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
+
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
+
+Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts. It supports hot-reloading, so your app updates live as you edit and save your file.
+
+**Why it is here:** Deployable en minutos, zero JavaScript requerido
+
+**Evidence record:** [Full evidence](../catalog/data.md#streamlit-streamlit-streamlit) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -75,17 +71,45 @@ Data Pipeline framework built in Python, including scheduler, DAG definition and
 
 ---
 
-### [Apache ECharts](https://github.com/apache/echarts)
+### [Bread Dataset Viewer](https://github.com/bread-technologies/mle_vscode_extension)
 
-![](https://img.shields.io/github/stars/apache/echarts?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, sorrycc/awesome-javascript
+![](https://img.shields.io/github/stars/bread-technologies/mle_vscode_extension?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
 
-Apache ECharts is a powerful, interactive charting and data visualization library for browser.
+A VS Code extension for viewing and exploring large machine learning datasets (CSV, JSON, Parquet, etc.) directly within the editor without VS Code crashing in a clean UI.
 
-**Why it is here:** Rendering performante incluso con datasets grandes
+**Why it is here:** A VS Code extension for viewing and exploring large machine learning datasets (CSV, JSON, Parquet, etc.) directly within the editor without VS...
 
-**Evidence record:** [Full evidence](../catalog/data.md#apache-echarts-apache-echarts) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/data.md#bread-dataset-viewer-bread-technologies-mle-vscode-extension) · [data/latest.json](../data/latest.json)
+
+---
+
+### [C3.js](https://c3js.org)
+
+Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning
+
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
+
+customizable library based on D3.js for easy chart drawing.
+
+**Why it is here:** Comunidad activa, muchos ejemplos
+
+**Evidence record:** [Full evidence](../catalog/data.md#c3-js-c3js) · [data/latest.json](../data/latest.json)
+
+---
+
+### [cleanlab](https://github.com/cleanlab/cleanlab)
+
+![](https://img.shields.io/github/stars/cleanlab/cleanlab?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
+
+Python library for data-centric AI. Can automatically: find mislabeled data, detect outliers, estimate consensus + annotator-quality for multi-annotator datasets, suggest which data is best to (re)label next.
+
+**Why it is here:** Python library for data-centric AI. Can automatically: find mislabeled data, detect outliers, estimate consensus + annotator-quality for...
+
+**Evidence record:** [Full evidence](../catalog/data.md#cleanlab-cleanlab-cleanlab) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -145,6 +169,48 @@ Distributed parallel processing framework for Pandas and NumPy computations.
 
 ---
 
+### [DataComPy](https://github.com/capitalone/datacompy)
+
+![](https://img.shields.io/github/stars/capitalone/datacompy?style=flat-square&label=⭐) · Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning
+
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
+
+A library to compare Pandas, Polars, and Spark data frames. It provides stats and lets users adjust for match accuracy.
+
+**Why it is here:** A library to compare Pandas, Polars, and Spark data frames. It provides stats and lets users adjust for match accuracy.
+
+**Evidence record:** [Full evidence](../catalog/data.md#datacompy-capitalone-datacompy) · [data/latest.json](../data/latest.json)
+
+---
+
+### [DataFrames](https://github.com/juliadata/dataframes.jl)
+
+![](https://img.shields.io/github/stars/juliadata/dataframes.jl?style=flat-square&label=⭐) · Found in 2 active sources: wilsonfreitas/awesome-quant, josephmisiti/awesome-machine-learning
+
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
+
+library for working with tabular data in Julia.
+
+**Why it is here:** Performance cercana a C para operaciones matriciales
+
+**Evidence record:** [Full evidence](../catalog/data.md#dataframes-juliadata-dataframes-jl) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Deepnote](https://github.com/deepnote/deepnote)
+
+![](https://img.shields.io/github/stars/deepnote/deepnote?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
+
+Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for...
+
+**Why it is here:** Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL...
+
+**Evidence record:** [Full evidence](../catalog/data.md#deepnote-deepnote-deepnote) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [Dolt](https://github.com/dolthub/dolt)
 
 ![](https://img.shields.io/github/stars/dolthub/dolt?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, avelino/awesome-go
@@ -173,6 +239,20 @@ Python AI-native SEC EDGAR library with XBRL financials, clean text extraction, 
 
 ---
 
+### [etcd](https://github.com/etcd-io/etcd)
+
+![](https://img.shields.io/github/stars/etcd-io/etcd?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go
+
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
+
+Distributed reliable key-value store for the most critical data of a distributed system by etcd-io (former part of CoreOS).
+
+**Why it is here:** Raft consensus battle-tested en Kubernetes
+
+**Evidence record:** [Full evidence](../catalog/data.md#etcd-etcd-io-etcd) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [Gephi](https://gephi.org)
 
 Found in 2 active sources: jivoi/awesome-osint, academic/awesome-datascience
@@ -187,133 +267,35 @@ is an open-source graph and network visualization software.
 
 ---
 
-### [gradio](https://github.com/gradio-app/gradio)
+### [ggplot2](https://ggplot2.tidyverse.org)
 
-![](https://img.shields.io/github/stars/gradio-app/gradio?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
-
-**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
-
-Quickly create and share demos of models by only writing Python. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
-
-**Why it is here:** Simplicidad extrema para demos (write-once approach)
-
-**Evidence record:** [Full evidence](../catalog/data.md#gradio-gradio-app-gradio) · [data/latest.json](../data/latest.json)
-
----
-
-### [pandas](https://github.com/pandas-dev/pandas)
-
-![](https://img.shields.io/github/stars/pandas-dev/pandas?style=flat-square&label=⭐) · Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
+Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning
 
 **Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+A data visualization package based on the grammar of graphics.
 
-**Why it is here:** Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects,...
+**Why it is here:** Sintaxis declarativa intuitiva, output publication-ready
 
-**Evidence record:** [Full evidence](../catalog/data.md#pandas-pandas-dev-pandas) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/data.md#ggplot2-ggplot2) · [data/latest.json](../data/latest.json)
 
 ---
 
-### [pathwaycom/pathway](https://github.com/pathwaycom/pathway)
+### [Hamilton](https://github.com/dagworks-inc/hamilton)
 
-![](https://img.shields.io/github/stars/pathwaycom/pathway?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, vinta/awesome-python
+![](https://img.shields.io/github/stars/dagworks-inc/hamilton?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
 **Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
 
-Performant open-source Python ETL framework with Rust runtime, supporting 300+ data sources.
+Hamilton is a micro-orchestration framework for defining dataflows. Runs anywhere python runs (e.g. jupyter, fastAPI, spark, ray, dask). Brings software engineering best practices without you knowing it. Use it to...
 
-**Why it is here:** Runtime Rust = performance y memory efficiency
+**Why it is here:** Micro-orquestador para dataflows (feature eng, pipelines, LLM workflows). Python-first, corre en Jupyter/FastAPI/Spark/Ray. Resuelve problema:...
 
-**Evidence record:** [Full evidence](../catalog/data.md#pathwaycom-pathway-pathwaycom-pathway) · [data/latest.json](../data/latest.json)
-
----
-
-### [Perspective](https://github.com/finos/perspective)
-
-![](https://img.shields.io/github/stars/finos/perspective?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, jivoi/awesome-osint
-
-**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
-
-Streaming pivot visualization via WebAssembly.
-
-**Why it is here:** Performance WebAssembly para datasets masivos
-
-**Evidence record:** [Full evidence](../catalog/data.md#perspective-finos-perspective) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/data.md#hamilton-dagworks-inc-hamilton) · [data/latest.json](../data/latest.json)
 
 ---
 
-### [Plotly](https://github.com/plotly/plotly.py)
-
-![](https://img.shields.io/github/stars/plotly/plotly.py?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
-
-**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
-
-An interactive, open source, and browser-based graphing library for Python.
-
-**Why it is here:** An interactive, open source, and browser-based graphing library for Python.
-
-**Evidence record:** [Full evidence](../catalog/data.md#plotly-plotly-plotly-py) · [data/latest.json](../data/latest.json)
-
----
-
-### [pola-rs/polars](https://github.com/pola-rs/polars)
-
-![](https://img.shields.io/github/stars/pola-rs/polars?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, vinta/awesome-python
-
-**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
-
-Fast feature complete DataFrame library
-
-**Why it is here:** Lazy evaluation y query optimization integrados
-
-**Evidence record:** [Full evidence](../catalog/data.md#pola-rs-polars-pola-rs-polars) · [data/latest.json](../data/latest.json)
-
----
-
-### [Rerun](https://github.com/rerun-io/rerun)
-
-![](https://img.shields.io/github/stars/rerun-io/rerun?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, rust-unofficial/awesome-rust
-
-**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
-
-Rerun is an open-source SDK for logging, storing, querying, and visualizing multimodal data, designed for robotics, computer vision, and spatial AI.
-
-**Why it is here:** Rerun is an open-source SDK for logging, storing, querying, and visualizing multimodal data, designed for robotics, computer vision, and spatial AI.
-
-**Evidence record:** [Full evidence](../catalog/data.md#rerun-rerun-io-rerun) · [data/latest.json](../data/latest.json)
-
----
-
-### [RisingWave](https://github.com/risingwavelabs/risingwave)
-
-![](https://img.shields.io/github/stars/risingwavelabs/risingwave?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, rust-unofficial/awesome-rust
-
-**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
-
-A distributed SQL streaming database that unifies stream processing and low-latency serving, ideal for building and serving features for online machine learning.
-
-**Why it is here:** PostgreSQL wire protocol, tooling existing
-
-**Evidence record:** [Full evidence](../catalog/data.md#risingwave-risingwavelabs-risingwave) · [data/latest.json](../data/latest.json)
-
----
-
-### [seaborn](https://github.com/mwaskom/seaborn)
-
-![](https://img.shields.io/github/stars/mwaskom/seaborn?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
-
-**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
-
-Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
-
-**Why it is here:** API declarativa + matplotlib power debajo
-
-**Evidence record:** [Full evidence](../catalog/data.md#seaborn-mwaskom-seaborn) · [data/latest.json](../data/latest.json)
-
----
-
-_Showing 20 of 27. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+_Showing 20 of 39. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

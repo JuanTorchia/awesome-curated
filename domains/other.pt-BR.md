@@ -43,20 +43,6 @@ Python Rust A high-performance algorithmic trading platform and event-driven bac
 
 ---
 
-### [OpenLayers3](https://openlayers.org)
-
-Encontrada em 2 fontes ativas: jivoi/awesome-osint, sorrycc/awesome-javascript
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-A high-performance, feature-packed library for all your mapping needs.
-
-**Por que foi incluída:** Performance en datasets geoespaciales grandes
-
-**Registro de evidências:** [Evidência completa](../catalog/other.md#openlayers3-openlayers) · [data/latest.json](../data/latest.json)
-
----
-
 ### [QuantLib](https://github.com/lballabio/quantlib)
 
 ![](https://img.shields.io/github/stars/lballabio/quantlib?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: wilsonfreitas/awesome-quant, fffaraz/awesome-cpp
@@ -82,6 +68,20 @@ News reader for Feedbin, Feedly, Feed Wrangler and so on. (https://apps.apple.co
 **Por que foi incluída:** News reader for Feedbin, Feedly, Feed Wrangler and so on. (https://apps.apple.com/pl/app/reeder-5/id1529448980?platform=mac)
 
 **Registro de evidências:** [Evidência completa](../catalog/other.md#reeder-5-reederapp) · [data/latest.json](../data/latest.json)
+
+---
+
+### [SVGo](https://github.com/ajstarks/svgo)
+
+![](https://img.shields.io/github/stars/ajstarks/svgo?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: josephmisiti/awesome-machine-learning, avelino/awesome-go
+
+**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
+
+The Go Language library for SVG generation.
+
+**Por que foi incluída:** The Go Language library for SVG generation.
+
+**Registro de evidências:** [Evidência completa](../catalog/other.md#svgo-ajstarks-svgo) · [data/latest.json](../data/latest.json)
 
 ---
 

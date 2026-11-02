@@ -2,43 +2,9 @@
 
 <p><sub>← [Back to main](../README.md)</sub></p>
 
-**2 Human reviewed · 0 Popular standards · 9 AI candidates · 0 Needs Review**
+**0 Human reviewed · 0 Popular standards · 7 AI candidates · 0 Needs Review**
 
 Inspectable catalog: [TOOLS.md](../TOOLS.md) · Evidence snapshot: [data/latest.json](../data/latest.json)
-
----
-
-## Human-reviewed picks
-
-Tools with a human review label and visible caveats.
-
-### 👤 [Ghost](https://github.com/tryghost/ghost)
-
-![](https://img.shields.io/github/stars/tryghost/ghost?style=flat-square&label=⭐) · Found in 2 active sources: sorrycc/awesome-javascript, MunGell/awesome-for-beginners
-
-**Review:** Worth Trying · **Caveat / review:** Cross-source coverage is limited.
-
-Just a blogging platform
-
-**Why it is here:** Editor intuitivo con preview real-time
-
-**Evidence record:** [Full evidence](../catalog/web.md#ghost-tryghost-ghost) · [data/latest.json](../data/latest.json)
-
----
-
-### 👤 [Vest](https://github.com/ealush/vest)
-
-![](https://img.shields.io/github/stars/ealush/vest?style=flat-square&label=⭐) · Found in 2 active sources: sorrycc/awesome-javascript, MunGell/awesome-for-beginners
-
-**Review:** Worth Trying · **Caveat / review:** Cross-source coverage is limited.
-
-Validations framework inspired by unit testing frameworks.
-
-**Why it is here:** Sintaxis intuitiva para validaciones complejas
-
-[Reproducible example](../GUIDE.md#vest)
-
-**Evidence record:** [Full evidence](../catalog/web.md#vest-ealush-vest) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -77,17 +43,17 @@ Remote Procedure Calls (RPCs) provide a useful abstraction for building distribu
 
 ---
 
-### [hyperium/hyper](https://github.com/hyperium/hyper)
+### [juspay/neurolink](https://github.com/juspay/neurolink)
 
-![](https://img.shields.io/github/stars/hyperium/hyper?style=flat-square&label=⭐) · Found in 2 active sources: rust-unofficial/awesome-rust, MunGell/awesome-for-beginners
+![](https://img.shields.io/github/stars/juspay/neurolink?style=flat-square&label=⭐) · Found in 2 active sources: josephmisiti/awesome-machine-learning, punkpeye/awesome-mcp-servers
 
 **Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
 
-an HTTP implementation
+📇 ☁️ 🏠 🍎 🪟 🐧 Making enterprise AI infrastructure universally accessible. Edge-first platform unifying 12 providers and 100+ models with multi-agent orchestration, HITL workflows, guardrails middleware, and...
 
-**Why it is here:** Arquitectura async/await limpia con Tokio
+**Why it is here:** Middleware guardrails incluido
 
-**Evidence record:** [Full evidence](../catalog/web.md#hyperium-hyper-hyperium-hyper) · [data/latest.json](../data/latest.json)
+**Evidence record:** [Full evidence](../catalog/web.md#juspay-neurolink-juspay-neurolink) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -102,34 +68,6 @@ A Python agent framework for building generative AI applications with structured
 **Why it is here:** A Python agent framework for building generative AI applications with structured schemas.
 
 **Evidence record:** [Full evidence](../catalog/web.md#pydantic-ai-pydantic-pydantic-ai) · [data/latest.json](../data/latest.json)
-
----
-
-### [Python Babel](https://github.com/python-babel/babel)
-
-![](https://img.shields.io/github/stars/python-babel/babel?style=flat-square&label=⭐) · Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
-
-**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
-
-The Python Internationalization Library.
-
-**Why it is here:** The Python Internationalization Library.
-
-**Evidence record:** [Full evidence](../catalog/web.md#python-babel-python-babel-babel) · [data/latest.json](../data/latest.json)
-
----
-
-### [scrapy](https://github.com/scrapy/scrapy)
-
-![](https://img.shields.io/github/stars/scrapy/scrapy?style=flat-square&label=⭐) · Found in 2 active sources: vinta/awesome-python, MunGell/awesome-for-beginners
-
-**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
-
-A fast high-level web crawling & scraping framework for Python.
-
-**Why it is here:** A fast high-level web crawling & scraping framework for Python.
-
-**Evidence record:** [Full evidence](../catalog/web.md#scrapy-scrapy-scrapy) · [data/latest.json](../data/latest.json)
 
 ---
 

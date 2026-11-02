@@ -2,21 +2,21 @@
 
 [All domains](../TOOLS.md) · [README](../README.md) · [Machine-readable evidence](../data/latest.json)
 
-Generated: 2026-10-31 · Tool entries: 1
+Generated: 2026-11-01 · Tool entries: 1
 
-### <a id="nativescript-nativescript-nativescript"></a>[NativeScript](https://github.com/nativescript/nativescript)
+### <a id="runanywhere-runanywhereai-runanywhere-sdks"></a>[RunAnywhere](https://github.com/runanywhereai/runanywhere-sdks)
 
-**Label:** Worth Trying · **Domain:** Mobile · **Signal:** Found in 2 active sources: sorrycc/awesome-javascript, MunGell/awesome-for-beginners
+**Label:** AI Candidate · **Domain:** Mobile · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
-**Summary:** NativeScript is an open source framework for building truly native mobile apps with JavaScript. Use web skills, like Angular and Vue.js, FlexBox and CSS, and get native UI and performance on iOS and Android.
+**Summary:** RunAnywhere is a production-ready SDK for running AI models (LLMs, speech-to-text, text-to-speech) on-device for iOS, Android, React Native, and Flutter enabling private, offline, and fast mobile AI applications.
 
-**Why it is here:** Curado tras research: solido pero tangencial al foco backend/Java.
+**Why it is here:** SDK multi-plataforma para correr modelos IA on-device (LLM, speech, TTS) en iOS/Android/React Native. Privacidad y offline garantizados. Resuelve...
 
-**Caveat:** Cross-source coverage is limited.
+**Caveat:** Candidate still needs human review before endorsement.
 
 **Source traces:**
 
-- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) · BENCH · quality 88 · observed 2026-10-26
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) · BENCH · quality 88 · observed 2026-10-05
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 97 · observed 2026-11-02
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · ROSTER · quality 97 · observed 2026-11-02
 
 ---

@@ -2,7 +2,7 @@
 
 <p><sub>← [Voltar ao main](../README.pt-BR.md)</sub></p>
 
-**1 Revisado por humano · 0 Padrões populares · 7 Candidatos de IA · 0 Estado Needs Review**
+**1 Revisado por humano · 0 Padrões populares · 9 Candidatos de IA · 0 Estado Needs Review**
 
 Catálogo consultável: [TOOLS.md](../TOOLS.md) · Snapshot de evidências: [data/latest.json](../data/latest.json)
 
@@ -89,6 +89,20 @@ A fork of Firefox, focused on privacy, security and freedom. (https://gitlab.com
 
 ---
 
+### [Promptfoo](https://github.com/promptfoo/promptfoo)
+
+![](https://img.shields.io/github/stars/promptfoo/promptfoo?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+
+**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
+
+LLM red teaming and evaluation framework for testing jailbreaks, prompt injection, and other vulnerabilities with CI/CD integration.
+
+**Por que foi incluída:** CI/CD integration out-of-box
+
+**Registro de evidências:** [Evidência completa](../catalog/security.md#promptfoo-promptfoo-promptfoo) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [safedep/vet](https://github.com/safedep/vet)
 
 ![](https://img.shields.io/github/stars/safedep/vet?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: avelino/awesome-go, punkpeye/awesome-mcp-servers
@@ -128,6 +142,20 @@ A simple tool to manage secrets using ssh keys for encryption and decryption.
 **Por que foi incluída:** A simple tool to manage secrets using ssh keys for encryption and decryption.
 
 **Registro de evidências:** [Evidência completa](../catalog/security.md#ssh-vault-ssh-vault-ssh-vault) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Syft](https://github.com/anchore/syft)
+
+![](https://img.shields.io/github/stars/anchore/syft?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: veggiemonk/awesome-docker, avelino/awesome-go
+
+**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
+
+CLI tool and library for generating a Software Bill of Materials (SBOM) from container images and filesystems. By Anchore.
+
+**Por que foi incluída:** Herramienta en ecosistema maduro (supply-chain security), requisito creciente en enterprise
+
+**Registro de evidências:** [Evidência completa](../catalog/security.md#syft-anchore-syft) · [data/latest.json](../data/latest.json)
 
 ---
 

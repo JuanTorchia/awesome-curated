@@ -43,20 +43,6 @@ Python Rust A high-performance algorithmic trading platform and event-driven bac
 
 ---
 
-### [OpenLayers3](https://openlayers.org)
-
-收录于 2 个活跃来源: jivoi/awesome-osint, sorrycc/awesome-javascript
-
-**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
-
-A high-performance, feature-packed library for all your mapping needs.
-
-**收录原因:** Performance en datasets geoespaciales grandes
-
-**证据记录:** [完整证据](../catalog/other.md#openlayers3-openlayers) · [data/latest.json](../data/latest.json)
-
----
-
 ### [QuantLib](https://github.com/lballabio/quantlib)
 
 ![](https://img.shields.io/github/stars/lballabio/quantlib?style=flat-square&label=⭐) · 收录于 2 个活跃来源: wilsonfreitas/awesome-quant, fffaraz/awesome-cpp
@@ -82,6 +68,20 @@ News reader for Feedbin, Feedly, Feed Wrangler and so on. (https://apps.apple.co
 **收录原因:** News reader for Feedbin, Feedly, Feed Wrangler and so on. (https://apps.apple.com/pl/app/reeder-5/id1529448980?platform=mac)
 
 **证据记录:** [完整证据](../catalog/other.md#reeder-5-reederapp) · [data/latest.json](../data/latest.json)
+
+---
+
+### [SVGo](https://github.com/ajstarks/svgo)
+
+![](https://img.shields.io/github/stars/ajstarks/svgo?style=flat-square&label=⭐) · 收录于 2 个活跃来源: josephmisiti/awesome-machine-learning, avelino/awesome-go
+
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
+
+The Go Language library for SVG generation.
+
+**收录原因:** The Go Language library for SVG generation.
+
+**证据记录:** [完整证据](../catalog/other.md#svgo-ajstarks-svgo) · [data/latest.json](../data/latest.json)
 
 ---
 

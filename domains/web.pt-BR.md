@@ -2,43 +2,9 @@
 
 <p><sub>← [Voltar ao main](../README.pt-BR.md)</sub></p>
 
-**2 Revisado por humano · 0 Padrões populares · 9 Candidatos de IA · 0 Estado Needs Review**
+**0 Revisado por humano · 0 Padrões populares · 7 Candidatos de IA · 0 Estado Needs Review**
 
 Catálogo consultável: [TOOLS.md](../TOOLS.md) · Snapshot de evidências: [data/latest.json](../data/latest.json)
-
----
-
-## Seleção revisada por pessoas
-
-Ferramentas com avaliação humana e limites visíveis.
-
-### 👤 [Ghost](https://github.com/tryghost/ghost)
-
-![](https://img.shields.io/github/stars/tryghost/ghost?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: sorrycc/awesome-javascript, MunGell/awesome-for-beginners
-
-**Revisão:** Worth Trying · **Nota / revisão:** A cobertura entre fontes é limitada.
-
-Just a blogging platform
-
-**Por que foi incluída:** Editor intuitivo con preview real-time
-
-**Registro de evidências:** [Evidência completa](../catalog/web.md#ghost-tryghost-ghost) · [data/latest.json](../data/latest.json)
-
----
-
-### 👤 [Vest](https://github.com/ealush/vest)
-
-![](https://img.shields.io/github/stars/ealush/vest?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: sorrycc/awesome-javascript, MunGell/awesome-for-beginners
-
-**Revisão:** Worth Trying · **Nota / revisão:** A cobertura entre fontes é limitada.
-
-Validations framework inspired by unit testing frameworks.
-
-**Por que foi incluída:** Sintaxis intuitiva para validaciones complejas
-
-[Exemplo reproduzível](../GUIDE.md#vest)
-
-**Registro de evidências:** [Evidência completa](../catalog/web.md#vest-ealush-vest) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -77,17 +43,17 @@ Remote Procedure Calls (RPCs) provide a useful abstraction for building distribu
 
 ---
 
-### [hyperium/hyper](https://github.com/hyperium/hyper)
+### [juspay/neurolink](https://github.com/juspay/neurolink)
 
-![](https://img.shields.io/github/stars/hyperium/hyper?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: rust-unofficial/awesome-rust, MunGell/awesome-for-beginners
+![](https://img.shields.io/github/stars/juspay/neurolink?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: josephmisiti/awesome-machine-learning, punkpeye/awesome-mcp-servers
 
 **Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
 
-an HTTP implementation
+📇 ☁️ 🏠 🍎 🪟 🐧 Making enterprise AI infrastructure universally accessible. Edge-first platform unifying 12 providers and 100+ models with multi-agent orchestration, HITL workflows, guardrails middleware, and...
 
-**Por que foi incluída:** Arquitectura async/await limpia con Tokio
+**Por que foi incluída:** Middleware guardrails incluido
 
-**Registro de evidências:** [Evidência completa](../catalog/web.md#hyperium-hyper-hyperium-hyper) · [data/latest.json](../data/latest.json)
+**Registro de evidências:** [Evidência completa](../catalog/web.md#juspay-neurolink-juspay-neurolink) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -102,34 +68,6 @@ A Python agent framework for building generative AI applications with structured
 **Por que foi incluída:** A Python agent framework for building generative AI applications with structured schemas.
 
 **Registro de evidências:** [Evidência completa](../catalog/web.md#pydantic-ai-pydantic-pydantic-ai) · [data/latest.json](../data/latest.json)
-
----
-
-### [Python Babel](https://github.com/python-babel/babel)
-
-![](https://img.shields.io/github/stars/python-babel/babel?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: vinta/awesome-python, MunGell/awesome-for-beginners
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-The Python Internationalization Library.
-
-**Por que foi incluída:** The Python Internationalization Library.
-
-**Registro de evidências:** [Evidência completa](../catalog/web.md#python-babel-python-babel-babel) · [data/latest.json](../data/latest.json)
-
----
-
-### [scrapy](https://github.com/scrapy/scrapy)
-
-![](https://img.shields.io/github/stars/scrapy/scrapy?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: vinta/awesome-python, MunGell/awesome-for-beginners
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-A fast high-level web crawling & scraping framework for Python.
-
-**Por que foi incluída:** A fast high-level web crawling & scraping framework for Python.
-
-**Registro de evidências:** [Evidência completa](../catalog/web.md#scrapy-scrapy-scrapy) · [data/latest.json](../data/latest.json)
 
 ---
 
