@@ -8,7 +8,7 @@
 
 [![Human Picks](https://img.shields.io/badge/Human_Picks-5-gold?style=for-the-badge)](#human-reviewed-picks)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](SOURCES.md)
-[![Updated](https://img.shields.io/badge/Updated-2026-11-01-green?style=for-the-badge)](UPDATE-SUMMARY.md)
+[![Updated](https://img.shields.io/badge/Updated-2026-11-02-green?style=for-the-badge)](UPDATE-SUMMARY.md)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -32,7 +32,7 @@
 
 ### 信任快照
 
-- **最新生成更新**: 2026-11-01
+- **最新生成更新**: 2026-11-02
 - **活跃来源**: 20
 - **Human Picks**: 5
 - **方法论**: [METHODOLOGY.md](METHODOLOGY.md)
@@ -153,15 +153,15 @@
 
 ---
 
-## 目录变更
+## 等待人工审核的候选工具
 
-- [Sniffnet](https://github.com/gyulyvgc/sniffnet) — caveat changed · Human Pick: Editorial caveat was updated after the latest review pass.
-- [Aim](https://github.com/aimhubio/aim) — newly reviewed · Worth Trying: Worth trying: open-source experiment tracking for AI work, especially if a team wants a lighter alternative to hosted-first tools.
-- [candle](https://github.com/huggingface/candle) — newly reviewed · Worth Trying: Worth trying: Rust-native ML framework with a clear portability/performance angle for teams exploring ML outside Python runtime defaults.
-- [Mem0](https://github.com/mem0ai/mem0) — caveat changed · Worth Trying: Editorial caveat was updated after the latest review pass.
-- [Apache Spark](https://github.com/apache/spark) — newly reviewed · AI Candidate: Micro-batch processing for streams using the apache spark framework as a backend supporting stateful exactly-once semantics.
+- [Deepchecks](https://github.com/deepchecks/deepchecks) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
+- [Feature Engine](https://github.com/feature-engine/feature_engine) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
+- [Cython](https://github.com/cython/cython) — Performance · Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python
+- [DEAP](https://github.com/deap/deap) — AI & ML · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+- [Gymnasium](https://github.com/farama-foundation/gymnasium) — AI & ML · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
-See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
+候选工具不代表个人推荐。可通过 GitHub issues 请求审核，或在 TOOLS.md 查看完整队列。 [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) · [TOOLS.md](TOOLS.md)
 
 ---
 

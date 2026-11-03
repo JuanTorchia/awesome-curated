@@ -8,7 +8,7 @@ Leer en otros idiomas: [🇬🇧 English](README.md) · **🇪🇸 Español** ·
 
 [![Human Picks](https://img.shields.io/badge/Human_Picks-5-gold?style=for-the-badge)](#human-reviewed-picks)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](SOURCES.md)
-[![Updated](https://img.shields.io/badge/Updated-2026-11-01-green?style=for-the-badge)](UPDATE-SUMMARY.md)
+[![Updated](https://img.shields.io/badge/Updated-2026-11-02-green?style=for-the-badge)](UPDATE-SUMMARY.md)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -32,7 +32,7 @@ Leer en otros idiomas: [🇬🇧 English](README.md) · **🇪🇸 Español** ·
 
 ### Snapshot de confianza
 
-- **Última actualización generada**: 2026-11-01
+- **Última actualización generada**: 2026-11-02
 - **fuentes activas**: 20
 - **Human Picks**: 5
 - **Metodología**: [METHODOLOGY.md](METHODOLOGY.md)
@@ -153,15 +153,15 @@ Herramientas revisadas por humano y las tareas que ayudan a resolver.
 
 ---
 
-## Cambios del catálogo
+## Candidatos para revisión humana
 
-- [Sniffnet](https://github.com/gyulyvgc/sniffnet) — caveat changed · Human Pick: Editorial caveat was updated after the latest review pass.
-- [Aim](https://github.com/aimhubio/aim) — newly reviewed · Worth Trying: Worth trying: open-source experiment tracking for AI work, especially if a team wants a lighter alternative to hosted-first tools.
-- [candle](https://github.com/huggingface/candle) — newly reviewed · Worth Trying: Worth trying: Rust-native ML framework with a clear portability/performance angle for teams exploring ML outside Python runtime defaults.
-- [Mem0](https://github.com/mem0ai/mem0) — caveat changed · Worth Trying: Editorial caveat was updated after the latest review pass.
-- [Apache Spark](https://github.com/apache/spark) — newly reviewed · AI Candidate: Micro-batch processing for streams using the apache spark framework as a backend supporting stateful exactly-once semantics.
+- [Deepchecks](https://github.com/deepchecks/deepchecks) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
+- [Feature Engine](https://github.com/feature-engine/feature_engine) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
+- [Cython](https://github.com/cython/cython) — Performance · Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python
+- [DEAP](https://github.com/deap/deap) — AI & ML · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+- [Gymnasium](https://github.com/farama-foundation/gymnasium) — AI & ML · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
-See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
+Los candidatos no son recomendaciones personales. Pedí revisión mediante GitHub issues o consultá la cola completa en TOOLS.md. [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) · [TOOLS.md](TOOLS.md)
 
 ---
 

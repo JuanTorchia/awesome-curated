@@ -2,7 +2,7 @@
 
 [All domains](../TOOLS.md) · [README](../README.md) · [Machine-readable evidence](../data/latest.json)
 
-Generated: 2026-11-01 · Tool entries: 42
+Generated: 2026-11-02 · Tool entries: 42
 
 ### <a id="sniffnet-gyulyvgc-sniffnet"></a>[Sniffnet](https://github.com/gyulyvgc/sniffnet)
 
