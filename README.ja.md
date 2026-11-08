@@ -8,7 +8,7 @@
 
 [![Human Picks](https://img.shields.io/badge/Human_Picks-5-gold?style=for-the-badge)](#human-reviewed-picks)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](SOURCES.md)
-[![Updated](https://img.shields.io/badge/Updated-2026-11-06-green?style=for-the-badge)](UPDATE-SUMMARY.md)
+[![Updated](https://img.shields.io/badge/Updated-2026-11-07-green?style=for-the-badge)](UPDATE-SUMMARY.md)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -32,7 +32,7 @@
 
 ### 信頼スナップショット
 
-- **最新生成日**: 2026-11-06
+- **最新生成日**: 2026-11-07
 - **アクティブソース**: 20
 - **Human Picks**: 5
 - **方法論**: [METHODOLOGY.md](METHODOLOGY.md)
