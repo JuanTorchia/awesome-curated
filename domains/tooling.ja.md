@@ -2,7 +2,7 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**1 人間レビュー済み · 1 広く使われる標準ツール · 40 AI 候補 · 0 Needs Review 状態**
+**1 人間レビュー済み · 1 広く使われる標準ツール · 41 AI 候補 · 0 Needs Review 状態**
 
 確認できるカタログ: [TOOLS.md](../TOOLS.md) · 根拠のスナップショット: [data/latest.json](../data/latest.json)
 
@@ -180,6 +180,20 @@ A unified deep learning system for big model era, which helps users to efficient
 
 ---
 
+### [Dash](https://kapeli.com/dash)
+
+掲載元 2 件のアクティブなソース: vuejs/awesome-vue, jaywcjlove/awesome-mac
+
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
+
+Offline API documentation browser for macOS with instant search access to Vue.js docs and 200+ other frameworks.
+
+**掲載理由:** Offline API documentation browser for macOS with instant search access to Vue.js docs and 200+ other frameworks.
+
+**根拠の記録:** [根拠の詳細](../catalog/tooling.md#dash-kapeli) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [DVC](https://github.com/iterative/dvc)
 
 ![](https://img.shields.io/github/stars/iterative/dvc?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
@@ -320,21 +334,7 @@ Web interface python sandbox environments for reproducible development
 
 ---
 
-### [Kaldi](https://github.com/kaldi-asr/kaldi)
-
-![](https://img.shields.io/github/stars/kaldi-asr/kaldi?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning
-
-**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
-
-Kaldi is a toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. Kaldi is intended for use by speech recognition researchers.
-
-**掲載理由:** Componentes modulares y bien documentados para researchers
-
-**根拠の記録:** [根拠の詳細](../catalog/tooling.md#kaldi-kaldi-asr-kaldi) · [data/latest.json](../data/latest.json)
-
----
-
-_Showing 20 of 40. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+_Showing 20 of 41. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

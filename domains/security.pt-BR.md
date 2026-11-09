@@ -14,7 +14,7 @@ Ferramentas com avaliação humana e limites visíveis.
 
 ### 👤 [themis](https://github.com/cossacklabs/themis)
 
-![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · Encontrada em 4 fontes ativas: matteocrippa/awesome-swift, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +1 more
+![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · Encontrada em 3 fontes ativas: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go
 
 **Revisão:** Human Pick · **Nota / revisão:** Ferramenta sensível à segurança: avalie adequação e manutenção antes do uso em produção.
 

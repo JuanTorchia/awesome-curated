@@ -8,7 +8,7 @@
 
 [![Human Picks](https://img.shields.io/badge/Human_Picks-5-gold?style=for-the-badge)](#human-reviewed-picks)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](SOURCES.md)
-[![Updated](https://img.shields.io/badge/Updated-2026-11-07-green?style=for-the-badge)](UPDATE-SUMMARY.md)
+[![Updated](https://img.shields.io/badge/Updated-2026-11-08-green?style=for-the-badge)](UPDATE-SUMMARY.md)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -32,7 +32,7 @@
 
 ### 信任快照
 
-- **最新生成更新**: 2026-11-07
+- **最新生成更新**: 2026-11-08
 - **活跃来源**: 20
 - **Human Picks**: 5
 - **方法论**: [METHODOLOGY.md](METHODOLOGY.md)
@@ -42,14 +42,14 @@
 - **可查阅目录**: [TOOLS.md](TOOLS.md)
 - **常用标准工具**: 1
 - **Needs Review 状态（复核来源）**: 0
-- **等待人工认可的 AI Candidates**: 185
+- **等待人工认可的 AI Candidates**: 188
 - 候选工具尚未获得 Juan 的认可。请查看目录和领域页面。
 
 ---
 
 ## 🗺️ 找到你的技术栈
 
-[🌐 **Web** · 7](domains/web.zh-CN.md) · [🤖 **AI 与机器学习** · 76](domains/ai-ml.zh-CN.md) · [🛠️ **DevOps** · 10](domains/devops.zh-CN.md) · [📱 **移动端** · 1](domains/mobile.zh-CN.md) · [💾 **数据与数据库** · 39](domains/data.zh-CN.md) · [🔐 **安全与加密** · 10](domains/security.zh-CN.md) · [⚡ **性能** · 3](domains/performance.zh-CN.md) · [🧰 **开发工具** · 42](domains/tooling.zh-CN.md) · [🎨 **其他** · 7](domains/other.zh-CN.md)
+[🌐 **Web** · 7](domains/web.zh-CN.md) · [🤖 **AI 与机器学习** · 77](domains/ai-ml.zh-CN.md) · [🛠️ **DevOps** · 11](domains/devops.zh-CN.md) · [📱 **移动端** · 1](domains/mobile.zh-CN.md) · [💾 **数据与数据库** · 39](domains/data.zh-CN.md) · [🔐 **安全与加密** · 10](domains/security.zh-CN.md) · [⚡ **性能** · 3](domains/performance.zh-CN.md) · [🧰 **开发工具** · 43](domains/tooling.zh-CN.md) · [🎨 **其他** · 7](domains/other.zh-CN.md)
 
 ---
 
@@ -78,24 +78,6 @@
 
 **说明 / 审核:** 更适合具有相应机器学习或数据工作流的团队。
 
-### 👤 [themis](https://github.com/cossacklabs/themis)
-
-<!-- pick:rationale -->
-
-**为什么重要:** Gives teams a higher-level API over cryptographic primitives without starting from raw building blocks.
-
-<!-- pick:evidence -->
-
-**证据:** 收录于 4 个活跃来源: matteocrippa/awesome-swift, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +1 more · [来源记录](data/latest.json)
-
-<!-- pick:review -->
-
-**审核:** Human Pick
-
-<!-- pick:caveat -->
-
-**说明 / 审核:** 涉及安全的工具；用于生产前需评估适用性与维护状况。
-
 ### 👤 [Netron](https://github.com/lutzroeder/netron)
 
 <!-- pick:rationale -->
@@ -113,6 +95,24 @@
 <!-- pick:caveat -->
 
 **说明 / 审核:** 更适合具有相应机器学习或数据工作流的团队。
+
+### 👤 [themis](https://github.com/cossacklabs/themis)
+
+<!-- pick:rationale -->
+
+**为什么重要:** Gives teams a higher-level API over cryptographic primitives without starting from raw building blocks.
+
+<!-- pick:evidence -->
+
+**证据:** 收录于 3 个活跃来源: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go · [来源记录](data/latest.json)
+
+<!-- pick:review -->
+
+**审核:** Human Pick
+
+<!-- pick:caveat -->
+
+**说明 / 审核:** 涉及安全的工具；用于生产前需评估适用性与维护状况。
 
 ### 👤 [Bencher](https://bencher.dev)
 
@@ -153,15 +153,13 @@
 
 ---
 
-## 等待人工审核的候选工具
+## 目录变更
 
-- [Deepchecks](https://github.com/deepchecks/deepchecks) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
-- [Feature Engine](https://github.com/feature-engine/feature_engine) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
-- [Cython](https://github.com/cython/cython) — Performance · Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python
-- [DEAP](https://github.com/deap/deap) — AI & ML · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
-- [Gymnasium](https://github.com/farama-foundation/gymnasium) — AI & ML · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+- [askbudi/roundtable](https://github.com/askbudi/roundtable) — newly reviewed · AI Candidate: 📇 ☁️ 🏠 🍎 🪟 🐧 Meta-MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent...
+- [Dash](https://kapeli.com/dash) — newly reviewed · AI Candidate: Offline API documentation browser for macOS with instant search access to Vue.js docs and 200+ other frameworks.
+- [MyIP](https://github.com/jason5ng32/myip) — newly reviewed · AI Candidate: All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR...
 
-候选工具不代表个人推荐。可通过 GitHub issues 请求审核，或在 TOOLS.md 查看完整队列。 [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) · [TOOLS.md](TOOLS.md)
+See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
 
 ---
 
@@ -185,7 +183,7 @@
 | 👤 [**Netron**](https://github.com/lutzroeder/netron) | Netron is a viewer for neural network, deep learning and machine learning models. | Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning · Human Pick |
 | 👤 [**Aim**](https://github.com/aimhubio/aim) | A super-easy way to record, search and compare AI experiments. | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning · Worth Trying |
 
-📖 更多 73 个见[详细页面 →](domains/ai-ml.zh-CN.md)
+📖 更多 74 个见[详细页面 →](domains/ai-ml.zh-CN.md)
 
 ### 🛠️ DevOps
 
@@ -195,7 +193,7 @@
 | [**docker-volume-backup**](https://github.com/offen/docker-volume-backup) | Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage. | Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go · AI Candidate |
 | [**Dragonfly**](https://github.com/dragonflyoss/dragonfly2) | Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best... | Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go · AI Candidate |
 
-📖 更多 7 个见[详细页面 →](domains/devops.zh-CN.md)
+📖 更多 8 个见[详细页面 →](domains/devops.zh-CN.md)
 
 ### 📱 移动端
 
@@ -219,7 +217,7 @@
 
 | 工具 | 作用 | 信号 |
 |---|---|---|
-| 👤 [**themis**](https://github.com/cossacklabs/themis) | High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and... | Found in 4 active sources: matteocrippa/awesome-swift, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +1 more · Human Pick |
+| 👤 [**themis**](https://github.com/cossacklabs/themis) | High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and... | Found in 3 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go · Human Pick |
 | [**Brave**](https://brave.com) | Web browser with an emphasis on privacy and speed. (https://github.com/brave/brave-browser/) | Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac · AI Candidate |
 | [**LibreWolf**](https://librewolf.net) | A fork of Firefox, focused on privacy, security and freedom. (https://gitlab.com/librewolf-community) | Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac · AI Candidate |
 
@@ -243,7 +241,7 @@
 | [**Pytorch**](https://github.com/pytorch/pytorch) | PyTorch is an open source machine learning library based on the Torch library, used for applications such as... | Found in 5 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, fffaraz/awesome-cpp +2 more · Popular Standard |
 | [**Bokeh**](https://github.com/bokeh/bokeh) | Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation... | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python · AI Candidate |
 
-📖 更多 39 个见[详细页面 →](domains/tooling.zh-CN.md)
+📖 更多 40 个见[详细页面 →](domains/tooling.zh-CN.md)
 
 ### 🎨 其他
 

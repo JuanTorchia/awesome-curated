@@ -2,7 +2,7 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**6 人間レビュー済み · 0 広く使われる標準ツール · 70 AI 候補 · 0 Needs Review 状態**
+**6 人間レビュー済み · 0 広く使われる標準ツール · 71 AI 候補 · 0 Needs Review 状態**
 
 確認できるカタログ: [TOOLS.md](../TOOLS.md) · 根拠のスナップショット: [data/latest.json](../data/latest.json)
 
@@ -245,6 +245,20 @@ SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-51
 
 ---
 
+### [askbudi/roundtable](https://github.com/askbudi/roundtable)
+
+![](https://img.shields.io/github/stars/askbudi/roundtable?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: vuejs/awesome-vue, punkpeye/awesome-mcp-servers
+
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
+
+📇 ☁️ 🏠 🍎 🪟 🐧 Meta-MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized MCP interface, providing zero-configuration access...
+
+**掲載理由:** 📇 ☁️ 🏠 🍎 🪟 🐧 Meta-MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent...
+
+**根拠の記録:** [根拠の詳細](../catalog/ai-ml.md#askbudi-roundtable-askbudi-roundtable) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [Bread WandB Viewer](https://github.com/bread-technologies/bread_wandb_viewer_extension)
 
 ![](https://img.shields.io/github/stars/bread-technologies/bread_wandb_viewer_extension?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
@@ -371,21 +385,7 @@ Machine Learning production server for TensorFlow, XGBoost and Cafe models writt
 
 ---
 
-### [Detectron2](https://github.com/facebookresearch/detectron2)
-
-![](https://img.shields.io/github/stars/facebookresearch/detectron2?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
-
-**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
-
-Detectron2 is Facebook AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms.
-
-**掲載理由:** SOTA accuracy en coco/benchmarks
-
-**根拠の記録:** [根拠の詳細](../catalog/ai-ml.md#detectron2-facebookresearch-detectron2) · [data/latest.json](../data/latest.json)
-
----
-
-_Showing 20 of 70. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+_Showing 20 of 71. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

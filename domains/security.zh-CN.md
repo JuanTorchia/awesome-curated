@@ -14,7 +14,7 @@
 
 ### 👤 [themis](https://github.com/cossacklabs/themis)
 
-![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · 收录于 4 个活跃来源: matteocrippa/awesome-swift, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +1 more
+![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · 收录于 3 个活跃来源: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go
 
 **审核:** Human Pick · **说明 / 审核:** 涉及安全的工具；用于生产前需评估适用性与维护状况。
 

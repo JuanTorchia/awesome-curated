@@ -2,26 +2,28 @@
 
 ## Latest Sync
 
-- Date: 2026-11-07
-- Previous public commit: b0a74618c4e0
+- Date: 2026-11-08
+- Previous public commit: 2bf5fc83ceaa
 - Evidence: [data/latest.json](data/latest.json)
 
 ## Current Snapshot
 
 - Human Picks: 5
-- AI Candidates: 185
+- AI Candidates: 188
 - Popular Standards: 1
 - Needs Review: 0
 - Active Sources: 20
-- Public Recommendations: 205
+- Public Recommendations: 208
 - Graveyard tools: 0
 - Open issues: 6
 
 ## Catalog changes
 
-### No catalog changes
+### Newly Reviewed
 
-No recommendation records changed in this generated window.
+- [askbudi/roundtable](https://github.com/askbudi/roundtable) (AI Candidate) — 📇 ☁️ 🏠 🍎 🪟 🐧 Meta-MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent... (2026-11-08)
+- [Dash](https://kapeli.com/dash) (AI Candidate) — Offline API documentation browser for macOS with instant search access to Vue.js docs and 200+ other frameworks. (2026-11-08)
+- [MyIP](https://github.com/jason5ng32/myip) (AI Candidate) — All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR... (2026-11-08)
 
 ## Guides and examples
 

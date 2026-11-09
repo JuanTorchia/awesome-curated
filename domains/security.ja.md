@@ -14,7 +14,7 @@
 
 ### 👤 [themis](https://github.com/cossacklabs/themis)
 
-![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · 掲載元 4 件のアクティブなソース: matteocrippa/awesome-swift, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +1 more
+![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · 掲載元 3 件のアクティブなソース: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go
 
 **レビュー:** Human Pick · **注記 / レビュー:** 安全性に関わるツールです。本番利用前に適合性と保守状況を評価してください。
 

@@ -8,7 +8,7 @@ Leer en otros idiomas: [🇬🇧 English](README.md) · **🇪🇸 Español** ·
 
 [![Human Picks](https://img.shields.io/badge/Human_Picks-5-gold?style=for-the-badge)](#human-reviewed-picks)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](SOURCES.md)
-[![Updated](https://img.shields.io/badge/Updated-2026-11-07-green?style=for-the-badge)](UPDATE-SUMMARY.md)
+[![Updated](https://img.shields.io/badge/Updated-2026-11-08-green?style=for-the-badge)](UPDATE-SUMMARY.md)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -32,7 +32,7 @@ Leer en otros idiomas: [🇬🇧 English](README.md) · **🇪🇸 Español** ·
 
 ### Snapshot de confianza
 
-- **Última actualización generada**: 2026-11-07
+- **Última actualización generada**: 2026-11-08
 - **fuentes activas**: 20
 - **Human Picks**: 5
 - **Metodología**: [METHODOLOGY.md](METHODOLOGY.md)
@@ -42,14 +42,14 @@ Leer en otros idiomas: [🇬🇧 English](README.md) · **🇪🇸 Español** ·
 - **Catálogo consultable**: [TOOLS.md](TOOLS.md)
 - **Estándares populares**: 1
 - **Estado Needs Review (revisar trazas)**: 0
-- **AI Candidates pendientes de aval humano**: 185
+- **AI Candidates pendientes de aval humano**: 188
 - Los candidatos no tienen el aval de Juan. Consultá el catálogo y las páginas por dominio.
 
 ---
 
 ## 🗺️ Encontrá tu stack
 
-[🌐 **Web** · 7](domains/web.es.md) · [🤖 **IA y ML** · 76](domains/ai-ml.es.md) · [🛠️ **DevOps** · 10](domains/devops.es.md) · [📱 **Mobile** · 1](domains/mobile.es.md) · [💾 **Datos y Bases** · 39](domains/data.es.md) · [🔐 **Seguridad y Cripto** · 10](domains/security.es.md) · [⚡ **Performance** · 3](domains/performance.es.md) · [🧰 **Herramientas Dev** · 42](domains/tooling.es.md) · [🎨 **Otros** · 7](domains/other.es.md)
+[🌐 **Web** · 7](domains/web.es.md) · [🤖 **IA y ML** · 77](domains/ai-ml.es.md) · [🛠️ **DevOps** · 11](domains/devops.es.md) · [📱 **Mobile** · 1](domains/mobile.es.md) · [💾 **Datos y Bases** · 39](domains/data.es.md) · [🔐 **Seguridad y Cripto** · 10](domains/security.es.md) · [⚡ **Performance** · 3](domains/performance.es.md) · [🧰 **Herramientas Dev** · 43](domains/tooling.es.md) · [🎨 **Otros** · 7](domains/other.es.md)
 
 ---
 
@@ -78,24 +78,6 @@ Herramientas revisadas por humano y las tareas que ayudan a resolver.
 
 **Nota / revisión:** Más adecuada para equipos con un flujo de ML o datos compatible.
 
-### 👤 [themis](https://github.com/cossacklabs/themis)
-
-<!-- pick:rationale -->
-
-**Por qué importa:** API de alto nivel sobre primitivas criptográficas para evitar partir de componentes básicos.
-
-<!-- pick:evidence -->
-
-**Evidencia:** Encontrada en 4 fuentes activas: matteocrippa/awesome-swift, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +1 more · [trazas](data/latest.json)
-
-<!-- pick:review -->
-
-**Revisión:** Human Pick
-
-<!-- pick:caveat -->
-
-**Nota / revisión:** Herramienta sensible para la seguridad: evaluá su adecuación y mantenimiento antes de usarla en producción.
-
 ### 👤 [Netron](https://github.com/lutzroeder/netron)
 
 <!-- pick:rationale -->
@@ -113,6 +95,24 @@ Herramientas revisadas por humano y las tareas que ayudan a resolver.
 <!-- pick:caveat -->
 
 **Nota / revisión:** Más adecuada para equipos con un flujo de ML o datos compatible.
+
+### 👤 [themis](https://github.com/cossacklabs/themis)
+
+<!-- pick:rationale -->
+
+**Por qué importa:** API de alto nivel sobre primitivas criptográficas para evitar partir de componentes básicos.
+
+<!-- pick:evidence -->
+
+**Evidencia:** Encontrada en 3 fuentes activas: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go · [trazas](data/latest.json)
+
+<!-- pick:review -->
+
+**Revisión:** Human Pick
+
+<!-- pick:caveat -->
+
+**Nota / revisión:** Herramienta sensible para la seguridad: evaluá su adecuación y mantenimiento antes de usarla en producción.
 
 ### 👤 [Bencher](https://bencher.dev)
 
@@ -153,15 +153,13 @@ Herramientas revisadas por humano y las tareas que ayudan a resolver.
 
 ---
 
-## Candidatos para revisión humana
+## Cambios del catálogo
 
-- [Deepchecks](https://github.com/deepchecks/deepchecks) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
-- [Feature Engine](https://github.com/feature-engine/feature_engine) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
-- [Cython](https://github.com/cython/cython) — Performance · Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python
-- [DEAP](https://github.com/deap/deap) — AI & ML · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
-- [Gymnasium](https://github.com/farama-foundation/gymnasium) — AI & ML · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+- [askbudi/roundtable](https://github.com/askbudi/roundtable) — newly reviewed · AI Candidate: 📇 ☁️ 🏠 🍎 🪟 🐧 Meta-MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent...
+- [Dash](https://kapeli.com/dash) — newly reviewed · AI Candidate: Offline API documentation browser for macOS with instant search access to Vue.js docs and 200+ other frameworks.
+- [MyIP](https://github.com/jason5ng32/myip) — newly reviewed · AI Candidate: All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR...
 
-Los candidatos no son recomendaciones personales. Pedí revisión mediante GitHub issues o consultá la cola completa en TOOLS.md. [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) · [TOOLS.md](TOOLS.md)
+See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
 
 ---
 
@@ -185,7 +183,7 @@ Los candidatos no son recomendaciones personales. Pedí revisión mediante GitHu
 | 👤 [**Netron**](https://github.com/lutzroeder/netron) | Netron is a viewer for neural network, deep learning and machine learning models. | Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning · Human Pick |
 | 👤 [**Aim**](https://github.com/aimhubio/aim) | A super-easy way to record, search and compare AI experiments. | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning · Worth Trying |
 
-📖 73 más en la [página detallada →](domains/ai-ml.es.md)
+📖 74 más en la [página detallada →](domains/ai-ml.es.md)
 
 ### 🛠️ DevOps
 
@@ -195,7 +193,7 @@ Los candidatos no son recomendaciones personales. Pedí revisión mediante GitHu
 | [**docker-volume-backup**](https://github.com/offen/docker-volume-backup) | Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage. | Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go · AI Candidate |
 | [**Dragonfly**](https://github.com/dragonflyoss/dragonfly2) | Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best... | Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go · AI Candidate |
 
-📖 7 más en la [página detallada →](domains/devops.es.md)
+📖 8 más en la [página detallada →](domains/devops.es.md)
 
 ### 📱 Mobile
 
@@ -219,7 +217,7 @@ Los candidatos no son recomendaciones personales. Pedí revisión mediante GitHu
 
 | Tool | Qué hace | Señal |
 |---|---|---|
-| 👤 [**themis**](https://github.com/cossacklabs/themis) | High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and... | Found in 4 active sources: matteocrippa/awesome-swift, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +1 more · Human Pick |
+| 👤 [**themis**](https://github.com/cossacklabs/themis) | High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and... | Found in 3 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go · Human Pick |
 | [**Brave**](https://brave.com) | Web browser with an emphasis on privacy and speed. (https://github.com/brave/brave-browser/) | Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac · AI Candidate |
 | [**LibreWolf**](https://librewolf.net) | A fork of Firefox, focused on privacy, security and freedom. (https://gitlab.com/librewolf-community) | Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac · AI Candidate |
 
@@ -243,7 +241,7 @@ Los candidatos no son recomendaciones personales. Pedí revisión mediante GitHu
 | [**Pytorch**](https://github.com/pytorch/pytorch) | PyTorch is an open source machine learning library based on the Torch library, used for applications such as... | Found in 5 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, fffaraz/awesome-cpp +2 more · Popular Standard |
 | [**Bokeh**](https://github.com/bokeh/bokeh) | Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation... | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python · AI Candidate |
 
-📖 39 más en la [página detallada →](domains/tooling.es.md)
+📖 40 más en la [página detallada →](domains/tooling.es.md)
 
 ### 🎨 Otros
 

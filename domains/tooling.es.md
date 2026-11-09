@@ -2,7 +2,7 @@
 
 <p><sub>← [Volver al main](../README.es.md)</sub></p>
 
-**1 Revisado por humano · 1 Estándares populares · 40 Candidatos de IA · 0 Estado Needs Review**
+**1 Revisado por humano · 1 Estándares populares · 41 Candidatos de IA · 0 Estado Needs Review**
 
 Catálogo consultable: [TOOLS.md](../TOOLS.md) · Snapshot de evidencia: [data/latest.json](../data/latest.json)
 
@@ -180,6 +180,20 @@ A unified deep learning system for big model era, which helps users to efficient
 
 ---
 
+### [Dash](https://kapeli.com/dash)
+
+Encontrada en 2 fuentes activas: vuejs/awesome-vue, jaywcjlove/awesome-mac
+
+**Revisión:** AI Candidate · **Nota / revisión:** El candidato todavía necesita revisión humana antes de recibir aval.
+
+Offline API documentation browser for macOS with instant search access to Vue.js docs and 200+ other frameworks.
+
+**Por qué está incluida:** Offline API documentation browser for macOS with instant search access to Vue.js docs and 200+ other frameworks.
+
+**Registro de evidencia:** [Evidencia completa](../catalog/tooling.md#dash-kapeli) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [DVC](https://github.com/iterative/dvc)
 
 ![](https://img.shields.io/github/stars/iterative/dvc?style=flat-square&label=⭐) · Encontrada en 2 fuentes activas: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
@@ -320,21 +334,7 @@ Web interface python sandbox environments for reproducible development
 
 ---
 
-### [Kaldi](https://github.com/kaldi-asr/kaldi)
-
-![](https://img.shields.io/github/stars/kaldi-asr/kaldi?style=flat-square&label=⭐) · Encontrada en 2 fuentes activas: fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning
-
-**Revisión:** AI Candidate · **Nota / revisión:** El candidato todavía necesita revisión humana antes de recibir aval.
-
-Kaldi is a toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. Kaldi is intended for use by speech recognition researchers.
-
-**Por qué está incluida:** Componentes modulares y bien documentados para researchers
-
-**Registro de evidencia:** [Evidencia completa](../catalog/tooling.md#kaldi-kaldi-asr-kaldi) · [data/latest.json](../data/latest.json)
-
----
-
-_Showing 20 of 40. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+_Showing 20 of 41. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

@@ -2,20 +2,20 @@
 
 Browse a domain below for complete rationale, caveats and source traces. This index mirrors the current [data/latest.json](data/latest.json); entries retain their review labels.
 
-Generated: 2026-11-07 · Public recommendations: 205 · Tool entries: 195
+Generated: 2026-11-08 · Public recommendations: 208 · Tool entries: 198
 
 ## Browse by domain
 
 | Domain | Tool entries | Full evidence |
 |---|---:|---|
 | 🌐 Web | 7 | [Open catalog](catalog/web.md) |
-| 🤖 AI & ML | 76 | [Open catalog](catalog/ai-ml.md) |
-| 🛠️ DevOps | 10 | [Open catalog](catalog/devops.md) |
+| 🤖 AI & ML | 77 | [Open catalog](catalog/ai-ml.md) |
+| 🛠️ DevOps | 11 | [Open catalog](catalog/devops.md) |
 | 📱 Mobile | 1 | [Open catalog](catalog/mobile.md) |
 | 💾 Data & Databases | 39 | [Open catalog](catalog/data.md) |
 | 🔐 Security & Crypto | 10 | [Open catalog](catalog/security.md) |
 | ⚡ Performance | 3 | [Open catalog](catalog/performance.md) |
-| 🧰 Dev Tooling | 42 | [Open catalog](catalog/tooling.md) |
+| 🧰 Dev Tooling | 43 | [Open catalog](catalog/tooling.md) |
 | 🎓 Learning | 0 | [Open catalog](catalog/learning.md) |
 | 🎨 Other | 7 | [Open catalog](catalog/other.md) |
 
@@ -27,6 +27,7 @@ Automated candidates for a future human review; these are not endorsements.
 |---|---|---|---|
 | [Deepchecks](catalog/ai-ml.md#deepchecks-deepchecks-deepchecks) | AI & ML | Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning | Candidate still needs human review before endorsement. |
 | [Feature Engine](catalog/ai-ml.md#feature-engine-feature-engine-feature-engine) | AI & ML | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python | Candidate still needs human review before endorsement. |
+| [askbudi/roundtable](catalog/ai-ml.md#askbudi-roundtable-askbudi-roundtable) | AI & ML | Found in 2 active sources: vuejs/awesome-vue, punkpeye/awesome-mcp-servers | Candidate still needs human review before endorsement. |
 | [Cython](catalog/performance.md#cython-cython-cython) | Performance | Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python | Candidate still needs human review before endorsement. |
 | [DEAP](catalog/ai-ml.md#deap-deap-deap) | AI & ML | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning | Candidate still needs human review before endorsement. |
 | [Gymnasium](catalog/ai-ml.md#gymnasium-farama-foundation-gymnasium) | AI & ML | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning | Candidate still needs human review before endorsement. |
@@ -44,7 +45,6 @@ Automated candidates for a future human review; these are not endorsements.
 | [CML](catalog/ai-ml.md#cml-iterative-cml) | AI & ML | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning | Candidate still needs human review before endorsement. |
 | [mariocandela/beelzebub](catalog/security.md#mariocandela-beelzebub-mariocandela-beelzebub) | Security & Crypto | Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers | Candidate still needs human review before endorsement. |
 | [juspay/neurolink](catalog/web.md#juspay-neurolink-juspay-neurolink) | Web | Found in 2 active sources: josephmisiti/awesome-machine-learning, punkpeye/awesome-mcp-servers | Candidate still needs human review before endorsement. |
-| [PyOD](catalog/ai-ml.md#pyod-yzhao062-pyod) | AI & ML | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning | Candidate still needs human review before endorsement. |
 
 ## Tool directory
 
@@ -78,6 +78,7 @@ Existing TOOLS.md anchors remain here and lead to each full evidence record.
 - <a id="stable-baselines-dlr-rm-stable-baselines3"></a>[Stable Baselines](catalog/ai-ml.md#stable-baselines-dlr-rm-stable-baselines3) · AI Candidate
 - <a id="apache-spark-apache-spark"></a>[Apache Spark](catalog/ai-ml.md#apache-spark-apache-spark) · AI Candidate
 - <a id="ashvardanian-numkong-ashvardanian-numkong"></a>[ashvardanian/NumKong](catalog/ai-ml.md#ashvardanian-numkong-ashvardanian-numkong) · AI Candidate
+- <a id="askbudi-roundtable-askbudi-roundtable"></a>[askbudi/roundtable](catalog/ai-ml.md#askbudi-roundtable-askbudi-roundtable) · AI Candidate
 - <a id="bread-wandb-viewer-bread-technologies-bread-wandb-viewer-extension"></a>[Bread WandB Viewer](catalog/ai-ml.md#bread-wandb-viewer-bread-technologies-bread-wandb-viewer-extension) · AI Candidate
 - <a id="burn-tracel-ai-burn"></a>[burn](catalog/ai-ml.md#burn-tracel-ai-burn) · AI Candidate
 - <a id="catalyst-catalyst-team-catalyst"></a>[Catalyst](catalog/ai-ml.md#catalyst-catalyst-team-catalyst) · AI Candidate
@@ -147,6 +148,7 @@ Existing TOOLS.md anchors remain here and lead to each full evidence record.
 - <a id="drone-drone-drone"></a>[Drone](catalog/devops.md#drone-drone-drone) · AI Candidate
 - <a id="lazyjournal-lifailon-lazyjournal"></a>[lazyjournal](catalog/devops.md#lazyjournal-lifailon-lazyjournal) · AI Candidate
 - <a id="luigi-spotify-luigi"></a>[Luigi](catalog/devops.md#luigi-spotify-luigi) · AI Candidate
+- <a id="myip-jason5ng32-myip"></a>[MyIP](catalog/devops.md#myip-jason5ng32-myip) · AI Candidate
 - <a id="netdata-netdata-netdata-netdata-netdata"></a>[netdata/netdata#Netdata](catalog/devops.md#netdata-netdata-netdata-netdata-netdata) · AI Candidate
 - <a id="nwiizo-tfmcp-nwiizo-tfmcp"></a>[nwiizo/tfmcp](catalog/devops.md#nwiizo-tfmcp-nwiizo-tfmcp) · AI Candidate
 - <a id="oxker-mrjackwills-oxker"></a>[oxker](catalog/devops.md#oxker-mrjackwills-oxker) · AI Candidate
@@ -230,6 +232,7 @@ Existing TOOLS.md anchors remain here and lead to each full evidence record.
 - <a id="ccv-liuliu-ccv"></a>[CCV](catalog/tooling.md#ccv-liuliu-ccv) · AI Candidate
 - <a id="clion-jetbrains-3"></a>[CLion](catalog/tooling.md#clion-jetbrains-3) · AI Candidate
 - <a id="colossal-ai-hpcaitech-colossalai"></a>[Colossal-AI](catalog/tooling.md#colossal-ai-hpcaitech-colossalai) · AI Candidate
+- <a id="dash-kapeli"></a>[Dash](catalog/tooling.md#dash-kapeli) · AI Candidate
 - <a id="dvc-iterative-dvc"></a>[DVC](catalog/tooling.md#dvc-iterative-dvc) · AI Candidate
 - <a id="einops-arogozhnikov-einops"></a>[einops](catalog/tooling.md#einops-arogozhnikov-einops) · AI Candidate
 - <a id="gebug-moshebe-gebug"></a>[Gebug](catalog/tooling.md#gebug-moshebe-gebug) · AI Candidate

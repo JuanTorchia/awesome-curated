@@ -2,7 +2,7 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**1 人工审核 · 1 常用标准工具 · 40 AI 候选工具 · 0 Needs Review 状态**
+**1 人工审核 · 1 常用标准工具 · 41 AI 候选工具 · 0 Needs Review 状态**
 
 可查阅目录: [TOOLS.md](../TOOLS.md) · 证据快照: [data/latest.json](../data/latest.json)
 
@@ -180,6 +180,20 @@ A unified deep learning system for big model era, which helps users to efficient
 
 ---
 
+### [Dash](https://kapeli.com/dash)
+
+收录于 2 个活跃来源: vuejs/awesome-vue, jaywcjlove/awesome-mac
+
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
+
+Offline API documentation browser for macOS with instant search access to Vue.js docs and 200+ other frameworks.
+
+**收录原因:** Offline API documentation browser for macOS with instant search access to Vue.js docs and 200+ other frameworks.
+
+**证据记录:** [完整证据](../catalog/tooling.md#dash-kapeli) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [DVC](https://github.com/iterative/dvc)
 
 ![](https://img.shields.io/github/stars/iterative/dvc?style=flat-square&label=⭐) · 收录于 2 个活跃来源: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
@@ -320,21 +334,7 @@ Web interface python sandbox environments for reproducible development
 
 ---
 
-### [Kaldi](https://github.com/kaldi-asr/kaldi)
-
-![](https://img.shields.io/github/stars/kaldi-asr/kaldi?style=flat-square&label=⭐) · 收录于 2 个活跃来源: fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning
-
-**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
-
-Kaldi is a toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. Kaldi is intended for use by speech recognition researchers.
-
-**收录原因:** Componentes modulares y bien documentados para researchers
-
-**证据记录:** [完整证据](../catalog/tooling.md#kaldi-kaldi-asr-kaldi) · [data/latest.json](../data/latest.json)
-
----
-
-_Showing 20 of 40. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+_Showing 20 of 41. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

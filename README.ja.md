@@ -8,7 +8,7 @@
 
 [![Human Picks](https://img.shields.io/badge/Human_Picks-5-gold?style=for-the-badge)](#human-reviewed-picks)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](SOURCES.md)
-[![Updated](https://img.shields.io/badge/Updated-2026-11-07-green?style=for-the-badge)](UPDATE-SUMMARY.md)
+[![Updated](https://img.shields.io/badge/Updated-2026-11-08-green?style=for-the-badge)](UPDATE-SUMMARY.md)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -32,7 +32,7 @@
 
 ### 信頼スナップショット
 
-- **最新生成日**: 2026-11-07
+- **最新生成日**: 2026-11-08
 - **アクティブソース**: 20
 - **Human Picks**: 5
 - **方法論**: [METHODOLOGY.md](METHODOLOGY.md)
@@ -42,14 +42,14 @@
 - **確認できるカタログ**: [TOOLS.md](TOOLS.md)
 - **広く使われる標準ツール**: 1
 - **Needs Review 状態（出典の再確認）**: 0
-- **人間の承認を待つ AI Candidates**: 185
+- **人間の承認を待つ AI Candidates**: 188
 - 候補は Juan の推薦ではありません。カタログとドメイン別ページを確認してください。
 
 ---
 
 ## 🗺️ あなたのスタックを見つける
 
-[🌐 **Web** · 7](domains/web.ja.md) · [🤖 **AI・機械学習** · 76](domains/ai-ml.ja.md) · [🛠️ **DevOps** · 10](domains/devops.ja.md) · [📱 **モバイル** · 1](domains/mobile.ja.md) · [💾 **データ・DB** · 39](domains/data.ja.md) · [🔐 **セキュリティ・暗号** · 10](domains/security.ja.md) · [⚡ **パフォーマンス** · 3](domains/performance.ja.md) · [🧰 **開発ツール** · 42](domains/tooling.ja.md) · [🎨 **その他** · 7](domains/other.ja.md)
+[🌐 **Web** · 7](domains/web.ja.md) · [🤖 **AI・機械学習** · 77](domains/ai-ml.ja.md) · [🛠️ **DevOps** · 11](domains/devops.ja.md) · [📱 **モバイル** · 1](domains/mobile.ja.md) · [💾 **データ・DB** · 39](domains/data.ja.md) · [🔐 **セキュリティ・暗号** · 10](domains/security.ja.md) · [⚡ **パフォーマンス** · 3](domains/performance.ja.md) · [🧰 **開発ツール** · 43](domains/tooling.ja.md) · [🎨 **その他** · 7](domains/other.ja.md)
 
 ---
 
@@ -78,24 +78,6 @@
 
 **注記 / レビュー:** 対応する ML やデータのワークフローを持つチーム向けです。
 
-### 👤 [themis](https://github.com/cossacklabs/themis)
-
-<!-- pick:rationale -->
-
-**なぜ重要か:** Gives teams a higher-level API over cryptographic primitives without starting from raw building blocks.
-
-<!-- pick:evidence -->
-
-**根拠:** 掲載元 4 件のアクティブなソース: matteocrippa/awesome-swift, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +1 more · [出典](data/latest.json)
-
-<!-- pick:review -->
-
-**レビュー:** Human Pick
-
-<!-- pick:caveat -->
-
-**注記 / レビュー:** 安全性に関わるツールです。本番利用前に適合性と保守状況を評価してください。
-
 ### 👤 [Netron](https://github.com/lutzroeder/netron)
 
 <!-- pick:rationale -->
@@ -113,6 +95,24 @@
 <!-- pick:caveat -->
 
 **注記 / レビュー:** 対応する ML やデータのワークフローを持つチーム向けです。
+
+### 👤 [themis](https://github.com/cossacklabs/themis)
+
+<!-- pick:rationale -->
+
+**なぜ重要か:** Gives teams a higher-level API over cryptographic primitives without starting from raw building blocks.
+
+<!-- pick:evidence -->
+
+**根拠:** 掲載元 3 件のアクティブなソース: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go · [出典](data/latest.json)
+
+<!-- pick:review -->
+
+**レビュー:** Human Pick
+
+<!-- pick:caveat -->
+
+**注記 / レビュー:** 安全性に関わるツールです。本番利用前に適合性と保守状況を評価してください。
 
 ### 👤 [Bencher](https://bencher.dev)
 
@@ -153,15 +153,13 @@
 
 ---
 
-## 人間のレビューを待つ候補
+## カタログの変更
 
-- [Deepchecks](https://github.com/deepchecks/deepchecks) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
-- [Feature Engine](https://github.com/feature-engine/feature_engine) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
-- [Cython](https://github.com/cython/cython) — Performance · Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python
-- [DEAP](https://github.com/deap/deap) — AI & ML · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
-- [Gymnasium](https://github.com/farama-foundation/gymnasium) — AI & ML · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+- [askbudi/roundtable](https://github.com/askbudi/roundtable) — newly reviewed · AI Candidate: 📇 ☁️ 🏠 🍎 🪟 🐧 Meta-MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent...
+- [Dash](https://kapeli.com/dash) — newly reviewed · AI Candidate: Offline API documentation browser for macOS with instant search access to Vue.js docs and 200+ other frameworks.
+- [MyIP](https://github.com/jason5ng32/myip) — newly reviewed · AI Candidate: All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR...
 
-候補は個人的な推薦ではありません。GitHub issues でレビューを依頼するか、TOOLS.md で全候補を確認できます。 [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) · [TOOLS.md](TOOLS.md)
+See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
 
 ---
 
@@ -185,7 +183,7 @@
 | 👤 [**Netron**](https://github.com/lutzroeder/netron) | Netron is a viewer for neural network, deep learning and machine learning models. | Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning · Human Pick |
 | 👤 [**Aim**](https://github.com/aimhubio/aim) | A super-easy way to record, search and compare AI experiments. | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning · Worth Trying |
 
-📖 他 73 件は[詳細ページ →](domains/ai-ml.ja.md)
+📖 他 74 件は[詳細ページ →](domains/ai-ml.ja.md)
 
 ### 🛠️ DevOps
 
@@ -195,7 +193,7 @@
 | [**docker-volume-backup**](https://github.com/offen/docker-volume-backup) | Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage. | Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go · AI Candidate |
 | [**Dragonfly**](https://github.com/dragonflyoss/dragonfly2) | Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best... | Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go · AI Candidate |
 
-📖 他 7 件は[詳細ページ →](domains/devops.ja.md)
+📖 他 8 件は[詳細ページ →](domains/devops.ja.md)
 
 ### 📱 モバイル
 
@@ -219,7 +217,7 @@
 
 | ツール | 何をする | シグナル |
 |---|---|---|
-| 👤 [**themis**](https://github.com/cossacklabs/themis) | High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and... | Found in 4 active sources: matteocrippa/awesome-swift, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +1 more · Human Pick |
+| 👤 [**themis**](https://github.com/cossacklabs/themis) | High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and... | Found in 3 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go · Human Pick |
 | [**Brave**](https://brave.com) | Web browser with an emphasis on privacy and speed. (https://github.com/brave/brave-browser/) | Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac · AI Candidate |
 | [**LibreWolf**](https://librewolf.net) | A fork of Firefox, focused on privacy, security and freedom. (https://gitlab.com/librewolf-community) | Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac · AI Candidate |
 
@@ -243,7 +241,7 @@
 | [**Pytorch**](https://github.com/pytorch/pytorch) | PyTorch is an open source machine learning library based on the Torch library, used for applications such as... | Found in 5 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, fffaraz/awesome-cpp +2 more · Popular Standard |
 | [**Bokeh**](https://github.com/bokeh/bokeh) | Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation... | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python · AI Candidate |
 
-📖 他 39 件は[詳細ページ →](domains/tooling.ja.md)
+📖 他 40 件は[詳細ページ →](domains/tooling.ja.md)
 
 ### 🎨 その他
 

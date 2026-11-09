@@ -14,7 +14,7 @@ Tools with a human review label and visible caveats.
 
 ### 👤 [themis](https://github.com/cossacklabs/themis)
 
-![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · Found in 4 active sources: matteocrippa/awesome-swift, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +1 more
+![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · Found in 3 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go
 
 **Review:** Human Pick · **Caveat / review:** Security-sensitive tool; evaluate fit and maintenance posture before production use.
 

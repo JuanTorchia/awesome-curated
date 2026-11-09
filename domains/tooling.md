@@ -2,7 +2,7 @@
 
 <p><sub>← [Back to main](../README.md)</sub></p>
 
-**1 Human reviewed · 1 Popular standards · 40 AI candidates · 0 Needs Review**
+**1 Human reviewed · 1 Popular standards · 41 AI candidates · 0 Needs Review**
 
 Inspectable catalog: [TOOLS.md](../TOOLS.md) · Evidence snapshot: [data/latest.json](../data/latest.json)
 
@@ -180,6 +180,20 @@ A unified deep learning system for big model era, which helps users to efficient
 
 ---
 
+### [Dash](https://kapeli.com/dash)
+
+Found in 2 active sources: vuejs/awesome-vue, jaywcjlove/awesome-mac
+
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
+
+Offline API documentation browser for macOS with instant search access to Vue.js docs and 200+ other frameworks.
+
+**Why it is here:** Offline API documentation browser for macOS with instant search access to Vue.js docs and 200+ other frameworks.
+
+**Evidence record:** [Full evidence](../catalog/tooling.md#dash-kapeli) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [DVC](https://github.com/iterative/dvc)
 
 ![](https://img.shields.io/github/stars/iterative/dvc?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
@@ -320,21 +334,7 @@ Web interface python sandbox environments for reproducible development
 
 ---
 
-### [Kaldi](https://github.com/kaldi-asr/kaldi)
-
-![](https://img.shields.io/github/stars/kaldi-asr/kaldi?style=flat-square&label=⭐) · Found in 2 active sources: fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning
-
-**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
-
-Kaldi is a toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. Kaldi is intended for use by speech recognition researchers.
-
-**Why it is here:** Componentes modulares y bien documentados para researchers
-
-**Evidence record:** [Full evidence](../catalog/tooling.md#kaldi-kaldi-asr-kaldi) · [data/latest.json](../data/latest.json)
-
----
-
-_Showing 20 of 40. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+_Showing 20 of 41. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

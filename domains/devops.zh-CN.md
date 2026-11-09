@@ -2,7 +2,7 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**0 人工审核 · 0 常用标准工具 · 10 AI 候选工具 · 0 Needs Review 状态**
+**0 人工审核 · 0 常用标准工具 · 11 AI 候选工具 · 0 Needs Review 状态**
 
 可查阅目录: [TOOLS.md](../TOOLS.md) · 证据快照: [data/latest.json](../data/latest.json)
 
@@ -96,6 +96,20 @@ Luigi is a Python module that helps you build complex pipelines of batch jobs, h
 **收录原因:** Luigi is a Python module that helps you build complex pipelines of batch jobs, handling dependency resolution, workflow management, visualisation,...
 
 **证据记录:** [完整证据](../catalog/devops.md#luigi-spotify-luigi) · [data/latest.json](../data/latest.json)
+
+---
+
+### [MyIP](https://github.com/jason5ng32/myip)
+
+![](https://img.shields.io/github/stars/jason5ng32/myip?style=flat-square&label=⭐) · 收录于 2 个活跃来源: veggiemonk/awesome-docker, vuejs/awesome-vue
+
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
+
+All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check availability, whois search and more. By jason5ng32.
+
+**收录原因:** All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR...
+
+**证据记录:** [完整证据](../catalog/devops.md#myip-jason5ng32-myip) · [data/latest.json](../data/latest.json)
 
 ---
 

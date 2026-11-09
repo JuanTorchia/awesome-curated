@@ -2,7 +2,7 @@
 
 [All domains](../TOOLS.md) · [README](../README.md) · [Machine-readable evidence](../data/latest.json)
 
-Generated: 2026-11-07 · Tool entries: 10
+Generated: 2026-11-08 · Tool entries: 11
 
 ### <a id="dive-wagoodman-dive"></a>[dive](https://github.com/wagoodman/dive)
 
@@ -16,8 +16,8 @@ Generated: 2026-11-07 · Tool entries: 10
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · BENCH · quality 89 · observed 2026-11-02
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-11-02
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · BENCH · quality 92 · observed 2026-11-09
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 97 · observed 2026-11-09
 
 ---
 
@@ -33,8 +33,8 @@ Generated: 2026-11-07 · Tool entries: 10
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · BENCH · quality 89 · observed 2026-11-02
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-11-02
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · BENCH · quality 92 · observed 2026-11-09
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 97 · observed 2026-11-09
 
 ---
 
@@ -50,8 +50,8 @@ Generated: 2026-11-07 · Tool entries: 10
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · BENCH · quality 89 · observed 2026-11-02
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-11-02
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · BENCH · quality 92 · observed 2026-11-09
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 97 · observed 2026-11-09
 
 ---
 
@@ -67,8 +67,8 @@ Generated: 2026-11-07 · Tool entries: 10
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · BENCH · quality 89 · observed 2026-11-02
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-11-02
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · BENCH · quality 92 · observed 2026-11-09
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 97 · observed 2026-11-09
 
 ---
 
@@ -84,8 +84,8 @@ Generated: 2026-11-07 · Tool entries: 10
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · BENCH · quality 89 · observed 2026-11-02
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-11-02
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · BENCH · quality 92 · observed 2026-11-09
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 97 · observed 2026-11-09
 
 ---
 
@@ -101,8 +101,25 @@ Generated: 2026-11-07 · Tool entries: 10
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 97 · observed 2026-11-02
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 94 · observed 2026-11-02
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 99 · observed 2026-11-09
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 94 · observed 2026-11-09
+
+---
+
+### <a id="myip-jason5ng32-myip"></a>[MyIP](https://github.com/jason5ng32/myip)
+
+**Label:** AI Candidate · **Domain:** DevOps · **Signal:** Found in 2 active sources: veggiemonk/awesome-docker, vuejs/awesome-vue
+
+**Summary:** All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check availability, whois search and more. By jason5ng32.
+
+**Why it is here:** All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR...
+
+**Caveat:** Candidate still needs human review before endorsement.
+
+**Source traces:**
+
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · BENCH · quality 92 · observed 2026-11-09
+- [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) · ROSTER · quality 96 · observed 2026-11-09
 
 ---
 
@@ -118,8 +135,8 @@ Generated: 2026-11-07 · Tool entries: 10
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · BENCH · quality 89 · observed 2026-11-02
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 97 · observed 2026-11-02
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · BENCH · quality 92 · observed 2026-11-09
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 97 · observed 2026-11-09
 
 ---
 
@@ -135,8 +152,8 @@ Generated: 2026-11-07 · Tool entries: 10
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-11-02
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 97 · observed 2026-11-02
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-11-09
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 97 · observed 2026-11-09
 
 ---
 
@@ -152,8 +169,8 @@ Generated: 2026-11-07 · Tool entries: 10
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · BENCH · quality 89 · observed 2026-11-02
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-11-02
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · BENCH · quality 92 · observed 2026-11-09
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-11-09
 
 ---
 
@@ -169,7 +186,7 @@ Generated: 2026-11-07 · Tool entries: 10
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 97 · observed 2026-11-02
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 94 · observed 2026-11-02
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 99 · observed 2026-11-09
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 94 · observed 2026-11-09
 
 ---

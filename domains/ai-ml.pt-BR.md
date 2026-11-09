@@ -2,7 +2,7 @@
 
 <p><sub>← [Voltar ao main](../README.pt-BR.md)</sub></p>
 
-**6 Revisado por humano · 0 Padrões populares · 70 Candidatos de IA · 0 Estado Needs Review**
+**6 Revisado por humano · 0 Padrões populares · 71 Candidatos de IA · 0 Estado Needs Review**
 
 Catálogo consultável: [TOOLS.md](../TOOLS.md) · Snapshot de evidências: [data/latest.json](../data/latest.json)
 
@@ -245,6 +245,20 @@ SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-51
 
 ---
 
+### [askbudi/roundtable](https://github.com/askbudi/roundtable)
+
+![](https://img.shields.io/github/stars/askbudi/roundtable?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: vuejs/awesome-vue, punkpeye/awesome-mcp-servers
+
+**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
+
+📇 ☁️ 🏠 🍎 🪟 🐧 Meta-MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized MCP interface, providing zero-configuration access...
+
+**Por que foi incluída:** 📇 ☁️ 🏠 🍎 🪟 🐧 Meta-MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent...
+
+**Registro de evidências:** [Evidência completa](../catalog/ai-ml.md#askbudi-roundtable-askbudi-roundtable) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [Bread WandB Viewer](https://github.com/bread-technologies/bread_wandb_viewer_extension)
 
 ![](https://img.shields.io/github/stars/bread-technologies/bread_wandb_viewer_extension?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
@@ -371,21 +385,7 @@ Machine Learning production server for TensorFlow, XGBoost and Cafe models writt
 
 ---
 
-### [Detectron2](https://github.com/facebookresearch/detectron2)
-
-![](https://img.shields.io/github/stars/facebookresearch/detectron2?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-Detectron2 is Facebook AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms.
-
-**Por que foi incluída:** SOTA accuracy en coco/benchmarks
-
-**Registro de evidências:** [Evidência completa](../catalog/ai-ml.md#detectron2-facebookresearch-detectron2) · [data/latest.json](../data/latest.json)
-
----
-
-_Showing 20 of 70. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+_Showing 20 of 71. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

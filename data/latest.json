@@ -1,16 +1,35 @@
 {
   "changes": [
     {
-      "changedAt": "2026-11-07",
-      "name": "Public recommendation set",
-      "reason": "No material public change detected.",
-      "toolId": "snapshot",
-      "type": "unchanged",
-      "url": "data/latest.json"
+      "changedAt": "2026-11-08",
+      "currentLabel": "AI Candidate",
+      "name": "askbudi/roundtable",
+      "reason": "📇 ☁️ 🏠 🍎 🪟 🐧 Meta-MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent...",
+      "toolId": "cmnwklnoj00i81p4twwyc2vrw",
+      "type": "newly reviewed",
+      "url": "https://github.com/askbudi/roundtable"
+    },
+    {
+      "changedAt": "2026-11-08",
+      "currentLabel": "AI Candidate",
+      "name": "Dash",
+      "reason": "Offline API documentation browser for macOS with instant search access to Vue.js docs and 200+ other frameworks.",
+      "toolId": "cmnwkpszl02da1p4th7qoredg",
+      "type": "newly reviewed",
+      "url": "https://kapeli.com/dash"
+    },
+    {
+      "changedAt": "2026-11-08",
+      "currentLabel": "AI Candidate",
+      "name": "MyIP",
+      "reason": "All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR...",
+      "toolId": "cmnwm1i1d02rbvn4dz1jybuup",
+      "type": "newly reviewed",
+      "url": "https://github.com/jason5ng32/myip"
     }
   ],
-  "commitSha": "b0a74618c4e0",
-  "generatedAt": "2026-11-07T10:00:15.998Z",
+  "commitSha": "2bf5fc83ceaa",
+  "generatedAt": "2026-11-08T10:00:15.604Z",
   "recommendations": [
     {
       "caveat": "Best fit for teams with a matching ML or data workflow.",
@@ -36,7 +55,7 @@
         {
           "itemCategory": "Development tools",
           "itemName": "BayesWitnesses/m2cgen",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 99,
           "sourceRepo": "rust-unofficial/awesome-rust",
           "sourceStatus": "ROSTER",
@@ -46,8 +65,8 @@
         {
           "itemCategory": "Machine Learning",
           "itemName": "m2cgen",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 88,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 89,
           "sourceRepo": "fffaraz/awesome-cpp",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-cpp",
@@ -57,17 +76,17 @@
           "itemCategory": "Tools",
           "itemName": "m2cgen",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         },
         {
           "itemCategory": "Machine Learning",
           "itemName": "m2cgen",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 100,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 97,
           "sourceRepo": "avelino/awesome-go",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-go",
@@ -76,71 +95,6 @@
       ],
       "summary": "A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies.",
       "url": "https://github.com/bayeswitnesses/m2cgen"
-    },
-    {
-      "caveat": "Security-sensitive tool; evaluate fit and maintenance posture before production use.",
-      "domain": "security",
-      "id": "cmnwkrzod03c51p4tvotzr6dv",
-      "label": "Human Pick",
-      "maintenance": {
-        "archived": false,
-        "graveyarded": false
-      },
-      "name": "themis",
-      "rationale": "Gives teams a higher-level API over cryptographic primitives without starting from raw building blocks.",
-      "review": {
-        "caveat": "Security-sensitive tool; evaluate fit and maintenance posture before production use.",
-        "notes": "Gives teams a higher-level API over cryptographic primitives without starting from raw building blocks.",
-        "reviewedAt": "2026-04-16",
-        "reviewedBy": "Juan",
-        "status": "Human Pick"
-      },
-      "slug": "cossacklabs-themis",
-      "sourceSignal": "Found in 4 active sources: matteocrippa/awesome-swift, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +1 more",
-      "sourceTraces": [
-        {
-          "itemCategory": "Libs",
-          "itemName": "Themis",
-          "observedAt": "2026-10-26",
-          "sourceQuality": 91,
-          "sourceRepo": "matteocrippa/awesome-swift",
-          "sourceStatus": "BENCH",
-          "sourceTitle": "awesome-swift",
-          "sourceUrl": "https://github.com/matteocrippa/awesome-swift"
-        },
-        {
-          "itemCategory": "Libraries",
-          "itemName": "cossacklabs/themis",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 99,
-          "sourceRepo": "rust-unofficial/awesome-rust",
-          "sourceStatus": "ROSTER",
-          "sourceTitle": "awesome-rust",
-          "sourceUrl": "https://github.com/rust-unofficial/awesome-rust"
-        },
-        {
-          "itemCategory": "Cryptography",
-          "itemName": "Themis",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 88,
-          "sourceRepo": "fffaraz/awesome-cpp",
-          "sourceStatus": "BENCH",
-          "sourceTitle": "awesome-cpp",
-          "sourceUrl": "https://github.com/fffaraz/awesome-cpp"
-        },
-        {
-          "itemCategory": "Security",
-          "itemName": "themis",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 100,
-          "sourceRepo": "avelino/awesome-go",
-          "sourceStatus": "ROSTER",
-          "sourceTitle": "awesome-go",
-          "sourceUrl": "https://github.com/avelino/awesome-go"
-        }
-      ],
-      "summary": "High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption). Ported on many...",
-      "url": "https://github.com/cossacklabs/themis"
     },
     {
       "caveat": "Best fit for teams with a matching ML or data workflow.",
@@ -166,8 +120,8 @@
         {
           "itemCategory": "Industry Strength Visualisation",
           "itemName": "Netron",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -176,10 +130,10 @@
         {
           "itemCategory": "The Data Science Toolbox",
           "itemName": "Netron",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 94,
           "sourceRepo": "academic/awesome-datascience",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-datascience",
           "sourceUrl": "https://github.com/academic/awesome-datascience"
         },
@@ -187,15 +141,70 @@
           "itemCategory": "JavaScript",
           "itemName": "Netron",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
       ],
       "summary": "Netron is a viewer for neural network, deep learning and machine learning models.",
       "url": "https://github.com/lutzroeder/netron"
+    },
+    {
+      "caveat": "Security-sensitive tool; evaluate fit and maintenance posture before production use.",
+      "domain": "security",
+      "id": "cmnwkrzod03c51p4tvotzr6dv",
+      "label": "Human Pick",
+      "maintenance": {
+        "archived": false,
+        "graveyarded": false
+      },
+      "name": "themis",
+      "rationale": "Gives teams a higher-level API over cryptographic primitives without starting from raw building blocks.",
+      "review": {
+        "caveat": "Security-sensitive tool; evaluate fit and maintenance posture before production use.",
+        "notes": "Gives teams a higher-level API over cryptographic primitives without starting from raw building blocks.",
+        "reviewedAt": "2026-04-16",
+        "reviewedBy": "Juan",
+        "status": "Human Pick"
+      },
+      "slug": "cossacklabs-themis",
+      "sourceSignal": "Found in 3 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go",
+      "sourceTraces": [
+        {
+          "itemCategory": "Libraries",
+          "itemName": "cossacklabs/themis",
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
+          "sourceRepo": "rust-unofficial/awesome-rust",
+          "sourceStatus": "ROSTER",
+          "sourceTitle": "awesome-rust",
+          "sourceUrl": "https://github.com/rust-unofficial/awesome-rust"
+        },
+        {
+          "itemCategory": "Cryptography",
+          "itemName": "Themis",
+          "observedAt": "2026-11-09",
+          "sourceQuality": 89,
+          "sourceRepo": "fffaraz/awesome-cpp",
+          "sourceStatus": "BENCH",
+          "sourceTitle": "awesome-cpp",
+          "sourceUrl": "https://github.com/fffaraz/awesome-cpp"
+        },
+        {
+          "itemCategory": "Security",
+          "itemName": "themis",
+          "observedAt": "2026-11-09",
+          "sourceQuality": 97,
+          "sourceRepo": "avelino/awesome-go",
+          "sourceStatus": "ROSTER",
+          "sourceTitle": "awesome-go",
+          "sourceUrl": "https://github.com/avelino/awesome-go"
+        }
+      ],
+      "summary": "High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption). Ported on many...",
+      "url": "https://github.com/cossacklabs/themis"
     },
     {
       "caveat": "Cross-source coverage is limited.",
@@ -221,8 +230,8 @@
         {
           "itemCategory": "Debug",
           "itemName": "Bencher",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 88,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 89,
           "sourceRepo": "fffaraz/awesome-cpp",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-cpp",
@@ -231,8 +240,8 @@
         {
           "itemCategory": "Continuous Integration",
           "itemName": "Bencher",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 100,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 97,
           "sourceRepo": "avelino/awesome-go",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-go",
@@ -266,7 +275,7 @@
         {
           "itemCategory": "Applications",
           "itemName": "Sniffnet",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 99,
           "sourceRepo": "rust-unofficial/awesome-rust",
           "sourceStatus": "ROSTER",
@@ -276,7 +285,7 @@
         {
           "itemCategory": "Developer Tools",
           "itemName": "Sniffnet",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 100,
           "sourceRepo": "jaywcjlove/awesome-mac",
           "sourceStatus": "ROSTER",
@@ -311,8 +320,8 @@
         {
           "itemCategory": "Model, Data and Experiment Management",
           "itemName": "Aim",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -322,9 +331,9 @@
           "itemCategory": "Python",
           "itemName": "Aim",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -356,7 +365,7 @@
         {
           "itemCategory": "Libraries",
           "itemName": "huggingface/candle",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 99,
           "sourceRepo": "rust-unofficial/awesome-rust",
           "sourceStatus": "ROSTER",
@@ -367,9 +376,9 @@
           "itemCategory": "Rust",
           "itemName": "candle",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -401,8 +410,8 @@
         {
           "itemCategory": "Data Storage Optimisation",
           "itemName": "Chroma",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -411,10 +420,10 @@
         {
           "itemCategory": "Projects",
           "itemName": "chromadb",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -446,8 +455,8 @@
         {
           "itemCategory": "Industry Strength Information Retrieval",
           "itemName": "Mem0",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -456,10 +465,10 @@
         {
           "itemCategory": "Projects",
           "itemName": "mem0",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -491,8 +500,8 @@
         {
           "itemCategory": "Computation and Communication Optimisation",
           "itemName": "PyTorch",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -501,18 +510,18 @@
         {
           "itemCategory": "The Data Science Toolbox",
           "itemName": "PyTorch",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 94,
           "sourceRepo": "academic/awesome-datascience",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-datascience",
           "sourceUrl": "https://github.com/academic/awesome-datascience"
         },
         {
           "itemCategory": "Artificial Intelligence",
           "itemName": "PyTorch",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 88,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 89,
           "sourceRepo": "fffaraz/awesome-cpp",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-cpp",
@@ -522,19 +531,19 @@
           "itemCategory": "Python",
           "itemName": "PyTorch",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         },
         {
           "itemCategory": "Projects",
           "itemName": "pytorch",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -565,8 +574,8 @@
         {
           "itemCategory": "Computation and Communication Optimisation",
           "itemName": "XGBoost",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -575,18 +584,18 @@
         {
           "itemCategory": "The Data Science Toolbox",
           "itemName": "XGBoost",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 94,
           "sourceRepo": "academic/awesome-datascience",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-datascience",
           "sourceUrl": "https://github.com/academic/awesome-datascience"
         },
         {
           "itemCategory": "Machine Learning",
           "itemName": "xgboost",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 88,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 89,
           "sourceRepo": "fffaraz/awesome-cpp",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-cpp",
@@ -596,19 +605,19 @@
           "itemCategory": "C++",
           "itemName": "XGBoost",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         },
         {
           "itemCategory": "Projects",
           "itemName": "xgboost",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -639,18 +648,18 @@
         {
           "itemCategory": "The Data Science Toolbox",
           "itemName": "CatBoost",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 94,
           "sourceRepo": "academic/awesome-datascience",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-datascience",
           "sourceUrl": "https://github.com/academic/awesome-datascience"
         },
         {
           "itemCategory": "Machine Learning",
           "itemName": "catboost",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 88,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 89,
           "sourceRepo": "fffaraz/awesome-cpp",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-cpp",
@@ -660,19 +669,19 @@
           "itemCategory": "C++",
           "itemName": "CatBoost",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         },
         {
           "itemCategory": "Projects",
           "itemName": "catboost",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -703,8 +712,8 @@
         {
           "itemCategory": "Industry Strength Visualisation",
           "itemName": "Bokeh",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -714,19 +723,19 @@
           "itemCategory": "Python",
           "itemName": "bokeh",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         },
         {
           "itemCategory": "Projects",
           "itemName": "bokeh",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -757,8 +766,8 @@
         {
           "itemCategory": "Evaluation and Monitoring",
           "itemName": "Deepchecks",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -767,10 +776,10 @@
         {
           "itemCategory": "The Data Science Toolbox",
           "itemName": "Deepchecks",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 94,
           "sourceRepo": "academic/awesome-datascience",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-datascience",
           "sourceUrl": "https://github.com/academic/awesome-datascience"
         },
@@ -778,9 +787,9 @@
           "itemCategory": "Python",
           "itemName": "Deepchecks",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -811,8 +820,8 @@
         {
           "itemCategory": "AutoML",
           "itemName": "Feature Engine",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -822,19 +831,19 @@
           "itemCategory": "Python",
           "itemName": "Feature-engine",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         },
         {
           "itemCategory": "Projects",
           "itemName": "feature-engine",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -865,8 +874,8 @@
         {
           "itemCategory": "Industry Strength Visualisation",
           "itemName": "gradio",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -876,19 +885,19 @@
           "itemCategory": "Python",
           "itemName": "Gradio",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         },
         {
           "itemCategory": "Projects",
           "itemName": "gradio",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -919,8 +928,8 @@
         {
           "itemCategory": "Model Training and Orchestration",
           "itemName": "H2O-3",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -930,19 +939,19 @@
           "itemCategory": "Java",
           "itemName": "H2O",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         },
         {
           "itemCategory": "Projects",
           "itemName": "h2o",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -973,8 +982,8 @@
         {
           "itemCategory": "Computation and Communication Optimisation",
           "itemName": "LightGBM",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -983,10 +992,10 @@
         {
           "itemCategory": "The Data Science Toolbox",
           "itemName": "LightGBM",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 94,
           "sourceRepo": "academic/awesome-datascience",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-datascience",
           "sourceUrl": "https://github.com/academic/awesome-datascience"
         },
@@ -994,9 +1003,9 @@
           "itemCategory": "C++",
           "itemName": "LightGBM",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -1027,10 +1036,10 @@
         {
           "itemCategory": "The Data Science Toolbox",
           "itemName": "scikit-image",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 94,
           "sourceRepo": "academic/awesome-datascience",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-datascience",
           "sourceUrl": "https://github.com/academic/awesome-datascience"
         },
@@ -1038,19 +1047,19 @@
           "itemCategory": "Python",
           "itemName": "Scikit-Image",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         },
         {
           "itemCategory": "Projects",
           "itemName": "scikit-image",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -1081,8 +1090,8 @@
         {
           "itemCategory": "Industry Strength Natural Language Processing",
           "itemName": "SpaCy",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -1092,19 +1101,19 @@
           "itemCategory": "Python",
           "itemName": "spaCy",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         },
         {
           "itemCategory": "Projects",
           "itemName": "spacy",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -1135,8 +1144,8 @@
         {
           "itemCategory": "Industry Strength Reinforcement Learning",
           "itemName": "Stable Baselines",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -1146,19 +1155,19 @@
           "itemCategory": "Go",
           "itemName": "stable-baselines3",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         },
         {
           "itemCategory": "Projects",
           "itemName": "stable-baselines3",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -1189,8 +1198,8 @@
         {
           "itemCategory": "Industry Strength Visualisation",
           "itemName": "Streamlit",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -1200,19 +1209,19 @@
           "itemCategory": "Python",
           "itemName": "Streamlit",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         },
         {
           "itemCategory": "Projects",
           "itemName": "streamlit",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -1243,8 +1252,8 @@
         {
           "itemCategory": "Industry Strength Natural Language Processing",
           "itemName": "Transformers",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -1254,19 +1263,19 @@
           "itemCategory": "Python",
           "itemName": "Transformers",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         },
         {
           "itemCategory": "Projects",
           "itemName": "transformers",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -1297,8 +1306,8 @@
         {
           "itemCategory": "Privacy and Safety",
           "itemName": "AI Job Displacement Tracker",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -1307,10 +1316,10 @@
         {
           "itemCategory": "Fun",
           "itemName": "AI Displacement Tracker",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 94,
           "sourceRepo": "academic/awesome-datascience",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-datascience",
           "sourceUrl": "https://github.com/academic/awesome-datascience"
         }
@@ -1341,8 +1350,8 @@
         {
           "itemCategory": "Database",
           "itemName": "GoSQLX",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 100,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 97,
           "sourceRepo": "avelino/awesome-go",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-go",
@@ -1351,7 +1360,7 @@
         {
           "itemCategory": "Server Implementations",
           "itemName": "ajitpratap0/GoSQLX",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 97,
           "sourceRepo": "punkpeye/awesome-mcp-servers",
           "sourceStatus": "ROSTER",
@@ -1385,8 +1394,8 @@
         {
           "itemCategory": "Data Pipeline",
           "itemName": "Apache Airflow",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -1395,10 +1404,10 @@
         {
           "itemCategory": "Projects",
           "itemName": "apache-airflow",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -1429,8 +1438,8 @@
         {
           "itemCategory": "Data Stream Processing",
           "itemName": "Apache Spark",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -1440,9 +1449,9 @@
           "itemCategory": "Java",
           "itemName": "Spark",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -1473,7 +1482,7 @@
         {
           "itemCategory": "Libraries",
           "itemName": "ashvardanian/NumKong",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 99,
           "sourceRepo": "rust-unofficial/awesome-rust",
           "sourceStatus": "ROSTER",
@@ -1483,8 +1492,8 @@
         {
           "itemCategory": "Math",
           "itemName": "NumKong",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 88,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 89,
           "sourceRepo": "fffaraz/awesome-cpp",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-cpp",
@@ -1517,7 +1526,7 @@
         {
           "itemCategory": "Applications",
           "itemName": "ashvardanian/stringzilla",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 99,
           "sourceRepo": "rust-unofficial/awesome-rust",
           "sourceStatus": "ROSTER",
@@ -1527,8 +1536,8 @@
         {
           "itemCategory": "Miscellaneous",
           "itemName": "StringZilla",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 88,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 89,
           "sourceRepo": "fffaraz/awesome-cpp",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-cpp",
@@ -1537,6 +1546,50 @@
       ],
       "summary": "SIMD-accelerated string search, sort, edit distances, alignments, and generators for x86 AVX2 & AVX-512, and Arm NEON",
       "url": "https://github.com/ashvardanian/stringzilla"
+    },
+    {
+      "caveat": "Candidate still needs human review before endorsement.",
+      "domain": "ai-ml",
+      "id": "cmnwklnoj00i81p4twwyc2vrw",
+      "label": "AI Candidate",
+      "maintenance": {
+        "archived": false,
+        "graveyarded": false
+      },
+      "name": "askbudi/roundtable",
+      "rationale": "📇 ☁️ 🏠 🍎 🪟 🐧 Meta-MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent...",
+      "review": {
+        "caveat": "Candidate still needs human review before endorsement.",
+        "notes": "📇 ☁️ 🏠 🍎 🪟 🐧 Meta-MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent...",
+        "reviewedAt": "2026-04-13",
+        "status": "AI Candidate"
+      },
+      "slug": "askbudi-roundtable",
+      "sourceSignal": "Found in 2 active sources: vuejs/awesome-vue, punkpeye/awesome-mcp-servers",
+      "sourceTraces": [
+        {
+          "itemCategory": "Components & Libraries",
+          "itemName": "Roundtable",
+          "observedAt": "2026-11-09",
+          "sourceQuality": 96,
+          "sourceRepo": "vuejs/awesome-vue",
+          "sourceStatus": "ROSTER",
+          "sourceTitle": "awesome-vue",
+          "sourceUrl": "https://github.com/vuejs/awesome-vue"
+        },
+        {
+          "itemCategory": "Server Implementations",
+          "itemName": "askbudi/roundtable",
+          "observedAt": "2026-11-09",
+          "sourceQuality": 97,
+          "sourceRepo": "punkpeye/awesome-mcp-servers",
+          "sourceStatus": "ROSTER",
+          "sourceTitle": "awesome-mcp-servers",
+          "sourceUrl": "https://github.com/punkpeye/awesome-mcp-servers"
+        }
+      ],
+      "summary": "📇 ☁️ 🏠 🍎 🪟 🐧 Meta-MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized MCP interface, providing zero-configuration access...",
+      "url": "https://github.com/askbudi/roundtable"
     },
     {
       "caveat": "Candidate still needs human review before endorsement.",
@@ -1561,7 +1614,7 @@
         {
           "itemCategory": "Development tools",
           "itemName": "astral-sh/ruff",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 99,
           "sourceRepo": "rust-unofficial/awesome-rust",
           "sourceStatus": "ROSTER",
@@ -1571,10 +1624,10 @@
         {
           "itemCategory": "Projects",
           "itemName": "ruff",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -1605,7 +1658,7 @@
         {
           "itemCategory": "↑ Privacy and Encryption Tools",
           "itemName": "Bitwarden",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 97,
           "sourceRepo": "jivoi/awesome-osint",
           "sourceStatus": "ROSTER",
@@ -1615,7 +1668,7 @@
         {
           "itemCategory": "Utilities",
           "itemName": "Bitwarden",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 100,
           "sourceRepo": "jaywcjlove/awesome-mac",
           "sourceStatus": "ROSTER",
@@ -1649,7 +1702,7 @@
         {
           "itemCategory": "↑ Browsers",
           "itemName": "Brave",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 97,
           "sourceRepo": "jivoi/awesome-osint",
           "sourceStatus": "ROSTER",
@@ -1659,7 +1712,7 @@
         {
           "itemCategory": "Browsers",
           "itemName": "Brave",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 100,
           "sourceRepo": "jaywcjlove/awesome-mac",
           "sourceStatus": "ROSTER",
@@ -1693,8 +1746,8 @@
         {
           "itemCategory": "Industry Strength Visualisation",
           "itemName": "Bread Dataset Viewer",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -1704,9 +1757,9 @@
           "itemCategory": "Tools",
           "itemName": "Bread Dataset Viewer",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -1737,8 +1790,8 @@
         {
           "itemCategory": "Industry Strength Visualisation",
           "itemName": "Bread WandB Viewer",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -1748,9 +1801,9 @@
           "itemCategory": "Tools",
           "itemName": "Bread WandB Viewer",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -1781,7 +1834,7 @@
         {
           "itemCategory": "Libraries",
           "itemName": "burn",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 99,
           "sourceRepo": "rust-unofficial/awesome-rust",
           "sourceStatus": "ROSTER",
@@ -1792,9 +1845,9 @@
           "itemCategory": "Rust",
           "itemName": "burn",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -1825,10 +1878,10 @@
         {
           "itemCategory": "The Data Science Toolbox",
           "itemName": "C3",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 94,
           "sourceRepo": "academic/awesome-datascience",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-datascience",
           "sourceUrl": "https://github.com/academic/awesome-datascience"
         },
@@ -1836,9 +1889,9 @@
           "itemCategory": "JavaScript",
           "itemName": "C3.js",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -1869,10 +1922,10 @@
         {
           "itemCategory": "The Data Science Toolbox",
           "itemName": "Catalyst",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 94,
           "sourceRepo": "academic/awesome-datascience",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-datascience",
           "sourceUrl": "https://github.com/academic/awesome-datascience"
         },
@@ -1880,9 +1933,9 @@
           "itemCategory": "Python",
           "itemName": "Catalyst",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -1913,8 +1966,8 @@
         {
           "itemCategory": "Machine Learning",
           "itemName": "CCV",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 88,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 89,
           "sourceRepo": "fffaraz/awesome-cpp",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-cpp",
@@ -1924,9 +1977,9 @@
           "itemCategory": "C",
           "itemName": "CCV",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -1957,8 +2010,8 @@
         {
           "itemCategory": "Data Annotation and Synthesis",
           "itemName": "cleanlab",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -1968,9 +2021,9 @@
           "itemCategory": "Python",
           "itemName": "cleanlab",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -2001,8 +2054,8 @@
         {
           "itemCategory": "Model, Data and Experiment Management",
           "itemName": "ClearML",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -2012,9 +2065,9 @@
           "itemCategory": "Python",
           "itemName": "ClearML",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -2045,8 +2098,8 @@
         {
           "itemCategory": "Integrated Development Environment",
           "itemName": "CLion",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 88,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 89,
           "sourceRepo": "fffaraz/awesome-cpp",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-cpp",
@@ -2055,7 +2108,7 @@
         {
           "itemCategory": "Developer Tools",
           "itemName": "CLion",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 100,
           "sourceRepo": "jaywcjlove/awesome-mac",
           "sourceStatus": "ROSTER",
@@ -2090,17 +2143,17 @@
           "itemCategory": "Go",
           "itemName": "Cloudforest",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         },
         {
           "itemCategory": "Machine Learning",
           "itemName": "CloudForest",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 100,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 97,
           "sourceRepo": "avelino/awesome-go",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-go",
@@ -2133,8 +2186,8 @@
         {
           "itemCategory": "Model Training and Orchestration",
           "itemName": "CML",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -2144,9 +2197,9 @@
           "itemCategory": "Tools",
           "itemName": "CML",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -2177,8 +2230,8 @@
         {
           "itemCategory": "Computation and Communication Optimisation",
           "itemName": "Colossal-AI",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -2188,9 +2241,9 @@
           "itemCategory": "Python",
           "itemName": "Colossal-AI",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -2221,7 +2274,7 @@
         {
           "itemCategory": "↑ Infographics and Data Visualization",
           "itemName": "csvkit",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 97,
           "sourceRepo": "jivoi/awesome-osint",
           "sourceStatus": "ROSTER",
@@ -2231,10 +2284,10 @@
         {
           "itemCategory": "Projects",
           "itemName": "csvkit",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -2265,8 +2318,8 @@
         {
           "itemCategory": "Computation and Communication Optimisation",
           "itemName": "CuML",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -2275,10 +2328,10 @@
         {
           "itemCategory": "The Data Science Toolbox",
           "itemName": "cuML",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 94,
           "sourceRepo": "academic/awesome-datascience",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-datascience",
           "sourceUrl": "https://github.com/academic/awesome-datascience"
         }
@@ -2309,8 +2362,8 @@
         {
           "itemCategory": "Scripting",
           "itemName": "Cython",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 88,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 89,
           "sourceRepo": "fffaraz/awesome-cpp",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-cpp",
@@ -2319,10 +2372,10 @@
         {
           "itemCategory": "Projects",
           "itemName": "Cython",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -2353,7 +2406,7 @@
         {
           "itemCategory": "↑ Infographics and Data Visualization",
           "itemName": "D3js",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 97,
           "sourceRepo": "jivoi/awesome-osint",
           "sourceStatus": "ROSTER",
@@ -2363,10 +2416,10 @@
         {
           "itemCategory": "The Data Science Toolbox",
           "itemName": "Data-Driven Documents(D3js)",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 94,
           "sourceRepo": "academic/awesome-datascience",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-datascience",
           "sourceUrl": "https://github.com/academic/awesome-datascience"
         }
@@ -2397,7 +2450,7 @@
         {
           "itemCategory": "Security",
           "itemName": "Container Use",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 98,
           "sourceRepo": "hesreallyhim/awesome-claude-code",
           "sourceStatus": "ROSTER",
@@ -2407,7 +2460,7 @@
         {
           "itemCategory": "Server Implementations",
           "itemName": "dagger/container-use",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 97,
           "sourceRepo": "punkpeye/awesome-mcp-servers",
           "sourceStatus": "ROSTER",
@@ -2441,8 +2494,8 @@
         {
           "itemCategory": "Data Pipeline",
           "itemName": "Dagster",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -2451,16 +2504,60 @@
         {
           "itemCategory": "Projects",
           "itemName": "dagster",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
       ],
       "summary": "A data orchestrator for machine learning, analytics, and ETL.",
       "url": "https://github.com/dagster-io/dagster"
+    },
+    {
+      "caveat": "Candidate still needs human review before endorsement.",
+      "domain": "tooling",
+      "id": "cmnwkpszl02da1p4th7qoredg",
+      "label": "AI Candidate",
+      "maintenance": {
+        "archived": false,
+        "graveyarded": false
+      },
+      "name": "Dash",
+      "rationale": "Offline API documentation browser for macOS with instant search access to Vue.js docs and 200+ other frameworks.",
+      "review": {
+        "caveat": "Candidate still needs human review before endorsement.",
+        "notes": "Offline API documentation browser for macOS with instant search access to Vue.js docs and 200+ other frameworks.",
+        "reviewedAt": "2026-04-13",
+        "status": "AI Candidate"
+      },
+      "slug": "kapeli",
+      "sourceSignal": "Found in 2 active sources: vuejs/awesome-vue, jaywcjlove/awesome-mac",
+      "sourceTraces": [
+        {
+          "itemCategory": "Components & Libraries",
+          "itemName": "Dash",
+          "observedAt": "2026-11-09",
+          "sourceQuality": 96,
+          "sourceRepo": "vuejs/awesome-vue",
+          "sourceStatus": "ROSTER",
+          "sourceTitle": "awesome-vue",
+          "sourceUrl": "https://github.com/vuejs/awesome-vue"
+        },
+        {
+          "itemCategory": "Developer Tools",
+          "itemName": "Dash",
+          "observedAt": "2026-11-09",
+          "sourceQuality": 100,
+          "sourceRepo": "jaywcjlove/awesome-mac",
+          "sourceStatus": "ROSTER",
+          "sourceTitle": "awesome-mac",
+          "sourceUrl": "https://github.com/jaywcjlove/awesome-mac"
+        }
+      ],
+      "summary": "Offline API documentation browser for macOS with instant search access to Vue.js docs and 200+ other frameworks.",
+      "url": "https://kapeli.com/dash"
     },
     {
       "caveat": "Candidate still needs human review before endorsement.",
@@ -2485,8 +2582,8 @@
         {
           "itemCategory": "Computation and Communication Optimisation",
           "itemName": "Dask",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -2495,10 +2592,10 @@
         {
           "itemCategory": "Projects",
           "itemName": "dask",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -2529,10 +2626,10 @@
         {
           "itemCategory": "The Data Science Toolbox",
           "itemName": "datacompy",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 94,
           "sourceRepo": "academic/awesome-datascience",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-datascience",
           "sourceUrl": "https://github.com/academic/awesome-datascience"
         },
@@ -2540,9 +2637,9 @@
           "itemCategory": "Python",
           "itemName": "DataComPy",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -2573,7 +2670,7 @@
         {
           "itemCategory": "Numerical Libraries & Data Structures",
           "itemName": "DataFrames.jl",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 100,
           "sourceRepo": "wilsonfreitas/awesome-quant",
           "sourceStatus": "ROSTER",
@@ -2584,9 +2681,9 @@
           "itemCategory": "Julia",
           "itemName": "DataFrames",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -2617,8 +2714,8 @@
         {
           "itemCategory": "Computation and Communication Optimisation",
           "itemName": "DEAP",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -2628,9 +2725,9 @@
           "itemCategory": "Python",
           "itemName": "deap",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -2661,8 +2758,8 @@
         {
           "itemCategory": "Deployment and Serving",
           "itemName": "DeepDetect",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -2672,9 +2769,9 @@
           "itemCategory": "C++",
           "itemName": "DeepDetect",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -2705,8 +2802,8 @@
         {
           "itemCategory": "Data Science Notebook",
           "itemName": "Deepnote",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -2716,9 +2813,9 @@
           "itemCategory": "Tools",
           "itemName": "Deepnote",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -2749,8 +2846,8 @@
         {
           "itemCategory": "Industry Strength Computer Vision",
           "itemName": "Detectron2",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -2760,9 +2857,9 @@
           "itemCategory": "Python",
           "itemName": "detectron2",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -2793,8 +2890,8 @@
         {
           "itemCategory": "Model Training and Orchestration",
           "itemName": "Determined",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -2804,9 +2901,9 @@
           "itemCategory": "Python",
           "itemName": "Determined",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -2837,8 +2934,8 @@
         {
           "itemCategory": "User Interfaces",
           "itemName": "dive",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 89,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 92,
           "sourceRepo": "veggiemonk/awesome-docker",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-docker",
@@ -2847,8 +2944,8 @@
         {
           "itemCategory": "Utilities",
           "itemName": "dive",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 100,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 97,
           "sourceRepo": "avelino/awesome-go",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-go",
@@ -2881,18 +2978,18 @@
         {
           "itemCategory": "The Data Science Toolbox",
           "itemName": "dlib",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 94,
           "sourceRepo": "academic/awesome-datascience",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-datascience",
           "sourceUrl": "https://github.com/academic/awesome-datascience"
         },
         {
           "itemCategory": "Frameworks",
           "itemName": "Dlib",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 88,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 89,
           "sourceRepo": "fffaraz/awesome-cpp",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-cpp",
@@ -2925,8 +3022,8 @@
         {
           "itemCategory": "Storage & Data",
           "itemName": "Docker Volume Backup",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 89,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 92,
           "sourceRepo": "veggiemonk/awesome-docker",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-docker",
@@ -2935,8 +3032,8 @@
         {
           "itemCategory": "Software Packages",
           "itemName": "docker-volume-backup",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 100,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 97,
           "sourceRepo": "avelino/awesome-go",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-go",
@@ -2969,8 +3066,8 @@
         {
           "itemCategory": "Model, Data and Experiment Management",
           "itemName": "Dolt",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -2979,8 +3076,8 @@
         {
           "itemCategory": "Database",
           "itemName": "dolt",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 100,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 97,
           "sourceRepo": "avelino/awesome-go",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-go",
@@ -3013,8 +3110,8 @@
         {
           "itemCategory": "Image Lifecycle",
           "itemName": "Dragonfly",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 89,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 92,
           "sourceRepo": "veggiemonk/awesome-docker",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-docker",
@@ -3023,8 +3120,8 @@
         {
           "itemCategory": "Distributed Systems",
           "itemName": "Dragonfly",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 100,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 97,
           "sourceRepo": "avelino/awesome-go",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-go",
@@ -3057,8 +3154,8 @@
         {
           "itemCategory": "Developer Workflow",
           "itemName": "Drone",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 89,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 92,
           "sourceRepo": "veggiemonk/awesome-docker",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-docker",
@@ -3067,8 +3164,8 @@
         {
           "itemCategory": "Continuous Integration",
           "itemName": "drone",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 100,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 97,
           "sourceRepo": "avelino/awesome-go",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-go",
@@ -3101,8 +3198,8 @@
         {
           "itemCategory": "Industry Strength Natural Language Processing",
           "itemName": "dspy",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -3111,10 +3208,10 @@
         {
           "itemCategory": "Projects",
           "itemName": "dspy",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -3145,8 +3242,8 @@
         {
           "itemCategory": "Model, Data and Experiment Management",
           "itemName": "DVC",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -3156,9 +3253,9 @@
           "itemCategory": "Tools",
           "itemName": "DVC",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -3189,7 +3286,7 @@
         {
           "itemCategory": "Market Data & Data Sources",
           "itemName": "edgartools",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 100,
           "sourceRepo": "wilsonfreitas/awesome-quant",
           "sourceStatus": "ROSTER",
@@ -3199,10 +3296,10 @@
         {
           "itemCategory": "Projects",
           "itemName": "edgartools",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -3233,8 +3330,8 @@
         {
           "itemCategory": "Computation and Communication Optimisation",
           "itemName": "einops",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -3244,9 +3341,9 @@
           "itemCategory": "Python",
           "itemName": "einops",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -3277,8 +3374,8 @@
         {
           "itemCategory": "Container Operations",
           "itemName": "etcd",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 89,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 92,
           "sourceRepo": "veggiemonk/awesome-docker",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-docker",
@@ -3287,8 +3384,8 @@
         {
           "itemCategory": "Server Applications",
           "itemName": "etcd",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 100,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 97,
           "sourceRepo": "avelino/awesome-go",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-go",
@@ -3321,8 +3418,8 @@
         {
           "itemCategory": "Evaluation and Monitoring",
           "itemName": "Evidently",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -3332,9 +3429,9 @@
           "itemCategory": "Python",
           "itemName": "Evidently",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -3365,8 +3462,8 @@
         {
           "itemCategory": "Industry Strength Information Retrieval",
           "itemName": "Faiss",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -3375,8 +3472,8 @@
         {
           "itemCategory": "Machine Learning",
           "itemName": "FAISS",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 88,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 89,
           "sourceRepo": "fffaraz/awesome-cpp",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-cpp",
@@ -3409,8 +3506,8 @@
         {
           "itemCategory": "Computation and Communication Optimisation",
           "itemName": "Flashlight",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -3419,8 +3516,8 @@
         {
           "itemCategory": "Artificial Intelligence",
           "itemName": "flashlight",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 88,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 89,
           "sourceRepo": "fffaraz/awesome-cpp",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-cpp",
@@ -3453,8 +3550,8 @@
         {
           "itemCategory": "Developer Workflow",
           "itemName": "Gebug",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 89,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 92,
           "sourceRepo": "veggiemonk/awesome-docker",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-docker",
@@ -3463,8 +3560,8 @@
         {
           "itemCategory": "Software Packages",
           "itemName": "Gebug",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 100,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 97,
           "sourceRepo": "avelino/awesome-go",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-go",
@@ -3497,7 +3594,7 @@
         {
           "itemCategory": "↑ Social Network Analysis",
           "itemName": "Gephi",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 97,
           "sourceRepo": "jivoi/awesome-osint",
           "sourceStatus": "ROSTER",
@@ -3507,10 +3604,10 @@
         {
           "itemCategory": "The Data Science Toolbox",
           "itemName": "gephi",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 94,
           "sourceRepo": "academic/awesome-datascience",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-datascience",
           "sourceUrl": "https://github.com/academic/awesome-datascience"
         }
@@ -3541,10 +3638,10 @@
         {
           "itemCategory": "The Data Science Toolbox",
           "itemName": "ggplot2",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 94,
           "sourceRepo": "academic/awesome-datascience",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-datascience",
           "sourceUrl": "https://github.com/academic/awesome-datascience"
         },
@@ -3552,9 +3649,9 @@
           "itemCategory": "R",
           "itemName": "ggplot2",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -3586,17 +3683,17 @@
           "itemCategory": "Go",
           "itemName": "GoCV",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         },
         {
           "itemCategory": "Images",
           "itemName": "gocv",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 100,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 97,
           "sourceRepo": "avelino/awesome-go",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-go",
@@ -3630,17 +3727,17 @@
           "itemCategory": "Go",
           "itemName": "golearn",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         },
         {
           "itemCategory": "Machine Learning",
           "itemName": "GoLearn",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 100,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 97,
           "sourceRepo": "avelino/awesome-go",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-go",
@@ -3674,17 +3771,17 @@
           "itemCategory": "Go",
           "itemName": "gorgonia",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         },
         {
           "itemCategory": "Machine Learning",
           "itemName": "gorgonia",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 100,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 97,
           "sourceRepo": "avelino/awesome-go",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-go",
@@ -3718,17 +3815,17 @@
           "itemCategory": "Go",
           "itemName": "gorse",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         },
         {
           "itemCategory": "Machine Learning",
           "itemName": "gorse",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 100,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 97,
           "sourceRepo": "avelino/awesome-go",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-go",
@@ -3761,8 +3858,8 @@
         {
           "itemCategory": "Inter-process communication",
           "itemName": "gRPC",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 88,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 89,
           "sourceRepo": "fffaraz/awesome-cpp",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-cpp",
@@ -3771,10 +3868,10 @@
         {
           "itemCategory": "Projects",
           "itemName": "grpcio",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -3805,7 +3902,7 @@
         {
           "itemCategory": "Libraries",
           "itemName": "GTK+",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 99,
           "sourceRepo": "rust-unofficial/awesome-rust",
           "sourceStatus": "ROSTER",
@@ -3815,8 +3912,8 @@
         {
           "itemCategory": "GUI",
           "itemName": "GTK+",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 88,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 89,
           "sourceRepo": "fffaraz/awesome-cpp",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-cpp",
@@ -3849,8 +3946,8 @@
         {
           "itemCategory": "Industry Strength Reinforcement Learning",
           "itemName": "Gymnasium",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -3860,9 +3957,9 @@
           "itemCategory": "Python",
           "itemName": "Gymnasium",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -3893,8 +3990,8 @@
         {
           "itemCategory": "Data Pipeline",
           "itemName": "Hamilton",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -3904,9 +4001,9 @@
           "itemCategory": "Tools",
           "itemName": "Hamilton",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -3937,8 +4034,8 @@
         {
           "itemCategory": "Industry Strength Natural Language Processing",
           "itemName": "Haystack",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -3948,9 +4045,9 @@
           "itemCategory": "Python",
           "itemName": "Haystack",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -3981,8 +4078,8 @@
         {
           "itemCategory": "Model Training and Orchestration",
           "itemName": "Hopsworks",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -3992,9 +4089,9 @@
           "itemCategory": "C++",
           "itemName": "Hopsworks",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -4025,7 +4122,7 @@
         {
           "itemCategory": "Libraries",
           "itemName": "huggingface/tokenizers",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 99,
           "sourceRepo": "rust-unofficial/awesome-rust",
           "sourceStatus": "ROSTER",
@@ -4036,9 +4133,9 @@
           "itemCategory": "Rust",
           "itemName": "huggingface/tokenizers",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -4069,7 +4166,7 @@
         {
           "itemCategory": "↑ Pastebins",
           "itemName": "ideone",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 97,
           "sourceRepo": "jivoi/awesome-osint",
           "sourceStatus": "ROSTER",
@@ -4079,8 +4176,8 @@
         {
           "itemCategory": "Online Compiler",
           "itemName": "Ideone",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 88,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 89,
           "sourceRepo": "fffaraz/awesome-cpp",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-cpp",
@@ -4113,7 +4210,7 @@
         {
           "itemCategory": "Libraries",
           "itemName": "ImGui",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 99,
           "sourceRepo": "rust-unofficial/awesome-rust",
           "sourceStatus": "ROSTER",
@@ -4123,8 +4220,8 @@
         {
           "itemCategory": "GUI",
           "itemName": "imgui",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 88,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 89,
           "sourceRepo": "fffaraz/awesome-cpp",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-cpp",
@@ -4157,8 +4254,8 @@
         {
           "itemCategory": "Database",
           "itemName": "Infinity",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 88,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 89,
           "sourceRepo": "fffaraz/awesome-cpp",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-cpp",
@@ -4168,9 +4265,9 @@
           "itemCategory": "Tools",
           "itemName": "Infinity",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -4201,7 +4298,7 @@
         {
           "itemCategory": "Development tools",
           "itemName": "IntelliJ",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 99,
           "sourceRepo": "rust-unofficial/awesome-rust",
           "sourceStatus": "ROSTER",
@@ -4211,7 +4308,7 @@
         {
           "itemCategory": "Developer Tools",
           "itemName": "IntelliJ IDEA",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 100,
           "sourceRepo": "jaywcjlove/awesome-mac",
           "sourceStatus": "ROSTER",
@@ -4245,8 +4342,8 @@
         {
           "itemCategory": "Explainability and Fairness",
           "itemName": "InterpretML",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -4256,9 +4353,9 @@
           "itemCategory": "Python",
           "itemName": "InterpretML",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -4289,8 +4386,8 @@
         {
           "itemCategory": "Computation and Communication Optimisation",
           "itemName": "Jax",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -4299,10 +4396,10 @@
         {
           "itemCategory": "Projects",
           "itemName": "jax",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -4333,8 +4430,8 @@
         {
           "itemCategory": "Data Science Notebook",
           "itemName": "Jupyter Notebooks",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -4343,10 +4440,10 @@
         {
           "itemCategory": "Projects",
           "itemName": "notebook",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -4378,16 +4475,16 @@
           "itemCategory": "Python",
           "itemName": "Neurolink",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         },
         {
           "itemCategory": "Server Implementations",
           "itemName": "juspay/neurolink",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 97,
           "sourceRepo": "punkpeye/awesome-mcp-servers",
           "sourceStatus": "ROSTER",
@@ -4421,8 +4518,8 @@
         {
           "itemCategory": "Artificial Intelligence",
           "itemName": "Kaldi",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 88,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 89,
           "sourceRepo": "fffaraz/awesome-cpp",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-cpp",
@@ -4432,9 +4529,9 @@
           "itemCategory": "C++",
           "itemName": "Kaldi",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -4465,8 +4562,8 @@
         {
           "itemCategory": "AutoML",
           "itemName": "keras-tuner",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -4476,9 +4573,9 @@
           "itemCategory": "Python",
           "itemName": "Keras Tuner",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -4509,7 +4606,7 @@
         {
           "itemCategory": "Libraries",
           "itemName": "kreuzberg-dev/kreuzberg",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 99,
           "sourceRepo": "rust-unofficial/awesome-rust",
           "sourceStatus": "ROSTER",
@@ -4519,10 +4616,10 @@
         {
           "itemCategory": "Projects",
           "itemName": "kreuzberg",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -4553,8 +4650,8 @@
         {
           "itemCategory": "Running Containers",
           "itemName": "Kubernetes",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 89,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 92,
           "sourceRepo": "veggiemonk/awesome-docker",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-docker",
@@ -4563,8 +4660,8 @@
         {
           "itemCategory": "Software Packages",
           "itemName": "kubernetes",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 100,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 97,
           "sourceRepo": "avelino/awesome-go",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-go",
@@ -4597,8 +4694,8 @@
         {
           "itemCategory": "Industry Strength Natural Language Processing",
           "itemName": "LangChain",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -4607,10 +4704,10 @@
         {
           "itemCategory": "Projects",
           "itemName": "langchain",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -4641,8 +4738,8 @@
         {
           "itemCategory": "User Interfaces",
           "itemName": "lazyjournal",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 89,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 92,
           "sourceRepo": "veggiemonk/awesome-docker",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-docker",
@@ -4651,8 +4748,8 @@
         {
           "itemCategory": "Logging",
           "itemName": "lazyjournal",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 100,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 97,
           "sourceRepo": "avelino/awesome-go",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-go",
@@ -4685,7 +4782,7 @@
         {
           "itemCategory": "↑ Browsers",
           "itemName": "LibreWolf",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 97,
           "sourceRepo": "jivoi/awesome-osint",
           "sourceStatus": "ROSTER",
@@ -4695,7 +4792,7 @@
         {
           "itemCategory": "Browsers",
           "itemName": "LibreWolf",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 100,
           "sourceRepo": "jaywcjlove/awesome-mac",
           "sourceStatus": "ROSTER",
@@ -4729,8 +4826,8 @@
         {
           "itemCategory": "Industry Strength Computer Vision",
           "itemName": "LightlyTrain",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -4740,9 +4837,9 @@
           "itemCategory": "Python",
           "itemName": "LightlyTrain",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -4773,7 +4870,7 @@
         {
           "itemCategory": "Libraries",
           "itemName": "rust-ml/linfa",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 99,
           "sourceRepo": "rust-unofficial/awesome-rust",
           "sourceStatus": "ROSTER",
@@ -4784,9 +4881,9 @@
           "itemCategory": "Rust",
           "itemName": "linfa",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -4817,8 +4914,8 @@
         {
           "itemCategory": "Deployment and Serving",
           "itemName": "LocalAI",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -4827,8 +4924,8 @@
         {
           "itemCategory": "Artificial Intelligence",
           "itemName": "LocalAI",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 100,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 97,
           "sourceRepo": "avelino/awesome-go",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-go",
@@ -4861,8 +4958,8 @@
         {
           "itemCategory": "Docker Images",
           "itemName": "lstags",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 89,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 92,
           "sourceRepo": "veggiemonk/awesome-docker",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-docker",
@@ -4871,8 +4968,8 @@
         {
           "itemCategory": "Software Packages",
           "itemName": "lstags",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 100,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 97,
           "sourceRepo": "avelino/awesome-go",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-go",
@@ -4905,8 +5002,8 @@
         {
           "itemCategory": "Data Pipeline",
           "itemName": "Luigi",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -4915,10 +5012,10 @@
         {
           "itemCategory": "Projects",
           "itemName": "luigi",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -4949,8 +5046,8 @@
         {
           "itemCategory": "Data Science Notebook",
           "itemName": "Marimo",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -4959,10 +5056,10 @@
         {
           "itemCategory": "Projects",
           "itemName": "marimo",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -4993,8 +5090,8 @@
         {
           "itemCategory": "Security",
           "itemName": "beelzebub",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 100,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 97,
           "sourceRepo": "avelino/awesome-go",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-go",
@@ -5003,7 +5100,7 @@
         {
           "itemCategory": "Server Implementations",
           "itemName": "mariocandela/beelzebub",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 97,
           "sourceRepo": "punkpeye/awesome-mcp-servers",
           "sourceStatus": "ROSTER",
@@ -5037,8 +5134,8 @@
         {
           "itemCategory": "Industry Strength Visualisation",
           "itemName": "matplotlib",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -5047,10 +5144,10 @@
         {
           "itemCategory": "Projects",
           "itemName": "matplotlib",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -5081,7 +5178,7 @@
         {
           "itemCategory": "Libraries",
           "itemName": "capsule",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 99,
           "sourceRepo": "rust-unofficial/awesome-rust",
           "sourceStatus": "ROSTER",
@@ -5091,7 +5188,7 @@
         {
           "itemCategory": "Server Implementations",
           "itemName": "mavdol/capsule/mcp-server",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 97,
           "sourceRepo": "punkpeye/awesome-mcp-servers",
           "sourceStatus": "ROSTER",
@@ -5126,16 +5223,16 @@
           "itemCategory": "Python",
           "itemName": "MCP Memory Service",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         },
         {
           "itemCategory": "Server Implementations",
           "itemName": "doobidoo/mcp-memory-service",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 97,
           "sourceRepo": "punkpeye/awesome-mcp-servers",
           "sourceStatus": "ROSTER",
@@ -5169,8 +5266,8 @@
         {
           "itemCategory": "Virtual Machines",
           "itemName": "MicroPython",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 88,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 89,
           "sourceRepo": "fffaraz/awesome-cpp",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-cpp",
@@ -5179,10 +5276,10 @@
         {
           "itemCategory": "Projects",
           "itemName": "micropython",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -5213,17 +5310,17 @@
         {
           "itemCategory": "Projects",
           "itemName": "markitdown",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         },
         {
           "itemCategory": "Server Implementations",
           "itemName": "microsoft/markitdown",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 97,
           "sourceRepo": "punkpeye/awesome-mcp-servers",
           "sourceStatus": "ROSTER",
@@ -5257,8 +5354,8 @@
         {
           "itemCategory": "Data Storage Optimisation",
           "itemName": "Milvus",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -5267,8 +5364,8 @@
         {
           "itemCategory": "Database",
           "itemName": "Milvus",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 100,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 97,
           "sourceRepo": "avelino/awesome-go",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-go",
@@ -5301,8 +5398,8 @@
         {
           "itemCategory": "Explainability and Fairness",
           "itemName": "mljar-supervised",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -5312,9 +5409,9 @@
           "itemCategory": "Python",
           "itemName": "mljar-supervised",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -5345,10 +5442,10 @@
         {
           "itemCategory": "The Data Science Toolbox",
           "itemName": "MLxtend",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 94,
           "sourceRepo": "academic/awesome-datascience",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-datascience",
           "sourceUrl": "https://github.com/academic/awesome-datascience"
         },
@@ -5356,9 +5453,9 @@
           "itemCategory": "Python",
           "itemName": "mlxtend",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -5389,8 +5486,8 @@
         {
           "itemCategory": "Official Projects",
           "itemName": "Moby",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 89,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 92,
           "sourceRepo": "veggiemonk/awesome-docker",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-docker",
@@ -5399,8 +5496,8 @@
         {
           "itemCategory": "Software Packages",
           "itemName": "Moby",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 100,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 97,
           "sourceRepo": "avelino/awesome-go",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-go",
@@ -5409,6 +5506,50 @@
       ],
       "summary": "Collaborative project for the container ecosystem to assemble container-based systems.",
       "url": "https://github.com/moby/moby"
+    },
+    {
+      "caveat": "Candidate still needs human review before endorsement.",
+      "domain": "devops",
+      "id": "cmnwm1i1d02rbvn4dz1jybuup",
+      "label": "AI Candidate",
+      "maintenance": {
+        "archived": false,
+        "graveyarded": false
+      },
+      "name": "MyIP",
+      "rationale": "All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR...",
+      "review": {
+        "caveat": "Candidate still needs human review before endorsement.",
+        "notes": "All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR...",
+        "reviewedAt": "2026-04-13",
+        "status": "AI Candidate"
+      },
+      "slug": "jason5ng32-myip",
+      "sourceSignal": "Found in 2 active sources: veggiemonk/awesome-docker, vuejs/awesome-vue",
+      "sourceTraces": [
+        {
+          "itemCategory": "Container Operations",
+          "itemName": "MyIP",
+          "observedAt": "2026-11-09",
+          "sourceQuality": 92,
+          "sourceRepo": "veggiemonk/awesome-docker",
+          "sourceStatus": "BENCH",
+          "sourceTitle": "awesome-docker",
+          "sourceUrl": "https://github.com/veggiemonk/awesome-docker"
+        },
+        {
+          "itemCategory": "Projects Using Vue.js",
+          "itemName": "MyIP",
+          "observedAt": "2026-11-09",
+          "sourceQuality": 96,
+          "sourceRepo": "vuejs/awesome-vue",
+          "sourceStatus": "ROSTER",
+          "sourceTitle": "awesome-vue",
+          "sourceUrl": "https://github.com/vuejs/awesome-vue"
+        }
+      ],
+      "summary": "All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check availability, whois search and more. By jason5ng32.",
+      "url": "https://github.com/jason5ng32/myip"
     },
     {
       "caveat": "Candidate still needs human review before endorsement.",
@@ -5433,7 +5574,7 @@
         {
           "itemCategory": "Trading & Backtesting",
           "itemName": "nautilus_trader",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 100,
           "sourceRepo": "wilsonfreitas/awesome-quant",
           "sourceStatus": "ROSTER",
@@ -5443,7 +5584,7 @@
         {
           "itemCategory": "Applications",
           "itemName": "nautechsystems/nautilus_trader",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 99,
           "sourceRepo": "rust-unofficial/awesome-rust",
           "sourceStatus": "ROSTER",
@@ -5477,8 +5618,8 @@
         {
           "itemCategory": "Container Operations",
           "itemName": "netdata",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 89,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 92,
           "sourceRepo": "veggiemonk/awesome-docker",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-docker",
@@ -5487,7 +5628,7 @@
         {
           "itemCategory": "Server Implementations",
           "itemName": "netdata/netdata#Netdata",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 97,
           "sourceRepo": "punkpeye/awesome-mcp-servers",
           "sourceStatus": "ROSTER",
@@ -5521,7 +5662,7 @@
         {
           "itemCategory": "Libraries",
           "itemName": "Nuklear",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 99,
           "sourceRepo": "rust-unofficial/awesome-rust",
           "sourceStatus": "ROSTER",
@@ -5531,8 +5672,8 @@
         {
           "itemCategory": "GUI",
           "itemName": "nuklear",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 88,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 89,
           "sourceRepo": "fffaraz/awesome-cpp",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-cpp",
@@ -5565,8 +5706,8 @@
         {
           "itemCategory": "Computation and Communication Optimisation",
           "itemName": "Numba",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -5575,10 +5716,10 @@
         {
           "itemCategory": "Projects",
           "itemName": "numba",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -5609,7 +5750,7 @@
         {
           "itemCategory": "Numerical Libraries & Data Structures",
           "itemName": "numpy",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 100,
           "sourceRepo": "wilsonfreitas/awesome-quant",
           "sourceStatus": "ROSTER",
@@ -5620,9 +5761,9 @@
           "itemCategory": "Python",
           "itemName": "NumPy",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -5653,7 +5794,7 @@
         {
           "itemCategory": "Applications",
           "itemName": "nwiizo/tfmcp",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 99,
           "sourceRepo": "rust-unofficial/awesome-rust",
           "sourceStatus": "ROSTER",
@@ -5663,7 +5804,7 @@
         {
           "itemCategory": "Server Implementations",
           "itemName": "nwiizo/tfmcp",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 97,
           "sourceRepo": "punkpeye/awesome-mcp-servers",
           "sourceStatus": "ROSTER",
@@ -5697,7 +5838,7 @@
         {
           "itemCategory": "↑ Other Tools",
           "itemName": "Obsidian",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 97,
           "sourceRepo": "jivoi/awesome-osint",
           "sourceStatus": "ROSTER",
@@ -5707,7 +5848,7 @@
         {
           "itemCategory": "Reading and Writing Tools",
           "itemName": "Obsidian",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 100,
           "sourceRepo": "jaywcjlove/awesome-mac",
           "sourceStatus": "ROSTER",
@@ -5741,8 +5882,8 @@
         {
           "itemCategory": "Artificial Intelligence",
           "itemName": "oneDNN",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 88,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 89,
           "sourceRepo": "fffaraz/awesome-cpp",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-cpp",
@@ -5752,9 +5893,9 @@
           "itemCategory": "C++",
           "itemName": "oneDNN",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -5785,8 +5926,8 @@
         {
           "itemCategory": "Evaluation and Monitoring",
           "itemName": "Opik",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -5796,9 +5937,9 @@
           "itemCategory": "Python",
           "itemName": "Opik",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -5829,8 +5970,8 @@
         {
           "itemCategory": "AutoML",
           "itemName": "Optuna",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -5840,9 +5981,9 @@
           "itemCategory": "Python",
           "itemName": "Optuna",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -5873,8 +6014,8 @@
         {
           "itemCategory": "User Interfaces",
           "itemName": "oxker",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 89,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 92,
           "sourceRepo": "veggiemonk/awesome-docker",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-docker",
@@ -5883,7 +6024,7 @@
         {
           "itemCategory": "Applications",
           "itemName": "mrjackwills/oxker",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 99,
           "sourceRepo": "rust-unofficial/awesome-rust",
           "sourceStatus": "ROSTER",
@@ -5917,7 +6058,7 @@
         {
           "itemCategory": "Numerical Libraries & Data Structures",
           "itemName": "pandas",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 100,
           "sourceRepo": "wilsonfreitas/awesome-quant",
           "sourceStatus": "ROSTER",
@@ -5928,9 +6069,9 @@
           "itemCategory": "Python",
           "itemName": "Pandas",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -5961,7 +6102,7 @@
         {
           "itemCategory": "Libraries",
           "itemName": "pathwaycom/pathway",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 99,
           "sourceRepo": "rust-unofficial/awesome-rust",
           "sourceStatus": "ROSTER",
@@ -5971,10 +6112,10 @@
         {
           "itemCategory": "Projects",
           "itemName": "pathway",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -6005,8 +6146,8 @@
         {
           "itemCategory": "Industry Strength Visualisation",
           "itemName": "Perspective",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -6015,7 +6156,7 @@
         {
           "itemCategory": "↑ Infographics and Data Visualization",
           "itemName": "Perspective",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 97,
           "sourceRepo": "jivoi/awesome-osint",
           "sourceStatus": "ROSTER",
@@ -6050,19 +6191,19 @@
           "itemCategory": "Python",
           "itemName": "pgmpy",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         },
         {
           "itemCategory": "Projects",
           "itemName": "pgmpy",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -6093,8 +6234,8 @@
         {
           "itemCategory": "Industry Strength Visualisation",
           "itemName": "Plotly",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -6103,10 +6244,10 @@
         {
           "itemCategory": "Projects",
           "itemName": "plotly",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -6137,7 +6278,7 @@
         {
           "itemCategory": "Libraries",
           "itemName": "pola-rs/polars",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 99,
           "sourceRepo": "rust-unofficial/awesome-rust",
           "sourceStatus": "ROSTER",
@@ -6147,10 +6288,10 @@
         {
           "itemCategory": "Projects",
           "itemName": "polars",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -6181,8 +6322,8 @@
         {
           "itemCategory": "Data Pipeline",
           "itemName": "Prefect Core",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -6191,10 +6332,10 @@
         {
           "itemCategory": "Projects",
           "itemName": "prefect",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -6225,8 +6366,8 @@
         {
           "itemCategory": "Evaluation and Monitoring",
           "itemName": "Promptfoo",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -6236,9 +6377,9 @@
           "itemCategory": "Tools",
           "itemName": "promptfoo",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -6269,7 +6410,7 @@
         {
           "itemCategory": "Trading & Backtesting",
           "itemName": "PyBroker",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 100,
           "sourceRepo": "wilsonfreitas/awesome-quant",
           "sourceStatus": "ROSTER",
@@ -6280,9 +6421,9 @@
           "itemCategory": "Python",
           "itemName": "PyBroker",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -6313,17 +6454,17 @@
         {
           "itemCategory": "Projects",
           "itemName": "pydantic-ai",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         },
         {
           "itemCategory": "Server Implementations",
           "itemName": "pydantic/pydantic-ai/mcp-run-python",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 97,
           "sourceRepo": "punkpeye/awesome-mcp-servers",
           "sourceStatus": "ROSTER",
@@ -6358,19 +6499,19 @@
           "itemCategory": "Python",
           "itemName": "PyMC",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         },
         {
           "itemCategory": "Projects",
           "itemName": "pymc",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -6401,8 +6542,8 @@
         {
           "itemCategory": "Industry-strength Anomaly Detection",
           "itemName": "PyOD",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -6412,9 +6553,9 @@
           "itemCategory": "Python",
           "itemName": "PyOD",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -6446,19 +6587,19 @@
           "itemCategory": "Python",
           "itemName": "PyQtGraph",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         },
         {
           "itemCategory": "Projects",
           "itemName": "pyqtgraph",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -6489,8 +6630,8 @@
         {
           "itemCategory": "Privacy and Safety",
           "itemName": "PySyft",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -6500,9 +6641,9 @@
           "itemCategory": "Python",
           "itemName": "PySyft",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -6533,8 +6674,8 @@
         {
           "itemCategory": "Computation and Communication Optimisation",
           "itemName": "PyTorch Lightning",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -6543,10 +6684,10 @@
         {
           "itemCategory": "Projects",
           "itemName": "pytorch-lightning",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -6577,8 +6718,8 @@
         {
           "itemCategory": "Industry Strength Information Retrieval",
           "itemName": "Qdrant",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -6587,7 +6728,7 @@
         {
           "itemCategory": "Applications",
           "itemName": "Qdrant",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 99,
           "sourceRepo": "rust-unofficial/awesome-rust",
           "sourceStatus": "ROSTER",
@@ -6621,7 +6762,7 @@
         {
           "itemCategory": "Cross-Language Frameworks",
           "itemName": "QuantLib",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 100,
           "sourceRepo": "wilsonfreitas/awesome-quant",
           "sourceStatus": "ROSTER",
@@ -6631,8 +6772,8 @@
         {
           "itemCategory": "Math",
           "itemName": "QuantLib",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 88,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 89,
           "sourceRepo": "fffaraz/awesome-cpp",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-cpp",
@@ -6665,7 +6806,7 @@
         {
           "itemCategory": "↑ News Digest and Discovery Tools",
           "itemName": "Reeder",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 97,
           "sourceRepo": "jivoi/awesome-osint",
           "sourceStatus": "ROSTER",
@@ -6675,7 +6816,7 @@
         {
           "itemCategory": "Reading and Writing Tools",
           "itemName": "Reeder 5",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 100,
           "sourceRepo": "jaywcjlove/awesome-mac",
           "sourceStatus": "ROSTER",
@@ -6709,8 +6850,8 @@
         {
           "itemCategory": "Image Lifecycle",
           "itemName": "RepoFlow",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 89,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 92,
           "sourceRepo": "veggiemonk/awesome-docker",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-docker",
@@ -6719,7 +6860,7 @@
         {
           "itemCategory": "Registries",
           "itemName": "RepoFlow :heavy_dollar_sign:",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 99,
           "sourceRepo": "rust-unofficial/awesome-rust",
           "sourceStatus": "ROSTER",
@@ -6753,8 +6894,8 @@
         {
           "itemCategory": "Industry Strength Visualisation",
           "itemName": "Rerun",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -6763,7 +6904,7 @@
         {
           "itemCategory": "Libraries",
           "itemName": "rerun",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 99,
           "sourceRepo": "rust-unofficial/awesome-rust",
           "sourceStatus": "ROSTER",
@@ -6797,8 +6938,8 @@
         {
           "itemCategory": "Data Stream Processing",
           "itemName": "RisingWave",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -6807,7 +6948,7 @@
         {
           "itemCategory": "Applications",
           "itemName": "RisingWaveLabs/RisingWave",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 99,
           "sourceRepo": "rust-unofficial/awesome-rust",
           "sourceStatus": "ROSTER",
@@ -6841,8 +6982,8 @@
         {
           "itemCategory": "Frameworks",
           "itemName": "ROOT",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 88,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 89,
           "sourceRepo": "fffaraz/awesome-cpp",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-cpp",
@@ -6852,9 +6993,9 @@
           "itemCategory": "C++",
           "itemName": "ROOT",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -6885,8 +7026,8 @@
         {
           "itemCategory": "Deployment and Serving",
           "itemName": "RunAnywhere",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -6896,9 +7037,9 @@
           "itemCategory": "Tools",
           "itemName": "RunAnywhere",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -6929,7 +7070,7 @@
         {
           "itemCategory": "Libraries",
           "itemName": "guillaume-be/rust-bert",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 99,
           "sourceRepo": "rust-unofficial/awesome-rust",
           "sourceStatus": "ROSTER",
@@ -6940,9 +7081,9 @@
           "itemCategory": "Rust",
           "itemName": "rust-bert",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -6973,7 +7114,7 @@
         {
           "itemCategory": "Development tools",
           "itemName": "RustRover",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 99,
           "sourceRepo": "rust-unofficial/awesome-rust",
           "sourceStatus": "ROSTER",
@@ -6983,7 +7124,7 @@
         {
           "itemCategory": "Developer Tools",
           "itemName": "RustRover",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 100,
           "sourceRepo": "jaywcjlove/awesome-mac",
           "sourceStatus": "ROSTER",
@@ -7017,8 +7158,8 @@
         {
           "itemCategory": "Model, Data and Experiment Management",
           "itemName": "Sacred",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -7028,9 +7169,9 @@
           "itemCategory": "Tools",
           "itemName": "Sacred",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -7061,8 +7202,8 @@
         {
           "itemCategory": "Security",
           "itemName": "SafeDep/vet",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 100,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 97,
           "sourceRepo": "avelino/awesome-go",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-go",
@@ -7071,7 +7212,7 @@
         {
           "itemCategory": "Server Implementations",
           "itemName": "safedep/vet",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 97,
           "sourceRepo": "punkpeye/awesome-mcp-servers",
           "sourceStatus": "ROSTER",
@@ -7105,7 +7246,7 @@
         {
           "itemCategory": "Libraries",
           "itemName": "mozilla/sccache",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 99,
           "sourceRepo": "rust-unofficial/awesome-rust",
           "sourceStatus": "ROSTER",
@@ -7115,8 +7256,8 @@
         {
           "itemCategory": "Build Systems",
           "itemName": "Sccache",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 88,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 89,
           "sourceRepo": "fffaraz/awesome-cpp",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-cpp",
@@ -7149,10 +7290,10 @@
         {
           "itemCategory": "The Data Science Toolbox",
           "itemName": "scikit-opt",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 94,
           "sourceRepo": "academic/awesome-datascience",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-datascience",
           "sourceUrl": "https://github.com/academic/awesome-datascience"
         },
@@ -7160,9 +7301,9 @@
           "itemCategory": "Python",
           "itemName": "Scikit-Opt",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -7193,7 +7334,7 @@
         {
           "itemCategory": "Numerical Libraries & Data Structures",
           "itemName": "scipy",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 100,
           "sourceRepo": "wilsonfreitas/awesome-quant",
           "sourceStatus": "ROSTER",
@@ -7204,9 +7345,9 @@
           "itemCategory": "Python",
           "itemName": "SciPy",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -7237,8 +7378,8 @@
         {
           "itemCategory": "Industry Strength Visualisation",
           "itemName": "seaborn",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -7247,10 +7388,10 @@
         {
           "itemCategory": "Projects",
           "itemName": "seaborn",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -7281,8 +7422,8 @@
         {
           "itemCategory": "Deployment and Serving",
           "itemName": "SGLang",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -7291,10 +7432,10 @@
         {
           "itemCategory": "Projects",
           "itemName": "sglang",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -7325,8 +7466,8 @@
         {
           "itemCategory": "Explainability and Fairness",
           "itemName": "SHAPash",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -7336,9 +7477,9 @@
           "itemCategory": "Python",
           "itemName": "Shapash",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -7369,7 +7510,7 @@
         {
           "itemCategory": "↑ Username Check",
           "itemName": "Sherlock",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 97,
           "sourceRepo": "jivoi/awesome-osint",
           "sourceStatus": "ROSTER",
@@ -7379,10 +7520,10 @@
         {
           "itemCategory": "Projects",
           "itemName": "sherlock-project",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -7413,8 +7554,8 @@
         {
           "itemCategory": "Machine Learning",
           "itemName": "SHOGUN",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 88,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 89,
           "sourceRepo": "fffaraz/awesome-cpp",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-cpp",
@@ -7424,9 +7565,9 @@
           "itemCategory": "C++",
           "itemName": "Shogun",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -7457,7 +7598,7 @@
         {
           "itemCategory": "Libraries",
           "itemName": "slint-ui/slint",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 99,
           "sourceRepo": "rust-unofficial/awesome-rust",
           "sourceStatus": "ROSTER",
@@ -7467,8 +7608,8 @@
         {
           "itemCategory": "GUI",
           "itemName": "Slint",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 88,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 89,
           "sourceRepo": "fffaraz/awesome-cpp",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-cpp",
@@ -7502,17 +7643,17 @@
           "itemCategory": "Go",
           "itemName": "Spago",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         },
         {
           "itemCategory": "Natural Language Processing",
           "itemName": "spaGO",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 100,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 97,
           "sourceRepo": "avelino/awesome-go",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-go",
@@ -7545,7 +7686,7 @@
         {
           "itemCategory": "Prediction Markets",
           "itemName": "SimpleFunctions",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 100,
           "sourceRepo": "wilsonfreitas/awesome-quant",
           "sourceStatus": "ROSTER",
@@ -7555,7 +7696,7 @@
         {
           "itemCategory": "Server Implementations",
           "itemName": "spfunctions/simplefunctions-cli",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 97,
           "sourceRepo": "punkpeye/awesome-mcp-servers",
           "sourceStatus": "ROSTER",
@@ -7589,8 +7730,8 @@
         {
           "itemCategory": "Documentation",
           "itemName": "Sphinx",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 88,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 89,
           "sourceRepo": "fffaraz/awesome-cpp",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-cpp",
@@ -7599,10 +7740,10 @@
         {
           "itemCategory": "Projects",
           "itemName": "sphinx",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -7633,7 +7774,7 @@
         {
           "itemCategory": "Applications",
           "itemName": "ssh-vault",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 99,
           "sourceRepo": "rust-unofficial/awesome-rust",
           "sourceStatus": "ROSTER",
@@ -7643,8 +7784,8 @@
         {
           "itemCategory": "Security",
           "itemName": "ssh-vault",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 100,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 97,
           "sourceRepo": "avelino/awesome-go",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-go",
@@ -7678,19 +7819,19 @@
           "itemCategory": "Python",
           "itemName": "statsmodels",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         },
         {
           "itemCategory": "Projects",
           "itemName": "statsmodels",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -7722,17 +7863,17 @@
           "itemCategory": "Go",
           "itemName": "SVGo",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         },
         {
           "itemCategory": "Images",
           "itemName": "svgo",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 100,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 97,
           "sourceRepo": "avelino/awesome-go",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-go",
@@ -7765,8 +7906,8 @@
         {
           "itemCategory": "Image Lifecycle",
           "itemName": "Syft",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 89,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 92,
           "sourceRepo": "veggiemonk/awesome-docker",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-docker",
@@ -7775,8 +7916,8 @@
         {
           "itemCategory": "Package Management",
           "itemName": "syft",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 100,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 97,
           "sourceRepo": "avelino/awesome-go",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-go",
@@ -7810,19 +7951,19 @@
           "itemCategory": "Python",
           "itemName": "SymPy",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         },
         {
           "itemCategory": "Projects",
           "itemName": "sympy",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -7853,8 +7994,8 @@
         {
           "itemCategory": "Data Annotation and Synthesis",
           "itemName": "TabGAN",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -7863,10 +8004,10 @@
         {
           "itemCategory": "Projects",
           "itemName": "TabGAN",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -7897,7 +8038,7 @@
         {
           "itemCategory": "Libraries",
           "itemName": "LaurentMazare/tch-rs",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 99,
           "sourceRepo": "rust-unofficial/awesome-rust",
           "sourceStatus": "ROSTER",
@@ -7908,9 +8049,9 @@
           "itemCategory": "Rust",
           "itemName": "tch-rs",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -7941,7 +8082,7 @@
         {
           "itemCategory": "Libraries",
           "itemName": "tencent/tquic",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 99,
           "sourceRepo": "rust-unofficial/awesome-rust",
           "sourceStatus": "ROSTER",
@@ -7951,8 +8092,8 @@
         {
           "itemCategory": "Networking",
           "itemName": "TQUIC",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 88,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 89,
           "sourceRepo": "fffaraz/awesome-cpp",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-cpp",
@@ -7985,8 +8126,8 @@
         {
           "itemCategory": "Industry Strength Reinforcement Learning",
           "itemName": "TF-Agents",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -7995,10 +8136,10 @@
         {
           "itemCategory": "The Data Science Toolbox",
           "itemName": "TF-Agents",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 94,
           "sourceRepo": "academic/awesome-datascience",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-datascience",
           "sourceUrl": "https://github.com/academic/awesome-datascience"
         }
@@ -8029,8 +8170,8 @@
         {
           "itemCategory": "AutoML",
           "itemName": "TPOT",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -8040,9 +8181,9 @@
           "itemCategory": "Python",
           "itemName": "TPOT",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -8073,8 +8214,8 @@
         {
           "itemCategory": "AutoML",
           "itemName": "tsfresh",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -8083,7 +8224,7 @@
         {
           "itemCategory": "Time Series Analysis",
           "itemName": "tsfresh",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 100,
           "sourceRepo": "wilsonfreitas/awesome-quant",
           "sourceStatus": "ROSTER",
@@ -8117,8 +8258,8 @@
         {
           "itemCategory": "Software Packages",
           "itemName": "kubefwd",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 100,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 97,
           "sourceRepo": "avelino/awesome-go",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-go",
@@ -8127,7 +8268,7 @@
         {
           "itemCategory": "Server Implementations",
           "itemName": "txn2/kubefwd",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 97,
           "sourceRepo": "punkpeye/awesome-mcp-servers",
           "sourceStatus": "ROSTER",
@@ -8161,7 +8302,7 @@
         {
           "itemCategory": "Market Data & Data Sources",
           "itemName": "uk-company-number",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 100,
           "sourceRepo": "wilsonfreitas/awesome-quant",
           "sourceStatus": "ROSTER",
@@ -8171,7 +8312,7 @@
         {
           "itemCategory": "↑ Company Research",
           "itemName": "uk-company-number",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 97,
           "sourceRepo": "jivoi/awesome-osint",
           "sourceStatus": "ROSTER",
@@ -8205,7 +8346,7 @@
         {
           "itemCategory": "Market Data & Data Sources",
           "itemName": "uk-sic-codes",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 100,
           "sourceRepo": "wilsonfreitas/awesome-quant",
           "sourceStatus": "ROSTER",
@@ -8215,7 +8356,7 @@
         {
           "itemCategory": "↑ Company Research",
           "itemName": "uk-sic-codes",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 97,
           "sourceRepo": "jivoi/awesome-osint",
           "sourceStatus": "ROSTER",
@@ -8249,8 +8390,8 @@
         {
           "itemCategory": "Model Training and Orchestration",
           "itemName": "unsloth",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -8259,10 +8400,10 @@
         {
           "itemCategory": "Projects",
           "itemName": "unsloth",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -8293,7 +8434,7 @@
         {
           "itemCategory": "Applications",
           "itemName": "USearch",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 99,
           "sourceRepo": "rust-unofficial/awesome-rust",
           "sourceStatus": "ROSTER",
@@ -8303,8 +8444,8 @@
         {
           "itemCategory": "Machine Learning",
           "itemName": "USearch",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 88,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 89,
           "sourceRepo": "fffaraz/awesome-cpp",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-cpp",
@@ -8337,8 +8478,8 @@
         {
           "itemCategory": "Computation and Communication Optimisation",
           "itemName": "Vaex",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -8348,9 +8489,9 @@
           "itemCategory": "Python",
           "itemName": "Vaex",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -8381,8 +8522,8 @@
         {
           "itemCategory": "Industry Strength Visualisation",
           "itemName": "Vega-Altair",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -8391,10 +8532,10 @@
         {
           "itemCategory": "Projects",
           "itemName": "altair",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -8426,19 +8567,19 @@
           "itemCategory": "Python",
           "itemName": "vispy",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         },
         {
           "itemCategory": "Projects",
           "itemName": "vispy",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -8469,7 +8610,7 @@
         {
           "itemCategory": "↑ Browsers",
           "itemName": "Vivaldi",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 97,
           "sourceRepo": "jivoi/awesome-osint",
           "sourceStatus": "ROSTER",
@@ -8479,7 +8620,7 @@
         {
           "itemCategory": "Browsers",
           "itemName": "Vivaldi",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 100,
           "sourceRepo": "jaywcjlove/awesome-mac",
           "sourceStatus": "ROSTER",
@@ -8513,8 +8654,8 @@
         {
           "itemCategory": "Deployment and Serving",
           "itemName": "vLLM",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -8523,10 +8664,10 @@
         {
           "itemCategory": "Projects",
           "itemName": "vllm",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -8557,8 +8698,8 @@
         {
           "itemCategory": "Computation and Communication Optimisation",
           "itemName": "Vowpal Wabbit",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -8568,9 +8709,9 @@
           "itemCategory": "C++",
           "itemName": "Vowpal Wabbit (VW)",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -8601,8 +8742,8 @@
         {
           "itemCategory": "Audio",
           "itemName": "Wav2Letter++",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 88,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 89,
           "sourceRepo": "fffaraz/awesome-cpp",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-cpp",
@@ -8612,9 +8753,9 @@
           "itemCategory": "Lua",
           "itemName": "wav2letter",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -8645,8 +8786,8 @@
         {
           "itemCategory": "Integrated Development Environment",
           "itemName": "Xcode",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 88,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 89,
           "sourceRepo": "fffaraz/awesome-cpp",
           "sourceStatus": "BENCH",
           "sourceTitle": "awesome-cpp",
@@ -8655,7 +8796,7 @@
         {
           "itemCategory": "Developer Tools",
           "itemName": "Xcode",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 100,
           "sourceRepo": "jaywcjlove/awesome-mac",
           "sourceStatus": "ROSTER",
@@ -8689,10 +8830,10 @@
         {
           "itemCategory": "The Data Science Toolbox",
           "itemName": "xLearn",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 94,
           "sourceRepo": "academic/awesome-datascience",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-datascience",
           "sourceUrl": "https://github.com/academic/awesome-datascience"
         },
@@ -8700,9 +8841,9 @@
           "itemCategory": "C++",
           "itemName": "xLearn",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -8733,7 +8874,7 @@
         {
           "itemCategory": "Market Data & Data Sources",
           "itemName": "yfinance",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 100,
           "sourceRepo": "wilsonfreitas/awesome-quant",
           "sourceStatus": "ROSTER",
@@ -8743,10 +8884,10 @@
         {
           "itemCategory": "Projects",
           "itemName": "yfinance",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -8777,10 +8918,10 @@
         {
           "itemCategory": "The Data Science Toolbox",
           "itemName": "Yolov8",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 94,
           "sourceRepo": "academic/awesome-datascience",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-datascience",
           "sourceUrl": "https://github.com/academic/awesome-datascience"
         },
@@ -8788,9 +8929,9 @@
           "itemCategory": "C",
           "itemName": "YOLOv8",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -8821,7 +8962,7 @@
         {
           "itemCategory": "↑ Video Search and Other Video Tools",
           "itemName": "yt-dlp",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 97,
           "sourceRepo": "jivoi/awesome-osint",
           "sourceStatus": "ROSTER",
@@ -8831,10 +8972,10 @@
         {
           "itemCategory": "Projects",
           "itemName": "yt-dlp",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -8865,8 +9006,8 @@
         {
           "itemCategory": "Model, Data and Experiment Management",
           "itemName": "Polyaxon",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -8875,10 +9016,10 @@
         {
           "itemCategory": "The Data Science Toolbox",
           "itemName": "Polyaxon",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 94,
           "sourceRepo": "academic/awesome-datascience",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-datascience",
           "sourceUrl": "https://github.com/academic/awesome-datascience"
         },
@@ -8886,9 +9027,9 @@
           "itemCategory": "C++",
           "itemName": "Polyaxon",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -8919,8 +9060,8 @@
         {
           "itemCategory": null,
           "itemName": "Awesome RAG Production",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -8930,9 +9071,9 @@
           "itemCategory": "Tools",
           "itemName": "Awesome RAG Production",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -8963,10 +9104,10 @@
         {
           "itemCategory": "Other Awesome Lists",
           "itemName": "Data Science IPython Notebooks.",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 94,
           "sourceRepo": "academic/awesome-datascience",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-datascience",
           "sourceUrl": "https://github.com/academic/awesome-datascience"
         },
@@ -8974,9 +9115,9 @@
           "itemCategory": "Python",
           "itemName": "data-science-ipython-notebooks",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -9007,8 +9148,8 @@
         {
           "itemCategory": "Software Packages",
           "itemName": "Docker",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 100,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 97,
           "sourceRepo": "avelino/awesome-go",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-go",
@@ -9017,7 +9158,7 @@
         {
           "itemCategory": "Developer Tools",
           "itemName": "Docker",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 100,
           "sourceRepo": "jaywcjlove/awesome-mac",
           "sourceStatus": "ROSTER",
@@ -9051,10 +9192,10 @@
         {
           "itemCategory": "The Data Science Toolbox",
           "itemName": "modAL",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 94,
           "sourceRepo": "academic/awesome-datascience",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-datascience",
           "sourceUrl": "https://github.com/academic/awesome-datascience"
         },
@@ -9062,9 +9203,9 @@
           "itemCategory": "Python",
           "itemName": "modAL",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -9095,8 +9236,8 @@
         {
           "itemCategory": "Model Training and Orchestration",
           "itemName": "PyCaret",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -9106,9 +9247,9 @@
           "itemCategory": "C++",
           "itemName": "PyCaret",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -9139,7 +9280,7 @@
         {
           "itemCategory": "↑ Browsers",
           "itemName": "Safari",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 97,
           "sourceRepo": "jivoi/awesome-osint",
           "sourceStatus": "ROSTER",
@@ -9149,7 +9290,7 @@
         {
           "itemCategory": "Browsers",
           "itemName": "Safari",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 100,
           "sourceRepo": "jaywcjlove/awesome-mac",
           "sourceStatus": "ROSTER",
@@ -9183,8 +9324,8 @@
         {
           "itemCategory": "Computation and Communication Optimisation",
           "itemName": "scikit-learn",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 99,
           "sourceRepo": "EthicalML/awesome-production-machine-learning",
           "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-production-machine-learning",
@@ -9193,10 +9334,10 @@
         {
           "itemCategory": "Projects",
           "itemName": "scikit-learn",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 94,
           "sourceRepo": "vinta/awesome-python",
-          "sourceStatus": "BENCH",
+          "sourceStatus": "ROSTER",
           "sourceTitle": "awesome-python",
           "sourceUrl": "https://github.com/vinta/awesome-python"
         }
@@ -9227,10 +9368,10 @@
         {
           "itemCategory": "The Data Science Toolbox",
           "itemName": "skorch",
-          "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "observedAt": "2026-11-09",
+          "sourceQuality": 94,
           "sourceRepo": "academic/awesome-datascience",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-datascience",
           "sourceUrl": "https://github.com/academic/awesome-datascience"
         },
@@ -9238,9 +9379,9 @@
           "itemCategory": "Python",
           "itemName": "skorch",
           "observedAt": "2026-11-02",
-          "sourceQuality": 97,
+          "sourceQuality": 88,
           "sourceRepo": "josephmisiti/awesome-machine-learning",
-          "sourceStatus": "ROSTER",
+          "sourceStatus": "BENCH",
           "sourceTitle": "awesome-machine-learning",
           "sourceUrl": "https://github.com/josephmisiti/awesome-machine-learning"
         }
@@ -9271,7 +9412,7 @@
         {
           "itemCategory": "Development tools",
           "itemName": "Visual Studio Code",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 99,
           "sourceRepo": "rust-unofficial/awesome-rust",
           "sourceStatus": "ROSTER",
@@ -9281,7 +9422,7 @@
         {
           "itemCategory": "Developer Tools",
           "itemName": "Visual Studio Code",
-          "observedAt": "2026-11-02",
+          "observedAt": "2026-11-09",
           "sourceQuality": 100,
           "sourceRepo": "jaywcjlove/awesome-mac",
           "sourceStatus": "ROSTER",
@@ -9295,22 +9436,22 @@
   ],
   "staffPicks": [
     "cmnwkvha204wi1p4tccy0610x",
-    "cmnwkrzod03c51p4tvotzr6dv",
     "cmnwku9rt04cw1p4tav6avjx3",
+    "cmnwkrzod03c51p4tvotzr6dv",
     "cmnwko7ig01ne1p4t32xoxe5p",
     "cmnwkksix004a1p4ts95hlr2z"
   ],
   "summary": {
-    "aiCandidates": 185,
+    "aiCandidates": 188,
     "graveyard": 0,
     "humanPicks": 5,
     "needsReview": 0,
     "popularStandards": 1,
-    "publicRecommendations": 205,
+    "publicRecommendations": 208,
     "sources": 20
   },
   "validation": {
-    "checkedAt": "2026-11-07T10:00:15.998Z",
+    "checkedAt": "2026-11-08T10:00:15.604Z",
     "status": "pass",
     "warnings": []
   }

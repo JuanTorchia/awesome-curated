@@ -2,7 +2,7 @@
 
 <p><sub>← [Back to main](../README.md)</sub></p>
 
-**6 Human reviewed · 0 Popular standards · 70 AI candidates · 0 Needs Review**
+**6 Human reviewed · 0 Popular standards · 71 AI candidates · 0 Needs Review**
 
 Inspectable catalog: [TOOLS.md](../TOOLS.md) · Evidence snapshot: [data/latest.json](../data/latest.json)
 
@@ -245,6 +245,20 @@ SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-51
 
 ---
 
+### [askbudi/roundtable](https://github.com/askbudi/roundtable)
+
+![](https://img.shields.io/github/stars/askbudi/roundtable?style=flat-square&label=⭐) · Found in 2 active sources: vuejs/awesome-vue, punkpeye/awesome-mcp-servers
+
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
+
+📇 ☁️ 🏠 🍎 🪟 🐧 Meta-MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized MCP interface, providing zero-configuration access...
+
+**Why it is here:** 📇 ☁️ 🏠 🍎 🪟 🐧 Meta-MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent...
+
+**Evidence record:** [Full evidence](../catalog/ai-ml.md#askbudi-roundtable-askbudi-roundtable) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [Bread WandB Viewer](https://github.com/bread-technologies/bread_wandb_viewer_extension)
 
 ![](https://img.shields.io/github/stars/bread-technologies/bread_wandb_viewer_extension?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
@@ -371,21 +385,7 @@ Machine Learning production server for TensorFlow, XGBoost and Cafe models writt
 
 ---
 
-### [Detectron2](https://github.com/facebookresearch/detectron2)
-
-![](https://img.shields.io/github/stars/facebookresearch/detectron2?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
-
-**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
-
-Detectron2 is Facebook AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms.
-
-**Why it is here:** SOTA accuracy en coco/benchmarks
-
-**Evidence record:** [Full evidence](../catalog/ai-ml.md#detectron2-facebookresearch-detectron2) · [data/latest.json](../data/latest.json)
-
----
-
-_Showing 20 of 70. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+_Showing 20 of 71. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

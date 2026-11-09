@@ -14,7 +14,7 @@ Herramientas con veredicto humano y límites visibles.
 
 ### 👤 [themis](https://github.com/cossacklabs/themis)
 
-![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · Encontrada en 4 fuentes activas: matteocrippa/awesome-swift, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +1 more
+![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · Encontrada en 3 fuentes activas: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go
 
 **Revisión:** Human Pick · **Nota / revisión:** Herramienta sensible para la seguridad: evaluá su adecuación y mantenimiento antes de usarla en producción.
 

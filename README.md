@@ -8,7 +8,7 @@ Read in other languages: **🇬🇧 English** · [🇪🇸 Español](README.es.m
 
 [![Human Picks](https://img.shields.io/badge/Human_Picks-5-gold?style=for-the-badge)](#human-reviewed-picks)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](SOURCES.md)
-[![Updated](https://img.shields.io/badge/Updated-2026-11-07-green?style=for-the-badge)](UPDATE-SUMMARY.md)
+[![Updated](https://img.shields.io/badge/Updated-2026-11-08-green?style=for-the-badge)](UPDATE-SUMMARY.md)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -32,7 +32,7 @@ Found an example useful? Star the [repo](https://github.com/JuanTorchia/awesome-
 
 ### Trust snapshot
 
-- **Latest generated update**: 2026-11-07
+- **Latest generated update**: 2026-11-08
 - **active sources**: 20
 - **Human Picks**: 5
 - **Methodology**: [METHODOLOGY.md](METHODOLOGY.md)
@@ -42,14 +42,14 @@ Found an example useful? Star the [repo](https://github.com/JuanTorchia/awesome-
 - **Inspectable catalog**: [TOOLS.md](TOOLS.md)
 - **Popular standards**: 1
 - **Needs Review label (trace recheck)**: 0
-- **AI Candidates awaiting human endorsement**: 185
+- **AI Candidates awaiting human endorsement**: 188
 - Candidates have not been endorsed by Juan. See the catalog and domain pages.
 
 ---
 
 ## 🗺️ Find your stack
 
-[🌐 **Web** · 7](domains/web.md) · [🤖 **AI & ML** · 76](domains/ai-ml.md) · [🛠️ **DevOps** · 10](domains/devops.md) · [📱 **Mobile** · 1](domains/mobile.md) · [💾 **Data & Databases** · 39](domains/data.md) · [🔐 **Security & Crypto** · 10](domains/security.md) · [⚡ **Performance** · 3](domains/performance.md) · [🧰 **Dev Tooling** · 42](domains/tooling.md) · [🎨 **Other** · 7](domains/other.md)
+[🌐 **Web** · 7](domains/web.md) · [🤖 **AI & ML** · 77](domains/ai-ml.md) · [🛠️ **DevOps** · 11](domains/devops.md) · [📱 **Mobile** · 1](domains/mobile.md) · [💾 **Data & Databases** · 39](domains/data.md) · [🔐 **Security & Crypto** · 10](domains/security.md) · [⚡ **Performance** · 3](domains/performance.md) · [🧰 **Dev Tooling** · 43](domains/tooling.md) · [🎨 **Other** · 7](domains/other.md)
 
 ---
 
@@ -78,24 +78,6 @@ Human-reviewed tools and the tasks they help with.
 
 **Caveat / review:** Best fit for teams with a matching ML or data workflow.
 
-### 👤 [themis](https://github.com/cossacklabs/themis)
-
-<!-- pick:rationale -->
-
-**Why it matters:** Gives teams a higher-level API over cryptographic primitives without starting from raw building blocks.
-
-<!-- pick:evidence -->
-
-**Evidence:** Found in 4 active sources: matteocrippa/awesome-swift, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +1 more · [traces](data/latest.json)
-
-<!-- pick:review -->
-
-**Review:** Human Pick
-
-<!-- pick:caveat -->
-
-**Caveat / review:** Security-sensitive tool; evaluate fit and maintenance posture before production use.
-
 ### 👤 [Netron](https://github.com/lutzroeder/netron)
 
 <!-- pick:rationale -->
@@ -113,6 +95,24 @@ Human-reviewed tools and the tasks they help with.
 <!-- pick:caveat -->
 
 **Caveat / review:** Best fit for teams with a matching ML or data workflow.
+
+### 👤 [themis](https://github.com/cossacklabs/themis)
+
+<!-- pick:rationale -->
+
+**Why it matters:** Gives teams a higher-level API over cryptographic primitives without starting from raw building blocks.
+
+<!-- pick:evidence -->
+
+**Evidence:** Found in 3 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go · [traces](data/latest.json)
+
+<!-- pick:review -->
+
+**Review:** Human Pick
+
+<!-- pick:caveat -->
+
+**Caveat / review:** Security-sensitive tool; evaluate fit and maintenance posture before production use.
 
 ### 👤 [Bencher](https://bencher.dev)
 
@@ -153,15 +153,13 @@ Human-reviewed tools and the tasks they help with.
 
 ---
 
-## Candidates for human review
+## Catalog changes
 
-- [Deepchecks](https://github.com/deepchecks/deepchecks) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
-- [Feature Engine](https://github.com/feature-engine/feature_engine) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
-- [Cython](https://github.com/cython/cython) — Performance · Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python
-- [DEAP](https://github.com/deap/deap) — AI & ML · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
-- [Gymnasium](https://github.com/farama-foundation/gymnasium) — AI & ML · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+- [askbudi/roundtable](https://github.com/askbudi/roundtable) — newly reviewed · AI Candidate: 📇 ☁️ 🏠 🍎 🪟 🐧 Meta-MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent...
+- [Dash](https://kapeli.com/dash) — newly reviewed · AI Candidate: Offline API documentation browser for macOS with instant search access to Vue.js docs and 200+ other frameworks.
+- [MyIP](https://github.com/jason5ng32/myip) — newly reviewed · AI Candidate: All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR...
 
-Candidates are not endorsements. Request a review via GitHub issues or inspect the full queue in TOOLS.md. [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) · [TOOLS.md](TOOLS.md)
+See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
 
 ---
 
@@ -185,7 +183,7 @@ Candidates are not endorsements. Request a review via GitHub issues or inspect t
 | 👤 [**Netron**](https://github.com/lutzroeder/netron) | Netron is a viewer for neural network, deep learning and machine learning models. | Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning · Human Pick |
 | 👤 [**Aim**](https://github.com/aimhubio/aim) | A super-easy way to record, search and compare AI experiments. | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning · Worth Trying |
 
-📖 73 more in [detail page →](domains/ai-ml.md) · Full evidence in [TOOLS.md](TOOLS.md)
+📖 74 more in [detail page →](domains/ai-ml.md) · Full evidence in [TOOLS.md](TOOLS.md)
 
 ### 🛠️ DevOps
 
@@ -195,7 +193,7 @@ Candidates are not endorsements. Request a review via GitHub issues or inspect t
 | [**docker-volume-backup**](https://github.com/offen/docker-volume-backup) | Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage. | Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go · AI Candidate |
 | [**Dragonfly**](https://github.com/dragonflyoss/dragonfly2) | Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best... | Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go · AI Candidate |
 
-📖 7 more in [detail page →](domains/devops.md) · Full evidence in [TOOLS.md](TOOLS.md)
+📖 8 more in [detail page →](domains/devops.md) · Full evidence in [TOOLS.md](TOOLS.md)
 
 ### 📱 Mobile
 
@@ -219,7 +217,7 @@ Candidates are not endorsements. Request a review via GitHub issues or inspect t
 
 | Tool | What it does | Signal |
 |---|---|---|
-| 👤 [**themis**](https://github.com/cossacklabs/themis) | High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and... | Found in 4 active sources: matteocrippa/awesome-swift, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +1 more · Human Pick |
+| 👤 [**themis**](https://github.com/cossacklabs/themis) | High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and... | Found in 3 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go · Human Pick |
 | [**Brave**](https://brave.com) | Web browser with an emphasis on privacy and speed. (https://github.com/brave/brave-browser/) | Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac · AI Candidate |
 | [**LibreWolf**](https://librewolf.net) | A fork of Firefox, focused on privacy, security and freedom. (https://gitlab.com/librewolf-community) | Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac · AI Candidate |
 
@@ -243,7 +241,7 @@ Candidates are not endorsements. Request a review via GitHub issues or inspect t
 | [**Pytorch**](https://github.com/pytorch/pytorch) | PyTorch is an open source machine learning library based on the Torch library, used for applications such as... | Found in 5 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, fffaraz/awesome-cpp +2 more · Popular Standard |
 | [**Bokeh**](https://github.com/bokeh/bokeh) | Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation... | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python · AI Candidate |
 
-📖 39 more in [detail page →](domains/tooling.md) · Full evidence in [TOOLS.md](TOOLS.md)
+📖 40 more in [detail page →](domains/tooling.md) · Full evidence in [TOOLS.md](TOOLS.md)
 
 ### 🎨 Other
 

@@ -2,7 +2,7 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**6 人工审核 · 0 常用标准工具 · 70 AI 候选工具 · 0 Needs Review 状态**
+**6 人工审核 · 0 常用标准工具 · 71 AI 候选工具 · 0 Needs Review 状态**
 
 可查阅目录: [TOOLS.md](../TOOLS.md) · 证据快照: [data/latest.json](../data/latest.json)
 
@@ -245,6 +245,20 @@ SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-51
 
 ---
 
+### [askbudi/roundtable](https://github.com/askbudi/roundtable)
+
+![](https://img.shields.io/github/stars/askbudi/roundtable?style=flat-square&label=⭐) · 收录于 2 个活跃来源: vuejs/awesome-vue, punkpeye/awesome-mcp-servers
+
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
+
+📇 ☁️ 🏠 🍎 🪟 🐧 Meta-MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized MCP interface, providing zero-configuration access...
+
+**收录原因:** 📇 ☁️ 🏠 🍎 🪟 🐧 Meta-MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent...
+
+**证据记录:** [完整证据](../catalog/ai-ml.md#askbudi-roundtable-askbudi-roundtable) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [Bread WandB Viewer](https://github.com/bread-technologies/bread_wandb_viewer_extension)
 
 ![](https://img.shields.io/github/stars/bread-technologies/bread_wandb_viewer_extension?style=flat-square&label=⭐) · 收录于 2 个活跃来源: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
@@ -371,21 +385,7 @@ Machine Learning production server for TensorFlow, XGBoost and Cafe models writt
 
 ---
 
-### [Detectron2](https://github.com/facebookresearch/detectron2)
-
-![](https://img.shields.io/github/stars/facebookresearch/detectron2?style=flat-square&label=⭐) · 收录于 2 个活跃来源: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
-
-**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
-
-Detectron2 is Facebook AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms.
-
-**收录原因:** SOTA accuracy en coco/benchmarks
-
-**证据记录:** [完整证据](../catalog/ai-ml.md#detectron2-facebookresearch-detectron2) · [data/latest.json](../data/latest.json)
-
----
-
-_Showing 20 of 70. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+_Showing 20 of 71. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---
