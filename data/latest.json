@@ -1,35 +1,16 @@
 {
   "changes": [
     {
-      "changedAt": "2026-11-08",
-      "currentLabel": "AI Candidate",
-      "name": "askbudi/roundtable",
-      "reason": "📇 ☁️ 🏠 🍎 🪟 🐧 Meta-MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent...",
-      "toolId": "cmnwklnoj00i81p4twwyc2vrw",
-      "type": "newly reviewed",
-      "url": "https://github.com/askbudi/roundtable"
-    },
-    {
-      "changedAt": "2026-11-08",
-      "currentLabel": "AI Candidate",
-      "name": "Dash",
-      "reason": "Offline API documentation browser for macOS with instant search access to Vue.js docs and 200+ other frameworks.",
-      "toolId": "cmnwkpszl02da1p4th7qoredg",
-      "type": "newly reviewed",
-      "url": "https://kapeli.com/dash"
-    },
-    {
-      "changedAt": "2026-11-08",
-      "currentLabel": "AI Candidate",
-      "name": "MyIP",
-      "reason": "All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR...",
-      "toolId": "cmnwm1i1d02rbvn4dz1jybuup",
-      "type": "newly reviewed",
-      "url": "https://github.com/jason5ng32/myip"
+      "changedAt": "2026-11-09",
+      "name": "Public recommendation set",
+      "reason": "No material public change detected.",
+      "toolId": "snapshot",
+      "type": "unchanged",
+      "url": "data/latest.json"
     }
   ],
-  "commitSha": "2bf5fc83ceaa",
-  "generatedAt": "2026-11-08T10:00:15.604Z",
+  "commitSha": "82f328cfe3a9",
+  "generatedAt": "2026-11-09T10:00:14.246Z",
   "recommendations": [
     {
       "caveat": "Best fit for teams with a matching ML or data workflow.",
@@ -9451,7 +9432,7 @@
     "sources": 20
   },
   "validation": {
-    "checkedAt": "2026-11-08T10:00:15.604Z",
+    "checkedAt": "2026-11-09T10:00:14.246Z",
     "status": "pass",
     "warnings": []
   }
