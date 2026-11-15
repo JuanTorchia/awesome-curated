@@ -160,6 +160,7 @@ Human-reviewed tools and the tasks they help with.
 - [askbudi/roundtable](https://github.com/askbudi/roundtable) — AI & ML · Found in 2 active sources: vuejs/awesome-vue, punkpeye/awesome-mcp-servers
 - [Cython](https://github.com/cython/cython) — Performance · Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python
 - [DEAP](https://github.com/deap/deap) — AI & ML · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) — MCP · Hosted MCP server for under-400-capacity live music venue discovery and tour routing
 
 Candidates are not endorsements. Request a review via GitHub issues or inspect the full queue in TOOLS.md. [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) · [TOOLS.md](TOOLS.md)
 
