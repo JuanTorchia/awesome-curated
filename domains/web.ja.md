@@ -2,7 +2,7 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**0 人間レビュー済み · 0 広く使われる標準ツール · 7 AI 候補 · 0 Needs Review 状態**
+**0 人間レビュー済み · 0 広く使われる標準ツール · 5 AI 候補 · 0 Needs Review 状態**
 
 確認できるカタログ: [TOOLS.md](../TOOLS.md) · 根拠のスナップショット: [data/latest.json](../data/latest.json)
 
@@ -29,20 +29,6 @@ is a powerful data visualization javascript library.
 
 ---
 
-### [grpc](https://github.com/grpc/grpc)
-
-![](https://img.shields.io/github/stars/grpc/grpc?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: fffaraz/awesome-cpp, vinta/awesome-python
-
-**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
-
-Remote Procedure Calls (RPCs) provide a useful abstraction for building distributed applications and services. The libraries in this repository provide a concrete implementation of the gRPC protocol, layered over...
-
-**掲載理由:** Performance superior a REST para cargas altas
-
-**根拠の記録:** [根拠の詳細](../catalog/web.md#grpc-grpc-grpc) · [data/latest.json](../data/latest.json)
-
----
-
 ### [juspay/neurolink](https://github.com/juspay/neurolink)
 
 ![](https://img.shields.io/github/stars/juspay/neurolink?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: josephmisiti/awesome-machine-learning, punkpeye/awesome-mcp-servers
@@ -54,20 +40,6 @@ Remote Procedure Calls (RPCs) provide a useful abstraction for building distribu
 **掲載理由:** Middleware guardrails incluido
 
 **根拠の記録:** [根拠の詳細](../catalog/web.md#juspay-neurolink-juspay-neurolink) · [data/latest.json](../data/latest.json)
-
----
-
-### [pydantic-ai](https://github.com/pydantic/pydantic-ai)
-
-![](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: vinta/awesome-python, punkpeye/awesome-mcp-servers
-
-**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
-
-A Python agent framework for building generative AI applications with structured schemas.
-
-**掲載理由:** A Python agent framework for building generative AI applications with structured schemas.
-
-**根拠の記録:** [根拠の詳細](../catalog/web.md#pydantic-ai-pydantic-pydantic-ai) · [data/latest.json](../data/latest.json)
 
 ---
 

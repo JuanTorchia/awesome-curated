@@ -2,7 +2,7 @@
 
 [All domains](../TOOLS.md) · [README](../README.md) · [Machine-readable evidence](../data/latest.json)
 
-Generated: 2026-11-14 · Tool entries: 11
+Generated: 2026-11-15 · Tool entries: 9
 
 ### <a id="dive-wagoodman-dive"></a>[dive](https://github.com/wagoodman/dive)
 
@@ -16,8 +16,8 @@ Generated: 2026-11-14 · Tool entries: 11
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · BENCH · quality 92 · observed 2026-11-09
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 97 · observed 2026-11-09
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 94 · observed 2026-11-16
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-11-16
 
 ---
 
@@ -33,8 +33,8 @@ Generated: 2026-11-14 · Tool entries: 11
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · BENCH · quality 92 · observed 2026-11-09
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 97 · observed 2026-11-09
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 94 · observed 2026-11-16
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-11-16
 
 ---
 
@@ -50,8 +50,8 @@ Generated: 2026-11-14 · Tool entries: 11
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · BENCH · quality 92 · observed 2026-11-09
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 97 · observed 2026-11-09
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 94 · observed 2026-11-16
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-11-16
 
 ---
 
@@ -67,8 +67,8 @@ Generated: 2026-11-14 · Tool entries: 11
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · BENCH · quality 92 · observed 2026-11-09
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 97 · observed 2026-11-09
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 94 · observed 2026-11-16
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-11-16
 
 ---
 
@@ -84,25 +84,8 @@ Generated: 2026-11-14 · Tool entries: 11
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · BENCH · quality 92 · observed 2026-11-09
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 97 · observed 2026-11-09
-
----
-
-### <a id="luigi-spotify-luigi"></a>[Luigi](https://github.com/spotify/luigi)
-
-**Label:** AI Candidate · **Domain:** DevOps · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
-
-**Summary:** Luigi is a Python module that helps you build complex pipelines of batch jobs, handling dependency resolution, workflow management, visualisation, etc..
-
-**Why it is here:** Luigi is a Python module that helps you build complex pipelines of batch jobs, handling dependency resolution, workflow management, visualisation,...
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 99 · observed 2026-11-09
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 94 · observed 2026-11-09
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 94 · observed 2026-11-16
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-11-16
 
 ---
 
@@ -118,8 +101,8 @@ Generated: 2026-11-14 · Tool entries: 11
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · BENCH · quality 92 · observed 2026-11-09
-- [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) · ROSTER · quality 96 · observed 2026-11-09
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 94 · observed 2026-11-16
+- [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) · ROSTER · quality 94 · observed 2026-11-09
 
 ---
 
@@ -135,8 +118,8 @@ Generated: 2026-11-14 · Tool entries: 11
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · BENCH · quality 92 · observed 2026-11-09
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 97 · observed 2026-11-09
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 94 · observed 2026-11-16
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · BENCH · quality 91 · observed 2026-11-09
 
 ---
 
@@ -152,8 +135,8 @@ Generated: 2026-11-14 · Tool entries: 11
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-11-09
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 97 · observed 2026-11-09
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-11-16
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · BENCH · quality 91 · observed 2026-11-09
 
 ---
 
@@ -169,24 +152,7 @@ Generated: 2026-11-14 · Tool entries: 11
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · BENCH · quality 92 · observed 2026-11-09
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-11-09
-
----
-
-### <a id="prefect-core-prefecthq-prefect"></a>[Prefect Core](https://github.com/prefecthq/prefect)
-
-**Label:** AI Candidate · **Domain:** DevOps · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
-
-**Summary:** Workflow management system that makes it easy to take your data pipelines and add semantics like retries, logging, dynamic mapping, caching, failure notifications, and more.
-
-**Why it is here:** Async-first, mejor performance en workflows I/O bound
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 99 · observed 2026-11-09
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 94 · observed 2026-11-09
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 94 · observed 2026-11-16
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-11-16
 
 ---

@@ -2,11 +2,11 @@
 
 [All domains](../TOOLS.md) · [README](../README.md) · [Machine-readable evidence](../data/latest.json)
 
-Generated: 2026-11-14 · Tool entries: 10
+Generated: 2026-11-15 · Tool entries: 9
 
 ### <a id="themis-cossacklabs-themis"></a>[themis](https://github.com/cossacklabs/themis)
 
-**Label:** Human Pick · **Domain:** Security & Crypto · **Signal:** Found in 3 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go
+**Label:** Human Pick · **Domain:** Security & Crypto · **Signal:** Found in 4 active sources: matteocrippa/awesome-swift, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +1 more
 
 **Summary:** High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption). Ported on many...
 
@@ -16,9 +16,10 @@ Generated: 2026-11-14 · Tool entries: 10
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-11-09
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 89 · observed 2026-11-09
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 97 · observed 2026-11-09
+- [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) · ROSTER · quality 94 · observed 2026-11-16
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-11-16
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 87 · observed 2026-11-16
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-11-16
 
 ---
 
@@ -34,8 +35,8 @@ Generated: 2026-11-14 · Tool entries: 10
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-11-09
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-11-09
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 94 · observed 2026-11-16
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-11-16
 
 ---
 
@@ -51,8 +52,8 @@ Generated: 2026-11-14 · Tool entries: 10
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-11-09
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-11-09
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 94 · observed 2026-11-16
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-11-16
 
 ---
 
@@ -68,8 +69,8 @@ Generated: 2026-11-14 · Tool entries: 10
 
 **Source traces:**
 
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 97 · observed 2026-11-09
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 97 · observed 2026-11-09
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-11-16
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · BENCH · quality 91 · observed 2026-11-09
 
 ---
 
@@ -85,8 +86,8 @@ Generated: 2026-11-14 · Tool entries: 10
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-11-09
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 97 · observed 2026-11-09
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-11-16
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · BENCH · quality 91 · observed 2026-11-09
 
 ---
 
@@ -102,8 +103,8 @@ Generated: 2026-11-14 · Tool entries: 10
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 99 · observed 2026-11-09
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 88 · observed 2026-11-02
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 95 · observed 2026-11-16
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 91 · observed 2026-11-16
 
 ---
 
@@ -119,25 +120,8 @@ Generated: 2026-11-14 · Tool entries: 10
 
 **Source traces:**
 
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 97 · observed 2026-11-09
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 97 · observed 2026-11-09
-
----
-
-### <a id="sherlock-sherlock-project-sherlock"></a>[sherlock](https://github.com/sherlock-project/sherlock)
-
-**Label:** AI Candidate · **Domain:** Security & Crypto · **Signal:** Found in 2 active sources: jivoi/awesome-osint, vinta/awesome-python
-
-**Summary:** Hunt down social media accounts by username across social networks.
-
-**Why it is here:** Soporta muchas plataformas
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-11-09
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 94 · observed 2026-11-09
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-11-16
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · BENCH · quality 91 · observed 2026-11-09
 
 ---
 
@@ -153,8 +137,8 @@ Generated: 2026-11-14 · Tool entries: 10
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-11-09
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 97 · observed 2026-11-09
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-11-16
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-11-16
 
 ---
 
@@ -170,7 +154,7 @@ Generated: 2026-11-14 · Tool entries: 10
 
 **Source traces:**
 
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · BENCH · quality 92 · observed 2026-11-09
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 97 · observed 2026-11-09
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) · ROSTER · quality 94 · observed 2026-11-16
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-11-16
 
 ---

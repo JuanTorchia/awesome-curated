@@ -2,7 +2,7 @@
 
 [All domains](../TOOLS.md) · [README](../README.md) · [Machine-readable evidence](../data/latest.json)
 
-Generated: 2026-11-14 · Tool entries: 7
+Generated: 2026-11-15 · Tool entries: 5
 
 ### <a id="d3js-d3js"></a>[D3js](https://d3js.org)
 
@@ -16,25 +16,8 @@ Generated: 2026-11-14 · Tool entries: 7
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-11-09
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · BENCH · quality 94 · observed 2026-11-09
-
----
-
-### <a id="grpc-grpc-grpc"></a>[grpc](https://github.com/grpc/grpc)
-
-**Label:** AI Candidate · **Domain:** Web · **Signal:** Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python
-
-**Summary:** Remote Procedure Calls (RPCs) provide a useful abstraction for building distributed applications and services. The libraries in this repository provide a concrete implementation of the gRPC protocol, layered over...
-
-**Why it is here:** Performance superior a REST para cargas altas
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 89 · observed 2026-11-09
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 94 · observed 2026-11-09
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 94 · observed 2026-11-16
+- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · BENCH · quality 90 · observed 2026-11-16
 
 ---
 
@@ -50,25 +33,8 @@ Generated: 2026-11-14 · Tool entries: 7
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 88 · observed 2026-11-02
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 97 · observed 2026-11-09
-
----
-
-### <a id="pydantic-ai-pydantic-pydantic-ai"></a>[pydantic-ai](https://github.com/pydantic/pydantic-ai)
-
-**Label:** AI Candidate · **Domain:** Web · **Signal:** Found in 2 active sources: vinta/awesome-python, punkpeye/awesome-mcp-servers
-
-**Summary:** A Python agent framework for building generative AI applications with structured schemas.
-
-**Why it is here:** A Python agent framework for building generative AI applications with structured schemas.
-
-**Caveat:** Candidate still needs human review before endorsement.
-
-**Source traces:**
-
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) · ROSTER · quality 94 · observed 2026-11-09
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 97 · observed 2026-11-09
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 91 · observed 2026-11-16
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · BENCH · quality 91 · observed 2026-11-09
 
 ---
 
@@ -84,8 +50,8 @@ Generated: 2026-11-14 · Tool entries: 7
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-11-09
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 89 · observed 2026-11-09
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-11-16
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 87 · observed 2026-11-16
 
 ---
 
@@ -101,8 +67,8 @@ Generated: 2026-11-14 · Tool entries: 7
 
 **Source traces:**
 
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 97 · observed 2026-11-09
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 97 · observed 2026-11-09
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-11-16
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · BENCH · quality 91 · observed 2026-11-09
 
 ---
 
@@ -118,7 +84,7 @@ Generated: 2026-11-14 · Tool entries: 7
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-11-09
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-11-09
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 94 · observed 2026-11-16
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-11-16
 
 ---

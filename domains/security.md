@@ -2,7 +2,7 @@
 
 <p><sub>← [Back to main](../README.md)</sub></p>
 
-**1 Human reviewed · 0 Popular standards · 9 AI candidates · 0 Needs Review**
+**1 Human reviewed · 0 Popular standards · 8 AI candidates · 0 Needs Review**
 
 Inspectable catalog: [TOOLS.md](../TOOLS.md) · Evidence snapshot: [data/latest.json](../data/latest.json)
 
@@ -14,7 +14,7 @@ Tools with a human review label and visible caveats.
 
 ### 👤 [themis](https://github.com/cossacklabs/themis)
 
-![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · Found in 3 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go
+![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · Found in 4 active sources: matteocrippa/awesome-swift, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +1 more
 
 **Review:** Human Pick · **Caveat / review:** Security-sensitive tool; evaluate fit and maintenance posture before production use.
 
@@ -114,20 +114,6 @@ LLM red teaming and evaluation framework for testing jailbreaks, prompt injectio
 **Why it is here:** Local execution sin cloud dependency
 
 **Evidence record:** [Full evidence](../catalog/security.md#safedep-vet-safedep-vet) · [data/latest.json](../data/latest.json)
-
----
-
-### [sherlock](https://github.com/sherlock-project/sherlock)
-
-![](https://img.shields.io/github/stars/sherlock-project/sherlock?style=flat-square&label=⭐) · Found in 2 active sources: jivoi/awesome-osint, vinta/awesome-python
-
-**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
-
-Hunt down social media accounts by username across social networks.
-
-**Why it is here:** Soporta muchas plataformas
-
-**Evidence record:** [Full evidence](../catalog/security.md#sherlock-sherlock-project-sherlock) · [data/latest.json](../data/latest.json)
 
 ---
 

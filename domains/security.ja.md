@@ -2,7 +2,7 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**1 人間レビュー済み · 0 広く使われる標準ツール · 9 AI 候補 · 0 Needs Review 状態**
+**1 人間レビュー済み · 0 広く使われる標準ツール · 8 AI 候補 · 0 Needs Review 状態**
 
 確認できるカタログ: [TOOLS.md](../TOOLS.md) · 根拠のスナップショット: [data/latest.json](../data/latest.json)
 
@@ -14,7 +14,7 @@
 
 ### 👤 [themis](https://github.com/cossacklabs/themis)
 
-![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · 掲載元 3 件のアクティブなソース: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go
+![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · 掲載元 4 件のアクティブなソース: matteocrippa/awesome-swift, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +1 more
 
 **レビュー:** Human Pick · **注記 / レビュー:** 安全性に関わるツールです。本番利用前に適合性と保守状況を評価してください。
 
@@ -114,20 +114,6 @@ LLM red teaming and evaluation framework for testing jailbreaks, prompt injectio
 **掲載理由:** Local execution sin cloud dependency
 
 **根拠の記録:** [根拠の詳細](../catalog/security.md#safedep-vet-safedep-vet) · [data/latest.json](../data/latest.json)
-
----
-
-### [sherlock](https://github.com/sherlock-project/sherlock)
-
-![](https://img.shields.io/github/stars/sherlock-project/sherlock?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: jivoi/awesome-osint, vinta/awesome-python
-
-**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
-
-Hunt down social media accounts by username across social networks.
-
-**掲載理由:** Soporta muchas plataformas
-
-**根拠の記録:** [根拠の詳細](../catalog/security.md#sherlock-sherlock-project-sherlock) · [data/latest.json](../data/latest.json)
 
 ---
 

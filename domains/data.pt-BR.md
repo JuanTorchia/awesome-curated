@@ -2,7 +2,7 @@
 
 <p><sub>← [Voltar ao main](../README.pt-BR.md)</sub></p>
 
-**0 Revisado por humano · 0 Padrões populares · 39 Candidatos de IA · 0 Estado Needs Review**
+**0 Revisado por humano · 0 Padrões populares · 25 Candidatos de IA · 0 Estado Needs Review**
 
 Catálogo consultável: [TOOLS.md](../TOOLS.md) · Snapshot de evidências: [data/latest.json](../data/latest.json)
 
@@ -15,34 +15,6 @@ Catálogo consultável: [TOOLS.md](../TOOLS.md) · Snapshot de evidências: [dat
 
 Candidatos automatizados com cobertura suficiente entre fontes; ainda sem recomendação humana.
 
-### [gradio](https://github.com/gradio-app/gradio)
-
-![](https://img.shields.io/github/stars/gradio-app/gradio?style=flat-square&label=⭐) · Encontrada em 3 fontes ativas: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-Quickly create and share demos of models by only writing Python. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
-
-**Por que foi incluída:** Simplicidad extrema para demos (write-once approach)
-
-**Registro de evidências:** [Evidência completa](../catalog/data.md#gradio-gradio-app-gradio) · [data/latest.json](../data/latest.json)
-
----
-
-### [Streamlit](https://github.com/streamlit/streamlit)
-
-![](https://img.shields.io/github/stars/streamlit/streamlit?style=flat-square&label=⭐) · Encontrada em 3 fontes ativas: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts. It supports hot-reloading, so your app updates live as you edit and save your file.
-
-**Por que foi incluída:** Deployable en minutos, zero JavaScript requerido
-
-**Registro de evidências:** [Evidência completa](../catalog/data.md#streamlit-streamlit-streamlit) · [data/latest.json](../data/latest.json)
-
----
-
 ### [ajitpratap0/GoSQLX](https://github.com/ajitpratap0/gosqlx)
 
 ![](https://img.shields.io/github/stars/ajitpratap0/gosqlx?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: avelino/awesome-go, punkpeye/awesome-mcp-servers
@@ -54,20 +26,6 @@ Streamlit lets you create apps for your machine learning projects with deceptive
 **Por que foi incluída:** 🏎️ ☁️ 🏠 7 SQL tools (validate, format, parse, lint, security scan, metadata extraction, full analysis) over Streamable HTTP. Public remote...
 
 **Registro de evidências:** [Evidência completa](../catalog/data.md#ajitpratap0-gosqlx-ajitpratap0-gosqlx) · [data/latest.json](../data/latest.json)
-
----
-
-### [Apache Airflow](https://github.com/apache/airflow)
-
-![](https://img.shields.io/github/stars/apache/airflow?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: EthicalML/awesome-production-machine-learning, vinta/awesome-python
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-Data Pipeline framework built in Python, including scheduler, DAG definition and a UI for visualisation.
-
-**Por que foi incluída:** Data Pipeline framework built in Python, including scheduler, DAG definition and a UI for visualisation.
-
-**Registro de evidências:** [Evidência completa](../catalog/data.md#apache-airflow-apache-airflow) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -113,20 +71,6 @@ Python library for data-centric AI. Can automatically: find mislabeled data, det
 
 ---
 
-### [csvkit](https://github.com/wireservice/csvkit)
-
-![](https://img.shields.io/github/stars/wireservice/csvkit?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: jivoi/awesome-osint, vinta/awesome-python
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-Utilities for converting to and working with CSV.
-
-**Por que foi incluída:** Utilidades CLI especializadas que evitan escribir scripts Python
-
-**Registro de evidências:** [Evidência completa](../catalog/data.md#csvkit-wireservice-csvkit) · [data/latest.json](../data/latest.json)
-
----
-
 ### [CuML](https://github.com/rapidsai/cuml)
 
 ![](https://img.shields.io/github/stars/rapidsai/cuml?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: EthicalML/awesome-production-machine-learning, academic/awesome-datascience
@@ -138,34 +82,6 @@ cuML is a suite of libraries that implement machine learning algorithms and math
 **Por que foi incluída:** APIs familiares tipo scikit-learn
 
 **Registro de evidências:** [Evidência completa](../catalog/data.md#cuml-rapidsai-cuml) · [data/latest.json](../data/latest.json)
-
----
-
-### [Dagster](https://github.com/dagster-io/dagster)
-
-![](https://img.shields.io/github/stars/dagster-io/dagster?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: EthicalML/awesome-production-machine-learning, vinta/awesome-python
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-A data orchestrator for machine learning, analytics, and ETL.
-
-**Por que foi incluída:** Dagit UI moderna y debugging con linaje claro
-
-**Registro de evidências:** [Evidência completa](../catalog/data.md#dagster-dagster-io-dagster) · [data/latest.json](../data/latest.json)
-
----
-
-### [Dask](https://github.com/dask/dask)
-
-![](https://img.shields.io/github/stars/dask/dask?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: EthicalML/awesome-production-machine-learning, vinta/awesome-python
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-Distributed parallel processing framework for Pandas and NumPy computations.
-
-**Por que foi incluída:** Distributed parallel processing framework for Pandas and NumPy computations.
-
-**Registro de evidências:** [Evidência completa](../catalog/data.md#dask-dask-dask) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -225,20 +141,6 @@ Dolt is a SQL database that you can fork, clone, branch, merge, push and pull ju
 
 ---
 
-### [edgartools](https://github.com/dgunning/edgartools)
-
-![](https://img.shields.io/github/stars/dgunning/edgartools?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: wilsonfreitas/awesome-quant, vinta/awesome-python
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-Python AI-native SEC EDGAR library with XBRL financials, clean text extraction, 17+ typed forms, and pandas DataFrames.
-
-**Por que foi incluída:** Python AI-native SEC EDGAR library with XBRL financials, clean text extraction, 17+ typed forms, and pandas DataFrames.
-
-**Registro de evidências:** [Evidência completa](../catalog/data.md#edgartools-dgunning-edgartools) · [data/latest.json](../data/latest.json)
-
----
-
 ### [etcd](https://github.com/etcd-io/etcd)
 
 ![](https://img.shields.io/github/stars/etcd-io/etcd?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: veggiemonk/awesome-docker, avelino/awesome-go
@@ -281,6 +183,20 @@ A data visualization package based on the grammar of graphics.
 
 ---
 
+### [gradio](https://github.com/gradio-app/gradio)
+
+![](https://img.shields.io/github/stars/gradio-app/gradio?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+
+**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
+
+Quickly create and share demos of models by only writing Python. Debug models interactively in your browser, get feedback from collaborators, and generate public links without deploying anything.
+
+**Por que foi incluída:** Simplicidad extrema para demos (write-once approach)
+
+**Registro de evidências:** [Evidência completa](../catalog/data.md#gradio-gradio-app-gradio) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [Hamilton](https://github.com/dagworks-inc/hamilton)
 
 ![](https://img.shields.io/github/stars/dagworks-inc/hamilton?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
@@ -295,7 +211,91 @@ Hamilton is a micro-orchestration framework for defining dataflows. Runs anywher
 
 ---
 
-_Showing 20 of 39. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+### [numpy](https://numpy.org)
+
+Encontrada em 2 fontes ativas: wilsonfreitas/awesome-quant, josephmisiti/awesome-machine-learning
+
+**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
+
+Python NumPy is the fundamental package for scientific computing with Python. GitHub
+
+**Por que foi incluída:** Python NumPy is the fundamental package for scientific computing with Python. GitHub
+
+**Registro de evidências:** [Evidência completa](../catalog/data.md#numpy-numpy) · [data/latest.json](../data/latest.json)
+
+---
+
+### [pandas](https://pandas.pydata.org)
+
+Encontrada em 2 fontes ativas: wilsonfreitas/awesome-quant, josephmisiti/awesome-machine-learning
+
+**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
+
+Python pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language. GitHub
+
+**Por que foi incluída:** API intuitiva, comunidad gigante
+
+**Registro de evidências:** [Evidência completa](../catalog/data.md#pandas-pandas) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Perspective](https://github.com/finos/perspective)
+
+![](https://img.shields.io/github/stars/finos/perspective?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: EthicalML/awesome-production-machine-learning, jivoi/awesome-osint
+
+**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
+
+Streaming pivot visualization via WebAssembly.
+
+**Por que foi incluída:** Performance WebAssembly para datasets masivos
+
+**Registro de evidências:** [Evidência completa](../catalog/data.md#perspective-finos-perspective) · [data/latest.json](../data/latest.json)
+
+---
+
+### [PyBroker](https://github.com/edtechre/pybroker)
+
+![](https://img.shields.io/github/stars/edtechre/pybroker?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: wilsonfreitas/awesome-quant, josephmisiti/awesome-machine-learning
+
+**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
+
+Python Algorithmic Trading with Machine Learning.
+
+**Por que foi incluída:** ML pipeline integrado para features
+
+**Registro de evidências:** [Evidência completa](../catalog/data.md#pybroker-edtechre-pybroker) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Rerun](https://github.com/rerun-io/rerun)
+
+![](https://img.shields.io/github/stars/rerun-io/rerun?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: EthicalML/awesome-production-machine-learning, rust-unofficial/awesome-rust
+
+**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
+
+Rerun is an open-source SDK for logging, storing, querying, and visualizing multimodal data, designed for robotics, computer vision, and spatial AI.
+
+**Por que foi incluída:** Rerun is an open-source SDK for logging, storing, querying, and visualizing multimodal data, designed for robotics, computer vision, and spatial AI.
+
+**Registro de evidências:** [Evidência completa](../catalog/data.md#rerun-rerun-io-rerun) · [data/latest.json](../data/latest.json)
+
+---
+
+### [RisingWave](https://github.com/risingwavelabs/risingwave)
+
+![](https://img.shields.io/github/stars/risingwavelabs/risingwave?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: EthicalML/awesome-production-machine-learning, rust-unofficial/awesome-rust
+
+**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
+
+A distributed SQL streaming database that unifies stream processing and low-latency serving, ideal for building and serving features for online machine learning.
+
+**Por que foi incluída:** PostgreSQL wire protocol, tooling existing
+
+**Registro de evidências:** [Evidência completa](../catalog/data.md#risingwave-risingwavelabs-risingwave) · [data/latest.json](../data/latest.json)
+
+---
+
+_Showing 20 of 25. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

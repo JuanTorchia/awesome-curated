@@ -2,7 +2,7 @@
 
 <p><sub>← [Volver al main](../README.es.md)</sub></p>
 
-**1 Revisado por humano · 1 Estándares populares · 41 Candidatos de IA · 0 Estado Needs Review**
+**1 Revisado por humano · 1 Estándares populares · 31 Candidatos de IA · 0 Estado Needs Review**
 
 Catálogo consultable: [TOOLS.md](../TOOLS.md) · Snapshot de evidencia: [data/latest.json](../data/latest.json)
 
@@ -35,7 +35,7 @@ Estándares útiles como referencia; no se presentan como descubrimientos emerge
 
 ### [Pytorch](https://github.com/pytorch/pytorch)
 
-![](https://img.shields.io/github/stars/pytorch/pytorch?style=flat-square&label=⭐) · 🔥 **Encontrada en 5 fuentes activas: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, fffaraz/awesome-cpp +2 more**
+![](https://img.shields.io/github/stars/pytorch/pytorch?style=flat-square&label=⭐) · Encontrada en 4 fuentes activas: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, fffaraz/awesome-cpp +1 more
 
 **Revisión:** Popular Standard · **Nota / revisión:** Estándar útil; no se presenta como descubrimiento o herramienta emergente.
 
@@ -54,20 +54,6 @@ PyTorch is an open source machine learning library based on the Torch library, u
 
 Candidatos automatizados con cobertura suficiente entre fuentes; todavía no tienen aval humano.
 
-### [Bokeh](https://github.com/bokeh/bokeh)
-
-![](https://img.shields.io/github/stars/bokeh/bokeh?style=flat-square&label=⭐) · Encontrada en 3 fuentes activas: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
-
-**Revisión:** AI Candidate · **Nota / revisión:** El candidato todavía necesita revisión humana antes de recibir aval.
-
-Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation of data in modern web browsers.
-
-**Por qué está incluida:** Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation of data in modern web browsers.
-
-**Registro de evidencia:** [Evidencia completa](../catalog/tooling.md#bokeh-bokeh-bokeh) · [data/latest.json](../data/latest.json)
-
----
-
 ### [LightGBM](https://github.com/microsoft/lightgbm)
 
 ![](https://img.shields.io/github/stars/microsoft/lightgbm?style=flat-square&label=⭐) · Encontrada en 3 fuentes activas: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
@@ -79,20 +65,6 @@ Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, G
 **Por qué está incluida:** Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for...
 
 **Registro de evidencia:** [Evidencia completa](../catalog/tooling.md#lightgbm-microsoft-lightgbm) · [data/latest.json](../data/latest.json)
-
----
-
-### [Transformers](https://github.com/huggingface/transformers)
-
-![](https://img.shields.io/github/stars/huggingface/transformers?style=flat-square&label=⭐) · Encontrada en 3 fuentes activas: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
-
-**Revisión:** AI Candidate · **Nota / revisión:** El candidato todavía necesita revisión humana antes de recibir aval.
-
-Huggingface's library of state-of-the-art pretrained models for Natural Language Processing (NLP).
-
-**Por qué está incluida:** Modelos preentrenados para 100+ tareas
-
-**Registro de evidencia:** [Evidencia completa](../catalog/tooling.md#transformers-huggingface-transformers) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -110,20 +82,6 @@ SIMD-accelerated string search, sort, edit distances, alignments, and generators
 
 ---
 
-### [astral-sh/ruff](https://github.com/astral-sh/ruff)
-
-![](https://img.shields.io/github/stars/astral-sh/ruff?style=flat-square&label=⭐) · Encontrada en 2 fuentes activas: rust-unofficial/awesome-rust, vinta/awesome-python
-
-**Revisión:** AI Candidate · **Nota / revisión:** El candidato todavía necesita revisión humana antes de recibir aval.
-
-An extremely fast Python linter and code formatter
-
-**Por qué está incluida:** An extremely fast Python linter and code formatter
-
-**Registro de evidencia:** [Evidencia completa](../catalog/tooling.md#astral-sh-ruff-astral-sh-ruff) · [data/latest.json](../data/latest.json)
-
----
-
 ### [Bitwarden](https://bitwarden.com)
 
 Encontrada en 2 fuentes activas: jivoi/awesome-osint, jaywcjlove/awesome-mac
@@ -135,6 +93,20 @@ Open source password management tool for Mac OS, iOS and browsers. (https://gith
 **Por qué está incluida:** Self-hosting option + cloud oficial
 
 **Registro de evidencia:** [Evidencia completa](../catalog/tooling.md#bitwarden-bitwarden) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Bokeh](https://github.com/bokeh/bokeh)
+
+![](https://img.shields.io/github/stars/bokeh/bokeh?style=flat-square&label=⭐) · Encontrada en 2 fuentes activas: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+
+**Revisión:** AI Candidate · **Nota / revisión:** El candidato todavía necesita revisión humana antes de recibir aval.
+
+Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation of data in modern web browsers.
+
+**Por qué está incluida:** Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation of data in modern web browsers.
+
+**Registro de evidencia:** [Evidencia completa](../catalog/tooling.md#bokeh-bokeh-bokeh) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -320,21 +292,49 @@ Powerful IDE for JVM languages. (Free for Students)
 
 ---
 
-### [Jupyter Notebooks](https://github.com/jupyter/notebook)
+### [Kaldi](https://github.com/kaldi-asr/kaldi)
 
-![](https://img.shields.io/github/stars/jupyter/notebook?style=flat-square&label=⭐) · Encontrada en 2 fuentes activas: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+![](https://img.shields.io/github/stars/kaldi-asr/kaldi?style=flat-square&label=⭐) · Encontrada en 2 fuentes activas: fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning
 
 **Revisión:** AI Candidate · **Nota / revisión:** El candidato todavía necesita revisión humana antes de recibir aval.
 
-Web interface python sandbox environments for reproducible development
+Kaldi is a toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. Kaldi is intended for use by speech recognition researchers.
 
-**Por qué está incluida:** Web interface python sandbox environments for reproducible development
+**Por qué está incluida:** Componentes modulares y bien documentados para researchers
 
-**Registro de evidencia:** [Evidencia completa](../catalog/tooling.md#jupyter-notebooks-jupyter-notebook) · [data/latest.json](../data/latest.json)
+**Registro de evidencia:** [Evidencia completa](../catalog/tooling.md#kaldi-kaldi-asr-kaldi) · [data/latest.json](../data/latest.json)
 
 ---
 
-_Showing 20 of 41. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+### [Kubernetes](https://github.com/kubernetes/kubernetes)
+
+![](https://img.shields.io/github/stars/kubernetes/kubernetes?style=flat-square&label=⭐) · Encontrada en 2 fuentes activas: veggiemonk/awesome-docker, avelino/awesome-go
+
+**Revisión:** AI Candidate · **Nota / revisión:** El candidato todavía necesita revisión humana antes de recibir aval.
+
+Production-Grade Container Scheduling and Management System
+
+**Por qué está incluida:** Production-Grade Container Scheduling and Management System
+
+**Registro de evidencia:** [Evidencia completa](../catalog/tooling.md#kubernetes-kubernetes-kubernetes) · [data/latest.json](../data/latest.json)
+
+---
+
+### [lstags](https://github.com/ivanilves/lstags)
+
+![](https://img.shields.io/github/stars/ivanilves/lstags?style=flat-square&label=⭐) · Encontrada en 2 fuentes activas: veggiemonk/awesome-docker, avelino/awesome-go
+
+**Revisión:** AI Candidate · **Nota / revisión:** El candidato todavía necesita revisión humana antes de recibir aval.
+
+Tool and API to sync Docker images across different registries.
+
+**Por qué está incluida:** Simple, hace una cosa bien
+
+**Registro de evidencia:** [Evidencia completa](../catalog/tooling.md#lstags-ivanilves-lstags) · [data/latest.json](../data/latest.json)
+
+---
+
+_Showing 20 of 31. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

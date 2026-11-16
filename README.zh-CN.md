@@ -8,7 +8,7 @@
 
 [![Human Picks](https://img.shields.io/badge/Human_Picks-5-gold?style=for-the-badge)](#human-reviewed-picks)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](SOURCES.md)
-[![Updated](https://img.shields.io/badge/Updated-2026-11-14-green?style=for-the-badge)](UPDATE-SUMMARY.md)
+[![Updated](https://img.shields.io/badge/Updated-2026-11-15-green?style=for-the-badge)](UPDATE-SUMMARY.md)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -32,7 +32,7 @@
 
 ### 信任快照
 
-- **最新生成更新**: 2026-11-14
+- **最新生成更新**: 2026-11-15
 - **活跃来源**: 20
 - **Human Picks**: 5
 - **方法论**: [METHODOLOGY.md](METHODOLOGY.md)
@@ -42,14 +42,14 @@
 - **可查阅目录**: [TOOLS.md](TOOLS.md)
 - **常用标准工具**: 1
 - **Needs Review 状态（复核来源）**: 0
-- **等待人工认可的 AI Candidates**: 188
+- **等待人工认可的 AI Candidates**: 148
 - 候选工具尚未获得 Juan 的认可。请查看目录和领域页面。
 
 ---
 
 ## 🗺️ 找到你的技术栈
 
-[🌐 **Web** · 7](domains/web.zh-CN.md) · [🤖 **AI 与机器学习** · 77](domains/ai-ml.zh-CN.md) · [🛠️ **DevOps** · 11](domains/devops.zh-CN.md) · [📱 **移动端** · 1](domains/mobile.zh-CN.md) · [💾 **数据与数据库** · 39](domains/data.zh-CN.md) · [🔐 **安全与加密** · 10](domains/security.zh-CN.md) · [⚡ **性能** · 3](domains/performance.zh-CN.md) · [🧰 **开发工具** · 43](domains/tooling.zh-CN.md) · [🎨 **其他** · 7](domains/other.zh-CN.md)
+[🌐 **Web** · 5](domains/web.zh-CN.md) · [🤖 **AI 与机器学习** · 66](domains/ai-ml.zh-CN.md) · [🛠️ **DevOps** · 9](domains/devops.zh-CN.md) · [📱 **移动端** · 1](domains/mobile.zh-CN.md) · [💾 **数据与数据库** · 25](domains/data.zh-CN.md) · [🔐 **安全与加密** · 9](domains/security.zh-CN.md) · [⚡ **性能** · 1](domains/performance.zh-CN.md) · [🧰 **开发工具** · 33](domains/tooling.zh-CN.md) · [🎨 **其他** · 7](domains/other.zh-CN.md)
 
 ---
 
@@ -78,6 +78,24 @@
 
 **说明 / 审核:** 更适合具有相应机器学习或数据工作流的团队。
 
+### 👤 [themis](https://github.com/cossacklabs/themis)
+
+<!-- pick:rationale -->
+
+**为什么重要:** Gives teams a higher-level API over cryptographic primitives without starting from raw building blocks.
+
+<!-- pick:evidence -->
+
+**证据:** 收录于 4 个活跃来源: matteocrippa/awesome-swift, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +1 more · [来源记录](data/latest.json)
+
+<!-- pick:review -->
+
+**审核:** Human Pick
+
+<!-- pick:caveat -->
+
+**说明 / 审核:** 涉及安全的工具；用于生产前需评估适用性与维护状况。
+
 ### 👤 [Netron](https://github.com/lutzroeder/netron)
 
 <!-- pick:rationale -->
@@ -95,24 +113,6 @@
 <!-- pick:caveat -->
 
 **说明 / 审核:** 更适合具有相应机器学习或数据工作流的团队。
-
-### 👤 [themis](https://github.com/cossacklabs/themis)
-
-<!-- pick:rationale -->
-
-**为什么重要:** Gives teams a higher-level API over cryptographic primitives without starting from raw building blocks.
-
-<!-- pick:evidence -->
-
-**证据:** 收录于 3 个活跃来源: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go · [来源记录](data/latest.json)
-
-<!-- pick:review -->
-
-**审核:** Human Pick
-
-<!-- pick:caveat -->
-
-**说明 / 审核:** 涉及安全的工具；用于生产前需评估适用性与维护状况。
 
 ### 👤 [Bencher](https://bencher.dev)
 
@@ -153,15 +153,15 @@
 
 ---
 
-## 等待人工审核的候选工具
+## 目录变更
 
-- [Deepchecks](https://github.com/deepchecks/deepchecks) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
-- [Feature Engine](https://github.com/feature-engine/feature_engine) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
-- [askbudi/roundtable](https://github.com/askbudi/roundtable) — AI & ML · Found in 2 active sources: vuejs/awesome-vue, punkpeye/awesome-mcp-servers
-- [Cython](https://github.com/cython/cython) — Performance · Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python
-- [DEAP](https://github.com/deap/deap) — AI & ML · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+- [Seaborn](https://seaborn.pydata.org) — newly reviewed · AI Candidate: A python visualization library based on matplotlib.
+- [scikit-learn](https://scikit-learn.org) — newly reviewed · Context Resource: A Python module for machine learning built on top of SciPy.
+- [Chroma](https://github.com/chroma-core/chroma) — removed: No longer present in the current public recommendation set.
+- [Mem0](https://github.com/mem0ai/mem0) — removed: No longer present in the current public recommendation set.
+- [Apache Airflow](https://github.com/apache/airflow) — removed: No longer present in the current public recommendation set.
 
-候选工具不代表个人推荐。可通过 GitHub issues 请求审核，或在 TOOLS.md 查看完整队列。 [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) · [TOOLS.md](TOOLS.md)
+See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
 
 ---
 
@@ -172,10 +172,10 @@
 | 工具 | 作用 | 信号 |
 |---|---|---|
 | [**D3js**](https://d3js.org) | is a powerful data visualization javascript library. | Found in 2 active sources: jivoi/awesome-osint, academic/awesome-datascience · AI Candidate |
-| [**grpc**](https://github.com/grpc/grpc) | Remote Procedure Calls (RPCs) provide a useful abstraction for building distributed applications and services. The... | Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python · AI Candidate |
 | [**juspay/neurolink**](https://github.com/juspay/neurolink) | 📇 ☁️ 🏠 🍎 🪟 🐧 Making enterprise AI infrastructure universally accessible. Edge-first platform unifying 12... | Found in 2 active sources: josephmisiti/awesome-machine-learning, punkpeye/awesome-mcp-servers · AI Candidate |
+| [**tencent/tquic**](https://github.com/tencent/tquic) | A high-performance, lightweight, and cross-platform QUIC library | Found in 2 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp · AI Candidate |
 
-📖 更多 4 个见[详细页面 →](domains/web.zh-CN.md)
+📖 更多 2 个见[详细页面 →](domains/web.zh-CN.md)
 
 ### 🤖 AI 与机器学习
 
@@ -185,7 +185,7 @@
 | 👤 [**Netron**](https://github.com/lutzroeder/netron) | Netron is a viewer for neural network, deep learning and machine learning models. | Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning · Human Pick |
 | 👤 [**Aim**](https://github.com/aimhubio/aim) | A super-easy way to record, search and compare AI experiments. | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning · Worth Trying |
 
-📖 更多 74 个见[详细页面 →](domains/ai-ml.zh-CN.md)
+📖 更多 63 个见[详细页面 →](domains/ai-ml.zh-CN.md)
 
 ### 🛠️ DevOps
 
@@ -195,7 +195,7 @@
 | [**docker-volume-backup**](https://github.com/offen/docker-volume-backup) | Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage. | Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go · AI Candidate |
 | [**Dragonfly**](https://github.com/dragonflyoss/dragonfly2) | Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best... | Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go · AI Candidate |
 
-📖 更多 8 个见[详细页面 →](domains/devops.zh-CN.md)
+📖 更多 6 个见[详细页面 →](domains/devops.zh-CN.md)
 
 ### 📱 移动端
 
@@ -209,29 +209,27 @@
 
 | 工具 | 作用 | 信号 |
 |---|---|---|
-| [**gradio**](https://github.com/gradio-app/gradio) | Quickly create and share demos of models by only writing Python. Debug models interactively in your browser, get... | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python · AI Candidate |
-| [**Streamlit**](https://github.com/streamlit/streamlit) | Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts. It... | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python · AI Candidate |
 | [**ajitpratap0/GoSQLX**](https://github.com/ajitpratap0/gosqlx) | 🏎️ ☁️ 🏠 7 SQL tools (validate, format, parse, lint, security scan, metadata extraction, full analysis) over... | Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers · AI Candidate |
+| [**Bread Dataset Viewer**](https://github.com/bread-technologies/mle_vscode_extension) | A VS Code extension for viewing and exploring large machine learning datasets (CSV, JSON, Parquet, etc.) directly... | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning · AI Candidate |
+| [**C3.js**](https://c3js.org) | customizable library based on D3.js for easy chart drawing. | Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning · AI Candidate |
 
-📖 更多 36 个见[详细页面 →](domains/data.zh-CN.md)
+📖 更多 22 个见[详细页面 →](domains/data.zh-CN.md)
 
 ### 🔐 安全与加密
 
 | 工具 | 作用 | 信号 |
 |---|---|---|
-| 👤 [**themis**](https://github.com/cossacklabs/themis) | High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and... | Found in 3 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go · Human Pick |
+| 👤 [**themis**](https://github.com/cossacklabs/themis) | High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and... | Found in 4 active sources: matteocrippa/awesome-swift, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +1 more · Human Pick |
 | [**Brave**](https://brave.com) | Web browser with an emphasis on privacy and speed. (https://github.com/brave/brave-browser/) | Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac · AI Candidate |
 | [**LibreWolf**](https://librewolf.net) | A fork of Firefox, focused on privacy, security and freedom. (https://gitlab.com/librewolf-community) | Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac · AI Candidate |
 
-📖 更多 7 个见[详细页面 →](domains/security.zh-CN.md)
+📖 更多 6 个见[详细页面 →](domains/security.zh-CN.md)
 
 ### ⚡ 性能
 
 | 工具 | 作用 | 信号 |
 |---|---|---|
 | 👤 [**Bencher**](https://bencher.dev) | Suite of continuous benchmarking tools designed to catch performance regressions in CI. MIT/Apache-2.0 Rust | Found in 2 active sources: fffaraz/awesome-cpp, avelino/awesome-go · Human Pick |
-| [**Cython**](https://github.com/cython/cython) | Cython is an optimising static compiler for both the Python programming language and the extended Cython programming... | Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python · AI Candidate |
-| [**Numba**](https://github.com/numba/numba) | A compiler for Python array and numerical functions. | Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python · AI Candidate |
 
 📖 [完整领域页面 →](domains/performance.zh-CN.md)
 
@@ -240,10 +238,10 @@
 | 工具 | 作用 | 信号 |
 |---|---|---|
 | 👤 [**Sniffnet**](https://github.com/gyulyvgc/sniffnet) | Cross-platform application to monitor your network traffic with ease | Found in 2 active sources: rust-unofficial/awesome-rust, jaywcjlove/awesome-mac · Human Pick |
-| [**Pytorch**](https://github.com/pytorch/pytorch) | PyTorch is an open source machine learning library based on the Torch library, used for applications such as... | Found in 5 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, fffaraz/awesome-cpp +2 more · Popular Standard |
-| [**Bokeh**](https://github.com/bokeh/bokeh) | Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation... | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python · AI Candidate |
+| [**Pytorch**](https://github.com/pytorch/pytorch) | PyTorch is an open source machine learning library based on the Torch library, used for applications such as... | Found in 4 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, fffaraz/awesome-cpp +1 more · Popular Standard |
+| [**LightGBM**](https://github.com/microsoft/lightgbm) | Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on... | Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning · AI Candidate |
 
-📖 更多 40 个见[详细页面 →](domains/tooling.zh-CN.md)
+📖 更多 30 个见[详细页面 →](domains/tooling.zh-CN.md)
 
 ### 🎨 其他
 

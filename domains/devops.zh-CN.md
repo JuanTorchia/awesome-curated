@@ -2,7 +2,7 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**0 人工审核 · 0 常用标准工具 · 11 AI 候选工具 · 0 Needs Review 状态**
+**0 人工审核 · 0 常用标准工具 · 9 AI 候选工具 · 0 Needs Review 状态**
 
 可查阅目录: [TOOLS.md](../TOOLS.md) · 证据快照: [data/latest.json](../data/latest.json)
 
@@ -85,20 +85,6 @@ A interface for reading and filtering the logs output of Docker and Podman conta
 
 ---
 
-### [Luigi](https://github.com/spotify/luigi)
-
-![](https://img.shields.io/github/stars/spotify/luigi?style=flat-square&label=⭐) · 收录于 2 个活跃来源: EthicalML/awesome-production-machine-learning, vinta/awesome-python
-
-**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
-
-Luigi is a Python module that helps you build complex pipelines of batch jobs, handling dependency resolution, workflow management, visualisation, etc..
-
-**收录原因:** Luigi is a Python module that helps you build complex pipelines of batch jobs, handling dependency resolution, workflow management, visualisation,...
-
-**证据记录:** [完整证据](../catalog/devops.md#luigi-spotify-luigi) · [data/latest.json](../data/latest.json)
-
----
-
 ### [MyIP](https://github.com/jason5ng32/myip)
 
 ![](https://img.shields.io/github/stars/jason5ng32/myip?style=flat-square&label=⭐) · 收录于 2 个活跃来源: veggiemonk/awesome-docker, vuejs/awesome-vue
@@ -152,20 +138,6 @@ A simple tui to view & control docker containers. Written in Rust, making heavy 
 **收录原因:** A simple tui to view & control docker containers. Written in Rust, making heavy use of ratatui & Bollard,.
 
 **证据记录:** [完整证据](../catalog/devops.md#oxker-mrjackwills-oxker) · [data/latest.json](../data/latest.json)
-
----
-
-### [Prefect Core](https://github.com/prefecthq/prefect)
-
-![](https://img.shields.io/github/stars/prefecthq/prefect?style=flat-square&label=⭐) · 收录于 2 个活跃来源: EthicalML/awesome-production-machine-learning, vinta/awesome-python
-
-**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
-
-Workflow management system that makes it easy to take your data pipelines and add semantics like retries, logging, dynamic mapping, caching, failure notifications, and more.
-
-**收录原因:** Async-first, mejor performance en workflows I/O bound
-
-**证据记录:** [完整证据](../catalog/devops.md#prefect-core-prefecthq-prefect) · [data/latest.json](../data/latest.json)
 
 ---
 

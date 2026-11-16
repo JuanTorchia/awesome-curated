@@ -2,7 +2,7 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**6 人間レビュー済み · 0 広く使われる標準ツール · 71 AI 候補 · 0 Needs Review 状態**
+**4 人間レビュー済み · 0 広く使われる標準ツール · 62 AI 候補 · 0 Needs Review 状態**
 
 確認できるカタログ: [TOOLS.md](../TOOLS.md) · 根拠のスナップショット: [data/latest.json](../data/latest.json)
 
@@ -70,34 +70,6 @@ Candle is a minimalist ML framework for Rust with a focus on performance (includ
 
 ---
 
-### 👤 [Chroma](https://github.com/chroma-core/chroma)
-
-![](https://img.shields.io/github/stars/chroma-core/chroma?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: EthicalML/awesome-production-machine-learning, vinta/awesome-python
-
-**レビュー:** Worth Trying · **注記 / レビュー:** 複数ソースによる掲載の範囲は限定的です。
-
-Chroma is an open-source embedding database.
-
-**掲載理由:** Worth trying: approachable open-source embedding database for prototyping retrieval and agent memory workflows.
-
-**根拠の記録:** [根拠の詳細](../catalog/ai-ml.md#chroma-chroma-core-chroma) · [data/latest.json](../data/latest.json)
-
----
-
-### 👤 [Mem0](https://github.com/mem0ai/mem0)
-
-![](https://img.shields.io/github/stars/mem0ai/mem0?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: EthicalML/awesome-production-machine-learning, vinta/awesome-python
-
-**レビュー:** Worth Trying · **注記 / レビュー:** 複数ソースによる掲載の範囲は限定的です。
-
-Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions.
-
-**掲載理由:** Worth trying: practical memory layer for AI assistants and agents, with enough cross-source signal to review beyond hype.
-
-**根拠の記録:** [根拠の詳細](../catalog/ai-ml.md#mem0-mem0ai-mem0) · [data/latest.json](../data/latest.json)
-
----
-
 
 ---
 
@@ -107,7 +79,7 @@ Mem0 enhances AI assistants and agents with an intelligent memory layer, enablin
 
 ### [XGBoost](https://github.com/dmlc/xgboost)
 
-![](https://img.shields.io/github/stars/dmlc/xgboost?style=flat-square&label=⭐) · 🔥 **掲載元 5 件のアクティブなソース: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, fffaraz/awesome-cpp +2 more**
+![](https://img.shields.io/github/stars/dmlc/xgboost?style=flat-square&label=⭐) · 掲載元 4 件のアクティブなソース: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, fffaraz/awesome-cpp +1 more
 
 **レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
 
@@ -121,7 +93,7 @@ XGBoost is an optimized distributed gradient boosting library designed to be hig
 
 ### [CatBoost](https://github.com/catboost/catboost)
 
-![](https://img.shields.io/github/stars/catboost/catboost?style=flat-square&label=⭐) · 掲載元 4 件のアクティブなソース: academic/awesome-datascience, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more
+![](https://img.shields.io/github/stars/catboost/catboost?style=flat-square&label=⭐) · 掲載元 3 件のアクティブなソース: academic/awesome-datascience, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning
 
 **レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
 
@@ -144,76 +116,6 @@ Deepchecks is a holistic open-source solution for all of your AI & ML validation
 **掲載理由:** Cobertura integral: data checks, model validation, drift detection en un solo lugar
 
 **根拠の記録:** [根拠の詳細](../catalog/ai-ml.md#deepchecks-deepchecks-deepchecks) · [data/latest.json](../data/latest.json)
-
----
-
-### [Feature Engine](https://github.com/feature-engine/feature_engine)
-
-![](https://img.shields.io/github/stars/feature-engine/feature_engine?style=flat-square&label=⭐) · 掲載元 3 件のアクティブなソース: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
-
-**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
-
-Feature-engine is a Python library that contains several transformers to engineer features for use in machine learning models.
-
-**掲載理由:** Feature-engine is a Python library that contains several transformers to engineer features for use in machine learning models.
-
-**根拠の記録:** [根拠の詳細](../catalog/ai-ml.md#feature-engine-feature-engine-feature-engine) · [data/latest.json](../data/latest.json)
-
----
-
-### [H2O-3](https://github.com/h2oai/h2o-3)
-
-![](https://img.shields.io/github/stars/h2oai/h2o-3?style=flat-square&label=⭐) · 掲載元 3 件のアクティブなソース: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
-
-**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
-
-Fast scalable Machine Learning platform for smarter applications: Deep Learning, Gradient Boosting & XGBoost, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked...
-
-**掲載理由:** AutoML robusto que compite con modelos manuales
-
-**根拠の記録:** [根拠の詳細](../catalog/ai-ml.md#h2o-3-h2oai-h2o-3) · [data/latest.json](../data/latest.json)
-
----
-
-### [Scikit-Image](https://github.com/scikit-image/scikit-image)
-
-![](https://img.shields.io/github/stars/scikit-image/scikit-image?style=flat-square&label=⭐) · 掲載元 3 件のアクティブなソース: academic/awesome-datascience, josephmisiti/awesome-machine-learning, vinta/awesome-python
-
-**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
-
-A collection of algorithms for image processing in Python.
-
-**掲載理由:** API Pythonica y bien documentada vs OpenCV C++
-
-**根拠の記録:** [根拠の詳細](../catalog/ai-ml.md#scikit-image-scikit-image-scikit-image) · [data/latest.json](../data/latest.json)
-
----
-
-### [SpaCy](https://github.com/explosion/spacy)
-
-![](https://img.shields.io/github/stars/explosion/spacy?style=flat-square&label=⭐) · 掲載元 3 件のアクティブなソース: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
-
-**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
-
-spaCy is a library for advanced Natural Language Processing in Python and Cython.
-
-**掲載理由:** Modelos pre-entrenados optimizados y muy documentados
-
-**根拠の記録:** [根拠の詳細](../catalog/ai-ml.md#spacy-explosion-spacy) · [data/latest.json](../data/latest.json)
-
----
-
-### [Stable Baselines](https://github.com/dlr-rm/stable-baselines3)
-
-![](https://img.shields.io/github/stars/dlr-rm/stable-baselines3?style=flat-square&label=⭐) · 掲載元 3 件のアクティブなソース: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
-
-**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
-
-A fork of OpenAI Baselines, implementations of reinforcement learning algorithms.
-
-**掲載理由:** APIs consistentes y bien testeadas
-
-**根拠の記録:** [根拠の詳細](../catalog/ai-ml.md#stable-baselines-dlr-rm-stable-baselines3) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -385,7 +287,77 @@ Machine Learning production server for TensorFlow, XGBoost and Cafe models writt
 
 ---
 
-_Showing 20 of 71. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+### [Detectron2](https://github.com/facebookresearch/detectron2)
+
+![](https://img.shields.io/github/stars/facebookresearch/detectron2?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
+
+Detectron2 is Facebook AI Research's next generation library that provides state-of-the-art detection and segmentation algorithms.
+
+**掲載理由:** SOTA accuracy en coco/benchmarks
+
+**根拠の記録:** [根拠の詳細](../catalog/ai-ml.md#detectron2-facebookresearch-detectron2) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Determined](https://github.com/determined-ai/determined)
+
+![](https://img.shields.io/github/stars/determined-ai/determined?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
+
+Deep learning training platform with integrated support for distributed training, hyperparameter tuning, and model management (supports Tensorflow and Pytorch).
+
+**掲載理由:** Model registry y experiment tracking built-in
+
+**根拠の記録:** [根拠の詳細](../catalog/ai-ml.md#determined-determined-ai-determined) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Dlib](https://github.com/davisking/dlib)
+
+![](https://img.shields.io/github/stars/davisking/dlib?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: academic/awesome-datascience, fffaraz/awesome-cpp
+
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
+
+zap: A toolkit for making real world machine learning and data analysis applications in C++. [Boost]
+
+**掲載理由:** Performance comparable a TensorFlow en operaciones complejas
+
+**根拠の記録:** [根拠の詳細](../catalog/ai-ml.md#dlib-davisking-dlib) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Evidently](https://github.com/evidentlyai/evidently)
+
+![](https://img.shields.io/github/stars/evidentlyai/evidently?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
+
+Evidently is an open-source framework to evaluate, test and monitor ML and LLM-powered systems.
+
+**掲載理由:** Reportes interactivos muy claros sobre data drift
+
+**根拠の記録:** [根拠の詳細](../catalog/ai-ml.md#evidently-evidentlyai-evidently) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Faiss](https://github.com/facebookresearch/faiss)
+
+![](https://img.shields.io/github/stars/facebookresearch/faiss?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: EthicalML/awesome-production-machine-learning, fffaraz/awesome-cpp
+
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
+
+Faiss is a library for efficient similarity search and clustering of dense vectors.
+
+**掲載理由:** Faiss is a library for efficient similarity search and clustering of dense vectors.
+
+**根拠の記録:** [根拠の詳細](../catalog/ai-ml.md#faiss-facebookresearch-faiss) · [data/latest.json](../data/latest.json)
+
+---
+
+_Showing 20 of 62. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

@@ -2,7 +2,7 @@
 
 <p><sub>← [Voltar ao main](../README.pt-BR.md)</sub></p>
 
-**0 Revisado por humano · 0 Padrões populares · 7 Candidatos de IA · 0 Estado Needs Review**
+**0 Revisado por humano · 0 Padrões populares · 5 Candidatos de IA · 0 Estado Needs Review**
 
 Catálogo consultável: [TOOLS.md](../TOOLS.md) · Snapshot de evidências: [data/latest.json](../data/latest.json)
 
@@ -29,20 +29,6 @@ is a powerful data visualization javascript library.
 
 ---
 
-### [grpc](https://github.com/grpc/grpc)
-
-![](https://img.shields.io/github/stars/grpc/grpc?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: fffaraz/awesome-cpp, vinta/awesome-python
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-Remote Procedure Calls (RPCs) provide a useful abstraction for building distributed applications and services. The libraries in this repository provide a concrete implementation of the gRPC protocol, layered over...
-
-**Por que foi incluída:** Performance superior a REST para cargas altas
-
-**Registro de evidências:** [Evidência completa](../catalog/web.md#grpc-grpc-grpc) · [data/latest.json](../data/latest.json)
-
----
-
 ### [juspay/neurolink](https://github.com/juspay/neurolink)
 
 ![](https://img.shields.io/github/stars/juspay/neurolink?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: josephmisiti/awesome-machine-learning, punkpeye/awesome-mcp-servers
@@ -54,20 +40,6 @@ Remote Procedure Calls (RPCs) provide a useful abstraction for building distribu
 **Por que foi incluída:** Middleware guardrails incluido
 
 **Registro de evidências:** [Evidência completa](../catalog/web.md#juspay-neurolink-juspay-neurolink) · [data/latest.json](../data/latest.json)
-
----
-
-### [pydantic-ai](https://github.com/pydantic/pydantic-ai)
-
-![](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: vinta/awesome-python, punkpeye/awesome-mcp-servers
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-A Python agent framework for building generative AI applications with structured schemas.
-
-**Por que foi incluída:** A Python agent framework for building generative AI applications with structured schemas.
-
-**Registro de evidências:** [Evidência completa](../catalog/web.md#pydantic-ai-pydantic-pydantic-ai) · [data/latest.json](../data/latest.json)
 
 ---
 
