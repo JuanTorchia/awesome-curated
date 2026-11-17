@@ -8,7 +8,7 @@ Ler em outros idiomas: [🇬🇧 English](README.md) · [🇪🇸 Español](READ
 
 [![Human Picks](https://img.shields.io/badge/Human_Picks-5-gold?style=for-the-badge)](#human-reviewed-picks)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](SOURCES.md)
-[![Updated](https://img.shields.io/badge/Updated-2026-11-15-green?style=for-the-badge)](UPDATE-SUMMARY.md)
+[![Updated](https://img.shields.io/badge/Updated-2026-11-16-green?style=for-the-badge)](UPDATE-SUMMARY.md)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -32,7 +32,7 @@ Algum exemplo foi útil? Dê uma estrela no [repo](https://github.com/JuanTorchi
 
 ### Snapshot de confiança
 
-- **Última atualização gerada**: 2026-11-15
+- **Última atualização gerada**: 2026-11-16
 - **fontes ativas**: 20
 - **Human Picks**: 5
 - **Metodologia**: [METHODOLOGY.md](METHODOLOGY.md)
@@ -153,15 +153,15 @@ Ferramentas revisadas por pessoas e as tarefas que ajudam a resolver.
 
 ---
 
-## Alterações do catálogo
+## Candidatos à revisão humana
 
-- [Seaborn](https://seaborn.pydata.org) — newly reviewed · AI Candidate: A python visualization library based on matplotlib.
-- [scikit-learn](https://scikit-learn.org) — newly reviewed · Context Resource: A Python module for machine learning built on top of SciPy.
-- [Chroma](https://github.com/chroma-core/chroma) — removed: No longer present in the current public recommendation set.
-- [Mem0](https://github.com/mem0ai/mem0) — removed: No longer present in the current public recommendation set.
-- [Apache Airflow](https://github.com/apache/airflow) — removed: No longer present in the current public recommendation set.
+- [Deepchecks](https://github.com/deepchecks/deepchecks) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
+- [askbudi/roundtable](https://github.com/askbudi/roundtable) — AI & ML · Found in 2 active sources: vuejs/awesome-vue, punkpeye/awesome-mcp-servers
+- [DEAP](https://github.com/deap/deap) — AI & ML · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+- [Gymnasium](https://github.com/farama-foundation/gymnasium) — AI & ML · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
+- [safedep/vet](https://github.com/safedep/vet) — Security & Crypto · Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers
 
-See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
+Candidatos não são recomendações pessoais. Peça uma revisão via GitHub issues ou consulte a fila completa em TOOLS.md. [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) · [TOOLS.md](TOOLS.md)
 
 ---
 

@@ -2,7 +2,7 @@
 
 [All domains](../TOOLS.md) · [README](../README.md) · [Machine-readable evidence](../data/latest.json)
 
-Generated: 2026-11-15 · Tool entries: 9
+Generated: 2026-11-16 · Tool entries: 9
 
 ### <a id="dive-wagoodman-dive"></a>[dive](https://github.com/wagoodman/dive)
 
