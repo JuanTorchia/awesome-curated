@@ -2,7 +2,7 @@
 
 [All domains](../TOOLS.md) · [README](../README.md) · [Machine-readable evidence](../data/latest.json)
 
-Generated: 2026-11-16 · Tool entries: 1
+Generated: 2026-11-17 · Tool entries: 1
 
 ### <a id="bencher-bencher"></a>[Bencher](https://bencher.dev)
 
