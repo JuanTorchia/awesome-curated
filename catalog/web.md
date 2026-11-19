@@ -2,7 +2,7 @@
 
 [All domains](../TOOLS.md) · [README](../README.md) · [Machine-readable evidence](../data/latest.json)
 
-Generated: 2026-11-17 · Tool entries: 5
+Generated: 2026-11-18 · Tool entries: 5
 
 ### <a id="d3js-d3js"></a>[D3js](https://d3js.org)
 
