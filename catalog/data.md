@@ -2,7 +2,7 @@
 
 [All domains](../TOOLS.md) · [README](../README.md) · [Machine-readable evidence](../data/latest.json)
 
-Generated: 2026-11-19 · Tool entries: 25
+Generated: 2026-11-20 · Tool entries: 25
 
 ### <a id="ajitpratap0-gosqlx-ajitpratap0-gosqlx"></a>[ajitpratap0/GoSQLX](https://github.com/ajitpratap0/gosqlx)
 
