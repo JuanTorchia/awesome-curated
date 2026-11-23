@@ -2,9 +2,85 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**0 人工审核 · 0 常用标准工具 · 5 AI 候选工具 · 0 Needs Review 状态**
+**5 人工审核 · 0 常用标准工具 · 7 AI 候选工具 · 0 Needs Review 状态**
 
 可查阅目录: [TOOLS.md](../TOOLS.md) · 证据快照: [data/latest.json](../data/latest.json)
+
+---
+
+## 人工审核精选
+
+具有人工审核标签和明确限制的工具。
+
+### 👤 [swiper](https://github.com/nolimits4web/swiper)
+
+![](https://img.shields.io/github/stars/nolimits4web/swiper?style=flat-square&label=⭐) · 收录于 2 个活跃来源: sorrycc/awesome-javascript, vuejs/awesome-vue
+
+**审核:** Human Pick · **说明 / 审核:** 跨来源覆盖有限。
+
+docs The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
+
+**收录原因:** docs The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
+
+**证据记录:** [完整证据](../catalog/web.md#swiper-nolimits4web-swiper) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [Bit](https://github.com/teambit/bit)
+
+![](https://img.shields.io/github/stars/teambit/bit?style=flat-square&label=⭐) · 收录于 2 个活跃来源: sorrycc/awesome-javascript, vuejs/awesome-vue
+
+**审核:** Worth Trying · **说明 / 审核:** 跨来源覆盖有限。
+
+Manage and reuse vue components between projects. Easily isolate and share components from any project without changing its , organize curated collections and install in different projects.
+
+**收录原因:** Manage and reuse vue components between projects. Easily isolate and share components from any project without changing its , organize curated...
+
+**证据记录:** [完整证据](../catalog/web.md#bit-teambit-bit) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [schedule-x](https://github.com/schedule-x/schedule-x)
+
+![](https://img.shields.io/github/stars/schedule-x/schedule-x?style=flat-square&label=⭐) · 收录于 2 个活跃来源: sorrycc/awesome-javascript, vuejs/awesome-vue
+
+**审核:** Worth Trying · **说明 / 审核:** 跨来源覆盖有限。
+
+Material design event calendar and date picker components. Demo site: https://schedule-x.dev/
+
+**收录原因:** UI de calidad material design que ahorra semanas de trabajo visual en scheduling apps
+
+**证据记录:** [完整证据](../catalog/web.md#schedule-x-schedule-x-schedule-x) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [tsParticles](https://github.com/matteobruni/tsparticles)
+
+![](https://img.shields.io/github/stars/matteobruni/tsparticles?style=flat-square&label=⭐) · 收录于 2 个活跃来源: sorrycc/awesome-javascript, vuejs/awesome-vue
+
+**审核:** Worth Trying · **说明 / 审核:** 跨来源覆盖有限。
+
+A lightweight Javascript library to easily create highly configurable and interactive particle animations
+
+**收录原因:** A lightweight Javascript library to easily create highly configurable and interactive particle animations
+
+**证据记录:** [完整证据](../catalog/web.md#tsparticles-matteobruni-tsparticles) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [Vest](https://github.com/ealush/vest)
+
+![](https://img.shields.io/github/stars/ealush/vest?style=flat-square&label=⭐) · 收录于 2 个活跃来源: sorrycc/awesome-javascript, vuejs/awesome-vue
+
+**审核:** Worth Trying · **说明 / 审核:** 跨来源覆盖有限。
+
+Validations framework inspired by unit testing frameworks.
+
+**收录原因:** Sintaxis intuitiva para validaciones complejas
+
+[可复现示例](../GUIDE.md#vest)
+
+**证据记录:** [完整证据](../catalog/web.md#vest-ealush-vest) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -29,6 +105,20 @@ is a powerful data visualization javascript library.
 
 ---
 
+### [grpc](https://github.com/grpc/grpc)
+
+![](https://img.shields.io/github/stars/grpc/grpc?style=flat-square&label=⭐) · 收录于 2 个活跃来源: fffaraz/awesome-cpp, vinta/awesome-python
+
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
+
+Remote Procedure Calls (RPCs) provide a useful abstraction for building distributed applications and services. The libraries in this repository provide a concrete implementation of the gRPC protocol, layered over...
+
+**收录原因:** Performance superior a REST para cargas altas
+
+**证据记录:** [完整证据](../catalog/web.md#grpc-grpc-grpc) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [juspay/neurolink](https://github.com/juspay/neurolink)
 
 ![](https://img.shields.io/github/stars/juspay/neurolink?style=flat-square&label=⭐) · 收录于 2 个活跃来源: josephmisiti/awesome-machine-learning, punkpeye/awesome-mcp-servers
@@ -40,6 +130,20 @@ is a powerful data visualization javascript library.
 **收录原因:** Middleware guardrails incluido
 
 **证据记录:** [完整证据](../catalog/web.md#juspay-neurolink-juspay-neurolink) · [data/latest.json](../data/latest.json)
+
+---
+
+### [pydantic-ai](https://github.com/pydantic/pydantic-ai)
+
+![](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=flat-square&label=⭐) · 收录于 2 个活跃来源: vinta/awesome-python, punkpeye/awesome-mcp-servers
+
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
+
+A Python agent framework for building generative AI applications with structured schemas.
+
+**收录原因:** A Python agent framework for building generative AI applications with structured schemas.
+
+**证据记录:** [完整证据](../catalog/web.md#pydantic-ai-pydantic-pydantic-ai) · [data/latest.json](../data/latest.json)
 
 ---
 

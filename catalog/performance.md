@@ -2,7 +2,7 @@
 
 [All domains](../TOOLS.md) · [README](../README.md) · [Machine-readable evidence](../data/latest.json)
 
-Generated: 2026-11-21 · Tool entries: 1
+Generated: 2026-11-22 · Tool entries: 3
 
 ### <a id="bencher-bencher"></a>[Bencher](https://bencher.dev)
 
@@ -16,7 +16,41 @@ Generated: 2026-11-21 · Tool entries: 1
 
 **Source traces:**
 
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 87 · observed 2026-11-16
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-11-16
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 91 · observed 2026-11-23
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-11-23
+
+---
+
+### <a id="cython-cython-cython"></a>[Cython](https://github.com/cython/cython)
+
+**Label:** AI Candidate · **Domain:** Performance · **Signal:** Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python
+
+**Summary:** Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It makes writing C extensions for Python as easy as Python itself. [Apache]
+
+**Why it is here:** Cython is an optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex). It...
+
+**Caveat:** Candidate still needs human review before endorsement.
+
+**Source traces:**
+
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 91 · observed 2026-11-23
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 86 · observed 2026-11-23
+
+---
+
+### <a id="numba-numba-numba"></a>[Numba](https://github.com/numba/numba)
+
+**Label:** AI Candidate · **Domain:** Performance · **Signal:** Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+
+**Summary:** A compiler for Python array and numerical functions.
+
+**Why it is here:** A compiler for Python array and numerical functions.
+
+**Caveat:** Candidate still needs human review before endorsement.
+
+**Source traces:**
+
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 90 · observed 2026-11-16
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 86 · observed 2026-11-23
 
 ---

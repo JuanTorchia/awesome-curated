@@ -2,9 +2,85 @@
 
 <p><sub>← [Voltar ao main](../README.pt-BR.md)</sub></p>
 
-**0 Revisado por humano · 0 Padrões populares · 5 Candidatos de IA · 0 Estado Needs Review**
+**5 Revisado por humano · 0 Padrões populares · 7 Candidatos de IA · 0 Estado Needs Review**
 
 Catálogo consultável: [TOOLS.md](../TOOLS.md) · Snapshot de evidências: [data/latest.json](../data/latest.json)
+
+---
+
+## Seleção revisada por pessoas
+
+Ferramentas com avaliação humana e limites visíveis.
+
+### 👤 [swiper](https://github.com/nolimits4web/swiper)
+
+![](https://img.shields.io/github/stars/nolimits4web/swiper?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: sorrycc/awesome-javascript, vuejs/awesome-vue
+
+**Revisão:** Human Pick · **Nota / revisão:** A cobertura entre fontes é limitada.
+
+docs The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
+
+**Por que foi incluída:** docs The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
+
+**Registro de evidências:** [Evidência completa](../catalog/web.md#swiper-nolimits4web-swiper) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [Bit](https://github.com/teambit/bit)
+
+![](https://img.shields.io/github/stars/teambit/bit?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: sorrycc/awesome-javascript, vuejs/awesome-vue
+
+**Revisão:** Worth Trying · **Nota / revisão:** A cobertura entre fontes é limitada.
+
+Manage and reuse vue components between projects. Easily isolate and share components from any project without changing its , organize curated collections and install in different projects.
+
+**Por que foi incluída:** Manage and reuse vue components between projects. Easily isolate and share components from any project without changing its , organize curated...
+
+**Registro de evidências:** [Evidência completa](../catalog/web.md#bit-teambit-bit) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [schedule-x](https://github.com/schedule-x/schedule-x)
+
+![](https://img.shields.io/github/stars/schedule-x/schedule-x?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: sorrycc/awesome-javascript, vuejs/awesome-vue
+
+**Revisão:** Worth Trying · **Nota / revisão:** A cobertura entre fontes é limitada.
+
+Material design event calendar and date picker components. Demo site: https://schedule-x.dev/
+
+**Por que foi incluída:** UI de calidad material design que ahorra semanas de trabajo visual en scheduling apps
+
+**Registro de evidências:** [Evidência completa](../catalog/web.md#schedule-x-schedule-x-schedule-x) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [tsParticles](https://github.com/matteobruni/tsparticles)
+
+![](https://img.shields.io/github/stars/matteobruni/tsparticles?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: sorrycc/awesome-javascript, vuejs/awesome-vue
+
+**Revisão:** Worth Trying · **Nota / revisão:** A cobertura entre fontes é limitada.
+
+A lightweight Javascript library to easily create highly configurable and interactive particle animations
+
+**Por que foi incluída:** A lightweight Javascript library to easily create highly configurable and interactive particle animations
+
+**Registro de evidências:** [Evidência completa](../catalog/web.md#tsparticles-matteobruni-tsparticles) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [Vest](https://github.com/ealush/vest)
+
+![](https://img.shields.io/github/stars/ealush/vest?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: sorrycc/awesome-javascript, vuejs/awesome-vue
+
+**Revisão:** Worth Trying · **Nota / revisão:** A cobertura entre fontes é limitada.
+
+Validations framework inspired by unit testing frameworks.
+
+**Por que foi incluída:** Sintaxis intuitiva para validaciones complejas
+
+[Exemplo reproduzível](../GUIDE.md#vest)
+
+**Registro de evidências:** [Evidência completa](../catalog/web.md#vest-ealush-vest) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -29,6 +105,20 @@ is a powerful data visualization javascript library.
 
 ---
 
+### [grpc](https://github.com/grpc/grpc)
+
+![](https://img.shields.io/github/stars/grpc/grpc?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: fffaraz/awesome-cpp, vinta/awesome-python
+
+**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
+
+Remote Procedure Calls (RPCs) provide a useful abstraction for building distributed applications and services. The libraries in this repository provide a concrete implementation of the gRPC protocol, layered over...
+
+**Por que foi incluída:** Performance superior a REST para cargas altas
+
+**Registro de evidências:** [Evidência completa](../catalog/web.md#grpc-grpc-grpc) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [juspay/neurolink](https://github.com/juspay/neurolink)
 
 ![](https://img.shields.io/github/stars/juspay/neurolink?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: josephmisiti/awesome-machine-learning, punkpeye/awesome-mcp-servers
@@ -40,6 +130,20 @@ is a powerful data visualization javascript library.
 **Por que foi incluída:** Middleware guardrails incluido
 
 **Registro de evidências:** [Evidência completa](../catalog/web.md#juspay-neurolink-juspay-neurolink) · [data/latest.json](../data/latest.json)
+
+---
+
+### [pydantic-ai](https://github.com/pydantic/pydantic-ai)
+
+![](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: vinta/awesome-python, punkpeye/awesome-mcp-servers
+
+**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
+
+A Python agent framework for building generative AI applications with structured schemas.
+
+**Por que foi incluída:** A Python agent framework for building generative AI applications with structured schemas.
+
+**Registro de evidências:** [Evidência completa](../catalog/web.md#pydantic-ai-pydantic-pydantic-ai) · [data/latest.json](../data/latest.json)
 
 ---
 

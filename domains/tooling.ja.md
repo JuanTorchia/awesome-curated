@@ -2,7 +2,7 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**1 人間レビュー済み · 1 広く使われる標準ツール · 31 AI 候補 · 0 Needs Review 状態**
+**1 人間レビュー済み · 1 広く使われる標準ツール · 41 AI 候補 · 0 Needs Review 状態**
 
 確認できるカタログ: [TOOLS.md](../TOOLS.md) · 根拠のスナップショット: [data/latest.json](../data/latest.json)
 
@@ -35,7 +35,7 @@ Cross-platform application to monitor your network traffic with ease
 
 ### [Pytorch](https://github.com/pytorch/pytorch)
 
-![](https://img.shields.io/github/stars/pytorch/pytorch?style=flat-square&label=⭐) · 掲載元 4 件のアクティブなソース: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, fffaraz/awesome-cpp +1 more
+![](https://img.shields.io/github/stars/pytorch/pytorch?style=flat-square&label=⭐) · 🔥 **掲載元 5 件のアクティブなソース: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, fffaraz/awesome-cpp +2 more**
 
 **レビュー:** Popular Standard · **注記 / レビュー:** 有用な標準ツールであり、新発見や新興ツールとしての推薦ではありません。
 
@@ -54,6 +54,20 @@ PyTorch is an open source machine learning library based on the Torch library, u
 
 複数ソースの条件を満たす自動候補です。人間による推薦ではありません。
 
+### [Bokeh](https://github.com/bokeh/bokeh)
+
+![](https://img.shields.io/github/stars/bokeh/bokeh?style=flat-square&label=⭐) · 掲載元 3 件のアクティブなソース: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
+
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
+
+Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation of data in modern web browsers.
+
+**掲載理由:** Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation of data in modern web browsers.
+
+**根拠の記録:** [根拠の詳細](../catalog/tooling.md#bokeh-bokeh-bokeh) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [LightGBM](https://github.com/microsoft/lightgbm)
 
 ![](https://img.shields.io/github/stars/microsoft/lightgbm?style=flat-square&label=⭐) · 掲載元 3 件のアクティブなソース: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
@@ -65,6 +79,20 @@ Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, G
 **掲載理由:** Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for...
 
 **根拠の記録:** [根拠の詳細](../catalog/tooling.md#lightgbm-microsoft-lightgbm) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Transformers](https://github.com/huggingface/transformers)
+
+![](https://img.shields.io/github/stars/huggingface/transformers?style=flat-square&label=⭐) · 掲載元 3 件のアクティブなソース: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
+
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
+
+Huggingface's library of state-of-the-art pretrained models for Natural Language Processing (NLP).
+
+**掲載理由:** Modelos preentrenados para 100+ tareas
+
+**根拠の記録:** [根拠の詳細](../catalog/tooling.md#transformers-huggingface-transformers) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -82,6 +110,20 @@ SIMD-accelerated string search, sort, edit distances, alignments, and generators
 
 ---
 
+### [astral-sh/ruff](https://github.com/astral-sh/ruff)
+
+![](https://img.shields.io/github/stars/astral-sh/ruff?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: rust-unofficial/awesome-rust, vinta/awesome-python
+
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
+
+An extremely fast Python linter and code formatter
+
+**掲載理由:** An extremely fast Python linter and code formatter
+
+**根拠の記録:** [根拠の詳細](../catalog/tooling.md#astral-sh-ruff-astral-sh-ruff) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [Bitwarden](https://bitwarden.com)
 
 掲載元 2 件のアクティブなソース: jivoi/awesome-osint, jaywcjlove/awesome-mac
@@ -93,20 +135,6 @@ Open source password management tool for Mac OS, iOS and browsers. (https://gith
 **掲載理由:** Self-hosting option + cloud oficial
 
 **根拠の記録:** [根拠の詳細](../catalog/tooling.md#bitwarden-bitwarden) · [data/latest.json](../data/latest.json)
-
----
-
-### [Bokeh](https://github.com/bokeh/bokeh)
-
-![](https://img.shields.io/github/stars/bokeh/bokeh?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
-
-**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
-
-Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation of data in modern web browsers.
-
-**掲載理由:** Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation of data in modern web browsers.
-
-**根拠の記録:** [根拠の詳細](../catalog/tooling.md#bokeh-bokeh-bokeh) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -292,49 +320,21 @@ Powerful IDE for JVM languages. (Free for Students)
 
 ---
 
-### [Kaldi](https://github.com/kaldi-asr/kaldi)
+### [Jupyter Notebooks](https://github.com/jupyter/notebook)
 
-![](https://img.shields.io/github/stars/kaldi-asr/kaldi?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning
-
-**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
-
-Kaldi is a toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. Kaldi is intended for use by speech recognition researchers.
-
-**掲載理由:** Componentes modulares y bien documentados para researchers
-
-**根拠の記録:** [根拠の詳細](../catalog/tooling.md#kaldi-kaldi-asr-kaldi) · [data/latest.json](../data/latest.json)
-
----
-
-### [Kubernetes](https://github.com/kubernetes/kubernetes)
-
-![](https://img.shields.io/github/stars/kubernetes/kubernetes?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: veggiemonk/awesome-docker, avelino/awesome-go
+![](https://img.shields.io/github/stars/jupyter/notebook?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: EthicalML/awesome-production-machine-learning, vinta/awesome-python
 
 **レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
 
-Production-Grade Container Scheduling and Management System
+Web interface python sandbox environments for reproducible development
 
-**掲載理由:** Production-Grade Container Scheduling and Management System
+**掲載理由:** Web interface python sandbox environments for reproducible development
 
-**根拠の記録:** [根拠の詳細](../catalog/tooling.md#kubernetes-kubernetes-kubernetes) · [data/latest.json](../data/latest.json)
-
----
-
-### [lstags](https://github.com/ivanilves/lstags)
-
-![](https://img.shields.io/github/stars/ivanilves/lstags?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: veggiemonk/awesome-docker, avelino/awesome-go
-
-**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
-
-Tool and API to sync Docker images across different registries.
-
-**掲載理由:** Simple, hace una cosa bien
-
-**根拠の記録:** [根拠の詳細](../catalog/tooling.md#lstags-ivanilves-lstags) · [data/latest.json](../data/latest.json)
+**根拠の記録:** [根拠の詳細](../catalog/tooling.md#jupyter-notebooks-jupyter-notebook) · [data/latest.json](../data/latest.json)
 
 ---
 
-_Showing 20 of 31. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+_Showing 20 of 41. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

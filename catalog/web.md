@@ -2,7 +2,94 @@
 
 [All domains](../TOOLS.md) · [README](../README.md) · [Machine-readable evidence](../data/latest.json)
 
-Generated: 2026-11-21 · Tool entries: 5
+Generated: 2026-11-22 · Tool entries: 12
+
+### <a id="swiper-nolimits4web-swiper"></a>[swiper](https://github.com/nolimits4web/swiper)
+
+**Label:** Human Pick · **Domain:** Web · **Signal:** Found in 2 active sources: sorrycc/awesome-javascript, vuejs/awesome-vue
+
+**Summary:** docs The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
+
+**Why it is here:** docs The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
+
+**Caveat:** Cross-source coverage is limited.
+
+**Source traces:**
+
+- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) · BENCH · quality 89 · observed 2026-11-23
+- [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) · BENCH · quality 88 · observed 2026-11-09
+
+---
+
+### <a id="bit-teambit-bit"></a>[Bit](https://github.com/teambit/bit)
+
+**Label:** Worth Trying · **Domain:** Web · **Signal:** Found in 2 active sources: sorrycc/awesome-javascript, vuejs/awesome-vue
+
+**Summary:** Manage and reuse vue components between projects. Easily isolate and share components from any project without changing its , organize curated collections and install in different projects.
+
+**Why it is here:** Manage and reuse vue components between projects. Easily isolate and share components from any project without changing its , organize curated...
+
+**Caveat:** Cross-source coverage is limited.
+
+**Source traces:**
+
+- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) · BENCH · quality 89 · observed 2026-11-23
+- [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) · BENCH · quality 88 · observed 2026-11-09
+
+---
+
+### <a id="schedule-x-schedule-x-schedule-x"></a>[schedule-x](https://github.com/schedule-x/schedule-x)
+
+**Label:** Worth Trying · **Domain:** Web · **Signal:** Found in 2 active sources: sorrycc/awesome-javascript, vuejs/awesome-vue
+
+**Summary:** Material design event calendar and date picker components. Demo site: https://schedule-x.dev/
+
+**Why it is here:** UI de calidad material design que ahorra semanas de trabajo visual en scheduling apps
+
+**Caveat:** Cross-source coverage is limited.
+
+**Source traces:**
+
+- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) · BENCH · quality 89 · observed 2026-11-23
+- [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) · BENCH · quality 88 · observed 2026-11-09
+
+---
+
+### <a id="tsparticles-matteobruni-tsparticles"></a>[tsParticles](https://github.com/matteobruni/tsparticles)
+
+**Label:** Worth Trying · **Domain:** Web · **Signal:** Found in 2 active sources: sorrycc/awesome-javascript, vuejs/awesome-vue
+
+**Summary:** A lightweight Javascript library to easily create highly configurable and interactive particle animations
+
+**Why it is here:** A lightweight Javascript library to easily create highly configurable and interactive particle animations
+
+**Caveat:** Cross-source coverage is limited.
+
+**Source traces:**
+
+- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) · BENCH · quality 89 · observed 2026-11-23
+- [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) · BENCH · quality 88 · observed 2026-11-09
+
+---
+
+### <a id="vest-ealush-vest"></a>[Vest](https://github.com/ealush/vest)
+
+**Label:** Worth Trying · **Domain:** Web · **Signal:** Found in 2 active sources: sorrycc/awesome-javascript, vuejs/awesome-vue
+
+**Summary:** Validations framework inspired by unit testing frameworks.
+
+**Why it is here:** Sintaxis intuitiva para validaciones complejas
+
+**Caveat:** Cross-source coverage is limited.
+
+[Reproducible example](../GUIDE.md#vest)
+
+**Source traces:**
+
+- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) · BENCH · quality 89 · observed 2026-11-23
+- [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) · BENCH · quality 88 · observed 2026-11-09
+
+---
 
 ### <a id="d3js-d3js"></a>[D3js](https://d3js.org)
 
@@ -16,8 +103,25 @@ Generated: 2026-11-21 · Tool entries: 5
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 94 · observed 2026-11-16
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · BENCH · quality 90 · observed 2026-11-16
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-11-23
+- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · BENCH · quality 87 · observed 2026-11-23
+
+---
+
+### <a id="grpc-grpc-grpc"></a>[grpc](https://github.com/grpc/grpc)
+
+**Label:** AI Candidate · **Domain:** Web · **Signal:** Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python
+
+**Summary:** Remote Procedure Calls (RPCs) provide a useful abstraction for building distributed applications and services. The libraries in this repository provide a concrete implementation of the gRPC protocol, layered over...
+
+**Why it is here:** Performance superior a REST para cargas altas
+
+**Caveat:** Candidate still needs human review before endorsement.
+
+**Source traces:**
+
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 91 · observed 2026-11-23
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 86 · observed 2026-11-23
 
 ---
 
@@ -33,8 +137,25 @@ Generated: 2026-11-21 · Tool entries: 5
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 91 · observed 2026-11-16
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · BENCH · quality 91 · observed 2026-11-09
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · ROSTER · quality 89 · observed 2026-11-23
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 97 · observed 2026-11-23
+
+---
+
+### <a id="pydantic-ai-pydantic-pydantic-ai"></a>[pydantic-ai](https://github.com/pydantic/pydantic-ai)
+
+**Label:** AI Candidate · **Domain:** Web · **Signal:** Found in 2 active sources: vinta/awesome-python, punkpeye/awesome-mcp-servers
+
+**Summary:** A Python agent framework for building generative AI applications with structured schemas.
+
+**Why it is here:** A Python agent framework for building generative AI applications with structured schemas.
+
+**Caveat:** Candidate still needs human review before endorsement.
+
+**Source traces:**
+
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) · BENCH · quality 86 · observed 2026-11-23
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 97 · observed 2026-11-23
 
 ---
 
@@ -50,8 +171,8 @@ Generated: 2026-11-21 · Tool entries: 5
 
 **Source traces:**
 
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-11-16
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 87 · observed 2026-11-16
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-11-23
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 91 · observed 2026-11-23
 
 ---
 
@@ -67,8 +188,8 @@ Generated: 2026-11-21 · Tool entries: 5
 
 **Source traces:**
 
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-11-16
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · BENCH · quality 91 · observed 2026-11-09
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-11-23
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · ROSTER · quality 97 · observed 2026-11-23
 
 ---
 
@@ -84,7 +205,7 @@ Generated: 2026-11-21 · Tool entries: 5
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 94 · observed 2026-11-16
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-11-16
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-11-23
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-11-23
 
 ---

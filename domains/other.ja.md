@@ -2,7 +2,7 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**0 人間レビュー済み · 0 広く使われる標準ツール · 7 AI 候補 · 0 Needs Review 状態**
+**0 人間レビュー済み · 0 広く使われる標準ツール · 8 AI 候補 · 0 Needs Review 状態**
 
 確認できるカタログ: [TOOLS.md](../TOOLS.md) · 根拠のスナップショット: [data/latest.json](../data/latest.json)
 
@@ -40,6 +40,20 @@ Python Rust A high-performance algorithmic trading platform and event-driven bac
 **掲載理由:** Python Rust A high-performance algorithmic trading platform and event-driven backtester.
 
 **根拠の記録:** [根拠の詳細](../catalog/other.md#nautilustrader-nautechsystems-nautilus-trader) · [data/latest.json](../data/latest.json)
+
+---
+
+### [OpenLayers3](https://openlayers.org)
+
+掲載元 2 件のアクティブなソース: jivoi/awesome-osint, sorrycc/awesome-javascript
+
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
+
+A high-performance, feature-packed library for all your mapping needs.
+
+**掲載理由:** Performance en datasets geoespaciales grandes
+
+**根拠の記録:** [根拠の詳細](../catalog/other.md#openlayers3-openlayers) · [data/latest.json](../data/latest.json)
 
 ---
 

@@ -2,7 +2,7 @@
 
 <p><sub>← [Back to main](../README.md)</sub></p>
 
-**0 Human reviewed · 0 Popular standards · 7 AI candidates · 0 Needs Review**
+**0 Human reviewed · 0 Popular standards · 8 AI candidates · 0 Needs Review**
 
 Inspectable catalog: [TOOLS.md](../TOOLS.md) · Evidence snapshot: [data/latest.json](../data/latest.json)
 
@@ -40,6 +40,20 @@ Python Rust A high-performance algorithmic trading platform and event-driven bac
 **Why it is here:** Python Rust A high-performance algorithmic trading platform and event-driven backtester.
 
 **Evidence record:** [Full evidence](../catalog/other.md#nautilustrader-nautechsystems-nautilus-trader) · [data/latest.json](../data/latest.json)
+
+---
+
+### [OpenLayers3](https://openlayers.org)
+
+Found in 2 active sources: jivoi/awesome-osint, sorrycc/awesome-javascript
+
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
+
+A high-performance, feature-packed library for all your mapping needs.
+
+**Why it is here:** Performance en datasets geoespaciales grandes
+
+**Evidence record:** [Full evidence](../catalog/other.md#openlayers3-openlayers) · [data/latest.json](../data/latest.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Awesome Curated Sources
 
-Generated: 2026-11-21
+Generated: 2026-11-22
 
 Source count: 20
 
@@ -12,26 +12,26 @@ ROSTER and BENCH sources are both tracked. Their status and score describe sourc
 
 | Source | Status | Quality / 100 | Last commit | Last scraped |
 |---|---|---|---|---|
-| [avelino/awesome-go](https://github.com/avelino/awesome-go) | ROSTER | 100 | 2026-11-16 | 2026-11-16 |
-| [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | ROSTER | 100 | 2026-11-16 | 2026-11-16 |
-| [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | ROSTER | 100 | 2026-11-15 | 2026-11-16 |
-| [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) | ROSTER | 100 | 2026-11-16 | 2026-11-16 |
-| [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) | ROSTER | 100 | 2026-11-16 | 2026-11-16 |
-| [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) | ROSTER | 99 | 2026-11-16 | 2026-11-16 |
+| [avelino/awesome-go](https://github.com/avelino/awesome-go) | ROSTER | 100 | 2026-11-22 | 2026-11-23 |
+| [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | ROSTER | 100 | 2026-11-23 | 2026-11-23 |
+| [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) | ROSTER | 100 | 2026-11-23 | 2026-11-23 |
+| [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) | ROSTER | 100 | 2026-11-20 | 2026-11-23 |
+| [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) | ROSTER | 99 | 2026-11-23 | 2026-11-23 |
 | [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) | ROSTER | 99 | 2026-11-01 | 2026-11-02 |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | ROSTER | 97 | 2026-11-15 | 2026-11-16 |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | ROSTER | 97 | 2026-11-22 | 2026-11-23 |
+| [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) | ROSTER | 97 | 2026-11-22 | 2026-11-23 |
 | [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) | ROSTER | 97 | 2026-07-04 | 2026-07-06 |
-| [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) | ROSTER | 95 | 2026-11-12 | 2026-11-16 |
-| [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) | ROSTER | 94 | 2026-11-12 | 2026-11-16 |
-| [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) | ROSTER | 94 | 2026-11-12 | 2026-11-16 |
-| [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) | ROSTER | 94 | 2026-11-11 | 2026-11-16 |
-| [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) | ROSTER | 94 | 2026-11-03 | 2026-11-09 |
-| [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) | ROSTER | 92 | 2026-11-14 | 2026-11-16 |
-| [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | BENCH | 91 | 2026-11-12 | 2026-11-16 |
-| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | BENCH | 91 | 2026-11-06 | 2026-11-09 |
-| [academic/awesome-datascience](https://github.com/academic/awesome-datascience) | BENCH | 90 | 2026-11-10 | 2026-11-16 |
-| [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | BENCH | 88 | 2026-11-16 | 2026-11-16 |
-| [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) | BENCH | 87 | 2026-11-11 | 2026-11-16 |
+| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | ROSTER | 97 | 2026-11-23 | 2026-11-23 |
+| [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) | ROSTER | 94 | 2026-11-18 | 2026-11-23 |
+| [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | ROSTER | 94 | 2026-11-15 | 2026-11-16 |
+| [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) | ROSTER | 91 | 2026-11-20 | 2026-11-23 |
+| [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) | ROSTER | 90 | 2026-11-12 | 2026-11-16 |
+| [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | ROSTER | 89 | 2026-11-21 | 2026-11-23 |
+| [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) | BENCH | 89 | 2026-11-22 | 2026-11-23 |
+| [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) | BENCH | 88 | 2026-11-03 | 2026-11-09 |
+| [academic/awesome-datascience](https://github.com/academic/awesome-datascience) | BENCH | 87 | 2026-11-20 | 2026-11-23 |
+| [acvnace/awesome-vibe-coding-resources](https://github.com/acvnace/awesome-vibe-coding-resources) | BENCH | 87 | 2026-11-22 | 2026-11-23 |
+| [vinta/awesome-python](https://github.com/vinta/awesome-python) | BENCH | 86 | 2026-11-17 | 2026-11-23 |
 
 ## Selection criteria
 

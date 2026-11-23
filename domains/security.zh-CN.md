@@ -2,7 +2,7 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**1 人工审核 · 0 常用标准工具 · 8 AI 候选工具 · 0 Needs Review 状态**
+**1 人工审核 · 0 常用标准工具 · 9 AI 候选工具 · 0 Needs Review 状态**
 
 可查阅目录: [TOOLS.md](../TOOLS.md) · 证据快照: [data/latest.json](../data/latest.json)
 
@@ -14,7 +14,7 @@
 
 ### 👤 [themis](https://github.com/cossacklabs/themis)
 
-![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · 收录于 4 个活跃来源: matteocrippa/awesome-swift, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +1 more
+![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · 收录于 3 个活跃来源: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go
 
 **审核:** Human Pick · **说明 / 审核:** 涉及安全的工具；用于生产前需评估适用性与维护状况。
 
@@ -114,6 +114,20 @@ LLM red teaming and evaluation framework for testing jailbreaks, prompt injectio
 **收录原因:** Local execution sin cloud dependency
 
 **证据记录:** [完整证据](../catalog/security.md#safedep-vet-safedep-vet) · [data/latest.json](../data/latest.json)
+
+---
+
+### [sherlock](https://github.com/sherlock-project/sherlock)
+
+![](https://img.shields.io/github/stars/sherlock-project/sherlock?style=flat-square&label=⭐) · 收录于 2 个活跃来源: jivoi/awesome-osint, vinta/awesome-python
+
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
+
+Hunt down social media accounts by username across social networks.
+
+**收录原因:** Soporta muchas plataformas
+
+**证据记录:** [完整证据](../catalog/security.md#sherlock-sherlock-project-sherlock) · [data/latest.json](../data/latest.json)
 
 ---
 

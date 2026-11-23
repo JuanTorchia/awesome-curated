@@ -2,7 +2,7 @@
 
 [All domains](../TOOLS.md) · [README](../README.md) · [Machine-readable evidence](../data/latest.json)
 
-Generated: 2026-11-21 · Tool entries: 7
+Generated: 2026-11-22 · Tool entries: 8
 
 ### <a id="ai-job-displacement-tracker-noahaust2-ai-displacement-tracker"></a>[AI Job Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker)
 
@@ -16,8 +16,8 @@ Generated: 2026-11-21 · Tool entries: 7
 
 **Source traces:**
 
-- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 95 · observed 2026-11-16
-- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · BENCH · quality 90 · observed 2026-11-16
+- [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) · ROSTER · quality 90 · observed 2026-11-16
+- [academic/awesome-datascience](https://github.com/academic/awesome-datascience) · BENCH · quality 87 · observed 2026-11-23
 
 ---
 
@@ -33,8 +33,25 @@ Generated: 2026-11-21 · Tool entries: 7
 
 **Source traces:**
 
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-11-16
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-11-16
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-11-23
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) · ROSTER · quality 99 · observed 2026-11-23
+
+---
+
+### <a id="openlayers3-openlayers"></a>[OpenLayers3](https://openlayers.org)
+
+**Label:** AI Candidate · **Domain:** Other · **Signal:** Found in 2 active sources: jivoi/awesome-osint, sorrycc/awesome-javascript
+
+**Summary:** A high-performance, feature-packed library for all your mapping needs.
+
+**Why it is here:** Performance en datasets geoespaciales grandes
+
+**Caveat:** Candidate still needs human review before endorsement.
+
+**Source traces:**
+
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-11-23
+- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) · BENCH · quality 89 · observed 2026-11-23
 
 ---
 
@@ -50,8 +67,8 @@ Generated: 2026-11-21 · Tool entries: 7
 
 **Source traces:**
 
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-11-16
-- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · BENCH · quality 87 · observed 2026-11-16
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-11-23
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) · ROSTER · quality 91 · observed 2026-11-23
 
 ---
 
@@ -67,8 +84,8 @@ Generated: 2026-11-21 · Tool entries: 7
 
 **Source traces:**
 
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 94 · observed 2026-11-16
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-11-16
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-11-23
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) · ROSTER · quality 100 · observed 2026-11-23
 
 ---
 
@@ -84,8 +101,8 @@ Generated: 2026-11-21 · Tool entries: 7
 
 **Source traces:**
 
-- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · BENCH · quality 91 · observed 2026-11-16
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-11-16
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) · ROSTER · quality 89 · observed 2026-11-23
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) · ROSTER · quality 100 · observed 2026-11-23
 
 ---
 
@@ -101,8 +118,8 @@ Generated: 2026-11-21 · Tool entries: 7
 
 **Source traces:**
 
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-11-16
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 94 · observed 2026-11-16
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-11-23
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-11-23
 
 ---
 
@@ -118,7 +135,7 @@ Generated: 2026-11-21 · Tool entries: 7
 
 **Source traces:**
 
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-11-16
-- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 94 · observed 2026-11-16
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) · ROSTER · quality 100 · observed 2026-11-23
+- [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) · ROSTER · quality 97 · observed 2026-11-23
 
 ---

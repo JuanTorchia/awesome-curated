@@ -2,7 +2,7 @@
 
 <p><sub>← [Voltar ao main](../README.pt-BR.md)</sub></p>
 
-**1 Revisado por humano · 0 Padrões populares · 8 Candidatos de IA · 0 Estado Needs Review**
+**1 Revisado por humano · 0 Padrões populares · 9 Candidatos de IA · 0 Estado Needs Review**
 
 Catálogo consultável: [TOOLS.md](../TOOLS.md) · Snapshot de evidências: [data/latest.json](../data/latest.json)
 
@@ -14,7 +14,7 @@ Ferramentas com avaliação humana e limites visíveis.
 
 ### 👤 [themis](https://github.com/cossacklabs/themis)
 
-![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · Encontrada em 4 fontes ativas: matteocrippa/awesome-swift, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +1 more
+![](https://img.shields.io/github/stars/cossacklabs/themis?style=flat-square&label=⭐) · Encontrada em 3 fontes ativas: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go
 
 **Revisão:** Human Pick · **Nota / revisão:** Ferramenta sensível à segurança: avalie adequação e manutenção antes do uso em produção.
 
@@ -114,6 +114,20 @@ LLM red teaming and evaluation framework for testing jailbreaks, prompt injectio
 **Por que foi incluída:** Local execution sin cloud dependency
 
 **Registro de evidências:** [Evidência completa](../catalog/security.md#safedep-vet-safedep-vet) · [data/latest.json](../data/latest.json)
+
+---
+
+### [sherlock](https://github.com/sherlock-project/sherlock)
+
+![](https://img.shields.io/github/stars/sherlock-project/sherlock?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: jivoi/awesome-osint, vinta/awesome-python
+
+**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
+
+Hunt down social media accounts by username across social networks.
+
+**Por que foi incluída:** Soporta muchas plataformas
+
+**Registro de evidências:** [Evidência completa](../catalog/security.md#sherlock-sherlock-project-sherlock) · [data/latest.json](../data/latest.json)
 
 ---
 

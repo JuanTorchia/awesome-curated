@@ -2,7 +2,7 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**0 人間レビュー済み · 0 広く使われる標準ツール · 9 AI 候補 · 0 Needs Review 状態**
+**0 人間レビュー済み · 0 広く使われる標準ツール · 11 AI 候補 · 0 Needs Review 状態**
 
 確認できるカタログ: [TOOLS.md](../TOOLS.md) · 根拠のスナップショット: [data/latest.json](../data/latest.json)
 
@@ -85,6 +85,20 @@ A interface for reading and filtering the logs output of Docker and Podman conta
 
 ---
 
+### [Luigi](https://github.com/spotify/luigi)
+
+![](https://img.shields.io/github/stars/spotify/luigi?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
+
+Luigi is a Python module that helps you build complex pipelines of batch jobs, handling dependency resolution, workflow management, visualisation, etc..
+
+**掲載理由:** Luigi is a Python module that helps you build complex pipelines of batch jobs, handling dependency resolution, workflow management, visualisation,...
+
+**根拠の記録:** [根拠の詳細](../catalog/devops.md#luigi-spotify-luigi) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [MyIP](https://github.com/jason5ng32/myip)
 
 ![](https://img.shields.io/github/stars/jason5ng32/myip?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: veggiemonk/awesome-docker, vuejs/awesome-vue
@@ -138,6 +152,20 @@ A simple tui to view & control docker containers. Written in Rust, making heavy 
 **掲載理由:** A simple tui to view & control docker containers. Written in Rust, making heavy use of ratatui & Bollard,.
 
 **根拠の記録:** [根拠の詳細](../catalog/devops.md#oxker-mrjackwills-oxker) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Prefect Core](https://github.com/prefecthq/prefect)
+
+![](https://img.shields.io/github/stars/prefecthq/prefect?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
+
+Workflow management system that makes it easy to take your data pipelines and add semantics like retries, logging, dynamic mapping, caching, failure notifications, and more.
+
+**掲載理由:** Async-first, mejor performance en workflows I/O bound
+
+**根拠の記録:** [根拠の詳細](../catalog/devops.md#prefect-core-prefecthq-prefect) · [data/latest.json](../data/latest.json)
 
 ---
 

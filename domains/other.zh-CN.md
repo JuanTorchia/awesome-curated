@@ -2,7 +2,7 @@
 
 <p><sub>← [返回主页](../README.zh-CN.md)</sub></p>
 
-**0 人工审核 · 0 常用标准工具 · 7 AI 候选工具 · 0 Needs Review 状态**
+**0 人工审核 · 0 常用标准工具 · 8 AI 候选工具 · 0 Needs Review 状态**
 
 可查阅目录: [TOOLS.md](../TOOLS.md) · 证据快照: [data/latest.json](../data/latest.json)
 
@@ -40,6 +40,20 @@ Python Rust A high-performance algorithmic trading platform and event-driven bac
 **收录原因:** Python Rust A high-performance algorithmic trading platform and event-driven backtester.
 
 **证据记录:** [完整证据](../catalog/other.md#nautilustrader-nautechsystems-nautilus-trader) · [data/latest.json](../data/latest.json)
+
+---
+
+### [OpenLayers3](https://openlayers.org)
+
+收录于 2 个活跃来源: jivoi/awesome-osint, sorrycc/awesome-javascript
+
+**审核:** AI Candidate · **说明 / 审核:** 候选工具仍需人工审核后才能获得认可。
+
+A high-performance, feature-packed library for all your mapping needs.
+
+**收录原因:** Performance en datasets geoespaciales grandes
+
+**证据记录:** [完整证据](../catalog/other.md#openlayers3-openlayers) · [data/latest.json](../data/latest.json)
 
 ---
 

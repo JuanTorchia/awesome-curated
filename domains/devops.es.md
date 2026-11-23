@@ -2,7 +2,7 @@
 
 <p><sub>← [Volver al main](../README.es.md)</sub></p>
 
-**0 Revisado por humano · 0 Estándares populares · 9 Candidatos de IA · 0 Estado Needs Review**
+**0 Revisado por humano · 0 Estándares populares · 11 Candidatos de IA · 0 Estado Needs Review**
 
 Catálogo consultable: [TOOLS.md](../TOOLS.md) · Snapshot de evidencia: [data/latest.json](../data/latest.json)
 
@@ -85,6 +85,20 @@ A interface for reading and filtering the logs output of Docker and Podman conta
 
 ---
 
+### [Luigi](https://github.com/spotify/luigi)
+
+![](https://img.shields.io/github/stars/spotify/luigi?style=flat-square&label=⭐) · Encontrada en 2 fuentes activas: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+
+**Revisión:** AI Candidate · **Nota / revisión:** El candidato todavía necesita revisión humana antes de recibir aval.
+
+Luigi is a Python module that helps you build complex pipelines of batch jobs, handling dependency resolution, workflow management, visualisation, etc..
+
+**Por qué está incluida:** Luigi is a Python module that helps you build complex pipelines of batch jobs, handling dependency resolution, workflow management, visualisation,...
+
+**Registro de evidencia:** [Evidencia completa](../catalog/devops.md#luigi-spotify-luigi) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [MyIP](https://github.com/jason5ng32/myip)
 
 ![](https://img.shields.io/github/stars/jason5ng32/myip?style=flat-square&label=⭐) · Encontrada en 2 fuentes activas: veggiemonk/awesome-docker, vuejs/awesome-vue
@@ -138,6 +152,20 @@ A simple tui to view & control docker containers. Written in Rust, making heavy 
 **Por qué está incluida:** A simple tui to view & control docker containers. Written in Rust, making heavy use of ratatui & Bollard,.
 
 **Registro de evidencia:** [Evidencia completa](../catalog/devops.md#oxker-mrjackwills-oxker) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Prefect Core](https://github.com/prefecthq/prefect)
+
+![](https://img.shields.io/github/stars/prefecthq/prefect?style=flat-square&label=⭐) · Encontrada en 2 fuentes activas: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+
+**Revisión:** AI Candidate · **Nota / revisión:** El candidato todavía necesita revisión humana antes de recibir aval.
+
+Workflow management system that makes it easy to take your data pipelines and add semantics like retries, logging, dynamic mapping, caching, failure notifications, and more.
+
+**Por qué está incluida:** Async-first, mejor performance en workflows I/O bound
+
+**Registro de evidencia:** [Evidencia completa](../catalog/devops.md#prefect-core-prefecthq-prefect) · [data/latest.json](../data/latest.json)
 
 ---
 

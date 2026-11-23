@@ -2,9 +2,85 @@
 
 <p><sub>← [Volver al main](../README.es.md)</sub></p>
 
-**0 Revisado por humano · 0 Estándares populares · 5 Candidatos de IA · 0 Estado Needs Review**
+**5 Revisado por humano · 0 Estándares populares · 7 Candidatos de IA · 0 Estado Needs Review**
 
 Catálogo consultable: [TOOLS.md](../TOOLS.md) · Snapshot de evidencia: [data/latest.json](../data/latest.json)
+
+---
+
+## Selección revisada por humano
+
+Herramientas con veredicto humano y límites visibles.
+
+### 👤 [swiper](https://github.com/nolimits4web/swiper)
+
+![](https://img.shields.io/github/stars/nolimits4web/swiper?style=flat-square&label=⭐) · Encontrada en 2 fuentes activas: sorrycc/awesome-javascript, vuejs/awesome-vue
+
+**Revisión:** Human Pick · **Nota / revisión:** La cobertura entre fuentes es limitada.
+
+docs The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
+
+**Por qué está incluida:** docs The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
+
+**Registro de evidencia:** [Evidencia completa](../catalog/web.md#swiper-nolimits4web-swiper) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [Bit](https://github.com/teambit/bit)
+
+![](https://img.shields.io/github/stars/teambit/bit?style=flat-square&label=⭐) · Encontrada en 2 fuentes activas: sorrycc/awesome-javascript, vuejs/awesome-vue
+
+**Revisión:** Worth Trying · **Nota / revisión:** La cobertura entre fuentes es limitada.
+
+Manage and reuse vue components between projects. Easily isolate and share components from any project without changing its , organize curated collections and install in different projects.
+
+**Por qué está incluida:** Manage and reuse vue components between projects. Easily isolate and share components from any project without changing its , organize curated...
+
+**Registro de evidencia:** [Evidencia completa](../catalog/web.md#bit-teambit-bit) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [schedule-x](https://github.com/schedule-x/schedule-x)
+
+![](https://img.shields.io/github/stars/schedule-x/schedule-x?style=flat-square&label=⭐) · Encontrada en 2 fuentes activas: sorrycc/awesome-javascript, vuejs/awesome-vue
+
+**Revisión:** Worth Trying · **Nota / revisión:** La cobertura entre fuentes es limitada.
+
+Material design event calendar and date picker components. Demo site: https://schedule-x.dev/
+
+**Por qué está incluida:** UI de calidad material design que ahorra semanas de trabajo visual en scheduling apps
+
+**Registro de evidencia:** [Evidencia completa](../catalog/web.md#schedule-x-schedule-x-schedule-x) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [tsParticles](https://github.com/matteobruni/tsparticles)
+
+![](https://img.shields.io/github/stars/matteobruni/tsparticles?style=flat-square&label=⭐) · Encontrada en 2 fuentes activas: sorrycc/awesome-javascript, vuejs/awesome-vue
+
+**Revisión:** Worth Trying · **Nota / revisión:** La cobertura entre fuentes es limitada.
+
+A lightweight Javascript library to easily create highly configurable and interactive particle animations
+
+**Por qué está incluida:** A lightweight Javascript library to easily create highly configurable and interactive particle animations
+
+**Registro de evidencia:** [Evidencia completa](../catalog/web.md#tsparticles-matteobruni-tsparticles) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [Vest](https://github.com/ealush/vest)
+
+![](https://img.shields.io/github/stars/ealush/vest?style=flat-square&label=⭐) · Encontrada en 2 fuentes activas: sorrycc/awesome-javascript, vuejs/awesome-vue
+
+**Revisión:** Worth Trying · **Nota / revisión:** La cobertura entre fuentes es limitada.
+
+Validations framework inspired by unit testing frameworks.
+
+**Por qué está incluida:** Sintaxis intuitiva para validaciones complejas
+
+[Ejemplo reproducible](../GUIDE.es.md#vest)
+
+**Registro de evidencia:** [Evidencia completa](../catalog/web.md#vest-ealush-vest) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -29,6 +105,20 @@ is a powerful data visualization javascript library.
 
 ---
 
+### [grpc](https://github.com/grpc/grpc)
+
+![](https://img.shields.io/github/stars/grpc/grpc?style=flat-square&label=⭐) · Encontrada en 2 fuentes activas: fffaraz/awesome-cpp, vinta/awesome-python
+
+**Revisión:** AI Candidate · **Nota / revisión:** El candidato todavía necesita revisión humana antes de recibir aval.
+
+Remote Procedure Calls (RPCs) provide a useful abstraction for building distributed applications and services. The libraries in this repository provide a concrete implementation of the gRPC protocol, layered over...
+
+**Por qué está incluida:** Performance superior a REST para cargas altas
+
+**Registro de evidencia:** [Evidencia completa](../catalog/web.md#grpc-grpc-grpc) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [juspay/neurolink](https://github.com/juspay/neurolink)
 
 ![](https://img.shields.io/github/stars/juspay/neurolink?style=flat-square&label=⭐) · Encontrada en 2 fuentes activas: josephmisiti/awesome-machine-learning, punkpeye/awesome-mcp-servers
@@ -40,6 +130,20 @@ is a powerful data visualization javascript library.
 **Por qué está incluida:** Middleware guardrails incluido
 
 **Registro de evidencia:** [Evidencia completa](../catalog/web.md#juspay-neurolink-juspay-neurolink) · [data/latest.json](../data/latest.json)
+
+---
+
+### [pydantic-ai](https://github.com/pydantic/pydantic-ai)
+
+![](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=flat-square&label=⭐) · Encontrada en 2 fuentes activas: vinta/awesome-python, punkpeye/awesome-mcp-servers
+
+**Revisión:** AI Candidate · **Nota / revisión:** El candidato todavía necesita revisión humana antes de recibir aval.
+
+A Python agent framework for building generative AI applications with structured schemas.
+
+**Por qué está incluida:** A Python agent framework for building generative AI applications with structured schemas.
+
+**Registro de evidencia:** [Evidencia completa](../catalog/web.md#pydantic-ai-pydantic-pydantic-ai) · [data/latest.json](../data/latest.json)
 
 ---
 

@@ -2,9 +2,85 @@
 
 <p><sub>← [メインに戻る](../README.ja.md)</sub></p>
 
-**0 人間レビュー済み · 0 広く使われる標準ツール · 5 AI 候補 · 0 Needs Review 状態**
+**5 人間レビュー済み · 0 広く使われる標準ツール · 7 AI 候補 · 0 Needs Review 状態**
 
 確認できるカタログ: [TOOLS.md](../TOOLS.md) · 根拠のスナップショット: [data/latest.json](../data/latest.json)
+
+---
+
+## 人間レビュー済みの選定
+
+人間による判定と制約が明示されたツールです。
+
+### 👤 [swiper](https://github.com/nolimits4web/swiper)
+
+![](https://img.shields.io/github/stars/nolimits4web/swiper?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: sorrycc/awesome-javascript, vuejs/awesome-vue
+
+**レビュー:** Human Pick · **注記 / レビュー:** 複数ソースによる掲載の範囲は限定的です。
+
+docs The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
+
+**掲載理由:** docs The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
+
+**根拠の記録:** [根拠の詳細](../catalog/web.md#swiper-nolimits4web-swiper) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [Bit](https://github.com/teambit/bit)
+
+![](https://img.shields.io/github/stars/teambit/bit?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: sorrycc/awesome-javascript, vuejs/awesome-vue
+
+**レビュー:** Worth Trying · **注記 / レビュー:** 複数ソースによる掲載の範囲は限定的です。
+
+Manage and reuse vue components between projects. Easily isolate and share components from any project without changing its , organize curated collections and install in different projects.
+
+**掲載理由:** Manage and reuse vue components between projects. Easily isolate and share components from any project without changing its , organize curated...
+
+**根拠の記録:** [根拠の詳細](../catalog/web.md#bit-teambit-bit) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [schedule-x](https://github.com/schedule-x/schedule-x)
+
+![](https://img.shields.io/github/stars/schedule-x/schedule-x?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: sorrycc/awesome-javascript, vuejs/awesome-vue
+
+**レビュー:** Worth Trying · **注記 / レビュー:** 複数ソースによる掲載の範囲は限定的です。
+
+Material design event calendar and date picker components. Demo site: https://schedule-x.dev/
+
+**掲載理由:** UI de calidad material design que ahorra semanas de trabajo visual en scheduling apps
+
+**根拠の記録:** [根拠の詳細](../catalog/web.md#schedule-x-schedule-x-schedule-x) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [tsParticles](https://github.com/matteobruni/tsparticles)
+
+![](https://img.shields.io/github/stars/matteobruni/tsparticles?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: sorrycc/awesome-javascript, vuejs/awesome-vue
+
+**レビュー:** Worth Trying · **注記 / レビュー:** 複数ソースによる掲載の範囲は限定的です。
+
+A lightweight Javascript library to easily create highly configurable and interactive particle animations
+
+**掲載理由:** A lightweight Javascript library to easily create highly configurable and interactive particle animations
+
+**根拠の記録:** [根拠の詳細](../catalog/web.md#tsparticles-matteobruni-tsparticles) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [Vest](https://github.com/ealush/vest)
+
+![](https://img.shields.io/github/stars/ealush/vest?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: sorrycc/awesome-javascript, vuejs/awesome-vue
+
+**レビュー:** Worth Trying · **注記 / レビュー:** 複数ソースによる掲載の範囲は限定的です。
+
+Validations framework inspired by unit testing frameworks.
+
+**掲載理由:** Sintaxis intuitiva para validaciones complejas
+
+[再現できるサンプル](../GUIDE.md#vest)
+
+**根拠の記録:** [根拠の詳細](../catalog/web.md#vest-ealush-vest) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -29,6 +105,20 @@ is a powerful data visualization javascript library.
 
 ---
 
+### [grpc](https://github.com/grpc/grpc)
+
+![](https://img.shields.io/github/stars/grpc/grpc?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: fffaraz/awesome-cpp, vinta/awesome-python
+
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
+
+Remote Procedure Calls (RPCs) provide a useful abstraction for building distributed applications and services. The libraries in this repository provide a concrete implementation of the gRPC protocol, layered over...
+
+**掲載理由:** Performance superior a REST para cargas altas
+
+**根拠の記録:** [根拠の詳細](../catalog/web.md#grpc-grpc-grpc) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [juspay/neurolink](https://github.com/juspay/neurolink)
 
 ![](https://img.shields.io/github/stars/juspay/neurolink?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: josephmisiti/awesome-machine-learning, punkpeye/awesome-mcp-servers
@@ -40,6 +130,20 @@ is a powerful data visualization javascript library.
 **掲載理由:** Middleware guardrails incluido
 
 **根拠の記録:** [根拠の詳細](../catalog/web.md#juspay-neurolink-juspay-neurolink) · [data/latest.json](../data/latest.json)
+
+---
+
+### [pydantic-ai](https://github.com/pydantic/pydantic-ai)
+
+![](https://img.shields.io/github/stars/pydantic/pydantic-ai?style=flat-square&label=⭐) · 掲載元 2 件のアクティブなソース: vinta/awesome-python, punkpeye/awesome-mcp-servers
+
+**レビュー:** AI Candidate · **注記 / レビュー:** 推薦には、候補に対する人間のレビューが必要です。
+
+A Python agent framework for building generative AI applications with structured schemas.
+
+**掲載理由:** A Python agent framework for building generative AI applications with structured schemas.
+
+**根拠の記録:** [根拠の詳細](../catalog/web.md#pydantic-ai-pydantic-pydantic-ai) · [data/latest.json](../data/latest.json)
 
 ---
 

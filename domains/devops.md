@@ -2,7 +2,7 @@
 
 <p><sub>← [Back to main](../README.md)</sub></p>
 
-**0 Human reviewed · 0 Popular standards · 9 AI candidates · 0 Needs Review**
+**0 Human reviewed · 0 Popular standards · 11 AI candidates · 0 Needs Review**
 
 Inspectable catalog: [TOOLS.md](../TOOLS.md) · Evidence snapshot: [data/latest.json](../data/latest.json)
 
@@ -85,6 +85,20 @@ A interface for reading and filtering the logs output of Docker and Podman conta
 
 ---
 
+### [Luigi](https://github.com/spotify/luigi)
+
+![](https://img.shields.io/github/stars/spotify/luigi?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
+
+Luigi is a Python module that helps you build complex pipelines of batch jobs, handling dependency resolution, workflow management, visualisation, etc..
+
+**Why it is here:** Luigi is a Python module that helps you build complex pipelines of batch jobs, handling dependency resolution, workflow management, visualisation,...
+
+**Evidence record:** [Full evidence](../catalog/devops.md#luigi-spotify-luigi) · [data/latest.json](../data/latest.json)
+
+---
+
 ### [MyIP](https://github.com/jason5ng32/myip)
 
 ![](https://img.shields.io/github/stars/jason5ng32/myip?style=flat-square&label=⭐) · Found in 2 active sources: veggiemonk/awesome-docker, vuejs/awesome-vue
@@ -138,6 +152,20 @@ A simple tui to view & control docker containers. Written in Rust, making heavy 
 **Why it is here:** A simple tui to view & control docker containers. Written in Rust, making heavy use of ratatui & Bollard,.
 
 **Evidence record:** [Full evidence](../catalog/devops.md#oxker-mrjackwills-oxker) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Prefect Core](https://github.com/prefecthq/prefect)
+
+![](https://img.shields.io/github/stars/prefecthq/prefect?style=flat-square&label=⭐) · Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+
+**Review:** AI Candidate · **Caveat / review:** Candidate still needs human review before endorsement.
+
+Workflow management system that makes it easy to take your data pipelines and add semantics like retries, logging, dynamic mapping, caching, failure notifications, and more.
+
+**Why it is here:** Async-first, mejor performance en workflows I/O bound
+
+**Evidence record:** [Full evidence](../catalog/devops.md#prefect-core-prefecthq-prefect) · [data/latest.json](../data/latest.json)
 
 ---
 

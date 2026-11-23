@@ -2,7 +2,7 @@
 
 <p><sub>← [Voltar ao main](../README.pt-BR.md)</sub></p>
 
-**4 Revisado por humano · 0 Padrões populares · 62 Candidatos de IA · 0 Estado Needs Review**
+**6 Revisado por humano · 0 Padrões populares · 70 Candidatos de IA · 0 Estado Needs Review**
 
 Catálogo consultável: [TOOLS.md](../TOOLS.md) · Snapshot de evidências: [data/latest.json](../data/latest.json)
 
@@ -14,7 +14,7 @@ Ferramentas com avaliação humana e limites visíveis.
 
 ### 👤 [BayesWitnesses/m2cgen](https://github.com/bayeswitnesses/m2cgen)
 
-![](https://img.shields.io/github/stars/bayeswitnesses/m2cgen?style=flat-square&label=⭐) · Encontrada em 4 fontes ativas: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more
+![](https://img.shields.io/github/stars/bayeswitnesses/m2cgen?style=flat-square&label=⭐) · 🔥 **Encontrada em 5 fontes ativas: sorrycc/awesome-javascript, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +2 more**
 
 **Revisão:** Human Pick · **Nota / revisão:** Mais adequada a equipes com um fluxo compatível de ML ou dados.
 
@@ -70,6 +70,34 @@ Candle is a minimalist ML framework for Rust with a focus on performance (includ
 
 ---
 
+### 👤 [Chroma](https://github.com/chroma-core/chroma)
+
+![](https://img.shields.io/github/stars/chroma-core/chroma?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+
+**Revisão:** Worth Trying · **Nota / revisão:** A cobertura entre fontes é limitada.
+
+Chroma is an open-source embedding database.
+
+**Por que foi incluída:** Worth trying: approachable open-source embedding database for prototyping retrieval and agent memory workflows.
+
+**Registro de evidências:** [Evidência completa](../catalog/ai-ml.md#chroma-chroma-core-chroma) · [data/latest.json](../data/latest.json)
+
+---
+
+### 👤 [Mem0](https://github.com/mem0ai/mem0)
+
+![](https://img.shields.io/github/stars/mem0ai/mem0?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: EthicalML/awesome-production-machine-learning, vinta/awesome-python
+
+**Revisão:** Worth Trying · **Nota / revisão:** A cobertura entre fontes é limitada.
+
+Mem0 enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions.
+
+**Por que foi incluída:** Worth trying: practical memory layer for AI assistants and agents, with enough cross-source signal to review beyond hype.
+
+**Registro de evidências:** [Evidência completa](../catalog/ai-ml.md#mem0-mem0ai-mem0) · [data/latest.json](../data/latest.json)
+
+---
+
 
 ---
 
@@ -79,7 +107,7 @@ Candidatos automatizados com cobertura suficiente entre fontes; ainda sem recome
 
 ### [XGBoost](https://github.com/dmlc/xgboost)
 
-![](https://img.shields.io/github/stars/dmlc/xgboost?style=flat-square&label=⭐) · Encontrada em 4 fontes ativas: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, fffaraz/awesome-cpp +1 more
+![](https://img.shields.io/github/stars/dmlc/xgboost?style=flat-square&label=⭐) · 🔥 **Encontrada em 5 fontes ativas: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, fffaraz/awesome-cpp +2 more**
 
 **Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
 
@@ -93,7 +121,7 @@ XGBoost is an optimized distributed gradient boosting library designed to be hig
 
 ### [CatBoost](https://github.com/catboost/catboost)
 
-![](https://img.shields.io/github/stars/catboost/catboost?style=flat-square&label=⭐) · Encontrada em 3 fontes ativas: academic/awesome-datascience, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning
+![](https://img.shields.io/github/stars/catboost/catboost?style=flat-square&label=⭐) · Encontrada em 4 fontes ativas: academic/awesome-datascience, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more
 
 **Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
 
@@ -116,6 +144,76 @@ Deepchecks is a holistic open-source solution for all of your AI & ML validation
 **Por que foi incluída:** Cobertura integral: data checks, model validation, drift detection en un solo lugar
 
 **Registro de evidências:** [Evidência completa](../catalog/ai-ml.md#deepchecks-deepchecks-deepchecks) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Feature Engine](https://github.com/feature-engine/feature_engine)
+
+![](https://img.shields.io/github/stars/feature-engine/feature_engine?style=flat-square&label=⭐) · Encontrada em 3 fontes ativas: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
+
+**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
+
+Feature-engine is a Python library that contains several transformers to engineer features for use in machine learning models.
+
+**Por que foi incluída:** Feature-engine is a Python library that contains several transformers to engineer features for use in machine learning models.
+
+**Registro de evidências:** [Evidência completa](../catalog/ai-ml.md#feature-engine-feature-engine-feature-engine) · [data/latest.json](../data/latest.json)
+
+---
+
+### [H2O-3](https://github.com/h2oai/h2o-3)
+
+![](https://img.shields.io/github/stars/h2oai/h2o-3?style=flat-square&label=⭐) · Encontrada em 3 fontes ativas: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
+
+**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
+
+Fast scalable Machine Learning platform for smarter applications: Deep Learning, Gradient Boosting & XGBoost, Random Forest, Generalized Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked...
+
+**Por que foi incluída:** AutoML robusto que compite con modelos manuales
+
+**Registro de evidências:** [Evidência completa](../catalog/ai-ml.md#h2o-3-h2oai-h2o-3) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Scikit-Image](https://github.com/scikit-image/scikit-image)
+
+![](https://img.shields.io/github/stars/scikit-image/scikit-image?style=flat-square&label=⭐) · Encontrada em 3 fontes ativas: academic/awesome-datascience, josephmisiti/awesome-machine-learning, vinta/awesome-python
+
+**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
+
+A collection of algorithms for image processing in Python.
+
+**Por que foi incluída:** API Pythonica y bien documentada vs OpenCV C++
+
+**Registro de evidências:** [Evidência completa](../catalog/ai-ml.md#scikit-image-scikit-image-scikit-image) · [data/latest.json](../data/latest.json)
+
+---
+
+### [SpaCy](https://github.com/explosion/spacy)
+
+![](https://img.shields.io/github/stars/explosion/spacy?style=flat-square&label=⭐) · Encontrada em 3 fontes ativas: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
+
+**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
+
+spaCy is a library for advanced Natural Language Processing in Python and Cython.
+
+**Por que foi incluída:** Modelos pre-entrenados optimizados y muy documentados
+
+**Registro de evidências:** [Evidência completa](../catalog/ai-ml.md#spacy-explosion-spacy) · [data/latest.json](../data/latest.json)
+
+---
+
+### [Stable Baselines](https://github.com/dlr-rm/stable-baselines3)
+
+![](https://img.shields.io/github/stars/dlr-rm/stable-baselines3?style=flat-square&label=⭐) · Encontrada em 3 fontes ativas: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
+
+**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
+
+A fork of OpenAI Baselines, implementations of reinforcement learning algorithms.
+
+**Por que foi incluída:** APIs consistentes y bien testeadas
+
+**Registro de evidências:** [Evidência completa](../catalog/ai-ml.md#stable-baselines-dlr-rm-stable-baselines3) · [data/latest.json](../data/latest.json)
 
 ---
 
@@ -245,20 +343,6 @@ A library for doing continuous integration with ML projects. Use GitHub Actions 
 
 ---
 
-### [dagger/container-use](https://github.com/dagger/container-use)
-
-![](https://img.shields.io/github/stars/dagger/container-use?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: hesreallyhim/awesome-claude-code, punkpeye/awesome-mcp-servers
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-🏎️ 🏠 🐧 🍎 🪟 Containerized environments for coding agents. Multiple agents can work independently, isolated in fresh containers and git branches. No conflicts, many experiments. Full execution history, terminal...
-
-**Por que foi incluída:** Aislamiento real sin conflictos between agents
-
-**Registro de evidências:** [Evidência completa](../catalog/ai-ml.md#dagger-container-use-dagger-container-use) · [data/latest.json](../data/latest.json)
-
----
-
 ### [DEAP](https://github.com/deap/deap)
 
 ![](https://img.shields.io/github/stars/deap/deap?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
@@ -301,63 +385,7 @@ Detectron2 is Facebook AI Research's next generation library that provides state
 
 ---
 
-### [Determined](https://github.com/determined-ai/determined)
-
-![](https://img.shields.io/github/stars/determined-ai/determined?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-Deep learning training platform with integrated support for distributed training, hyperparameter tuning, and model management (supports Tensorflow and Pytorch).
-
-**Por que foi incluída:** Model registry y experiment tracking built-in
-
-**Registro de evidências:** [Evidência completa](../catalog/ai-ml.md#determined-determined-ai-determined) · [data/latest.json](../data/latest.json)
-
----
-
-### [Dlib](https://github.com/davisking/dlib)
-
-![](https://img.shields.io/github/stars/davisking/dlib?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: academic/awesome-datascience, fffaraz/awesome-cpp
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-zap: A toolkit for making real world machine learning and data analysis applications in C++. [Boost]
-
-**Por que foi incluída:** Performance comparable a TensorFlow en operaciones complejas
-
-**Registro de evidências:** [Evidência completa](../catalog/ai-ml.md#dlib-davisking-dlib) · [data/latest.json](../data/latest.json)
-
----
-
-### [Evidently](https://github.com/evidentlyai/evidently)
-
-![](https://img.shields.io/github/stars/evidentlyai/evidently?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-Evidently is an open-source framework to evaluate, test and monitor ML and LLM-powered systems.
-
-**Por que foi incluída:** Reportes interactivos muy claros sobre data drift
-
-**Registro de evidências:** [Evidência completa](../catalog/ai-ml.md#evidently-evidentlyai-evidently) · [data/latest.json](../data/latest.json)
-
----
-
-### [Faiss](https://github.com/facebookresearch/faiss)
-
-![](https://img.shields.io/github/stars/facebookresearch/faiss?style=flat-square&label=⭐) · Encontrada em 2 fontes ativas: EthicalML/awesome-production-machine-learning, fffaraz/awesome-cpp
-
-**Revisão:** AI Candidate · **Nota / revisão:** O candidato ainda precisa de revisão humana antes de ser recomendado.
-
-Faiss is a library for efficient similarity search and clustering of dense vectors.
-
-**Por que foi incluída:** Faiss is a library for efficient similarity search and clustering of dense vectors.
-
-**Registro de evidências:** [Evidência completa](../catalog/ai-ml.md#faiss-facebookresearch-faiss) · [data/latest.json](../data/latest.json)
-
----
-
-_Showing 20 of 62. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
+_Showing 20 of 70. See every entry in [TOOLS.md](../TOOLS.md) or [data/latest.json](../data/latest.json)._
 
 
 ---

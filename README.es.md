@@ -6,9 +6,9 @@ Leer en otros idiomas: [🇬🇧 English](README.md) · **🇪🇸 Español** ·
 
 ### Un **radar semanal** de herramientas dev encontradas en repos `awesome-*` activos, con trazas de fuentes y una selección revisada por humano.
 
-[![Human Picks](https://img.shields.io/badge/Human_Picks-5-gold?style=for-the-badge)](#human-reviewed-picks)
+[![Human Picks](https://img.shields.io/badge/Human_Picks-6-gold?style=for-the-badge)](#human-reviewed-picks)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](SOURCES.md)
-[![Updated](https://img.shields.io/badge/Updated-2026-11-21-green?style=for-the-badge)](UPDATE-SUMMARY.md)
+[![Updated](https://img.shields.io/badge/Updated-2026-11-22-green?style=for-the-badge)](UPDATE-SUMMARY.md)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -20,6 +20,7 @@ Leer en otros idiomas: [🇬🇧 English](README.md) · **🇪🇸 Español** ·
 
 | Tarea | Herramienta | Probala |
 |---|---|---|
+| Validar un formulario | [Vest](https://github.com/ealush/vest) · Worth Trying | [Probala](GUIDE.es.md#vest) |
 | Inspeccionar un modelo | [Netron](https://github.com/lutzroeder/netron) · Human Pick | [Probala](GUIDE.es.md#netron) |
 
 [Ejemplos reproducibles](GUIDE.es.md) · Inglés / español · versiones fijas, datos de prueba, resultados y límites. Las pruebas automatizadas no cambian los veredictos.
@@ -32,9 +33,9 @@ Leer en otros idiomas: [🇬🇧 English](README.md) · **🇪🇸 Español** ·
 
 ### Snapshot de confianza
 
-- **Última actualización generada**: 2026-11-21
+- **Última actualización generada**: 2026-11-22
 - **fuentes activas**: 20
-- **Human Picks**: 5
+- **Human Picks**: 6
 - **Metodología**: [METHODOLOGY.md](METHODOLOGY.md)
 - **Fuentes rastreadas**: [SOURCES.md](SOURCES.md)
 - **Resumen de cambios**: [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md)
@@ -42,14 +43,14 @@ Leer en otros idiomas: [🇬🇧 English](README.md) · **🇪🇸 Español** ·
 - **Catálogo consultable**: [TOOLS.md](TOOLS.md)
 - **Estándares populares**: 1
 - **Estado Needs Review (revisar trazas)**: 0
-- **AI Candidates pendientes de aval humano**: 148
+- **AI Candidates pendientes de aval humano**: 190
 - Los candidatos no tienen el aval de Juan. Consultá el catálogo y las páginas por dominio.
 
 ---
 
 ## 🗺️ Encontrá tu stack
 
-[🌐 **Web** · 5](domains/web.es.md) · [🤖 **IA y ML** · 66](domains/ai-ml.es.md) · [🛠️ **DevOps** · 9](domains/devops.es.md) · [📱 **Mobile** · 1](domains/mobile.es.md) · [💾 **Datos y Bases** · 25](domains/data.es.md) · [🔐 **Seguridad y Cripto** · 9](domains/security.es.md) · [⚡ **Performance** · 1](domains/performance.es.md) · [🧰 **Herramientas Dev** · 33](domains/tooling.es.md) · [🎨 **Otros** · 7](domains/other.es.md)
+[🌐 **Web** · 12](domains/web.es.md) · [🤖 **IA y ML** · 76](domains/ai-ml.es.md) · [🛠️ **DevOps** · 11](domains/devops.es.md) · [📱 **Mobile** · 1](domains/mobile.es.md) · [💾 **Datos y Bases** · 41](domains/data.es.md) · [🔐 **Seguridad y Cripto** · 10](domains/security.es.md) · [⚡ **Performance** · 3](domains/performance.es.md) · [🧰 **Herramientas Dev** · 43](domains/tooling.es.md) · [🎨 **Otros** · 8](domains/other.es.md)
 
 ---
 
@@ -68,7 +69,7 @@ Herramientas revisadas por humano y las tareas que ayudan a resolver.
 
 <!-- pick:evidence -->
 
-**Evidencia:** Encontrada en 4 fuentes activas: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more · [trazas](data/latest.json)
+**Evidencia:** Encontrada en 5 fuentes activas: sorrycc/awesome-javascript, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +2 more · [trazas](data/latest.json)
 
 <!-- pick:review -->
 
@@ -77,24 +78,6 @@ Herramientas revisadas por humano y las tareas que ayudan a resolver.
 <!-- pick:caveat -->
 
 **Nota / revisión:** Más adecuada para equipos con un flujo de ML o datos compatible.
-
-### 👤 [themis](https://github.com/cossacklabs/themis)
-
-<!-- pick:rationale -->
-
-**Por qué importa:** API de alto nivel sobre primitivas criptográficas para evitar partir de componentes básicos.
-
-<!-- pick:evidence -->
-
-**Evidencia:** Encontrada en 4 fuentes activas: matteocrippa/awesome-swift, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +1 more · [trazas](data/latest.json)
-
-<!-- pick:review -->
-
-**Revisión:** Human Pick
-
-<!-- pick:caveat -->
-
-**Nota / revisión:** Herramienta sensible para la seguridad: evaluá su adecuación y mantenimiento antes de usarla en producción.
 
 ### 👤 [Netron](https://github.com/lutzroeder/netron)
 
@@ -113,6 +96,24 @@ Herramientas revisadas por humano y las tareas que ayudan a resolver.
 <!-- pick:caveat -->
 
 **Nota / revisión:** Más adecuada para equipos con un flujo de ML o datos compatible.
+
+### 👤 [themis](https://github.com/cossacklabs/themis)
+
+<!-- pick:rationale -->
+
+**Por qué importa:** API de alto nivel sobre primitivas criptográficas para evitar partir de componentes básicos.
+
+<!-- pick:evidence -->
+
+**Evidencia:** Encontrada en 3 fuentes activas: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go · [trazas](data/latest.json)
+
+<!-- pick:review -->
+
+**Revisión:** Human Pick
+
+<!-- pick:caveat -->
+
+**Nota / revisión:** Herramienta sensible para la seguridad: evaluá su adecuación y mantenimiento antes de usarla en producción.
 
 ### 👤 [Bencher](https://bencher.dev)
 
@@ -153,15 +154,15 @@ Herramientas revisadas por humano y las tareas que ayudan a resolver.
 
 ---
 
-## Candidatos para revisión humana
+## Cambios del catálogo
 
-- [Deepchecks](https://github.com/deepchecks/deepchecks) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
-- [askbudi/roundtable](https://github.com/askbudi/roundtable) — AI & ML · Found in 2 active sources: vuejs/awesome-vue, punkpeye/awesome-mcp-servers
-- [DEAP](https://github.com/deap/deap) — AI & ML · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
-- [Gymnasium](https://github.com/farama-foundation/gymnasium) — AI & ML · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
-- [safedep/vet](https://github.com/safedep/vet) — Security & Crypto · Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers
+- [swiper](https://github.com/nolimits4web/swiper) — promoted · Human Pick: docs The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
+- [Bit](https://github.com/teambit/bit) — newly reviewed · Worth Trying: Manage and reuse vue components between projects. Easily isolate and share components from any project without changing its , organize curated...
+- [Chroma](https://github.com/chroma-core/chroma) — newly reviewed · Worth Trying: Worth trying: approachable open-source embedding database for prototyping retrieval and agent memory workflows.
+- [Mem0](https://github.com/mem0ai/mem0) — newly reviewed · Worth Trying: Worth trying: practical memory layer for AI assistants and agents, with enough cross-source signal to review beyond hype.
+- [schedule-x](https://github.com/schedule-x/schedule-x) — newly reviewed · Worth Trying: UI de calidad material design que ahorra semanas de trabajo visual en scheduling apps
 
-Los candidatos no son recomendaciones personales. Pedí revisión mediante GitHub issues o consultá la cola completa en TOOLS.md. [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) · [TOOLS.md](TOOLS.md)
+See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
 
 ---
 
@@ -171,21 +172,21 @@ Los candidatos no son recomendaciones personales. Pedí revisión mediante GitHu
 
 | Tool | Qué hace | Señal |
 |---|---|---|
-| [**D3js**](https://d3js.org) | is a powerful data visualization javascript library. | Found in 2 active sources: jivoi/awesome-osint, academic/awesome-datascience · AI Candidate |
-| [**juspay/neurolink**](https://github.com/juspay/neurolink) | 📇 ☁️ 🏠 🍎 🪟 🐧 Making enterprise AI infrastructure universally accessible. Edge-first platform unifying 12... | Found in 2 active sources: josephmisiti/awesome-machine-learning, punkpeye/awesome-mcp-servers · AI Candidate |
-| [**tencent/tquic**](https://github.com/tencent/tquic) | A high-performance, lightweight, and cross-platform QUIC library | Found in 2 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp · AI Candidate |
+| 👤 [**swiper**](https://github.com/nolimits4web/swiper) | docs The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior. | Found in 2 active sources: sorrycc/awesome-javascript, vuejs/awesome-vue · Human Pick |
+| 👤 [**Bit**](https://github.com/teambit/bit) | Manage and reuse vue components between projects. Easily isolate and share components from any project without... | Found in 2 active sources: sorrycc/awesome-javascript, vuejs/awesome-vue · Worth Trying |
+| 👤 [**schedule-x**](https://github.com/schedule-x/schedule-x) | Material design event calendar and date picker components. Demo site: https://schedule-x.dev/ | Found in 2 active sources: sorrycc/awesome-javascript, vuejs/awesome-vue · Worth Trying |
 
-📖 2 más en la [página detallada →](domains/web.es.md)
+📖 9 más en la [página detallada →](domains/web.es.md)
 
 ### 🤖 IA y ML
 
 | Tool | Qué hace | Señal |
 |---|---|---|
-| 👤 [**BayesWitnesses/m2cgen**](https://github.com/bayeswitnesses/m2cgen) | A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies. | Found in 4 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, josephmisiti/awesome-machine-learning +1 more · Human Pick |
+| 👤 [**BayesWitnesses/m2cgen**](https://github.com/bayeswitnesses/m2cgen) | A CLI tool to transpile trained classic machine learning models into a native Rust code with zero dependencies. | Found in 5 active sources: sorrycc/awesome-javascript, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +2 more · Human Pick |
 | 👤 [**Netron**](https://github.com/lutzroeder/netron) | Netron is a viewer for neural network, deep learning and machine learning models. | Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning · Human Pick |
 | 👤 [**Aim**](https://github.com/aimhubio/aim) | A super-easy way to record, search and compare AI experiments. | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning · Worth Trying |
 
-📖 63 más en la [página detallada →](domains/ai-ml.es.md)
+📖 73 más en la [página detallada →](domains/ai-ml.es.md)
 
 ### 🛠️ DevOps
 
@@ -195,7 +196,7 @@ Los candidatos no son recomendaciones personales. Pedí revisión mediante GitHu
 | [**docker-volume-backup**](https://github.com/offen/docker-volume-backup) | Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage. | Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go · AI Candidate |
 | [**Dragonfly**](https://github.com/dragonflyoss/dragonfly2) | Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best... | Found in 2 active sources: veggiemonk/awesome-docker, avelino/awesome-go · AI Candidate |
 
-📖 6 más en la [página detallada →](domains/devops.es.md)
+📖 8 más en la [página detallada →](domains/devops.es.md)
 
 ### 📱 Mobile
 
@@ -209,27 +210,29 @@ Los candidatos no son recomendaciones personales. Pedí revisión mediante GitHu
 
 | Tool | Qué hace | Señal |
 |---|---|---|
+| [**gradio**](https://github.com/gradio-app/gradio) | Quickly create and share demos of models by only writing Python. Debug models interactively in your browser, get... | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python · AI Candidate |
+| [**Streamlit**](https://github.com/streamlit/streamlit) | Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts. It... | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python · AI Candidate |
 | [**ajitpratap0/GoSQLX**](https://github.com/ajitpratap0/gosqlx) | 🏎️ ☁️ 🏠 7 SQL tools (validate, format, parse, lint, security scan, metadata extraction, full analysis) over... | Found in 2 active sources: avelino/awesome-go, punkpeye/awesome-mcp-servers · AI Candidate |
-| [**Bread Dataset Viewer**](https://github.com/bread-technologies/mle_vscode_extension) | A VS Code extension for viewing and exploring large machine learning datasets (CSV, JSON, Parquet, etc.) directly... | Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning · AI Candidate |
-| [**C3.js**](https://c3js.org) | customizable library based on D3.js for easy chart drawing. | Found in 2 active sources: academic/awesome-datascience, josephmisiti/awesome-machine-learning · AI Candidate |
 
-📖 22 más en la [página detallada →](domains/data.es.md)
+📖 38 más en la [página detallada →](domains/data.es.md)
 
 ### 🔐 Seguridad y Cripto
 
 | Tool | Qué hace | Señal |
 |---|---|---|
-| 👤 [**themis**](https://github.com/cossacklabs/themis) | High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and... | Found in 4 active sources: matteocrippa/awesome-swift, rust-unofficial/awesome-rust, fffaraz/awesome-cpp +1 more · Human Pick |
+| 👤 [**themis**](https://github.com/cossacklabs/themis) | High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and... | Found in 3 active sources: rust-unofficial/awesome-rust, fffaraz/awesome-cpp, avelino/awesome-go · Human Pick |
 | [**Brave**](https://brave.com) | Web browser with an emphasis on privacy and speed. (https://github.com/brave/brave-browser/) | Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac · AI Candidate |
 | [**LibreWolf**](https://librewolf.net) | A fork of Firefox, focused on privacy, security and freedom. (https://gitlab.com/librewolf-community) | Found in 2 active sources: jivoi/awesome-osint, jaywcjlove/awesome-mac · AI Candidate |
 
-📖 6 más en la [página detallada →](domains/security.es.md)
+📖 7 más en la [página detallada →](domains/security.es.md)
 
 ### ⚡ Performance
 
 | Tool | Qué hace | Señal |
 |---|---|---|
 | 👤 [**Bencher**](https://bencher.dev) | Suite of continuous benchmarking tools designed to catch performance regressions in CI. MIT/Apache-2.0 Rust | Found in 2 active sources: fffaraz/awesome-cpp, avelino/awesome-go · Human Pick |
+| [**Cython**](https://github.com/cython/cython) | Cython is an optimising static compiler for both the Python programming language and the extended Cython programming... | Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python · AI Candidate |
+| [**Numba**](https://github.com/numba/numba) | A compiler for Python array and numerical functions. | Found in 2 active sources: EthicalML/awesome-production-machine-learning, vinta/awesome-python · AI Candidate |
 
 📖 [Página completa del dominio →](domains/performance.es.md)
 
@@ -238,10 +241,10 @@ Los candidatos no son recomendaciones personales. Pedí revisión mediante GitHu
 | Tool | Qué hace | Señal |
 |---|---|---|
 | 👤 [**Sniffnet**](https://github.com/gyulyvgc/sniffnet) | Cross-platform application to monitor your network traffic with ease | Found in 2 active sources: rust-unofficial/awesome-rust, jaywcjlove/awesome-mac · Human Pick |
-| [**Pytorch**](https://github.com/pytorch/pytorch) | PyTorch is an open source machine learning library based on the Torch library, used for applications such as... | Found in 4 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, fffaraz/awesome-cpp +1 more · Popular Standard |
-| [**LightGBM**](https://github.com/microsoft/lightgbm) | Microsoft's fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on... | Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning · AI Candidate |
+| [**Pytorch**](https://github.com/pytorch/pytorch) | PyTorch is an open source machine learning library based on the Torch library, used for applications such as... | Found in 5 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, fffaraz/awesome-cpp +2 more · Popular Standard |
+| [**Bokeh**](https://github.com/bokeh/bokeh) | Bokeh is an interactive visualization library for Python that enables beautiful and meaningful visual presentation... | Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python · AI Candidate |
 
-📖 30 más en la [página detallada →](domains/tooling.es.md)
+📖 40 más en la [página detallada →](domains/tooling.es.md)
 
 ### 🎨 Otros
 
@@ -249,9 +252,9 @@ Los candidatos no son recomendaciones personales. Pedí revisión mediante GitHu
 |---|---|---|
 | [**AI Job Displacement Tracker**](https://github.com/noahaust2/ai-displacement-tracker) | Structured, source-backed dataset tracking 96 AI-attributed workforce reductions (457K workers affected, 13... | Found in 2 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience · AI Candidate |
 | [**nautilustrader**](https://github.com/nautechsystems/nautilus_trader) | Python Rust A high-performance algorithmic trading platform and event-driven backtester. | Found in 2 active sources: wilsonfreitas/awesome-quant, rust-unofficial/awesome-rust · AI Candidate |
-| [**QuantLib**](https://github.com/lballabio/quantlib) | The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance. | Found in 2 active sources: wilsonfreitas/awesome-quant, fffaraz/awesome-cpp · AI Candidate |
+| [**OpenLayers3**](https://openlayers.org) | A high-performance, feature-packed library for all your mapping needs. | Found in 2 active sources: jivoi/awesome-osint, sorrycc/awesome-javascript · AI Candidate |
 
-📖 4 más en la [página detallada →](domains/other.es.md)
+📖 5 más en la [página detallada →](domains/other.es.md)
 
 ---
 
