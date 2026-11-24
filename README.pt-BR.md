@@ -8,7 +8,7 @@ Ler em outros idiomas: [🇬🇧 English](README.md) · [🇪🇸 Español](READ
 
 [![Human Picks](https://img.shields.io/badge/Human_Picks-6-gold?style=for-the-badge)](#human-reviewed-picks)
 [![Sources](https://img.shields.io/badge/Sources-20-purple?style=for-the-badge)](SOURCES.md)
-[![Updated](https://img.shields.io/badge/Updated-2026-11-22-green?style=for-the-badge)](UPDATE-SUMMARY.md)
+[![Updated](https://img.shields.io/badge/Updated-2026-11-23-green?style=for-the-badge)](UPDATE-SUMMARY.md)
 [![Evidence](https://img.shields.io/badge/Evidence-public_snapshot-blue?style=for-the-badge)](data/latest.json)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -33,7 +33,7 @@ Algum exemplo foi útil? Dê uma estrela no [repo](https://github.com/JuanTorchi
 
 ### Snapshot de confiança
 
-- **Última atualização gerada**: 2026-11-22
+- **Última atualização gerada**: 2026-11-23
 - **fontes ativas**: 20
 - **Human Picks**: 6
 - **Metodologia**: [METHODOLOGY.md](METHODOLOGY.md)
@@ -154,15 +154,15 @@ Ferramentas revisadas por pessoas e as tarefas que ajudam a resolver.
 
 ---
 
-## Alterações do catálogo
+## Candidatos à revisão humana
 
-- [swiper](https://github.com/nolimits4web/swiper) — promoted · Human Pick: docs The most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior.
-- [Bit](https://github.com/teambit/bit) — newly reviewed · Worth Trying: Manage and reuse vue components between projects. Easily isolate and share components from any project without changing its , organize curated...
-- [Chroma](https://github.com/chroma-core/chroma) — newly reviewed · Worth Trying: Worth trying: approachable open-source embedding database for prototyping retrieval and agent memory workflows.
-- [Mem0](https://github.com/mem0ai/mem0) — newly reviewed · Worth Trying: Worth trying: practical memory layer for AI assistants and agents, with enough cross-source signal to review beyond hype.
-- [schedule-x](https://github.com/schedule-x/schedule-x) — newly reviewed · Worth Trying: UI de calidad material design que ahorra semanas de trabajo visual en scheduling apps
+- [Deepchecks](https://github.com/deepchecks/deepchecks) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, academic/awesome-datascience, josephmisiti/awesome-machine-learning
+- [Feature Engine](https://github.com/feature-engine/feature_engine) — AI & ML · Found in 3 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning, vinta/awesome-python
+- [askbudi/roundtable](https://github.com/askbudi/roundtable) — AI & ML · Found in 2 active sources: vuejs/awesome-vue, punkpeye/awesome-mcp-servers
+- [Cython](https://github.com/cython/cython) — Performance · Found in 2 active sources: fffaraz/awesome-cpp, vinta/awesome-python
+- [DEAP](https://github.com/deap/deap) — AI & ML · Found in 2 active sources: EthicalML/awesome-production-machine-learning, josephmisiti/awesome-machine-learning
 
-See the full update in [UPDATE-SUMMARY.md](UPDATE-SUMMARY.md).
+Candidatos não são recomendações pessoais. Peça uma revisão via GitHub issues ou consulte a fila completa em TOOLS.md. [GitHub issues](https://github.com/JuanTorchia/awesome-curated/issues/new/choose) · [TOOLS.md](TOOLS.md)
 
 ---
 
