@@ -2,7 +2,7 @@
 
 [All domains](../TOOLS.md) · [README](../README.md) · [Machine-readable evidence](../data/latest.json)
 
-Generated: 2026-11-23 · Tool entries: 12
+Generated: 2026-11-24 · Tool entries: 12
 
 ### <a id="swiper-nolimits4web-swiper"></a>[swiper](https://github.com/nolimits4web/swiper)
 
